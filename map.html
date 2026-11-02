@@ -2,9 +2,9 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;color:#fff;font-weight:700;font-size:11px;text-align:center;line-height:22px;width:22px;height:22px;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>92 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>88 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
-var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "international": "#616161"}; var STOPS=[
+var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
   "n": "1 \u00b7 Acadia National Park",
   "r": "northeast",
@@ -123,7 +123,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Great Smoky Mountains National Park",
+  "n": "6 \u00b7 Cades Cove",
+  "r": "southeast",
+  "rlabel": "Southeast",
+  "loc": "Townsend, Tennessee",
+  "site": "Great Smoky Mountains National Park",
+  "lat": 35.608953,
+  "lng": -83.804477,
+  "q": "Cades+Cove+Great+Smoky+Mountains+National+Park+TN",
+  "best": "View / Scenic valley",
+  "rec": "On-screen text and caption name Cades Cove in Great Smoky Mountains National Park. The video glides over the cove's open fields and wooden fences toward forested, cloud-shrouded mountains in a quiet, overcast scene.",
+  "reel": "https://www.instagram.com/reel/DGVmKctIIzr/",
+  "reel_title": "Scenic viewpoint \u2014 Cades Cove",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "7 \u00b7 Great Smoky Mountains National Park",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Gatlinburg, Tennessee",
@@ -148,7 +165,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "7 \u00b7 Kuwohi",
+  "n": "8 \u00b7 Greeter Falls",
+  "r": "southeast",
+  "rlabel": "Southeast",
+  "loc": "Altamont, Tennessee",
+  "site": "South Cumberland State Park (Savage Gulf)",
+  "lat": 35.43464,
+  "lng": -85.69641,
+  "q": "Greeter+Falls+Altamont+TN",
+  "best": "Waterfall / Hike",
+  "rec": "Caption names Greeter Falls, TN, with a waterfall hashtag; the tagged location is Greeter Falls. The park/area (South Cumberland State Park's Savage Gulf, Grundy County) is inferred from the falls' location. No media narrative was stored for this post, so this is based on the caption and tagged location only.",
+  "reel": "https://www.instagram.com/reel/DGYIRahuJhb/",
+  "reel_title": "Waterfall \u2014 Greeter Falls",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "9 \u00b7 Kuwohi",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Newfound Gap area, Tennessee",
@@ -165,7 +199,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Myrtle Point",
+  "n": "10 \u00b7 Myrtle Point",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Gatlinburg, Tennessee",
@@ -182,7 +216,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Ramsey Cascades",
+  "n": "11 \u00b7 Ramsey Cascades",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Gatlinburg, Tennessee",
@@ -199,7 +233,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Shenandoah National Park",
+  "n": "12 \u00b7 Walls of Jericho",
+  "r": "southeast",
+  "rlabel": "Southeast",
+  "loc": "Winchester, Tennessee",
+  "site": "Walls of Jericho (Alabama\u2013Tennessee state line)",
+  "lat": 34.989992,
+  "lng": -86.103964,
+  "q": "Walls+of+Jericho+TN",
+  "best": "Hike / Waterfall",
+  "rec": "Caption names the Walls of Jericho Hike on the Alabama/Tennessee border, with hiking and waterfall hashtags; tagged location is Walls of Jericho. No media narrative was stored for this post, so this is based on the caption and tagged location only.",
+  "reel": "https://www.instagram.com/reel/DGQQ9E5ucHu/",
+  "reel_title": "Hiking \u2014 Walls of Jericho",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "13 \u00b7 Shenandoah National Park",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Luray, Virginia",
@@ -250,7 +301,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "1 \u00b7 South Kaibab and Bright Angel Trails (Phantom Ranch)",
+  "n": "1 \u00b7 Colorado River",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Grand Canyon, Arizona",
+  "site": "Grand Canyon National Park",
+  "lat": 36.104423,
+  "lng": -112.095321,
+  "q": "Colorado+River+Grand+Canyon+National+Park+AZ",
+  "best": "View / River",
+  "rec": "Filmed from the banks of the Colorado River at the bottom of the Grand Canyon: muddy river water rushing between towering layered red-brown cliffs, showing the canyon's scale from river level.",
+  "reel": "https://www.instagram.com/reel/DGjtIqUtQ9J/",
+  "reel_title": "Scenic viewpoint \u2014 Colorado River (Grand Canyon)",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "2 \u00b7 Lipan Point",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Grand Canyon, Arizona",
+  "site": "Grand Canyon National Park",
+  "lat": 36.033087,
+  "lng": -111.853009,
+  "q": "Lipan+Point+Grand+Canyon+National+Park+AZ",
+  "best": "Sunset",
+  "rec": "Captioned 'Sunset at Lipan Point' in Grand Canyon National Park. The video shows the sun on the horizon casting a shaft of golden light across the canyon as the camera pans over its layered walls.",
+  "reel": "https://www.instagram.com/reel/DGYHwrqOnXT/",
+  "reel_title": "Sunset viewpoint \u2014 Lipan Point",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "3 \u00b7 South Kaibab and Bright Angel Trails (Phantom Ranch)",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Grand Canyon, Arizona",
@@ -282,7 +367,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "2 \u00b7 Wasson Peak",
+  "n": "4 \u00b7 Wasson Peak",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Tucson, Arizona",
@@ -299,7 +384,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "3 \u00b7 Chasm Lake",
+  "n": "5 \u00b7 Chasm Lake",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Estes Park, Colorado",
@@ -316,7 +401,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "4 \u00b7 High Dune",
+  "n": "6 \u00b7 Gem Lake Trail",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Estes Park, Colorado",
+  "site": "Rocky Mountain National Park",
+  "lat": 40.410953,
+  "lng": -105.503467,
+  "q": "Gem+Lake+Rocky+Mountain+National+Park+CO",
+  "best": "Hike",
+  "rec": "Caption names the Gem Lake Trail in 'Rock Mountain' (Rocky Mountain) National Park; the state (Colorado) is inferred from the park. This post has no tagged location. No media narrative was stored for this post, so this is based on the caption and tagged location only.",
+  "reel": "https://www.instagram.com/reel/DGOs9n7SG5e/",
+  "reel_title": "Hiking \u2014 Gem Lake Trail",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "7 \u00b7 High Dune",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Alamosa, Colorado",
@@ -333,7 +435,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "5 \u00b7 Big Bend National Park",
+  "n": "8 \u00b7 Lake Haiyaha Trail",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Estes Park, Colorado",
+  "site": "Rocky Mountain National Park",
+  "lat": 40.304786,
+  "lng": -105.662371,
+  "q": "Lake+Haiyaha+Rocky+Mountain+National+Park+CO",
+  "best": "Winter hike",
+  "rec": "Caption names the Lake Haiyaha Trail in Rocky Mountain National Park with a snow emoji; the tag adds Colorado. The video follows a hiker laughing and walking a snowy trail through a snow-covered mountain landscape \u2014 a joyful winter hike.",
+  "reel": "https://www.instagram.com/reel/DGTIqslJiFN/",
+  "reel_title": "Hiking \u2014 Lake Haiyaha Trail",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "9 \u00b7 Red Rock Canyon National Conservation Area",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Las Vegas, Nevada",
+  "site": "Red Rock Canyon National Conservation Area",
+  "lat": 36.135568,
+  "lng": -115.427925,
+  "q": "Red+Rock+Canyon+National+Conservation+Area+NV",
+  "best": "Sunset",
+  "rec": "Caption names Red Rock Canyon, NV, with a sunset hashtag. The video pans over desert mountains at dusk under a blue-to-orange sky and says the spot is just fifteen minutes from Las Vegas \u2014 a peaceful desert contrast to the city.",
+  "reel": "https://www.instagram.com/reel/DGVlZoGoEAa/",
+  "reel_title": "Sunset \u2014 Red Rock Canyon",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "10 \u00b7 Big Bend National Park",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Terlingua, Texas",
@@ -350,7 +486,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Devil's Hall",
+  "n": "11 \u00b7 Devil's Hall",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Guadalupe Mountains, Texas",
@@ -367,7 +503,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Emory Peak",
+  "n": "12 \u00b7 Emory Peak",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Chisos Basin, Texas",
@@ -384,7 +520,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Guadalupe Peak",
+  "n": "13 \u00b7 Guadalupe Peak",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Guadalupe Mountains, Texas",
@@ -401,7 +537,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 The Window Trail",
+  "n": "14 \u00b7 The Window Trail",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Chisos Basin, Texas",
@@ -418,7 +554,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Bryce Canyon National Park",
+  "n": "15 \u00b7 Angels Landing",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Springdale, Utah",
+  "site": "Zion National Park",
+  "lat": 37.269315,
+  "lng": -112.94799,
+  "q": "Angels+Landing+Zion+National+Park+UT",
+  "best": "Hike",
+  "rec": "Caption names Angels Landing in Zion National Park (caption spells it 'Angel's Landing'). No media narrative was stored for this post, so this is based on the caption and tagged location only.",
+  "reel": "https://www.instagram.com/reel/DGk-9K9OoBr/",
+  "reel_title": "Hiking \u2014 Angels Landing",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "16 \u00b7 Bryce Canyon National Park",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Tropic, Utah",
@@ -432,10 +585,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 19,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DGx4mhMJiZv/",
+    "reel_title": "Park scenery \u2014 Bryce Canyon National Park",
+    "creator": "@amorywild",
+    "best": "View",
+    "rec": "Caption names Bryce Canyon National Park, Utah. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only."
+   }
+  ]
  },
  {
-  "n": "11 \u00b7 Canyon Overlook",
+  "n": "17 \u00b7 Canyon Overlook",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Springdale, Utah",
@@ -467,7 +628,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "12 \u00b7 Capitol Reef National Park",
+  "n": "18 \u00b7 Capitol Reef National Park",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Fruita, Utah",
@@ -484,7 +645,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "13 \u00b7 Cassidy Arch",
+  "n": "19 \u00b7 Cassidy Arch",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Fruita, Utah",
@@ -501,7 +662,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Delicate Arch",
+  "n": "20 \u00b7 Delicate Arch",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Moab, Utah",
@@ -518,7 +679,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Devil's Garden",
+  "n": "21 \u00b7 Devil's Garden",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Moab, Utah",
@@ -535,7 +696,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Fairyland Loop",
+  "n": "22 \u00b7 Fairyland Loop",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Bryce, Utah",
@@ -552,7 +713,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Joint Trail",
+  "n": "23 \u00b7 Joint Trail",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Needles District, Utah",
@@ -569,7 +730,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Needles District",
+  "n": "24 \u00b7 Needles District",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Needles District, Utah",
@@ -586,7 +747,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Sunrise Point",
+  "n": "25 \u00b7 Sunrise Point",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Bryce Canyon City, Utah",
@@ -603,7 +764,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "20 \u00b7 The Narrows",
+  "n": "26 \u00b7 The Narrows",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Zion Canyon, Utah",
@@ -620,18 +781,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Zion National Park",
+  "n": "27 \u00b7 Zion Canyon",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Springdale, Utah",
   "site": "Zion National Park",
-  "lat": 37.322167,
-  "lng": -113.004793,
-  "q": "Zion+National+Park+UT",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator performs a card trick for two men in a rocky canyon, tagged at Zion National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DW2tC-ygrbP/",
-  "reel_title": "Magic trick filmed on location \u2014 Zion National Park",
+  "lat": 37.257559,
+  "lng": -112.952753,
+  "q": "Zion+Canyon+Zion+National+Park+UT",
+  "best": "View",
+  "rec": "A static scenic shot of Zion Canyon: the Virgin River (name inferred from the location) flowing between massive orange-and-white striated cliffs in warm early-morning or late-afternoon light, posted as a calm, meditative nature scene.",
+  "reel": "https://www.instagram.com/reel/DGqUbwIpLIH/",
+  "reel_title": "Scenic viewpoint \u2014 Zion Canyon",
   "creator": "@amorywild",
   "rank": null,
   "also": []
@@ -654,39 +815,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "2 \u00b7 Glacier National Park",
-  "r": "mountain-west",
-  "rlabel": "Mountain West",
-  "loc": "West Glacier, Montana",
-  "site": "Glacier National Park",
-  "lat": 48.617486,
-  "lng": -113.760885,
-  "q": "Glacier+National+Park+MT",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator performs a card-in-bottle trick against a mountain and lake backdrop, tagged at Glacier National Park, noting his hands were freezing. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DaE3Rg5ia2a/",
-  "reel_title": "Magic trick filmed on location \u2014 Glacier National Park",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/DYqqrMnCTJz/",
-    "reel_title": "Magic trick filmed on location \u2014 Glacier National Park",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs cardistry on a snowy mountain summit, tagged at Glacier National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   },
-   {
-    "reel": "https://www.instagram.com/reel/DYlFaJAisM9/",
-    "reel_title": "Magic trick filmed on location \u2014 Glacier National Park",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs the Flick card trick beside a mountain lake, tagged at Glacier National Park, noting his hands were freezing. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   }
-  ]
- },
- {
-  "n": "3 \u00b7 Stanton Mountain",
+  "n": "2 \u00b7 Stanton Mountain",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Lake McDonald, Montana",
@@ -703,7 +832,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "4 \u00b7 Virginia Falls",
+  "n": "3 \u00b7 Virginia Falls",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "St. Mary, Montana",
@@ -720,24 +849,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "5 \u00b7 Grand Teton National Park",
-  "r": "mountain-west",
-  "rlabel": "Mountain West",
-  "loc": "Moose, Wyoming",
-  "site": "Grand Teton National Park",
-  "lat": 43.810567,
-  "lng": -110.648795,
-  "q": "Grand+Teton+National+Park+WY",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator demonstrates an opposite-shuffle card technique by a lake with snow-capped mountains behind him, tagged at Grand Teton National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DX0cnDRC5kd/",
-  "reel_title": "Magic trick filmed on location \u2014 Grand Teton National Park",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": []
- },
- {
-  "n": "6 \u00b7 Hidden Falls",
+  "n": "4 \u00b7 Hidden Falls",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Jenny Lake, Wyoming",
@@ -754,7 +866,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Jenny Lake",
+  "n": "5 \u00b7 Jenny Lake",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Jenny Lake, Wyoming",
@@ -768,50 +880,44 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Views That Blew My Mind",
   "creator": "@amorywild",
   "rank": 1,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/DYSu-8ySAjR/",
-    "reel_title": "Magic trick filmed on location \u2014 Jenny Lake",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a signed-card-in-envelope trick for two spectators at Jenny Lake in Grand Teton National Park, tagged at the park. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   }
-  ]
+  "also": []
  },
  {
-  "n": "8 \u00b7 Yellowstone National Park",
-  "r": "mountain-west",
-  "rlabel": "Mountain West",
-  "loc": "Gardiner, Wyoming",
-  "site": "Yellowstone National Park",
-  "lat": 44.620089,
-  "lng": -110.560689,
-  "q": "Yellowstone+National+Park+WY",
-  "best": "Filmed location (magic reel)",
-  "rec": "Caption and tagged location place this card-trick reel at Yellowstone National Park. No media narrative was stored for this post, so this is based on the caption and tag only. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DYd2tL7i4jc/",
-  "reel_title": "Magic trick filmed on location \u2014 Yellowstone National Park",
+  "n": "1 \u00b7 Artist's Palette",
+  "r": "west",
+  "rlabel": "West",
+  "loc": "Death Valley, California",
+  "site": "Death Valley National Park",
+  "lat": 36.363515,
+  "lng": -116.802741,
+  "q": "Artist's+Palette+Death+Valley+National+Park+CA",
+  "best": "Sunset",
+  "rec": "Caption names a sunset at Artist's Palette in Death Valley National Park. No media narrative was stored for this post, so this is based on the caption and tagged location only.",
+  "reel": "https://www.instagram.com/reel/DGPBQOmN3NO/",
+  "reel_title": "Sunset \u2014 Artist's Palette",
   "creator": "@amorywild",
   "rank": null,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/DYLgWurCVOg/",
-    "reel_title": "Magic trick filmed on location \u2014 Yellowstone National Park campground",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a coin-bending trick for a participant at a Yellowstone campground/parking lot, after using the participant's Starlink WiFi at the campground, tagged at Yellowstone National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   },
-   {
-    "reel": "https://www.instagram.com/reel/DX7hj5NyGxp/",
-    "reel_title": "Magic trick filmed on location \u2014 Yellowstone National Park",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a card-change trick sitting on a boardwalk in a geothermal area with steam and geyser sounds behind him, tagged at Yellowstone National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   }
-  ]
+  "also": []
  },
  {
-  "n": "1 \u00b7 Death Valley National Park",
+  "n": "2 \u00b7 Big Oak Flat Road",
+  "r": "west",
+  "rlabel": "West",
+  "loc": "Yosemite Village, California",
+  "site": "Yosemite National Park",
+  "lat": 37.776431,
+  "lng": -119.861823,
+  "q": "Big+Oak+Flat+Road+Yosemite+National+Park+CA",
+  "best": "Sunset",
+  "rec": "Caption names a sunset on Big Oak Flat Road in Yosemite National Park. No media narrative was stored for this post, so this is based on the caption and tagged location only.",
+  "reel": "https://www.instagram.com/reel/DGjsVpgt6sH/",
+  "reel_title": "Sunset \u2014 Big Oak Flat Road",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "3 \u00b7 Death Valley National Park",
   "r": "west",
   "rlabel": "West",
   "loc": "Furnace Creek, California",
@@ -839,18 +945,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Top national park",
     "rec": "Ranked #15, displaying salt flats, colorful badlands and canyons."
-   },
-   {
-    "reel": "https://www.instagram.com/reel/DfA_bGYiyZQ/",
-    "reel_title": "Magic trick filmed on location \u2014 Death Valley National Park",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a card trick sitting on a rocky mountaintop overlooking a valley and salt flat, tagged at Death Valley National Park. Recorded as a filmed/visited location, not a travel recommendation."
    }
   ]
  },
  {
-  "n": "2 \u00b7 Ella Falls",
+  "n": "4 \u00b7 Ella Falls",
   "r": "west",
   "rlabel": "West",
   "loc": "Grant Grove, California",
@@ -867,7 +966,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "3 \u00b7 Fern Canyon",
+  "n": "5 \u00b7 Fern Canyon",
   "r": "west",
   "rlabel": "West",
   "loc": "Orick, California",
@@ -884,7 +983,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "4 \u00b7 Four Mile Trail to Glacier Point",
+  "n": "6 \u00b7 Four Mile Trail to Glacier Point",
   "r": "west",
   "rlabel": "West",
   "loc": "Yosemite Village, California",
@@ -898,10 +997,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking \u2014 Four Mile Trail to Glacier Point",
   "creator": "@amorywild",
   "rank": null,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DGYHDN0u_jZ/",
+    "reel_title": "Winter viewpoint \u2014 Glacier Point",
+    "creator": "@amorywild",
+    "best": "Winter view / View",
+    "rec": "Captioned 'Glacier point in winter' in Yosemite. The video pans across a snow-covered Yosemite Valley with Half Dome in winter conditions \u2014 a quiet, snow-blanketed version of the classic Glacier Point panorama. Glacier Point is the destination viewpoint of the Four Mile Trail, and this place's pin is Glacier Point itself."
+   }
+  ]
  },
  {
-  "n": "5 \u00b7 Inspiration Peak (Inspiration Point)",
+  "n": "7 \u00b7 Inspiration Peak (Inspiration Point)",
   "r": "west",
   "rlabel": "West",
   "loc": "Joshua Tree, California",
@@ -918,7 +1025,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Joshua Tree National Park",
+  "n": "8 \u00b7 Joshua Tree National Park",
   "r": "west",
   "rlabel": "West",
   "loc": "Joshua Tree, California",
@@ -935,48 +1042,6 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Kings Canyon National Park",
-  "r": "west",
-  "rlabel": "West",
-  "loc": "Cedar Grove, California",
-  "site": "Kings Canyon National Park",
-  "lat": 36.915278,
-  "lng": -118.607656,
-  "q": "Kings+Canyon+National+Park+CA",
-  "best": "Filmed location (magic reel)",
-  "rec": "The clip is an interview-style documentary moment filmed on a granite summit overlooking a forested valley, tagged at Kings Canyon National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DZ5tUlZy0XF/",
-  "reel_title": "Magic trick filmed on location \u2014 Kings Canyon National Park",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": []
- },
- {
-  "n": "8 \u00b7 Lassen Volcanic National Park",
-  "r": "west",
-  "rlabel": "West",
-  "loc": "Redding, California",
-  "site": "Lassen Volcanic National Park",
-  "lat": 40.493782,
-  "lng": -121.404458,
-  "q": "Lassen+Volcanic+National+Park+CA",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator performs a blank-card trick at a picnic table by a lake, tagged at Lassen Volcanic National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DXo2zEjAooZ/",
-  "reel_title": "Magic trick filmed on location \u2014 Lassen Volcanic National Park",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/DXZWyyPghYX/",
-    "reel_title": "Magic trick filmed on location \u2014 Lassen Volcanic National Park",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a sleight-of-hand routine on the shore of a lake with snow-capped mountains behind him at Lassen Volcanic National Park, per the narrative and tag. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   }
-  ]
- },
- {
   "n": "9 \u00b7 Manzanita Lake",
   "r": "west",
   "rlabel": "West",
@@ -991,18 +1056,27 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Guess the National Park game \u2014 Manzanita Lake",
   "creator": "@amorywild",
   "rank": null,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/DfGG5AHiBKs/",
-    "reel_title": "Magic trick filmed on location \u2014 Manzanita Lake",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a blank-cards-to-deck card trick at a picnic table by a lake, tagged at Manzanita Lake in Lassen Volcanic National Park (the tag spells it Lassen Volcano). Recorded as a filmed/visited location, not a travel recommendation."
-   }
-  ]
+  "also": []
  },
  {
-  "n": "10 \u00b7 Moro Rock",
+  "n": "10 \u00b7 Monterey Bay",
+  "r": "west",
+  "rlabel": "West",
+  "loc": "Monterey, California",
+  "site": "Monterey Bay",
+  "lat": 36.604328,
+  "lng": -121.892814,
+  "q": "Monterey+Bay+Monterey+CA",
+  "best": "Sunrise",
+  "rec": "Caption names a sunrise at Monterey Bay, CA; the tagged location is Monterey Pier. No media narrative was stored for this post, so this is based on the caption and tagged location only.",
+  "reel": "https://www.instagram.com/reel/DGQSaK9O-gV/",
+  "reel_title": "Sunrise \u2014 Monterey Bay",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "11 \u00b7 Moro Rock",
   "r": "west",
   "rlabel": "West",
   "loc": "Giant Forest, California",
@@ -1019,7 +1093,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Potato Harbor",
+  "n": "12 \u00b7 Potato Harbor",
   "r": "west",
   "rlabel": "West",
   "loc": "Santa Cruz Island, California",
@@ -1033,23 +1107,6 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Views That Blew My Mind",
   "creator": "@amorywild",
   "rank": 4,
-  "also": []
- },
- {
-  "n": "12 \u00b7 Redwood National Park",
-  "r": "west",
-  "rlabel": "West",
-  "loc": "Crescent City, California",
-  "site": "Redwood National Park",
-  "lat": 41.768075,
-  "lng": -124.050501,
-  "q": "Redwood+National+Park+CA",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator performs a card trick standing in a sunlit meadow of purple lupines with forested mountains behind him, tagged at Redwood National Park, saying he prefers doing magic in a meadow of lupines. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DXSds7rkqUQ/",
-  "reel_title": "Magic trick filmed on location \u2014 Redwood National Park",
-  "creator": "@amorywild",
-  "rank": null,
   "also": []
  },
  {
@@ -1087,7 +1144,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Tokopah Falls",
+  "n": "15 \u00b7 Shark Fin Cove",
+  "r": "west",
+  "rlabel": "West",
+  "loc": "Davenport, California",
+  "site": "Santa Cruz coast",
+  "lat": 37.003325,
+  "lng": -122.18636,
+  "q": "Shark+Fin+Cove+Davenport+CA",
+  "best": "Beach / Coastal view",
+  "rec": "Caption names Shark Fin Cove, Santa Cruz, CA. The video pans across the cove's layered cliffs and rock formations as waves crash into the shore and tide pools \u2014 a raw, tranquil stretch of coast.",
+  "reel": "https://www.instagram.com/reel/DGTJLhSJzu2/",
+  "reel_title": "Coastal scenery \u2014 Shark Fin Cove",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "16 \u00b7 Tokopah Falls",
   "r": "west",
   "rlabel": "West",
   "loc": "Lodgepole, California",
@@ -1104,7 +1178,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Trail of the Sequoias",
+  "n": "17 \u00b7 Trail of the Sequoias",
   "r": "west",
   "rlabel": "West",
   "loc": "Giant Forest, California",
@@ -1121,24 +1195,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Yosemite National Park",
+  "n": "18 \u00b7 Valley View",
   "r": "west",
   "rlabel": "West",
   "loc": "Yosemite Village, California",
   "site": "Yosemite National Park",
-  "lat": 37.8393,
-  "lng": -119.516464,
-  "q": "Yosemite+National+Park+CA",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator performs a card trick on a rocky outcrop with mountain scenery, tagged at Yosemite National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DXiS83xgg0D/",
-  "reel_title": "Magic trick filmed on location \u2014 Yosemite National Park",
+  "lat": 37.717278,
+  "lng": -119.661871,
+  "q": "Valley+View+Yosemite+National+Park+CA",
+  "best": "Sunrise / View",
+  "rec": "Captioned 'Sunrise at Valley View' in Yosemite. The video shows the calm river at Valley View mirroring Yosemite Valley's towering granite cliffs, with autumn-colored trees at the cliff base \u2014 a quiet sunrise reflection scene.",
+  "reel": "https://www.instagram.com/reel/DGuD3iDNE26/",
+  "reel_title": "Sunrise viewpoint \u2014 Valley View",
   "creator": "@amorywild",
   "rank": null,
   "also": []
  },
  {
-  "n": "18 \u00b7 Zabriskie Point",
+  "n": "19 \u00b7 Yosemite Falls",
+  "r": "west",
+  "rlabel": "West",
+  "loc": "Yosemite Village, California",
+  "site": "Yosemite National Park",
+  "lat": 37.754291,
+  "lng": -119.597269,
+  "q": "Yosemite+Falls+Yosemite+National+Park+CA",
+  "best": "Waterfall / View",
+  "rec": "Caption names Yosemite Falls. The video pans from Yosemite's granite cliffs out across the valley \u2014 forests, the winding river and Half Dome in the background \u2014 a sweeping valley panorama.",
+  "reel": "https://www.instagram.com/reel/DGf3kt5ubRW/",
+  "reel_title": "Waterfall / Viewpoint \u2014 Yosemite Falls",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "20 \u00b7 Zabriskie Point",
   "r": "west",
   "rlabel": "West",
   "loc": "Death Valley, California",
@@ -1152,7 +1243,15 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
   "rank": 2,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DGTJvkRpKri/",
+    "reel_title": "Sunset viewpoint \u2014 Zabriskie Point",
+    "creator": "@amorywild",
+    "best": "Sunset",
+    "rec": "A sunset shot over Zabriskie Point's layered, eroded badlands ridges in brown, gray and orange, with distant mountains glowing in warm sunset color \u2014 the sunset counterpart to his sunrise pick of this same viewpoint in the '5 National Park Sunrises' reel."
+   }
+  ]
  },
  {
   "n": "1 \u00b7 Klahhane Ridge",
@@ -1186,67 +1285,10 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 11,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/DZeK0bwihcb/",
-    "reel_title": "Magic trick filmed on location \u2014 Mount Rainier National Park",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a name-a-card trick with a spectator against a snow-capped mountain vista, tagged at Mt. Rainier National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   },
-   {
-    "reel": "https://www.instagram.com/reel/DZYhjrbvaUl/",
-    "reel_title": "Magic trick filmed on location \u2014 Mount Rainier National Park",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a color-changing card trick sitting on a rocky mountainside, tagged at Mt. Rainier National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   }
-  ]
- },
- {
-  "n": "3 \u00b7 Mount Storm King",
-  "r": "pacific-northwest",
-  "rlabel": "Pacific Northwest",
-  "loc": "Lake Crescent, Washington",
-  "site": "Olympic National Park / Olympic National Forest (tagged as Mount Storm King - Olympic National Forest)",
-  "lat": 48.055366,
-  "lng": -123.740753,
-  "q": "Mount+Storm+King+Olympic+National+Park+/+Olympic+National+Forest+(tagged+as+Mount+Storm+King+-+Olympic+National+Forest)+WA",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator performs a color-change card illusion on a sunlit mountain summit, tagged at Mount Storm King in Olympic National Forest. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DaKKT-uigkQ/",
-  "reel_title": "Magic trick filmed on location \u2014 Mount Storm King",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/DZOJPBohw9T/",
-    "reel_title": "Magic trick filmed on location \u2014 Mount Storm King",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a what-color-are-these-cards puzzle in an alpine meadow; the post is tagged at Mount Storm King in Olympic National Forest and the narrative places it in Olympic National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   }
-  ]
- },
- {
-  "n": "4 \u00b7 North Cascades National Park",
-  "r": "pacific-northwest",
-  "rlabel": "Pacific Northwest",
-  "loc": "Marblemount, Washington",
-  "site": "North Cascades National Park",
-  "lat": 48.808348,
-  "lng": -121.406215,
-  "q": "North+Cascades+National+Park+WA",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator performs cardistry on a rocky summit over a turquoise river valley, tagged at North Cascades National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DZiawHSPsKt/",
-  "reel_title": "Magic trick filmed on location \u2014 North Cascades National Park",
-  "creator": "@amorywild",
-  "rank": null,
   "also": []
  },
  {
-  "n": "5 \u00b7 Sol Duc Falls",
+  "n": "3 \u00b7 Sol Duc Falls",
   "r": "pacific-northwest",
   "rlabel": "Pacific Northwest",
   "loc": "Sol Duc, Washington",
@@ -1263,7 +1305,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Sourdough Mountain",
+  "n": "4 \u00b7 Sourdough Mountain",
   "r": "pacific-northwest",
   "rlabel": "Pacific Northwest",
   "loc": "Newhalem, Washington",
@@ -1302,22 +1344,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 17,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/DfJKTyXC-6A/",
-    "reel_title": "Magic trick filmed on location \u2014 Denali National Park and Preserve",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a card trick outdoors on a rocky, grassy mountainside, tagged at Denali National Park and Preserve. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   },
-   {
-    "reel": "https://www.instagram.com/reel/DaYtQQuCq2v/",
-    "reel_title": "Magic trick filmed on location \u2014 Denali National Park and Preserve",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs an instant-transposition card trick on a rocky mountainside with snow-capped peaks, tagged at Denali National Park and Preserve. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   }
-  ]
+  "also": []
  },
  {
   "n": "2 \u00b7 Gates of the Arctic National Park",
@@ -1368,15 +1395,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 12,
-  "also": [
-   {
-    "reel": "https://www.instagram.com/reel/Dad2xjsPs2_/",
-    "reel_title": "Magic trick filmed on location \u2014 Kenai Fjords National Park",
-    "creator": "@amorywild",
-    "best": "Filmed location (magic reel)",
-    "rec": "The creator performs a card flourish on a rocky riverbank with mountains and a glacier behind him, tagged at Kenai Fjords National Park. Recorded as a filmed/visited location, not as a travel recommendation in the post."
-   }
-  ]
+  "also": []
  },
  {
   "n": "5 \u00b7 Kobuk Valley National Park",
@@ -1549,8 +1568,8 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
  },
  {
   "n": "1 \u00b7 Mt. Alava",
-  "r": "international",
-  "rlabel": "International",
+  "r": "us-territories",
+  "rlabel": "U.S. Territories",
   "loc": "Pago Pago, American Samoa",
   "site": "National Park of American Samoa",
   "lat": -14.269686,
@@ -1566,8 +1585,8 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
  },
  {
   "n": "2 \u00b7 National Park of American Samoa",
-  "r": "international",
-  "rlabel": "International",
+  "r": "us-territories",
+  "rlabel": "U.S. Territories",
   "loc": "Leusoali\u02bbi, American Samoa",
   "site": "National Park of American Samoa",
   "lat": -14.24913,
@@ -1582,162 +1601,9 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "3 \u00b7 British Columbia welcome sign",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Surrey, British Columbia",
-  "site": "British Columbia, Canada",
-  "lat": 49.006647,
-  "lng": -122.757083,
-  "q": "British+Columbia+welcome+sign+British+Columbia,+Canada+British+Columbia+Canada",
-  "best": "Filmed location (magic reel)",
-  "rec": "The creator performs a card-control demonstration beside a British Columbia welcome sign, tagged as British Columbia, Canada, and jokes in the caption that it works because he is on the British Columbia border. Recorded as a filmed/visited location, not as a travel recommendation in the post.",
-  "reel": "https://www.instagram.com/reel/DaHVtCoizkK/",
-  "reel_title": "Magic trick filmed on location \u2014 British Columbia welcome sign",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": []
- },
- {
-  "n": "4 \u00b7 Muncho Lake",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Muncho Lake, British Columbia",
-  "site": "Muncho Lake Provincial Park",
-  "lat": 58.993948,
-  "lng": -125.777016,
-  "q": "Muncho+Lake+Muncho+Lake+Provincial+Park+British+Columbia+Canada",
-  "best": "Wildlife",
-  "rec": "The video shows a moose feeding in the shallow water of Muncho Lake in Muncho Lake Provincial Park, Canada, in a quiet mountain and forest setting. The location comes from the caption and tagged location.",
-  "reel": "https://www.instagram.com/reel/DfOBUyeujno/",
-  "reel_title": "Wildlife / Canada \u2014 Muncho Lake",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": []
- },
- {
-  "n": "5 \u00b7 Br\u00faarfoss",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Bl\u00e1sk\u00f3gabygg\u00f0, Iceland",
-  "site": "",
-  "lat": 64.264235,
-  "lng": -20.515873,
-  "q": "Br\u00faarfoss+Iceland+Iceland",
-  "best": "Waterfall",
-  "rec": "Ranked #4 Iceland waterfall, highlighted for its striking turquoise-blue water flowing over black lava rock.",
-  "reel": "https://www.instagram.com/reel/Dek_tEltqhr/",
-  "reel_title": "My Top 5 Iceland Waterfalls",
-  "creator": "@amorywild",
-  "rank": 4,
-  "also": []
- },
- {
-  "n": "6 \u00b7 Glj\u00fafrab\u00fai",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Rang\u00e1r\u00feing eystra, Iceland",
-  "site": "",
-  "lat": 63.620756,
-  "lng": -19.986339,
-  "q": "Glj\u00fafrab\u00fai+Iceland+Iceland",
-  "best": "Waterfall",
-  "rec": "Shown as a bonus alongside Seljalandsfoss, a hidden falls inside a mossy canyon.",
-  "reel": "https://www.instagram.com/reel/Dek_tEltqhr/",
-  "reel_title": "My Top 5 Iceland Waterfalls",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": []
- },
- {
-  "n": "7 \u00b7 Gullfoss",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Golden Circle, Iceland",
-  "site": "",
-  "lat": 64.314452,
-  "lng": -20.149556,
-  "q": "Gullfoss+Iceland+Iceland",
-  "best": "Waterfall",
-  "rec": "Ranked #1 Iceland waterfall, described as the most impressive, a huge roaring two-tiered fall on the Golden Circle. The presenter recommends early-morning visits to avoid crowds across this list.",
-  "reel": "https://www.instagram.com/reel/Dek_tEltqhr/",
-  "reel_title": "My Top 5 Iceland Waterfalls",
-  "creator": "@amorywild",
-  "rank": 1,
-  "also": []
- },
- {
-  "n": "8 \u00b7 Hlauptungufoss",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Bl\u00e1sk\u00f3gabygg\u00f0, Iceland",
-  "site": "",
-  "lat": 64.253435,
-  "lng": -20.516944,
-  "q": "Hlauptungufoss+Iceland+Iceland",
-  "best": "Waterfall",
-  "rec": "Shown as a bonus view alongside Bruarfoss in the countdown.",
-  "reel": "https://www.instagram.com/reel/Dek_tEltqhr/",
-  "reel_title": "My Top 5 Iceland Waterfalls",
-  "creator": "@amorywild",
-  "rank": null,
-  "also": []
- },
- {
-  "n": "9 \u00b7 Nauth\u00fasafoss",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Rang\u00e1r\u00feing eystra, Iceland",
-  "site": "",
-  "lat": 63.667553,
-  "lng": -19.856612,
-  "q": "Nauth\u00fasafoss+Iceland+Iceland",
-  "best": "Waterfall",
-  "rec": "Ranked #2 Iceland waterfall, a canyon waterfall reached by hiking through a narrow, moss-covered gorge.",
-  "reel": "https://www.instagram.com/reel/Dek_tEltqhr/",
-  "reel_title": "My Top 5 Iceland Waterfalls",
-  "creator": "@amorywild",
-  "rank": 2,
-  "also": []
- },
- {
-  "n": "10 \u00b7 Seljalandsfoss",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Rang\u00e1r\u00feing eystra, Iceland",
-  "site": "",
-  "lat": 63.615457,
-  "lng": -19.988169,
-  "q": "Seljalandsfoss+Iceland+Iceland",
-  "best": "Waterfall",
-  "rec": "Ranked #5 Iceland waterfall, a tall, wide fall visitors can walk behind, dropping into a dark-blue pool.",
-  "reel": "https://www.instagram.com/reel/Dek_tEltqhr/",
-  "reel_title": "My Top 5 Iceland Waterfalls",
-  "creator": "@amorywild",
-  "rank": 5,
-  "also": []
- },
- {
-  "n": "11 \u00b7 Sk\u00f3gafoss",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Rang\u00e1r\u00feing eystra, Iceland",
-  "site": "",
-  "lat": 63.532104,
-  "lng": -19.511292,
-  "q": "Sk\u00f3gafoss+Iceland+Iceland",
-  "best": "Waterfall",
-  "rec": "Ranked #3 Iceland waterfall, a massive, powerful fall creating heavy mist, with smaller cascades along the river above it.",
-  "reel": "https://www.instagram.com/reel/Dek_tEltqhr/",
-  "reel_title": "My Top 5 Iceland Waterfalls",
-  "creator": "@amorywild",
-  "rank": 3,
-  "also": []
- },
- {
-  "n": "12 \u00b7 Virgin Islands National Park",
-  "r": "international",
-  "rlabel": "International",
+  "n": "3 \u00b7 Virgin Islands National Park",
+  "r": "us-territories",
+  "rlabel": "U.S. Territories",
   "loc": "Cruz Bay, U.S. Virgin Islands",
   "site": "Virgin Islands National Park",
   "lat": 18.336883,
@@ -1758,26 +1624,9 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "rec": "Ranked #2 in the East, featuring coastal hiking trails over blue bays and underwater footage of sea turtles, spotted eagle rays and other marine life."
    }
   ]
- },
- {
-  "n": "13 \u00b7 King's Throne Summit",
-  "r": "international",
-  "rlabel": "International",
-  "loc": "Haines Junction, Yukon",
-  "site": "Kluane National Park",
-  "lat": 60.546894,
-  "lng": -137.260103,
-  "q": "King's+Throne+Summit+Kluane+National+Park+Yukon+Canada",
-  "best": "Hike",
-  "rec": "Ranked #1, an 8-mile hike with about 4,500 feet of gain and turquoise lake views. He says he was unprepared on his first attempt and later returned better prepared.",
-  "reel": "https://www.instagram.com/reel/DfF8sFUPES5/",
-  "reel_title": "5 National Park Hikes That Tested My Limit",
-  "creator": "@amorywild",
-  "rank": 1,
-  "also": []
  }
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 1<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 10<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 2<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 21<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 8<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 18<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 6<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 9<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 4<br><span class=\"chip\" style=\"background:#616161\"></span>International \u00b7 13"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 1<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 13<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 2<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 27<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 5<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 20<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 4<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 9<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 4<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>
