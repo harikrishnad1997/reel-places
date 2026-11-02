@@ -10,15 +10,15 @@ title: Reel Places — Locations from Instagram Reels, by Region
 ## Contents
 
 - [Map — all places, color-coded by region](#map)
-- [Northeast Region — 1 place](#northeast)
-- [Southeast Region — 13 places](#southeast)
-- [Midwest Region — 2 places](#midwest)
-- [Southwest Region — 27 places](#southwest)
-- [Mountain West Region — 5 places](#mountain-west)
-- [West Region — 20 places](#west)
-- [Pacific Northwest Region — 4 places](#pacific-northwest)
-- [Alaska Region — 9 places](#alaska)
-- [Hawaii Region — 4 places](#hawaii)
+- [Northeast Region — 2 places](#northeast)
+- [Southeast Region — 21 places](#southeast)
+- [Midwest Region — 3 places](#midwest)
+- [Southwest Region — 31 places](#southwest)
+- [Mountain West Region — 27 places](#mountain-west)
+- [West Region — 31 places](#west)
+- [Pacific Northwest Region — 10 places](#pacific-northwest)
+- [Alaska Region — 11 places](#alaska)
+- [Hawaii Region — 5 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
 - [Source reels](#source-reels)
 - [Reel Chat — ask the chatbot](chat.html)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- ☐ Tick a place off as you visit it. Counts: Northeast 1 · Southeast 13 · Midwest 2 · Southwest 27 · Mountain West 5 · West 20 · Pacific Northwest 4 · Alaska 9 · Hawaii 4 · U.S. Territories 3 · **Total 88**
+- ☐ Tick a place off as you visit it. Counts: Northeast 2 · Southeast 21 · Midwest 3 · Southwest 31 · Mountain West 27 · West 31 · Pacific Northwest 10 · Alaska 11 · Hawaii 5 · U.S. Territories 3 · **Total 144**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) answers questions and builds itineraries from these recommendations.
@@ -39,17 +39,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Northeast Region {#northeast}
 
-**1 place · Maine**
+**2 places · Maine**
 
 ### Maine
 
 - [ ] **1. [Acadia National Park](https://www.google.com/maps/search/?api=1&query=Acadia+National+Park+ME)** — Acadia National Park, Bar Harbor
   - **Best for:** Top national park (East) — Ranked #5 in the East, shown with mountain, lake and coastline views at sunrise/sunset, iron-rung climbs, a loon and seals on a sunset boat cruise.
   - 🎬 Source: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild (#5 in that reel)
+- [ ] **2. [Precipice Trail](https://www.google.com/maps/search/?api=1&query=Precipice+Trail+Acadia+National+Park+ME)** — Acadia National Park, Acadia National Park
+  - **Best for:** Hike / Adrenaline — His #1 adrenaline hike: climbers ascending near-vertical granite using iron rungs and ladders, with coastal ocean views from the summit. Across the countdown he frames the five as thrilling but accessible adventures, describing each hike's challenge, exposure and reward.
+  - Pin is the trailhead point on the Park Loop Road (OSM's 'The Precipice Trail' information point).
+  - 🎬 Source: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild (#1 in that reel)
 
 ## Southeast Region {#southeast}
 
-**13 places · Florida, Tennessee, Virginia**
+**21 places · Florida, Kentucky, Tennessee, Virginia, West Virginia**
 
 ### Florida
 
@@ -70,47 +74,85 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Wildlife / Must-see spot — The reel recommends Shark Valley as a can't-miss Everglades destination about 15 miles from Miami, with a 15-mile loop road best explored by bike or on foot, wildlife including alligators and wading birds, and a spiral observation tower over the sawgrass prairie.
   - 🎬 Source: [Favorite spot in the Everglades](https://www.instagram.com/reel/DfProEQAaZY/) by @amorywild (#None in that reel)
 
+### Kentucky
+
+- [ ] **5. [Mammoth Cave National Park](https://www.google.com/maps/search/?api=1&query=Mammoth+Cave+National+Park+Mammoth+Cave+National+Park+KY)** — Mammoth Cave National Park, Mammoth Cave National Park
+  - **Best for:** Cave / Hike — Captioned 'I wanna go in there…' and hashtagged #mammothcavenationalpark — the cave entrance at Mammoth Cave National Park; no specific tour or entrance is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+  - Park-level pin is the park's Nominatim point by the visitor centre.
+  - 🎬 Source: [Cave — Mammoth Cave National Park](https://www.instagram.com/reel/DF-n5DkJxuk/) by @amorywild (#None in that reel)
+  - 🎬 Also recommended by: [Wildlife — Mammoth Cave National Park](https://www.instagram.com/reel/DF_LFOtyBoO/) by @amorywild
+    - **Best for:** Wildlife — Captioned 'The deer wanted something…' and hashtagged #mammothcave #mammothcavenationalpark — a park-level wildlife moment; no specific spot in the park is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+
 ### Tennessee
 
-- [ ] **5. [Alum Cave Trail](https://www.google.com/maps/search/?api=1&query=Alum+Cave+Trail+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- [ ] **6. [Alum Cave Trail](https://www.google.com/maps/search/?api=1&query=Alum+Cave+Trail+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** Sunrise — Ranked #4 for sunrise in the reel. Layered forested ridges illuminated by soft sunrise light.
   - Trailhead on Newfound Gap Road (US-441). Trail passes Arch Rock and its own Inspiration Point on the way to Alum Cave Bluffs and Mount Le Conte.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#4 in that reel)
-- [ ] **6. [Cades Cove](https://www.google.com/maps/search/?api=1&query=Cades+Cove+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Townsend
+- [ ] **7. [Cades Cove](https://www.google.com/maps/search/?api=1&query=Cades+Cove+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Townsend
   - **Best for:** View / Scenic valley — On-screen text and caption name Cades Cove in Great Smoky Mountains National Park. The video glides over the cove's open fields and wooden fences toward forested, cloud-shrouded mountains in a quiet, overcast scene.
   - 🎬 Source: [Scenic viewpoint — Cades Cove](https://www.instagram.com/reel/DGVmKctIIzr/) by @amorywild (#None in that reel)
-- [ ] **7. [Great Smoky Mountains National Park](https://www.google.com/maps/search/?api=1&query=Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- [ ] **8. [Great Smoky Mountains National Park](https://www.google.com/maps/search/?api=1&query=Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** Top national park (East) — Ranked #1 in the East, praised for its popularity and scenery, with layered mountain ranges, a large waterfall, misty peaks and a black bear in a stream.
   - 🎬 Source: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild (#1 in that reel)
   - 🎬 Also recommended by: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild
     - **Best for:** Top national park — Ranked #16, with mountain vistas, a forest waterfall and a sunset overlook.
-- [ ] **8. [Greeter Falls](https://www.google.com/maps/search/?api=1&query=Greeter+Falls+Altamont+TN)** — South Cumberland State Park (Savage Gulf), Altamont
+- [ ] **9. [Greeter Falls](https://www.google.com/maps/search/?api=1&query=Greeter+Falls+Altamont+TN)** — South Cumberland State Park (Savage Gulf), Altamont
   - **Best for:** Waterfall / Hike — Caption names Greeter Falls, TN, with a waterfall hashtag; the tagged location is Greeter Falls. The park/area (South Cumberland State Park's Savage Gulf, Grundy County) is inferred from the falls' location. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - 🎬 Source: [Waterfall — Greeter Falls](https://www.instagram.com/reel/DGYIRahuJhb/) by @amorywild (#None in that reel)
-- [ ] **9. [Kuwohi](https://www.google.com/maps/search/?api=1&query=Kuwohi+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Newfound Gap area
+  - 🎬 Also recommended by: [Waterfall — Greeter Falls](https://www.instagram.com/reel/DeCM6vlBwb9/) by @amorywild
+    - **Best for:** Waterfall — Caption and tagged location name Greeter Falls, Tennessee. The video shows the falls from an elevated trail through the trees, then at water level crashing into a turquoise-green pool below wooden steps and railings; on-screen text: 'Something special about a Tennessee waterfall...' (Same spot as a Batch 2 post — kept as a separate entry for dedupe at merge.)
+- [ ] **10. [Kuwohi](https://www.google.com/maps/search/?api=1&query=Kuwohi+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Newfound Gap area
   - **Best for:** Sunset / View — Caption names Kuwohi in Great Smoky Mountains National Park at sunset. He says he does not like crowds but this view was worth it, with panoramic blue mountain ranges under an orange and pink sky from a busy viewpoint.
   - The summit straddles the Tennessee/North Carolina line in the Smokies; it is listed under Tennessee, as in the source post.
   - 🎬 Source: [Sunset viewpoint — Kuwohi](https://www.instagram.com/reel/De4PHHjPzGT/) by @amorywild (#None in that reel)
-- [ ] **10. [Myrtle Point](https://www.google.com/maps/search/?api=1&query=Myrtle+Point+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- [ ] **11. [Mount Cammerer Fire Tower](https://www.google.com/maps/search/?api=1&query=Mount+Cammerer+Fire+Tower+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Great Smoky Mountains National Park
+  - **Best for:** View — Captioned 'Double rainbow at Mount Cammerer fire tower in Great Smoky Mountain National Park.' No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+  - 🎬 Source: [Fire tower view — Mount Cammerer Fire Tower](https://www.instagram.com/reel/DF_OsTTyyi0/) by @amorywild (#None in that reel)
+- [ ] **12. [Mt. Le Conte](https://www.google.com/maps/search/?api=1&query=Mt.+Le+Conte+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Great Smoky Mountains National Park
+  - **Best for:** Hike / Summit — Caption names Mt Le Conte, Great Smoky Mountains National Park. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+  - 🎬 Source: [Summit hike — Mt. Le Conte](https://www.instagram.com/reel/DGA9Wbzu2VA/) by @amorywild (#None in that reel)
+- [ ] **13. [Myrtle Point](https://www.google.com/maps/search/?api=1&query=Myrtle+Point+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** View — Caption names Myrtle Point, and he identifies it in the video as one of his favorite viewpoints in Great Smoky Mountains National Park, with layers of forest-covered ridges fading into blue haze.
   - 🎬 Source: [Favorite viewpoint](https://www.instagram.com/reel/Deuf1XjvQ4O/) by @amorywild (#None in that reel)
-- [ ] **11. [Ramsey Cascades](https://www.google.com/maps/search/?api=1&query=Ramsey+Cascades+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- [ ] **14. [Ramsey Cascades](https://www.google.com/maps/search/?api=1&query=Ramsey+Cascades+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** Waterfall — Ranked #5 waterfall, shown as water flowing over dark rocks in the forest in the Smokies.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#5 in that reel)
-- [ ] **12. [Walls of Jericho](https://www.google.com/maps/search/?api=1&query=Walls+of+Jericho+TN)** — Walls of Jericho (Alabama–Tennessee state line), Winchester
+- [ ] **15. [Snooper's Rock](https://www.google.com/maps/search/?api=1&query=Snooper's+Rock+Chattanooga+TN)** — Prentice Cooper State Forest, Chattanooga
+  - **Best for:** Sunrise / View — Caption names Snooper's Rock, Chattanooga, TN. The video shows sunrise from the overlook: a sea of fog filling the valleys below, the sun emerging and turning the fog into a shimmering golden blanket — a tranquil, static sunrise scene with gentle piano music.
+  - Pin is the Snoopers Rock kiosk/trailhead point; the overlook is a short walk from it.
+  - 🎬 Source: [Sunrise viewpoint — Snooper's Rock](https://www.instagram.com/reel/DF_MIxuShFQ/) by @amorywild (#None in that reel)
+- [ ] **16. [Sunset Rock](https://www.google.com/maps/search/?api=1&query=Sunset+Rock+Lookout+Mountain+TN)** — Lookout Mountain, Lookout Mountain
+  - **Best for:** Sunset / View — Caption names Sunset Rock, Chattanooga, TN, tagged #sunset and #mountains; the tagged location is Sunset Rock. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+  - 🎬 Source: [Sunset viewpoint — Sunset Rock](https://www.instagram.com/reel/DGLkNTrpHLu/) by @amorywild (#None in that reel)
+- [ ] **17. [Walls of Jericho](https://www.google.com/maps/search/?api=1&query=Walls+of+Jericho+TN)** — Walls of Jericho (Alabama–Tennessee state line), Winchester
   - **Best for:** Hike / Waterfall — Caption names the Walls of Jericho Hike on the Alabama/Tennessee border, with hiking and waterfall hashtags; tagged location is Walls of Jericho. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - The canyon straddles the Alabama–Tennessee line. Nominatim places the Walls of Jericho cliff feature in Franklin County, Tennessee, just across the line from the Alabama trailheads; filed under Tennessee (Southeast region either way).
   - 🎬 Source: [Hiking — Walls of Jericho](https://www.instagram.com/reel/DGQQ9E5ucHu/) by @amorywild (#None in that reel)
 
 ### Virginia
 
-- [ ] **13. [Shenandoah National Park](https://www.google.com/maps/search/?api=1&query=Shenandoah+National+Park+VA)** — Shenandoah National Park, Luray
+- [ ] **18. [Old Rag](https://www.google.com/maps/search/?api=1&query=Old+Rag+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - **Best for:** Hike / Adrenaline — His #3 adrenaline hike: hikers squeezing through tight boulder chimneys and scrambling over granite slabs to reach expansive mountain vistas.
+  - 🎬 Source: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild (#3 in that reel)
+- [ ] **19. [Shenandoah National Park](https://www.google.com/maps/search/?api=1&query=Shenandoah+National+Park+VA)** — Shenandoah National Park, Luray
   - **Best for:** Top national park (East) — Ranked #4 in the East, highlighted for mountain vistas along Skyline Drive at sunset, green ridges and a waterfall over mossy rocks.
   - 🎬 Source: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild (#4 in that reel)
+- [ ] **20. [Upper Hawksbill Trail](https://www.google.com/maps/search/?api=1&query=Upper+Hawksbill+Trail+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - **Best for:** Hike / Summit — Caption names the Upper Hawksbill Trail, Shenandoah National Park. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+  - Pin is Hawksbill summit, the Upper Hawksbill Trail's destination and the park's highest point.
+  - 🎬 Source: [Summit trail — Upper Hawksbill Trail](https://www.instagram.com/reel/DF-nmBxpSka/) by @amorywild (#None in that reel)
+
+### West Virginia
+
+- [ ] **21. [New River Gorge National Park and Preserve](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+National+Park+and+Preserve+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Oak Hill
+  - **Best for:** Underrated park — His #5 in '5 Most Underrated National Parks' (of the 63 he has visited): autumn-colored forests, the large steel arch bridge spanning the gorge, the river below, and a mossy waterfall.
+  - Park-level pin is the park's Nominatim point in its southern district.
+  - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#5 in that reel)
 
 ## Midwest Region {#midwest}
 
-**2 places · Michigan, South Dakota**
+**3 places · Michigan, North Dakota, South Dakota**
 
 ### Michigan
 
@@ -118,15 +160,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Solitude — Ranked #3 for solitude, a remote island of forests and lakes reached only by boat or seaplane, with wolf howls at night.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#3 in that reel)
 
+### North Dakota
+
+- [ ] **2. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+  - **Best for:** Underrated park — His #2 underrated park: badlands terrain, bison crossing a road, wild horses at sunset, prairie dogs, and a river sunset view.
+  - Park-level pin is the park's Nominatim point in the South Unit.
+  - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#2 in that reel)
+  - 🎬 Also recommended by: [Wildlife — Theodore Roosevelt National Park](https://www.instagram.com/reel/Dd71F1qOrV3/) by @amorywild
+    - **Best for:** Wildlife / Sunset — Captioned 'Been waiting for this my whole life…'; tagged location Theodore Roosevelt National Park. Filmed from a vehicle at sunset: two wild horses silhouetted on a grassy ridgeline against the orange sky, one lowering its head to graze. On-screen text: 'When you finally see wild horses on a ridgeline at sunset, perfectly silhouetted...' — a park-level wildlife moment, no specific spot named.
+
 ### South Dakota
 
-- [ ] **2. [Badlands National Park](https://www.google.com/maps/search/?api=1&query=Badlands+National+Park+SD)** — Badlands National Park, Interior
+- [ ] **3. [Badlands National Park](https://www.google.com/maps/search/?api=1&query=Badlands+National+Park+SD)** — Badlands National Park, Interior
   - **Best for:** Sunset — Tagged and captioned as Badlands at sunset. The video is a first-person panorama over eroded cliffs, buttes and prairie valleys as the sky turns orange, pink and yellow.
   - 🎬 Source: [Sunset — Badlands National Park](https://www.instagram.com/reel/DfLCfQtO7rm/) by @amorywild (#None in that reel)
 
 ## Southwest Region {#southwest}
 
-**27 places · Arizona, Colorado, Nevada, Texas, Utah**
+**31 places · Arizona, Colorado, Nevada, Texas, Utah**
 
 ### Arizona
 
@@ -137,6 +188,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [ ] **2. [Lipan Point](https://www.google.com/maps/search/?api=1&query=Lipan+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Sunset — Captioned 'Sunset at Lipan Point' in Grand Canyon National Park. The video shows the sun on the horizon casting a shaft of golden light across the canyon as the camera pans over its layered walls.
   - 🎬 Source: [Sunset viewpoint — Lipan Point](https://www.instagram.com/reel/DGYHwrqOnXT/) by @amorywild (#None in that reel)
+  - 🎬 Also recommended by: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild
+    - **Best for:** View / Sunset — His #3 viewpoint: shown at sunset with golden light illuminating the vast canyon layers.
 - [ ] **3. [South Kaibab and Bright Angel Trails (Phantom Ranch)](https://www.google.com/maps/search/?api=1&query=South+Kaibab+and+Bright+Angel+Trails+(Phantom+Ranch)+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Hike — Ranked #1, illustrated with sunrise views over the red-rock canyon, the rim trail and the Colorado River below.
   - Pin is the South Kaibab Trailhead. Phantom Ranch, at the bottom of the route, is at 36.1044, -112.0953.
@@ -145,6 +198,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike — Ranked #2, a 17-mile route with about 4,500 feet of gain done in June with snow at the top, which he calls one of the most beautiful hikes he has done despite loose rock.
   - 🎬 Also recommended by: [Hiking — South Kaibab Trail](https://www.instagram.com/reel/DfNNQJJR2SI/) by @amorywild
     - **Best for:** Hike — Caption names South Kaibab in the Grand Canyon, and on-screen text calls it one of the greatest hikes on earth. The footage shows canyon cliffs, the river below and a suspension bridge from an elevated overlook.
+  - 🎬 Also recommended by: [Canyon river scenery — Phantom Ranch](https://www.instagram.com/reel/DGLkvygpErQ/) by @amorywild
+    - **Best for:** View — Caption names Phantom Ranch in Grand Canyon National Park. The video shows the Colorado River at the canyon bottom: muddy, fast water rushing between steep rocky walls, green vegetation along both banks, under a blue sky with white clouds — a serene but powerful river scene with no people in frame.
+  - 🎬 Also recommended by: [Trail view — South Kaibab Trail](https://www.instagram.com/reel/DF_S2xgSZNf/) by @amorywild
+    - **Best for:** Hike / View — Caption names the South Kaibab Trail, Grand Canyon National Park. The video is a slow panoramic pan across the canyon's layered rock formations and steep cliffs, with a rocky trail in the foreground and a bright blue sky — a peaceful, wide-open canyon view.
 - [ ] **4. [Wasson Peak](https://www.google.com/maps/search/?api=1&query=Wasson+Peak+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
   - **Best for:** Hike — Ranked #5, hiking among giant saguaro cacti to a summit with panoramic desert mountain views at sunset.
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#5 in that reel)
@@ -161,48 +218,63 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [ ] **7. [High Dune](https://www.google.com/maps/search/?api=1&query=High+Dune+Great+Sand+Dunes+National+Park+and+Preserve+CO)** — Great Sand Dunes National Park and Preserve, Alamosa
   - **Best for:** Hike — Ranked #2, climbing a massive sand dune with sweeping views of endless rippling dunes to distant mountains.
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#2 in that reel)
-- [ ] **8. [Lake Haiyaha Trail](https://www.google.com/maps/search/?api=1&query=Lake+Haiyaha+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- [ ] **8. [Lake Estes](https://www.google.com/maps/search/?api=1&query=Lake+Estes+Estes+Park+CO)** — , Estes Park
+  - **Best for:** Sunset / View — Caption names Lake Estes, Estes Park, CO (tagged #sunrise). The video actually shows sunset over the lake — pink, orange and purple sky reflected in the rippling water, silhouetted treeline and mountains — then transitions through dusk to a clear daytime view of the snow-dusted peaks.
+  - 🎬 Source: [Lake scenery — Lake Estes](https://www.instagram.com/reel/DF_OK-vS9g6/) by @amorywild (#None in that reel)
+- [ ] **9. [Lake Haiyaha Trail](https://www.google.com/maps/search/?api=1&query=Lake+Haiyaha+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Winter hike — Caption names the Lake Haiyaha Trail in Rocky Mountain National Park with a snow emoji; the tag adds Colorado. The video follows a hiker laughing and walking a snowy trail through a snow-covered mountain landscape — a joyful winter hike.
   - Pin is Lake Haiyaha, the trail's destination.
   - 🎬 Source: [Hiking — Lake Haiyaha Trail](https://www.instagram.com/reel/DGTIqslJiFN/) by @amorywild (#None in that reel)
+- [ ] **10. [Rocky Mountain National Park](https://www.google.com/maps/search/?api=1&query=Rocky+Mountain+National+Park+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+  - **Best for:** Hike — His #5 in 'My Top 5 National Parks For Hiking': shown with wide views of snow-dusted peaks, valleys, frozen lakes, rocky summits and a cascading waterfall. (The media-understanding transcript renders the name as 'Rocky Mountains National Park.')
+  - Park-level pin is the park's Nominatim point on the east side, near the Beaver Meadows entrance.
+  - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#5 in that reel)
 
 ### Nevada
 
-- [ ] **9. [Red Rock Canyon National Conservation Area](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV)** — Red Rock Canyon National Conservation Area, Las Vegas
+- [ ] **11. [Red Rock Canyon National Conservation Area](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV)** — Red Rock Canyon National Conservation Area, Las Vegas
   - **Best for:** Sunset — Caption names Red Rock Canyon, NV, with a sunset hashtag. The video pans over desert mountains at dusk under a blue-to-orange sky and says the spot is just fifteen minutes from Las Vegas — a peaceful desert contrast to the city.
   - Caption calls it 'Red Rock Canyon State Park, NV', but the Las Vegas-area spot in the video (15 minutes from the city) is Red Rock Canyon National Conservation Area, the BLM conservation area west of Las Vegas; Red Rock Canyon State Park is a different park in California. Pin is the conservation area's visitor center on the Scenic Loop (the Nominatim nature-reserve centroid was the alternative).
   - 🎬 Source: [Sunset — Red Rock Canyon](https://www.instagram.com/reel/DGVlZoGoEAa/) by @amorywild (#None in that reel)
 
 ### Texas
 
-- [ ] **10. [Big Bend National Park](https://www.google.com/maps/search/?api=1&query=Big+Bend+National+Park+TX)** — Big Bend National Park, Terlingua
+- [ ] **12. [Big Bend National Park](https://www.google.com/maps/search/?api=1&query=Big+Bend+National+Park+TX)** — Big Bend National Park, Terlingua
   - **Best for:** Top national park — Ranked #20 in his top national parks, shown with rocky canyons, Window Trail views and desert landscapes.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#20 in that reel)
-- [ ] **11. [Devil's Hall](https://www.google.com/maps/search/?api=1&query=Devil's+Hall+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+  - 🎬 Also recommended by: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild
+    - **Best for:** Underrated park — His #1 underrated park, presented as remote and spectacular: a person walking toward towering canyon walls along the Rio Grande, views from the Window Trail, and expansive mountain landscapes.
+- [ ] **13. [Devil's Hall](https://www.google.com/maps/search/?api=1&query=Devil's+Hall+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** Hike — Ranked #5, a narrow, steep-walled canyon with layered rock formations and boulder scrambling.
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#5 in that reel)
-- [ ] **12. [Emory Peak](https://www.google.com/maps/search/?api=1&query=Emory+Peak+Big+Bend+National+Park+TX)** — Big Bend National Park, Chisos Basin
+- [ ] **14. [Emory Peak](https://www.google.com/maps/search/?api=1&query=Emory+Peak+Big+Bend+National+Park+TX)** — Big Bend National Park, Chisos Basin
   - **Best for:** Hike — Ranked #4, with expansive 360-degree mountain vistas from a rocky summit.
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#4 in that reel)
-- [ ] **13. [Guadalupe Peak](https://www.google.com/maps/search/?api=1&query=Guadalupe+Peak+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+- [ ] **15. [Guadalupe Peak](https://www.google.com/maps/search/?api=1&query=Guadalupe+Peak+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** View — Ranked #5 for views, shown with its summit marker and sweeping desert mountain vistas.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#5 in that reel)
-- [ ] **14. [The Window Trail](https://www.google.com/maps/search/?api=1&query=The+Window+Trail+Big+Bend+National+Park+TX)** — Big Bend National Park, Chisos Basin
+- [ ] **16. [Santa Elena Canyon](https://www.google.com/maps/search/?api=1&query=Santa+Elena+Canyon+Big+Bend+National+Park+TX)** — Big Bend National Park, Big Bend National Park
+  - **Best for:** Easy hike — His #5 in 'Top 5 Easy National Park Hikes': a person walking the trail beside towering canyon walls and the Rio Grande river.
+  - Pin is on the Santa Elena Canyon Trail at the canyon mouth; the drive-to overlook is ~1 km east.
+  - 🎬 Source: [Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/) by @amorywild (#5 in that reel)
+- [ ] **17. [The Window Trail](https://www.google.com/maps/search/?api=1&query=The+Window+Trail+Big+Bend+National+Park+TX)** — Big Bend National Park, Chisos Basin
   - **Best for:** Featured spot (guessing game) — Third photo, correctly identified as Big Bend National Park, The Window Trail, showing a desert rocky trail.
   - 🎬 Source: [Guess the National Park game — The Window Trail](https://www.instagram.com/reel/DepK7AbMgFF/) by @amorywild (#None in that reel)
 
 ### Utah
 
-- [ ] **15. [Angels Landing](https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT)** — Zion National Park, Springdale
+- [ ] **18. [Angels Landing](https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Hike — Caption names Angels Landing in Zion National Park (caption spells it 'Angel's Landing'). No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Caption spells it 'Angel's Landing'; corrected to the official name, Angels Landing.
   - 🎬 Source: [Hiking — Angels Landing](https://www.instagram.com/reel/DGk-9K9OoBr/) by @amorywild (#None in that reel)
-- [ ] **16. [Bryce Canyon National Park](https://www.google.com/maps/search/?api=1&query=Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
+  - 🎬 Also recommended by: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild
+    - **Best for:** Hike / Adrenaline — His #2 adrenaline hike: the steep red-rock ascent, hikers holding chains along an exposed ridge, and panoramic views of Zion Canyon.
+- [ ] **19. [Bryce Canyon National Park](https://www.google.com/maps/search/?api=1&query=Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
   - **Best for:** Top national park — Ranked #19, featuring orange hoodoos at sunset and snow-dusted formations.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#19 in that reel)
   - 🎬 Also recommended by: [Park scenery — Bryce Canyon National Park](https://www.instagram.com/reel/DGx4mhMJiZv/) by @amorywild
     - **Best for:** View — Caption names Bryce Canyon National Park, Utah. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
-- [ ] **17. [Canyon Overlook](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
+- [ ] **20. [Canyon Overlook](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Sunrise — Ranked #3 for sunrise in the reel. Massive red rock cliffs glow bright orange as the sun hits Zion Canyon.
   - End of the 1-mile Canyon Overlook Trail, just east of the Zion-Mount Carmel Tunnel.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#3 in that reel)
@@ -210,66 +282,156 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Sunrise or sunset / Short hike — Recommends it as one of Zion's best views and possibly its best short hike: about 1 mile round trip, ~160 ft elevation gain, allow 1-2 hours, trailhead just east of the Zion-Mount Carmel Tunnel, with epic views over Pine Creek Canyon and Zion's cliffs. Incredible at sunrise or sunset. Short but with exposed drop-offs, so keep kids close.
   - 🎬 Also recommended by: [Canyon Overlook Trail — Epic View Without Angels Landing](https://www.instagram.com/reel/DfP7jlPPlAI/) by @beesforbeau
     - **Best for:** Short hike / Big view, Angels Landing alternative — Recommends Canyon Overlook as the next best thing if you don't want Angels Landing's chains and climb or couldn't get a permit: about 1 mile round trip, about 20 minutes to the view and allow about an hour total, just east of the Zion-Mount Carmel Tunnel, past sandstone formations, rock alcoves and exposed sections. A short hike that delivers big views, worth adding to a Zion itinerary. Parking is very limited, so arrive early.
-- [ ] **18. [Capitol Reef National Park](https://www.google.com/maps/search/?api=1&query=Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+  - 🎬 Also recommended by: [Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/) by @amorywild
+    - **Best for:** Easy hike / View — His #3 easy hike, named in the narration as 'Zion Canyon Overlook': panoramic sunset views of the red rock canyon. (Same spot as the existing Canyon Overlook place — kept as a separate entry for dedupe at merge.)
+- [ ] **21. [Canyonlands National Park](https://www.google.com/maps/search/?api=1&query=Canyonlands+National+Park+Canyonlands+National+Park+UT)** — Canyonlands National Park, Moab
+  - **Best for:** Underrated park — His #4 underrated park: vast red-rock desert vistas, layered canyons, and a person walking through narrow slot canyons.
+  - Park-level pin is the park's Nominatim point in the Needles district.
+  - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#4 in that reel)
+- [ ] **22. [Capitol Reef National Park](https://www.google.com/maps/search/?api=1&query=Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Solitude — Ranked #5 for solitude, with red rock and slot canyons and overlooks where he notes you might not see another person on longer trails.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#5 in that reel)
-- [ ] **19. [Cassidy Arch](https://www.google.com/maps/search/?api=1&query=Cassidy+Arch+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+- [ ] **23. [Cassidy Arch](https://www.google.com/maps/search/?api=1&query=Cassidy+Arch+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Hike — Ranked #1, a large natural red-rock arch spanning a deep canyon, shown with a lone figure standing on top of it.
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#1 in that reel)
-- [ ] **20. [Delicate Arch](https://www.google.com/maps/search/?api=1&query=Delicate+Arch+Arches+National+Park+UT)** — Arches National Park, Moab
+- [ ] **24. [Delicate Arch](https://www.google.com/maps/search/?api=1&query=Delicate+Arch+Arches+National+Park+UT)** — Arches National Park, Moab
   - **Best for:** Hike — Ranked #3, the iconic freestanding red sandstone arch shown against a blue sky with distant snow-capped mountains.
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#3 in that reel)
-- [ ] **21. [Devil's Garden](https://www.google.com/maps/search/?api=1&query=Devil's+Garden+Arches+National+Park+UT)** — Arches National Park, Moab
+  - 🎬 Also recommended by: [Arch view — Delicate Arch](https://www.instagram.com/reel/DeGNe_OBZMp/) by @amorywild
+    - **Best for:** View / Hike — Caption and tagged location name Delicate Arch. The video shows the massive freestanding red sandstone arch in bright sun with one person standing near its base for scale; overlaid text reads 'How can this exist?' — a tone of wonder at the formation.
+- [ ] **25. [Devil's Garden](https://www.google.com/maps/search/?api=1&query=Devil's+Garden+Arches+National+Park+UT)** — Arches National Park, Moab
   - **Best for:** Hike — Ranked #1 unique hike, showcasing large natural arches including Landscape Arch and red rock formations.
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#1 in that reel)
-- [ ] **22. [Fairyland Loop](https://www.google.com/maps/search/?api=1&query=Fairyland+Loop+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce
+- [ ] **26. [Fairyland Loop](https://www.google.com/maps/search/?api=1&query=Fairyland+Loop+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce
   - **Best for:** Hike — Ranked #4 unique hike, featuring orange-red hoodoos, snow on the trail and views through natural rock windows.
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#4 in that reel)
-- [ ] **23. [Joint Trail](https://www.google.com/maps/search/?api=1&query=Joint+Trail+Canyonlands+National+Park+UT)** — Canyonlands National Park, Needles District
+- [ ] **27. [Joint Trail](https://www.google.com/maps/search/?api=1&query=Joint+Trail+Canyonlands+National+Park+UT)** — Canyonlands National Park, Needles District
   - **Best for:** Hike — Ranked #2 unique hike, with hikers squeezing through extremely narrow slot canyons between tall sandstone walls.
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#2 in that reel)
-- [ ] **24. [Needles District](https://www.google.com/maps/search/?api=1&query=Needles+District+Canyonlands+National+Park+UT)** — Canyonlands National Park, Needles District
+- [ ] **28. [Needles District](https://www.google.com/maps/search/?api=1&query=Needles+District+Canyonlands+National+Park+UT)** — Canyonlands National Park, Needles District
   - **Best for:** Solitude — Ranked #2 for solitude, specifically the Needles District, praised for its red rock formations, narrow canyons and beautiful night skies.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#2 in that reel)
-- [ ] **25. [Sunrise Point](https://www.google.com/maps/search/?api=1&query=Sunrise+Point+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce Canyon City
+- [ ] **29. [Sunrise Point](https://www.google.com/maps/search/?api=1&query=Sunrise+Point+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce Canyon City
   - **Best for:** Sunrise — Ranked #1 for sunrise in the reel, its top pick. Snow-dusted hoodoos bathed in intense golden-orange morning light.
   - Rim overlook at the north end of the Bryce Amphitheater, start of the Queens Garden Trail.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#1 in that reel)
-- [ ] **26. [The Narrows](https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT)** — Zion National Park, Zion Canyon
+- [ ] **30. [The Narrows](https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT)** — Zion National Park, Zion Canyon
   - **Best for:** Hike — Ranked #4, a 10.5-mile round trip wading the Virgin River in cold water. He went in June during snowmelt and used a dry bib wetsuit.
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#4 in that reel)
-- [ ] **27. [Zion Canyon](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT)** — Zion National Park, Springdale
+  - 🎬 Also recommended by: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild
+    - **Best for:** Hike / Adrenaline — His #4 adrenaline hike: wading through a muddy river between towering canyon walls in Zion.
+- [ ] **31. [Zion Canyon](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** View — A static scenic shot of Zion Canyon: the Virgin River (name inferred from the location) flowing between massive orange-and-white striated cliffs in warm early-morning or late-afternoon light, posted as a calm, meditative nature scene.
   - 🎬 Source: [Scenic viewpoint — Zion Canyon](https://www.instagram.com/reel/DGqUbwIpLIH/) by @amorywild (#None in that reel)
+  - 🎬 Also recommended by: [Scenic ride — Zion Canyon](https://www.instagram.com/reel/DGIocRzuRcL/) by @amorywild
+    - **Best for:** Scenic ride / View — Captioned 'Bike ride in Zion Canyon.' The video is a continuous first-person ride along the winding canyon road, with towering red rock cliffs and sparse trees lining the path under a clear blue sky, set to a slow indie folk song — a meditative, scenic ride through the canyon.
 
 ## Mountain West Region {#mountain-west}
 
-**5 places · Montana, Wyoming**
+**27 places · Montana, Wyoming**
 
 ### Montana
 
 - [ ] **1. [Avalanche Lake](https://www.google.com/maps/search/?api=1&query=Avalanche+Lake+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Hike — Caption and tagged location name Avalanche Lake in Glacier National Park. The video pans along a turquoise alpine lake under forested, snow-patched peaks and asks whether this is the best hike in West Glacier.
   - 🎬 Source: [Hiking — Avalanche Lake](https://www.instagram.com/reel/DedQ0ksvhco/) by @amorywild (#None in that reel)
-- [ ] **2. [Stanton Mountain](https://www.google.com/maps/search/?api=1&query=Stanton+Mountain+Glacier+National+Park+MT)** — Glacier National Park, Lake McDonald
+- [ ] **2. [Glacier National Park](https://www.google.com/maps/search/?api=1&query=Glacier+National+Park+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
+  - **Best for:** Hike — His #1 for hiking, presented as the most beautiful: high-elevation views of long lakes between snow-streaked mountains and hiker footage on alpine trails.
+  - Park-level pin is the park's Nominatim point on the Going-to-the-Sun Road corridor.
+  - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#1 in that reel)
+- [ ] **3. [Stanton Mountain](https://www.google.com/maps/search/?api=1&query=Stanton+Mountain+Glacier+National+Park+MT)** — Glacier National Park, Lake McDonald
   - **Best for:** Hike — Ranked #5, an 8-mile round trip with about 4,500 feet of gain, mostly off-trail on the second half. He stopped short of the summit in snow but had views of Lake McDonald.
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#5 in that reel)
-- [ ] **3. [Virginia Falls](https://www.google.com/maps/search/?api=1&query=Virginia+Falls+Glacier+National+Park+MT)** — Glacier National Park, St. Mary
+- [ ] **4. [Virginia Falls](https://www.google.com/maps/search/?api=1&query=Virginia+Falls+Glacier+National+Park+MT)** — Glacier National Park, St. Mary
   - **Best for:** Waterfall — Ranked #1 waterfall, a tall, misty waterfall in a forested valley.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#1 in that reel)
+  - 🎬 Also recommended by: [Waterfall — Virginia Falls](https://www.instagram.com/reel/Dd951SeBW1m/) by @amorywild
+    - **Best for:** Waterfall / Hike — Caption names Virginia Falls; tagged location Glacier National Park. The video shows the falls cascading down a rocky cliff into a pool, from multiple angles across the stream and close up, with mist, moss-covered rocks and fallen logs in the foreground stream. On-screen text: 'Does it get any better...?'
 
 ### Wyoming
 
-- [ ] **4. [Hidden Falls](https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
+- [ ] **5. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** View / Waterfall — His #2 viewpoint: the Lower Falls of the Yellowstone River cascading through the colorful canyon.
+  - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#2 in that reel)
+- [ ] **6. [Artists Paint Pots](https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Hot spring — Day 3: Artists Paint Pots, on the Norris / Gibbon Falls day of the trip.
+  - Park signage and OSM spell the name 'Artists Paintpots' (one word); the candidate's spelling is kept.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **7. [Bunsen Peak](https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Hike / Summit — Day 4: a hike up Bunsen Peak for mountain views, on the Mammoth Hot Springs day.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **8. [Fairy Falls](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Waterfall — Day 2: Fairy Falls, hiked on the same outing as the Grand Prismatic Spring overlook.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **9. [Firehole Falls](https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Waterfall — Day 1: Firehole Falls, after the geyser basin, on a day that also featured bison including a calf.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **10. [Gibbon Falls](https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Waterfall — Day 3: Gibbon Falls, roadside falls visited with Norris Geyser Basin and Artists Paint Pots.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **11. [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Hot spring / View — Day 2: Grand Prismatic Spring seen from both ground level and the overlook.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **12. [Grand Teton National Park](https://www.google.com/maps/search/?api=1&query=Grand+Teton+National+Park+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+  - **Best for:** Wildlife — His #5 in 'My Top 5 National Parks For Wildlife Viewing': a moose grazing by a roadside fence, a porcupine in brush, and a herd of bison in an open field.
+  - Park-level pin is the park's Nominatim point near the park's centre.
+  - 🎬 Source: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild (#5 in that reel)
+- [ ] **13. [Grotto Geyser](https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Geyser — Day 1: Grotto Geyser, on the same Upper Geyser Basin walk as Old Faithful and Morning Glory Pool.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **14. [Hidden Falls](https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
   - **Best for:** Waterfall — Ranked #4 waterfall, a powerful cascade surrounded by evergreen trees and rocky terrain.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#4 in that reel)
-- [ ] **5. [Jenny Lake](https://www.google.com/maps/search/?api=1&query=Jenny+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
+- [ ] **15. [Jenny Lake](https://www.google.com/maps/search/?api=1&query=Jenny+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
   - **Best for:** View — Ranked #1 for views, highlighted by the clear lake reflecting the snow-capped Teton peaks.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#1 in that reel)
+- [ ] **16. [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Wildlife — Day 6: Lamar Valley, where distant wolves were spotted — the wildlife finale of the trip.
+  - Pin is OSM's Lamar Valley locality point in the valley's eastern half.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **17. [LeHardy Rapids](https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Wildlife / Rapids — Day 5: LeHardy Rapids, where he watched harlequin ducks in the rapids.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **18. [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Hot spring / Terraces — Day 4: the Mammoth Hot Springs terraces; the day also brought three grizzly bears grazing.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **19. [Morning Glory Pool](https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Hot spring — Day 1: Morning Glory Pool, visited on the Upper Geyser Basin loop with Old Faithful and Grotto Geyser.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **20. [Mud Volcano](https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Thermal area — Day 5: the steaming Mud Volcano thermal area.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **21. [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Geyser basin — Day 3: Norris Geyser Basin, visited with Artists Paint Pots and Gibbon Falls.
+  - Pin is the basin's attraction point by the Norris Museum area.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **22. [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Geyser — Day 1 of his 6-day Yellowstone recap: the south entrance, then Old Faithful erupting in the Upper Geyser Basin.
+  - Pin is the Old Faithful Inn point: Nominatim resolves 'Old Faithful' to the visitor complex, ~250 m from the geyser cone.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **23. [Trout Lake](https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Lake / Hike — Day 6: Trout Lake, hiked on the Lamar Valley day.
+  - The Trout Lake by Pebble Creek in the park's northeast, verified inside the park boundary — several other Wyoming Trout Lakes exist and were rejected by a park-bounded search.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **24. [Undine Falls](https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Waterfall — Day 6: Undine Falls, on the final day that also brought a black bear near the roadside.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **25. [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Geyser basin — Day 5: West Thumb Geyser Basin on the shore of Yellowstone Lake.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **26. [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Lake / View — Day 5: Yellowstone Lake, visited with West Thumb Geyser Basin and the Mud Volcano area.
+  - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
+- [ ] **27. [Yellowstone National Park](https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY)** — Yellowstone National Park, Gardiner
+  - **Best for:** Wildlife — His #1 for wildlife, described as the most diverse: bison including a calf, an elk grazing, multiple grizzly bears foraging, distant wolves in a meadow, a pronghorn antelope, bighorn sheep by a road, a marmot on rocks, harlequin ducks in rapids, and a black bear crossing pavement.
+  - Park-level pin is the park's Nominatim point near the Canyon area.
+  - 🎬 Source: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild (#1 in that reel)
+  - 🎬 Also recommended by: [Wildlife — Yellowstone National Park](https://www.instagram.com/reel/DeLVPl3tfKu/) by @amorywild
+    - **Best for:** Wildlife — Tagged location Yellowstone. On-screen text: 'A home with a view...' The video zooms in on a marmot nestled in a crevice between boulders, then pans to reveal its 'view': a tall, powerful waterfall cascading down a sheer cliff into a calm pool, snow patches near the top. The waterfall is not named anywhere in the post, so this entry is at park level.
 
 ## West Region {#west}
 
-**20 places · California**
+**31 places · California**
 
 ### California
 
@@ -281,69 +443,118 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Sunset — Caption names a sunset on Big Oak Flat Road in Yosemite National Park. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Pin is a point on the road's in-park stretch between the Big Oak Flat entrance and Crane Flat.
   - 🎬 Source: [Sunset — Big Oak Flat Road](https://www.instagram.com/reel/DGjsVpgt6sH/) by @amorywild (#None in that reel)
-- [ ] **3. [Death Valley National Park](https://www.google.com/maps/search/?api=1&query=Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- [ ] **3. [Channel Islands National Park](https://www.google.com/maps/search/?api=1&query=Channel+Islands+National+Park+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Rosa Island
+  - **Best for:** Island park — His #3 island park: dramatic ocean cliffs, a boat in a cove, dolphins swimming, and a small island fox, with on-screen text noting '*also foxes!'.
+  - Park-level pin is the park's Nominatim point on Santa Rosa Island; the mainland visitor centre is in Ventura.
+  - 🎬 Source: [Top 5 Island National Parks](https://www.instagram.com/reel/DeHMvdrBhtb/) by @amorywild (#3 in that reel)
+- [ ] **4. [Dante's View](https://www.google.com/maps/search/?api=1&query=Dante's+View+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
+  - **Best for:** View — His #5 viewpoint: sweeping sunrise/sunset views over the salt flats and distant mountains.
+  - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#5 in that reel)
+  - 🎬 Also recommended by: [Sunrise viewpoint — Dante's View](https://www.instagram.com/reel/DGDosKGJBg0/) by @amorywild
+    - **Best for:** Sunrise / View — Captioned 'Sunrise at Dante's View, Death Valley National Park,' tagged #sunrise. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- [ ] **5. [Death Valley National Park](https://www.google.com/maps/search/?api=1&query=Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Solitude — Ranked #4 for solitude, with vast desert vistas, salt flats and old mining structures, described as so quiet it gets spooky.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [My Top 5 Winter National Parks](https://www.instagram.com/reel/DeiJu-bBcEn/) by @amorywild
     - **Best for:** Winter visit — Ranked #4 for winter, featuring yellow wildflowers with snow-capped mountains, a narrow canyon, salt flats and a sunset over the valley.
   - 🎬 Also recommended by: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild
     - **Best for:** Top national park — Ranked #15, displaying salt flats, colorful badlands and canyons.
-- [ ] **4. [Ella Falls](https://www.google.com/maps/search/?api=1&query=Ella+Falls+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
+- [ ] **6. [Ella Falls](https://www.google.com/maps/search/?api=1&query=Ella+Falls+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
   - **Best for:** Featured spot (guessing game) — Fourth photo, correctly identified as Kings Canyon National Park, Ella Falls, showing a waterfall.
   - 🎬 Source: [Guess the National Park game — Ella Falls](https://www.instagram.com/reel/DepK7AbMgFF/) by @amorywild (#None in that reel)
-- [ ] **5. [Fern Canyon](https://www.google.com/maps/search/?api=1&query=Fern+Canyon+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- [ ] **7. [Fern Canyon](https://www.google.com/maps/search/?api=1&query=Fern+Canyon+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Hike — Ranked #5 unique hike, a lush narrow canyon with fern-covered walls and a shallow rocky stream, noted as a Jurassic Park filming location.
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#5 in that reel)
-- [ ] **6. [Four Mile Trail to Glacier Point](https://www.google.com/maps/search/?api=1&query=Four+Mile+Trail+to+Glacier+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- [ ] **8. [Four Mile Trail to Glacier Point](https://www.google.com/maps/search/?api=1&query=Four+Mile+Trail+to+Glacier+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Hike — Caption names the Four Mile Trail to Glacier Point in Yosemite as the post's hike. No media narrative was stored for this post, so this is based on the caption only.
   - Pin is Glacier Point, the destination of the Four Mile Trail.
   - 🎬 Source: [Hiking — Four Mile Trail to Glacier Point](https://www.instagram.com/p/DGx5pUQpGri/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Winter viewpoint — Glacier Point](https://www.instagram.com/reel/DGYHDN0u_jZ/) by @amorywild
     - **Best for:** Winter view / View — Captioned 'Glacier point in winter' in Yosemite. The video pans across a snow-covered Yosemite Valley with Half Dome in winter conditions — a quiet, snow-blanketed version of the classic Glacier Point panorama. Glacier Point is the destination viewpoint of the Four Mile Trail, and this place's pin is Glacier Point itself.
-- [ ] **7. [Inspiration Peak (Inspiration Point)](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+  - 🎬 Also recommended by: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild
+    - **Best for:** View — His #4 viewpoint: panoramic winter views of snow-covered granite cliffs, the valley floor, and Half Dome.
+- [ ] **9. [Gold Bluffs Beach](https://www.google.com/maps/search/?api=1&query=Gold+Bluffs+Beach+Redwood+National+Park+CA)** — Redwood National Park, Redwood National Park
+  - **Best for:** Beach / View — Caption names Gold Bluffs Beach, Redwood National Park. The video shows the dark sand beach under an overcast sky, a stream flowing across the sand into the ocean, white-capped waves, and a misty forested hillside — a solitary, meditative shoreline scene set to Satie's 'Gymnopédie No. 1.'
+  - 🎬 Source: [Beach scenery — Gold Bluffs Beach](https://www.instagram.com/reel/DF_SMJdSxhL/) by @amorywild (#None in that reel)
+- [ ] **10. [Gower Gulch](https://www.google.com/maps/search/?api=1&query=Gower+Gulch+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
+  - **Best for:** View / Hike — Caption names Gower Gulch, Death Valley National Park. The video pans slowly across a serene desert landscape of rolling hills and distant mountains under an overcast sky, with a steady heartbeat-like rhythm — emphasizing the vastness and solitude of the desert.
+  - Pin is the Gower Gulch wash at the CA-190 trailhead crossing below Zabriskie Point.
+  - 🎬 Source: [Desert scenery — Gower Gulch](https://www.instagram.com/reel/DF_R0CDS1JH/) by @amorywild (#None in that reel)
+- [ ] **11. [High Peaks Trail](https://www.google.com/maps/search/?api=1&query=High+Peaks+Trail+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
+  - **Best for:** Hike — Caption names the High Peaks Trail, Pinnacles National Park. The video follows a hiker in first person on a dirt path through hilly country, then pans to rolling hills covered in dry grass and scattered trees under a partly cloudy sky — a peaceful, contemplative walk.
+  - Pin is an OSM path point on the High Peaks Trail in the park's high country.
+  - 🎬 Source: [Trail hike — High Peaks Trail](https://www.instagram.com/reel/DGA8iMHOQuc/) by @amorywild (#None in that reel)
+- [ ] **12. [Inspiration Peak (Inspiration Point)](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Sunrise — Ranked #5 for sunrise in the reel. Sweeping desert and mountain vistas at dawn, with orange skies over distant valleys.
   - Reel calls it Inspiration Point in Joshua Tree. The summit above Keys View is Mount Inspiration / Inspiration Peak (5,560 ft). Trailhead is the Keys View parking lot, 33.9272, -116.18745.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#5 in that reel)
-- [ ] **8. [Joshua Tree National Park](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- [ ] **13. [Joshua Tree National Park](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Winter visit — Ranked #3 for winter, showing arid mountain landscapes, boulder formations with a climber, and a sunset vista.
   - 🎬 Source: [My Top 5 Winter National Parks](https://www.instagram.com/reel/DeiJu-bBcEn/) by @amorywild (#3 in that reel)
-- [ ] **9. [Manzanita Lake](https://www.google.com/maps/search/?api=1&query=Manzanita+Lake+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Manzanita Lake
+- [ ] **14. [Manzanita Lake](https://www.google.com/maps/search/?api=1&query=Manzanita+Lake+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Manzanita Lake
   - **Best for:** Featured spot (guessing game) — Final photo, revealed as Lassen Volcanic National Park, Manzanita Lake, showing a lake with snow-capped mountains.
   - 🎬 Source: [Guess the National Park game — Manzanita Lake](https://www.instagram.com/reel/DepK7AbMgFF/) by @amorywild (#None in that reel)
-- [ ] **10. [Monterey Bay](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Monterey+CA)** — Monterey Bay, Monterey
+- [ ] **15. [Monterey Bay](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Monterey+CA)** — Monterey Bay, Monterey
   - **Best for:** Sunrise — Caption names a sunrise at Monterey Bay, CA; the tagged location is Monterey Pier. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Pin is Old Fisherman's Wharf in Monterey, matching the post's tagged location (Monterey Pier); Nominatim's Monterey Bay centroid sits offshore in the bay and was rejected as a pin.
   - 🎬 Source: [Sunrise — Monterey Bay](https://www.instagram.com/reel/DGQSaK9O-gV/) by @amorywild (#None in that reel)
-- [ ] **11. [Moro Rock](https://www.google.com/maps/search/?api=1&query=Moro+Rock+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- [ ] **16. [Moro Rock](https://www.google.com/maps/search/?api=1&query=Moro+Rock+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** View — Ranked #2 for views, showing the stone staircase up Moro Rock and expansive views over layered mountain ranges.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#2 in that reel)
-- [ ] **12. [Potato Harbor](https://www.google.com/maps/search/?api=1&query=Potato+Harbor+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Cruz Island
+  - 🎬 Also recommended by: [Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/) by @amorywild
+    - **Best for:** Easy hike / View — His #2 easy hike: stairs leading up the granite dome and expansive mountain vistas from the summit.
+- [ ] **17. [Pinnacles National Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+National+Park+Pinnacles+National+Park+CA)** — Pinnacles National Park, Paicines
+  - **Best for:** Underrated park — His #3 underrated park: rocky pinnacle formations, a cave passage with light streaming through, a calm reservoir, and a California condor perched on a tree.
+  - Park-level pin is the park's Nominatim point.
+  - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#3 in that reel)
+- [ ] **18. [Pinole](https://www.google.com/maps/search/?api=1&query=Pinole+Pinole+CA)** — , Pinole
+  - **Best for:** Hike — Caption names only Pinole, CA, tagged #hiking and #nature — no specific trail or spot in Pinole is named, so this entry is at the town level. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+  - Town-level entry: the post names only Pinole and no specific trail or spot, and the entry rests on the caption/tag only.
+  - 🎬 Source: [Local hike — Pinole](https://www.instagram.com/reel/DGA5UZPOSdQ/) by @amorywild (#None in that reel)
+- [ ] **19. [Potato Harbor](https://www.google.com/maps/search/?api=1&query=Potato+Harbor+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Cruz Island
   - **Best for:** View — Ranked #4 for views, with dramatic green cliffs overlooking turquoise water at Potato Harbor on Santa Cruz Island.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#4 in that reel)
-- [ ] **13. [Santa Cruz Island](https://www.google.com/maps/search/?api=1&query=Santa+Cruz+Island+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Cruz Island
+- [ ] **20. [Redwood National Park](https://www.google.com/maps/search/?api=1&query=Redwood+National+Park+Redwood+National+Park+CA)** — Redwood National Park, Orick
+  - **Best for:** Wildlife — Captioned 'Elk in Redwood National Park,' tagged #wildlife — a park-level wildlife sighting; no specific spot in the park is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+  - Park-level pin is the Thomas H. Kuchel Visitor Center near Orick, the park's main visitor centre.
+  - 🎬 Source: [Wildlife — Redwood National Park](https://www.instagram.com/reel/DGDnqjQJTNP/) by @amorywild (#None in that reel)
+- [ ] **21. [Santa Cruz Island](https://www.google.com/maps/search/?api=1&query=Santa+Cruz+Island+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Cruz Island
   - **Best for:** Featured spot (guessing game) — First photo in the guessing game, correctly identified as Channel Islands National Park, Santa Cruz Island, showing grassy hills.
   - 🎬 Source: [Guess the National Park game — Santa Cruz Island](https://www.instagram.com/reel/DepK7AbMgFF/) by @amorywild (#None in that reel)
-- [ ] **14. [Sequoia National Park](https://www.google.com/maps/search/?api=1&query=Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- [ ] **22. [Sequoia National Park](https://www.google.com/maps/search/?api=1&query=Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Top national park — Ranked #14, highlighting giant sequoia trees, mountain panoramas and a rushing river.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#14 in that reel)
-- [ ] **15. [Shark Fin Cove](https://www.google.com/maps/search/?api=1&query=Shark+Fin+Cove+Davenport+CA)** — Santa Cruz coast, Davenport
+- [ ] **23. [Shark Fin Cove](https://www.google.com/maps/search/?api=1&query=Shark+Fin+Cove+Davenport+CA)** — Santa Cruz coast, Davenport
   - **Best for:** Beach / Coastal view — Caption names Shark Fin Cove, Santa Cruz, CA. The video pans across the cove's layered cliffs and rock formations as waves crash into the shore and tide pools — a raw, tranquil stretch of coast.
   - Shark Fin Cove is at Davenport, on the Santa Cruz County coast north of the city of Santa Cruz.
   - 🎬 Source: [Coastal scenery — Shark Fin Cove](https://www.instagram.com/reel/DGTJLhSJzu2/) by @amorywild (#None in that reel)
-- [ ] **16. [Tokopah Falls](https://www.google.com/maps/search/?api=1&query=Tokopah+Falls+Sequoia+National+Park+CA)** — Sequoia National Park, Lodgepole
+  - 🎬 Also recommended by: [Beach scenery — Shark Fin Cove](https://www.instagram.com/reel/DGHXVDmt9HW/) by @amorywild
+    - **Best for:** Beach / View — Caption names Shark Fin Cove, Davenport, CA, tagged #beach and #westcoast. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- [ ] **24. [Tokopah Falls](https://www.google.com/maps/search/?api=1&query=Tokopah+Falls+Sequoia+National+Park+CA)** — Sequoia National Park, Lodgepole
   - **Best for:** Waterfall — Ranked #2 waterfall, a large fall cascading down granite slabs with a hiker visible for scale.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#2 in that reel)
-- [ ] **17. [Trail of the Sequoias](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Sequoias+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- [ ] **25. [Trail of the Sequoias](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Sequoias+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Hike — Ranked #3 unique hike, where a hiker walks through massive hollowed-out giant sequoia trunks that emphasise their scale.
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#3 in that reel)
-- [ ] **18. [Valley View](https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- [ ] **26. [Tunnel View](https://www.google.com/maps/search/?api=1&query=Tunnel+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+  - **Best for:** View — Caption names Tunnel View, Yosemite National Park. The video shows a misty valley from a high vantage point, fog drifting through the forest, then pans right and zooms in on a tall waterfall cascading down a sheer dark cliff — a quiet, overcast, contemplative scene.
+  - 🎬 Source: [Viewpoint — Tunnel View](https://www.instagram.com/reel/DGBQlLqOEP0/) by @amorywild (#None in that reel)
+- [ ] **27. [Valley View](https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Sunrise / View — Captioned 'Sunrise at Valley View' in Yosemite. The video shows the calm river at Valley View mirroring Yosemite Valley's towering granite cliffs, with autumn-colored trees at the cliff base — a quiet sunrise reflection scene.
   - 🎬 Source: [Sunrise viewpoint — Valley View](https://www.instagram.com/reel/DGuD3iDNE26/) by @amorywild (#None in that reel)
-- [ ] **19. [Yosemite Falls](https://www.google.com/maps/search/?api=1&query=Yosemite+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- [ ] **28. [Vernal Falls](https://www.google.com/maps/search/?api=1&query=Vernal+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+  - **Best for:** Waterfall — Tagged location Yosemite National Park; on-screen text asks 'Is Vernal Falls Yosemite's most perfect waterfall?' The video shows Vernal Falls plunging over dark granite into a turbulent pool, heavy spray sustaining a vivid rainbow at its base, surrounded by steep cliffs and evergreen forest.
+  - Officially Vernal Fall (singular); the reel and common usage say Vernal Falls.
+  - 🎬 Source: [Waterfall — Vernal Falls](https://www.instagram.com/reel/DeYG-88OvN4/) by @amorywild (#None in that reel)
+- [ ] **29. [Yosemite Falls](https://www.google.com/maps/search/?api=1&query=Yosemite+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Waterfall / View — Caption names Yosemite Falls. The video pans from Yosemite's granite cliffs out across the valley — forests, the winding river and Half Dome in the background — a sweeping valley panorama.
   - Nominatim's waypoint for the falls is labelled 'Middle Cascades', the middle section of Yosemite Falls; the first-pass query hit (Yosemite Valley Lodge) was a wrong namesake and was rejected.
   - 🎬 Source: [Waterfall / Viewpoint — Yosemite Falls](https://www.instagram.com/reel/DGf3kt5ubRW/) by @amorywild (#None in that reel)
-- [ ] **20. [Zabriskie Point](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
+- [ ] **30. [Yosemite National Park](https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+  - **Best for:** Hike — His #3 for hiking: iconic massive waterfalls plunging down granite cliffs, misty river rapids among boulders, and panoramic overlooks of Yosemite Valley including Half Dome.
+  - Park-level pin is Yosemite Village, the park's main visitor area.
+  - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#3 in that reel)
+- [ ] **31. [Zabriskie Point](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
   - **Best for:** Sunrise — Ranked #2 for sunrise in the reel. Eroded badlands with colorful striped formations and pink-lit distant mountains at first light.
   - Badlands overlook off CA-190, southeast of Furnace Creek, facing Manly Beacon.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#2 in that reel)
@@ -352,20 +563,42 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Pacific Northwest Region {#pacific-northwest}
 
-**4 places · Washington**
+**10 places · Washington**
 
 ### Washington
 
-- [ ] **1. [Klahhane Ridge](https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+- [ ] **1. [Comet Falls](https://www.google.com/maps/search/?api=1&query=Comet+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+  - **Best for:** Waterfall / Hike — Caption and tagged location name Comet Falls, Mt. Rainier. The video shows the powerful waterfall plunging down a steep rocky cliff in dense evergreen forest under misty, overcast skies — on-screen text: 'Perfect waterfall weather...' — zooming progressively closer to the falls.
+  - 🎬 Source: [Waterfall — Comet Falls](https://www.instagram.com/reel/Dd-H0WJhJRJ/) by @amorywild (#None in that reel)
+- [ ] **2. [Diablo Lake Overlook](https://www.google.com/maps/search/?api=1&query=Diablo+Lake+Overlook+North+Cascades+National+Park+WA)** — North Cascades National Park, North Cascades National Park
+  - **Best for:** View — His #1 viewpoint: the striking turquoise lake surrounded by dense evergreen forests and snow-capped peaks under dramatic clouds.
+  - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#1 in that reel)
+- [ ] **3. [Klahhane Ridge](https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Hike — Ranked #3, with lush green alpine ridges, distant snow-capped peaks, a grazing deer and a distant black bear.
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#3 in that reel)
-- [ ] **2. [Mount Rainier National Park](https://www.google.com/maps/search/?api=1&query=Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Ashford
+- [ ] **4. [Mount Rainier National Park](https://www.google.com/maps/search/?api=1&query=Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Ashford
   - **Best for:** Top national park — Ranked #11, showing alpine lakes, snow-capped peaks and powerful waterfalls.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#11 in that reel)
-- [ ] **3. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
+  - 🎬 Also recommended by: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild
+    - **Best for:** Hike — His #4 for hiking: lush green forests, powerful waterfalls flowing under a stone bridge, alpine lakes surrounded by snow patches, and expansive mountain vistas under blue skies.
+- [ ] **5. [Mount Storm King](https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA)** — Olympic National Park, Olympic National Park
+  - **Best for:** Hike / Adrenaline — His #5 adrenaline hike: rocky trail footage, a hiker using a blue rope on a steep dirt section, and sweeping views of Lake Crescent below.
+  - 🎬 Source: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild (#5 in that reel)
+- [ ] **6. [Myrtle Falls](https://www.google.com/maps/search/?api=1&query=Myrtle+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+  - **Best for:** Easy hike / Waterfall — His #4 easy hike: the waterfall cascading over rocks with snow-capped Mount Rainier in the background.
+  - 🎬 Source: [Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/) by @amorywild (#4 in that reel)
+- [ ] **7. [North Cascades National Park](https://www.google.com/maps/search/?api=1&query=North+Cascades+National+Park+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+  - **Best for:** Hike — His #2 for hiking: a hiker on a trail toward jagged snow-covered peaks, dramatic ridgelines, and sweeping views of a bright turquoise lake nestled between forested mountains.
+  - Park-level pin is the park's Nominatim point in the Ross Lake area.
+  - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#2 in that reel)
+- [ ] **8. [Snow Lake](https://www.google.com/maps/search/?api=1&query=Snow+Lake+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+  - **Best for:** Hike / Lake — Caption names Snow Lake; tagged location Mt. Rainier National Park. On-screen text: 'One of Mt Rainier's easiest hikes... with a great payoff.' The video crosses a rustic log bridge over a forest stream, then reveals the calm alpine lake at the base of steep, rocky, snow-patched mountains lined with evergreens and driftwood.
+  - The Snow Lake on the Bench and Snow Lakes Trail east of Paradise, geocoded inside a Rainier-bounded search — not the better-known Snow Lake at Snoqualmie Pass.
+  - 🎬 Source: [Alpine lake hike — Snow Lake](https://www.instagram.com/reel/DeYG1AsvvsM/) by @amorywild (#None in that reel)
+- [ ] **9. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
   - **Best for:** Waterfall — Ranked #3 waterfall, plunging into a mossy gorge and viewed from a bridge.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#3 in that reel)
-- [ ] **4. [Sourdough Mountain](https://www.google.com/maps/search/?api=1&query=Sourdough+Mountain+North+Cascades+National+Park+WA)** — North Cascades National Park, Newhalem
+- [ ] **10. [Sourdough Mountain](https://www.google.com/maps/search/?api=1&query=Sourdough+Mountain+North+Cascades+National+Park+WA)** — North Cascades National Park, Newhalem
   - **Best for:** Hike — Ranked #3, described as logistically easy but hard because of high, cold water crossings that left him constantly off-balance, wearing wetsuit overalls and layers.
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#3 in that reel)
   - 🎬 Also recommended by: [My Top 5 Awe-Inspiring National Park Hikes](https://www.instagram.com/reel/DerSq5htCWS/) by @amorywild
@@ -373,44 +606,83 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Alaska Region {#alaska}
 
-**9 places · Alaska**
+**11 places · Alaska**
 
 ### Alaska
 
 - [ ] **1. [Denali National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Denali+National+Park+and+Preserve+AK)** — Denali National Park and Preserve, Healy
   - **Best for:** Top national park — Ranked #17, shown in aerial shots of snow-covered peaks above the clouds.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#17 in that reel)
-- [ ] **2. [Gates of the Arctic National Park](https://www.google.com/maps/search/?api=1&query=Gates+of+the+Arctic+National+Park+AK)** — Gates of the Arctic National Park, Bettles
+  - 🎬 Also recommended by: [Ranking Alaska National Parks — Part 2](https://www.instagram.com/reel/DeBFTPBNlFg/) by @amorywild
+    - **Best for:** Flightseeing — His #4 in 'Ranking Alaskan National Parks Part 2': he describes flying around the mountain as one of the coolest experiences, with aerial footage of snow-covered peaks above clouds and a hiker overlooking a vast green valley.
+- [ ] **2. [Exit Glacier](https://www.google.com/maps/search/?api=1&query=Exit+Glacier+Kenai+Fjords+National+Park+AK)** — Kenai Fjords National Park, Kenai Fjords National Park
+  - **Best for:** Easy hike — His #1 easy hike: views of the glacial river, the rocky outwash plain, and the glacier itself nestled between green mountains. The countdown is aimed at encouraging accessible outdoor exploration.
+  - 🎬 Source: [Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/) by @amorywild (#1 in that reel)
+- [ ] **3. [Gates of the Arctic National Park](https://www.google.com/maps/search/?api=1&query=Gates+of+the+Arctic+National+Park+AK)** — Gates of the Arctic National Park, Bettles
   - **Best for:** Solitude — Listed jointly at #1 for solitude with Kobuk Valley, emphasising extreme remoteness and profound silence in the Alaskan Arctic.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#1 in that reel)
-- [ ] **3. [Katmai National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Katmai+National+Park+and+Preserve+AK)** — Katmai National Park and Preserve, King Salmon
+  - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
+    - **Best for:** Cost / Trip planning — Listed jointly at #1 with Kobuk Valley as his most expensive ($6,100 minimum for the pair) due to multiple flights, hotel stays and a $1,900-per-person flight tour; shown with remote tundra and rivers.
+  - 🎬 Also recommended by: [Ranking Alaska National Parks — Part 1](https://www.instagram.com/reel/DeBE2lJt_Yw/) by @amorywild
+    - **Best for:** Remote park — His #7: visited on the same flight tour as Kobuk Valley; beautiful, remote wilderness with aerial views of braided rivers cutting through forested mountains and misty peaks, plus a ground shot of a gravel riverbed landing area.
+- [ ] **4. [Glacier Bay National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Glacier+Bay+National+Park+and+Preserve+Glacier+Bay+National+Park+and+Preserve+AK)** — Glacier Bay National Park and Preserve, Gustavus
+  - **Best for:** Wildlife — Captioned 'This guy… in Glacier Bay'; tagged location Glacier Bay National Park and Preserve. On-screen text: 'Lookie what we found...' The video zooms from a turquoise bay and tree-covered coastline to a light-brown bear swimming at the tide line, hauling out onto seaweed-covered rocks, shaking off water and foraging in the intertidal zone — a park-level wildlife sighting, no specific spot named.
+  - Park-level pin is Bartlett Cove, the park's headquarters and main visitor area.
+  - 🎬 Source: [Wildlife — Glacier Bay National Park and Preserve](https://www.instagram.com/reel/DeDLQIohbPv/) by @amorywild (#None in that reel)
+  - 🎬 Also recommended by: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild
+    - **Best for:** Wildlife — His #4 for wildlife: sea otters floating in kelp and open water, a large colony of sea lions on rocks, a mountain goat on a cliff, a moose in grass, and a porcupine climbing a trail signpost.
+  - 🎬 Also recommended by: [Ranking Alaska National Parks — Part 1](https://www.instagram.com/reel/DeBE2lJt_Yw/) by @amorywild
+    - **Best for:** Boat tour / Wildlife — His #6: an 8-hour tour with abundant wildlife — massive tidewater glaciers, sea otters floating in kelp, snow-capped coastal mountains, sea lions on rocks, mountain goats on cliffs, and extensive ice floes in turquoise water.
+- [ ] **5. [Katmai National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Katmai+National+Park+and+Preserve+AK)** — Katmai National Park and Preserve, King Salmon
   - **Best for:** Bucket list — Ranked #1 bucket list park, highlighted by brown bears fishing at Brooks Falls, walking trails and wading in rivers.
   - 🎬 Source: [My Top 5 Bucket List National Parks](https://www.instagram.com/reel/DezrbJsPMPY/) by @amorywild (#1 in that reel)
-- [ ] **4. [Kenai Fjords National Park](https://www.google.com/maps/search/?api=1&query=Kenai+Fjords+National+Park+AK)** — Kenai Fjords National Park, Seward
+  - 🎬 Also recommended by: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild
+    - **Best for:** Wildlife — His #2 for wildlife: numerous brown bears at Brooks Falls catching salmon, bears wrestling in the river, a bear walking on a path, cubs playing in the water, a porcupine on a boardwalk, and a bald eagle perched on a log in rapids.
+  - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
+    - **Best for:** Cost / Trip planning — His #4 most expensive park ($2,705 minimum), requiring flights and a water taxi; illustrated with brown bears catching salmon at a waterfall.
+  - 🎬 Also recommended by: [Ranking Alaska National Parks — Part 2](https://www.instagram.com/reel/DeBFTPBNlFg/) by @amorywild
+    - **Best for:** Wildlife — His #1, which he calls his single coolest experience: multiple brown bears at Brooks Falls catching salmon, bears walking on trails, and cubs playing in shallow water.
+- [ ] **6. [Kenai Fjords National Park](https://www.google.com/maps/search/?api=1&query=Kenai+Fjords+National+Park+AK)** — Kenai Fjords National Park, Seward
   - **Best for:** Top national park — Ranked #12, with tidewater glaciers calving, coastal waterfalls, sea lions, otters and a whale tail.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#12 in that reel)
-- [ ] **5. [Kobuk Valley National Park](https://www.google.com/maps/search/?api=1&query=Kobuk+Valley+National+Park+AK)** — Kobuk Valley National Park, Kotzebue
+  - 🎬 Also recommended by: [Fjord boat tour — Kenai Fjords National Park](https://www.instagram.com/reel/DeBI8EqNcDs/) by @amorywild
+    - **Best for:** Boat tour / View — Caption names Kenai Fjords; tagged location Kenai Fjords National Park. A first-person boat ride through the fjord: churning wake, small icebergs, and a very tall, thin waterfall cascading down a steep green mountain face straight into the water, with snow-covered peaks and a glacier tongue in the distance. On-screen text: 'Nothing compares to this...'
+  - 🎬 Also recommended by: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild
+    - **Best for:** Wildlife — His #3 for wildlife: humpback whales surfacing near rocky cliffs, mountain goats on steep rock faces, sea otters, sea lions on a rock, harbor seals on ice floes, and an orca fin breaking the surface.
+  - 🎬 Also recommended by: [Ranking Alaska National Parks — Part 2](https://www.instagram.com/reel/DeBFTPBNlFg/) by @amorywild
+    - **Best for:** Boat tour / Wildlife — His #2: he praises a boat tour for pristine blue pools, waterfalls, seals on ice floes, sea otters floating, sea lions on rocks, and a massive glacier calving into the water.
+- [ ] **7. [Kobuk Valley National Park](https://www.google.com/maps/search/?api=1&query=Kobuk+Valley+National+Park+AK)** — Kobuk Valley National Park, Kotzebue
   - **Best for:** Solitude — Listed jointly at #1 for solitude with Gates of the Arctic, shown with vast sandy dunes and gravel riverbeds and emphasised as extremely remote.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#1 in that reel)
-- [ ] **6. [Lake Clark National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Lake+Clark+National+Park+and+Preserve+AK)** — Lake Clark National Park and Preserve, Port Alsworth
+  - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
+    - **Best for:** Cost / Trip planning — Listed jointly at #1 with Gates of the Arctic as his most expensive ($6,100 minimum for the pair), reached on the same flight tour; shown with sand dunes in remote tundra.
+  - 🎬 Also recommended by: [Ranking Alaska National Parks — Part 1](https://www.instagram.com/reel/DeBE2lJt_Yw/) by @amorywild
+    - **Best for:** Remote park — His #8 in 'Ranking Alaskan National Parks Part 1': winding rivers, golden sand dunes and stark contrast, shown in aerial footage from a small plane and ground shots of people walking the vast sandy terrain.
+- [ ] **8. [Lake Clark National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Lake+Clark+National+Park+and+Preserve+AK)** — Lake Clark National Park and Preserve, Port Alsworth
   - **Best for:** Bucket list — Ranked #2 bucket list park, with braided rivers, snow-capped mountains, glaciers and a brown bear with cubs in a meadow.
   - 🎬 Source: [My Top 5 Bucket List National Parks](https://www.instagram.com/reel/DezrbJsPMPY/) by @amorywild (#2 in that reel)
-- [ ] **7. [Root Glacier](https://www.google.com/maps/search/?api=1&query=Root+Glacier+Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
+  - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
+    - **Best for:** Cost / Trip planning — His #3 most expensive park ($3,400 minimum), requiring a main flight plus an expensive flight tour; shown with aerial glacier views and a bear in a meadow.
+  - 🎬 Also recommended by: [Ranking Alaska National Parks — Part 1](https://www.instagram.com/reel/DeBE2lJt_Yw/) by @amorywild
+    - **Best for:** Wildlife / Scenery — His #5: praised for stunning scenery and wildlife — green meadows with brown bears including a mother with three cubs, aerial views of braided glacial rivers, and dramatic snow-covered mountain peaks.
+- [ ] **9. [Root Glacier](https://www.google.com/maps/search/?api=1&query=Root+Glacier+Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
   - **Best for:** Hike — Ranked #2, showcasing close-ups of blue ice, meltwater streams and glacial pools on the Root Glacier.
   - 🎬 Source: [My Top 5 Awe-Inspiring National Park Hikes](https://www.instagram.com/reel/DerSq5htCWS/) by @amorywild (#2 in that reel)
   - 🎬 Also recommended by: [Guess the National Park game — Root Glacier Trail](https://www.instagram.com/reel/DepK7AbMgFF/) by @amorywild
     - **Best for:** Featured spot (guessing game) — Second photo, revealed as Wrangell-St. Elias National Park, the Root Glacier Trail, showing a forested trail with mountains.
-- [ ] **8. [Ukak Falls](https://www.google.com/maps/search/?api=1&query=Ukak+Falls+Katmai+National+Park+and+Preserve+AK)** — Katmai National Park and Preserve, Valley of Ten Thousand Smokes
+- [ ] **10. [Ukak Falls](https://www.google.com/maps/search/?api=1&query=Ukak+Falls+Katmai+National+Park+and+Preserve+AK)** — Katmai National Park and Preserve, Valley of Ten Thousand Smokes
   - **Best for:** Hike — Ranked #2, a powerful, muddy river rushing through dramatic eroded tan cliffs.
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#2 in that reel)
-- [ ] **9. [Wrangell-St. Elias National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
+- [ ] **11. [Wrangell-St. Elias National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
   - **Best for:** Top national park — Ranked #13, featuring vast glaciers, ice caves and meltwater streams.
   - Nominatim has no entry for the park itself; the pin is McCarthy, the main access town inside the park.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#13 in that reel)
+  - 🎬 Also recommended by: [Ranking Alaska National Parks — Part 2](https://www.instagram.com/reel/DeBFTPBNlFg/) by @amorywild
+    - **Best for:** Glacier hike — His #3: he highlights hiking on the Root Glacier, with close-up footage of ice formations, meltwater streams and deep blue crevasses.
 
 ## Hawaii Region {#hawaii}
 
-**4 places · Hawaii**
+**5 places · Hawaii**
 
 ### Hawaii
 
@@ -419,13 +691,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [My Top 5 Bucket List National Parks](https://www.instagram.com/reel/DezrbJsPMPY/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild
     - **Best for:** Top national park — Ranked #18, with misty volcanic crater views, grassy trails and a waterfall.
+  - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
+    - **Best for:** Cost / Trip planning — Listed jointly at #5 in his '5 Most Expensive National Parks' with Hawaiʻi Volcanoes ($2,240 minimum for the pair), requiring two flights, a rental car and camping; shown with misty volcanic landscapes and a Nene goose. Costs are his own travel expenses across the 63 parks he has visited.
+  - 🎬 Also recommended by: [Top 5 Island National Parks](https://www.instagram.com/reel/DeHMvdrBhtb/) by @amorywild
+    - **Best for:** Island park — His #1 island park: high-altitude volcanic landscapes above the clouds, reddish soil, misty crater views, and tall waterfalls surrounded by dense vegetation.
 - [ ] **2. [Halemau'u Trail](https://www.google.com/maps/search/?api=1&query=Halemau'u+Trail+Haleakalā+National+Park+HI)** — Haleakalā National Park, Maui
   - **Best for:** Hike — Ranked #4, with misty, otherworldly volcanic landscapes, lava fields and cloud-filled craters.
   - 🎬 Source: [My Top 5 Awe-Inspiring National Park Hikes](https://www.instagram.com/reel/DerSq5htCWS/) by @amorywild (#4 in that reel)
 - [ ] **3. [Hawai'i Volcanoes National Park](https://www.google.com/maps/search/?api=1&query=Hawai'i+Volcanoes+National+Park+HI)** — Hawai'i Volcanoes National Park, Hawai'i Island
   - **Best for:** Bucket list — Listed jointly at #4 bucket list with Haleakalā, featuring volcanic craters, lava fields, lush waterfalls and dramatic black-rock coastline.
   - 🎬 Source: [My Top 5 Bucket List National Parks](https://www.instagram.com/reel/DezrbJsPMPY/) by @amorywild (#4 in that reel)
-- [ ] **4. [Kilauea Iki Trail](https://www.google.com/maps/search/?api=1&query=Kilauea+Iki+Trail+Hawai'i+Volcanoes+National+Park+HI)** — Hawai'i Volcanoes National Park, Volcano
+  - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
+    - **Best for:** Cost / Trip planning — Listed jointly at #5 with Haleakalā ($2,240 minimum for the pair), requiring two flights, a rental car and camping. Costs are his own travel expenses across the 63 parks he has visited.
+  - 🎬 Also recommended by: [Top 5 Island National Parks](https://www.instagram.com/reel/DeHMvdrBhtb/) by @amorywild
+    - **Best for:** Island park — His #5 in 'Top 5 Island National Parks': vast black lava fields, cracked craters and steaming vents under cloudy skies.
+- [ ] **4. [Holei Arch](https://www.google.com/maps/search/?api=1&query=Holei+Arch+Hawai'i+Volcanoes+National+Park+HI)** — Hawai'i Volcanoes National Park, Hawai'i Volcanoes National Park
+  - **Best for:** View — Caption names Holei Arch; tagged location Hawai'i Volcanoes National Park. The video shows the dark lava-rock coastline and the sea arch carved into the cliff as waves crash and spray against it; on-screen text reads 'In remembrance...', giving the scene a quiet, solemn mood.
+  - OSM now records this as the location of the collapsed Holei Sea Arch; the signed viewpoint on Chain of Craters Road is ~200 m away.
+  - 🎬 Source: [Sea arch — Holei Arch](https://www.instagram.com/reel/DeCYd_fBvEb/) by @amorywild (#None in that reel)
+- [ ] **5. [Kilauea Iki Trail](https://www.google.com/maps/search/?api=1&query=Kilauea+Iki+Trail+Hawai'i+Volcanoes+National+Park+HI)** — Hawai'i Volcanoes National Park, Volcano
   - **Best for:** Hike — Ranked #4, walking across a vast cracked black lava field inside a volcanic crater ringed by steep green walls.
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#4 in that reel)
 
@@ -442,6 +726,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Bucket list — Ranked #3 bucket list park, showcasing rugged green cliffs meeting the ocean, a coastal village, coral reef with tropical fish and a jungle waterfall.
   - Pin is the park point Nominatim returns on Taʻū Island (Manuʻa unit); the park also has a unit on Tutuila.
   - 🎬 Source: [My Top 5 Bucket List National Parks](https://www.instagram.com/reel/DezrbJsPMPY/) by @amorywild (#3 in that reel)
+  - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
+    - **Best for:** Cost / Trip planning — His #2 most expensive park ($3,900 minimum), with very high airfare, hotel and rental car costs; depicted with rugged coastlines, lush mountains and a jungle waterfall. (US territory — kept under the user's USA rule.)
+  - 🎬 Also recommended by: [Top 5 Island National Parks](https://www.instagram.com/reel/DeHMvdrBhtb/) by @amorywild
+    - **Best for:** Island park — His #2 island park: rugged, wave-battered coastlines, lush green mountains, a harbor town view, a person walking a rocky beach, a jungle waterfall, and vibrant coral reef underwater. (US territory — kept under the user's USA rule.)
 
 ### U.S. Virgin Islands
 
@@ -450,6 +738,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [My Top 5 Winter National Parks](https://www.instagram.com/reel/DeiJu-bBcEn/) by @amorywild (#1 in that reel)
   - 🎬 Also recommended by: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild
     - **Best for:** Top national park (East) — Ranked #2 in the East, featuring coastal hiking trails over blue bays and underwater footage of sea turtles, spotted eagle rays and other marine life.
+  - 🎬 Also recommended by: [Top 5 Island National Parks](https://www.instagram.com/reel/DeHMvdrBhtb/) by @amorywild
+    - **Best for:** Island park / Snorkeling — His #4 island park: turquoise coastal coves, hiking trails on red dirt cliffs, and underwater shots of tropical fish, an eagle ray and a sea turtle; the post is hashtagged #snorkeling. (US territory — kept under the user's USA rule.)
 
 ## Source reels {#source-reels}
 
@@ -541,6 +831,92 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Caption names the Gem Lake Trail in 'Rock Mountain' (Rocky Mountain) National Park; the state (Colorado) is inferred from the park. This post has no tagged location. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
 - **[Hiking — Weeping Rock](https://www.instagram.com/reel/DGLl2wwpyGr/)** — @amorywild · 0 places · Theme: Hiking
   - What the reel recommends: Caption names Weeping Rock in Zion National Park, Utah. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Canyon river scenery — Phantom Ranch](https://www.instagram.com/reel/DGLkvygpErQ/)** — @amorywild · 1 places · Theme: Canyon river scenery
+  - What the reel recommends: Caption names Phantom Ranch in Grand Canyon National Park. The video shows the Colorado River at the canyon bottom: muddy, fast water rushing between steep rocky walls, green vegetation along both banks, under a blue sky with white clouds — a serene but powerful river scene with no people in frame.
+- **[Sunset viewpoint — Sunset Rock](https://www.instagram.com/reel/DGLkNTrpHLu/)** — @amorywild · 1 places · Theme: Sunset viewpoint
+  - What the reel recommends: Caption names Sunset Rock, Chattanooga, TN, tagged #sunset and #mountains; the tagged location is Sunset Rock. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Scenic ride — Zion Canyon](https://www.instagram.com/reel/DGIocRzuRcL/)** — @amorywild · 1 places · Theme: Scenic ride
+  - What the reel recommends: Captioned 'Bike ride in Zion Canyon.' The video is a continuous first-person ride along the winding canyon road, with towering red rock cliffs and sparse trees lining the path under a clear blue sky, set to a slow indie folk song — a meditative, scenic ride through the canyon.
+- **[Beach scenery — Shark Fin Cove](https://www.instagram.com/reel/DGHXVDmt9HW/)** — @amorywild · 1 places · Theme: Beach scenery
+  - What the reel recommends: Caption names Shark Fin Cove, Davenport, CA, tagged #beach and #westcoast. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Sunrise viewpoint — Dante's View](https://www.instagram.com/reel/DGDosKGJBg0/)** — @amorywild · 1 places · Theme: Sunrise viewpoint
+  - What the reel recommends: Captioned 'Sunrise at Dante's View, Death Valley National Park,' tagged #sunrise. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Wildlife — Redwood National Park](https://www.instagram.com/reel/DGDnqjQJTNP/)** — @amorywild · 1 places · Theme: Wildlife
+  - What the reel recommends: Captioned 'Elk in Redwood National Park,' tagged #wildlife — a park-level wildlife sighting; no specific spot in the park is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Viewpoint — Tunnel View](https://www.instagram.com/reel/DGBQlLqOEP0/)** — @amorywild · 1 places · Theme: Viewpoint
+  - What the reel recommends: Caption names Tunnel View, Yosemite National Park. The video shows a misty valley from a high vantage point, fog drifting through the forest, then pans right and zooms in on a tall waterfall cascading down a sheer dark cliff — a quiet, overcast, contemplative scene.
+- **[Summit hike — Mt. Le Conte](https://www.instagram.com/reel/DGA9Wbzu2VA/)** — @amorywild · 1 places · Theme: Summit hike
+  - What the reel recommends: Caption names Mt Le Conte, Great Smoky Mountains National Park. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Trail hike — High Peaks Trail](https://www.instagram.com/reel/DGA8iMHOQuc/)** — @amorywild · 1 places · Theme: Trail hike
+  - What the reel recommends: Caption names the High Peaks Trail, Pinnacles National Park. The video follows a hiker in first person on a dirt path through hilly country, then pans to rolling hills covered in dry grass and scattered trees under a partly cloudy sky — a peaceful, contemplative walk.
+- **[Local hike — Pinole](https://www.instagram.com/reel/DGA5UZPOSdQ/)** — @amorywild · 1 places · Theme: Local hike
+  - What the reel recommends: Caption names only Pinole, CA, tagged #hiking and #nature — no specific trail or spot in Pinole is named, so this entry is at the town level. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Waterfall — Turtletown Falls](https://www.instagram.com/reel/DF_UkGgSGse/)** — @amorywild · 0 places · Theme: Waterfall
+  - What the reel recommends: Caption names Turtletown Falls, Cherokee National Forest, Tennessee. The video shows the waterfall cascading over moss-covered rocks into a calm pool, sunlight beaming through the trees onto the water — a tranquil forest waterfall scene filmed from a static camera.
+- **[Trail view — South Kaibab Trail](https://www.instagram.com/reel/DF_S2xgSZNf/)** — @amorywild · 1 places · Theme: Trail view
+  - What the reel recommends: Caption names the South Kaibab Trail, Grand Canyon National Park. The video is a slow panoramic pan across the canyon's layered rock formations and steep cliffs, with a rocky trail in the foreground and a bright blue sky — a peaceful, wide-open canyon view.
+- **[Beach scenery — Gold Bluffs Beach](https://www.instagram.com/reel/DF_SMJdSxhL/)** — @amorywild · 1 places · Theme: Beach scenery
+  - What the reel recommends: Caption names Gold Bluffs Beach, Redwood National Park. The video shows the dark sand beach under an overcast sky, a stream flowing across the sand into the ocean, white-capped waves, and a misty forested hillside — a solitary, meditative shoreline scene set to Satie's 'Gymnopédie No. 1.'
+- **[Desert scenery — Gower Gulch](https://www.instagram.com/reel/DF_R0CDS1JH/)** — @amorywild · 1 places · Theme: Desert scenery
+  - What the reel recommends: Caption names Gower Gulch, Death Valley National Park. The video pans slowly across a serene desert landscape of rolling hills and distant mountains under an overcast sky, with a steady heartbeat-like rhythm — emphasizing the vastness and solitude of the desert.
+- **[Canyon waterfall — Grand Canyon of the Yellowstone](https://www.instagram.com/reel/DF_Rh6PyQcw/)** — @amorywild · 0 places · Theme: Canyon waterfall
+  - What the reel recommends: Caption names the Grand Canyon of the Yellowstone. The video opens on a wide shot of the Lower Falls crashing down the layered cliffs, then pans left to reveal the full canyon and the deep blue river winding through it, mist rising from the base of the falls — a showcase of the canyon's power and scale on a bright sunny day.
+- **[Fire tower view — Mount Cammerer Fire Tower](https://www.instagram.com/reel/DF_OsTTyyi0/)** — @amorywild · 1 places · Theme: Fire tower view
+  - What the reel recommends: Captioned 'Double rainbow at Mount Cammerer fire tower in Great Smoky Mountain National Park.' No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Lake scenery — Lake Estes](https://www.instagram.com/reel/DF_OK-vS9g6/)** — @amorywild · 1 places · Theme: Lake scenery
+  - What the reel recommends: Caption names Lake Estes, Estes Park, CO (tagged #sunrise). The video actually shows sunset over the lake — pink, orange and purple sky reflected in the rippling water, silhouetted treeline and mountains — then transitions through dusk to a clear daytime view of the snow-dusted peaks.
+- **[Sunrise viewpoint — Snooper's Rock](https://www.instagram.com/reel/DF_MIxuShFQ/)** — @amorywild · 1 places · Theme: Sunrise viewpoint
+  - What the reel recommends: Caption names Snooper's Rock, Chattanooga, TN. The video shows sunrise from the overlook: a sea of fog filling the valleys below, the sun emerging and turning the fog into a shimmering golden blanket — a tranquil, static sunrise scene with gentle piano music.
+- **[Wildlife — Mammoth Cave National Park](https://www.instagram.com/reel/DF_LFOtyBoO/)** — @amorywild · 1 places · Theme: Wildlife
+  - What the reel recommends: Captioned 'The deer wanted something…' and hashtagged #mammothcave #mammothcavenationalpark — a park-level wildlife moment; no specific spot in the park is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Cave — Mammoth Cave National Park](https://www.instagram.com/reel/DF-n5DkJxuk/)** — @amorywild · 1 places · Theme: Cave
+  - What the reel recommends: Captioned 'I wanna go in there…' and hashtagged #mammothcavenationalpark — the cave entrance at Mammoth Cave National Park; no specific tour or entrance is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Summit trail — Upper Hawksbill Trail](https://www.instagram.com/reel/DF-nmBxpSka/)** — @amorywild · 1 places · Theme: Summit trail
+  - What the reel recommends: Caption names the Upper Hawksbill Trail, Shenandoah National Park. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
+- **[Waterfall — Vernal Falls](https://www.instagram.com/reel/DeYG-88OvN4/)** — @amorywild · 1 places · Theme: Waterfall
+  - What the reel recommends: Tagged location Yosemite National Park; on-screen text asks 'Is Vernal Falls Yosemite's most perfect waterfall?' The video shows Vernal Falls plunging over dark granite into a turbulent pool, heavy spray sustaining a vivid rainbow at its base, surrounded by steep cliffs and evergreen forest.
+- **[Alpine lake hike — Snow Lake](https://www.instagram.com/reel/DeYG1AsvvsM/)** — @amorywild · 1 places · Theme: Alpine lake hike
+  - What the reel recommends: Caption names Snow Lake; tagged location Mt. Rainier National Park. On-screen text: 'One of Mt Rainier's easiest hikes... with a great payoff.' The video crosses a rustic log bridge over a forest stream, then reveals the calm alpine lake at the base of steep, rocky, snow-patched mountains lined with evergreens and driftwood.
+- **[Arch view — Delicate Arch](https://www.instagram.com/reel/DeGNe_OBZMp/)** — @amorywild · 1 places · Theme: Arch view
+  - What the reel recommends: Caption and tagged location name Delicate Arch. The video shows the massive freestanding red sandstone arch in bright sun with one person standing near its base for scale; overlaid text reads 'How can this exist?' — a tone of wonder at the formation.
+- **[Wildlife — Glacier Bay National Park and Preserve](https://www.instagram.com/reel/DeDLQIohbPv/)** — @amorywild · 1 places · Theme: Wildlife
+  - What the reel recommends: Captioned 'This guy… in Glacier Bay'; tagged location Glacier Bay National Park and Preserve. On-screen text: 'Lookie what we found...' The video zooms from a turquoise bay and tree-covered coastline to a light-brown bear swimming at the tide line, hauling out onto seaweed-covered rocks, shaking off water and foraging in the intertidal zone — a park-level wildlife sighting, no specific spot named.
+- **[Sea arch — Holei Arch](https://www.instagram.com/reel/DeCYd_fBvEb/)** — @amorywild · 1 places · Theme: Sea arch
+  - What the reel recommends: Caption names Holei Arch; tagged location Hawai'i Volcanoes National Park. The video shows the dark lava-rock coastline and the sea arch carved into the cliff as waves crash and spray against it; on-screen text reads 'In remembrance...', giving the scene a quiet, solemn mood.
+- **[Waterfall — Greeter Falls](https://www.instagram.com/reel/DeCM6vlBwb9/)** — @amorywild · 1 places · Theme: Waterfall
+  - What the reel recommends: Caption and tagged location name Greeter Falls, Tennessee. The video shows the falls from an elevated trail through the trees, then at water level crashing into a turquoise-green pool below wooden steps and railings; on-screen text: 'Something special about a Tennessee waterfall...' (Same spot as a Batch 2 post — kept as a separate entry for dedupe at merge.)
+- **[Fjord boat tour — Kenai Fjords National Park](https://www.instagram.com/reel/DeBI8EqNcDs/)** — @amorywild · 1 places · Theme: Fjord boat tour
+  - What the reel recommends: Caption names Kenai Fjords; tagged location Kenai Fjords National Park. A first-person boat ride through the fjord: churning wake, small icebergs, and a very tall, thin waterfall cascading down a steep green mountain face straight into the water, with snow-covered peaks and a glacier tongue in the distance. On-screen text: 'Nothing compares to this...'
+- **[Waterfall — Comet Falls](https://www.instagram.com/reel/Dd-H0WJhJRJ/)** — @amorywild · 1 places · Theme: Waterfall
+  - What the reel recommends: Caption and tagged location name Comet Falls, Mt. Rainier. The video shows the powerful waterfall plunging down a steep rocky cliff in dense evergreen forest under misty, overcast skies — on-screen text: 'Perfect waterfall weather...' — zooming progressively closer to the falls.
+- **[Waterfall — Virginia Falls](https://www.instagram.com/reel/Dd951SeBW1m/)** — @amorywild · 1 places · Theme: Waterfall
+  - What the reel recommends: Caption names Virginia Falls; tagged location Glacier National Park. The video shows the falls cascading down a rocky cliff into a pool, from multiple angles across the stream and close up, with mist, moss-covered rocks and fallen logs in the foreground stream. On-screen text: 'Does it get any better...?'
+- **[Wildlife — Theodore Roosevelt National Park](https://www.instagram.com/reel/Dd71F1qOrV3/)** — @amorywild · 1 places · Theme: Wildlife
+  - What the reel recommends: Captioned 'Been waiting for this my whole life…'; tagged location Theodore Roosevelt National Park. Filmed from a vehicle at sunset: two wild horses silhouetted on a grassy ridgeline against the orange sky, one lowering its head to graze. On-screen text: 'When you finally see wild horses on a ridgeline at sunset, perfectly silhouetted...' — a park-level wildlife moment, no specific spot named.
+- **[Wildlife — Yellowstone National Park](https://www.instagram.com/reel/DeLVPl3tfKu/)** — @amorywild · 1 places · Theme: Wildlife
+  - What the reel recommends: Tagged location Yellowstone. On-screen text: 'A home with a view...' The video zooms in on a marmot nestled in a crevice between boulders, then pans to reveal its 'view': a tall, powerful waterfall cascading down a sheer cliff into a calm pool, snow patches near the top. The waterfall is not named anywhere in the post, so this entry is at park level.
+- **[Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/)** — @amorywild · 5 places · Theme: Top 5 National Parks for Hiking
+  - What the reel recommends: His #5 in 'My Top 5 National Parks For Hiking': shown with wide views of snow-dusted peaks, valleys, frozen lakes, rocky summits and a cascading waterfall. (The media-understanding transcript renders the name as 'Rocky Mountains National Park.') His #4 for hiking: lush green forests, powerful waterfalls flowing under a stone bridge, alpine lakes surrounded by snow patches, and expansive mountain vistas under blue skies. His #3 for hiking: iconic massive waterfalls plunging down granite cliffs, misty river rapids among boulders, and panoramic overlooks of Yosemite Valley including Half Dome. His #2 for hiking: a hiker on a trail toward jagged snow-covered peaks, dramatic ridgelines, and sweeping views of a bright turquoise lake nestled between forested mountains. His #1 for hiking, presented as the most beautiful: high-elevation views of long lakes between snow-streaked mountains and hiker footage on alpine trails.
+- **[Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/)** — @amorywild · 5 places · Theme: Top 5 National Parks for Wildlife Viewing
+  - What the reel recommends: His #5 in 'My Top 5 National Parks For Wildlife Viewing': a moose grazing by a roadside fence, a porcupine in brush, and a herd of bison in an open field. His #4 for wildlife: sea otters floating in kelp and open water, a large colony of sea lions on rocks, a mountain goat on a cliff, a moose in grass, and a porcupine climbing a trail signpost. His #3 for wildlife: humpback whales surfacing near rocky cliffs, mountain goats on steep rock faces, sea otters, sea lions on a rock, harbor seals on ice floes, and an orca fin breaking the surface. His #2 for wildlife: numerous brown bears at Brooks Falls catching salmon, bears wrestling in the river, a bear walking on a path, cubs playing in the water, a porcupine on a boardwalk, and a bald eagle perched on a log in rapids. His #1 for wildlife, described as the most diverse: bison including a calf, an elk grazing, multiple grizzly bears foraging, distant wolves in a meadow, a pronghorn antelope, bighorn sheep by a road, a marmot on rocks, harlequin ducks in rapids, and a black bear crossing pavement.
+- **[Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/)** — @amorywild · 5 places · Theme: Top 5 National Park Adrenaline Hikes
+  - What the reel recommends: His #5 adrenaline hike: rocky trail footage, a hiker using a blue rope on a steep dirt section, and sweeping views of Lake Crescent below. His #4 adrenaline hike: wading through a muddy river between towering canyon walls in Zion. His #3 adrenaline hike: hikers squeezing through tight boulder chimneys and scrambling over granite slabs to reach expansive mountain vistas. His #2 adrenaline hike: the steep red-rock ascent, hikers holding chains along an exposed ridge, and panoramic views of Zion Canyon. His #1 adrenaline hike: climbers ascending near-vertical granite using iron rungs and ladders, with coastal ocean views from the summit. Across the countdown he frames the five as thrilling but accessible adventures, describing each hike's challenge, exposure and reward.
+- **[Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/)** — @amorywild · 5 places · Theme: Top 5 Easy National Park Hikes
+  - What the reel recommends: His #5 in 'Top 5 Easy National Park Hikes': a person walking the trail beside towering canyon walls and the Rio Grande river. His #4 easy hike: the waterfall cascading over rocks with snow-capped Mount Rainier in the background. His #3 easy hike, named in the narration as 'Zion Canyon Overlook': panoramic sunset views of the red rock canyon. (Same spot as the existing Canyon Overlook place — kept as a separate entry for dedupe at merge.) His #2 easy hike: stairs leading up the granite dome and expansive mountain vistas from the summit. His #1 easy hike: views of the glacial river, the rocky outwash plain, and the glacier itself nestled between green mountains. The countdown is aimed at encouraging accessible outdoor exploration.
+- **[Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/)** — @amorywild · 5 places · Theme: Top 5 National Park Viewpoints
+  - What the reel recommends: His #5 viewpoint: sweeping sunrise/sunset views over the salt flats and distant mountains. His #4 viewpoint: panoramic winter views of snow-covered granite cliffs, the valley floor, and Half Dome. His #3 viewpoint: shown at sunset with golden light illuminating the vast canyon layers. His #2 viewpoint: the Lower Falls of the Yellowstone River cascading through the colorful canyon. His #1 viewpoint: the striking turquoise lake surrounded by dense evergreen forests and snow-capped peaks under dramatic clouds.
+- **[5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/)** — @amorywild · 7 places · Theme: 5 Most Expensive National Parks
+  - What the reel recommends: Listed jointly at #5 in his '5 Most Expensive National Parks' with Hawaiʻi Volcanoes ($2,240 minimum for the pair), requiring two flights, a rental car and camping; shown with misty volcanic landscapes and a Nene goose. Costs are his own travel expenses across the 63 parks he has visited. Listed jointly at #5 with Haleakalā ($2,240 minimum for the pair), requiring two flights, a rental car and camping. Costs are his own travel expenses across the 63 parks he has visited. His #4 most expensive park ($2,705 minimum), requiring flights and a water taxi; illustrated with brown bears catching salmon at a waterfall. His #3 most expensive park ($3,400 minimum), requiring a main flight plus an expensive flight tour; shown with aerial glacier views and a bear in a meadow. His #2 most expensive park ($3,900 minimum), with very high airfare, hotel and rental car costs; depicted with rugged coastlines, lush mountains and a jungle waterfall. (US territory — kept under the user's USA rule.) Listed jointly at #1 with Kobuk Valley as his most expensive ($6,100 minimum for the pair) due to multiple flights, hotel stays and a $1,900-per-person flight tour; shown with remote tundra and rivers. Listed jointly at #1 with Gates of the Arctic as his most expensive ($6,100 minimum for the pair), reached on the same flight tour; shown with sand dunes in remote tundra.
+- **[Top 5 Island National Parks](https://www.instagram.com/reel/DeHMvdrBhtb/)** — @amorywild · 5 places · Theme: Top 5 Island National Parks
+  - What the reel recommends: His #5 in 'Top 5 Island National Parks': vast black lava fields, cracked craters and steaming vents under cloudy skies. His #4 island park: turquoise coastal coves, hiking trails on red dirt cliffs, and underwater shots of tropical fish, an eagle ray and a sea turtle; the post is hashtagged #snorkeling. (US territory — kept under the user's USA rule.) His #3 island park: dramatic ocean cliffs, a boat in a cove, dolphins swimming, and a small island fox, with on-screen text noting '*also foxes!'. His #2 island park: rugged, wave-battered coastlines, lush green mountains, a harbor town view, a person walking a rocky beach, a jungle waterfall, and vibrant coral reef underwater. (US territory — kept under the user's USA rule.) His #1 island park: high-altitude volcanic landscapes above the clouds, reddish soil, misty crater views, and tall waterfalls surrounded by dense vegetation.
+- **[Ranking Alaska National Parks — Part 1](https://www.instagram.com/reel/DeBE2lJt_Yw/)** — @amorywild · 4 places · Theme: Ranking Alaska National Parks — Part 1
+  - What the reel recommends: His #8 in 'Ranking Alaskan National Parks Part 1': winding rivers, golden sand dunes and stark contrast, shown in aerial footage from a small plane and ground shots of people walking the vast sandy terrain. His #7: visited on the same flight tour as Kobuk Valley; beautiful, remote wilderness with aerial views of braided rivers cutting through forested mountains and misty peaks, plus a ground shot of a gravel riverbed landing area. His #6: an 8-hour tour with abundant wildlife — massive tidewater glaciers, sea otters floating in kelp, snow-capped coastal mountains, sea lions on rocks, mountain goats on cliffs, and extensive ice floes in turquoise water. His #5: praised for stunning scenery and wildlife — green meadows with brown bears including a mother with three cubs, aerial views of braided glacial rivers, and dramatic snow-covered mountain peaks.
+- **[Ranking Alaska National Parks — Part 2](https://www.instagram.com/reel/DeBFTPBNlFg/)** — @amorywild · 4 places · Theme: Ranking Alaska National Parks — Part 2
+  - What the reel recommends: His #4 in 'Ranking Alaskan National Parks Part 2': he describes flying around the mountain as one of the coolest experiences, with aerial footage of snow-covered peaks above clouds and a hiker overlooking a vast green valley. His #3: he highlights hiking on the Root Glacier, with close-up footage of ice formations, meltwater streams and deep blue crevasses. His #2: he praises a boat tour for pristine blue pools, waterfalls, seals on ice floes, sea otters floating, sea lions on rocks, and a massive glacier calving into the water. His #1, which he calls his single coolest experience: multiple brown bears at Brooks Falls catching salmon, bears walking on trails, and cubs playing in shallow water.
+- **[5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/)** — @amorywild · 5 places · Theme: 5 Most Underrated National Parks
+  - What the reel recommends: His #5 in '5 Most Underrated National Parks' (of the 63 he has visited): autumn-colored forests, the large steel arch bridge spanning the gorge, the river below, and a mossy waterfall. His #4 underrated park: vast red-rock desert vistas, layered canyons, and a person walking through narrow slot canyons. His #3 underrated park: rocky pinnacle formations, a cave passage with light streaming through, a calm reservoir, and a California condor perched on a tree. His #2 underrated park: badlands terrain, bison crossing a road, wild horses at sunset, prairie dogs, and a river sunset view. His #1 underrated park, presented as remote and spectacular: a person walking toward towering canyon walls along the Rio Grande, views from the Window Trail, and expansive mountain landscapes.
+- **[Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/)** — @amorywild · 18 places · Theme: Trip recap — Everything we did in Yellowstone (6 days)
+  - What the reel recommends: A day-by-day recap of everything they did over 6 days in Yellowstone, naming 19 stops: Old Faithful, Morning Glory Pool, Grotto Geyser, Firehole Falls, Grand Canyon of the Yellowstone, Grand Prismatic Spring, Fairy Falls, Norris Geyser Basin, Artists Paint Pots, Gibbon Falls, Bunsen Peak, Mammoth Hot Springs, West Thumb Geyser Basin, Yellowstone Lake, LeHardy Rapids, Mud Volcano, Lamar Valley, Trout Lake, Undine Falls.
 
 ## How this page is updated {#how-this-page-is-updated}
 
