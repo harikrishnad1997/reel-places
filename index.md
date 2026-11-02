@@ -49,6 +49,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Sunrise — Ranked #3 for sunrise in the reel. Massive red rock cliffs glow bright orange as the sun hits Zion Canyon.
   - End of the 1-mile Canyon Overlook Trail, just east of the Zion-Mount Carmel Tunnel.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#3 in that reel)
+  - 🎬 Also recommended by: [Canyon Overlook Trail — One of Zion's Best Views](https://www.instagram.com/reel/DdMWajZA_cn/) by @adventurefamilyvlog
+    - **Best for:** Sunrise or sunset / Short hike — Recommends it as one of Zion's best views and possibly its best short hike: about 1 mile round trip, ~160 ft elevation gain, allow 1-2 hours, trailhead just east of the Zion-Mount Carmel Tunnel, with epic views over Pine Creek Canyon and Zion's cliffs. Incredible at sunrise or sunset. Short but with exposed drop-offs, so keep kids close.
 - [ ] **2. [Sunrise Point](https://www.google.com/maps/search/?api=1&query=Sunrise+Point+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce Canyon City
   - **Best for:** Sunrise — Ranked #1 for sunrise in the reel, its top pick. Snow-dusted hoodoos bathed in intense golden-orange morning light.
   - Rim overlook at the north end of the Bryce Amphitheater, start of the Queens Garden Trail.
@@ -73,6 +75,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 - **[5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/)** — @amorywild · 5 places · Theme: Best national park sunrises
   - What the reel recommends: A countdown of the creator's five most memorable national park sunrises, ranked 5 to 1. Every place in this reel is recommended specifically for sunrise, not general visiting.
+- **[Canyon Overlook Trail — One of Zion's Best Views](https://www.instagram.com/reel/DdMWajZA_cn/)** — @adventurefamilyvlog · 1 places · Theme: Best short hike / best view in Zion
+  - What the reel recommends: Recommends Canyon Overlook Trail as one of Zion's best views at the end of a 1-mile trail: biggest payoff for least effort in Zion, ~160 ft gain, 1-2 hours, just east of the Zion-Mount Carmel Tunnel, incredible at sunrise or sunset, views over Pine Creek Canyon. This place was already on the map from the @amorywild sunrise reel, so it was added as a second source on that pin instead of a duplicate pin.
 
 ## How this page is updated {#how-this-page-is-updated}
 

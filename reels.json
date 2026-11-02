@@ -1,1 +1,37 @@
-{"reels":[{"added":"2026-11-02","creator":"@amorywild","creator_name":"Amory","place_ids":["sunrise-point-bryce-canyon-ut","zabriskie-point-death-valley-ca","canyon-overlook-zion-ut","alum-cave-trail-smokies-tn","inspiration-peak-joshua-tree-ca"],"places_count":5,"posted":"2026-10-26","recommendation_summary":"A countdown of the creator's five most memorable national park sunrises, ranked 5 to 1. Every place in this reel is recommended specifically for sunrise, not general visiting.","theme":"Best national park sunrises","title":"5 National Park Sunrises That Blew My Mind","url":"https://www.instagram.com/reel/De9cpsdpbBx/"}]}
+{
+ "reels": [
+  {
+   "added": "2026-11-02",
+   "creator": "@amorywild",
+   "creator_name": "Amory",
+   "place_ids": [
+    "sunrise-point-bryce-canyon-ut",
+    "zabriskie-point-death-valley-ca",
+    "canyon-overlook-zion-ut",
+    "alum-cave-trail-smokies-tn",
+    "inspiration-peak-joshua-tree-ca"
+   ],
+   "places_count": 5,
+   "posted": "2026-10-26",
+   "recommendation_summary": "A countdown of the creator's five most memorable national park sunrises, ranked 5 to 1. Every place in this reel is recommended specifically for sunrise, not general visiting.",
+   "theme": "Best national park sunrises",
+   "title": "5 National Park Sunrises That Blew My Mind",
+   "url": "https://www.instagram.com/reel/De9cpsdpbBx/"
+  },
+  {
+   "added": "2026-11-02",
+   "creator": "@adventurefamilyvlog",
+   "creator_name": "Heather & Jesse Gariepy | Family Bucket List Travel",
+   "duplicate_place": true,
+   "place_ids": [
+    "canyon-overlook-zion-ut"
+   ],
+   "places_count": 1,
+   "posted": "2026-09-12",
+   "recommendation_summary": "Recommends Canyon Overlook Trail as one of Zion's best views at the end of a 1-mile trail: biggest payoff for least effort in Zion, ~160 ft gain, 1-2 hours, just east of the Zion-Mount Carmel Tunnel, incredible at sunrise or sunset, views over Pine Creek Canyon. This place was already on the map from the @amorywild sunrise reel, so it was added as a second source on that pin instead of a duplicate pin.",
+   "theme": "Best short hike / best view in Zion",
+   "title": "Canyon Overlook Trail \u2014 One of Zion's Best Views",
+   "url": "https://www.instagram.com/reel/DdMWajZA_cn/"
+  }
+ ]
+}

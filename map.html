@@ -19,7 +19,8 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel": "https://www.instagram.com/reel/De9cpsdpbBx/",
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
-  "rank": 4
+  "rank": 4,
+  "also": []
  },
  {
   "n": "1 \u00b7 Canyon Overlook",
@@ -35,7 +36,16 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel": "https://www.instagram.com/reel/De9cpsdpbBx/",
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
-  "rank": 3
+  "rank": 3,
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdMWajZA_cn/",
+    "reel_title": "Canyon Overlook Trail \u2014 One of Zion's Best Views",
+    "creator": "@adventurefamilyvlog",
+    "best": "Sunrise or sunset / Short hike",
+    "rec": "Recommends it as one of Zion's best views and possibly its best short hike: about 1 mile round trip, ~160 ft elevation gain, allow 1-2 hours, trailhead just east of the Zion-Mount Carmel Tunnel, with epic views over Pine Creek Canyon and Zion's cliffs. Incredible at sunrise or sunset. Short but with exposed drop-offs, so keep kids close."
+   }
+  ]
  },
  {
   "n": "2 \u00b7 Sunrise Point",
@@ -51,7 +61,8 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel": "https://www.instagram.com/reel/De9cpsdpbBx/",
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
-  "rank": 1
+  "rank": 1,
+  "also": []
  },
  {
   "n": "1 \u00b7 Inspiration Peak (Inspiration Point)",
@@ -67,7 +78,8 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel": "https://www.instagram.com/reel/De9cpsdpbBx/",
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
-  "rank": 5
+  "rank": 5,
+  "also": []
  },
  {
   "n": "2 \u00b7 Zabriskie Point",
@@ -83,10 +95,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel": "https://www.instagram.com/reel/De9cpsdpbBx/",
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
-  "rank": 2
+  "rank": 2,
+  "also": []
  }
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
-var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
+var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
 map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 1<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 2<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 2"; return div;}; legend.addTo(map);
 </script></body></html>
