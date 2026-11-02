@@ -10,10 +10,21 @@ LLM layer calls Muse's custom.openai connector helper, which injects the
 credential by surrogate exchange at request time. Nothing secret is in this
 file, the browser, or the repo.
 """
+import os
 import sys
 from pathlib import Path
 
 import streamlit as st
+
+# Hosted deployments (Streamlit Cloud) provide the OpenAI key as an app
+# secret; expose it to the LLM layer as an env var before importing it.
+# Locally there is no secrets file and the secure connector helper is used
+# instead — no key is ever read from this file or the repo.
+try:
+    if "OPENAI_API_KEY" in st.secrets:
+        os.environ.setdefault("OPENAI_API_KEY", st.secrets["OPENAI_API_KEY"])
+except Exception:
+    pass
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
@@ -55,6 +66,15 @@ with st.sidebar:
 
 st.title("Reel Chat")
 st.write("Ask about the places saved from Instagram reels, or build an itinerary from their recommendations.")
+
+if not llm.available():
+    st.error(
+        "This chatbot runs in **LLM-only mode** (no rule-based fallback), and no AI "
+        "connection is configured for this deployment yet. To switch it on, add "
+        "`OPENAI_API_KEY` under the app's Settings → Secrets in Streamlit Cloud, "
+        "then reboot the app."
+    )
+    st.stop()
 
 EXAMPLES = [
     "Best sunrise spots in Utah",

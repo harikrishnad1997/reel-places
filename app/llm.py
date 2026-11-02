@@ -46,25 +46,58 @@ HELPER = Path(os.environ.get(
 def available():
     if os.environ.get("REEL_CHAT_LLM", "").lower() in ("off", "0", "no"):
         return False
-    return HELPER.is_file()
+    return HELPER.is_file() or bool(os.environ.get("OPENAI_API_KEY"))
 
 
 def _chat(system, user, temperature_note=None):
-    """One chat completion via the connector helper; None on any failure."""
+    """One chat completion; None on any failure.
+
+    Backend order: (1) Muse's secure connector helper on this machine —
+    the key is injected by surrogate exchange and never read here.
+    (2) A direct OpenAI API call using OPENAI_API_KEY from the environment
+    — this is the hosted path (e.g. Streamlit Cloud Secrets inject it as an
+    env var). The key is read at call time only, never stored or logged.
+    """
     if not available():
         return None
     model = os.environ.get("REEL_CHAT_MODEL", "gpt-4o-mini")
-    try:
-        proc = subprocess.run(
-            [sys.executable, str(HELPER), "--system", system,
-             "--user", user, "--model", model],
-            capture_output=True, text=True, timeout=60)
-    except Exception:
-        return None
-    if proc.returncode != 0:
-        return None
-    out = (proc.stdout or "").strip()
-    return out or None
+    if HELPER.is_file():
+        try:
+            proc = subprocess.run(
+                [sys.executable, str(HELPER), "--system", system,
+                 "--user", user, "--model", model],
+                capture_output=True, text=True, timeout=60)
+        except Exception:
+            proc = None
+        if proc is not None and proc.returncode == 0:
+            out = (proc.stdout or "").strip()
+            if out:
+                return out
+    key = os.environ.get("OPENAI_API_KEY")
+    if key:
+        try:
+            import urllib.request
+
+            class _NoRedirect(urllib.request.HTTPRedirectHandler):
+                def redirect_request(self, *args):
+                    raise RuntimeError("redirect refused")
+
+            payload = {"model": model, "messages": [
+                {"role": "system", "content": system},
+                {"role": "user", "content": user}]}
+            req = urllib.request.Request(
+                "https://api.openai.com/v1/chat/completions",
+                data=json.dumps(payload).encode("utf-8"),
+                headers={"Content-Type": "application/json",
+                         "Authorization": f"Bearer {key}"},
+                method="POST")
+            with urllib.request.build_opener(_NoRedirect()).open(req, timeout=60) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            out = (data["choices"][0]["message"]["content"] or "").strip()
+            return out or None
+        except Exception:
+            return None
+    return None
 
 
 def parse_question(question, vocab):

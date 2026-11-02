@@ -514,32 +514,38 @@ def route_rules(g, question):
 
 
 def answer(g, question, backend_note):
-    """Rule-based graph answering is the core. When an OpenAI credential
-    is available at runtime (see llm.py), the LLM may first parse the
-    question into a canonical form and afterwards rephrase the finished
-    graph answer — it never supplies facts, and a phrasing that changes
-    any link is discarded. With no credential this is exactly the
-    rule-based pipeline."""
-    llm_note = ""
-    result = None
+    """LLM-only mode (user directive, 2026-11-02 — the rule-only mode gave
+    wrong answers on the website, so there is NO rule-based fallback).
+    The LLM must parse the question into a validated intent drawn from the
+    graph's vocabulary; the graph pipeline then produces the facts, and
+    the LLM rephrases them (a phrasing that changes any link is rejected).
+    If the LLM is unavailable or cannot parse the question, the bot says
+    so instead of guessing with keyword rules. Facts come only from the
+    graph either way."""
     llm = None
     try:
         import llm as _llm
         llm = _llm if _llm.available() else None
     except Exception:
         llm = None
-    if llm is not None:
-        canon = canonical_question(llm.parse_question(question, vocab(g)))
-        if canon and canon.lower() != question.lower():
-            result = route_rules(g, canon)
-            llm_note = " - LLM-parsed question, answered by the graph pipeline"
-    if result is None:
-        result = route_rules(g, question)
-    if llm is not None and not result.startswith("I can only answer"):
+    if llm is None:
+        return ("This chatbot runs in LLM-only mode, but the AI connection "
+                "isn't available right now, so I can't answer that."
+                f"\n\n[answered from the {backend_note} - LLM unavailable, no fallback]")
+    canon = canonical_question(llm.parse_question(question, vocab(g)))
+    if not canon:
+        return ("I couldn't understand that question well enough to query "
+                "the graph. Try naming a theme (sunrise, waterfall, hike), "
+                "a place or park, a creator like @amorywild, or ask for an "
+                "itinerary with a number of days."
+                f"\n\n[answered from the {backend_note} - LLM mode, no matching intent]")
+    result = route_rules(g, canon)
+    llm_note = " - LLM mode: parsed by the LLM, facts from the graph"
+    if not result.startswith("I can only answer"):
         phrased = llm.phrase_answer(question, result)
         if phrased:
             result = phrased
-            llm_note += " - LLM-phrased, facts and links verified unchanged"
+            llm_note += ", phrased by the LLM with links verified unchanged"
     return result + f"\n\n[answered from the {backend_note}{llm_note}]"
 
 
