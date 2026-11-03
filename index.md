@@ -29,7 +29,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 6 · Southeast 22 · Midwest 4 · Southwest 35 · Mountain West 29 · West 33 · Pacific Northwest 11 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 161**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
-- 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app, embedded on that page): it answers questions and builds itineraries from these recommendations.
+- 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
 
 ## Map — all places, color-coded by region {#map}
 

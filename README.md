@@ -8,7 +8,7 @@ Send a reel, and Reel Places pulls out every location it names, checks each one 
 
 - 🌐 **Website:** https://harikrishnad1997.github.io/reel-places/
 - 🗺️ **Map:** https://harikrishnad1997.github.io/reel-places/map.html
-- 💬 **Reel Chat (the project's one chatbot):** https://harikrishnad1997.github.io/reel-places/chat.html — the Streamlit app, embedded
+- 💬 **Reel Chat (the project's one chatbot):** https://harikrishnad1997.github.io/reel-places/chat.html — takes you straight to the Streamlit app
 - 🤖 **Reel Chat on Streamlit:** https://reel-places-5qsqnj7f8465py9mdhpttg.streamlit.app/
 - 📦 **Repository:** https://github.com/harikrishnad1997/reel-places
 
@@ -68,7 +68,7 @@ Reel Chat is a Streamlit app over the Kuzu graph (with a `graph.json` snapshot a
 ```
 index.md       the places list (generated)
 map.html       the Leaflet map (generated)
-chat.html      Reel Chat — embeds the Streamlit app (the one chatbot)
+chat.html      Reel Chat — redirects to the Streamlit app (the one chatbot)
 places.json    places data (mirrors the pipeline source of truth)
 reels.json     reels data
 app/           Streamlit app bundle (streamlit_app.py, chatbot.py, llm.py, graph.json)
