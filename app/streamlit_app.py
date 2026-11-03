@@ -65,18 +65,18 @@ for p in places:
     r = p["properties"].get("region", "?")
     regions[r] = regions.get(r, 0) + 1
 
-with st.sidebar:
-    st.title("🎬 Reel Places")
-    st.metric("Places", len(places))
-    st.metric("Source reels", len(reels))
-    st.metric("Creators", len(creators))
-    st.subheader("Places by region")
-    for name, count in sorted(regions.items(), key=lambda kv: -kv[1]):
-        st.write(f"**{name}** · {count}")
-    st.divider()
-    st.caption(f"Graph backend: {backend_note}")
-    st.caption("LLM layer: " + ("on — LLM-only mode" if llm.available() else "off — paste an OpenAI key on the page to chat (LLM-only, no fallback)"))
-    st.caption("Answers come from the graph first (every place cites its source reel); if the graph doesn't cover a question, the bot searches the web and labels the answer as web-sourced.")
+# with st.sidebar:
+#     st.title("🎬 Reel Places")
+#     st.metric("Places", len(places))
+#     st.metric("Source reels", len(reels))
+#     st.metric("Creators", len(creators))
+#     st.subheader("Places by region")
+#     for name, count in sorted(regions.items(), key=lambda kv: -kv[1]):
+#         st.write(f"**{name}** · {count}")
+#     st.divider()
+#     st.caption(f"Graph backend: {backend_note}")
+#     st.caption("LLM layer: " + ("on — LLM-only mode" if llm.available() else "off — paste an OpenAI key on the page to chat (LLM-only, no fallback)"))
+#     st.caption("Answers come from the graph first (every place cites its source reel); if the graph doesn't cover a question, the bot searches the web and labels the answer as web-sourced.")
 
 st.title("Reel Chat")
 st.write("Ask about the places saved from Instagram reels, or build an itinerary from their recommendations.")
