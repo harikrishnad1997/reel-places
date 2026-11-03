@@ -2238,6 +2238,61 @@
    }
   },
   {
+   "id": "reel:DfC4kU-xTZ-",
+   "type": "Reel",
+   "properties": {
+    "name": "Manitou Incline hike — 'Hold on I forgot something'",
+    "url": "https://www.instagram.com/reel/DfC4kU-xTZ-/",
+    "title": "Manitou Incline hike — 'Hold on I forgot something'",
+    "creator": "@josephferrucci",
+    "theme": "Manitou Incline staircase hike",
+    "places_count": 1,
+    "recommendation_summary": "Two friends attempt the Manitou Incline in Manitou Springs, Colorado — one summits the famous staircase climb, the other bails to a bar. The spot is the Incline itself, recommended as a steep, bucket-list hike.",
+    "posted": "2026-10-28",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:josephferrucci",
+   "type": "Creator",
+   "properties": {
+    "name": "@josephferrucci",
+    "handle": "@josephferrucci",
+    "display_name": "Joe Ferrucci"
+   }
+  },
+  {
+   "id": "reel:DfQ6dEHt8NU",
+   "type": "Reel",
+   "properties": {
+    "name": "Fall colors — Eagle Tower, Peninsula State Park",
+    "url": "https://www.instagram.com/reel/DfQ6dEHt8NU/",
+    "title": "Fall colors — Eagle Tower, Peninsula State Park",
+    "creator": "@asia_in_chicago",
+    "theme": "Fall colors",
+    "places_count": 2,
+    "recommendation_summary": "A single-stop Door County recommendation: add Peninsula State Park (about a 5-hour drive from Chicago) to a Wisconsin trip, especially in fall — climb Eagle Tower by its elevated canopy walkway for panoramic Green Bay and island views in autumn color, then explore the park's trails, including the difficult-rated Eagle Trail, with picnic areas, parking and restrooms on site.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:asia-in-chicago",
+   "type": "Creator",
+   "properties": {
+    "name": "@asia_in_chicago",
+    "handle": "@asia_in_chicago",
+    "display_name": "Asia in Chicago"
+   }
+  },
+  {
+   "id": "theme:fall-colors",
+   "type": "Theme",
+   "properties": {
+    "name": "Fall colors"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -6123,6 +6178,95 @@
     "best_for": "Waterfall",
     "note": "Pin is the second of two adjacent Nominatim waterfall points returned for American Falls, so it does not sit exactly on the general Niagara Falls point."
    }
+  },
+  {
+   "id": "place:manitou-incline-co",
+   "type": "Place",
+   "properties": {
+    "name": "Manitou Incline",
+    "place_id": "manitou-incline-co",
+    "site": "Manitou Incline",
+    "city": "Manitou Springs",
+    "state": "Colorado",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.8576286,
+    "lng": -104.9398938,
+    "google_maps_query": "Manitou+Incline+Manitou+Springs+CO",
+    "best_for": "Hike",
+    "note": "Geocoded as 'The Incline' (OSM, type: steps), Manitou Springs, El Paso County, CO."
+   }
+  },
+  {
+   "id": "state:united-states-colorado",
+   "type": "State",
+   "properties": {
+    "name": "Colorado",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:manitou-incline",
+   "type": "Site",
+   "properties": {
+    "name": "Manitou Incline"
+   }
+  },
+  {
+   "id": "place:eagle-tower-peninsula-state-park-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Eagle Tower",
+    "place_id": "eagle-tower-peninsula-state-park-wi",
+    "site": "Peninsula State Park",
+    "city": "Fish Creek",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 45.162762,
+    "lng": -87.198112,
+    "google_maps_query": "Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI",
+    "best_for": "Fall colors / View",
+    "note": "The reel says the views overlook Lake Michigan; the tower actually faces Green Bay (the bay between the Door Peninsula and mainland Wisconsin), with Horseshoe Island in view. Caption puts the park about a 5-hour drive from Chicago. The rebuilt tower (opened 2021) is reached by 95-100 stairs or an 850-foot accessible canopy ramp; Wisconsin DNR lists it open May 1-Oct 31."
+   }
+  },
+  {
+   "id": "state:united-states-wi",
+   "type": "State",
+   "properties": {
+    "name": "Wisconsin",
+    "state_code": "WI",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:peninsula-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Peninsula State Park"
+   }
+  },
+  {
+   "id": "place:eagle-trail-peninsula-state-park-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Eagle Trail",
+    "place_id": "eagle-trail-peninsula-state-park-wi",
+    "site": "Peninsula State Park",
+    "city": "Fish Creek",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 45.16179,
+    "lng": -87.20194,
+    "google_maps_query": "Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI",
+    "best_for": "Hike",
+    "note": "Pin is the Eagle Trail trailhead just west of the Eagle Tower parking area (Trailforks trailhead coordinates); DNR lists access at Eagle Terrace, Eagle Panorama or the Tower. DNR rates this 2.0-mile loop 'more difficult', with steep, rocky sections under 150-foot cliffs along Eagle Harbor."
+   }
   }
  ],
  "edges": [
@@ -7821,6 +7965,30 @@
   {
    "from": "reel:DF-lE_bJ-fG",
    "to": "theme:winter-visit",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfC4kU-xTZ-",
+   "to": "creator:josephferrucci",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfC4kU-xTZ-",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQ6dEHt8NU",
+   "to": "creator:asia-in-chicago",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQ6dEHt8NU",
+   "to": "theme:fall-colors",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -15123,6 +15291,123 @@
   {
    "from": "place:american-falls-ny",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:manitou-incline-co",
+   "to": "state:united-states-colorado",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-colorado",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-colorado",
+   "to": "region:mountain-west",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:manitou-incline-co",
+   "to": "site:manitou-incline",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:manitou-incline-co",
+   "to": "reel:DfC4kU-xTZ-",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "Joe Ferrucci and his friend Jordan set out to climb the Manitou Incline, billed on-screen as the tallest staircase in the United States. Jordan grinds his way up the relentless steps to the summit; Joe's own 'halfway through' update is filmed from a bar stool. A comedy bit, but an honest preview of how steep this climb is.",
+    "creator": "@josephferrucci",
+    "reel_title": "Manitou Incline hike — 'Hold on I forgot something'",
+    "reel_theme": "Manitou Incline staircase hike"
+   }
+  },
+  {
+   "from": "place:manitou-incline-co",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-tower-peninsula-state-park-wi",
+   "to": "state:united-states-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-wi",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-wi",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-tower-peninsula-state-park-wi",
+   "to": "site:peninsula-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-tower-peninsula-state-park-wi",
+   "to": "reel:DfQ6dEHt8NU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Fall colors / View",
+    "recommendation": "The reel's headline stop: add Peninsula State Park in Door County to a Wisconsin trip for Eagle Tower, reached by a long wooden elevated walkway through autumn trees to panoramic views over Green Bay and the surrounding islands — at their best in fall color. Parking, restrooms and park information are right at the tower area.",
+    "creator": "@asia_in_chicago",
+    "reel_title": "Fall colors — Eagle Tower, Peninsula State Park",
+    "reel_theme": "Fall colors"
+   }
+  },
+  {
+   "from": "place:eagle-tower-peninsula-state-park-wi",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-trail-peninsula-state-park-wi",
+   "to": "state:united-states-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-trail-peninsula-state-park-wi",
+   "to": "site:peninsula-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-trail-peninsula-state-park-wi",
+   "to": "reel:DfQ6dEHt8NU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike",
+    "recommendation": "Shown in the reel right after the tower: the trailhead sign marked 'Difficult Trail' for the park's Eagle Trail, a loop the narrator points viewers to for more scenic overlooks beyond Eagle Tower.",
+    "creator": "@asia_in_chicago",
+    "reel_title": "Fall colors — Eagle Tower, Peninsula State Park",
+    "reel_theme": "Fall colors"
+   }
+  },
+  {
+   "from": "place:eagle-trail-peninsula-state-park-wi",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
