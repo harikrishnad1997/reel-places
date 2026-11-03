@@ -16,7 +16,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Southwest Region — 68 places](#southwest)
 - [Mountain West Region — 40 places](#mountain-west)
 - [West Region — 33 places](#west)
-- [Pacific Northwest Region — 16 places](#pacific-northwest)
+- [Pacific Northwest Region — 17 places](#pacific-northwest)
 - [Alaska Region — 13 places](#alaska)
 - [Hawaii Region — 5 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 44 · Midwest 10 · Southwest 68 · Mountain West 40 · West 33 · Pacific Northwest 16 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 269**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 44 · Midwest 10 · Southwest 68 · Mountain West 40 · West 33 · Pacific Northwest 17 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 270**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -2196,7 +2196,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Pacific Northwest Region {#pacific-northwest}
 
-**16 places · Washington**
+**17 places · Oregon, Washington**
 
 ### Alpine Lakes Wilderness
 
@@ -2209,13 +2209,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - The Alpine Lakes Wilderness Snow Lake near Snoqualmie Pass — a different lake from the Snow Lake in Mount Rainier National Park, which is a separate pin. Pin is OpenStreetMap's named point for the lake.
   - 🎬 Source: [Snow Lake — the 'how is this real?' lake an hour from Seattle](https://www.instagram.com/reel/DaiuZDzPo9J/) by @the.trekking.mama (#1 in that reel)
 
+### Alvord Desert
+
+#### Oregon
+
+##### Stargazing
+
+- **2. [Alvord Desert](https://www.google.com/maps/search/?api=1&query=Alvord+Desert+Oregon)** — Alvord Desert, Fields
+  - **Best for:** Stargazing — Jess drove 9 hours to camp on the Alvord Desert playa — under some of the darkest skies in Oregon — to teach herself astrophotography. She timed the trip under an almost-full moon by accident, so she waited for moonset, set a 3:24 AM alarm, and manually shot 105 long exposures (her old Sony has no intervalometer) to stitch a four-second starlapse. Her verdict: the Alvord had been on her list a long time and was worth every bit of the drive.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [Alvord Desert — a 3:24 AM starlapse on the playa](https://www.instagram.com/reel/Dd19e-FTUn_/) by @jessonthewildway (#1 in that reel)
+
 ### Cape Flattery (Makah Reservation)
 
 #### Washington
 
 ##### Viewpoint
 
-- **2. [Cape Flattery](https://www.google.com/maps/search/?api=1&query=Cape+Flattery+WA)** — Cape Flattery (Makah Reservation), Neah Bay
+- **3. [Cape Flattery](https://www.google.com/maps/search/?api=1&query=Cape+Flattery+WA)** — Cape Flattery (Makah Reservation), Neah Bay
   - **Best for:** Viewpoint — The Griffins' verdict: even on a foggy day, Cape Flattery was unforgettable — the farthest northwest point of the Olympic Peninsula (and the contiguous U.S.), and one of those places that's worth going out of your way for.
   - Coordinates verified against OpenStreetMap. Cape Flattery is on the Makah Reservation; a Makah recreation pass is required to visit.
   - 🎬 Source: [Cape Flattery, Washington State](https://www.instagram.com/reel/DcdhI5UBsTA/) by @griffins.onthego (#1 in that reel)
@@ -2228,7 +2239,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Easy hike
 
-- **3. [Myrtle Falls](https://www.google.com/maps/search/?api=1&query=Myrtle+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+- **4. [Myrtle Falls](https://www.google.com/maps/search/?api=1&query=Myrtle+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
   - **Best for:** Easy hike / Waterfall — His #4 easy hike: the waterfall cascading over rocks with snow-capped Mount Rainier in the background.
   - 🎬 Source: [Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild
@@ -2236,14 +2247,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **4. [Snow Lake](https://www.google.com/maps/search/?api=1&query=Snow+Lake+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+- **5. [Snow Lake](https://www.google.com/maps/search/?api=1&query=Snow+Lake+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
   - **Best for:** Hike / Lake — Caption names Snow Lake; tagged location Mt. Rainier National Park. On-screen text: 'One of Mt Rainier's easiest hikes... with a great payoff.' The video crosses a rustic log bridge over a forest stream, then reveals the calm alpine lake at the base of steep, rocky, snow-patched mountains lined with evergreens and driftwood.
   - The Snow Lake on the Bench and Snow Lakes Trail east of Paradise, geocoded inside a Rainier-bounded search — not the better-known Snow Lake at Snoqualmie Pass.
   - 🎬 Source: [Alpine lake hike — Snow Lake](https://www.instagram.com/reel/DeYG1AsvvsM/) by @amorywild (#None in that reel)
 
 ##### Top national park
 
-- **5. [Mount Rainier National Park](https://www.google.com/maps/search/?api=1&query=Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Ashford
+- **6. [Mount Rainier National Park](https://www.google.com/maps/search/?api=1&query=Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Ashford
   - **Best for:** Top national park — Ranked #11, showing alpine lakes, snow-capped peaks and powerful waterfalls.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#11 in that reel)
   - 🎬 Also recommended by: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild
@@ -2253,7 +2264,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **6. [Comet Falls](https://www.google.com/maps/search/?api=1&query=Comet+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+- **7. [Comet Falls](https://www.google.com/maps/search/?api=1&query=Comet+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
   - **Best for:** Waterfall / Hike — Caption and tagged location name Comet Falls, Mt. Rainier. The video shows the powerful waterfall plunging down a steep rocky cliff in dense evergreen forest under misty, overcast skies — on-screen text: 'Perfect waterfall weather...' — zooming progressively closer to the falls.
   - 🎬 Source: [Waterfall — Comet Falls](https://www.instagram.com/reel/Dd-H0WJhJRJ/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Hiking / Waterfall — Comet Falls Trail](https://www.instagram.com/reel/DdEPGaTtAk0/) by @amorywild
@@ -2265,7 +2276,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **7. [North Cascades National Park](https://www.google.com/maps/search/?api=1&query=North+Cascades+National+Park+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+- **8. [North Cascades National Park](https://www.google.com/maps/search/?api=1&query=North+Cascades+National+Park+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hike — His #2 for hiking: a hiker on a trail toward jagged snow-covered peaks, dramatic ridgelines, and sweeping views of a bright turquoise lake nestled between forested mountains.
   - Park-level pin is the park's Nominatim point in the Ross Lake area.
   - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#2 in that reel)
@@ -2275,21 +2286,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Top national park — His #5 national park: North Cascades, shown with rugged snowy mountains and a turquoise lake.
   - 🎬 Also recommended by: [Scenic hike — North Cascades National Park](https://www.instagram.com/reel/DdAb42fK2kg/) by @amorywild
     - **Best for:** View / Hike — Caption asks, 'Could it be North Cascades?' and on-screen text calls it 'The greatest national park no one knows...' A hiker climbs a rocky alpine trail toward glaciated peaks as the camera pans across rugged mountains, green valleys, and lingering snowfields. No specific trail is named.
-- **8. [Sourdough Mountain](https://www.google.com/maps/search/?api=1&query=Sourdough+Mountain+North+Cascades+National+Park+WA)** — North Cascades National Park, Newhalem
+- **9. [Sourdough Mountain](https://www.google.com/maps/search/?api=1&query=Sourdough+Mountain+North+Cascades+National+Park+WA)** — North Cascades National Park, Newhalem
   - **Best for:** Hike — Ranked #3, described as logistically easy but hard because of high, cold water crossings that left him constantly off-balance, wearing wetsuit overalls and layers.
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#3 in that reel)
   - 🎬 Also recommended by: [My Top 5 Awe-Inspiring National Park Hikes](https://www.instagram.com/reel/DerSq5htCWS/) by @amorywild
     - **Best for:** Hike — Ranked #3 in this list, featuring vistas of a bright turquoise lake surrounded by snow-capped peaks and dense forests.
   - 🎬 Also recommended by: [Top 5 National Park Hikes](https://www.instagram.com/reel/Ddpitf0BMb-/) by @amorywild
     - **Best for:** Hike / View — His #1 hike: Sourdough Mountain in North Cascades National Park, called his best overall hike for its sweeping vista of a turquoise lake surrounded by snow-capped mountains.
-- **9. [Trappers Peak](https://www.google.com/maps/search/?api=1&query=Trappers+Peak+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+- **10. [Trappers Peak](https://www.google.com/maps/search/?api=1&query=Trappers+Peak+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hike — Gwyn and Ami's pick for some of the best panoramic mountain views in the North Cascades: Trappers Peak via Thornton Lakes — 9.7 miles with 3,438 ft of gain to stunning 360° summit views. Non-technical (no special gear or skills), with a few steep rock-scramble sections. Their tips: pack plenty of water (few places to filter), no backpacking on the peak itself, and Thornton Lakes backpacking is by competitive NPS permit.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Trappers Peak — 360° views of the North Cascades](https://www.instagram.com/reel/DcY8Huyswku/) by @gwynandami (#1 in that reel)
 
 ##### View
 
-- **10. [Diablo Lake Overlook](https://www.google.com/maps/search/?api=1&query=Diablo+Lake+Overlook+North+Cascades+National+Park+WA)** — North Cascades National Park, North Cascades National Park
+- **11. [Diablo Lake Overlook](https://www.google.com/maps/search/?api=1&query=Diablo+Lake+Overlook+North+Cascades+National+Park+WA)** — North Cascades National Park, North Cascades National Park
   - **Best for:** View — His #1 viewpoint: the striking turquoise lake surrounded by dense evergreen forests and snow-capped peaks under dramatic clouds.
   - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#1 in that reel)
 
@@ -2299,16 +2310,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **11. [Klahhane Ridge](https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+- **12. [Klahhane Ridge](https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Hike — Ranked #3, with lush green alpine ridges, distant snow-capped peaks, a grazing deer and a distant black bear.
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#3 in that reel)
-- **12. [Mount Storm King](https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA)** — Olympic National Park, Olympic National Park
+- **13. [Mount Storm King](https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA)** — Olympic National Park, Olympic National Park
   - **Best for:** Hike / Adrenaline — His #5 adrenaline hike: rocky trail footage, a hiker using a blue rope on a steep dirt section, and sweeping views of Lake Crescent below.
   - 🎬 Source: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild (#5 in that reel)
 
 ##### Overlooked view
 
-- **13. [Olympic National Park](https://www.google.com/maps/search/?api=1&query=Olympic+National+Park+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+- **14. [Olympic National Park](https://www.google.com/maps/search/?api=1&query=Olympic+National+Park+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Overlooked view / View — Caption calls Olympic's best part overlooked. From a rocky mountain overlook, the video pans across moss- and lichen-covered rock, deep evergreen valleys, and distant snow-capped ranges; on-screen text reads, 'So many people miss this part of Olympic...' No specific trail or overlook is named.
   - Park-level pin is the park's Nominatim point in the park interior.
   - 🎬 Source: [Scenic viewpoint — Olympic National Park](https://www.instagram.com/reel/DdhK7LuBNJP/) by @amorywild (#None in that reel)
@@ -2317,14 +2328,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **14. [Tree of Life (Kalaloch Beach)](https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA)** — Olympic National Park, Kalaloch
+- **15. [Tree of Life (Kalaloch Beach)](https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA)** — Olympic National Park, Kalaloch
   - **Best for:** Viewpoint — Big Bat Billy's stop: the Tree of Life at Kalaloch Beach in Olympic National Park — the famous Sitka spruce that keeps growing over an eroded gully, its roots exposed in a root cave beneath it, right on the beach.
   - Coordinates from published references for the Tree of Life itself, at the north end of Kalaloch Beach by the campground — the tree is not a mapped OpenStreetMap feature (the beach's OSM point sits ~1.5 miles south).
   - 🎬 Source: [Tree of Life — Kalaloch Beach, Olympic National Park](https://www.instagram.com/reel/DduRKbUhtT9/) by @bigbatbilly (#1 in that reel)
 
 ##### Waterfall
 
-- **15. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
+- **16. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
   - **Best for:** Waterfall — Ranked #3 waterfall, plunging into a mossy gorge and viewed from a bridge.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#3 in that reel)
 
@@ -2334,7 +2345,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **16. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
+- **17. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
   - **Best for:** Hike — Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It's a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Most beautiful lake in the USA? — Colchuck Lake](https://www.instagram.com/reel/DfPvUw7PcCy/) by @thisworldofadventure (#1 in that reel)
@@ -2941,6 +2952,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Mesa Verde National Park, Colorado — Ancestral Pueblo cliff dwellings: Cliff Palace and Balcony House by ranger-guided tour (Recreation.gov), Morefield Campground as base, fry bread at Soda Point.
 - **[Tree of Life — Kalaloch Beach, Olympic National Park](https://www.instagram.com/reel/DduRKbUhtT9/)** — @bigbatbilly · 1 places · Theme: Olympic National Park beach landmark
   - What the reel recommends: The Tree of Life at Kalaloch Beach, Olympic National Park, Washington — the root-exposed spruce growing over a beach gully.
+- **[Alvord Desert — a 3:24 AM starlapse on the playa](https://www.instagram.com/reel/Dd19e-FTUn_/)** — @jessonthewildway · 1 places · Theme: Oregon dark-sky camping
+  - What the reel recommends: The Alvord Desert playa in southeastern Oregon — some of the darkest skies in the state; camp on the playa for Milky Way photography (plan around the moon).
 
 ## How this page is updated {#how-this-page-is-updated}
 

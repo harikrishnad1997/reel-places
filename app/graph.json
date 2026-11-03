@@ -3157,6 +3157,28 @@
    }
   },
   {
+   "id": "reel:Dd19e-FTUn_",
+   "type": "Reel",
+   "properties": {
+    "name": "Alvord Desert — a 3:24 AM starlapse on the playa",
+    "url": "https://www.instagram.com/reel/Dd19e-FTUn_/",
+    "title": "Alvord Desert — a 3:24 AM starlapse on the playa",
+    "creator": "@jessonthewildway",
+    "theme": "Oregon dark-sky camping",
+    "places_count": 1,
+    "recommendation_summary": "The Alvord Desert playa in southeastern Oregon — some of the darkest skies in the state; camp on the playa for Milky Way photography (plan around the moon).",
+    "posted": "2026-09-28",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "theme:oregon-dark-sky-camping",
+   "type": "Theme",
+   "properties": {
+    "name": "Oregon dark-sky camping"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -9982,6 +10004,41 @@
     "best_for": "Viewpoint",
     "note": "Coordinates from published references for the Tree of Life itself, at the north end of Kalaloch Beach by the campground — the tree is not a mapped OpenStreetMap feature (the beach's OSM point sits ~1.5 miles south)."
    }
+  },
+  {
+   "id": "place:alvord-desert-or",
+   "type": "Place",
+   "properties": {
+    "name": "Alvord Desert",
+    "place_id": "alvord-desert-or",
+    "site": "Alvord Desert",
+    "city": "Fields",
+    "state": "Oregon",
+    "state_code": "",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 42.53773,
+    "lng": -118.46513,
+    "google_maps_query": "Alvord+Desert+Oregon",
+    "best_for": "Stargazing",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-oregon",
+   "type": "State",
+   "properties": {
+    "name": "Oregon",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:alvord-desert",
+   "type": "Site",
+   "properties": {
+    "name": "Alvord Desert"
+   }
   }
  ],
  "edges": [
@@ -12100,6 +12157,18 @@
   {
    "from": "reel:DduRKbUhtT9",
    "to": "theme:olympic-national-park-beach-landmark",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd19e-FTUn_",
+   "to": "creator:jessonthewildway",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd19e-FTUn_",
+   "to": "theme:oregon-dark-sky-camping",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -23534,6 +23603,49 @@
   {
    "from": "place:tree-of-life-kalaloch-wa",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:alvord-desert-or",
+   "to": "state:united-states-oregon",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-oregon",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-oregon",
+   "to": "region:pacific-northwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:alvord-desert-or",
+   "to": "site:alvord-desert",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:alvord-desert-or",
+   "to": "reel:Dd19e-FTUn_",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Stargazing",
+    "recommendation": "Jess drove 9 hours to camp on the Alvord Desert playa — under some of the darkest skies in Oregon — to teach herself astrophotography. She timed the trip under an almost-full moon by accident, so she waited for moonset, set a 3:24 AM alarm, and manually shot 105 long exposures (her old Sony has no intervalometer) to stitch a four-second starlapse. Her verdict: the Alvord had been on her list a long time and was worth every bit of the drive.",
+    "creator": "@jessonthewildway",
+    "reel_title": "Alvord Desert — a 3:24 AM starlapse on the playa",
+    "reel_theme": "Oregon dark-sky camping"
+   }
+  },
+  {
+   "from": "place:alvord-desert-or",
+   "to": "theme:stargazing",
    "type": "BEST_FOR",
    "properties": {}
   }

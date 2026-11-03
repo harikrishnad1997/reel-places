@@ -7188,6 +7188,28 @@
    "source_rank": 1,
    "source_reel_theme": "Olympic National Park beach landmark",
    "additional_sources": []
+  },
+  {
+   "id": "alvord-desert-or",
+   "name": "Alvord Desert",
+   "site": "Alvord Desert",
+   "city": "Fields",
+   "state": "Oregon",
+   "country": "United States",
+   "region": "Pacific Northwest",
+   "region_id": "pacific-northwest",
+   "lat": 42.53773,
+   "lng": -118.46513,
+   "google_maps_query": "Alvord+Desert+Oregon",
+   "best_for": "Stargazing",
+   "recommendation": "Jess drove 9 hours to camp on the Alvord Desert playa \u2014 under some of the darkest skies in Oregon \u2014 to teach herself astrophotography. She timed the trip under an almost-full moon by accident, so she waited for moonset, set a 3:24 AM alarm, and manually shot 105 long exposures (her old Sony has no intervalometer) to stitch a four-second starlapse. Her verdict: the Alvord had been on her list a long time and was worth every bit of the drive.",
+   "note": "Coordinates verified against OpenStreetMap.",
+   "source_reel": "https://www.instagram.com/reel/Dd19e-FTUn_/",
+   "source_title": "Alvord Desert \u2014 a 3:24 AM starlapse on the playa",
+   "source_creator": "@jessonthewildway",
+   "source_rank": 1,
+   "source_reel_theme": "Oregon dark-sky camping",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",
