@@ -2193,6 +2193,51 @@
    }
   },
   {
+   "id": "reel:DF-mfuoJF8y",
+   "type": "Reel",
+   "properties": {
+    "name": "Waterfall hike — Vernal Falls",
+    "url": "https://www.instagram.com/reel/DF-mfuoJF8y/",
+    "title": "Waterfall hike — Vernal Falls",
+    "creator": "@amorywild",
+    "theme": "Waterfall hike",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Vernal Falls, Yosemite National Park, tagged #hiking and #travel. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+    "posted": "2025-02-12",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DF-mCO9pxbp",
+   "type": "Reel",
+   "properties": {
+    "name": "Waterfall scenery — Yosemite Falls",
+    "url": "https://www.instagram.com/reel/DF-mCO9pxbp/",
+    "title": "Waterfall scenery — Yosemite Falls",
+    "creator": "@amorywild",
+    "theme": "Waterfall scenery",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Yosemite Falls, Yosemite National Park, tagged #hiking and #travel. Note for the merger: an existing \"Yosemite Falls\" place already exists in places.json, so this post is an additional source for it, not a new place. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+    "posted": "2025-02-12",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DF-lE_bJ-fG",
+   "type": "Reel",
+   "properties": {
+    "name": "Winter park scenery — Rocky Mountain National Park",
+    "url": "https://www.instagram.com/reel/DF-lE_bJ-fG/",
+    "title": "Winter park scenery — Rocky Mountain National Park",
+    "creator": "@amorywild",
+    "theme": "Winter park scenery",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Rocky Mountain National Park only (no specific spot named), tagged #hiking and #winter — entered at park level; no unnamed spot was inferred. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+    "posted": "2025-02-12",
+    "added": "2026-11-02"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -7738,6 +7783,48 @@
    "properties": {}
   },
   {
+   "from": "reel:DF-mfuoJF8y",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DF-mfuoJF8y",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DF-mfuoJF8y",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DF-mCO9pxbp",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DF-mCO9pxbp",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DF-lE_bJ-fG",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DF-lE_bJ-fG",
+   "to": "theme:winter-visit",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -11737,6 +11824,19 @@
    }
   },
   {
+   "from": "place:yosemite-falls-ca",
+   "to": "reel:DF-mCO9pxbp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / View",
+    "recommendation": "Caption names Yosemite Falls, Yosemite National Park, tagged #hiking and #travel. Note for the merger: an existing \"Yosemite Falls\" place already exists in places.json, so this post is an additional source for it, not a new place. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+    "creator": "@amorywild",
+    "reel_title": "Waterfall scenery — Yosemite Falls",
+    "reel_theme": "Waterfall scenery"
+   }
+  },
+  {
    "from": "place:greeter-falls-tn",
    "to": "state:united-states-tn",
    "type": "LOCATED_IN",
@@ -12687,6 +12787,25 @@
    "properties": {}
   },
   {
+   "from": "place:vernal-falls-ca",
+   "to": "reel:DF-mfuoJF8y",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Waterfall",
+    "recommendation": "Caption names Vernal Falls, Yosemite National Park, tagged #hiking and #travel. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+    "creator": "@amorywild",
+    "reel_title": "Waterfall hike — Vernal Falls",
+    "reel_theme": "Waterfall hike"
+   }
+  },
+  {
+   "from": "place:vernal-falls-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:snow-lake-wa",
    "to": "state:united-states-wa",
    "type": "LOCATED_IN",
@@ -13072,6 +13191,25 @@
   {
    "from": "place:rocky-mountain-national-park-co",
    "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rocky-mountain-national-park-co",
+   "to": "reel:DF-lE_bJ-fG",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Winter",
+    "recommendation": "Caption names Rocky Mountain National Park only (no specific spot named), tagged #hiking and #winter — entered at park level; no unnamed spot was inferred. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+    "creator": "@amorywild",
+    "reel_title": "Winter park scenery — Rocky Mountain National Park",
+    "reel_theme": "Winter park scenery"
+   }
+  },
+  {
+   "from": "place:rocky-mountain-national-park-co",
+   "to": "theme:winter-visit",
    "type": "BEST_FOR",
    "properties": {}
   },

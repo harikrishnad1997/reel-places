@@ -1970,6 +1970,51 @@
    "theme": "Scenic hike",
    "title": "Scenic hike \u2014 North Cascades National Park",
    "url": "https://www.instagram.com/reel/DdAb42fK2kg/"
+  },
+  {
+   "added": "2026-11-02",
+   "creator": "@amorywild",
+   "creator_name": "Amory",
+   "duplicate_place": true,
+   "place_ids": [
+    "vernal-falls-ca"
+   ],
+   "places_count": 1,
+   "posted": "2025-02-12",
+   "recommendation_summary": "Caption names Vernal Falls, Yosemite National Park, tagged #hiking and #travel. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+   "theme": "Waterfall hike",
+   "title": "Waterfall hike \u2014 Vernal Falls",
+   "url": "https://www.instagram.com/reel/DF-mfuoJF8y/"
+  },
+  {
+   "added": "2026-11-02",
+   "creator": "@amorywild",
+   "creator_name": "Amory",
+   "duplicate_place": true,
+   "place_ids": [
+    "yosemite-falls-ca"
+   ],
+   "places_count": 1,
+   "posted": "2025-02-12",
+   "recommendation_summary": "Caption names Yosemite Falls, Yosemite National Park, tagged #hiking and #travel. Note for the merger: an existing \"Yosemite Falls\" place already exists in places.json, so this post is an additional source for it, not a new place. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+   "theme": "Waterfall scenery",
+   "title": "Waterfall scenery \u2014 Yosemite Falls",
+   "url": "https://www.instagram.com/reel/DF-mCO9pxbp/"
+  },
+  {
+   "added": "2026-11-02",
+   "creator": "@amorywild",
+   "creator_name": "Amory",
+   "duplicate_place": true,
+   "place_ids": [
+    "rocky-mountain-national-park-co"
+   ],
+   "places_count": 1,
+   "posted": "2025-02-12",
+   "recommendation_summary": "Caption names Rocky Mountain National Park only (no specific spot named), tagged #hiking and #winter \u2014 entered at park level; no unnamed spot was inferred. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+   "theme": "Winter park scenery",
+   "title": "Winter park scenery \u2014 Rocky Mountain National Park",
+   "url": "https://www.instagram.com/reel/DF-lE_bJ-fG/"
   }
  ]
 }

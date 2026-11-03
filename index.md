@@ -291,6 +291,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild
     - **Best for:** Top national park — His #9 national park: Rocky Mountain, shown with icy alpine lakes and elk herds.
+  - 🎬 Also recommended by: [Winter park scenery — Rocky Mountain National Park](https://www.instagram.com/reel/DF-lE_bJ-fG/) by @amorywild
+    - **Best for:** Hike / Winter — Caption names Rocky Mountain National Park only (no specific spot named), tagged #hiking and #winter — entered at park level; no unnamed spot was inferred. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.
 
 ### Nevada
 
@@ -650,6 +652,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Waterfall — Tagged location Yosemite National Park; on-screen text asks 'Is Vernal Falls Yosemite's most perfect waterfall?' The video shows Vernal Falls plunging over dark granite into a turbulent pool, heavy spray sustaining a vivid rainbow at its base, surrounded by steep cliffs and evergreen forest.
   - Officially Vernal Fall (singular); the reel and common usage say Vernal Falls.
   - 🎬 Source: [Waterfall — Vernal Falls](https://www.instagram.com/reel/DeYG-88OvN4/) by @amorywild (#None in that reel)
+  - 🎬 Also recommended by: [Waterfall hike — Vernal Falls](https://www.instagram.com/reel/DF-mfuoJF8y/) by @amorywild
+    - **Best for:** Hike / Waterfall — Caption names Vernal Falls, Yosemite National Park, tagged #hiking and #travel. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.
 - [ ] **30. [Wapama Falls](https://www.google.com/maps/search/?api=1&query=Wapama+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Waterfall — His #4 waterfall: Wapama Falls in Yosemite National Park, a powerful, misty fall crashing over boulders into the river leading toward Hetch Hetchy Reservoir.
   - 🎬 Source: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild (#4 in that reel)
@@ -659,6 +663,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [Waterfall / Viewpoint — Yosemite Falls](https://www.instagram.com/reel/DGf3kt5ubRW/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild
     - **Best for:** Waterfall — His #2 waterfall: Yosemite Falls, presented as one of North America's tallest waterfalls and shown from the valley floor, its base, and an aerial view from the top.
+  - 🎬 Also recommended by: [Waterfall scenery — Yosemite Falls](https://www.instagram.com/reel/DF-mCO9pxbp/) by @amorywild
+    - **Best for:** Waterfall / View — Caption names Yosemite Falls, Yosemite National Park, tagged #hiking and #travel. Note for the merger: an existing "Yosemite Falls" place already exists in places.json, so this post is an additional source for it, not a new place. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.
 - [ ] **32. [Yosemite National Park](https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike — His #3 for hiking: iconic massive waterfalls plunging down granite cliffs, misty river rapids among boulders, and panoramic overlooks of Yosemite Valley including Half Dome.
   - Park-level pin is Yosemite Village, the park's main visitor area.
@@ -1162,6 +1168,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Caption names Niagara Falls, and on-screen text calls it 'America's first state park for a reason...' The video shows the American Falls from the Cave of the Winds walkways and staircases, with massive water crashing down and heavy mist around visitors in yellow ponchos.
 - **[Scenic hike — North Cascades National Park](https://www.instagram.com/reel/DdAb42fK2kg/)** — @amorywild · 1 places · Theme: Scenic hike
   - What the reel recommends: Caption asks, 'Could it be North Cascades?' and on-screen text calls it 'The greatest national park no one knows...' A hiker climbs a rocky alpine trail toward glaciated peaks as the camera pans across rugged mountains, green valleys, and lingering snowfields. No specific trail is named.
+- **[Waterfall hike — Vernal Falls](https://www.instagram.com/reel/DF-mfuoJF8y/)** — @amorywild · 1 places · Theme: Waterfall hike
+  - What the reel recommends: Caption names Vernal Falls, Yosemite National Park, tagged #hiking and #travel. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.
+- **[Waterfall scenery — Yosemite Falls](https://www.instagram.com/reel/DF-mCO9pxbp/)** — @amorywild · 1 places · Theme: Waterfall scenery
+  - What the reel recommends: Caption names Yosemite Falls, Yosemite National Park, tagged #hiking and #travel. Note for the merger: an existing "Yosemite Falls" place already exists in places.json, so this post is an additional source for it, not a new place. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.
+- **[Winter park scenery — Rocky Mountain National Park](https://www.instagram.com/reel/DF-lE_bJ-fG/)** — @amorywild · 1 places · Theme: Winter park scenery
+  - What the reel recommends: Caption names Rocky Mountain National Park only (no specific spot named), tagged #hiking and #winter — entered at park level; no unnamed spot was inferred. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.
 
 ## How this page is updated {#how-this-page-is-updated}
 

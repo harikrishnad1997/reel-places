@@ -2378,6 +2378,15 @@
      "source_reel": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
      "source_reel_theme": "Top 5 National Park Waterfalls",
      "source_title": "Top 5 National Park Waterfalls"
+    },
+    {
+     "best_for": "Waterfall / View",
+     "recommendation": "Caption names Yosemite Falls, Yosemite National Park, tagged #hiking and #travel. Note for the merger: an existing \"Yosemite Falls\" place already exists in places.json, so this post is an additional source for it, not a new place. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DF-mCO9pxbp/",
+     "source_reel_theme": "Waterfall scenery",
+     "source_title": "Waterfall scenery \u2014 Yosemite Falls"
     }
    ],
    "best_for": "Waterfall / View",
@@ -2995,6 +3004,17 @@
    "state_code": "VA"
   },
   {
+   "additional_sources": [
+    {
+     "best_for": "Hike / Waterfall",
+     "recommendation": "Caption names Vernal Falls, Yosemite National Park, tagged #hiking and #travel. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DF-mfuoJF8y/",
+     "source_reel_theme": "Waterfall hike",
+     "source_title": "Waterfall hike \u2014 Vernal Falls"
+    }
+   ],
    "best_for": "Waterfall",
    "city": "Yosemite National Park",
    "country": "United States",
@@ -3246,6 +3266,15 @@
      "source_reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
      "source_reel_theme": "Top 10 National Parks",
      "source_title": "Top 10 National Parks"
+    },
+    {
+     "best_for": "Hike / Winter",
+     "recommendation": "Caption names Rocky Mountain National Park only (no specific spot named), tagged #hiking and #winter \u2014 entered at park level; no unnamed spot was inferred. No media narrative was stored for this post (media-understanding returned a null narrative and the zeitgeist fallback's content understanding was empty), so this is based on the caption only.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DF-lE_bJ-fG/",
+     "source_reel_theme": "Winter park scenery",
+     "source_title": "Winter park scenery \u2014 Rocky Mountain National Park"
     }
    ],
    "best_for": "Hike",
