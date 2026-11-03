@@ -1195,6 +1195,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Road trip stop — Stop #10 on @_wanderedsouls' Southwest winter road-trip route — the iconic long, straight highway shot toward the Monument Valley buttes, made famous by Forrest Gump.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#10 in that reel)
+  - 🎬 Also recommended by: [US Route 163 & Forrest Gump Point — the drive that ruined all others](https://www.instagram.com/reel/DfSTi-OxFFN/) by @meetmoons
+    - **Best for:** Scenic drive — Meet Moons: 'This road ruined every other road trip for us… and Forrest Gump Point is WHY!' US Route 163 through Monument Valley is one of the most breathtaking drives in the USA, and the stretch leading to Forrest Gump Point — where Forrest ended his run in the film, with the Monument Valley buttes dead ahead — 'was something else entirely.' Their verdict: save this drive for your USA bucket list.
 
 ### Glen Canyon Dam
 
@@ -2980,6 +2982,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Whipple's Cave in Franklin Creek State Natural Area, Franklin Grove, Illinois — a 2.9-mile out-and-back on the Pioneer Pass Trail with deep creek crossings.
 - **[Lake of the Clouds — Porcupine Mountains, Michigan](https://www.instagram.com/p/DeSzUHXjWNr/)** — @andrew_krzesinski · 1 places · Theme: Michigan Upper Peninsula viewpoint
   - What the reel recommends: Lake of the Clouds in Porcupine Mountains Wilderness State Park, Michigan's Upper Peninsula — a mountain lake overlook that shines in fall color.
+- **[US Route 163 & Forrest Gump Point — the drive that ruined all others](https://www.instagram.com/reel/DfSTi-OxFFN/)** — @meetmoons · 1 places · Theme: Monument Valley scenic drive
+  - What the reel recommends: Forrest Gump Point on US Route 163 at Monument Valley (Arizona–Utah) — already on the map; added as another source for the iconic drive toward the buttes.
 
 ## How this page is updated {#how-this-page-is-updated}
 

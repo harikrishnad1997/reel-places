@@ -3227,6 +3227,37 @@
    }
   },
   {
+   "id": "reel:DfSTi-OxFFN",
+   "type": "Reel",
+   "properties": {
+    "name": "US Route 163 & Forrest Gump Point — the drive that ruined all others",
+    "url": "https://www.instagram.com/reel/DfSTi-OxFFN/",
+    "title": "US Route 163 & Forrest Gump Point — the drive that ruined all others",
+    "creator": "@meetmoons",
+    "theme": "Monument Valley scenic drive",
+    "places_count": 1,
+    "recommendation_summary": "Forrest Gump Point on US Route 163 at Monument Valley (Arizona–Utah) — already on the map; added as another source for the iconic drive toward the buttes.",
+    "posted": "2026-11-03",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "creator:meetmoons",
+   "type": "Creator",
+   "properties": {
+    "name": "@meetmoons",
+    "handle": "@meetmoons",
+    "display_name": "Meet Moons (Smita Patil)"
+   }
+  },
+  {
+   "id": "theme:monument-valley-scenic-drive",
+   "type": "Theme",
+   "properties": {
+    "name": "Monument Valley scenic drive"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -7962,6 +7993,13 @@
    }
   },
   {
+   "id": "theme:scenic-drive",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic drive"
+   }
+  },
+  {
    "id": "place:monument-valley-ut",
    "type": "Place",
    "properties": {
@@ -9442,13 +9480,6 @@
    "type": "Site",
    "properties": {
     "name": "Potash Road (SR-279, Moab)"
-   }
-  },
-  {
-   "id": "theme:scenic-drive",
-   "type": "Theme",
-   "properties": {
-    "name": "Scenic drive"
    }
   },
   {
@@ -12311,6 +12342,18 @@
   {
    "from": "reel:DeSzUHXjWNr",
    "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfSTi-OxFFN",
+   "to": "creator:meetmoons",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfSTi-OxFFN",
+   "to": "theme:monument-valley-scenic-drive",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -21070,6 +21113,25 @@
   {
    "from": "place:forrest-gump-point-ut",
    "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:forrest-gump-point-ut",
+   "to": "reel:DfSTi-OxFFN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Scenic drive",
+    "recommendation": "Meet Moons: 'This road ruined every other road trip for us… and Forrest Gump Point is WHY!' US Route 163 through Monument Valley is one of the most breathtaking drives in the USA, and the stretch leading to Forrest Gump Point — where Forrest ended his run in the film, with the Monument Valley buttes dead ahead — 'was something else entirely.' Their verdict: save this drive for your USA bucket list.",
+    "creator": "@meetmoons",
+    "reel_title": "US Route 163 & Forrest Gump Point — the drive that ruined all others",
+    "reel_theme": "Monument Valley scenic drive"
+   }
+  },
+  {
+   "from": "place:forrest-gump-point-ut",
+   "to": "theme:scenic-drive",
    "type": "BEST_FOR",
    "properties": {}
   },
