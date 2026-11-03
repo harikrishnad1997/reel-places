@@ -1550,6 +1550,649 @@
    }
   },
   {
+   "id": "reel:Dd5CepOp12J",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Katmai National Park and Preserve",
+    "url": "https://www.instagram.com/reel/Dd5CepOp12J/",
+    "title": "Wildlife — Katmai National Park and Preserve",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Katmai NP for wildlife. The video shows a mother brown bear climbing down a tall evergreen while two cubs wait high in the branches; on-screen text reads, 'Mom knows best...'",
+    "posted": "2026-09-29",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Dd4og3dtf8U",
+   "type": "Reel",
+   "properties": {
+    "name": "Scenic landscapes — Valley of Fire State Park",
+    "url": "https://www.instagram.com/reel/Dd4og3dtf8U/",
+    "title": "Scenic landscapes — Valley of Fire State Park",
+    "creator": "@amorywild",
+    "theme": "Scenic landscapes",
+    "places_count": 1,
+    "recommendation_summary": "A POV walkthrough introduced by on-screen text, 'POV you finally made it to Valley of Fire.' It moves through narrow orange-red slot canyons, past jagged red-rock spires, and across expansive wave-like striped formations with pools and sparse desert vegetation.",
+    "posted": "2026-09-29",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "theme:scenic-landscapes",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic landscapes"
+   }
+  },
+  {
+   "id": "reel:Dd4GTzPBDJR",
+   "type": "Reel",
+   "properties": {
+    "name": "Top 5 National Park Waterfalls",
+    "url": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
+    "title": "Top 5 National Park Waterfalls",
+    "creator": "@amorywild",
+    "theme": "Top 5 National Park Waterfalls",
+    "places_count": 5,
+    "recommendation_summary": "His #5 waterfall: Myrtle Falls at Mount Rainier National Park, shown as a wide cascade with the mountain's snow-covered peak behind it. His #4 waterfall: Wapama Falls in Yosemite National Park, a powerful, misty fall crashing over boulders into the river leading toward Hetch Hetchy Reservoir. His #3 waterfall: Lower Yellowstone Falls, shown plunging into the Grand Canyon of the Yellowstone between colorful canyon walls. His #2 waterfall: Yosemite Falls, presented as one of North America's tallest waterfalls and shown from the valley floor, its base, and an aerial view from the top. His #1 waterfall: Cataract Cove in Kenai Fjords National Park, where numerous waterfalls cascade directly from steep coastal cliffs into the ocean, filmed from a boat.",
+    "posted": "2026-09-29",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Dd1VBxKPvQU",
+   "type": "Reel",
+   "properties": {
+    "name": "Top 5 National Parks for Sunrises/Sets",
+    "url": "https://www.instagram.com/reel/Dd1VBxKPvQU/",
+    "title": "Top 5 National Parks for Sunrises/Sets",
+    "creator": "@amorywild",
+    "theme": "Top 5 National Parks for Sunrises/Sets",
+    "places_count": 5,
+    "recommendation_summary": "His #5 park for sunrises and sunsets: Badlands, noted for consistent weather, easy pull-over overlooks, and short hikes to views over layered formations under orange skies. His #4: Shenandoah, which he calls 'made for viewing sunrises and sunsets' via Skyline Drive, with golden ridges and sunrise over distant valleys. His #3: Bryce Canyon, highlighted for how sunrise lights up the orange hoodoos; footage shows snow-dusted red spires glowing at dawn. His #2: Grand Canyon, which he treats as self-explanatory because of its scale, with vast vistas and sunbeams breaking through clouds at sunrise. His #1 park for sunrises and sunsets: Death Valley, specifically citing Zabriskie Point, Artist's Palette, and Dante's View, with colorful badlands, salt flats, and desert mountains at sunrise and sunset.",
+    "posted": "2026-09-28",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdytARbBESa",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Pinnacles National Park",
+    "url": "https://www.instagram.com/reel/DdytARbBESa/",
+    "title": "Wildlife — Pinnacles National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Pinnacles NP for wildlife. The video shows an endangered California condor perched atop a tall pine between rock formations; it spreads its massive wings, revealing white patches underneath, and glides past the cliffs.",
+    "posted": "2026-09-27",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddyq3UhtEkw",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — North Cascades National Park",
+    "url": "https://www.instagram.com/reel/Ddyq3UhtEkw/",
+    "title": "Wildlife — North Cascades National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption calls the moment a 'life highlight' in North Cascades. On a steep rocky alpine slope, the camera zooms in on a pika while the filmer whispers excitedly and points out a marmot farther up the rocks.",
+    "posted": "2026-09-27",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdwXI8jNIIc",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Glacier Bay National Park and Preserve",
+    "url": "https://www.instagram.com/reel/DdwXI8jNIIc/",
+    "title": "Wildlife — Glacier Bay National Park and Preserve",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Glacier Bay NP. In a glacial fjord with turquoise water, ice chunks, and snow-capped mountains, roughly seven or eight harbor seals lie together on an ice floe and lift their heads toward the camera.",
+    "posted": "2026-09-26",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdwVrJouVO9",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife / Scenic flight — Lake Clark National Park and Preserve",
+    "url": "https://www.instagram.com/reel/DdwVrJouVO9/",
+    "title": "Wildlife / Scenic flight — Lake Clark National Park and Preserve",
+    "creator": "@amorywild",
+    "theme": "Wildlife / Scenic flight",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Lake Clark NP. From a small aircraft, the video pans across rugged snow-covered peaks and extensive glaciers; on-screen text reads, 'Hoping to see a view this beautiful again one day...'",
+    "posted": "2026-09-26",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddt8vZXTLJy",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Theodore Roosevelt National Park",
+    "url": "https://www.instagram.com/reel/Ddt8vZXTLJy/",
+    "title": "Wildlife — Theodore Roosevelt National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Theodore Roosevelt National Park for wildlife. A large American bison grazes calmly beside a paved road in golden-hour prairie light, while on-screen text jokes, 'And I heard they like to be petted...'",
+    "posted": "2026-09-25",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddt8odbRZ32",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Acadia National Park",
+    "url": "https://www.instagram.com/reel/Ddt8odbRZ32/",
+    "title": "Wildlife — Acadia National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Acadia for wildlife. A beaver swims through a lily-pad-covered pond carrying plant material, pauses to eat, and continues slowly through the water; on-screen text reads, 'The pure joy this brings me...'",
+    "posted": "2026-09-25",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdsUVssgoMw",
+   "type": "Reel",
+   "properties": {
+    "name": "Sunset viewpoint — Upper Hawksbill Trail",
+    "url": "https://www.instagram.com/reel/DdsUVssgoMw/",
+    "title": "Sunset viewpoint — Upper Hawksbill Trail",
+    "creator": "@amorywild",
+    "theme": "Sunset viewpoint",
+    "places_count": 1,
+    "recommendation_summary": "Caption names the Upper Hawksbill Trail in Shenandoah for a sunset. The video pans from a rocky overlook across forested ridges and valleys in golden light; on-screen text asks, 'Have you seen a more perfect sunset?'",
+    "posted": "2026-09-24",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdsTSw2xIDQ",
+   "type": "Reel",
+   "properties": {
+    "name": "Coastal scenery — National Park of American Samoa",
+    "url": "https://www.instagram.com/reel/DdsTSw2xIDQ/",
+    "title": "Coastal scenery — National Park of American Samoa",
+    "creator": "@amorywild",
+    "theme": "Coastal scenery",
+    "places_count": 1,
+    "recommendation_summary": "Caption names the National Park of American Samoa. The video pans across a remote volcanic coastline where turquoise waves crash on dark rocks beneath steep, densely green hills and mountainous islands; on-screen text reads, 'Very few people ever lay eyes on this place...'",
+    "posted": "2026-09-24",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddpitf0BMb-",
+   "type": "Reel",
+   "properties": {
+    "name": "Top 5 National Park Hikes",
+    "url": "https://www.instagram.com/reel/Ddpitf0BMb-/",
+    "title": "Top 5 National Park Hikes",
+    "creator": "@amorywild",
+    "theme": "Top 5 National Park Hikes",
+    "places_count": 5,
+    "recommendation_summary": "His #5 hike: Mt LeConte to Myrtle Point in Great Smoky Mountains National Park, accessed via the Alum Cave Trail and noted for its cave shelter and panoramic mountain views. His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings. His #3 hike: Eagle Peak in Yosemite National Park, praised for expansive views of Yosemite Valley, Half Dome, and surrounding granite cliffs. His #2 hike: Phantom Ranch via the South Kaibab and Bright Angel trails in Grand Canyon National Park, highlighted for descending to the Colorado River. His #1 hike: Sourdough Mountain in North Cascades National Park, called his best overall hike for its sweeping vista of a turquoise lake surrounded by snow-capped mountains.",
+    "posted": "2026-09-23",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddot1ynPIHd",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Everglades National Park",
+    "url": "https://www.instagram.com/reel/Ddot1ynPIHd/",
+    "title": "Wildlife — Everglades National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Everglades for wildlife. With on-screen text 'POV it's your first time seeing baby gators in the wild...', the video looks into a shallow clear marsh where two tiny alligators swim among plants and small fish.",
+    "posted": "2026-09-23",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdnMCCbN6CM",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Yellowstone National Park",
+    "url": "https://www.instagram.com/reel/DdnMCCbN6CM/",
+    "title": "Wildlife — Yellowstone National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Yellowstone for wildlife. An adult bison grazes in a grassland while a small reddish calf takes tentative steps nearby; on-screen text reads, 'Bring me back to red dog season...', referring to newborn bison calves' red coats.",
+    "posted": "2026-09-22",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdnGL8DJGAy",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Katmai National Park and Preserve",
+    "url": "https://www.instagram.com/reel/DdnGL8DJGAy/",
+    "title": "Wildlife — Katmai National Park and Preserve",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Katmai for wildlife. A mother brown bear holds and eats a fish in a calm river while two cubs swim nearby; on-screen text jokes, 'Mom, just share a little...'",
+    "posted": "2026-09-22",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddm4CJGhqwp",
+   "type": "Reel",
+   "properties": {
+    "name": "My 5 Favorite Experiences in Alaska",
+    "url": "https://www.instagram.com/reel/Ddm4CJGhqwp/",
+    "title": "My 5 Favorite Experiences in Alaska",
+    "creator": "@amorywild",
+    "theme": "My 5 Favorite Experiences in Alaska",
+    "places_count": 5,
+    "recommendation_summary": "His #5 Alaska experience: the Valley of 10,000 Smokes Bus Tour in Katmai, shown with a muddy river cutting through tall tan volcanic cliffs. His #4 Alaska experience: hiking on the Root Glacier in Wrangell-St. Elias National Park, with expansive ice fields, blue meltwater pools, and crevasses. His #3 Alaska experience: the Kenai Fjords Boat Tour, featuring waterfalls on green cliffs, sea-lion colonies, sea otters, and massive tidewater glaciers calving into the sea. His #2 Alaska experience: the Denali Flight Tour, with aerial views of snow-capped Denali above clouds, rugged ridges, and vast glaciers. His #1 Alaska experience: camping in Katmai, highlighted by close footage of brown bears fishing at Brooks Falls, bears wading in rivers and walking on a road, and a porcupine near the campsite.",
+    "posted": "2026-09-22",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "theme:my-5-favorite-experiences-in-alaska",
+   "type": "Theme",
+   "properties": {
+    "name": "My 5 Favorite Experiences in Alaska"
+   }
+  },
+  {
+   "id": "reel:DdkljjUh48e",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Glacier National Park",
+    "url": "https://www.instagram.com/reel/DdkljjUh48e/",
+    "title": "Wildlife — Glacier National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Glacier National Park for a bear encounter. A person walking a bicycle along a paved road passes a small black bear on the grassy shoulder, speaking calmly to it; another voice then asks to hold the bear spray.",
+    "posted": "2026-09-21",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdhK7LuBNJP",
+   "type": "Reel",
+   "properties": {
+    "name": "Scenic viewpoint — Olympic National Park",
+    "url": "https://www.instagram.com/reel/DdhK7LuBNJP/",
+    "title": "Scenic viewpoint — Olympic National Park",
+    "creator": "@amorywild",
+    "theme": "Scenic viewpoint",
+    "places_count": 1,
+    "recommendation_summary": "Caption calls Olympic's best part overlooked. From a rocky mountain overlook, the video pans across moss- and lichen-covered rock, deep evergreen valleys, and distant snow-capped ranges; on-screen text reads, 'So many people miss this part of Olympic...' No specific trail or overlook is named.",
+    "posted": "2026-09-20",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdgyUvPBO7P",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Channel Islands National Park",
+    "url": "https://www.instagram.com/reel/DdgyUvPBO7P/",
+    "title": "Wildlife — Channel Islands National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption and the tagged location place the clip in Channel Islands National Park (the source tag spells it 'Channel Island National Park'). Several small gray-brown animals chase, wrestle, and tumble around a wooden post, rock border, bushes, and grass while on-screen text asks, 'Umm... what am I witnessing?'",
+    "posted": "2026-09-20",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdfjmAOzCTR",
+   "type": "Reel",
+   "properties": {
+    "name": "Hiking / Summit view — Mt Henry Trail",
+    "url": "https://www.instagram.com/reel/DdfjmAOzCTR/",
+    "title": "Hiking / Summit view — Mt Henry Trail",
+    "creator": "@amorywild",
+    "theme": "Hiking / Summit view",
+    "places_count": 1,
+    "recommendation_summary": "Caption names the Mt Henry Trail in Glacier National Park. From the summit, the camera pans across rugged snow-dusted peaks, forested valleys, and a distant turquoise lake as a hiker with trekking poles walks the exposed ridge; on-screen text reads, 'On top of the world...'",
+    "posted": "2026-09-19",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddc9jptussA",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Katmai National Park and Preserve",
+    "url": "https://www.instagram.com/reel/Ddc9jptussA/",
+    "title": "Wildlife — Katmai National Park and Preserve",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Katmai NP for wildlife. From an elevated riverbank viewpoint, an adult brown bear and a juvenile enter the river and splash downstream after each other while other bears are visible in the background; on-screen text reads, 'Mama bear doesn't play...'",
+    "posted": "2026-09-18",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddc6IPNsSQy",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife — Mount Rainier National Park",
+    "url": "https://www.instagram.com/reel/Ddc6IPNsSQy/",
+    "title": "Wildlife — Mount Rainier National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Mount Rainier National Park for marmots. The comic clip cuts between a marmot standing alert in dry brush and two marmots on snow, one partly in a burrow, with the text, 'When her ex looks over...'",
+    "posted": "2026-09-18",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:Ddcu9EaOHnT",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife / Scenic landscape — Grayson Highlands State Park",
+    "url": "https://www.instagram.com/reel/Ddcu9EaOHnT/",
+    "title": "Wildlife / Scenic landscape — Grayson Highlands State Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife / Scenic landscape",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Grayson Highlands for its wild ponies. In a sunny mountain meadow, a large gray horse with a dark face and long blonde mane stands calmly near the trail; on-screen text jokes, 'They said \"wild ponies\" but I wasn't expecting this guy...'",
+    "posted": "2026-09-18",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdaWOp1N9L3",
+   "type": "Reel",
+   "properties": {
+    "name": "Top 10 National Parks",
+    "url": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "theme": "Top 10 National Parks",
+    "places_count": 10,
+    "recommendation_summary": "His #10 national park: Olympic, shown with mountain vistas and a deer grazing. His #9 national park: Rocky Mountain, shown with icy alpine lakes and elk herds. His #8 national park: Grand Canyon, shown with sunset canyon views and the Colorado River. His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water. His #6 national park: Grand Teton, shown with snow-capped peaks reflected in a lake and a moose by the roadside. His #5 national park: North Cascades, shown with rugged snowy mountains and a turquoise lake. His #4 national park: Katmai, focusing on brown bears fishing at waterfalls and walking along a path. His #3 national park: Yosemite, shown with Half Dome valley views and a large waterfall. His #2 national park: Glacier, shown with high mountain ridges, turquoise lakes, and bighorn sheep near a road. His #1 national park: Yellowstone, shown with bison including a calf, grizzly bears in meadows, and Lower Falls with a rainbow.",
+    "posted": "2026-09-17",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "theme:top-10-national-parks",
+   "type": "Theme",
+   "properties": {
+    "name": "Top 10 National Parks"
+   }
+  },
+  {
+   "id": "reel:DdZQKoUO2zE",
+   "type": "Reel",
+   "properties": {
+    "name": "Waterfall — Yosemite National Park",
+    "url": "https://www.instagram.com/reel/DdZQKoUO2zE/",
+    "title": "Waterfall — Yosemite National Park",
+    "creator": "@amorywild",
+    "theme": "Waterfall",
+    "places_count": 1,
+    "recommendation_summary": "Caption asks, 'Is this the most perfect waterfall?' and tags Yosemite. The video pans across a powerful waterfall dropping over dark granite into a churning pool, its thick mist sustaining a vivid rainbow; on-screen text reads, 'Follow the rainbow...' The specific waterfall is not named.",
+    "posted": "2026-09-17",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdXrKx6hZ67",
+   "type": "Reel",
+   "properties": {
+    "name": "Scenic viewpoint — Myrtle Point",
+    "url": "https://www.instagram.com/reel/DdXrKx6hZ67/",
+    "title": "Scenic viewpoint — Myrtle Point",
+    "creator": "@amorywild",
+    "theme": "Scenic viewpoint",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Myrtle Point in Great Smoky Mountains NP and frames the view as a rebuttal to people who call the Smokies overrated. The camera pans across sunlit, blue-hazed ridges and evergreen forest as a woman steps onto the rocky ledge and raises her arms toward the vista.",
+    "posted": "2026-09-16",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdXq5mxPnUC",
+   "type": "Reel",
+   "properties": {
+    "name": "Waterfall — Wolf Creek Falls",
+    "url": "https://www.instagram.com/reel/DdXq5mxPnUC/",
+    "title": "Waterfall — Wolf Creek Falls",
+    "creator": "@amorywild",
+    "theme": "Waterfall",
+    "places_count": 0,
+    "recommendation_summary": "Caption names Wolf Creek Falls and hashtags New River Gorge. The video slowly tilts up a broad, sheet-like cascade streaming over a steep moss-covered rock face beside a gravel trail; on-screen text calls it, 'Might be the weirdest waterfall I've ever seen...'",
+    "posted": "2026-09-16",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdXqhfIPYDU",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife / Scenic landscape — Grayson Highlands State Park",
+    "url": "https://www.instagram.com/reel/DdXqhfIPYDU/",
+    "title": "Wildlife / Scenic landscape — Grayson Highlands State Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife / Scenic landscape",
+    "places_count": 1,
+    "recommendation_summary": "Caption and on-screen text place a POV wild-pony watch in Grayson Highlands. Ponies graze on a rocky, windswept ridge above layered blue mountains and morning mist, with scattered evergreens and fence posts across the open highland.",
+    "posted": "2026-09-16",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdT8_tnRt5F",
+   "type": "Reel",
+   "properties": {
+    "name": "Hiking — Shenandoah National Park",
+    "url": "https://www.instagram.com/reel/DdT8_tnRt5F/",
+    "title": "Hiking — Shenandoah National Park",
+    "creator": "@amorywild",
+    "theme": "Hiking",
+    "places_count": 1,
+    "recommendation_summary": "Caption tags Shenandoah and on-screen text says, 'POV you did the toughest hike in Shenandoah...' The hiker squeezes and climbs through a narrow, steep granite-boulder passage and stone steps before reaching expansive green summit views. The specific trail is not named.",
+    "posted": "2026-09-15",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdSdO45JteL",
+   "type": "Reel",
+   "properties": {
+    "name": "Sunset viewpoint — Upper Hawksbill Summit",
+    "url": "https://www.instagram.com/reel/DdSdO45JteL/",
+    "title": "Sunset viewpoint — Upper Hawksbill Summit",
+    "creator": "@amorywild",
+    "theme": "Sunset viewpoint",
+    "places_count": 1,
+    "recommendation_summary": "Caption calls the scene 'pure bliss at Upper Hawksbill summit' in Shenandoah. A slow pan from lichen-covered boulders crosses forested ridges as the sun dips below the far ridgeline in orange, pink, and yellow light.",
+    "posted": "2026-09-14",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdP6Of2Jojg",
+   "type": "Reel",
+   "properties": {
+    "name": "Cave scenery — Cave-in-Rock",
+    "url": "https://www.instagram.com/reel/DdP6Of2Jojg/",
+    "title": "Cave scenery — Cave-in-Rock",
+    "creator": "@amorywild",
+    "theme": "Cave scenery",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Cave in Rock, IL. The camera moves from deep inside a dark, rough rock cave along a narrow stone path toward a large arched opening framing bright water and a distant tree-lined shore, with a visitor silhouetted at the cave mouth.",
+    "posted": "2026-09-13",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "theme:cave-scenery",
+   "type": "Theme",
+   "properties": {
+    "name": "Cave scenery"
+   }
+  },
+  {
+   "id": "reel:DdNRYJHPaSe",
+   "type": "Reel",
+   "properties": {
+    "name": "Waterfall — Horseshoe Falls",
+    "url": "https://www.instagram.com/reel/DdNRYJHPaSe/",
+    "title": "Waterfall — Horseshoe Falls",
+    "creator": "@amorywild",
+    "theme": "Waterfall",
+    "places_count": 1,
+    "recommendation_summary": "Caption asks, 'Or is it Niagara Falls?' The video pans across Horseshoe Falls' massive curtain of water, rising mist, churning green-blue river, rocky cliffs, and a distant viewing platform.",
+    "posted": "2026-09-12",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdMLqCPOics",
+   "type": "Reel",
+   "properties": {
+    "name": "Wildlife / Sunset — Acadia National Park",
+    "url": "https://www.instagram.com/reel/DdMLqCPOics/",
+    "title": "Wildlife / Sunset — Acadia National Park",
+    "creator": "@amorywild",
+    "theme": "Wildlife / Sunset",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Acadia at sunset for wildlife. From a boat, the camera zooms toward a rocky outcrop where harbor seals are hauled out and swimming nearby as orange and pink light reflects on calm water; on-screen text reads, 'POV you're watching seals at sunset in Acadia...'",
+    "posted": "2026-09-12",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdJgrUhvccf",
+   "type": "Reel",
+   "properties": {
+    "name": "Hiking / Sunrise — Beehive Trail",
+    "url": "https://www.instagram.com/reel/DdJgrUhvccf/",
+    "title": "Hiking / Sunrise — Beehive Trail",
+    "creator": "@amorywild",
+    "theme": "Hiking / Sunrise",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Acadia's Beehive Trail at sunrise. After finishing their 63rd national park, the creators film themselves squinting into the sun, then pan across the rocky granite summit to a forested coastline, islands, curving shoreline, and golden reflection on the ocean.",
+    "posted": "2026-09-11",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdIOsK4JDSu",
+   "type": "Reel",
+   "properties": {
+    "name": "Waterfall — Niagara Falls",
+    "url": "https://www.instagram.com/reel/DdIOsK4JDSu/",
+    "title": "Waterfall — Niagara Falls",
+    "creator": "@amorywild",
+    "theme": "Waterfall",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Niagara Falls. A close view pans across torrents of white water, the mist-filled gorge, and the distant city skyline across the river; on-screen text reads, 'The original...'",
+    "posted": "2026-09-10",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdILP0qJ6Op",
+   "type": "Reel",
+   "properties": {
+    "name": "Hiking — Acadia National Park",
+    "url": "https://www.instagram.com/reel/DdILP0qJ6Op/",
+    "title": "Hiking — Acadia National Park",
+    "creator": "@amorywild",
+    "theme": "Hiking",
+    "places_count": 1,
+    "recommendation_summary": "Caption complains, 'So many ladders...' on an Acadia hike. The POV video climbs installed metal rungs and ladders on a near-vertical granite face, crosses an exposed ledge, and reaches a summit view over green mountains and coastal islands; the specific trail is not named by the creator.",
+    "posted": "2026-09-10",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdGt8sqhy8-",
+   "type": "Reel",
+   "properties": {
+    "name": "Hiking — Joint Trail",
+    "url": "https://www.instagram.com/reel/DdGt8sqhy8-/",
+    "title": "Hiking — Joint Trail",
+    "creator": "@amorywild",
+    "theme": "Hiking",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Canyonlands' Joint Trail. The video follows a hiker deeper into an extremely narrow sandstone slot canyon, with vertical walls, sandy uneven ground, and only a sliver of sky above; on-screen text says, 'We went to every national park, and this hike still stands out...'",
+    "posted": "2026-09-10",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdEPGaTtAk0",
+   "type": "Reel",
+   "properties": {
+    "name": "Hiking / Waterfall — Comet Falls Trail",
+    "url": "https://www.instagram.com/reel/DdEPGaTtAk0/",
+    "title": "Hiking / Waterfall — Comet Falls Trail",
+    "creator": "@amorywild",
+    "theme": "Hiking / Waterfall",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Rainier's Comet Falls Trail but adds 'but not comet falls.' A hiker with trekking poles stands on a log bridge over a fast white-water stream, and the camera reveals a rocky riverbed and a multi-tiered waterfall cascading down a moss-covered slope in evergreen forest.",
+    "posted": "2026-09-09",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdDMPVahoxH",
+   "type": "Reel",
+   "properties": {
+    "name": "Waterfall — American Falls",
+    "url": "https://www.instagram.com/reel/DdDMPVahoxH/",
+    "title": "Waterfall — American Falls",
+    "creator": "@amorywild",
+    "theme": "Waterfall",
+    "places_count": 1,
+    "recommendation_summary": "Caption names Niagara Falls, and on-screen text calls it 'America's first state park for a reason...' The video shows the American Falls from the Cave of the Winds walkways and staircases, with massive water crashing down and heavy mist around visitors in yellow ponchos.",
+    "posted": "2026-09-08",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdAb42fK2kg",
+   "type": "Reel",
+   "properties": {
+    "name": "Scenic hike — North Cascades National Park",
+    "url": "https://www.instagram.com/reel/DdAb42fK2kg/",
+    "title": "Scenic hike — North Cascades National Park",
+    "creator": "@amorywild",
+    "theme": "Scenic hike",
+    "places_count": 1,
+    "recommendation_summary": "Caption asks, 'Could it be North Cascades?' and on-screen text calls it 'The greatest national park no one knows...' A hiker climbs a rocky alpine trail toward glaciated peaks as the camera pans across rugged mountains, green valleys, and lingering snowfields. No specific trail is named.",
+    "posted": "2026-09-07",
+    "added": "2026-11-02"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -5059,6 +5702,382 @@
     "best_for": "Waterfall",
     "note": ""
    }
+  },
+  {
+   "id": "place:valley-of-fire-state-park-nv",
+   "type": "Place",
+   "properties": {
+    "name": "Valley of Fire State Park",
+    "place_id": "valley-of-fire-state-park-nv",
+    "site": "Valley of Fire State Park",
+    "city": "Moapa Valley",
+    "state": "Nevada",
+    "state_code": "NV",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.498851,
+    "lng": -114.534122,
+    "google_maps_query": "Valley+of+Fire+State+Park+Valley+of+Fire+State+Park+NV",
+    "best_for": "Hiking / Red-rock scenery",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:valley-of-fire-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Valley of Fire State Park"
+   }
+  },
+  {
+   "id": "place:wapama-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Wapama Falls",
+    "place_id": "wapama-falls-ca",
+    "site": "Yosemite National Park",
+    "city": "Yosemite National Park",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.967878,
+    "lng": -119.76553,
+    "google_maps_query": "Wapama+Falls+Yosemite+National+Park+CA",
+    "best_for": "Waterfall",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:lower-yellowstone-falls-wy",
+   "type": "Place",
+   "properties": {
+    "name": "Lower Yellowstone Falls",
+    "place_id": "lower-yellowstone-falls-wy",
+    "site": "Yellowstone National Park",
+    "city": "Yellowstone National Park",
+    "state": "Wyoming",
+    "state_code": "WY",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 44.717981,
+    "lng": -110.496292,
+    "google_maps_query": "Lower+Yellowstone+Falls+Yellowstone+National+Park+WY",
+    "best_for": "Waterfall",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:cataract-cove-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Cataract Cove",
+    "place_id": "cataract-cove-ak",
+    "site": "Kenai Fjords National Park",
+    "city": "Kenai Fjords National Park",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 59.714167,
+    "lng": -149.817222,
+    "google_maps_query": "Cataract+Cove+Kenai+Fjords+National+Park+AK",
+    "best_for": "Waterfall",
+    "note": "Pin is the Cataract Cove bay on the Kenai Fjords coast (Kenai Peninsula Borough); a same-name bay in the Aleutian Islands was rejected."
+   }
+  },
+  {
+   "id": "place:grand-canyon-national-park-az",
+   "type": "Place",
+   "properties": {
+    "name": "Grand Canyon National Park",
+    "place_id": "grand-canyon-national-park-az",
+    "site": "Grand Canyon National Park",
+    "city": "Grand Canyon Village",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.307855,
+    "lng": -112.292896,
+    "google_maps_query": "Grand+Canyon+National+Park+Grand+Canyon+National+Park+AZ",
+    "best_for": "Sunrise / Sunset",
+    "note": "Park-level pin is the park's Nominatim point in the park interior."
+   }
+  },
+  {
+   "id": "place:subway-trail-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Subway Trail",
+    "place_id": "subway-trail-ut",
+    "site": "Zion National Park",
+    "city": "Zion National Park",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.312991,
+    "lng": -113.046969,
+    "google_maps_query": "Subway+Trail+Zion+National+Park+UT",
+    "best_for": "Hike",
+    "note": "Pin is an OSM path point inside The Subway canyon (Left Fork of North Creek), the hike's destination."
+   }
+  },
+  {
+   "id": "place:eagle-peak-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Eagle Peak",
+    "place_id": "eagle-peak-ca",
+    "site": "Yosemite National Park",
+    "city": "Yosemite National Park",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.745995,
+    "lng": -119.61471,
+    "google_maps_query": "Eagle+Peak+Yosemite+National+Park+CA",
+    "best_for": "Hike / View",
+    "note": "Pin is OSM's Eagle Peak point, verified inside a Yosemite-bounded search."
+   }
+  },
+  {
+   "id": "place:valley-of-10-000-smokes-bus-tour-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Valley of 10,000 Smokes Bus Tour",
+    "place_id": "valley-of-10-000-smokes-bus-tour-ak",
+    "site": "Katmai National Park and Preserve",
+    "city": "Katmai National Park and Preserve",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 58.316702,
+    "lng": -155.232861,
+    "google_maps_query": "Valley+of+10,000+Smokes+Bus+Tour+Katmai+National+Park+and+Preserve+AK",
+    "best_for": "Bus tour / Volcanic landscape",
+    "note": "Pin is the Valley of Ten Thousand Smokes itself, the bus tour's destination."
+   }
+  },
+  {
+   "id": "theme:bus-tour-volcanic-landscape",
+   "type": "Theme",
+   "properties": {
+    "name": "Bus tour / Volcanic landscape"
+   }
+  },
+  {
+   "id": "place:olympic-national-park-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Olympic National Park",
+    "place_id": "olympic-national-park-wa",
+    "site": "Olympic National Park",
+    "city": "Port Angeles",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 47.786532,
+    "lng": -123.53605,
+    "google_maps_query": "Olympic+National+Park+Olympic+National+Park+WA",
+    "best_for": "Overlooked view / View",
+    "note": "Park-level pin is the park's Nominatim point in the park interior."
+   }
+  },
+  {
+   "id": "place:mt-henry-trail-mt",
+   "type": "Place",
+   "properties": {
+    "name": "Mt Henry Trail",
+    "place_id": "mt-henry-trail-mt",
+    "site": "Glacier National Park",
+    "city": "Glacier National Park",
+    "state": "Montana",
+    "state_code": "MT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 48.4533,
+    "lng": -113.343431,
+    "google_maps_query": "Mt+Henry+Trail+Glacier+National+Park+MT",
+    "best_for": "Hike / Summit view",
+    "note": "Pin is the Mount Henry summit; the Mt Henry Trail climbs it from the Two Medicine Campground area."
+   }
+  },
+  {
+   "id": "place:grayson-highlands-state-park-va",
+   "type": "Place",
+   "properties": {
+    "name": "Grayson Highlands State Park",
+    "place_id": "grayson-highlands-state-park-va",
+    "site": "Grayson Highlands State Park",
+    "city": "Grayson Highlands State Park",
+    "state": "Virginia",
+    "state_code": "VA",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 36.625521,
+    "lng": -81.49872,
+    "google_maps_query": "Grayson+Highlands+State+Park+Grayson+Highlands+State+Park+VA",
+    "best_for": "Wild ponies / Wildlife",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:grayson-highlands-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Grayson Highlands State Park"
+   }
+  },
+  {
+   "id": "place:zion-national-park-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Zion National Park",
+    "place_id": "zion-national-park-ut",
+    "site": "Zion National Park",
+    "city": "Springdale",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.322167,
+    "lng": -113.004793,
+    "google_maps_query": "Zion+National+Park+Zion+National+Park+UT",
+    "best_for": "Top national park",
+    "note": "Park-level pin is the park's Nominatim point."
+   }
+  },
+  {
+   "id": "place:cave-in-rock-il",
+   "type": "Place",
+   "properties": {
+    "name": "Cave-in-Rock",
+    "place_id": "cave-in-rock-il",
+    "site": "Cave-in-Rock State Park",
+    "city": "Cave-in-Rock",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.472027,
+    "lng": -88.155162,
+    "google_maps_query": "Cave-in-Rock+Cave-in-Rock+State+Park+IL",
+    "best_for": "Cave / River view",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-il",
+   "type": "State",
+   "properties": {
+    "name": "Illinois",
+    "state_code": "IL",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:cave-in-rock-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Cave-in-Rock State Park"
+   }
+  },
+  {
+   "id": "place:horseshoe-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Horseshoe Falls",
+    "place_id": "horseshoe-falls-ny",
+    "site": "Niagara Falls State Park",
+    "city": "Niagara Falls",
+    "state": "New York",
+    "state_code": "NY",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 43.078413,
+    "lng": -79.074327,
+    "google_maps_query": "Horseshoe+Falls+Niagara+Falls+State+Park+NY",
+    "best_for": "Waterfall",
+    "note": "Pin is OSM's waterfall point for Horseshoe Falls on the Niagara River; the falls straddle the U.S.–Canada border."
+   }
+  },
+  {
+   "id": "state:united-states-ny",
+   "type": "State",
+   "properties": {
+    "name": "New York",
+    "state_code": "NY",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:niagara-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Niagara Falls State Park"
+   }
+  },
+  {
+   "id": "place:beehive-trail-me",
+   "type": "Place",
+   "properties": {
+    "name": "Beehive Trail",
+    "place_id": "beehive-trail-me",
+    "site": "Acadia National Park",
+    "city": "Acadia National Park",
+    "state": "Maine",
+    "state_code": "ME",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.333867,
+    "lng": -68.188745,
+    "google_maps_query": "Beehive+Trail+Acadia+National+Park+ME",
+    "best_for": "Sunrise / Summit view / Hike",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:niagara-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Niagara Falls",
+    "place_id": "niagara-falls-ny",
+    "site": "Niagara Falls State Park",
+    "city": "Niagara Falls",
+    "state": "New York",
+    "state_code": "NY",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 43.084841,
+    "lng": -79.070179,
+    "google_maps_query": "Niagara+Falls+Niagara+Falls+State+Park+NY",
+    "best_for": "Waterfall",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:american-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "American Falls",
+    "place_id": "american-falls-ny",
+    "site": "Niagara Falls State Park",
+    "city": "Niagara Falls",
+    "state": "New York",
+    "state_code": "NY",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 43.084744,
+    "lng": -79.069429,
+    "google_maps_query": "American+Falls+Niagara+Falls+State+Park+NY",
+    "best_for": "Waterfall",
+    "note": "Pin is the second of two adjacent Nominatim waterfall points returned for American Falls, so it does not sit exactly on the general Niagara Falls point."
+   }
   }
  ],
  "edges": [
@@ -6191,6 +7210,534 @@
    "properties": {}
   },
   {
+   "from": "reel:Dd5CepOp12J",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd5CepOp12J",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd4og3dtf8U",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd4og3dtf8U",
+   "to": "theme:scenic-landscapes",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd4GTzPBDJR",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd4GTzPBDJR",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd1VBxKPvQU",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd1VBxKPvQU",
+   "to": "theme:sunrise",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdytARbBESa",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdytARbBESa",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddyq3UhtEkw",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddyq3UhtEkw",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdwXI8jNIIc",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdwXI8jNIIc",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdwVrJouVO9",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdwVrJouVO9",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddt8vZXTLJy",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddt8vZXTLJy",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddt8odbRZ32",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddt8odbRZ32",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdsUVssgoMw",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdsUVssgoMw",
+   "to": "theme:sunset",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdsUVssgoMw",
+   "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdsTSw2xIDQ",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdsTSw2xIDQ",
+   "to": "theme:coastal-scenery",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddpitf0BMb-",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddpitf0BMb-",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddot1ynPIHd",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddot1ynPIHd",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdnMCCbN6CM",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdnMCCbN6CM",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdnGL8DJGAy",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdnGL8DJGAy",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddm4CJGhqwp",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddm4CJGhqwp",
+   "to": "theme:my-5-favorite-experiences-in-alaska",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdkljjUh48e",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdkljjUh48e",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdhK7LuBNJP",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdhK7LuBNJP",
+   "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdgyUvPBO7P",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdgyUvPBO7P",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdfjmAOzCTR",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdfjmAOzCTR",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdfjmAOzCTR",
+   "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddc9jptussA",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddc9jptussA",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddc6IPNsSQy",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddc6IPNsSQy",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddcu9EaOHnT",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ddcu9EaOHnT",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdaWOp1N9L3",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdaWOp1N9L3",
+   "to": "theme:top-10-national-parks",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdZQKoUO2zE",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdZQKoUO2zE",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdXrKx6hZ67",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdXrKx6hZ67",
+   "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdXq5mxPnUC",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdXq5mxPnUC",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdXqhfIPYDU",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdXqhfIPYDU",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdT8_tnRt5F",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdT8_tnRt5F",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdSdO45JteL",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdSdO45JteL",
+   "to": "theme:sunset",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdSdO45JteL",
+   "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdP6Of2Jojg",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdP6Of2Jojg",
+   "to": "theme:cave-scenery",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdNRYJHPaSe",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdNRYJHPaSe",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdMLqCPOics",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdMLqCPOics",
+   "to": "theme:sunset",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdMLqCPOics",
+   "to": "theme:wildlife",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdJgrUhvccf",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdJgrUhvccf",
+   "to": "theme:sunrise",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdJgrUhvccf",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdIOsK4JDSu",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdIOsK4JDSu",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdILP0qJ6Op",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdILP0qJ6Op",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdGt8sqhy8-",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdGt8sqhy8-",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdEPGaTtAk0",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdEPGaTtAk0",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdEPGaTtAk0",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdDMPVahoxH",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdDMPVahoxH",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdAb42fK2kg",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdAb42fK2kg",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -6625,6 +8172,25 @@
    "properties": {}
   },
   {
+   "from": "place:badlands-national-park-sd",
+   "to": "reel:Dd1VBxKPvQU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Sunrise / Sunset",
+    "recommendation": "His #5 park for sunrises and sunsets: Badlands, noted for consistent weather, easy pull-over overlooks, and short hikes to views over layered formations under orange skies.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "reel_theme": "Top 5 National Parks for Sunrises/Sets"
+   }
+  },
+  {
+   "from": "place:badlands-national-park-sd",
+   "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:guadalupe-peak-tx",
    "to": "state:united-states-tx",
    "type": "LOCATED_IN",
@@ -6935,6 +8501,25 @@
    }
   },
   {
+   "from": "place:sourdough-mountain-wa",
+   "to": "reel:Ddpitf0BMb-",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / View",
+    "recommendation": "His #1 hike: Sourdough Mountain in North Cascades National Park, called his best overall hike for its sweeping vista of a turquoise lake surrounded by snow-capped mountains.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Hikes",
+    "reel_theme": "Top 5 National Park Hikes"
+   }
+  },
+  {
+   "from": "place:sourdough-mountain-wa",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:capitol-reef-national-park-ut",
    "to": "state:united-states-ut",
    "type": "LOCATED_IN",
@@ -7031,6 +8616,31 @@
   {
    "from": "place:death-valley-national-park-ca",
    "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:death-valley-national-park-ca",
+   "to": "reel:Dd1VBxKPvQU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Sunrise / Sunset",
+    "recommendation": "His #1 park for sunrises and sunsets: Death Valley, specifically citing Zabriskie Point, Artist's Palette, and Dante's View, with colorful badlands, salt flats, and desert mountains at sunrise and sunset.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "reel_theme": "Top 5 National Parks for Sunrises/Sets"
+   }
+  },
+  {
+   "from": "place:death-valley-national-park-ca",
+   "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:death-valley-national-park-ca",
+   "to": "theme:sunset",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -7359,6 +8969,31 @@
    "properties": {}
   },
   {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "reel:Dd1VBxKPvQU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Sunrise / Sunset",
+    "recommendation": "His #3: Bryce Canyon, highlighted for how sunrise lights up the orange hoodoos; footage shows snow-dusted red spires glowing at dawn.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "reel_theme": "Top 5 National Parks for Sunrises/Sets"
+   }
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:denali-national-park-and-preserve-ak",
    "to": "state:united-states-ak",
    "type": "LOCATED_IN",
@@ -7405,6 +9040,25 @@
   {
    "from": "place:denali-national-park-and-preserve-ak",
    "to": "theme:flightseeing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:denali-national-park-and-preserve-ak",
+   "to": "reel:Ddm4CJGhqwp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Flightseeing / View",
+    "recommendation": "His #2 Alaska experience: the Denali Flight Tour, with aerial views of snow-capped Denali above clouds, rugged ridges, and vast glaciers.",
+    "creator": "@amorywild",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "reel_theme": "My 5 Favorite Experiences in Alaska"
+   }
+  },
+  {
+   "from": "place:denali-national-park-and-preserve-ak",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -7572,6 +9226,19 @@
    }
   },
   {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "reel:Ddm4CJGhqwp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Boat tour / Wildlife",
+    "recommendation": "His #3 Alaska experience: the Kenai Fjords Boat Tour, featuring waterfalls on green cliffs, sea-lion colonies, sea otters, and massive tidewater glaciers calving into the sea.",
+    "creator": "@amorywild",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "reel_theme": "My 5 Favorite Experiences in Alaska"
+   }
+  },
+  {
    "from": "place:mount-rainier-national-park-wa",
    "to": "state:united-states-wa",
    "type": "LOCATED_IN",
@@ -7618,6 +9285,25 @@
   {
    "from": "place:mount-rainier-national-park-wa",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-rainier-national-park-wa",
+   "to": "reel:Ddc6IPNsSQy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Marmots / Wildlife",
+    "recommendation": "Caption names Mount Rainier National Park for marmots. The comic clip cuts between a marmot standing alert in dry brush and two marmots on snow, one partly in a burrow, with the text, 'When her ex looks over...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Mount Rainier National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:mount-rainier-national-park-wa",
+   "to": "theme:wildlife",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -8250,6 +9936,25 @@
    "properties": {}
   },
   {
+   "from": "place:national-park-of-american-samoa-as",
+   "to": "reel:DdsTSw2xIDQ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Remote coastline / View",
+    "recommendation": "Caption names the National Park of American Samoa. The video pans across a remote volcanic coastline where turquoise waves crash on dark rocks beneath steep, densely green hills and mountainous islands; on-screen text reads, 'Very few people ever lay eyes on this place...'",
+    "creator": "@amorywild",
+    "reel_title": "Coastal scenery — National Park of American Samoa",
+    "reel_theme": "Coastal scenery"
+   }
+  },
+  {
+   "from": "place:national-park-of-american-samoa-as",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:lake-clark-national-park-and-preserve-ak",
    "to": "state:united-states-ak",
    "type": "LOCATED_IN",
@@ -8315,6 +10020,25 @@
   {
    "from": "place:lake-clark-national-park-and-preserve-ak",
    "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-clark-national-park-and-preserve-ak",
+   "to": "reel:DdwVrJouVO9",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Aerial view / Glacier scenery",
+    "recommendation": "Caption names Lake Clark NP. From a small aircraft, the video pans across rugged snow-covered peaks and extensive glaciers; on-screen text reads, 'Hoping to see a view this beautiful again one day...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife / Scenic flight — Lake Clark National Park and Preserve",
+    "reel_theme": "Wildlife / Scenic flight"
+   }
+  },
+  {
+   "from": "place:lake-clark-national-park-and-preserve-ak",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -8399,6 +10123,83 @@
     "reel_title": "Ranking Alaska National Parks — Part 2",
     "reel_theme": "Ranking Alaska National Parks — Part 2"
    }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:Dd5CepOp12J",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bear viewing / Wildlife",
+    "recommendation": "Caption names Katmai NP for wildlife. The video shows a mother brown bear climbing down a tall evergreen while two cubs wait high in the branches; on-screen text reads, 'Mom knows best...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Katmai National Park and Preserve",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:DdnGL8DJGAy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bear viewing / Wildlife",
+    "recommendation": "Caption names Katmai for wildlife. A mother brown bear holds and eats a fish in a calm river while two cubs swim nearby; on-screen text jokes, 'Mom, just share a little...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Katmai National Park and Preserve",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:Ddm4CJGhqwp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Camping / Bear viewing",
+    "recommendation": "His #1 Alaska experience: camping in Katmai, highlighted by close footage of brown bears fishing at Brooks Falls, bears wading in rivers and walking on a road, and a porcupine near the campsite.",
+    "creator": "@amorywild",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "reel_theme": "My 5 Favorite Experiences in Alaska"
+   }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:Ddc9jptussA",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bear viewing / Wildlife",
+    "recommendation": "Caption names Katmai NP for wildlife. From an elevated riverbank viewpoint, an adult brown bear and a juvenile enter the river and splash downstream after each other while other bears are visible in the background; on-screen text reads, 'Mama bear doesn't play...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Katmai National Park and Preserve",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Top national park",
+    "recommendation": "His #4 national park: Katmai, focusing on brown bears fishing at waterfalls and walking along a path.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:wasson-peak-az",
@@ -8618,6 +10419,38 @@
    "properties": {}
   },
   {
+   "from": "place:myrtle-point-tn",
+   "to": "reel:Ddpitf0BMb-",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Hike / View",
+    "recommendation": "His #5 hike: Mt LeConte to Myrtle Point in Great Smoky Mountains National Park, accessed via the Alum Cave Trail and noted for its cave shelter and panoramic mountain views.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Hikes",
+    "reel_theme": "Top 5 National Park Hikes"
+   }
+  },
+  {
+   "from": "place:myrtle-point-tn",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:myrtle-point-tn",
+   "to": "reel:DdXrKx6hZ67",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "View",
+    "recommendation": "Caption names Myrtle Point in Great Smoky Mountains NP and frames the view as a rebuttal to people who call the Smokies overrated. The camera pans across sunlit, blue-hazed ridges and evergreen forest as a woman steps onto the rocky ledge and raises her arms toward the vista.",
+    "creator": "@amorywild",
+    "reel_title": "Scenic viewpoint — Myrtle Point",
+    "reel_theme": "Scenic viewpoint"
+   }
+  },
+  {
    "from": "place:mt-alava-as",
    "to": "state:united-states-as",
    "type": "LOCATED_IN",
@@ -8730,6 +10563,19 @@
    "properties": {}
   },
   {
+   "from": "place:root-glacier-ak",
+   "to": "reel:Ddm4CJGhqwp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Glacier hike",
+    "recommendation": "His #4 Alaska experience: hiking on the Root Glacier in Wrangell-St. Elias National Park, with expansive ice fields, blue meltwater pools, and crevasses.",
+    "creator": "@amorywild",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "reel_theme": "My 5 Favorite Experiences in Alaska"
+   }
+  },
+  {
    "from": "place:south-kaibab-and-bright-angel-trails-phantom-ranch-az",
    "to": "state:united-states-az",
    "type": "LOCATED_IN",
@@ -8816,6 +10662,19 @@
     "creator": "@amorywild",
     "reel_title": "Trail view — South Kaibab Trail",
     "reel_theme": "Trail view"
+   }
+  },
+  {
+   "from": "place:south-kaibab-and-bright-angel-trails-phantom-ranch-az",
+   "to": "reel:Ddpitf0BMb-",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike",
+    "recommendation": "His #2 hike: Phantom Ranch via the South Kaibab and Bright Angel trails in Grand Canyon National Park, highlighted for descending to the Colorado River.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Hikes",
+    "reel_theme": "Top 5 National Park Hikes"
    }
   },
   {
@@ -8986,6 +10845,69 @@
    "properties": {}
   },
   {
+   "from": "place:acadia-national-park-me",
+   "to": "reel:Ddt8odbRZ32",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Beaver / Wildlife",
+    "recommendation": "Caption names Acadia for wildlife. A beaver swims through a lily-pad-covered pond carrying plant material, pauses to eat, and continues slowly through the water; on-screen text reads, 'The pure joy this brings me...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Acadia National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:acadia-national-park-me",
+   "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:acadia-national-park-me",
+   "to": "reel:DdMLqCPOics",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Seals / Sunset / Wildlife",
+    "recommendation": "Caption names Acadia at sunset for wildlife. From a boat, the camera zooms toward a rocky outcrop where harbor seals are hauled out and swimming nearby as orange and pink light reflects on calm water; on-screen text reads, 'POV you're watching seals at sunset in Acadia...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife / Sunset — Acadia National Park",
+    "reel_theme": "Wildlife / Sunset"
+   }
+  },
+  {
+   "from": "place:acadia-national-park-me",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:acadia-national-park-me",
+   "to": "reel:DdILP0qJ6Op",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Iron-rung hike / View",
+    "recommendation": "Caption complains, 'So many ladders...' on an Acadia hike. The POV video climbs installed metal rungs and ladders on a near-vertical granite face, crosses an exposed ledge, and reaches a summit view over green mountains and coastal islands; the specific trail is not named by the creator.",
+    "creator": "@amorywild",
+    "reel_title": "Hiking — Acadia National Park",
+    "reel_theme": "Hiking"
+   }
+  },
+  {
+   "from": "place:acadia-national-park-me",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:acadia-national-park-me",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:shenandoah-national-park-va",
    "to": "state:united-states-va",
    "type": "LOCATED_IN",
@@ -9025,6 +10947,50 @@
   {
    "from": "place:shenandoah-national-park-va",
    "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:shenandoah-national-park-va",
+   "to": "reel:Dd1VBxKPvQU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Sunrise / Sunset",
+    "recommendation": "His #4: Shenandoah, which he calls 'made for viewing sunrises and sunsets' via Skyline Drive, with golden ridges and sunrise over distant valleys.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "reel_theme": "Top 5 National Parks for Sunrises/Sets"
+   }
+  },
+  {
+   "from": "place:shenandoah-national-park-va",
+   "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:shenandoah-national-park-va",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:shenandoah-national-park-va",
+   "to": "reel:DdT8_tnRt5F",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Rock scramble / Hike",
+    "recommendation": "Caption tags Shenandoah and on-screen text says, 'POV you did the toughest hike in Shenandoah...' The hiker squeezes and climbs through a narrow, steep granite-boulder passage and stone steps before reaching expansive green summit views. The specific trail is not named.",
+    "creator": "@amorywild",
+    "reel_title": "Hiking — Shenandoah National Park",
+    "reel_theme": "Hiking"
+   }
+  },
+  {
+   "from": "place:shenandoah-national-park-va",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -9100,6 +11066,25 @@
   {
    "from": "place:everglades-national-park-fl",
    "to": "theme:winter-visit",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:everglades-national-park-fl",
+   "to": "reel:Ddot1ynPIHd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Baby alligators / Wildlife",
+    "recommendation": "Caption names Everglades for wildlife. With on-screen text 'POV it's your first time seeing baby gators in the wild...', the video looks into a shallow clear marsh where two tiny alligators swim among plants and small fish.",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Everglades National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:everglades-national-park-fl",
+   "to": "theme:wildlife",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -9440,6 +11425,19 @@
    "properties": {}
   },
   {
+   "from": "place:joint-trail-ut",
+   "to": "reel:DdGt8sqhy8-",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Slot canyon / Hike",
+    "recommendation": "Caption names Canyonlands' Joint Trail. The video follows a hiker deeper into an extremely narrow sandstone slot canyon, with vertical walls, sandy uneven ground, and only a sliver of sky above; on-screen text says, 'We went to every national park, and this hike still stands out...'",
+    "creator": "@amorywild",
+    "reel_title": "Hiking — Joint Trail",
+    "reel_theme": "Hiking"
+   }
+  },
+  {
    "from": "place:devil-s-garden-ut",
    "to": "state:united-states-ut",
    "type": "LOCATED_IN",
@@ -9724,6 +11722,19 @@
    "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:yosemite-falls-ca",
+   "to": "reel:Dd4GTzPBDJR",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Waterfall",
+    "recommendation": "His #2 waterfall: Yosemite Falls, presented as one of North America's tallest waterfalls and shown from the valley floor, its base, and an aerial view from the top.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Waterfalls",
+    "reel_theme": "Top 5 National Park Waterfalls"
+   }
   },
   {
    "from": "place:greeter-falls-tn",
@@ -10607,6 +12618,44 @@
    "properties": {}
   },
   {
+   "from": "place:upper-hawksbill-trail-va",
+   "to": "reel:DdsUVssgoMw",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Sunset / View",
+    "recommendation": "Caption names the Upper Hawksbill Trail in Shenandoah for a sunset. The video pans from a rocky overlook across forested ridges and valleys in golden light; on-screen text asks, 'Have you seen a more perfect sunset?'",
+    "creator": "@amorywild",
+    "reel_title": "Sunset viewpoint — Upper Hawksbill Trail",
+    "reel_theme": "Sunset viewpoint"
+   }
+  },
+  {
+   "from": "place:upper-hawksbill-trail-va",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:upper-hawksbill-trail-va",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:upper-hawksbill-trail-va",
+   "to": "reel:DdSdO45JteL",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Sunset / Summit view",
+    "recommendation": "Caption calls the scene 'pure bliss at Upper Hawksbill summit' in Shenandoah. A slow pan from lichen-covered boulders crosses forested ridges as the sun dips below the far ridgeline in orange, pink, and yellow light.",
+    "creator": "@amorywild",
+    "reel_title": "Sunset viewpoint — Upper Hawksbill Summit",
+    "reel_theme": "Sunset viewpoint"
+   }
+  },
+  {
    "from": "place:vernal-falls-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -10726,6 +12775,19 @@
    }
   },
   {
+   "from": "place:glacier-bay-national-park-and-preserve-ak",
+   "to": "reel:DdwXI8jNIIc",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Harbor seals / Wildlife",
+    "recommendation": "Caption names Glacier Bay NP. In a glacial fjord with turquoise water, ice chunks, and snow-capped mountains, roughly seven or eight harbor seals lie together on an ice floe and lift their heads toward the camera.",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Glacier Bay National Park and Preserve",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
    "from": "place:holei-arch-hi",
    "to": "state:united-states-hi",
    "type": "LOCATED_IN",
@@ -10792,6 +12854,19 @@
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:comet-falls-wa",
+   "to": "reel:DdEPGaTtAk0",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Waterfall",
+    "recommendation": "Caption names Rainier's Comet Falls Trail but adds 'but not comet falls.' A hiker with trekking poles stands on a log bridge over a fast white-water stream, and the camera reveals a rocky riverbed and a multi-tiered waterfall cascading down a moss-covered slope in evergreen forest.",
+    "creator": "@amorywild",
+    "reel_title": "Hiking / Waterfall — Comet Falls Trail",
+    "reel_theme": "Hiking / Waterfall"
+   }
   },
   {
    "from": "place:theodore-roosevelt-national-park-nd",
@@ -10862,6 +12937,19 @@
    "properties": {}
   },
   {
+   "from": "place:theodore-roosevelt-national-park-nd",
+   "to": "reel:Ddt8vZXTLJy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bison / Wildlife",
+    "recommendation": "Caption names Theodore Roosevelt National Park for wildlife. A large American bison grazes calmly beside a paved road in golden-hour prairie light, while on-screen text jokes, 'And I heard they like to be petted...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Theodore Roosevelt National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
    "from": "place:yellowstone-national-park-wy",
    "to": "state:united-states-wy",
    "type": "LOCATED_IN",
@@ -10906,6 +12994,38 @@
    }
   },
   {
+   "from": "place:yellowstone-national-park-wy",
+   "to": "reel:DdnMCCbN6CM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bison calves / Wildlife",
+    "recommendation": "Caption names Yellowstone for wildlife. An adult bison grazes in a grassland while a small reddish calf takes tentative steps nearby; on-screen text reads, 'Bring me back to red dog season...', referring to newborn bison calves' red coats.",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Yellowstone National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:yellowstone-national-park-wy",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Top national park",
+    "recommendation": "His #1 national park: Yellowstone, shown with bison including a calf, grizzly bears in meadows, and Lower Falls with a rainbow.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:yellowstone-national-park-wy",
+   "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:rocky-mountain-national-park-co",
    "to": "state:united-states-co",
    "type": "LOCATED_IN",
@@ -10933,6 +13053,25 @@
   {
    "from": "place:rocky-mountain-national-park-co",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rocky-mountain-national-park-co",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 9,
+    "best_for": "Top national park",
+    "recommendation": "His #9 national park: Rocky Mountain, shown with icy alpine lakes and elk herds.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:rocky-mountain-national-park-co",
+   "to": "theme:top-national-park",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -10968,6 +13107,44 @@
    "properties": {}
   },
   {
+   "from": "place:yosemite-national-park-ca",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Top national park",
+    "recommendation": "His #3 national park: Yosemite, shown with Half Dome valley views and a large waterfall.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:yosemite-national-park-ca",
+   "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:yosemite-national-park-ca",
+   "to": "reel:DdZQKoUO2zE",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Rainbow",
+    "recommendation": "Caption asks, 'Is this the most perfect waterfall?' and tags Yosemite. The video pans across a powerful waterfall dropping over dark granite into a churning pool, its thick mist sustaining a vivid rainbow; on-screen text reads, 'Follow the rainbow...' The specific waterfall is not named.",
+    "creator": "@amorywild",
+    "reel_title": "Waterfall — Yosemite National Park",
+    "reel_theme": "Waterfall"
+   }
+  },
+  {
+   "from": "place:yosemite-national-park-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:north-cascades-national-park-wa",
    "to": "state:united-states-wa",
    "type": "LOCATED_IN",
@@ -10995,6 +13172,63 @@
   {
    "from": "place:north-cascades-national-park-wa",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:north-cascades-national-park-wa",
+   "to": "reel:Ddyq3UhtEkw",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Wildlife",
+    "recommendation": "Caption calls the moment a 'life highlight' in North Cascades. On a steep rocky alpine slope, the camera zooms in on a pika while the filmer whispers excitedly and points out a marmot farther up the rocks.",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — North Cascades National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:north-cascades-national-park-wa",
+   "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:north-cascades-national-park-wa",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Top national park",
+    "recommendation": "His #5 national park: North Cascades, shown with rugged snowy mountains and a turquoise lake.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:north-cascades-national-park-wa",
+   "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:north-cascades-national-park-wa",
+   "to": "reel:DdAb42fK2kg",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "View / Hike",
+    "recommendation": "Caption asks, 'Could it be North Cascades?' and on-screen text calls it 'The greatest national park no one knows...' A hiker climbs a rocky alpine trail toward glaciated peaks as the camera pans across rugged mountains, green valleys, and lingering snowfields. No specific trail is named.",
+    "creator": "@amorywild",
+    "reel_title": "Scenic hike — North Cascades National Park",
+    "reel_theme": "Scenic hike"
+   }
+  },
+  {
+   "from": "place:north-cascades-national-park-wa",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -11030,6 +13264,44 @@
    "properties": {}
   },
   {
+   "from": "place:glacier-national-park-mt",
+   "to": "reel:DdkljjUh48e",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Black bear / Wildlife",
+    "recommendation": "Caption names Glacier National Park for a bear encounter. A person walking a bicycle along a paved road passes a small black bear on the grassy shoulder, speaking calmly to it; another voice then asks to hold the bear spray.",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Glacier National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Top national park",
+    "recommendation": "His #2 national park: Glacier, shown with high mountain ridges, turquoise lakes, and bighorn sheep near a road.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:grand-teton-national-park-wy",
    "to": "state:united-states-wy",
    "type": "LOCATED_IN",
@@ -11057,6 +13329,25 @@
   {
    "from": "place:grand-teton-national-park-wy",
    "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-teton-national-park-wy",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Top national park",
+    "recommendation": "His #6 national park: Grand Teton, shown with snow-capped peaks reflected in a lake and a moose by the roadside.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:grand-teton-national-park-wy",
+   "to": "theme:top-national-park",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -11222,6 +13513,19 @@
    "properties": {}
   },
   {
+   "from": "place:myrtle-falls-wa",
+   "to": "reel:Dd4GTzPBDJR",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Waterfall",
+    "recommendation": "His #5 waterfall: Myrtle Falls at Mount Rainier National Park, shown as a wide cascade with the mountain's snow-covered peak behind it.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Waterfalls",
+    "reel_theme": "Top 5 National Park Waterfalls"
+   }
+  },
+  {
    "from": "place:exit-glacier-ak",
    "to": "state:united-states-ak",
    "type": "LOCATED_IN",
@@ -11352,6 +13656,25 @@
    "properties": {}
   },
   {
+   "from": "place:channel-islands-national-park-ca",
+   "to": "reel:DdgyUvPBO7P",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Wildlife",
+    "recommendation": "Caption and the tagged location place the clip in Channel Islands National Park (the source tag spells it 'Channel Island National Park'). Several small gray-brown animals chase, wrestle, and tumble around a wooden post, rock border, bushes, and grass while on-screen text asks, 'Umm... what am I witnessing?'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Channel Islands National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:channel-islands-national-park-ca",
+   "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:new-river-gorge-national-park-and-preserve-wv",
    "to": "state:united-states-wv",
    "type": "LOCATED_IN",
@@ -11453,6 +13776,25 @@
   {
    "from": "place:pinnacles-national-park-ca",
    "to": "theme:underrated-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:pinnacles-national-park-ca",
+   "to": "reel:DdytARbBESa",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "California condor / Wildlife",
+    "recommendation": "Caption names Pinnacles NP for wildlife. The video shows an endangered California condor perched atop a tall pine between rock formations; it spreads its massive wings, revealing white patches underneath, and glides past the cliffs.",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife — Pinnacles National Park",
+    "reel_theme": "Wildlife"
+   }
+  },
+  {
+   "from": "place:pinnacles-national-park-ca",
+   "to": "theme:wildlife",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -12010,6 +14352,638 @@
   },
   {
    "from": "place:undine-falls-wy",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:valley-of-fire-state-park-nv",
+   "to": "state:united-states-nv",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:valley-of-fire-state-park-nv",
+   "to": "site:valley-of-fire-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:valley-of-fire-state-park-nv",
+   "to": "reel:Dd4og3dtf8U",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hiking / Red-rock scenery",
+    "recommendation": "A POV walkthrough introduced by on-screen text, 'POV you finally made it to Valley of Fire.' It moves through narrow orange-red slot canyons, past jagged red-rock spires, and across expansive wave-like striped formations with pools and sparse desert vegetation.",
+    "creator": "@amorywild",
+    "reel_title": "Scenic landscapes — Valley of Fire State Park",
+    "reel_theme": "Scenic landscapes"
+   }
+  },
+  {
+   "from": "place:valley-of-fire-state-park-nv",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wapama-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:wapama-falls-ca",
+   "to": "site:yosemite-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wapama-falls-ca",
+   "to": "reel:Dd4GTzPBDJR",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Waterfall",
+    "recommendation": "His #4 waterfall: Wapama Falls in Yosemite National Park, a powerful, misty fall crashing over boulders into the river leading toward Hetch Hetchy Reservoir.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Waterfalls",
+    "reel_theme": "Top 5 National Park Waterfalls"
+   }
+  },
+  {
+   "from": "place:wapama-falls-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lower-yellowstone-falls-wy",
+   "to": "state:united-states-wy",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:lower-yellowstone-falls-wy",
+   "to": "site:yellowstone-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:lower-yellowstone-falls-wy",
+   "to": "reel:Dd4GTzPBDJR",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Waterfall",
+    "recommendation": "His #3 waterfall: Lower Yellowstone Falls, shown plunging into the Grand Canyon of the Yellowstone between colorful canyon walls.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Waterfalls",
+    "reel_theme": "Top 5 National Park Waterfalls"
+   }
+  },
+  {
+   "from": "place:lower-yellowstone-falls-wy",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-cove-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-cove-ak",
+   "to": "site:kenai-fjords-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-cove-ak",
+   "to": "reel:Dd4GTzPBDJR",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Waterfall",
+    "recommendation": "His #1 waterfall: Cataract Cove in Kenai Fjords National Park, where numerous waterfalls cascade directly from steep coastal cliffs into the ocean, filmed from a boat.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Waterfalls",
+    "reel_theme": "Top 5 National Park Waterfalls"
+   }
+  },
+  {
+   "from": "place:cataract-cove-ak",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "state:united-states-az",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "site:grand-canyon-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "reel:Dd1VBxKPvQU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Sunrise / Sunset",
+    "recommendation": "His #2: Grand Canyon, which he treats as self-explanatory because of its scale, with vast vistas and sunbeams breaking through clouds at sunrise.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "reel_theme": "Top 5 National Parks for Sunrises/Sets"
+   }
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Top national park",
+    "recommendation": "His #8 national park: Grand Canyon, shown with sunset canyon views and the Colorado River.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:subway-trail-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:subway-trail-ut",
+   "to": "site:zion-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:subway-trail-ut",
+   "to": "reel:Ddpitf0BMb-",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Hike",
+    "recommendation": "His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Hikes",
+    "reel_theme": "Top 5 National Park Hikes"
+   }
+  },
+  {
+   "from": "place:subway-trail-ut",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-peak-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-peak-ca",
+   "to": "site:yosemite-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-peak-ca",
+   "to": "reel:Ddpitf0BMb-",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Hike / View",
+    "recommendation": "His #3 hike: Eagle Peak in Yosemite National Park, praised for expansive views of Yosemite Valley, Half Dome, and surrounding granite cliffs.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 National Park Hikes",
+    "reel_theme": "Top 5 National Park Hikes"
+   }
+  },
+  {
+   "from": "place:eagle-peak-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-peak-ca",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:valley-of-10-000-smokes-bus-tour-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:valley-of-10-000-smokes-bus-tour-ak",
+   "to": "site:katmai-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:valley-of-10-000-smokes-bus-tour-ak",
+   "to": "reel:Ddm4CJGhqwp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Bus tour / Volcanic landscape",
+    "recommendation": "His #5 Alaska experience: the Valley of 10,000 Smokes Bus Tour in Katmai, shown with a muddy river cutting through tall tan volcanic cliffs.",
+    "creator": "@amorywild",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "reel_theme": "My 5 Favorite Experiences in Alaska"
+   }
+  },
+  {
+   "from": "place:valley-of-10-000-smokes-bus-tour-ak",
+   "to": "theme:bus-tour-volcanic-landscape",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:olympic-national-park-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:olympic-national-park-wa",
+   "to": "site:olympic-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:olympic-national-park-wa",
+   "to": "reel:DdhK7LuBNJP",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Overlooked view / View",
+    "recommendation": "Caption calls Olympic's best part overlooked. From a rocky mountain overlook, the video pans across moss- and lichen-covered rock, deep evergreen valleys, and distant snow-capped ranges; on-screen text reads, 'So many people miss this part of Olympic...' No specific trail or overlook is named.",
+    "creator": "@amorywild",
+    "reel_title": "Scenic viewpoint — Olympic National Park",
+    "reel_theme": "Scenic viewpoint"
+   }
+  },
+  {
+   "from": "place:olympic-national-park-wa",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:olympic-national-park-wa",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 10,
+    "best_for": "Top national park",
+    "recommendation": "His #10 national park: Olympic, shown with mountain vistas and a deer grazing.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:olympic-national-park-wa",
+   "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mt-henry-trail-mt",
+   "to": "state:united-states-mt",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mt-henry-trail-mt",
+   "to": "site:glacier-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mt-henry-trail-mt",
+   "to": "reel:DdfjmAOzCTR",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Summit view",
+    "recommendation": "Caption names the Mt Henry Trail in Glacier National Park. From the summit, the camera pans across rugged snow-dusted peaks, forested valleys, and a distant turquoise lake as a hiker with trekking poles walks the exposed ridge; on-screen text reads, 'On top of the world...'",
+    "creator": "@amorywild",
+    "reel_title": "Hiking / Summit view — Mt Henry Trail",
+    "reel_theme": "Hiking / Summit view"
+   }
+  },
+  {
+   "from": "place:mt-henry-trail-mt",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mt-henry-trail-mt",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grayson-highlands-state-park-va",
+   "to": "state:united-states-va",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:grayson-highlands-state-park-va",
+   "to": "site:grayson-highlands-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:grayson-highlands-state-park-va",
+   "to": "reel:DdXqhfIPYDU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Wild ponies / Wildlife",
+    "recommendation": "Caption and on-screen text place a POV wild-pony watch in Grayson Highlands. Ponies graze on a rocky, windswept ridge above layered blue mountains and morning mist, with scattered evergreens and fence posts across the open highland.",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife / Scenic landscape — Grayson Highlands State Park",
+    "reel_theme": "Wildlife / Scenic landscape"
+   }
+  },
+  {
+   "from": "place:grayson-highlands-state-park-va",
+   "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grayson-highlands-state-park-va",
+   "to": "reel:Ddcu9EaOHnT",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Wild ponies / Wildlife",
+    "recommendation": "Caption names Grayson Highlands for its wild ponies. In a sunny mountain meadow, a large gray horse with a dark face and long blonde mane stands calmly near the trail; on-screen text jokes, 'They said \"wild ponies\" but I wasn't expecting this guy...'",
+    "creator": "@amorywild",
+    "reel_title": "Wildlife / Scenic landscape — Grayson Highlands State Park",
+    "reel_theme": "Wildlife / Scenic landscape"
+   }
+  },
+  {
+   "from": "place:zion-national-park-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:zion-national-park-ut",
+   "to": "site:zion-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:zion-national-park-ut",
+   "to": "reel:DdaWOp1N9L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Top national park",
+    "recommendation": "His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water.",
+    "creator": "@amorywild",
+    "reel_title": "Top 10 National Parks",
+    "reel_theme": "Top 10 National Parks"
+   }
+  },
+  {
+   "from": "place:zion-national-park-ut",
+   "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cave-in-rock-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-il",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-il",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:cave-in-rock-il",
+   "to": "site:cave-in-rock-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cave-in-rock-il",
+   "to": "reel:DdP6Of2Jojg",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Cave / River view",
+    "recommendation": "Caption names Cave in Rock, IL. The camera moves from deep inside a dark, rough rock cave along a narrow stone path toward a large arched opening framing bright water and a distant tree-lined shore, with a visitor silhouetted at the cave mouth.",
+    "creator": "@amorywild",
+    "reel_title": "Cave scenery — Cave-in-Rock",
+    "reel_theme": "Cave scenery"
+   }
+  },
+  {
+   "from": "place:cave-in-rock-il",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:horseshoe-falls-ny",
+   "to": "state:united-states-ny",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ny",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ny",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:horseshoe-falls-ny",
+   "to": "site:niagara-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:horseshoe-falls-ny",
+   "to": "reel:DdNRYJHPaSe",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall",
+    "recommendation": "Caption asks, 'Or is it Niagara Falls?' The video pans across Horseshoe Falls' massive curtain of water, rising mist, churning green-blue river, rocky cliffs, and a distant viewing platform.",
+    "creator": "@amorywild",
+    "reel_title": "Waterfall — Horseshoe Falls",
+    "reel_theme": "Waterfall"
+   }
+  },
+  {
+   "from": "place:horseshoe-falls-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:beehive-trail-me",
+   "to": "state:united-states-me",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:beehive-trail-me",
+   "to": "site:acadia-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:beehive-trail-me",
+   "to": "reel:DdJgrUhvccf",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Sunrise / Summit view / Hike",
+    "recommendation": "Caption names Acadia's Beehive Trail at sunrise. After finishing their 63rd national park, the creators film themselves squinting into the sun, then pan across the rocky granite summit to a forested coastline, islands, curving shoreline, and golden reflection on the ocean.",
+    "creator": "@amorywild",
+    "reel_title": "Hiking / Sunrise — Beehive Trail",
+    "reel_theme": "Hiking / Sunrise"
+   }
+  },
+  {
+   "from": "place:beehive-trail-me",
+   "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:beehive-trail-me",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:beehive-trail-me",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:niagara-falls-ny",
+   "to": "state:united-states-ny",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:niagara-falls-ny",
+   "to": "site:niagara-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:niagara-falls-ny",
+   "to": "reel:DdIOsK4JDSu",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall",
+    "recommendation": "Caption names Niagara Falls. A close view pans across torrents of white water, the mist-filled gorge, and the distant city skyline across the river; on-screen text reads, 'The original...'",
+    "creator": "@amorywild",
+    "reel_title": "Waterfall — Niagara Falls",
+    "reel_theme": "Waterfall"
+   }
+  },
+  {
+   "from": "place:niagara-falls-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:american-falls-ny",
+   "to": "state:united-states-ny",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:american-falls-ny",
+   "to": "site:niagara-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:american-falls-ny",
+   "to": "reel:DdDMPVahoxH",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall",
+    "recommendation": "Caption names Niagara Falls, and on-screen text calls it 'America's first state park for a reason...' The video shows the American Falls from the Cave of the Winds walkways and staircases, with massive water crashing down and heavy mist around visitors in yellow ponchos.",
+    "creator": "@amorywild",
+    "reel_title": "Waterfall — American Falls",
+    "reel_theme": "Waterfall"
+   }
+  },
+  {
+   "from": "place:american-falls-ny",
    "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}

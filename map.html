@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;color:#fff;font-weight:700;font-size:11px;text-align:center;line-height:22px;width:22px;height:22px;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>144 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>161 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
@@ -20,10 +20,49 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 National Parks in the EAST",
   "creator": "@amorywild",
   "rank": 5,
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Ddt8odbRZ32/",
+    "reel_title": "Wildlife \u2014 Acadia National Park",
+    "creator": "@amorywild",
+    "best": "Beaver / Wildlife",
+    "rec": "Caption names Acadia for wildlife. A beaver swims through a lily-pad-covered pond carrying plant material, pauses to eat, and continues slowly through the water; on-screen text reads, 'The pure joy this brings me...'"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdMLqCPOics/",
+    "reel_title": "Wildlife / Sunset \u2014 Acadia National Park",
+    "creator": "@amorywild",
+    "best": "Seals / Sunset / Wildlife",
+    "rec": "Caption names Acadia at sunset for wildlife. From a boat, the camera zooms toward a rocky outcrop where harbor seals are hauled out and swimming nearby as orange and pink light reflects on calm water; on-screen text reads, 'POV you're watching seals at sunset in Acadia...'"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdILP0qJ6Op/",
+    "reel_title": "Hiking \u2014 Acadia National Park",
+    "creator": "@amorywild",
+    "best": "Iron-rung hike / View",
+    "rec": "Caption complains, 'So many ladders...' on an Acadia hike. The POV video climbs installed metal rungs and ladders on a near-vertical granite face, crosses an exposed ledge, and reaches a summit view over green mountains and coastal islands; the specific trail is not named by the creator."
+   }
+  ]
+ },
+ {
+  "n": "2 \u00b7 Beehive Trail",
+  "r": "northeast",
+  "rlabel": "Northeast",
+  "loc": "Acadia National Park, Maine",
+  "site": "Acadia National Park",
+  "lat": 44.333867,
+  "lng": -68.188745,
+  "q": "Beehive+Trail+Acadia+National+Park+ME",
+  "best": "Sunrise / Summit view / Hike",
+  "rec": "Caption names Acadia's Beehive Trail at sunrise. After finishing their 63rd national park, the creators film themselves squinting into the sun, then pan across the rocky granite summit to a forested coastline, islands, curving shoreline, and golden reflection on the ocean.",
+  "reel": "https://www.instagram.com/reel/DdJgrUhvccf/",
+  "reel_title": "Hiking / Sunrise \u2014 Beehive Trail",
+  "creator": "@amorywild",
+  "rank": null,
   "also": []
  },
  {
-  "n": "2 \u00b7 Precipice Trail",
+  "n": "3 \u00b7 Precipice Trail",
   "r": "northeast",
   "rlabel": "Northeast",
   "loc": "Acadia National Park, Maine",
@@ -37,6 +76,57 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Adrenaline Hikes",
   "creator": "@amorywild",
   "rank": 1,
+  "also": []
+ },
+ {
+  "n": "4 \u00b7 American Falls",
+  "r": "northeast",
+  "rlabel": "Northeast",
+  "loc": "Niagara Falls, New York",
+  "site": "Niagara Falls State Park",
+  "lat": 43.084744,
+  "lng": -79.069429,
+  "q": "American+Falls+Niagara+Falls+State+Park+NY",
+  "best": "Waterfall",
+  "rec": "Caption names Niagara Falls, and on-screen text calls it 'America's first state park for a reason...' The video shows the American Falls from the Cave of the Winds walkways and staircases, with massive water crashing down and heavy mist around visitors in yellow ponchos.",
+  "reel": "https://www.instagram.com/reel/DdDMPVahoxH/",
+  "reel_title": "Waterfall \u2014 American Falls",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "5 \u00b7 Horseshoe Falls",
+  "r": "northeast",
+  "rlabel": "Northeast",
+  "loc": "Niagara Falls, New York",
+  "site": "Niagara Falls State Park",
+  "lat": 43.078413,
+  "lng": -79.074327,
+  "q": "Horseshoe+Falls+Niagara+Falls+State+Park+NY",
+  "best": "Waterfall",
+  "rec": "Caption asks, 'Or is it Niagara Falls?' The video pans across Horseshoe Falls' massive curtain of water, rising mist, churning green-blue river, rocky cliffs, and a distant viewing platform.",
+  "reel": "https://www.instagram.com/reel/DdNRYJHPaSe/",
+  "reel_title": "Waterfall \u2014 Horseshoe Falls",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "6 \u00b7 Niagara Falls",
+  "r": "northeast",
+  "rlabel": "Northeast",
+  "loc": "Niagara Falls, New York",
+  "site": "Niagara Falls State Park",
+  "lat": 43.084841,
+  "lng": -79.070179,
+  "q": "Niagara+Falls+Niagara+Falls+State+Park+NY",
+  "best": "Waterfall",
+  "rec": "Caption names Niagara Falls. A close view pans across torrents of white water, the mist-filled gorge, and the distant city skyline across the river; on-screen text reads, 'The original...'",
+  "reel": "https://www.instagram.com/reel/DdIOsK4JDSu/",
+  "reel_title": "Waterfall \u2014 Niagara Falls",
+  "creator": "@amorywild",
+  "rank": null,
   "also": []
  },
  {
@@ -103,7 +193,15 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Winter National Parks",
   "creator": "@amorywild",
   "rank": 5,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Ddot1ynPIHd/",
+    "reel_title": "Wildlife \u2014 Everglades National Park",
+    "creator": "@amorywild",
+    "best": "Baby alligators / Wildlife",
+    "rec": "Caption names Everglades for wildlife. With on-screen text 'POV it's your first time seeing baby gators in the wild...', the video looks into a shallow clear marsh where two tiny alligators swim among plants and small fish."
+   }
+  ]
  },
  {
   "n": "4 \u00b7 Shark Valley",
@@ -297,7 +395,22 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Favorite viewpoint",
   "creator": "@amorywild",
   "rank": null,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Ddpitf0BMb-/",
+    "reel_title": "Top 5 National Park Hikes",
+    "creator": "@amorywild",
+    "best": "Hike / View",
+    "rec": "His #5 hike: Mt LeConte to Myrtle Point in Great Smoky Mountains National Park, accessed via the Alum Cave Trail and noted for its cave shelter and panoramic mountain views."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdXrKx6hZ67/",
+    "reel_title": "Scenic viewpoint \u2014 Myrtle Point",
+    "creator": "@amorywild",
+    "best": "View",
+    "rec": "Caption names Myrtle Point in Great Smoky Mountains NP and frames the view as a rebuttal to people who call the Smokies overrated. The camera pans across sunlit, blue-hazed ridges and evergreen forest as a woman steps onto the rocky ledge and raises her arms toward the vista."
+   }
+  ]
  },
  {
   "n": "14 \u00b7 Ramsey Cascades",
@@ -368,7 +481,32 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Old Rag",
+  "n": "18 \u00b7 Grayson Highlands State Park",
+  "r": "southeast",
+  "rlabel": "Southeast",
+  "loc": "Grayson Highlands State Park, Virginia",
+  "site": "Grayson Highlands State Park",
+  "lat": 36.625521,
+  "lng": -81.49872,
+  "q": "Grayson+Highlands+State+Park+Grayson+Highlands+State+Park+VA",
+  "best": "Wild ponies / Wildlife",
+  "rec": "Caption and on-screen text place a POV wild-pony watch in Grayson Highlands. Ponies graze on a rocky, windswept ridge above layered blue mountains and morning mist, with scattered evergreens and fence posts across the open highland.",
+  "reel": "https://www.instagram.com/reel/DdXqhfIPYDU/",
+  "reel_title": "Wildlife / Scenic landscape \u2014 Grayson Highlands State Park",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Ddcu9EaOHnT/",
+    "reel_title": "Wildlife / Scenic landscape \u2014 Grayson Highlands State Park",
+    "creator": "@amorywild",
+    "best": "Wild ponies / Wildlife",
+    "rec": "Caption names Grayson Highlands for its wild ponies. In a sunny mountain meadow, a large gray horse with a dark face and long blonde mane stands calmly near the trail; on-screen text jokes, 'They said \"wild ponies\" but I wasn't expecting this guy...'"
+   }
+  ]
+ },
+ {
+  "n": "19 \u00b7 Old Rag",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Shenandoah National Park, Virginia",
@@ -385,7 +523,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Shenandoah National Park",
+  "n": "20 \u00b7 Shenandoah National Park",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Luray, Virginia",
@@ -399,10 +537,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 National Parks in the EAST",
   "creator": "@amorywild",
   "rank": 4,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Dd1VBxKPvQU/",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "creator": "@amorywild",
+    "best": "Sunrise / Sunset",
+    "rec": "His #4: Shenandoah, which he calls 'made for viewing sunrises and sunsets' via Skyline Drive, with golden ridges and sunrise over distant valleys."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdT8_tnRt5F/",
+    "reel_title": "Hiking \u2014 Shenandoah National Park",
+    "creator": "@amorywild",
+    "best": "Rock scramble / Hike",
+    "rec": "Caption tags Shenandoah and on-screen text says, 'POV you did the toughest hike in Shenandoah...' The hiker squeezes and climbs through a narrow, steep granite-boulder passage and stone steps before reaching expansive green summit views. The specific trail is not named."
+   }
+  ]
  },
  {
-  "n": "20 \u00b7 Upper Hawksbill Trail",
+  "n": "21 \u00b7 Upper Hawksbill Trail",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Shenandoah National Park, Virginia",
@@ -416,10 +569,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Summit trail \u2014 Upper Hawksbill Trail",
   "creator": "@amorywild",
   "rank": null,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdsUVssgoMw/",
+    "reel_title": "Sunset viewpoint \u2014 Upper Hawksbill Trail",
+    "creator": "@amorywild",
+    "best": "Sunset / View",
+    "rec": "Caption names the Upper Hawksbill Trail in Shenandoah for a sunset. The video pans from a rocky overlook across forested ridges and valleys in golden light; on-screen text asks, 'Have you seen a more perfect sunset?'"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdSdO45JteL/",
+    "reel_title": "Sunset viewpoint \u2014 Upper Hawksbill Summit",
+    "creator": "@amorywild",
+    "best": "Sunset / Summit view",
+    "rec": "Caption calls the scene 'pure bliss at Upper Hawksbill summit' in Shenandoah. A slow pan from lichen-covered boulders crosses forested ridges as the sun dips below the far ridgeline in orange, pink, and yellow light."
+   }
+  ]
  },
  {
-  "n": "21 \u00b7 New River Gorge National Park and Preserve",
+  "n": "22 \u00b7 New River Gorge National Park and Preserve",
   "r": "southeast",
   "rlabel": "Southeast",
   "loc": "Oak Hill, West Virginia",
@@ -436,7 +604,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "1 \u00b7 Isle Royale National Park",
+  "n": "1 \u00b7 Cave-in-Rock",
+  "r": "midwest",
+  "rlabel": "Midwest",
+  "loc": "Cave-in-Rock, Illinois",
+  "site": "Cave-in-Rock State Park",
+  "lat": 37.472027,
+  "lng": -88.155162,
+  "q": "Cave-in-Rock+Cave-in-Rock+State+Park+IL",
+  "best": "Cave / River view",
+  "rec": "Caption names Cave in Rock, IL. The camera moves from deep inside a dark, rough rock cave along a narrow stone path toward a large arched opening framing bright water and a distant tree-lined shore, with a visitor silhouetted at the cave mouth.",
+  "reel": "https://www.instagram.com/reel/DdP6Of2Jojg/",
+  "reel_title": "Cave scenery \u2014 Cave-in-Rock",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "2 \u00b7 Isle Royale National Park",
   "r": "midwest",
   "rlabel": "Midwest",
   "loc": "Rock Harbor, Michigan",
@@ -453,7 +638,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "2 \u00b7 Theodore Roosevelt National Park",
+  "n": "3 \u00b7 Theodore Roosevelt National Park",
   "r": "midwest",
   "rlabel": "Midwest",
   "loc": "Medora, North Dakota",
@@ -474,11 +659,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Wildlife / Sunset",
     "rec": "Captioned 'Been waiting for this my whole life\u2026'; tagged location Theodore Roosevelt National Park. Filmed from a vehicle at sunset: two wild horses silhouetted on a grassy ridgeline against the orange sky, one lowering its head to graze. On-screen text: 'When you finally see wild horses on a ridgeline at sunset, perfectly silhouetted...' \u2014 a park-level wildlife moment, no specific spot named."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddt8vZXTLJy/",
+    "reel_title": "Wildlife \u2014 Theodore Roosevelt National Park",
+    "creator": "@amorywild",
+    "best": "Bison / Wildlife",
+    "rec": "Caption names Theodore Roosevelt National Park for wildlife. A large American bison grazes calmly beside a paved road in golden-hour prairie light, while on-screen text jokes, 'And I heard they like to be petted...'"
    }
   ]
  },
  {
-  "n": "3 \u00b7 Badlands National Park",
+  "n": "4 \u00b7 Badlands National Park",
   "r": "midwest",
   "rlabel": "Midwest",
   "loc": "Interior, South Dakota",
@@ -492,7 +684,15 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunset \u2014 Badlands National Park",
   "creator": "@amorywild",
   "rank": null,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Dd1VBxKPvQU/",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "creator": "@amorywild",
+    "best": "Sunrise / Sunset",
+    "rec": "His #5 park for sunrises and sunsets: Badlands, noted for consistent weather, easy pull-over overlooks, and short hikes to views over layered formations under orange skies."
+   }
+  ]
  },
  {
   "n": "1 \u00b7 Colorado River",
@@ -512,7 +712,32 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "2 \u00b7 Lipan Point",
+  "n": "2 \u00b7 Grand Canyon National Park",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Grand Canyon Village, Arizona",
+  "site": "Grand Canyon National Park",
+  "lat": 36.307855,
+  "lng": -112.292896,
+  "q": "Grand+Canyon+National+Park+Grand+Canyon+National+Park+AZ",
+  "best": "Sunrise / Sunset",
+  "rec": "His #2: Grand Canyon, which he treats as self-explanatory because of its scale, with vast vistas and sunbeams breaking through clouds at sunrise.",
+  "reel": "https://www.instagram.com/reel/Dd1VBxKPvQU/",
+  "reel_title": "Top 5 National Parks for Sunrises/Sets",
+  "creator": "@amorywild",
+  "rank": 2,
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #8 national park: Grand Canyon, shown with sunset canyon views and the Colorado River."
+   }
+  ]
+ },
+ {
+  "n": "3 \u00b7 Lipan Point",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Grand Canyon, Arizona",
@@ -537,7 +762,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "3 \u00b7 South Kaibab and Bright Angel Trails (Phantom Ranch)",
+  "n": "4 \u00b7 South Kaibab and Bright Angel Trails (Phantom Ranch)",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Grand Canyon, Arizona",
@@ -579,11 +804,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Hike / View",
     "rec": "Caption names the South Kaibab Trail, Grand Canyon National Park. The video is a slow panoramic pan across the canyon's layered rock formations and steep cliffs, with a rocky trail in the foreground and a bright blue sky \u2014 a peaceful, wide-open canyon view."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddpitf0BMb-/",
+    "reel_title": "Top 5 National Park Hikes",
+    "creator": "@amorywild",
+    "best": "Hike",
+    "rec": "His #2 hike: Phantom Ranch via the South Kaibab and Bright Angel trails in Grand Canyon National Park, highlighted for descending to the Colorado River."
    }
   ]
  },
  {
-  "n": "4 \u00b7 Wasson Peak",
+  "n": "5 \u00b7 Wasson Peak",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Tucson, Arizona",
@@ -600,7 +832,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "5 \u00b7 Chasm Lake",
+  "n": "6 \u00b7 Chasm Lake",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Estes Park, Colorado",
@@ -617,7 +849,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Gem Lake Trail",
+  "n": "7 \u00b7 Gem Lake Trail",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Estes Park, Colorado",
@@ -634,7 +866,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 High Dune",
+  "n": "8 \u00b7 High Dune",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Alamosa, Colorado",
@@ -651,7 +883,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Lake Estes",
+  "n": "9 \u00b7 Lake Estes",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Estes Park, Colorado",
@@ -668,7 +900,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Lake Haiyaha Trail",
+  "n": "10 \u00b7 Lake Haiyaha Trail",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Estes Park, Colorado",
@@ -685,7 +917,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Rocky Mountain National Park",
+  "n": "11 \u00b7 Rocky Mountain National Park",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Estes Park, Colorado",
@@ -699,10 +931,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Hiking",
   "creator": "@amorywild",
   "rank": 5,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #9 national park: Rocky Mountain, shown with icy alpine lakes and elk herds."
+   }
+  ]
  },
  {
-  "n": "11 \u00b7 Red Rock Canyon National Conservation Area",
+  "n": "12 \u00b7 Red Rock Canyon National Conservation Area",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Las Vegas, Nevada",
@@ -719,7 +959,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Big Bend National Park",
+  "n": "13 \u00b7 Valley of Fire State Park",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Moapa Valley, Nevada",
+  "site": "Valley of Fire State Park",
+  "lat": 36.498851,
+  "lng": -114.534122,
+  "q": "Valley+of+Fire+State+Park+Valley+of+Fire+State+Park+NV",
+  "best": "Hiking / Red-rock scenery",
+  "rec": "A POV walkthrough introduced by on-screen text, 'POV you finally made it to Valley of Fire.' It moves through narrow orange-red slot canyons, past jagged red-rock spires, and across expansive wave-like striped formations with pools and sparse desert vegetation.",
+  "reel": "https://www.instagram.com/reel/Dd4og3dtf8U/",
+  "reel_title": "Scenic landscapes \u2014 Valley of Fire State Park",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "14 \u00b7 Big Bend National Park",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Terlingua, Texas",
@@ -744,7 +1001,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "13 \u00b7 Devil's Hall",
+  "n": "15 \u00b7 Devil's Hall",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Guadalupe Mountains, Texas",
@@ -761,7 +1018,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Emory Peak",
+  "n": "16 \u00b7 Emory Peak",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Chisos Basin, Texas",
@@ -778,7 +1035,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Guadalupe Peak",
+  "n": "17 \u00b7 Guadalupe Peak",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Guadalupe Mountains, Texas",
@@ -795,7 +1052,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Santa Elena Canyon",
+  "n": "18 \u00b7 Santa Elena Canyon",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Big Bend National Park, Texas",
@@ -812,7 +1069,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 The Window Trail",
+  "n": "19 \u00b7 The Window Trail",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Chisos Basin, Texas",
@@ -829,7 +1086,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Angels Landing",
+  "n": "20 \u00b7 Angels Landing",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Springdale, Utah",
@@ -854,7 +1111,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "19 \u00b7 Bryce Canyon National Park",
+  "n": "21 \u00b7 Bryce Canyon National Park",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Tropic, Utah",
@@ -875,11 +1132,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "View",
     "rec": "Caption names Bryce Canyon National Park, Utah. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Dd1VBxKPvQU/",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "creator": "@amorywild",
+    "best": "Sunrise / Sunset",
+    "rec": "His #3: Bryce Canyon, highlighted for how sunrise lights up the orange hoodoos; footage shows snow-dusted red spires glowing at dawn."
    }
   ]
  },
  {
-  "n": "20 \u00b7 Canyon Overlook",
+  "n": "22 \u00b7 Canyon Overlook",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Springdale, Utah",
@@ -918,7 +1182,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "21 \u00b7 Canyonlands National Park",
+  "n": "23 \u00b7 Canyonlands National Park",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Moab, Utah",
@@ -935,7 +1199,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 Capitol Reef National Park",
+  "n": "24 \u00b7 Capitol Reef National Park",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Fruita, Utah",
@@ -952,7 +1216,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "23 \u00b7 Cassidy Arch",
+  "n": "25 \u00b7 Cassidy Arch",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Fruita, Utah",
@@ -969,7 +1233,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Delicate Arch",
+  "n": "26 \u00b7 Delicate Arch",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Moab, Utah",
@@ -994,7 +1258,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "25 \u00b7 Devil's Garden",
+  "n": "27 \u00b7 Devil's Garden",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Moab, Utah",
@@ -1011,7 +1275,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Fairyland Loop",
+  "n": "28 \u00b7 Fairyland Loop",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Bryce, Utah",
@@ -1028,7 +1292,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 Joint Trail",
+  "n": "29 \u00b7 Joint Trail",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Needles District, Utah",
@@ -1042,10 +1306,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Unique National Park Hikes",
   "creator": "@amorywild",
   "rank": 2,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdGt8sqhy8-/",
+    "reel_title": "Hiking \u2014 Joint Trail",
+    "creator": "@amorywild",
+    "best": "Slot canyon / Hike",
+    "rec": "Caption names Canyonlands' Joint Trail. The video follows a hiker deeper into an extremely narrow sandstone slot canyon, with vertical walls, sandy uneven ground, and only a sliver of sky above; on-screen text says, 'We went to every national park, and this hike still stands out...'"
+   }
+  ]
  },
  {
-  "n": "28 \u00b7 Needles District",
+  "n": "30 \u00b7 Needles District",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Needles District, Utah",
@@ -1062,7 +1334,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Sunrise Point",
+  "n": "31 \u00b7 Subway Trail",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Zion National Park, Utah",
+  "site": "Zion National Park",
+  "lat": 37.312991,
+  "lng": -113.046969,
+  "q": "Subway+Trail+Zion+National+Park+UT",
+  "best": "Hike",
+  "rec": "His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings.",
+  "reel": "https://www.instagram.com/reel/Ddpitf0BMb-/",
+  "reel_title": "Top 5 National Park Hikes",
+  "creator": "@amorywild",
+  "rank": 4,
+  "also": []
+ },
+ {
+  "n": "32 \u00b7 Sunrise Point",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Bryce Canyon City, Utah",
@@ -1079,7 +1368,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "30 \u00b7 The Narrows",
+  "n": "33 \u00b7 The Narrows",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Zion Canyon, Utah",
@@ -1104,7 +1393,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "31 \u00b7 Zion Canyon",
+  "n": "34 \u00b7 Zion Canyon",
   "r": "southwest",
   "rlabel": "Southwest",
   "loc": "Springdale, Utah",
@@ -1127,6 +1416,23 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "rec": "Captioned 'Bike ride in Zion Canyon.' The video is a continuous first-person ride along the winding canyon road, with towering red rock cliffs and sparse trees lining the path under a clear blue sky, set to a slow indie folk song \u2014 a meditative, scenic ride through the canyon."
    }
   ]
+ },
+ {
+  "n": "35 \u00b7 Zion National Park",
+  "r": "southwest",
+  "rlabel": "Southwest",
+  "loc": "Springdale, Utah",
+  "site": "Zion National Park",
+  "lat": 37.322167,
+  "lng": -113.004793,
+  "q": "Zion+National+Park+Zion+National+Park+UT",
+  "best": "Top national park",
+  "rec": "His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water.",
+  "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+  "reel_title": "Top 10 National Parks",
+  "creator": "@amorywild",
+  "rank": 7,
+  "also": []
  },
  {
   "n": "1 \u00b7 Avalanche Lake",
@@ -1160,10 +1466,42 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Hiking",
   "creator": "@amorywild",
   "rank": 1,
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdkljjUh48e/",
+    "reel_title": "Wildlife \u2014 Glacier National Park",
+    "creator": "@amorywild",
+    "best": "Black bear / Wildlife",
+    "rec": "Caption names Glacier National Park for a bear encounter. A person walking a bicycle along a paved road passes a small black bear on the grassy shoulder, speaking calmly to it; another voice then asks to hold the bear spray."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #2 national park: Glacier, shown with high mountain ridges, turquoise lakes, and bighorn sheep near a road."
+   }
+  ]
+ },
+ {
+  "n": "3 \u00b7 Mt Henry Trail",
+  "r": "mountain-west",
+  "rlabel": "Mountain West",
+  "loc": "Glacier National Park, Montana",
+  "site": "Glacier National Park",
+  "lat": 48.4533,
+  "lng": -113.343431,
+  "q": "Mt+Henry+Trail+Glacier+National+Park+MT",
+  "best": "Hike / Summit view",
+  "rec": "Caption names the Mt Henry Trail in Glacier National Park. From the summit, the camera pans across rugged snow-dusted peaks, forested valleys, and a distant turquoise lake as a hiker with trekking poles walks the exposed ridge; on-screen text reads, 'On top of the world...'",
+  "reel": "https://www.instagram.com/reel/DdfjmAOzCTR/",
+  "reel_title": "Hiking / Summit view \u2014 Mt Henry Trail",
+  "creator": "@amorywild",
+  "rank": null,
   "also": []
  },
  {
-  "n": "3 \u00b7 Stanton Mountain",
+  "n": "4 \u00b7 Stanton Mountain",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Lake McDonald, Montana",
@@ -1180,7 +1518,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "4 \u00b7 Virginia Falls",
+  "n": "5 \u00b7 Virginia Falls",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "St. Mary, Montana",
@@ -1205,7 +1543,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "5 \u00b7 Artist Point",
+  "n": "6 \u00b7 Artist Point",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1222,7 +1560,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Artists Paint Pots",
+  "n": "7 \u00b7 Artists Paint Pots",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1239,7 +1577,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Bunsen Peak",
+  "n": "8 \u00b7 Bunsen Peak",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1256,7 +1594,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Fairy Falls",
+  "n": "9 \u00b7 Fairy Falls",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1273,7 +1611,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Firehole Falls",
+  "n": "10 \u00b7 Firehole Falls",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1290,7 +1628,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Gibbon Falls",
+  "n": "11 \u00b7 Gibbon Falls",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1307,7 +1645,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Grand Prismatic Spring",
+  "n": "12 \u00b7 Grand Prismatic Spring",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1324,7 +1662,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Grand Teton National Park",
+  "n": "13 \u00b7 Grand Teton National Park",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Moose, Wyoming",
@@ -1338,10 +1676,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Wildlife Viewing",
   "creator": "@amorywild",
   "rank": 5,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #6 national park: Grand Teton, shown with snow-capped peaks reflected in a lake and a moose by the roadside."
+   }
+  ]
  },
  {
-  "n": "13 \u00b7 Grotto Geyser",
+  "n": "14 \u00b7 Grotto Geyser",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1358,7 +1704,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Hidden Falls",
+  "n": "15 \u00b7 Hidden Falls",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Jenny Lake, Wyoming",
@@ -1375,7 +1721,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Jenny Lake",
+  "n": "16 \u00b7 Jenny Lake",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Jenny Lake, Wyoming",
@@ -1392,7 +1738,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Lamar Valley",
+  "n": "17 \u00b7 Lamar Valley",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1409,7 +1755,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 LeHardy Rapids",
+  "n": "18 \u00b7 LeHardy Rapids",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1426,7 +1772,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Mammoth Hot Springs",
+  "n": "19 \u00b7 Lower Yellowstone Falls",
+  "r": "mountain-west",
+  "rlabel": "Mountain West",
+  "loc": "Yellowstone National Park, Wyoming",
+  "site": "Yellowstone National Park",
+  "lat": 44.717981,
+  "lng": -110.496292,
+  "q": "Lower+Yellowstone+Falls+Yellowstone+National+Park+WY",
+  "best": "Waterfall",
+  "rec": "His #3 waterfall: Lower Yellowstone Falls, shown plunging into the Grand Canyon of the Yellowstone between colorful canyon walls.",
+  "reel": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
+  "reel_title": "Top 5 National Park Waterfalls",
+  "creator": "@amorywild",
+  "rank": 3,
+  "also": []
+ },
+ {
+  "n": "20 \u00b7 Mammoth Hot Springs",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1443,7 +1806,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Morning Glory Pool",
+  "n": "21 \u00b7 Morning Glory Pool",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1460,7 +1823,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "20 \u00b7 Mud Volcano",
+  "n": "22 \u00b7 Mud Volcano",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1477,7 +1840,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Norris Geyser Basin",
+  "n": "23 \u00b7 Norris Geyser Basin",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1494,7 +1857,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 Old Faithful",
+  "n": "24 \u00b7 Old Faithful",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1511,7 +1874,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "23 \u00b7 Trout Lake",
+  "n": "25 \u00b7 Trout Lake",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1528,7 +1891,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Undine Falls",
+  "n": "26 \u00b7 Undine Falls",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1545,7 +1908,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "25 \u00b7 West Thumb Geyser Basin",
+  "n": "27 \u00b7 West Thumb Geyser Basin",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1562,7 +1925,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Yellowstone Lake",
+  "n": "28 \u00b7 Yellowstone Lake",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Yellowstone National Park, Wyoming",
@@ -1579,7 +1942,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 Yellowstone National Park",
+  "n": "29 \u00b7 Yellowstone National Park",
   "r": "mountain-west",
   "rlabel": "Mountain West",
   "loc": "Gardiner, Wyoming",
@@ -1600,6 +1963,20 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Wildlife",
     "rec": "Tagged location Yellowstone. On-screen text: 'A home with a view...' The video zooms in on a marmot nestled in a crevice between boulders, then pans to reveal its 'view': a tall, powerful waterfall cascading down a sheer cliff into a calm pool, snow patches near the top. The waterfall is not named anywhere in the post, so this entry is at park level."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdnMCCbN6CM/",
+    "reel_title": "Wildlife \u2014 Yellowstone National Park",
+    "creator": "@amorywild",
+    "best": "Bison calves / Wildlife",
+    "rec": "Caption names Yellowstone for wildlife. An adult bison grazes in a grassland while a small reddish calf takes tentative steps nearby; on-screen text reads, 'Bring me back to red dog season...', referring to newborn bison calves' red coats."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #1 national park: Yellowstone, shown with bison including a calf, grizzly bears in meadows, and Lower Falls with a rainbow."
    }
   ]
  },
@@ -1652,7 +2029,15 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Island National Parks",
   "creator": "@amorywild",
   "rank": 3,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdgyUvPBO7P/",
+    "reel_title": "Wildlife \u2014 Channel Islands National Park",
+    "creator": "@amorywild",
+    "best": "Wildlife",
+    "rec": "Caption and the tagged location place the clip in Channel Islands National Park (the source tag spells it 'Channel Island National Park'). Several small gray-brown animals chase, wrestle, and tumble around a wooden post, rock border, bushes, and grass while on-screen text asks, 'Umm... what am I witnessing?'"
+   }
+  ]
  },
  {
   "n": "4 \u00b7 Dante's View",
@@ -1708,11 +2093,35 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Top national park",
     "rec": "Ranked #15, displaying salt flats, colorful badlands and canyons."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Dd1VBxKPvQU/",
+    "reel_title": "Top 5 National Parks for Sunrises/Sets",
+    "creator": "@amorywild",
+    "best": "Sunrise / Sunset",
+    "rec": "His #1 park for sunrises and sunsets: Death Valley, specifically citing Zabriskie Point, Artist's Palette, and Dante's View, with colorful badlands, salt flats, and desert mountains at sunrise and sunset."
    }
   ]
  },
  {
-  "n": "6 \u00b7 Ella Falls",
+  "n": "6 \u00b7 Eagle Peak",
+  "r": "west",
+  "rlabel": "West",
+  "loc": "Yosemite National Park, California",
+  "site": "Yosemite National Park",
+  "lat": 37.745995,
+  "lng": -119.61471,
+  "q": "Eagle+Peak+Yosemite+National+Park+CA",
+  "best": "Hike / View",
+  "rec": "His #3 hike: Eagle Peak in Yosemite National Park, praised for expansive views of Yosemite Valley, Half Dome, and surrounding granite cliffs.",
+  "reel": "https://www.instagram.com/reel/Ddpitf0BMb-/",
+  "reel_title": "Top 5 National Park Hikes",
+  "creator": "@amorywild",
+  "rank": 3,
+  "also": []
+ },
+ {
+  "n": "7 \u00b7 Ella Falls",
   "r": "west",
   "rlabel": "West",
   "loc": "Grant Grove, California",
@@ -1729,7 +2138,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Fern Canyon",
+  "n": "8 \u00b7 Fern Canyon",
   "r": "west",
   "rlabel": "West",
   "loc": "Orick, California",
@@ -1746,7 +2155,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Four Mile Trail to Glacier Point",
+  "n": "9 \u00b7 Four Mile Trail to Glacier Point",
   "r": "west",
   "rlabel": "West",
   "loc": "Yosemite Village, California",
@@ -1778,7 +2187,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "9 \u00b7 Gold Bluffs Beach",
+  "n": "10 \u00b7 Gold Bluffs Beach",
   "r": "west",
   "rlabel": "West",
   "loc": "Redwood National Park, California",
@@ -1795,7 +2204,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Gower Gulch",
+  "n": "11 \u00b7 Gower Gulch",
   "r": "west",
   "rlabel": "West",
   "loc": "Death Valley National Park, California",
@@ -1812,7 +2221,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 High Peaks Trail",
+  "n": "12 \u00b7 High Peaks Trail",
   "r": "west",
   "rlabel": "West",
   "loc": "Pinnacles National Park, California",
@@ -1829,7 +2238,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Inspiration Peak (Inspiration Point)",
+  "n": "13 \u00b7 Inspiration Peak (Inspiration Point)",
   "r": "west",
   "rlabel": "West",
   "loc": "Joshua Tree, California",
@@ -1846,7 +2255,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "13 \u00b7 Joshua Tree National Park",
+  "n": "14 \u00b7 Joshua Tree National Park",
   "r": "west",
   "rlabel": "West",
   "loc": "Joshua Tree, California",
@@ -1863,7 +2272,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Manzanita Lake",
+  "n": "15 \u00b7 Manzanita Lake",
   "r": "west",
   "rlabel": "West",
   "loc": "Manzanita Lake, California",
@@ -1880,7 +2289,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Monterey Bay",
+  "n": "16 \u00b7 Monterey Bay",
   "r": "west",
   "rlabel": "West",
   "loc": "Monterey, California",
@@ -1897,7 +2306,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Moro Rock",
+  "n": "17 \u00b7 Moro Rock",
   "r": "west",
   "rlabel": "West",
   "loc": "Giant Forest, California",
@@ -1922,7 +2331,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "17 \u00b7 Pinnacles National Park",
+  "n": "18 \u00b7 Pinnacles National Park",
   "r": "west",
   "rlabel": "West",
   "loc": "Paicines, California",
@@ -1936,10 +2345,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Underrated National Parks",
   "creator": "@amorywild",
   "rank": 3,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdytARbBESa/",
+    "reel_title": "Wildlife \u2014 Pinnacles National Park",
+    "creator": "@amorywild",
+    "best": "California condor / Wildlife",
+    "rec": "Caption names Pinnacles NP for wildlife. The video shows an endangered California condor perched atop a tall pine between rock formations; it spreads its massive wings, revealing white patches underneath, and glides past the cliffs."
+   }
+  ]
  },
  {
-  "n": "18 \u00b7 Pinole",
+  "n": "19 \u00b7 Pinole",
   "r": "west",
   "rlabel": "West",
   "loc": "Pinole, California",
@@ -1956,7 +2373,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Potato Harbor",
+  "n": "20 \u00b7 Potato Harbor",
   "r": "west",
   "rlabel": "West",
   "loc": "Santa Cruz Island, California",
@@ -1973,7 +2390,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "20 \u00b7 Redwood National Park",
+  "n": "21 \u00b7 Redwood National Park",
   "r": "west",
   "rlabel": "West",
   "loc": "Orick, California",
@@ -1990,7 +2407,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Santa Cruz Island",
+  "n": "22 \u00b7 Santa Cruz Island",
   "r": "west",
   "rlabel": "West",
   "loc": "Santa Cruz Island, California",
@@ -2007,7 +2424,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 Sequoia National Park",
+  "n": "23 \u00b7 Sequoia National Park",
   "r": "west",
   "rlabel": "West",
   "loc": "Giant Forest, California",
@@ -2024,7 +2441,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "23 \u00b7 Shark Fin Cove",
+  "n": "24 \u00b7 Shark Fin Cove",
   "r": "west",
   "rlabel": "West",
   "loc": "Davenport, California",
@@ -2049,7 +2466,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "24 \u00b7 Tokopah Falls",
+  "n": "25 \u00b7 Tokopah Falls",
   "r": "west",
   "rlabel": "West",
   "loc": "Lodgepole, California",
@@ -2066,7 +2483,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "25 \u00b7 Trail of the Sequoias",
+  "n": "26 \u00b7 Trail of the Sequoias",
   "r": "west",
   "rlabel": "West",
   "loc": "Giant Forest, California",
@@ -2083,7 +2500,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Tunnel View",
+  "n": "27 \u00b7 Tunnel View",
   "r": "west",
   "rlabel": "West",
   "loc": "Yosemite National Park, California",
@@ -2100,7 +2517,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 Valley View",
+  "n": "28 \u00b7 Valley View",
   "r": "west",
   "rlabel": "West",
   "loc": "Yosemite Village, California",
@@ -2117,7 +2534,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "28 \u00b7 Vernal Falls",
+  "n": "29 \u00b7 Vernal Falls",
   "r": "west",
   "rlabel": "West",
   "loc": "Yosemite National Park, California",
@@ -2134,7 +2551,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Yosemite Falls",
+  "n": "30 \u00b7 Wapama Falls",
+  "r": "west",
+  "rlabel": "West",
+  "loc": "Yosemite National Park, California",
+  "site": "Yosemite National Park",
+  "lat": 37.967878,
+  "lng": -119.76553,
+  "q": "Wapama+Falls+Yosemite+National+Park+CA",
+  "best": "Waterfall",
+  "rec": "His #4 waterfall: Wapama Falls in Yosemite National Park, a powerful, misty fall crashing over boulders into the river leading toward Hetch Hetchy Reservoir.",
+  "reel": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
+  "reel_title": "Top 5 National Park Waterfalls",
+  "creator": "@amorywild",
+  "rank": 4,
+  "also": []
+ },
+ {
+  "n": "31 \u00b7 Yosemite Falls",
   "r": "west",
   "rlabel": "West",
   "loc": "Yosemite Village, California",
@@ -2148,10 +2582,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall / Viewpoint \u2014 Yosemite Falls",
   "creator": "@amorywild",
   "rank": null,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
+    "reel_title": "Top 5 National Park Waterfalls",
+    "creator": "@amorywild",
+    "best": "Waterfall",
+    "rec": "His #2 waterfall: Yosemite Falls, presented as one of North America's tallest waterfalls and shown from the valley floor, its base, and an aerial view from the top."
+   }
+  ]
  },
  {
-  "n": "30 \u00b7 Yosemite National Park",
+  "n": "32 \u00b7 Yosemite National Park",
   "r": "west",
   "rlabel": "West",
   "loc": "Yosemite National Park, California",
@@ -2165,10 +2607,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Hiking",
   "creator": "@amorywild",
   "rank": 3,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #3 national park: Yosemite, shown with Half Dome valley views and a large waterfall."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdZQKoUO2zE/",
+    "reel_title": "Waterfall \u2014 Yosemite National Park",
+    "creator": "@amorywild",
+    "best": "Waterfall / Rainbow",
+    "rec": "Caption asks, 'Is this the most perfect waterfall?' and tags Yosemite. The video pans across a powerful waterfall dropping over dark granite into a churning pool, its thick mist sustaining a vivid rainbow; on-screen text reads, 'Follow the rainbow...' The specific waterfall is not named."
+   }
+  ]
  },
  {
-  "n": "31 \u00b7 Zabriskie Point",
+  "n": "33 \u00b7 Zabriskie Point",
   "r": "west",
   "rlabel": "West",
   "loc": "Death Valley, California",
@@ -2207,7 +2664,15 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall \u2014 Comet Falls",
   "creator": "@amorywild",
   "rank": null,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdEPGaTtAk0/",
+    "reel_title": "Hiking / Waterfall \u2014 Comet Falls Trail",
+    "creator": "@amorywild",
+    "best": "Hike / Waterfall",
+    "rec": "Caption names Rainier's Comet Falls Trail but adds 'but not comet falls.' A hiker with trekking poles stands on a log bridge over a fast white-water stream, and the camera reveals a rocky riverbed and a multi-tiered waterfall cascading down a moss-covered slope in evergreen forest."
+   }
+  ]
  },
  {
   "n": "2 \u00b7 Diablo Lake Overlook",
@@ -2265,6 +2730,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Hike",
     "rec": "His #4 for hiking: lush green forests, powerful waterfalls flowing under a stone bridge, alpine lakes surrounded by snow patches, and expansive mountain vistas under blue skies."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddc6IPNsSQy/",
+    "reel_title": "Wildlife \u2014 Mount Rainier National Park",
+    "creator": "@amorywild",
+    "best": "Marmots / Wildlife",
+    "rec": "Caption names Mount Rainier National Park for marmots. The comic clip cuts between a marmot standing alert in dry brush and two marmots on snow, one partly in a burrow, with the text, 'When her ex looks over...'"
    }
   ]
  },
@@ -2300,7 +2772,15 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Easy National Park Hikes",
   "creator": "@amorywild",
   "rank": 4,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
+    "reel_title": "Top 5 National Park Waterfalls",
+    "creator": "@amorywild",
+    "best": "Waterfall",
+    "rec": "His #5 waterfall: Myrtle Falls at Mount Rainier National Park, shown as a wide cascade with the mountain's snow-covered peak behind it."
+   }
+  ]
  },
  {
   "n": "7 \u00b7 North Cascades National Park",
@@ -2317,10 +2797,57 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Hiking",
   "creator": "@amorywild",
   "rank": 2,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/Ddyq3UhtEkw/",
+    "reel_title": "Wildlife \u2014 North Cascades National Park",
+    "creator": "@amorywild",
+    "best": "Wildlife",
+    "rec": "Caption calls the moment a 'life highlight' in North Cascades. On a steep rocky alpine slope, the camera zooms in on a pika while the filmer whispers excitedly and points out a marmot farther up the rocks."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #5 national park: North Cascades, shown with rugged snowy mountains and a turquoise lake."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdAb42fK2kg/",
+    "reel_title": "Scenic hike \u2014 North Cascades National Park",
+    "creator": "@amorywild",
+    "best": "View / Hike",
+    "rec": "Caption asks, 'Could it be North Cascades?' and on-screen text calls it 'The greatest national park no one knows...' A hiker climbs a rocky alpine trail toward glaciated peaks as the camera pans across rugged mountains, green valleys, and lingering snowfields. No specific trail is named."
+   }
+  ]
  },
  {
-  "n": "8 \u00b7 Snow Lake",
+  "n": "8 \u00b7 Olympic National Park",
+  "r": "pacific-northwest",
+  "rlabel": "Pacific Northwest",
+  "loc": "Port Angeles, Washington",
+  "site": "Olympic National Park",
+  "lat": 47.786532,
+  "lng": -123.53605,
+  "q": "Olympic+National+Park+Olympic+National+Park+WA",
+  "best": "Overlooked view / View",
+  "rec": "Caption calls Olympic's best part overlooked. From a rocky mountain overlook, the video pans across moss- and lichen-covered rock, deep evergreen valleys, and distant snow-capped ranges; on-screen text reads, 'So many people miss this part of Olympic...' No specific trail or overlook is named.",
+  "reel": "https://www.instagram.com/reel/DdhK7LuBNJP/",
+  "reel_title": "Scenic viewpoint \u2014 Olympic National Park",
+  "creator": "@amorywild",
+  "rank": null,
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #10 national park: Olympic, shown with mountain vistas and a deer grazing."
+   }
+  ]
+ },
+ {
+  "n": "9 \u00b7 Snow Lake",
   "r": "pacific-northwest",
   "rlabel": "Pacific Northwest",
   "loc": "Mount Rainier National Park, Washington",
@@ -2337,7 +2864,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Sol Duc Falls",
+  "n": "10 \u00b7 Sol Duc Falls",
   "r": "pacific-northwest",
   "rlabel": "Pacific Northwest",
   "loc": "Sol Duc, Washington",
@@ -2354,7 +2881,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Sourdough Mountain",
+  "n": "11 \u00b7 Sourdough Mountain",
   "r": "pacific-northwest",
   "rlabel": "Pacific Northwest",
   "loc": "Newhalem, Washington",
@@ -2375,11 +2902,35 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Hike",
     "rec": "Ranked #3 in this list, featuring vistas of a bright turquoise lake surrounded by snow-capped peaks and dense forests."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddpitf0BMb-/",
+    "reel_title": "Top 5 National Park Hikes",
+    "creator": "@amorywild",
+    "best": "Hike / View",
+    "rec": "His #1 hike: Sourdough Mountain in North Cascades National Park, called his best overall hike for its sweeping vista of a turquoise lake surrounded by snow-capped mountains."
    }
   ]
  },
  {
-  "n": "1 \u00b7 Denali National Park and Preserve",
+  "n": "1 \u00b7 Cataract Cove",
+  "r": "alaska",
+  "rlabel": "Alaska",
+  "loc": "Kenai Fjords National Park, Alaska",
+  "site": "Kenai Fjords National Park",
+  "lat": 59.714167,
+  "lng": -149.817222,
+  "q": "Cataract+Cove+Kenai+Fjords+National+Park+AK",
+  "best": "Waterfall",
+  "rec": "His #1 waterfall: Cataract Cove in Kenai Fjords National Park, where numerous waterfalls cascade directly from steep coastal cliffs into the ocean, filmed from a boat.",
+  "reel": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
+  "reel_title": "Top 5 National Park Waterfalls",
+  "creator": "@amorywild",
+  "rank": 1,
+  "also": []
+ },
+ {
+  "n": "2 \u00b7 Denali National Park and Preserve",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "Healy, Alaska",
@@ -2400,11 +2951,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Flightseeing",
     "rec": "His #4 in 'Ranking Alaskan National Parks Part 2': he describes flying around the mountain as one of the coolest experiences, with aerial footage of snow-covered peaks above clouds and a hiker overlooking a vast green valley."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddm4CJGhqwp/",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "creator": "@amorywild",
+    "best": "Flightseeing / View",
+    "rec": "His #2 Alaska experience: the Denali Flight Tour, with aerial views of snow-capped Denali above clouds, rugged ridges, and vast glaciers."
    }
   ]
  },
  {
-  "n": "2 \u00b7 Exit Glacier",
+  "n": "3 \u00b7 Exit Glacier",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "Kenai Fjords National Park, Alaska",
@@ -2421,7 +2979,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "3 \u00b7 Gates of the Arctic National Park",
+  "n": "4 \u00b7 Gates of the Arctic National Park",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "Bettles, Alaska",
@@ -2453,7 +3011,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "4 \u00b7 Glacier Bay National Park and Preserve",
+  "n": "5 \u00b7 Glacier Bay National Park and Preserve",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "Gustavus, Alaska",
@@ -2481,11 +3039,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Boat tour / Wildlife",
     "rec": "His #6: an 8-hour tour with abundant wildlife \u2014 massive tidewater glaciers, sea otters floating in kelp, snow-capped coastal mountains, sea lions on rocks, mountain goats on cliffs, and extensive ice floes in turquoise water."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdwXI8jNIIc/",
+    "reel_title": "Wildlife \u2014 Glacier Bay National Park and Preserve",
+    "creator": "@amorywild",
+    "best": "Harbor seals / Wildlife",
+    "rec": "Caption names Glacier Bay NP. In a glacial fjord with turquoise water, ice chunks, and snow-capped mountains, roughly seven or eight harbor seals lie together on an ice floe and lift their heads toward the camera."
    }
   ]
  },
  {
-  "n": "5 \u00b7 Katmai National Park and Preserve",
+  "n": "6 \u00b7 Katmai National Park and Preserve",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "King Salmon, Alaska",
@@ -2520,11 +3085,46 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Wildlife",
     "rec": "His #1, which he calls his single coolest experience: multiple brown bears at Brooks Falls catching salmon, bears walking on trails, and cubs playing in shallow water."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Dd5CepOp12J/",
+    "reel_title": "Wildlife \u2014 Katmai National Park and Preserve",
+    "creator": "@amorywild",
+    "best": "Bear viewing / Wildlife",
+    "rec": "Caption names Katmai NP for wildlife. The video shows a mother brown bear climbing down a tall evergreen while two cubs wait high in the branches; on-screen text reads, 'Mom knows best...'"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdnGL8DJGAy/",
+    "reel_title": "Wildlife \u2014 Katmai National Park and Preserve",
+    "creator": "@amorywild",
+    "best": "Bear viewing / Wildlife",
+    "rec": "Caption names Katmai for wildlife. A mother brown bear holds and eats a fish in a calm river while two cubs swim nearby; on-screen text jokes, 'Mom, just share a little...'"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddm4CJGhqwp/",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "creator": "@amorywild",
+    "best": "Camping / Bear viewing",
+    "rec": "His #1 Alaska experience: camping in Katmai, highlighted by close footage of brown bears fishing at Brooks Falls, bears wading in rivers and walking on a road, and a porcupine near the campsite."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddc9jptussA/",
+    "reel_title": "Wildlife \u2014 Katmai National Park and Preserve",
+    "creator": "@amorywild",
+    "best": "Bear viewing / Wildlife",
+    "rec": "Caption names Katmai NP for wildlife. From an elevated riverbank viewpoint, an adult brown bear and a juvenile enter the river and splash downstream after each other while other bears are visible in the background; on-screen text reads, 'Mama bear doesn't play...'"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
+    "reel_title": "Top 10 National Parks",
+    "creator": "@amorywild",
+    "best": "Top national park",
+    "rec": "His #4 national park: Katmai, focusing on brown bears fishing at waterfalls and walking along a path."
    }
   ]
  },
  {
-  "n": "6 \u00b7 Kenai Fjords National Park",
+  "n": "7 \u00b7 Kenai Fjords National Park",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "Seward, Alaska",
@@ -2559,11 +3159,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Boat tour / Wildlife",
     "rec": "His #2: he praises a boat tour for pristine blue pools, waterfalls, seals on ice floes, sea otters floating, sea lions on rocks, and a massive glacier calving into the water."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddm4CJGhqwp/",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "creator": "@amorywild",
+    "best": "Boat tour / Wildlife",
+    "rec": "His #3 Alaska experience: the Kenai Fjords Boat Tour, featuring waterfalls on green cliffs, sea-lion colonies, sea otters, and massive tidewater glaciers calving into the sea."
    }
   ]
  },
  {
-  "n": "7 \u00b7 Kobuk Valley National Park",
+  "n": "8 \u00b7 Kobuk Valley National Park",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "Kotzebue, Alaska",
@@ -2595,7 +3202,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "8 \u00b7 Lake Clark National Park and Preserve",
+  "n": "9 \u00b7 Lake Clark National Park and Preserve",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "Port Alsworth, Alaska",
@@ -2623,11 +3230,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Wildlife / Scenery",
     "rec": "His #5: praised for stunning scenery and wildlife \u2014 green meadows with brown bears including a mother with three cubs, aerial views of braided glacial rivers, and dramatic snow-covered mountain peaks."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdwVrJouVO9/",
+    "reel_title": "Wildlife / Scenic flight \u2014 Lake Clark National Park and Preserve",
+    "creator": "@amorywild",
+    "best": "Aerial view / Glacier scenery",
+    "rec": "Caption names Lake Clark NP. From a small aircraft, the video pans across rugged snow-covered peaks and extensive glaciers; on-screen text reads, 'Hoping to see a view this beautiful again one day...'"
    }
   ]
  },
  {
-  "n": "9 \u00b7 Root Glacier",
+  "n": "10 \u00b7 Root Glacier",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "McCarthy, Alaska",
@@ -2648,11 +3262,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Featured spot (guessing game)",
     "rec": "Second photo, revealed as Wrangell-St. Elias National Park, the Root Glacier Trail, showing a forested trail with mountains."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/Ddm4CJGhqwp/",
+    "reel_title": "My 5 Favorite Experiences in Alaska",
+    "creator": "@amorywild",
+    "best": "Glacier hike",
+    "rec": "His #4 Alaska experience: hiking on the Root Glacier in Wrangell-St. Elias National Park, with expansive ice fields, blue meltwater pools, and crevasses."
    }
   ]
  },
  {
-  "n": "10 \u00b7 Ukak Falls",
+  "n": "11 \u00b7 Ukak Falls",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "Valley of Ten Thousand Smokes, Alaska",
@@ -2669,7 +3290,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Wrangell-St. Elias National Park and Preserve",
+  "n": "12 \u00b7 Valley of 10,000 Smokes Bus Tour",
+  "r": "alaska",
+  "rlabel": "Alaska",
+  "loc": "Katmai National Park and Preserve, Alaska",
+  "site": "Katmai National Park and Preserve",
+  "lat": 58.316702,
+  "lng": -155.232861,
+  "q": "Valley+of+10,000+Smokes+Bus+Tour+Katmai+National+Park+and+Preserve+AK",
+  "best": "Bus tour / Volcanic landscape",
+  "rec": "His #5 Alaska experience: the Valley of 10,000 Smokes Bus Tour in Katmai, shown with a muddy river cutting through tall tan volcanic cliffs.",
+  "reel": "https://www.instagram.com/reel/Ddm4CJGhqwp/",
+  "reel_title": "My 5 Favorite Experiences in Alaska",
+  "creator": "@amorywild",
+  "rank": 5,
+  "also": []
+ },
+ {
+  "n": "13 \u00b7 Wrangell-St. Elias National Park and Preserve",
   "r": "alaska",
   "rlabel": "Alaska",
   "loc": "McCarthy, Alaska",
@@ -2861,6 +3499,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Island park",
     "rec": "His #2 island park: rugged, wave-battered coastlines, lush green mountains, a harbor town view, a person walking a rocky beach, a jungle waterfall, and vibrant coral reef underwater. (US territory \u2014 kept under the user's USA rule.)"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DdsTSw2xIDQ/",
+    "reel_title": "Coastal scenery \u2014 National Park of American Samoa",
+    "creator": "@amorywild",
+    "best": "Remote coastline / View",
+    "rec": "Caption names the National Park of American Samoa. The video pans across a remote volcanic coastline where turquoise waves crash on dark rocks beneath steep, densely green hills and mountainous islands; on-screen text reads, 'Very few people ever lay eyes on this place...'"
    }
   ]
  },
@@ -2899,5 +3544,5 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 2<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 21<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 3<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 31<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 27<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 31<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 10<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 11<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 6<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 22<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 4<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 35<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 29<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 33<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 11<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 13<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>
