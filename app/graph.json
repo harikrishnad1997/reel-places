@@ -2528,6 +2528,105 @@
    }
   },
   {
+   "id": "reel:Der2jZzGNin",
+   "type": "Reel",
+   "properties": {
+    "name": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "url": "https://www.instagram.com/p/Der2jZzGNin/",
+    "title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "creator": "@discovery_matt",
+    "theme": "Best Eastern U.S. waterfalls",
+    "places_count": 39,
+    "recommendation_summary": "Ranked list of the best waterfalls in the Eastern U.S. (Niagara Falls #1), read from the post's infographic image: 39 of the advertised 40 names were legible and all 39 are included with their ranks; 2 were already on the map (Niagara Falls, Bash Bish Falls) and took this as an extra source.",
+    "posted": "2026-10-19",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "reel:DdHyZ9qRHJZ",
+   "type": "Reel",
+   "properties": {
+    "name": "Overnight Astronomy Observation Field — Cherry Springs State Park",
+    "url": "https://www.instagram.com/reel/DdHyZ9qRHJZ/",
+    "title": "Overnight Astronomy Observation Field — Cherry Springs State Park",
+    "creator": "@visitdarkskiespa",
+    "theme": "Cherry Springs astronomy field guide",
+    "places_count": 1,
+    "recommendation_summary": "Guide to Cherry Springs State Park's Overnight Astronomy Observation Field — permit required, red lights only, telescope pads with power and WiFi, quiet hours midnight–9 AM.",
+    "posted": "2026-09-10",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:visitdarkskiespa",
+   "type": "Creator",
+   "properties": {
+    "name": "@visitdarkskiespa",
+    "handle": "@visitdarkskiespa",
+    "display_name": "Visit Dark Skies PA"
+   }
+  },
+  {
+   "id": "theme:cherry-springs-astronomy-field-guide",
+   "type": "Theme",
+   "properties": {
+    "name": "Cherry Springs astronomy field guide"
+   }
+  },
+  {
+   "id": "reel:DZvgowxyUv7",
+   "type": "Reel",
+   "properties": {
+    "name": "When Zion is too packed — 5 spots about an hour away (Kanab area)",
+    "url": "https://www.instagram.com/reel/DZvgowxyUv7/",
+    "title": "When Zion is too packed — 5 spots about an hour away (Kanab area)",
+    "creator": "@giselle.on.trails",
+    "theme": "Zion alternatives near Kanab",
+    "places_count": 5,
+    "recommendation_summary": "Five Zion alternatives within about an hour of Zion National Park: Kanab Sand Caves (Moqui Caverns), Red Slot Canyon, Toquerville Falls, Kanarra Falls (permit) and Water Canyon near Hildale — the 'mini Subway'.",
+    "posted": "2026-06-18",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:giselle-on-trails",
+   "type": "Creator",
+   "properties": {
+    "name": "@giselle.on.trails",
+    "handle": "@giselle.on.trails",
+    "display_name": "Giselle"
+   }
+  },
+  {
+   "id": "theme:zion-alternatives-near-kanab",
+   "type": "Theme",
+   "properties": {
+    "name": "Zion alternatives near Kanab"
+   }
+  },
+  {
+   "id": "reel:DfKQdjWx1L3",
+   "type": "Reel",
+   "properties": {
+    "name": "9 Places in Utah That Look Unreal — None in a National Park",
+    "url": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+    "title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "creator": "@adventurefamilyvlog",
+    "theme": "Utah beyond the national parks",
+    "places_count": 6,
+    "recommendation_summary": "Nine unreal Utah spots outside the national parks: Grand Staircase-Escalante, Long Dong Silver, Factory Butte, Bentonite Hills, Potash Road, the Great Salt Lake's pink water, Bonneville Salt Flats and Marlboro Point are pinned; #7, 'Utah's Dark Sky Destinations', is a theme rather than a single place, so it has no pin.",
+    "posted": "2026-10-31",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "theme:utah-beyond-the-national-parks",
+   "type": "Theme",
+   "properties": {
+    "name": "Utah beyond the national parks"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -7456,6 +7555,1261 @@
    "properties": {
     "name": "Palisade Head"
    }
+  },
+  {
+   "id": "place:cumberland-falls-ky",
+   "type": "Place",
+   "properties": {
+    "name": "Cumberland Falls",
+    "place_id": "cumberland-falls-ky",
+    "site": "Cumberland Falls State Resort Park",
+    "city": "Corbin",
+    "state": "Kentucky",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 36.83871,
+    "lng": -84.34506,
+    "google_maps_query": "Cumberland+Falls+KY",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-kentucky",
+   "type": "State",
+   "properties": {
+    "name": "Kentucky",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:cumberland-falls-state-resort-park",
+   "type": "Site",
+   "properties": {
+    "name": "Cumberland Falls State Resort Park"
+   }
+  },
+  {
+   "id": "place:amicalola-falls-ga",
+   "type": "Place",
+   "properties": {
+    "name": "Amicalola Falls",
+    "place_id": "amicalola-falls-ga",
+    "site": "Amicalola Falls State Park",
+    "city": "Dawsonville",
+    "state": "Georgia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 34.56741,
+    "lng": -84.24427,
+    "google_maps_query": "Amicalola+Falls+GA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-georgia",
+   "type": "State",
+   "properties": {
+    "name": "Georgia",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:amicalola-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Amicalola Falls State Park"
+   }
+  },
+  {
+   "id": "place:taughannock-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Taughannock Falls",
+    "place_id": "taughannock-falls-ny",
+    "site": "Taughannock Falls State Park",
+    "city": "Ithaca",
+    "state": "New York",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.53561,
+    "lng": -76.61046,
+    "google_maps_query": "Taughannock+Falls+NY",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:taughannock-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Taughannock Falls State Park"
+   }
+  },
+  {
+   "id": "place:upper-whitewater-falls-nc",
+   "type": "Place",
+   "properties": {
+    "name": "Upper Whitewater Falls",
+    "place_id": "upper-whitewater-falls-nc",
+    "site": "Upper Whitewater Falls",
+    "city": "Sapphire",
+    "state": "North Carolina",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.03606,
+    "lng": -83.01777,
+    "google_maps_query": "Upper+Whitewater+Falls+NC",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-north-carolina",
+   "type": "State",
+   "properties": {
+    "name": "North Carolina",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:upper-whitewater-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Upper Whitewater Falls"
+   }
+  },
+  {
+   "id": "place:kaaterskill-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Kaaterskill Falls",
+    "place_id": "kaaterskill-falls-ny",
+    "site": "Kaaterskill Falls",
+    "city": "Haines Falls",
+    "state": "New York",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.19351,
+    "lng": -74.06394,
+    "google_maps_query": "Kaaterskill+Falls+NY",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:kaaterskill-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Kaaterskill Falls"
+   }
+  },
+  {
+   "id": "place:blackwater-falls-wv",
+   "type": "Place",
+   "properties": {
+    "name": "Blackwater Falls",
+    "place_id": "blackwater-falls-wv",
+    "site": "Blackwater Falls State Park",
+    "city": "Davis",
+    "state": "West Virginia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 39.11351,
+    "lng": -79.48301,
+    "google_maps_query": "Blackwater+Falls+WV",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-west-virginia",
+   "type": "State",
+   "properties": {
+    "name": "West Virginia",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:blackwater-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Blackwater Falls State Park"
+   }
+  },
+  {
+   "id": "place:linville-falls-nc",
+   "type": "Place",
+   "properties": {
+    "name": "Linville Falls",
+    "place_id": "linville-falls-nc",
+    "site": "Linville Falls",
+    "city": "Linville",
+    "state": "North Carolina",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.94972,
+    "lng": -81.92691,
+    "google_maps_query": "Linville+Falls+NC",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:linville-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Linville Falls"
+   }
+  },
+  {
+   "id": "place:dry-falls-nc",
+   "type": "Place",
+   "properties": {
+    "name": "Dry Falls",
+    "place_id": "dry-falls-nc",
+    "site": "Dry Falls",
+    "city": "Highlands",
+    "state": "North Carolina",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.06811,
+    "lng": -83.23846,
+    "google_maps_query": "Dry+Falls+Highlands+NC",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:dry-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Dry Falls"
+   }
+  },
+  {
+   "id": "place:burgess-falls-tn",
+   "type": "Place",
+   "properties": {
+    "name": "Burgess Falls",
+    "place_id": "burgess-falls-tn",
+    "site": "Burgess Falls State Park",
+    "city": "Sparta",
+    "state": "Tennessee",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 36.04546,
+    "lng": -85.59944,
+    "google_maps_query": "Burgess+Falls+TN",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-tennessee",
+   "type": "State",
+   "properties": {
+    "name": "Tennessee",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:burgess-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Burgess Falls State Park"
+   }
+  },
+  {
+   "id": "place:looking-glass-falls-nc",
+   "type": "Place",
+   "properties": {
+    "name": "Looking Glass Falls",
+    "place_id": "looking-glass-falls-nc",
+    "site": "Looking Glass Falls (Pisgah National Forest)",
+    "city": "Brevard",
+    "state": "North Carolina",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.29622,
+    "lng": -82.76876,
+    "google_maps_query": "Looking+Glass+Falls+NC",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:looking-glass-falls-pisgah-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Looking Glass Falls (Pisgah National Forest)"
+   }
+  },
+  {
+   "id": "place:middle-falls-letchworth-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Middle Falls (Letchworth)",
+    "place_id": "middle-falls-letchworth-ny",
+    "site": "Letchworth State Park",
+    "city": "Castile",
+    "state": "New York",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.58198,
+    "lng": -78.04509,
+    "google_maps_query": "Middle+Falls+Letchworth+State+Park+NY",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:ganoga-falls-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Ganoga Falls",
+    "place_id": "ganoga-falls-pa",
+    "site": "Ricketts Glen State Park",
+    "city": "Benton",
+    "state": "Pennsylvania",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.32371,
+    "lng": -76.28356,
+    "google_maps_query": "Ganoga+Falls+PA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:rainbow-falls-watkins-glen-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Rainbow Falls (Watkins Glen)",
+    "place_id": "rainbow-falls-watkins-glen-ny",
+    "site": "Watkins Glen State Park",
+    "city": "Watkins Glen",
+    "state": "New York",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.37262,
+    "lng": -76.88281,
+    "google_maps_query": "Rainbow+Falls+Watkins+Glen+NY",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:crabtree-falls-va",
+   "type": "Place",
+   "properties": {
+    "name": "Crabtree Falls (Virginia)",
+    "place_id": "crabtree-falls-va",
+    "site": "Crabtree Falls",
+    "city": "Montebello",
+    "state": "Virginia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 37.85113,
+    "lng": -79.07973,
+    "google_maps_query": "Crabtree+Falls+VA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-virginia",
+   "type": "State",
+   "properties": {
+    "name": "Virginia",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:crabtree-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Crabtree Falls"
+   }
+  },
+  {
+   "id": "place:catawba-falls-nc",
+   "type": "Place",
+   "properties": {
+    "name": "Catawba Falls",
+    "place_id": "catawba-falls-nc",
+    "site": "Catawba Falls",
+    "city": "Old Fort",
+    "state": "North Carolina",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.60399,
+    "lng": -82.24525,
+    "google_maps_query": "Catawba+Falls+NC",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:catawba-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Catawba Falls"
+   }
+  },
+  {
+   "id": "place:arethusa-falls-nh",
+   "type": "Place",
+   "properties": {
+    "name": "Arethusa Falls",
+    "place_id": "arethusa-falls-nh",
+    "site": "Arethusa Falls (Crawford Notch)",
+    "city": "Harts Location",
+    "state": "New Hampshire",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.14665,
+    "lng": -71.39271,
+    "google_maps_query": "Arethusa+Falls+NH",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:arethusa-falls-crawford-notch",
+   "type": "Site",
+   "properties": {
+    "name": "Arethusa Falls (Crawford Notch)"
+   }
+  },
+  {
+   "id": "place:ruby-falls-tn",
+   "type": "Place",
+   "properties": {
+    "name": "Ruby Falls",
+    "place_id": "ruby-falls-tn",
+    "site": "Ruby Falls (Lookout Mountain)",
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.01863,
+    "lng": -85.33904,
+    "google_maps_query": "Ruby+Falls+Chattanooga+TN",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:ruby-falls-lookout-mountain",
+   "type": "Site",
+   "properties": {
+    "name": "Ruby Falls (Lookout Mountain)"
+   }
+  },
+  {
+   "id": "place:sandstone-falls-wv",
+   "type": "Place",
+   "properties": {
+    "name": "Sandstone Falls",
+    "place_id": "sandstone-falls-wv",
+    "site": "Sandstone Falls (New River Gorge)",
+    "city": "Hinton",
+    "state": "West Virginia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 37.75803,
+    "lng": -80.90536,
+    "google_maps_query": "Sandstone+Falls+WV",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:sandstone-falls-new-river-gorge",
+   "type": "Site",
+   "properties": {
+    "name": "Sandstone Falls (New River Gorge)"
+   }
+  },
+  {
+   "id": "place:cummins-falls-tn",
+   "type": "Place",
+   "properties": {
+    "name": "Cummins Falls",
+    "place_id": "cummins-falls-tn",
+    "site": "Cummins Falls State Park",
+    "city": "Cookeville",
+    "state": "Tennessee",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 36.24896,
+    "lng": -85.56992,
+    "google_maps_query": "Cummins+Falls+TN",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:cummins-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Cummins Falls State Park"
+   }
+  },
+  {
+   "id": "place:raymondskill-falls-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Raymondskill Falls",
+    "place_id": "raymondskill-falls-pa",
+    "site": "Raymondskill Falls (Delaware Water Gap)",
+    "city": "Milford",
+    "state": "Pennsylvania",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.29011,
+    "lng": -74.84116,
+    "google_maps_query": "Raymondskill+Falls+PA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:raymondskill-falls-delaware-water-gap",
+   "type": "Site",
+   "properties": {
+    "name": "Raymondskill Falls (Delaware Water Gap)"
+   }
+  },
+  {
+   "id": "place:ozone-falls-tn",
+   "type": "Place",
+   "properties": {
+    "name": "Ozone Falls",
+    "place_id": "ozone-falls-tn",
+    "site": "Ozone Falls State Natural Area",
+    "city": "Crab Orchard",
+    "state": "Tennessee",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.88046,
+    "lng": -84.8099,
+    "google_maps_query": "Ozone+Falls+TN",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:ozone-falls-state-natural-area",
+   "type": "Site",
+   "properties": {
+    "name": "Ozone Falls State Natural Area"
+   }
+  },
+  {
+   "id": "place:glen-ellis-falls-nh",
+   "type": "Place",
+   "properties": {
+    "name": "Glen Ellis Falls",
+    "place_id": "glen-ellis-falls-nh",
+    "site": "Glen Ellis Falls (Pinkham Notch)",
+    "city": "Jackson",
+    "state": "New Hampshire",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.24423,
+    "lng": -71.25247,
+    "google_maps_query": "Glen+Ellis+Falls+NH",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:glen-ellis-falls-pinkham-notch",
+   "type": "Site",
+   "properties": {
+    "name": "Glen Ellis Falls (Pinkham Notch)"
+   }
+  },
+  {
+   "id": "place:moxie-falls-me",
+   "type": "Place",
+   "properties": {
+    "name": "Moxie Falls",
+    "place_id": "moxie-falls-me",
+    "site": "Moxie Falls",
+    "city": "The Forks",
+    "state": "Maine",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 45.36254,
+    "lng": -69.93701,
+    "google_maps_query": "Moxie+Falls+ME",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:moxie-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Moxie Falls"
+   }
+  },
+  {
+   "id": "place:dingmans-falls-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Dingmans Falls",
+    "place_id": "dingmans-falls-pa",
+    "site": "Dingmans Falls (Delaware Water Gap)",
+    "city": "Dingmans Ferry",
+    "state": "Pennsylvania",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.23077,
+    "lng": -74.8925,
+    "google_maps_query": "Dingmans+Falls+PA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:dingmans-falls-delaware-water-gap",
+   "type": "Site",
+   "properties": {
+    "name": "Dingmans Falls (Delaware Water Gap)"
+   }
+  },
+  {
+   "id": "place:cathedral-falls-wv",
+   "type": "Place",
+   "properties": {
+    "name": "Cathedral Falls",
+    "place_id": "cathedral-falls-wv",
+    "site": "Cathedral Falls",
+    "city": "Gauley Bridge",
+    "state": "West Virginia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 38.15447,
+    "lng": -81.17905,
+    "google_maps_query": "Cathedral+Falls+WV",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:cathedral-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Cathedral Falls"
+   }
+  },
+  {
+   "id": "place:crabtree-falls-nc",
+   "type": "Place",
+   "properties": {
+    "name": "Crabtree Falls (North Carolina)",
+    "place_id": "crabtree-falls-nc",
+    "site": "Crabtree Falls (Blue Ridge Parkway)",
+    "city": "Little Switzerland",
+    "state": "North Carolina",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.81236,
+    "lng": -82.1442,
+    "google_maps_query": "Crabtree+Falls+Little+Switzerland+NC",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:crabtree-falls-blue-ridge-parkway",
+   "type": "Site",
+   "properties": {
+    "name": "Crabtree Falls (Blue Ridge Parkway)"
+   }
+  },
+  {
+   "id": "place:kent-falls-ct",
+   "type": "Place",
+   "properties": {
+    "name": "Kent Falls",
+    "place_id": "kent-falls-ct",
+    "site": "Kent Falls State Park",
+    "city": "Kent",
+    "state": "Connecticut",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.77374,
+    "lng": -73.41283,
+    "google_maps_query": "Kent+Falls+CT",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-connecticut",
+   "type": "State",
+   "properties": {
+    "name": "Connecticut",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:kent-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Kent Falls State Park"
+   }
+  },
+  {
+   "id": "place:falling-spring-falls-va",
+   "type": "Place",
+   "properties": {
+    "name": "Falling Spring Falls",
+    "place_id": "falling-spring-falls-va",
+    "site": "Falling Spring Falls",
+    "city": "Covington",
+    "state": "Virginia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 37.86777,
+    "lng": -79.94791,
+    "google_maps_query": "Falling+Spring+Falls+VA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:falling-spring-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Falling Spring Falls"
+   }
+  },
+  {
+   "id": "place:dark-hollow-falls-va",
+   "type": "Place",
+   "properties": {
+    "name": "Dark Hollow Falls",
+    "place_id": "dark-hollow-falls-va",
+    "site": "Shenandoah National Park",
+    "city": "Luray",
+    "state": "Virginia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 38.51875,
+    "lng": -78.4234,
+    "google_maps_query": "Dark+Hollow+Falls+VA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:chittenango-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Chittenango Falls",
+    "place_id": "chittenango-falls-ny",
+    "site": "Chittenango Falls State Park",
+    "city": "Cazenovia",
+    "state": "New York",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.97861,
+    "lng": -75.84152,
+    "google_maps_query": "Chittenango+Falls+NY",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:chittenango-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Chittenango Falls State Park"
+   }
+  },
+  {
+   "id": "place:moss-glen-falls-granville-vt",
+   "type": "Place",
+   "properties": {
+    "name": "Moss Glen Falls (Granville)",
+    "place_id": "moss-glen-falls-granville-vt",
+    "site": "Moss Glen Falls (Granville)",
+    "city": "Granville",
+    "state": "Vermont",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.01802,
+    "lng": -72.85007,
+    "google_maps_query": "Moss+Glen+Falls+Granville+VT",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:moss-glen-falls-granville",
+   "type": "Site",
+   "properties": {
+    "name": "Moss Glen Falls (Granville)"
+   }
+  },
+  {
+   "id": "place:bushkill-falls-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Bushkill Falls",
+    "place_id": "bushkill-falls-pa",
+    "site": "Bushkill Falls",
+    "city": "Bushkill",
+    "state": "Pennsylvania",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.1172,
+    "lng": -75.01006,
+    "google_maps_query": "Bushkill+Falls+PA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:bushkill-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Bushkill Falls"
+   }
+  },
+  {
+   "id": "place:smalls-falls-me",
+   "type": "Place",
+   "properties": {
+    "name": "Smalls Falls",
+    "place_id": "smalls-falls-me",
+    "site": "Smalls Falls",
+    "city": "Rangeley",
+    "state": "Maine",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.85864,
+    "lng": -70.5165,
+    "google_maps_query": "Smalls+Falls+ME",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:smalls-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Smalls Falls"
+   }
+  },
+  {
+   "id": "place:abrams-falls-tn",
+   "type": "Place",
+   "properties": {
+    "name": "Abrams Falls",
+    "place_id": "abrams-falls-tn",
+    "site": "Great Smoky Mountains National Park",
+    "city": "Townsend",
+    "state": "Tennessee",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.60896,
+    "lng": -83.87981,
+    "google_maps_query": "Abrams+Falls+TN",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:overall-run-falls-va",
+   "type": "Place",
+   "properties": {
+    "name": "Overall Run Falls",
+    "place_id": "overall-run-falls-va",
+    "site": "Shenandoah National Park",
+    "city": "Luray",
+    "state": "Virginia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 38.78272,
+    "lng": -78.29418,
+    "google_maps_query": "Overall+Run+Falls+VA",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:cherry-springs-astronomy-field-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Overnight Astronomy Observation Field",
+    "place_id": "cherry-springs-astronomy-field-pa",
+    "site": "Cherry Springs State Park",
+    "city": "Coudersport",
+    "state": "Pennsylvania",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.66276,
+    "lng": -77.8222,
+    "google_maps_query": "Cherry+Springs+State+Park+Astronomy+Observation+Field+PA",
+    "best_for": "Stargazing",
+    "note": "Pin shares the Cherry Springs State Park coordinates; the observation field is inside the park."
+   }
+  },
+  {
+   "id": "place:rainbow-falls-smokies-tn",
+   "type": "Place",
+   "properties": {
+    "name": "Rainbow Falls (Smokies)",
+    "place_id": "rainbow-falls-smokies-tn",
+    "site": "Great Smoky Mountains National Park",
+    "city": "Gatlinburg",
+    "state": "Tennessee",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.66233,
+    "lng": -83.4641,
+    "google_maps_query": "Rainbow+Falls+Gatlinburg+TN",
+    "best_for": "Waterfall",
+    "note": "Coordinates from waterfallhikes.com (USGS-based data); the falls are not a named feature in OpenStreetMap. The 80-ft falls are the tallest single-drop waterfall in the Smokies."
+   }
+  },
+  {
+   "id": "place:grotto-falls-tn",
+   "type": "Place",
+   "properties": {
+    "name": "Grotto Falls",
+    "place_id": "grotto-falls-tn",
+    "site": "Great Smoky Mountains National Park",
+    "city": "Gatlinburg",
+    "state": "Tennessee",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.6803,
+    "lng": -83.4633,
+    "google_maps_query": "Grotto+Falls+Gatlinburg+TN",
+    "best_for": "Waterfall",
+    "note": "Pin is the Grotto Falls trailhead parking on the Roaring Fork Motor Nature Trail (OpenStreetMap); the falls are a short walk up the Trillium Gap Trail."
+   }
+  },
+  {
+   "id": "place:kanab-sand-caves-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Kanab Sand Caves (Moqui Caverns)",
+    "place_id": "kanab-sand-caves-ut",
+    "site": "Kanab Sand Caves",
+    "city": "Kanab",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.11645,
+    "lng": -112.56032,
+    "google_maps_query": "Kanab+Sand+Caves+UT",
+    "best_for": "Hike",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:kanab-sand-caves",
+   "type": "Site",
+   "properties": {
+    "name": "Kanab Sand Caves"
+   }
+  },
+  {
+   "id": "place:toquerville-falls-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Toquerville Falls",
+    "place_id": "toquerville-falls-ut",
+    "site": "Toquerville Falls (La Verkin Creek)",
+    "city": "Toquerville",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.29863,
+    "lng": -113.24706,
+    "google_maps_query": "Toquerville+Falls+UT",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:toquerville-falls-la-verkin-creek",
+   "type": "Site",
+   "properties": {
+    "name": "Toquerville Falls (La Verkin Creek)"
+   }
+  },
+  {
+   "id": "place:kanarra-falls-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Kanarra Falls",
+    "place_id": "kanarra-falls-ut",
+    "site": "Kanarra Falls (Kanarra Creek Canyon)",
+    "city": "Kanarraville",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.5377,
+    "lng": -113.15261,
+    "google_maps_query": "Kanarra+Falls+UT",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:kanarra-falls-kanarra-creek-canyon",
+   "type": "Site",
+   "properties": {
+    "name": "Kanarra Falls (Kanarra Creek Canyon)"
+   }
+  },
+  {
+   "id": "place:water-canyon-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Water Canyon",
+    "place_id": "water-canyon-ut",
+    "site": "Water Canyon (Hildale)",
+    "city": "Hildale",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.05351,
+    "lng": -112.96363,
+    "google_maps_query": "Water+Canyon+Hildale+UT",
+    "best_for": "Hike",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:water-canyon-hildale",
+   "type": "Site",
+   "properties": {
+    "name": "Water Canyon (Hildale)"
+   }
+  },
+  {
+   "id": "place:red-slot-canyon-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Red Slot Canyon (Red Hollow)",
+    "place_id": "red-slot-canyon-ut",
+    "site": "Red Hollow Slot Canyon",
+    "city": "Orderville",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.27089,
+    "lng": -112.62726,
+    "google_maps_query": "Red+Hollow+Slot+Canyon+Orderville+UT",
+    "best_for": "Slot canyon",
+    "note": "The reel calls it 'Red Slot Canyon in Kanab' but its own access detail — park at the water facility at the end of Red Hollow Drive — identifies it as Red Hollow Slot Canyon near Orderville. Pin is the trailhead by the water tank; coordinates from two independent trail guides (37.2709, -112.6273), not OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:red-hollow-slot-canyon",
+   "type": "Site",
+   "properties": {
+    "name": "Red Hollow Slot Canyon"
+   }
+  },
+  {
+   "id": "theme:slot-canyon",
+   "type": "Theme",
+   "properties": {
+    "name": "Slot canyon"
+   }
+  },
+  {
+   "id": "place:grand-staircase-escalante-nm-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Grand Staircase-Escalante National Monument",
+    "place_id": "grand-staircase-escalante-nm-ut",
+    "site": "Grand Staircase-Escalante National Monument",
+    "city": "Escalante",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.50882,
+    "lng": -111.50142,
+    "google_maps_query": "Grand+Staircase-Escalante+National+Monument+UT",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:grand-staircase-escalante-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Grand Staircase-Escalante National Monument"
+   }
+  },
+  {
+   "id": "place:long-dong-silver-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Long Dong Silver",
+    "place_id": "long-dong-silver-ut",
+    "site": "Long Dong Silver (Hanksville)",
+    "city": "Hanksville",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.3938,
+    "lng": -110.83222,
+    "google_maps_query": "Long+Dong+Silver+UT",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:long-dong-silver-hanksville",
+   "type": "Site",
+   "properties": {
+    "name": "Long Dong Silver (Hanksville)"
+   }
+  },
+  {
+   "id": "place:bentonite-hills-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Bentonite Hills",
+    "place_id": "bentonite-hills-ut",
+    "site": "Bentonite Hills (Caineville)",
+    "city": "Hanksville",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.36167,
+    "lng": -111.12797,
+    "google_maps_query": "Bentonite+Hills+UT",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:bentonite-hills-caineville",
+   "type": "Site",
+   "properties": {
+    "name": "Bentonite Hills (Caineville)"
+   }
+  },
+  {
+   "id": "place:great-salt-lake-pink-water-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Great Salt Lake — Pink Water",
+    "place_id": "great-salt-lake-pink-water-ut",
+    "site": "Great Salt Lake (North Arm)",
+    "city": "Corinne",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 41.43779,
+    "lng": -112.66905,
+    "google_maps_query": "Spiral+Jetty+UT",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:great-salt-lake-north-arm",
+   "type": "Site",
+   "properties": {
+    "name": "Great Salt Lake (North Arm)"
+   }
+  },
+  {
+   "id": "place:bonneville-salt-flats-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Bonneville Salt Flats",
+    "place_id": "bonneville-salt-flats-ut",
+    "site": "Bonneville Salt Flats",
+    "city": "Wendover",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 40.7448,
+    "lng": -114.02374,
+    "google_maps_query": "Bonneville+Salt+Flats+UT",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:bonneville-salt-flats",
+   "type": "Site",
+   "properties": {
+    "name": "Bonneville Salt Flats"
+   }
   }
  ],
  "edges": [
@@ -9286,6 +10640,54 @@
   {
    "from": "reel:DfP15Ujq6wb",
    "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Der2jZzGNin",
+   "to": "creator:discovery-matt",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Der2jZzGNin",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdHyZ9qRHJZ",
+   "to": "creator:visitdarkskiespa",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdHyZ9qRHJZ",
+   "to": "theme:cherry-springs-astronomy-field-guide",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZvgowxyUv7",
+   "to": "creator:giselle-on-trails",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZvgowxyUv7",
+   "to": "theme:zion-alternatives-near-kanab",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfKQdjWx1L3",
+   "to": "creator:adventurefamilyvlog",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfKQdjWx1L3",
+   "to": "theme:utah-beyond-the-national-parks",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -16840,6 +18242,19 @@
    "properties": {}
   },
   {
+   "from": "place:niagara-falls-ny",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #1 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
    "from": "place:american-falls-ny",
    "to": "state:united-states-ny",
    "type": "LOCATED_IN",
@@ -17272,6 +18687,25 @@
    "properties": {}
   },
   {
+   "from": "place:factory-butte-ut",
+   "to": "reel:DfKQdjWx1L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Viewpoint",
+    "recommendation": "Ranked #3 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': dramatic badlands and one of Utah's most surreal landscapes.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "reel_theme": "Utah beyond the national parks"
+   }
+  },
+  {
+   "from": "place:factory-butte-ut",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:kayenta-falls-ut",
    "to": "state:united-states-utah",
    "type": "LOCATED_IN",
@@ -17385,6 +18819,25 @@
   {
    "from": "place:bash-bish-falls-state-park-ma",
    "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bash-bish-falls-state-park-ma",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 22,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #22 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:bash-bish-falls-state-park-ma",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -18138,6 +19591,1578 @@
   },
   {
    "from": "place:palisade-head-mn",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cumberland-falls-ky",
+   "to": "state:united-states-kentucky",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-kentucky",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-kentucky",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:cumberland-falls-ky",
+   "to": "site:cumberland-falls-state-resort-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cumberland-falls-ky",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #2 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:cumberland-falls-ky",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:amicalola-falls-ga",
+   "to": "state:united-states-georgia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-georgia",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-georgia",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:amicalola-falls-ga",
+   "to": "site:amicalola-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:amicalola-falls-ga",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #3 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:amicalola-falls-ga",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:taughannock-falls-ny",
+   "to": "state:united-states-new-york",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:taughannock-falls-ny",
+   "to": "site:taughannock-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:taughannock-falls-ny",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #4 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:taughannock-falls-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:upper-whitewater-falls-nc",
+   "to": "state:united-states-north-carolina",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-north-carolina",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-north-carolina",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:upper-whitewater-falls-nc",
+   "to": "site:upper-whitewater-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:upper-whitewater-falls-nc",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #5 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:upper-whitewater-falls-nc",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kaaterskill-falls-ny",
+   "to": "state:united-states-new-york",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:kaaterskill-falls-ny",
+   "to": "site:kaaterskill-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kaaterskill-falls-ny",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #6 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:kaaterskill-falls-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:blackwater-falls-wv",
+   "to": "state:united-states-west-virginia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-west-virginia",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-west-virginia",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:blackwater-falls-wv",
+   "to": "site:blackwater-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:blackwater-falls-wv",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #7 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:blackwater-falls-wv",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:linville-falls-nc",
+   "to": "state:united-states-north-carolina",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:linville-falls-nc",
+   "to": "site:linville-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:linville-falls-nc",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #8 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:linville-falls-nc",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:dry-falls-nc",
+   "to": "state:united-states-north-carolina",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:dry-falls-nc",
+   "to": "site:dry-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:dry-falls-nc",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 9,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #9 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:dry-falls-nc",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:burgess-falls-tn",
+   "to": "state:united-states-tennessee",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-tennessee",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-tennessee",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:burgess-falls-tn",
+   "to": "site:burgess-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:burgess-falls-tn",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 10,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #10 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:burgess-falls-tn",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:looking-glass-falls-nc",
+   "to": "state:united-states-north-carolina",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:looking-glass-falls-nc",
+   "to": "site:looking-glass-falls-pisgah-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:looking-glass-falls-nc",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 11,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #11 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:looking-glass-falls-nc",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:middle-falls-letchworth-ny",
+   "to": "state:united-states-new-york",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:middle-falls-letchworth-ny",
+   "to": "site:letchworth-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:middle-falls-letchworth-ny",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 12,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #12 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:middle-falls-letchworth-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ganoga-falls-pa",
+   "to": "state:united-states-pennsylvania",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ganoga-falls-pa",
+   "to": "site:ricketts-glen-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ganoga-falls-pa",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 13,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #13 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:ganoga-falls-pa",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-watkins-glen-ny",
+   "to": "state:united-states-new-york",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-watkins-glen-ny",
+   "to": "site:watkins-glen-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-watkins-glen-ny",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 14,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #14 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:rainbow-falls-watkins-glen-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:crabtree-falls-va",
+   "to": "state:united-states-virginia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-virginia",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-virginia",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:crabtree-falls-va",
+   "to": "site:crabtree-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:crabtree-falls-va",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 15,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #15 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:crabtree-falls-va",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:catawba-falls-nc",
+   "to": "state:united-states-north-carolina",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:catawba-falls-nc",
+   "to": "site:catawba-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:catawba-falls-nc",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 16,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #16 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:catawba-falls-nc",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:arethusa-falls-nh",
+   "to": "state:united-states-new-hampshire",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:arethusa-falls-nh",
+   "to": "site:arethusa-falls-crawford-notch",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:arethusa-falls-nh",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 17,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #17 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:arethusa-falls-nh",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ruby-falls-tn",
+   "to": "state:united-states-tennessee",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ruby-falls-tn",
+   "to": "site:ruby-falls-lookout-mountain",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ruby-falls-tn",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 18,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #18 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:ruby-falls-tn",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sandstone-falls-wv",
+   "to": "state:united-states-west-virginia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:sandstone-falls-wv",
+   "to": "site:sandstone-falls-new-river-gorge",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:sandstone-falls-wv",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 19,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #19 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:sandstone-falls-wv",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cummins-falls-tn",
+   "to": "state:united-states-tennessee",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cummins-falls-tn",
+   "to": "site:cummins-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cummins-falls-tn",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 20,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #20 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:cummins-falls-tn",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:raymondskill-falls-pa",
+   "to": "state:united-states-pennsylvania",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:raymondskill-falls-pa",
+   "to": "site:raymondskill-falls-delaware-water-gap",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:raymondskill-falls-pa",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 21,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #21 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:raymondskill-falls-pa",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ozone-falls-tn",
+   "to": "state:united-states-tennessee",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ozone-falls-tn",
+   "to": "site:ozone-falls-state-natural-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ozone-falls-tn",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 24,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #24 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:ozone-falls-tn",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:glen-ellis-falls-nh",
+   "to": "state:united-states-new-hampshire",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:glen-ellis-falls-nh",
+   "to": "site:glen-ellis-falls-pinkham-notch",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:glen-ellis-falls-nh",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 25,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #25 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:glen-ellis-falls-nh",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:moxie-falls-me",
+   "to": "state:united-states-maine",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:moxie-falls-me",
+   "to": "site:moxie-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:moxie-falls-me",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 26,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #26 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:moxie-falls-me",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:dingmans-falls-pa",
+   "to": "state:united-states-pennsylvania",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:dingmans-falls-pa",
+   "to": "site:dingmans-falls-delaware-water-gap",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:dingmans-falls-pa",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 27,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #27 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:dingmans-falls-pa",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-falls-wv",
+   "to": "state:united-states-west-virginia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-falls-wv",
+   "to": "site:cathedral-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-falls-wv",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 28,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #28 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:cathedral-falls-wv",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:crabtree-falls-nc",
+   "to": "state:united-states-north-carolina",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:crabtree-falls-nc",
+   "to": "site:crabtree-falls-blue-ridge-parkway",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:crabtree-falls-nc",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 29,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #29 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:crabtree-falls-nc",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kent-falls-ct",
+   "to": "state:united-states-connecticut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-connecticut",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-connecticut",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:kent-falls-ct",
+   "to": "site:kent-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kent-falls-ct",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 30,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #30 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:kent-falls-ct",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:falling-spring-falls-va",
+   "to": "state:united-states-virginia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:falling-spring-falls-va",
+   "to": "site:falling-spring-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:falling-spring-falls-va",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 32,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #32 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:falling-spring-falls-va",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:dark-hollow-falls-va",
+   "to": "state:united-states-virginia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:dark-hollow-falls-va",
+   "to": "site:shenandoah-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:dark-hollow-falls-va",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 33,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #33 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:dark-hollow-falls-va",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chittenango-falls-ny",
+   "to": "state:united-states-new-york",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:chittenango-falls-ny",
+   "to": "site:chittenango-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:chittenango-falls-ny",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 34,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #34 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:chittenango-falls-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:moss-glen-falls-granville-vt",
+   "to": "state:united-states-vermont",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:moss-glen-falls-granville-vt",
+   "to": "site:moss-glen-falls-granville",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:moss-glen-falls-granville-vt",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 35,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #35 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:moss-glen-falls-granville-vt",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bushkill-falls-pa",
+   "to": "state:united-states-pennsylvania",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:bushkill-falls-pa",
+   "to": "site:bushkill-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bushkill-falls-pa",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 36,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #36 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:bushkill-falls-pa",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:smalls-falls-me",
+   "to": "state:united-states-maine",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:smalls-falls-me",
+   "to": "site:smalls-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:smalls-falls-me",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 37,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #37 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:smalls-falls-me",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:abrams-falls-tn",
+   "to": "state:united-states-tennessee",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:abrams-falls-tn",
+   "to": "site:great-smoky-mountains-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:abrams-falls-tn",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 38,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #38 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:abrams-falls-tn",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:overall-run-falls-va",
+   "to": "state:united-states-virginia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:overall-run-falls-va",
+   "to": "site:shenandoah-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:overall-run-falls-va",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 39,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #39 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:overall-run-falls-va",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cherry-springs-astronomy-field-pa",
+   "to": "state:united-states-pennsylvania",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cherry-springs-astronomy-field-pa",
+   "to": "site:cherry-springs-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cherry-springs-astronomy-field-pa",
+   "to": "reel:DdHyZ9qRHJZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Stargazing",
+    "recommendation": "Visit Dark Skies PA's pick for the best stargazing setup at Cherry Springs: the Overnight Astronomy Observation Field, with concrete telescope pads, electrical outlets and WiFi. The rules that keep it world-class: a permit/registration is required, arrive and set up before dark (vehicles then stay in the adjacent lot), red lights only — no white light — no campfires, and quiet hours from midnight to 9 AM.",
+    "creator": "@visitdarkskiespa",
+    "reel_title": "Overnight Astronomy Observation Field — Cherry Springs State Park",
+    "reel_theme": "Cherry Springs astronomy field guide"
+   }
+  },
+  {
+   "from": "place:cherry-springs-astronomy-field-pa",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-smokies-tn",
+   "to": "state:united-states-tennessee",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-smokies-tn",
+   "to": "site:great-smoky-mountains-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-smokies-tn",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 23,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #23 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:rainbow-falls-smokies-tn",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grotto-falls-tn",
+   "to": "state:united-states-tennessee",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:grotto-falls-tn",
+   "to": "site:great-smoky-mountains-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:grotto-falls-tn",
+   "to": "reel:Der2jZzGNin",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 31,
+    "best_for": "Waterfall",
+    "recommendation": "Ranked #31 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.",
+    "creator": "@discovery_matt",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "reel_theme": "Best Eastern U.S. waterfalls"
+   }
+  },
+  {
+   "from": "place:grotto-falls-tn",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kanab-sand-caves-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:kanab-sand-caves-ut",
+   "to": "site:kanab-sand-caves",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kanab-sand-caves-ut",
+   "to": "reel:DZvgowxyUv7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "Giselle's Zion alternative #1: caves carved into Navajo sandstone in the 1970s to harvest sand for glassmaking — now a free, photogenic scramble right off Highway 89, about 1.2 miles round trip with parking by the highway. Her caution: the scramble up can get a little scary; don't be afraid to turn back.",
+    "creator": "@giselle.on.trails",
+    "reel_title": "When Zion is too packed — 5 spots about an hour away (Kanab area)",
+    "reel_theme": "Zion alternatives near Kanab"
+   }
+  },
+  {
+   "from": "place:kanab-sand-caves-ut",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:toquerville-falls-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:toquerville-falls-ut",
+   "to": "site:toquerville-falls-la-verkin-creek",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:toquerville-falls-ut",
+   "to": "reel:DZvgowxyUv7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Waterfall",
+    "recommendation": "Giselle's Zion alternative #3: no hiking required if you have a 4x4 (don't attempt it in a normal car) — a 5.3-mile dirt road, about 45 minutes, to falls that pour over two pour-offs on La Verkin Creek: a cascade section and a clean 20-foot drop into a pool. Free BLM land, and the swimming is incredible in summer.",
+    "creator": "@giselle.on.trails",
+    "reel_title": "When Zion is too packed — 5 spots about an hour away (Kanab area)",
+    "reel_theme": "Zion alternatives near Kanab"
+   }
+  },
+  {
+   "from": "place:toquerville-falls-ut",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kanarra-falls-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:kanarra-falls-ut",
+   "to": "site:kanarra-falls-kanarra-creek-canyon",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kanarra-falls-ut",
+   "to": "reel:DZvgowxyUv7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Waterfall",
+    "recommendation": "Giselle's Zion alternative #4 — her favorite of the five: a permitted slot-canyon waterfall hike, about 3.8 miles out and back with creek crossings the whole way and a ladder climb in the canyon. Permits sell out 1–2 weeks ahead in summer, so book early — and rent the waders unless you want numb feet for an hour afterwards.",
+    "creator": "@giselle.on.trails",
+    "reel_title": "When Zion is too packed — 5 spots about an hour away (Kanab area)",
+    "reel_theme": "Zion alternatives near Kanab"
+   }
+  },
+  {
+   "from": "place:kanarra-falls-ut",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:water-canyon-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:water-canyon-ut",
+   "to": "site:water-canyon-hildale",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:water-canyon-ut",
+   "to": "reel:DZvgowxyUv7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Hike",
+    "recommendation": "Giselle's Zion alternative #5: a 4.25-mile out-and-back hike (about 500 ft of gain) that ends up looking like a mini version of Zion's Subway — and a pretty easy one. This is the one she says legit looks like the Subway.",
+    "creator": "@giselle.on.trails",
+    "reel_title": "When Zion is too packed — 5 spots about an hour away (Kanab area)",
+    "reel_theme": "Zion alternatives near Kanab"
+   }
+  },
+  {
+   "from": "place:water-canyon-ut",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:red-slot-canyon-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:red-slot-canyon-ut",
+   "to": "site:red-hollow-slot-canyon",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:red-slot-canyon-ut",
+   "to": "reel:DZvgowxyUv7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Slot canyon",
+    "recommendation": "Giselle's Zion alternative #2: a 1.2-mile round-trip slot canyon with glowing orange and pink walls. Park at the water facility at the end of Red Hollow Drive — and note the sandy road is popular with off-roaders, so it can be soft going.",
+    "creator": "@giselle.on.trails",
+    "reel_title": "When Zion is too packed — 5 spots about an hour away (Kanab area)",
+    "reel_theme": "Zion alternatives near Kanab"
+   }
+  },
+  {
+   "from": "place:red-slot-canyon-ut",
+   "to": "theme:slot-canyon",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-staircase-escalante-nm-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-staircase-escalante-nm-ut",
+   "to": "site:grand-staircase-escalante-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-staircase-escalante-nm-ut",
+   "to": "reel:DfKQdjWx1L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint",
+    "recommendation": "Ranked #1 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': endless slot canyons, waterfalls and otherworldly landscapes across a vast monument.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "reel_theme": "Utah beyond the national parks"
+   }
+  },
+  {
+   "from": "place:grand-staircase-escalante-nm-ut",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:long-dong-silver-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:long-dong-silver-ut",
+   "to": "site:long-dong-silver-hanksville",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:long-dong-silver-ut",
+   "to": "reel:DfKQdjWx1L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Viewpoint",
+    "recommendation": "Ranked #2 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': a bizarre rock spire that looks like another planet, rising from the desert near Hanksville.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "reel_theme": "Utah beyond the national parks"
+   }
+  },
+  {
+   "from": "place:long-dong-silver-ut",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bentonite-hills-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:bentonite-hills-ut",
+   "to": "site:bentonite-hills-caineville",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bentonite-hills-ut",
+   "to": "reel:DfKQdjWx1L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Viewpoint",
+    "recommendation": "Ranked #4 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': rainbow-colored hills that look like Mars, in the badlands west of Hanksville.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "reel_theme": "Utah beyond the national parks"
+   }
+  },
+  {
+   "from": "place:bentonite-hills-ut",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:great-salt-lake-pink-water-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:great-salt-lake-pink-water-ut",
+   "to": "site:great-salt-lake-north-arm",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:great-salt-lake-pink-water-ut",
+   "to": "reel:DfKQdjWx1L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Viewpoint",
+    "recommendation": "Ranked #6 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': the surreal pink-hued salt water of the lake's north arm — you have to see it to believe it. Pin at the Spiral Jetty, the classic pink-water viewpoint.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "reel_theme": "Utah beyond the national parks"
+   }
+  },
+  {
+   "from": "place:great-salt-lake-pink-water-ut",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bonneville-salt-flats-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:bonneville-salt-flats-ut",
+   "to": "site:bonneville-salt-flats",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bonneville-salt-flats-ut",
+   "to": "reel:DfKQdjWx1L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Viewpoint",
+    "recommendation": "Ranked #8 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': endless white salt stretching to the horizon.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "reel_theme": "Utah beyond the national parks"
+   }
+  },
+  {
+   "from": "place:bonneville-salt-flats-ut",
    "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}

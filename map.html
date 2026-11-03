@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;color:#fff;font-weight:700;font-size:11px;text-align:center;line-height:22px;width:22px;height:22px;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>196 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>244 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
@@ -79,7 +79,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "4 \u00b7 Bash Bish Falls State Park",
+  "n": "4 \u00b7 Arethusa Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Harts Location, New Hampshire",
+  "site": "Arethusa Falls (Crawford Notch)",
+  "lat": 44.14665,
+  "lng": -71.39271,
+  "q": "Arethusa+Falls+NH",
+  "best": "Waterfall",
+  "rec": "Ranked #17 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 17,
+  "also": []
+ },
+ {
+  "n": "5 \u00b7 Bash Bish Falls State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Mount Washington, Massachusetts",
@@ -93,10 +110,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 11,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "creator": "@discovery_matt",
+    "best": "Waterfall",
+    "rec": "Ranked #22 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls."
+   }
+  ]
  },
  {
-  "n": "5 \u00b7 Baxter State Park",
+  "n": "6 \u00b7 Baxter State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Millinocket, Maine",
@@ -113,7 +138,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Camden Hills State Park",
+  "n": "7 \u00b7 Bushkill Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bushkill, Pennsylvania",
+  "site": "Bushkill Falls",
+  "lat": 41.1172,
+  "lng": -75.01006,
+  "q": "Bushkill+Falls+PA",
+  "best": "Waterfall",
+  "rec": "Ranked #36 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 36,
+  "also": []
+ },
+ {
+  "n": "8 \u00b7 Camden Hills State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Camden, Maine",
@@ -130,7 +172,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Cherry Springs State Park",
+  "n": "9 \u00b7 Cherry Springs State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Coudersport, Pennsylvania",
@@ -147,7 +189,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Crawford Notch State Park",
+  "n": "10 \u00b7 Overnight Astronomy Observation Field",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Coudersport, Pennsylvania",
+  "site": "Cherry Springs State Park",
+  "lat": 41.66276,
+  "lng": -77.8222,
+  "q": "Cherry+Springs+State+Park+Astronomy+Observation+Field+PA",
+  "best": "Stargazing",
+  "rec": "Visit Dark Skies PA's pick for the best stargazing setup at Cherry Springs: the Overnight Astronomy Observation Field, with concrete telescope pads, electrical outlets and WiFi. The rules that keep it world-class: a permit/registration is required, arrive and set up before dark (vehicles then stay in the adjacent lot), red lights only \u2014 no white light \u2014 no campfires, and quiet hours from midnight to 9 AM.",
+  "reel": "https://www.instagram.com/reel/DdHyZ9qRHJZ/",
+  "reel_title": "Overnight Astronomy Observation Field \u2014 Cherry Springs State Park",
+  "creator": "@visitdarkskiespa",
+  "rank": 1,
+  "also": []
+ },
+ {
+  "n": "11 \u00b7 Chittenango Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Cazenovia, New York",
+  "site": "Chittenango Falls State Park",
+  "lat": 42.97861,
+  "lng": -75.84152,
+  "q": "Chittenango+Falls+NY",
+  "best": "Waterfall",
+  "rec": "Ranked #34 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 34,
+  "also": []
+ },
+ {
+  "n": "12 \u00b7 Crawford Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Harts Location, New Hampshire",
@@ -164,7 +240,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Franconia Notch State Park",
+  "n": "13 \u00b7 Dingmans Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Dingmans Ferry, Pennsylvania",
+  "site": "Dingmans Falls (Delaware Water Gap)",
+  "lat": 41.23077,
+  "lng": -74.8925,
+  "q": "Dingmans+Falls+PA",
+  "best": "Waterfall",
+  "rec": "Ranked #27 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 27,
+  "also": []
+ },
+ {
+  "n": "14 \u00b7 Franconia Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lincoln, New Hampshire",
@@ -181,7 +274,58 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Letchworth State Park",
+  "n": "15 \u00b7 Glen Ellis Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Jackson, New Hampshire",
+  "site": "Glen Ellis Falls (Pinkham Notch)",
+  "lat": 44.24423,
+  "lng": -71.25247,
+  "q": "Glen+Ellis+Falls+NH",
+  "best": "Waterfall",
+  "rec": "Ranked #25 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 25,
+  "also": []
+ },
+ {
+  "n": "16 \u00b7 Kaaterskill Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Haines Falls, New York",
+  "site": "Kaaterskill Falls",
+  "lat": 42.19351,
+  "lng": -74.06394,
+  "q": "Kaaterskill+Falls+NY",
+  "best": "Waterfall",
+  "rec": "Ranked #6 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 6,
+  "also": []
+ },
+ {
+  "n": "17 \u00b7 Kent Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Kent, Connecticut",
+  "site": "Kent Falls State Park",
+  "lat": 41.77374,
+  "lng": -73.41283,
+  "q": "Kent+Falls+CT",
+  "best": "Waterfall",
+  "rec": "Ranked #30 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 30,
+  "also": []
+ },
+ {
+  "n": "18 \u00b7 Letchworth State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Castile, New York",
@@ -198,7 +342,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Minnewaska State Park Preserve",
+  "n": "19 \u00b7 Middle Falls (Letchworth)",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Castile, New York",
+  "site": "Letchworth State Park",
+  "lat": 42.58198,
+  "lng": -78.04509,
+  "q": "Middle+Falls+Letchworth+State+Park+NY",
+  "best": "Waterfall",
+  "rec": "Ranked #12 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 12,
+  "also": []
+ },
+ {
+  "n": "20 \u00b7 Minnewaska State Park Preserve",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Kerhonkson, New York",
@@ -215,7 +376,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Mount Washington State Park",
+  "n": "21 \u00b7 Moss Glen Falls (Granville)",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Granville, Vermont",
+  "site": "Moss Glen Falls (Granville)",
+  "lat": 44.01802,
+  "lng": -72.85007,
+  "q": "Moss+Glen+Falls+Granville+VT",
+  "best": "Waterfall",
+  "rec": "Ranked #35 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 35,
+  "also": []
+ },
+ {
+  "n": "22 \u00b7 Mount Washington State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Gorham, New Hampshire",
@@ -232,7 +410,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "13 \u00b7 American Falls",
+  "n": "23 \u00b7 Moxie Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "The Forks, Maine",
+  "site": "Moxie Falls",
+  "lat": 45.36254,
+  "lng": -69.93701,
+  "q": "Moxie+Falls+ME",
+  "best": "Waterfall",
+  "rec": "Ranked #26 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 26,
+  "also": []
+ },
+ {
+  "n": "24 \u00b7 American Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -249,7 +444,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Horseshoe Falls",
+  "n": "25 \u00b7 Horseshoe Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -266,7 +461,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Niagara Falls",
+  "n": "26 \u00b7 Niagara Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -280,10 +475,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall \u2014 Niagara Falls",
   "creator": "@amorywild",
   "rank": null,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+    "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+    "creator": "@discovery_matt",
+    "best": "Waterfall",
+    "rec": "Ranked #1 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls."
+   }
+  ]
  },
  {
-  "n": "16 \u00b7 Ohiopyle State Park",
+  "n": "27 \u00b7 Ohiopyle State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ohiopyle, Pennsylvania",
@@ -300,7 +503,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Ricketts Glen State Park",
+  "n": "28 \u00b7 Raymondskill Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Milford, Pennsylvania",
+  "site": "Raymondskill Falls (Delaware Water Gap)",
+  "lat": 41.29011,
+  "lng": -74.84116,
+  "q": "Raymondskill+Falls+PA",
+  "best": "Waterfall",
+  "rec": "Ranked #21 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 21,
+  "also": []
+ },
+ {
+  "n": "29 \u00b7 Ricketts Glen State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benton, Pennsylvania",
@@ -317,7 +537,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Smugglers' Notch State Park",
+  "n": "30 \u00b7 Ganoga Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Benton, Pennsylvania",
+  "site": "Ricketts Glen State Park",
+  "lat": 41.32371,
+  "lng": -76.28356,
+  "q": "Ganoga+Falls+PA",
+  "best": "Waterfall",
+  "rec": "Ranked #13 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 13,
+  "also": []
+ },
+ {
+  "n": "31 \u00b7 Smalls Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Rangeley, Maine",
+  "site": "Smalls Falls",
+  "lat": 44.85864,
+  "lng": -70.5165,
+  "q": "Smalls+Falls+ME",
+  "best": "Waterfall",
+  "rec": "Ranked #37 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 37,
+  "also": []
+ },
+ {
+  "n": "32 \u00b7 Smugglers' Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cambridge, Vermont",
@@ -334,7 +588,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Watkins Glen State Park",
+  "n": "33 \u00b7 Taughannock Falls",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Ithaca, New York",
+  "site": "Taughannock Falls State Park",
+  "lat": 42.53561,
+  "lng": -76.61046,
+  "q": "Taughannock+Falls+NY",
+  "best": "Waterfall",
+  "rec": "Ranked #4 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 4,
+  "also": []
+ },
+ {
+  "n": "34 \u00b7 Watkins Glen State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Watkins Glen, New York",
@@ -351,7 +622,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "1 \u00b7 Biscayne National Park",
+  "n": "35 \u00b7 Rainbow Falls (Watkins Glen)",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Watkins Glen, New York",
+  "site": "Watkins Glen State Park",
+  "lat": 42.37262,
+  "lng": -76.88281,
+  "q": "Rainbow+Falls+Watkins+Glen+NY",
+  "best": "Waterfall",
+  "rec": "Ranked #14 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 14,
+  "also": []
+ },
+ {
+  "n": "1 \u00b7 Amicalola Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Dawsonville, Georgia",
+  "site": "Amicalola Falls State Park",
+  "lat": 34.56741,
+  "lng": -84.24427,
+  "q": "Amicalola+Falls+GA",
+  "best": "Waterfall",
+  "rec": "Ranked #3 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 3,
+  "also": []
+ },
+ {
+  "n": "2 \u00b7 Biscayne National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Miami, Florida",
@@ -368,7 +673,160 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "2 \u00b7 Dry Tortugas National Park",
+  "n": "3 \u00b7 Blackwater Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Davis, West Virginia",
+  "site": "Blackwater Falls State Park",
+  "lat": 39.11351,
+  "lng": -79.48301,
+  "q": "Blackwater+Falls+WV",
+  "best": "Waterfall",
+  "rec": "Ranked #7 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 7,
+  "also": []
+ },
+ {
+  "n": "4 \u00b7 Burgess Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Sparta, Tennessee",
+  "site": "Burgess Falls State Park",
+  "lat": 36.04546,
+  "lng": -85.59944,
+  "q": "Burgess+Falls+TN",
+  "best": "Waterfall",
+  "rec": "Ranked #10 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 10,
+  "also": []
+ },
+ {
+  "n": "5 \u00b7 Catawba Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Old Fort, North Carolina",
+  "site": "Catawba Falls",
+  "lat": 35.60399,
+  "lng": -82.24525,
+  "q": "Catawba+Falls+NC",
+  "best": "Waterfall",
+  "rec": "Ranked #16 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 16,
+  "also": []
+ },
+ {
+  "n": "6 \u00b7 Cathedral Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Gauley Bridge, West Virginia",
+  "site": "Cathedral Falls",
+  "lat": 38.15447,
+  "lng": -81.17905,
+  "q": "Cathedral+Falls+WV",
+  "best": "Waterfall",
+  "rec": "Ranked #28 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 28,
+  "also": []
+ },
+ {
+  "n": "7 \u00b7 Crabtree Falls (Virginia)",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Montebello, Virginia",
+  "site": "Crabtree Falls",
+  "lat": 37.85113,
+  "lng": -79.07973,
+  "q": "Crabtree+Falls+VA",
+  "best": "Waterfall",
+  "rec": "Ranked #15 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 15,
+  "also": []
+ },
+ {
+  "n": "8 \u00b7 Crabtree Falls (North Carolina)",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Little Switzerland, North Carolina",
+  "site": "Crabtree Falls (Blue Ridge Parkway)",
+  "lat": 35.81236,
+  "lng": -82.1442,
+  "q": "Crabtree+Falls+Little+Switzerland+NC",
+  "best": "Waterfall",
+  "rec": "Ranked #29 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 29,
+  "also": []
+ },
+ {
+  "n": "9 \u00b7 Cumberland Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Corbin, Kentucky",
+  "site": "Cumberland Falls State Resort Park",
+  "lat": 36.83871,
+  "lng": -84.34506,
+  "q": "Cumberland+Falls+KY",
+  "best": "Waterfall",
+  "rec": "Ranked #2 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 2,
+  "also": []
+ },
+ {
+  "n": "10 \u00b7 Cummins Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Cookeville, Tennessee",
+  "site": "Cummins Falls State Park",
+  "lat": 36.24896,
+  "lng": -85.56992,
+  "q": "Cummins+Falls+TN",
+  "best": "Waterfall",
+  "rec": "Ranked #20 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 20,
+  "also": []
+ },
+ {
+  "n": "11 \u00b7 Dry Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Highlands, North Carolina",
+  "site": "Dry Falls",
+  "lat": 35.06811,
+  "lng": -83.23846,
+  "q": "Dry+Falls+Highlands+NC",
+  "best": "Waterfall",
+  "rec": "Ranked #9 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 9,
+  "also": []
+ },
+ {
+  "n": "12 \u00b7 Dry Tortugas National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Monroe, Florida",
@@ -400,7 +858,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "3 \u00b7 Shark Valley",
+  "n": "13 \u00b7 Shark Valley",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Miami area, Florida",
@@ -417,7 +875,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "4 \u00b7 Everglades National Park",
+  "n": "14 \u00b7 Everglades National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Homestead, Florida",
@@ -442,7 +900,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "5 \u00b7 Grayson Highlands State Park",
+  "n": "15 \u00b7 Falling Spring Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Covington, Virginia",
+  "site": "Falling Spring Falls",
+  "lat": 37.86777,
+  "lng": -79.94791,
+  "q": "Falling+Spring+Falls+VA",
+  "best": "Waterfall",
+  "rec": "Ranked #32 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 32,
+  "also": []
+ },
+ {
+  "n": "16 \u00b7 Grayson Highlands State Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Grayson Highlands State Park, Virginia",
@@ -467,7 +942,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "6 \u00b7 Mt. Le Conte",
+  "n": "17 \u00b7 Mt. Le Conte",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Great Smoky Mountains National Park, Tennessee",
@@ -484,7 +959,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Alum Cave Trail",
+  "n": "18 \u00b7 Alum Cave Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -501,7 +976,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Kuwohi",
+  "n": "19 \u00b7 Kuwohi",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Newfound Gap area, Tennessee",
@@ -518,7 +993,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Great Smoky Mountains National Park",
+  "n": "20 \u00b7 Great Smoky Mountains National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -543,7 +1018,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "10 \u00b7 Cades Cove",
+  "n": "21 \u00b7 Cades Cove",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Townsend, Tennessee",
@@ -560,7 +1035,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Mount Cammerer Fire Tower",
+  "n": "22 \u00b7 Mount Cammerer Fire Tower",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Great Smoky Mountains National Park, Tennessee",
@@ -577,7 +1052,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Myrtle Point",
+  "n": "23 \u00b7 Myrtle Point",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -609,7 +1084,58 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "13 \u00b7 Ramsey Cascades",
+  "n": "24 \u00b7 Abrams Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Townsend, Tennessee",
+  "site": "Great Smoky Mountains National Park",
+  "lat": 35.60896,
+  "lng": -83.87981,
+  "q": "Abrams+Falls+TN",
+  "best": "Waterfall",
+  "rec": "Ranked #38 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 38,
+  "also": []
+ },
+ {
+  "n": "25 \u00b7 Grotto Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Gatlinburg, Tennessee",
+  "site": "Great Smoky Mountains National Park",
+  "lat": 35.6803,
+  "lng": -83.4633,
+  "q": "Grotto+Falls+Gatlinburg+TN",
+  "best": "Waterfall",
+  "rec": "Ranked #31 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 31,
+  "also": []
+ },
+ {
+  "n": "26 \u00b7 Rainbow Falls (Smokies)",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Gatlinburg, Tennessee",
+  "site": "Great Smoky Mountains National Park",
+  "lat": 35.66233,
+  "lng": -83.4641,
+  "q": "Rainbow+Falls+Gatlinburg+TN",
+  "best": "Waterfall",
+  "rec": "Ranked #23 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 23,
+  "also": []
+ },
+ {
+  "n": "27 \u00b7 Ramsey Cascades",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -626,7 +1152,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Sunset Rock",
+  "n": "28 \u00b7 Linville Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Linville, North Carolina",
+  "site": "Linville Falls",
+  "lat": 35.94972,
+  "lng": -81.92691,
+  "q": "Linville+Falls+NC",
+  "best": "Waterfall",
+  "rec": "Ranked #8 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 8,
+  "also": []
+ },
+ {
+  "n": "29 \u00b7 Looking Glass Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Brevard, North Carolina",
+  "site": "Looking Glass Falls (Pisgah National Forest)",
+  "lat": 35.29622,
+  "lng": -82.76876,
+  "q": "Looking+Glass+Falls+NC",
+  "best": "Waterfall",
+  "rec": "Ranked #11 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 11,
+  "also": []
+ },
+ {
+  "n": "30 \u00b7 Sunset Rock",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Lookout Mountain, Tennessee",
@@ -643,7 +1203,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Mammoth Cave National Park",
+  "n": "31 \u00b7 Mammoth Cave National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Mammoth Cave National Park, Kentucky",
@@ -668,7 +1228,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "16 \u00b7 New River Gorge National Park and Preserve",
+  "n": "32 \u00b7 New River Gorge National Park and Preserve",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Oak Hill, West Virginia",
@@ -685,7 +1245,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Snooper's Rock",
+  "n": "33 \u00b7 Ozone Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Crab Orchard, Tennessee",
+  "site": "Ozone Falls State Natural Area",
+  "lat": 35.88046,
+  "lng": -84.8099,
+  "q": "Ozone+Falls+TN",
+  "best": "Waterfall",
+  "rec": "Ranked #24 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 24,
+  "also": []
+ },
+ {
+  "n": "34 \u00b7 Snooper's Rock",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Chattanooga, Tennessee",
@@ -702,7 +1279,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Old Rag",
+  "n": "35 \u00b7 Ruby Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Chattanooga, Tennessee",
+  "site": "Ruby Falls (Lookout Mountain)",
+  "lat": 35.01863,
+  "lng": -85.33904,
+  "q": "Ruby+Falls+Chattanooga+TN",
+  "best": "Waterfall",
+  "rec": "Ranked #18 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 18,
+  "also": []
+ },
+ {
+  "n": "36 \u00b7 Sandstone Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Hinton, West Virginia",
+  "site": "Sandstone Falls (New River Gorge)",
+  "lat": 37.75803,
+  "lng": -80.90536,
+  "q": "Sandstone+Falls+WV",
+  "best": "Waterfall",
+  "rec": "Ranked #19 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 19,
+  "also": []
+ },
+ {
+  "n": "37 \u00b7 Old Rag",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -719,7 +1330,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Upper Hawksbill Trail",
+  "n": "38 \u00b7 Upper Hawksbill Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -751,7 +1362,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "20 \u00b7 Shenandoah National Park",
+  "n": "39 \u00b7 Shenandoah National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Luray, Virginia",
@@ -783,7 +1394,41 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "21 \u00b7 Greeter Falls",
+  "n": "40 \u00b7 Dark Hollow Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Luray, Virginia",
+  "site": "Shenandoah National Park",
+  "lat": 38.51875,
+  "lng": -78.4234,
+  "q": "Dark+Hollow+Falls+VA",
+  "best": "Waterfall",
+  "rec": "Ranked #33 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 33,
+  "also": []
+ },
+ {
+  "n": "41 \u00b7 Overall Run Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Luray, Virginia",
+  "site": "Shenandoah National Park",
+  "lat": 38.78272,
+  "lng": -78.29418,
+  "q": "Overall+Run+Falls+VA",
+  "best": "Waterfall",
+  "rec": "Ranked #39 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 39,
+  "also": []
+ },
+ {
+  "n": "42 \u00b7 Greeter Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Altamont, Tennessee",
@@ -808,7 +1453,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "22 \u00b7 Walls of Jericho",
+  "n": "43 \u00b7 Upper Whitewater Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Sapphire, North Carolina",
+  "site": "Upper Whitewater Falls",
+  "lat": 35.03606,
+  "lng": -83.01777,
+  "q": "Upper+Whitewater+Falls+NC",
+  "best": "Waterfall",
+  "rec": "Ranked #5 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) \u2014 one of his editorial picks for the East's best waterfalls.",
+  "reel": "https://www.instagram.com/p/Der2jZzGNin/",
+  "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
+  "creator": "@discovery_matt",
+  "rank": 5,
+  "also": []
+ },
+ {
+  "n": "44 \u00b7 Walls of Jericho",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Winchester, Tennessee",
@@ -1034,7 +1696,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "4 \u00b7 Santa Elena Canyon",
+  "n": "4 \u00b7 Bentonite Hills",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Hanksville, Utah",
+  "site": "Bentonite Hills (Caineville)",
+  "lat": 38.36167,
+  "lng": -111.12797,
+  "q": "Bentonite+Hills+UT",
+  "best": "Viewpoint",
+  "rec": "Ranked #4 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': rainbow-colored hills that look like Mars, in the badlands west of Hanksville.",
+  "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+  "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
+  "creator": "@adventurefamilyvlog",
+  "rank": 4,
+  "also": []
+ },
+ {
+  "n": "5 \u00b7 Santa Elena Canyon",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Big Bend National Park, Texas",
@@ -1051,7 +1730,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "5 \u00b7 The Window Trail",
+  "n": "6 \u00b7 The Window Trail",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Chisos Basin, Texas",
@@ -1068,7 +1747,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Emory Peak",
+  "n": "7 \u00b7 Emory Peak",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Chisos Basin, Texas",
@@ -1085,7 +1764,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Big Bend National Park",
+  "n": "8 \u00b7 Big Bend National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Terlingua, Texas",
@@ -1117,7 +1796,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "8 \u00b7 Bisti Badlands",
+  "n": "9 \u00b7 Bisti Badlands",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Farmington, New Mexico",
@@ -1134,7 +1813,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Fairyland Loop",
+  "n": "10 \u00b7 Bonneville Salt Flats",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Wendover, Utah",
+  "site": "Bonneville Salt Flats",
+  "lat": 40.7448,
+  "lng": -114.02374,
+  "q": "Bonneville+Salt+Flats+UT",
+  "best": "Viewpoint",
+  "rec": "Ranked #8 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': endless white salt stretching to the horizon.",
+  "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+  "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
+  "creator": "@adventurefamilyvlog",
+  "rank": 8,
+  "also": []
+ },
+ {
+  "n": "11 \u00b7 Fairyland Loop",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Bryce, Utah",
@@ -1151,7 +1847,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Sunrise Point",
+  "n": "12 \u00b7 Sunrise Point",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Bryce Canyon City, Utah",
@@ -1168,7 +1864,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Bryce Canyon National Park",
+  "n": "13 \u00b7 Bryce Canyon National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Tropic, Utah",
@@ -1214,7 +1910,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "12 \u00b7 Joint Trail",
+  "n": "14 \u00b7 Joint Trail",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Needles District, Utah",
@@ -1239,7 +1935,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "13 \u00b7 Needles District",
+  "n": "15 \u00b7 Needles District",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Needles District, Utah",
@@ -1256,7 +1952,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Canyonlands National Park",
+  "n": "16 \u00b7 Canyonlands National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Moab, Utah",
@@ -1288,7 +1984,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "15 \u00b7 Cassidy Arch",
+  "n": "17 \u00b7 Cassidy Arch",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Fruita, Utah",
@@ -1305,7 +2001,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Capitol Reef National Park",
+  "n": "18 \u00b7 Capitol Reef National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Fruita, Utah",
@@ -1337,7 +2033,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "17 \u00b7 Dead Horse Point State Park",
+  "n": "19 \u00b7 Dead Horse Point State Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Moab, Utah",
@@ -1354,7 +2050,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Lake Estes",
+  "n": "20 \u00b7 Lake Estes",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -1371,7 +2067,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Factory Butte",
+  "n": "21 \u00b7 Factory Butte",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Hanksville, Utah",
@@ -1385,10 +2081,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
   "creator": "@adventurefamilyvlog",
   "rank": null,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+    "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
+    "creator": "@adventurefamilyvlog",
+    "best": "Viewpoint",
+    "rec": "Ranked #3 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': dramatic badlands and one of Utah's most surreal landscapes."
+   }
+  ]
  },
  {
-  "n": "20 \u00b7 Forrest Gump Point",
+  "n": "22 \u00b7 Forrest Gump Point",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Mexican Hat, Utah",
@@ -1405,7 +2109,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Goblin Valley State Park",
+  "n": "23 \u00b7 Goblin Valley State Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Green River, Utah",
@@ -1422,7 +2126,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 South Kaibab and Bright Angel Trails (Phantom Ranch)",
+  "n": "24 \u00b7 South Kaibab and Bright Angel Trails (Phantom Ranch)",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Grand Canyon, Arizona",
@@ -1475,7 +2179,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "23 \u00b7 Grand Canyon National Park",
+  "n": "25 \u00b7 Grand Canyon National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Grand Canyon Village, Arizona",
@@ -1514,7 +2218,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "24 \u00b7 Lipan Point",
+  "n": "26 \u00b7 Lipan Point",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Grand Canyon, Arizona",
@@ -1539,7 +2243,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "25 \u00b7 Colorado River",
+  "n": "27 \u00b7 Colorado River",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Grand Canyon, Arizona",
@@ -1556,7 +2260,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Great Basin National Park",
+  "n": "28 \u00b7 Grand Staircase-Escalante National Monument",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Escalante, Utah",
+  "site": "Grand Staircase-Escalante National Monument",
+  "lat": 37.50882,
+  "lng": -111.50142,
+  "q": "Grand+Staircase-Escalante+National+Monument+UT",
+  "best": "Viewpoint",
+  "rec": "Ranked #1 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': endless slot canyons, waterfalls and otherworldly landscapes across a vast monument.",
+  "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+  "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
+  "creator": "@adventurefamilyvlog",
+  "rank": 1,
+  "also": []
+ },
+ {
+  "n": "29 \u00b7 Great Basin National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Baker, Nevada",
@@ -1573,7 +2294,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 High Dune",
+  "n": "30 \u00b7 Great Salt Lake \u2014 Pink Water",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Corinne, Utah",
+  "site": "Great Salt Lake (North Arm)",
+  "lat": 41.43779,
+  "lng": -112.66905,
+  "q": "Spiral+Jetty+UT",
+  "best": "Viewpoint",
+  "rec": "Ranked #6 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': the surreal pink-hued salt water of the lake's north arm \u2014 you have to see it to believe it. Pin at the Spiral Jetty, the classic pink-water viewpoint.",
+  "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+  "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
+  "creator": "@adventurefamilyvlog",
+  "rank": 6,
+  "also": []
+ },
+ {
+  "n": "31 \u00b7 High Dune",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Alamosa, Colorado",
@@ -1590,7 +2328,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "28 \u00b7 Devil's Hall",
+  "n": "32 \u00b7 Devil's Hall",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Guadalupe Mountains, Texas",
@@ -1607,7 +2345,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Guadalupe Peak",
+  "n": "33 \u00b7 Guadalupe Peak",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Guadalupe Mountains, Texas",
@@ -1624,7 +2362,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "30 \u00b7 Hanksville",
+  "n": "34 \u00b7 Hanksville",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Hanksville, Utah",
@@ -1641,7 +2379,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "31 \u00b7 Havasu Falls",
+  "n": "35 \u00b7 Havasu Falls",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Supai, Arizona",
@@ -1658,7 +2396,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "32 \u00b7 Kayenta Falls",
+  "n": "36 \u00b7 Kayenta Falls",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Ivins, Utah",
@@ -1675,7 +2413,58 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "33 \u00b7 Monument Valley",
+  "n": "37 \u00b7 Kanab Sand Caves (Moqui Caverns)",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Kanab, Utah",
+  "site": "Kanab Sand Caves",
+  "lat": 37.11645,
+  "lng": -112.56032,
+  "q": "Kanab+Sand+Caves+UT",
+  "best": "Hike",
+  "rec": "Giselle's Zion alternative #1: caves carved into Navajo sandstone in the 1970s to harvest sand for glassmaking \u2014 now a free, photogenic scramble right off Highway 89, about 1.2 miles round trip with parking by the highway. Her caution: the scramble up can get a little scary; don't be afraid to turn back.",
+  "reel": "https://www.instagram.com/reel/DZvgowxyUv7/",
+  "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
+  "creator": "@giselle.on.trails",
+  "rank": 1,
+  "also": []
+ },
+ {
+  "n": "38 \u00b7 Kanarra Falls",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Kanarraville, Utah",
+  "site": "Kanarra Falls (Kanarra Creek Canyon)",
+  "lat": 37.5377,
+  "lng": -113.15261,
+  "q": "Kanarra+Falls+UT",
+  "best": "Waterfall",
+  "rec": "Giselle's Zion alternative #4 \u2014 her favorite of the five: a permitted slot-canyon waterfall hike, about 3.8 miles out and back with creek crossings the whole way and a ladder climb in the canyon. Permits sell out 1\u20132 weeks ahead in summer, so book early \u2014 and rent the waders unless you want numb feet for an hour afterwards.",
+  "reel": "https://www.instagram.com/reel/DZvgowxyUv7/",
+  "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
+  "creator": "@giselle.on.trails",
+  "rank": 4,
+  "also": []
+ },
+ {
+  "n": "39 \u00b7 Long Dong Silver",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Hanksville, Utah",
+  "site": "Long Dong Silver (Hanksville)",
+  "lat": 38.3938,
+  "lng": -110.83222,
+  "q": "Long+Dong+Silver+UT",
+  "best": "Viewpoint",
+  "rec": "Ranked #2 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': a bizarre rock spire that looks like another planet, rising from the desert near Hanksville.",
+  "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+  "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
+  "creator": "@adventurefamilyvlog",
+  "rank": 2,
+  "also": []
+ },
+ {
+  "n": "40 \u00b7 Monument Valley",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Oljato-Monument Valley, Utah",
@@ -1692,7 +2481,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "34 \u00b7 Natural Bridges National Monument",
+  "n": "41 \u00b7 Natural Bridges National Monument",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Blanding, Utah",
@@ -1709,7 +2498,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "35 \u00b7 Page",
+  "n": "42 \u00b7 Page",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Page, Arizona",
@@ -1726,7 +2515,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "36 \u00b7 Red Rock Canyon National Conservation Area",
+  "n": "43 \u00b7 Red Slot Canyon (Red Hollow)",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Orderville, Utah",
+  "site": "Red Hollow Slot Canyon",
+  "lat": 37.27089,
+  "lng": -112.62726,
+  "q": "Red+Hollow+Slot+Canyon+Orderville+UT",
+  "best": "Slot canyon",
+  "rec": "Giselle's Zion alternative #2: a 1.2-mile round-trip slot canyon with glowing orange and pink walls. Park at the water facility at the end of Red Hollow Drive \u2014 and note the sandy road is popular with off-roaders, so it can be soft going.",
+  "reel": "https://www.instagram.com/reel/DZvgowxyUv7/",
+  "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
+  "creator": "@giselle.on.trails",
+  "rank": 2,
+  "also": []
+ },
+ {
+  "n": "44 \u00b7 Red Rock Canyon National Conservation Area",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Las Vegas, Nevada",
@@ -1743,7 +2549,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "37 \u00b7 Chasm Lake",
+  "n": "45 \u00b7 Chasm Lake",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -1760,7 +2566,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "38 \u00b7 Gem Lake Trail",
+  "n": "46 \u00b7 Gem Lake Trail",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -1777,7 +2583,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "39 \u00b7 Rocky Mountain National Park",
+  "n": "47 \u00b7 Rocky Mountain National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -1809,7 +2615,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "40 \u00b7 Lake Haiyaha Trail",
+  "n": "48 \u00b7 Lake Haiyaha Trail",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -1826,7 +2632,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "41 \u00b7 Wasson Peak",
+  "n": "49 \u00b7 Wasson Peak",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Tucson, Arizona",
@@ -1843,7 +2649,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "42 \u00b7 Saguaro National Park",
+  "n": "50 \u00b7 Saguaro National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Tucson, Arizona",
@@ -1860,7 +2666,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "43 \u00b7 Sedona",
+  "n": "51 \u00b7 Sedona",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Sedona, Arizona",
@@ -1877,7 +2683,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "44 \u00b7 Valley of Fire State Park",
+  "n": "52 \u00b7 Toquerville Falls",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Toquerville, Utah",
+  "site": "Toquerville Falls (La Verkin Creek)",
+  "lat": 37.29863,
+  "lng": -113.24706,
+  "q": "Toquerville+Falls+UT",
+  "best": "Waterfall",
+  "rec": "Giselle's Zion alternative #3: no hiking required if you have a 4x4 (don't attempt it in a normal car) \u2014 a 5.3-mile dirt road, about 45 minutes, to falls that pour over two pour-offs on La Verkin Creek: a cascade section and a clean 20-foot drop into a pool. Free BLM land, and the swimming is incredible in summer.",
+  "reel": "https://www.instagram.com/reel/DZvgowxyUv7/",
+  "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
+  "creator": "@giselle.on.trails",
+  "rank": 3,
+  "also": []
+ },
+ {
+  "n": "53 \u00b7 Valley of Fire State Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Moapa Valley, Nevada",
@@ -1902,7 +2725,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "45 \u00b7 Angels Landing",
+  "n": "54 \u00b7 Water Canyon",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Hildale, Utah",
+  "site": "Water Canyon (Hildale)",
+  "lat": 37.05351,
+  "lng": -112.96363,
+  "q": "Water+Canyon+Hildale+UT",
+  "best": "Hike",
+  "rec": "Giselle's Zion alternative #5: a 4.25-mile out-and-back hike (about 500 ft of gain) that ends up looking like a mini version of Zion's Subway \u2014 and a pretty easy one. This is the one she says legit looks like the Subway.",
+  "reel": "https://www.instagram.com/reel/DZvgowxyUv7/",
+  "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
+  "creator": "@giselle.on.trails",
+  "rank": 5,
+  "also": []
+ },
+ {
+  "n": "55 \u00b7 Angels Landing",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Springdale, Utah",
@@ -1927,7 +2767,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "46 \u00b7 Subway Trail",
+  "n": "56 \u00b7 Subway Trail",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Zion National Park, Utah",
@@ -1944,7 +2784,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "47 \u00b7 The Narrows",
+  "n": "57 \u00b7 The Narrows",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Zion Canyon, Utah",
@@ -1969,7 +2809,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "48 \u00b7 Canyon Overlook",
+  "n": "58 \u00b7 Canyon Overlook",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Springdale, Utah",
@@ -2015,7 +2855,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "49 \u00b7 Zion National Park",
+  "n": "59 \u00b7 Zion National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Springdale, Utah",
@@ -2047,7 +2887,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "50 \u00b7 Zion Canyon",
+  "n": "60 \u00b7 Zion Canyon",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Springdale, Utah",
@@ -4279,5 +5119,5 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 19<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 22<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 7<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 50<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 32<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 33<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 12<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 13<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 35<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 44<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 7<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 60<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 32<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 33<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 12<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 13<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>
