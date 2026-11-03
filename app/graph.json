@@ -9976,11 +9976,11 @@
     "state_code": "",
     "region": "Pacific Northwest",
     "country": "United States",
-    "lat": 47.58973,
-    "lng": -124.36835,
+    "lat": 47.61294,
+    "lng": -124.37528,
     "google_maps_query": "Tree+of+Life+Kalaloch+Beach+WA",
     "best_for": "Viewpoint",
-    "note": "Coordinates verified against OpenStreetMap."
+    "note": "Coordinates from published references for the Tree of Life itself, at the north end of Kalaloch Beach by the campground — the tree is not a mapped OpenStreetMap feature (the beach's OSM point sits ~1.5 miles south)."
    }
   }
  ],
