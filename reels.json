@@ -2676,10 +2676,12 @@
    "creator": "@amorywild",
    "creator_name": "Amory Wild",
    "theme": "Unique national park waterfalls countdown",
-   "places_count": 3,
+   "places_count": 5,
    "place_ids": [
+    "wolf-creek-falls-wv",
     "hidden-falls-glacier-mt",
     "zapata-falls-co",
+    "cataract-falls-kenai-ak",
     "brooks-falls-ak"
    ],
    "posted": "2026-11-03",

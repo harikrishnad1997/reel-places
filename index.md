@@ -11,13 +11,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 37 places](#northeast)
-- [Southeast Region — 44 places](#southeast)
+- [Southeast Region — 45 places](#southeast)
 - [Midwest Region — 12 places](#midwest)
 - [Southwest Region — 68 places](#southwest)
 - [Mountain West Region — 42 places](#mountain-west)
 - [West Region — 33 places](#west)
 - [Pacific Northwest Region — 18 places](#pacific-northwest)
-- [Alaska Region — 14 places](#alaska)
+- [Alaska Region — 15 places](#alaska)
 - [Hawaii Region — 5 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
 - [Source reels](#source-reels)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 44 · Midwest 12 · Southwest 68 · Mountain West 42 · West 33 · Pacific Northwest 18 · Alaska 14 · Hawaii 5 · U.S. Territories 3 · **Total 276**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 45 · Midwest 12 · Southwest 68 · Mountain West 42 · West 33 · Pacific Northwest 18 · Alaska 15 · Hawaii 5 · U.S. Territories 3 · **Total 278**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -409,7 +409,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Southeast Region {#southeast}
 
-**44 places · Florida, Georgia, Kentucky, North Carolina, Tennessee, Virginia, West Virginia**
+**45 places · Florida, Georgia, Kentucky, North Carolina, Tennessee, Virginia, West Virginia**
 
 ### Amicalola Falls State Park
 
@@ -697,13 +697,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Also recommended by: [Wildlife — Mammoth Cave National Park](https://www.instagram.com/reel/DF_LFOtyBoO/) by @amorywild
     - **Best for:** Wildlife — Captioned 'The deer wanted something…' and hashtagged #mammothcave #mammothcavenationalpark — a park-level wildlife moment; no specific spot in the park is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
 
+### New River Gorge National Park
+
+#### West Virginia
+
+##### Waterfall
+
+- **32. [Wolf Creek Falls](https://www.google.com/maps/search/?api=1&query=Wolf+Creek+Falls+New+River+Gorge+WV)** — New River Gorge National Park, Fayetteville
+  - **Best for:** Waterfall — Amory's #5 unique national park waterfall: Wolf Creek Falls in New River Gorge — a wide, moss-covered cascade where water seeps and sheets over rocks beside the hiking trail.
+  - Approximate pin — it sits on Wolf Creek by Fayette Station Road (the USGS place-name point for the creek); the falls itself is not a separately mapped feature.
+  - 🎬 Source: [Top 5 Unique National Park Waterfalls](https://www.instagram.com/reel/DfS6lozBjPr/) by @amorywild (#5 in that reel)
+
 ### New River Gorge National Park and Preserve
 
 #### West Virginia
 
 ##### Underrated park
 
-- **32. [New River Gorge National Park and Preserve](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+National+Park+and+Preserve+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Oak Hill
+- **33. [New River Gorge National Park and Preserve](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+National+Park+and+Preserve+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Oak Hill
   - **Best for:** Underrated park — His #5 in '5 Most Underrated National Parks' (of the 63 he has visited): autumn-colored forests, the large steel arch bridge spanning the gorge, the river below, and a mossy waterfall.
   - Park-level pin is the park's Nominatim point in its southern district.
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#5 in that reel)
@@ -714,7 +725,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **33. [Ozone Falls](https://www.google.com/maps/search/?api=1&query=Ozone+Falls+TN)** — Ozone Falls State Natural Area, Crab Orchard
+- **34. [Ozone Falls](https://www.google.com/maps/search/?api=1&query=Ozone+Falls+TN)** — Ozone Falls State Natural Area, Crab Orchard
   - **Best for:** Waterfall — Ranked #24 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#24 in that reel)
@@ -725,7 +736,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **34. [Snooper's Rock](https://www.google.com/maps/search/?api=1&query=Snooper's+Rock+Chattanooga+TN)** — Prentice Cooper State Forest, Chattanooga
+- **35. [Snooper's Rock](https://www.google.com/maps/search/?api=1&query=Snooper's+Rock+Chattanooga+TN)** — Prentice Cooper State Forest, Chattanooga
   - **Best for:** Sunrise / View — Caption names Snooper's Rock, Chattanooga, TN. The video shows sunrise from the overlook: a sea of fog filling the valleys below, the sun emerging and turning the fog into a shimmering golden blanket — a tranquil, static sunrise scene with gentle piano music.
   - Pin is the Snoopers Rock kiosk/trailhead point; the overlook is a short walk from it.
   - 🎬 Source: [Sunrise viewpoint — Snooper's Rock](https://www.instagram.com/reel/DF_MIxuShFQ/) by @amorywild (#None in that reel)
@@ -736,7 +747,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **35. [Ruby Falls](https://www.google.com/maps/search/?api=1&query=Ruby+Falls+Chattanooga+TN)** — Ruby Falls (Lookout Mountain), Chattanooga
+- **36. [Ruby Falls](https://www.google.com/maps/search/?api=1&query=Ruby+Falls+Chattanooga+TN)** — Ruby Falls (Lookout Mountain), Chattanooga
   - **Best for:** Waterfall — Ranked #18 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#18 in that reel)
@@ -747,7 +758,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **36. [Sandstone Falls](https://www.google.com/maps/search/?api=1&query=Sandstone+Falls+WV)** — Sandstone Falls (New River Gorge), Hinton
+- **37. [Sandstone Falls](https://www.google.com/maps/search/?api=1&query=Sandstone+Falls+WV)** — Sandstone Falls (New River Gorge), Hinton
   - **Best for:** Waterfall — Ranked #19 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#19 in that reel)
@@ -758,10 +769,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **37. [Old Rag](https://www.google.com/maps/search/?api=1&query=Old+Rag+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+- **38. [Old Rag](https://www.google.com/maps/search/?api=1&query=Old+Rag+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Hike / Adrenaline — His #3 adrenaline hike: hikers squeezing through tight boulder chimneys and scrambling over granite slabs to reach expansive mountain vistas.
   - 🎬 Source: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild (#3 in that reel)
-- **38. [Upper Hawksbill Trail](https://www.google.com/maps/search/?api=1&query=Upper+Hawksbill+Trail+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+- **39. [Upper Hawksbill Trail](https://www.google.com/maps/search/?api=1&query=Upper+Hawksbill+Trail+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Hike / Summit — Caption names the Upper Hawksbill Trail, Shenandoah National Park. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - Pin is Hawksbill summit, the Upper Hawksbill Trail's destination and the park's highest point.
   - 🎬 Source: [Summit trail — Upper Hawksbill Trail](https://www.instagram.com/reel/DF-nmBxpSka/) by @amorywild (#None in that reel)
@@ -772,7 +783,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top national park (East)
 
-- **39. [Shenandoah National Park](https://www.google.com/maps/search/?api=1&query=Shenandoah+National+Park+VA)** — Shenandoah National Park, Luray
+- **40. [Shenandoah National Park](https://www.google.com/maps/search/?api=1&query=Shenandoah+National+Park+VA)** — Shenandoah National Park, Luray
   - **Best for:** Top national park (East) — Ranked #4 in the East, highlighted for mountain vistas along Skyline Drive at sunset, green ridges and a waterfall over mossy rocks.
   - 🎬 Source: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [Top 5 National Parks for Sunrises/Sets](https://www.instagram.com/reel/Dd1VBxKPvQU/) by @amorywild
@@ -782,11 +793,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **40. [Dark Hollow Falls](https://www.google.com/maps/search/?api=1&query=Dark+Hollow+Falls+VA)** — Shenandoah National Park, Luray
+- **41. [Dark Hollow Falls](https://www.google.com/maps/search/?api=1&query=Dark+Hollow+Falls+VA)** — Shenandoah National Park, Luray
   - **Best for:** Waterfall — Ranked #33 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#33 in that reel)
-- **41. [Overall Run Falls](https://www.google.com/maps/search/?api=1&query=Overall+Run+Falls+VA)** — Shenandoah National Park, Luray
+- **42. [Overall Run Falls](https://www.google.com/maps/search/?api=1&query=Overall+Run+Falls+VA)** — Shenandoah National Park, Luray
   - **Best for:** Waterfall — Ranked #39 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#39 in that reel)
@@ -797,7 +808,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **42. [Greeter Falls](https://www.google.com/maps/search/?api=1&query=Greeter+Falls+Altamont+TN)** — South Cumberland State Park (Savage Gulf), Altamont
+- **43. [Greeter Falls](https://www.google.com/maps/search/?api=1&query=Greeter+Falls+Altamont+TN)** — South Cumberland State Park (Savage Gulf), Altamont
   - **Best for:** Waterfall / Hike — Caption names Greeter Falls, TN, with a waterfall hashtag; the tagged location is Greeter Falls. The park/area (South Cumberland State Park's Savage Gulf, Grundy County) is inferred from the falls' location. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - 🎬 Source: [Waterfall — Greeter Falls](https://www.instagram.com/reel/DGYIRahuJhb/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Waterfall — Greeter Falls](https://www.instagram.com/reel/DeCM6vlBwb9/) by @amorywild
@@ -809,7 +820,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **43. [Upper Whitewater Falls](https://www.google.com/maps/search/?api=1&query=Upper+Whitewater+Falls+NC)** — Upper Whitewater Falls, Sapphire
+- **44. [Upper Whitewater Falls](https://www.google.com/maps/search/?api=1&query=Upper+Whitewater+Falls+NC)** — Upper Whitewater Falls, Sapphire
   - **Best for:** Waterfall — Ranked #5 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#5 in that reel)
@@ -820,7 +831,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **44. [Walls of Jericho](https://www.google.com/maps/search/?api=1&query=Walls+of+Jericho+TN)** — Walls of Jericho (Alabama–Tennessee state line), Winchester
+- **45. [Walls of Jericho](https://www.google.com/maps/search/?api=1&query=Walls+of+Jericho+TN)** — Walls of Jericho (Alabama–Tennessee state line), Winchester
   - **Best for:** Hike / Waterfall — Caption names the Walls of Jericho Hike on the Alabama/Tennessee border, with hiking and waterfall hashtags; tagged location is Walls of Jericho. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - The canyon straddles the Alabama–Tennessee line. Nominatim places the Walls of Jericho cliff feature in Franklin County, Tennessee, just across the line from the Alabama trailheads; filed under Tennessee (Southeast region either way).
   - 🎬 Source: [Hiking — Walls of Jericho](https://www.instagram.com/reel/DGQQ9E5ucHu/) by @amorywild (#None in that reel)
@@ -2404,7 +2415,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Alaska Region {#alaska}
 
-**14 places · Alaska**
+**15 places · Alaska**
 
 ### Denali National Park and Preserve
 
@@ -2531,6 +2542,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Waterfall — His #1 waterfall: Cataract Cove in Kenai Fjords National Park, where numerous waterfalls cascade directly from steep coastal cliffs into the ocean, filmed from a boat.
   - Pin is the Cataract Cove bay on the Kenai Fjords coast (Kenai Peninsula Borough); a same-name bay in the Aleutian Islands was rejected.
   - 🎬 Source: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild (#1 in that reel)
+- **11. [Cataract Falls (Kenai Fjords)](https://www.google.com/maps/search/?api=1&query=Cataract+Cove+Kenai+Fjords+Alaska)** — Kenai Fjords National Park, Seward
+  - **Best for:** Waterfall — Amory's #2 unique national park waterfall: Cataract Falls in Kenai Fjords — massive waterfalls pouring down sheer coastal cliffs directly into the ocean, seen from a boat.
+  - Pin is at Cataract Cove in the Northwestern Fjord (OpenStreetMap) — the boat-tour stop named for its waterfalls, where the falls pour down the cove's cliffs into the sea.
+  - 🎬 Source: [Top 5 Unique National Park Waterfalls](https://www.instagram.com/reel/DfS6lozBjPr/) by @amorywild (#2 in that reel)
 
 ### Kobuk Valley National Park
 
@@ -2538,7 +2553,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Solitude
 
-- **11. [Kobuk Valley National Park](https://www.google.com/maps/search/?api=1&query=Kobuk+Valley+National+Park+AK)** — Kobuk Valley National Park, Kotzebue
+- **12. [Kobuk Valley National Park](https://www.google.com/maps/search/?api=1&query=Kobuk+Valley+National+Park+AK)** — Kobuk Valley National Park, Kotzebue
   - **Best for:** Solitude — Listed jointly at #1 for solitude with Gates of the Arctic, shown with vast sandy dunes and gravel riverbeds and emphasised as extremely remote.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#1 in that reel)
   - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
@@ -2552,7 +2567,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Bucket list
 
-- **12. [Lake Clark National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Lake+Clark+National+Park+and+Preserve+AK)** — Lake Clark National Park and Preserve, Port Alsworth
+- **13. [Lake Clark National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Lake+Clark+National+Park+and+Preserve+AK)** — Lake Clark National Park and Preserve, Port Alsworth
   - **Best for:** Bucket list — Ranked #2 bucket list park, with braided rivers, snow-capped mountains, glaciers and a brown bear with cubs in a meadow.
   - 🎬 Source: [My Top 5 Bucket List National Parks](https://www.instagram.com/reel/DezrbJsPMPY/) by @amorywild (#2 in that reel)
   - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
@@ -2568,7 +2583,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **13. [Root Glacier](https://www.google.com/maps/search/?api=1&query=Root+Glacier+Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
+- **14. [Root Glacier](https://www.google.com/maps/search/?api=1&query=Root+Glacier+Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
   - **Best for:** Hike — Ranked #2, showcasing close-ups of blue ice, meltwater streams and glacial pools on the Root Glacier.
   - 🎬 Source: [My Top 5 Awe-Inspiring National Park Hikes](https://www.instagram.com/reel/DerSq5htCWS/) by @amorywild (#2 in that reel)
   - 🎬 Also recommended by: [Guess the National Park game — Root Glacier Trail](https://www.instagram.com/reel/DepK7AbMgFF/) by @amorywild
@@ -2578,7 +2593,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top national park
 
-- **14. [Wrangell-St. Elias National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
+- **15. [Wrangell-St. Elias National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
   - **Best for:** Top national park — Ranked #13, featuring vast glaciers, ice caves and meltwater streams.
   - Nominatim has no entry for the park itself; the pin is McCarthy, the main access town inside the park.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#13 in that reel)
@@ -3021,7 +3036,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Lake of the Clouds in Porcupine Mountains Wilderness State Park, Michigan's Upper Peninsula — a mountain lake overlook that shines in fall color.
 - **[US Route 163 & Forrest Gump Point — the drive that ruined all others](https://www.instagram.com/reel/DfSTi-OxFFN/)** — @meetmoons · 1 places · Theme: Monument Valley scenic drive
   - What the reel recommends: Forrest Gump Point on US Route 163 at Monument Valley (Arizona–Utah) — already on the map; added as another source for the iconic drive toward the buttes.
-- **[Top 5 Unique National Park Waterfalls](https://www.instagram.com/reel/DfS6lozBjPr/)** — @amorywild · 3 places · Theme: Unique national park waterfalls countdown
+- **[Top 5 Unique National Park Waterfalls](https://www.instagram.com/reel/DfS6lozBjPr/)** — @amorywild · 5 places · Theme: Unique national park waterfalls countdown
   - What the reel recommends: Amory Wild's Top 5 Unique National Park Waterfalls: #5 Wolf Creek Falls (New River Gorge), #4 Hidden Falls (Glacier), #3 Zapata Falls (near Great Sand Dunes), #2 Cataract Falls (Kenai Fjords), #1 Brooks Falls (Katmai).
 - **[Mount Si — Washington's most popular hike](https://www.instagram.com/reel/DfSQ-1wGjff/)** — @outdoorsapp · 1 places · Theme: Washington day hike
   - What the reel recommends: Mount Si above North Bend, Washington — the state's most popular hike (8 mi RT, 3,150 ft), a Rainier training standard; Discover Pass required and the lot fills early.

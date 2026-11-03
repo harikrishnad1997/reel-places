@@ -3266,7 +3266,7 @@
     "title": "Top 5 Unique National Park Waterfalls",
     "creator": "@amorywild",
     "theme": "Unique national park waterfalls countdown",
-    "places_count": 3,
+    "places_count": 5,
     "recommendation_summary": "Amory Wild's Top 5 Unique National Park Waterfalls: #5 Wolf Creek Falls (New River Gorge), #4 Hidden Falls (Glacier), #3 Zapata Falls (near Great Sand Dunes), #2 Cataract Falls (Kenai Fjords), #1 Brooks Falls (Katmai).",
     "posted": "2026-11-03",
     "added": "2026-11-03"
@@ -10332,6 +10332,51 @@
    "type": "Site",
    "properties": {
     "name": "Mount Si Natural Resources Conservation Area"
+   }
+  },
+  {
+   "id": "place:wolf-creek-falls-wv",
+   "type": "Place",
+   "properties": {
+    "name": "Wolf Creek Falls",
+    "place_id": "wolf-creek-falls-wv",
+    "site": "New River Gorge National Park",
+    "city": "Fayetteville",
+    "state": "West Virginia",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 38.06622,
+    "lng": -81.07927,
+    "google_maps_query": "Wolf+Creek+Falls+New+River+Gorge+WV",
+    "best_for": "Waterfall",
+    "note": "Approximate pin — it sits on Wolf Creek by Fayette Station Road (the USGS place-name point for the creek); the falls itself is not a separately mapped feature."
+   }
+  },
+  {
+   "id": "site:new-river-gorge-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "New River Gorge National Park"
+   }
+  },
+  {
+   "id": "place:cataract-falls-kenai-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Cataract Falls (Kenai Fjords)",
+    "place_id": "cataract-falls-kenai-ak",
+    "site": "Kenai Fjords National Park",
+    "city": "Seward",
+    "state": "Alaska",
+    "state_code": "",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 59.71417,
+    "lng": -149.81722,
+    "google_maps_query": "Cataract+Cove+Kenai+Fjords+Alaska",
+    "best_for": "Waterfall",
+    "note": "Pin is at Cataract Cove in the Northwestern Fjord (OpenStreetMap) — the boat-tour stop named for its waterfalls, where the falls pour down the cove's cliffs into the sea."
    }
   }
  ],
@@ -24241,6 +24286,68 @@
   {
    "from": "place:mount-si-wa",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wolf-creek-falls-wv",
+   "to": "state:united-states-west-virginia",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:wolf-creek-falls-wv",
+   "to": "site:new-river-gorge-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wolf-creek-falls-wv",
+   "to": "reel:DfS6lozBjPr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Waterfall",
+    "recommendation": "Amory's #5 unique national park waterfall: Wolf Creek Falls in New River Gorge — a wide, moss-covered cascade where water seeps and sheets over rocks beside the hiking trail.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 Unique National Park Waterfalls",
+    "reel_theme": "Unique national park waterfalls countdown"
+   }
+  },
+  {
+   "from": "place:wolf-creek-falls-wv",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-falls-kenai-ak",
+   "to": "state:united-states-alaska",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-falls-kenai-ak",
+   "to": "site:kenai-fjords-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-falls-kenai-ak",
+   "to": "reel:DfS6lozBjPr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Waterfall",
+    "recommendation": "Amory's #2 unique national park waterfall: Cataract Falls in Kenai Fjords — massive waterfalls pouring down sheer coastal cliffs directly into the ocean, seen from a boat.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 Unique National Park Waterfalls",
+    "reel_theme": "Unique national park waterfalls countdown"
+   }
+  },
+  {
+   "from": "place:cataract-falls-kenai-ak",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }
