@@ -2301,18 +2301,68 @@
    "creator": "@adventurefamilyvlog",
    "creator_name": "Adventure Family Vlog (Heather & Jesse)",
    "theme": "Utah beyond the national parks",
-   "places_count": 6,
+   "places_count": 8,
    "place_ids": [
     "factory-butte-ut",
     "grand-staircase-escalante-nm-ut",
     "long-dong-silver-ut",
     "bentonite-hills-ut",
     "great-salt-lake-pink-water-ut",
-    "bonneville-salt-flats-ut"
+    "bonneville-salt-flats-ut",
+    "potash-road-ut",
+    "marlboro-point-ut"
    ],
    "posted": "2026-10-31",
    "added": "2026-11-02",
    "recommendation_summary": "Nine unreal Utah spots outside the national parks: Grand Staircase-Escalante, Long Dong Silver, Factory Butte, Bentonite Hills, Potash Road, the Great Salt Lake's pink water, Bonneville Salt Flats and Marlboro Point are pinned; #7, 'Utah's Dark Sky Destinations', is a theme rather than a single place, so it has no pin."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcwklY4JwKO/",
+   "title": "Going-to-the-Sun Road, Glacier National Park",
+   "creator": "@joycequeviaja",
+   "creator_name": "Joyce Que Viaja",
+   "theme": "Glacier scenic drive",
+   "places_count": 1,
+   "place_ids": [
+    "going-to-the-sun-road-mt"
+   ],
+   "posted": "2026-09-01",
+   "added": "2026-11-02",
+   "recommendation_summary": "Going-to-the-Sun Road in Glacier National Park, Montana \u2014 called the most beautiful place the creator has been in the US."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfPlCYlBKv2/",
+   "title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+   "creator": "@funsizewanderer",
+   "creator_name": "Funsize Wanderer",
+   "theme": "Dakotas road trip itinerary",
+   "places_count": 6,
+   "place_ids": [
+    "badlands-national-park-sd",
+    "theodore-roosevelt-national-park-nd",
+    "devils-tower-national-monument-wy",
+    "wind-cave-national-park-sd",
+    "custer-state-park-sd",
+    "mount-rushmore-sd"
+   ],
+   "posted": "2026-11-02",
+   "added": "2026-11-02",
+   "recommendation_summary": "A 9-day, two-state loop from Rapid City: Badlands NP, Theodore Roosevelt NP (Medora), Devils Tower, Wind Cave NP, Custer State Park and Mount Rushmore \u2014 best April\u2013May or September\u2013October, about 5 days of PTO across two weekends."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfP6OiPPW-W/",
+   "title": "Bentonite Hills \u2014 a landscape from another planet",
+   "creator": "@megsandpat",
+   "creator_name": "Megs and Pat",
+   "theme": "Bentonite Hills guide",
+   "places_count": 1,
+   "place_ids": [
+    "bentonite-hills-ut"
+   ],
+   "posted": "2026-11-02",
+   "added": "2026-11-02",
+   "duplicate_place": true,
+   "recommendation_summary": "Bentonite Hills near Hanksville, Utah (Cow Dung Road / Mars Desert Research Station) \u2014 already on the map from @adventurefamilyvlog; added as a second source with visit tips."
   }
  ]
 }

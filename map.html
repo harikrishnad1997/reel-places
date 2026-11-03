@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;color:#fff;font-weight:700;font-size:11px;text-align:center;line-height:22px;width:22px;height:22px;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>244 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>251 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
@@ -1508,6 +1508,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Sunrise / Sunset",
     "rec": "His #5 park for sunrises and sunsets: Badlands, noted for consistent weather, easy pull-over overlooks, and short hikes to views over layered formations under orange skies."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DfPlCYlBKv2/",
+    "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "creator": "@funsizewanderer",
+    "best": "Road trip",
+    "rec": "Stop 1 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Days 1\u20132 \u2014 fly into Rapid City and head straight to the Badlands."
    }
   ]
  },
@@ -1529,7 +1536,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "3 \u00b7 Isle Royale National Park",
+  "n": "3 \u00b7 Custer State Park",
+  "r": "midwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Custer, South Dakota",
+  "site": "Custer State Park",
+  "lat": 43.74298,
+  "lng": -103.41871,
+  "q": "Custer+State+Park+SD",
+  "best": "Road trip stop",
+  "rec": "Stop 5 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Mount Rushmore \u2014 wildlife-loop country in the Black Hills.",
+  "reel": "https://www.instagram.com/reel/DfPlCYlBKv2/",
+  "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+  "creator": "@funsizewanderer",
+  "rank": 5,
+  "also": []
+ },
+ {
+  "n": "4 \u00b7 Isle Royale National Park",
   "r": "midwest",
   "rlabel": "U.S. Territories",
   "loc": "Rock Harbor, Michigan",
@@ -1546,7 +1570,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "4 \u00b7 Palisade Head",
+  "n": "5 \u00b7 Mount Rushmore",
+  "r": "midwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Keystone, South Dakota",
+  "site": "Mount Rushmore National Memorial",
+  "lat": 43.88086,
+  "lng": -103.45382,
+  "q": "Mount+Rushmore+National+Memorial+SD",
+  "best": "Road trip stop",
+  "rec": "Stop 6 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Custer State Park before the Day 9 flight out of Rapid City.",
+  "reel": "https://www.instagram.com/reel/DfPlCYlBKv2/",
+  "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+  "creator": "@funsizewanderer",
+  "rank": 6,
+  "also": []
+ },
+ {
+  "n": "6 \u00b7 Palisade Head",
   "r": "midwest",
   "rlabel": "U.S. Territories",
   "loc": "Silver Bay, Minnesota",
@@ -1563,7 +1604,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "5 \u00b7 Eagle Tower",
+  "n": "7 \u00b7 Eagle Tower",
   "r": "midwest",
   "rlabel": "U.S. Territories",
   "loc": "Fish Creek, Wisconsin",
@@ -1580,7 +1621,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Eagle Trail",
+  "n": "8 \u00b7 Eagle Trail",
   "r": "midwest",
   "rlabel": "U.S. Territories",
   "loc": "Fish Creek, Wisconsin",
@@ -1597,7 +1638,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Theodore Roosevelt National Park",
+  "n": "9 \u00b7 Theodore Roosevelt National Park",
   "r": "midwest",
   "rlabel": "U.S. Territories",
   "loc": "Medora, North Dakota",
@@ -1625,8 +1666,32 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Bison / Wildlife",
     "rec": "Caption names Theodore Roosevelt National Park for wildlife. A large American bison grazes calmly beside a paved road in golden-hour prairie light, while on-screen text jokes, 'And I heard they like to be petted...'"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DfPlCYlBKv2/",
+    "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "creator": "@funsizewanderer",
+    "best": "Road trip",
+    "rec": "Stop 2 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Days 4\u20135, based in Medora \u2014 the North Dakota leg of the loop."
    }
   ]
+ },
+ {
+  "n": "10 \u00b7 Wind Cave National Park",
+  "r": "midwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Hot Springs, South Dakota",
+  "site": "Wind Cave National Park",
+  "lat": 43.57887,
+  "lng": -103.47085,
+  "q": "Wind+Cave+National+Park+SD",
+  "best": "Road trip stop",
+  "rec": "Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 \u2014 book a timed cave tour in advance, per her tip.",
+  "reel": "https://www.instagram.com/reel/DfPlCYlBKv2/",
+  "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+  "creator": "@funsizewanderer",
+  "rank": 4,
+  "also": []
  },
  {
   "n": "1 \u00b7 Delicate Arch",
@@ -1700,9 +1765,9 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Hanksville, Utah",
-  "site": "Bentonite Hills (Caineville)",
-  "lat": 38.36167,
-  "lng": -111.12797,
+  "site": "Bentonite Hills (Cow Dung Road, near the Mars Desert Research Station)",
+  "lat": 38.41225,
+  "lng": -110.78594,
   "q": "Bentonite+Hills+UT",
   "best": "Viewpoint",
   "rec": "Ranked #4 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': rainbow-colored hills that look like Mars, in the badlands west of Hanksville.",
@@ -1710,7 +1775,15 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
   "creator": "@adventurefamilyvlog",
   "rank": 4,
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/DfP6OiPPW-W/",
+    "reel_title": "Bentonite Hills \u2014 a landscape from another planet",
+    "creator": "@megsandpat",
+    "best": "Viewpoint",
+    "rec": "Megs and Pat's Mars-on-Earth pick: hills of bentonite clay near Hanksville, just outside Capitol Reef, striped purple, pink, red, orange, grey and blue-green from volcanic ash and minerals. Their practical notes: on the road toward the Mars Desert Research Station; unpaved access, high-clearance 4WD recommended; best at sunrise or sunset when low light brings out the colours; and never after rain \u2014 wet bentonite turns extremely slippery and sticky and vehicles get stuck."
+   }
+  ]
  },
  {
   "n": "5 \u00b7 Santa Elena Canyon",
@@ -2464,7 +2537,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "40 \u00b7 Monument Valley",
+  "n": "40 \u00b7 Marlboro Point",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Moab, Utah",
+  "site": "Marlboro Point",
+  "lat": 38.49463,
+  "lng": -109.7701,
+  "q": "Marlboro+Point+Moab+UT",
+  "best": "Viewpoint",
+  "rec": "Ranked #9 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': a hidden desert overlook with incredible canyon views, out in the Moab backcountry between Canyonlands and Dead Horse Point.",
+  "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+  "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
+  "creator": "@adventurefamilyvlog",
+  "rank": 9,
+  "also": []
+ },
+ {
+  "n": "41 \u00b7 Monument Valley",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Oljato-Monument Valley, Utah",
@@ -2481,7 +2571,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "41 \u00b7 Natural Bridges National Monument",
+  "n": "42 \u00b7 Natural Bridges National Monument",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Blanding, Utah",
@@ -2498,7 +2588,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "42 \u00b7 Page",
+  "n": "43 \u00b7 Page",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Page, Arizona",
@@ -2515,7 +2605,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "43 \u00b7 Red Slot Canyon (Red Hollow)",
+  "n": "44 \u00b7 Potash Road",
+  "r": "southwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Moab, Utah",
+  "site": "Potash Road (SR-279, Moab)",
+  "lat": 38.53351,
+  "lng": -109.60789,
+  "q": "Potash+Road+Moab+UT",
+  "best": "Scenic drive",
+  "rec": "Ranked #5 in Adventure Family Vlog's '9 Places in Utah That Look Unreal \u2014 and none are in a national park': a jaw-dropping scenic drive along the Colorado River near Moab.",
+  "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
+  "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
+  "creator": "@adventurefamilyvlog",
+  "rank": 5,
+  "also": []
+ },
+ {
+  "n": "45 \u00b7 Red Slot Canyon (Red Hollow)",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Orderville, Utah",
@@ -2532,7 +2639,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "44 \u00b7 Red Rock Canyon National Conservation Area",
+  "n": "46 \u00b7 Red Rock Canyon National Conservation Area",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Las Vegas, Nevada",
@@ -2549,7 +2656,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "45 \u00b7 Chasm Lake",
+  "n": "47 \u00b7 Chasm Lake",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -2566,7 +2673,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "46 \u00b7 Gem Lake Trail",
+  "n": "48 \u00b7 Gem Lake Trail",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -2583,7 +2690,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "47 \u00b7 Rocky Mountain National Park",
+  "n": "49 \u00b7 Rocky Mountain National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -2615,7 +2722,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "48 \u00b7 Lake Haiyaha Trail",
+  "n": "50 \u00b7 Lake Haiyaha Trail",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Estes Park, Colorado",
@@ -2632,7 +2739,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "49 \u00b7 Wasson Peak",
+  "n": "51 \u00b7 Wasson Peak",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Tucson, Arizona",
@@ -2649,7 +2756,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "50 \u00b7 Saguaro National Park",
+  "n": "52 \u00b7 Saguaro National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Tucson, Arizona",
@@ -2666,7 +2773,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "51 \u00b7 Sedona",
+  "n": "53 \u00b7 Sedona",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Sedona, Arizona",
@@ -2683,7 +2790,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "52 \u00b7 Toquerville Falls",
+  "n": "54 \u00b7 Toquerville Falls",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Toquerville, Utah",
@@ -2700,7 +2807,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "53 \u00b7 Valley of Fire State Park",
+  "n": "55 \u00b7 Valley of Fire State Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Moapa Valley, Nevada",
@@ -2725,7 +2832,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "54 \u00b7 Water Canyon",
+  "n": "56 \u00b7 Water Canyon",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Hildale, Utah",
@@ -2742,7 +2849,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "55 \u00b7 Angels Landing",
+  "n": "57 \u00b7 Angels Landing",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Springdale, Utah",
@@ -2767,7 +2874,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "56 \u00b7 Subway Trail",
+  "n": "58 \u00b7 Subway Trail",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Zion National Park, Utah",
@@ -2784,7 +2891,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "57 \u00b7 The Narrows",
+  "n": "59 \u00b7 The Narrows",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Zion Canyon, Utah",
@@ -2809,7 +2916,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "58 \u00b7 Canyon Overlook",
+  "n": "60 \u00b7 Canyon Overlook",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Springdale, Utah",
@@ -2855,7 +2962,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "59 \u00b7 Zion National Park",
+  "n": "61 \u00b7 Zion National Park",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Springdale, Utah",
@@ -2887,7 +2994,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "60 \u00b7 Zion Canyon",
+  "n": "62 \u00b7 Zion Canyon",
   "r": "southwest",
   "rlabel": "U.S. Territories",
   "loc": "Springdale, Utah",
@@ -2929,7 +3036,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "2 \u00b7 Avalanche Lake",
+  "n": "2 \u00b7 Devils Tower National Monument",
+  "r": "mountain-west",
+  "rlabel": "U.S. Territories",
+  "loc": "Hulett, Wyoming",
+  "site": "Devils Tower National Monument",
+  "lat": 44.5898,
+  "lng": -104.71516,
+  "q": "Devils+Tower+National+Monument+WY",
+  "best": "Road trip stop",
+  "rec": "Stop 3 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 6 \u2014 treated as its own stop on the transfer back to the Black Hills.",
+  "reel": "https://www.instagram.com/reel/DfPlCYlBKv2/",
+  "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+  "creator": "@funsizewanderer",
+  "rank": 3,
+  "also": []
+ },
+ {
+  "n": "3 \u00b7 Avalanche Lake",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "West Glacier, Montana",
@@ -2946,7 +3070,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "3 \u00b7 Glacier National Park",
+  "n": "4 \u00b7 Glacier National Park",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "West Glacier, Montana",
@@ -2978,7 +3102,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "4 \u00b7 Mt Henry Trail",
+  "n": "5 \u00b7 Mt Henry Trail",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Glacier National Park, Montana",
@@ -2995,7 +3119,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "5 \u00b7 Stanton Mountain",
+  "n": "6 \u00b7 Stanton Mountain",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Lake McDonald, Montana",
@@ -3012,7 +3136,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "6 \u00b7 Virginia Falls",
+  "n": "7 \u00b7 Going-to-the-Sun Road",
+  "r": "mountain-west",
+  "rlabel": "U.S. Territories",
+  "loc": "West Glacier, Montana",
+  "site": "Glacier National Park",
+  "lat": 48.50655,
+  "lng": -113.98772,
+  "q": "Going-to-the-Sun+Road+Glacier+National+Park+MT",
+  "best": "Scenic drive",
+  "rec": "Joyce's verdict: 'Breathtaking views \u2014 definitely the most beautiful place I've ever been in the US.' The reel is a love letter to Glacier's Going-to-the-Sun Road, the alpine highway over Logan Pass.",
+  "reel": "https://www.instagram.com/reel/DcwklY4JwKO/",
+  "reel_title": "Going-to-the-Sun Road, Glacier National Park",
+  "creator": "@joycequeviaja",
+  "rank": 1,
+  "also": []
+ },
+ {
+  "n": "8 \u00b7 Virginia Falls",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "St. Mary, Montana",
@@ -3037,7 +3178,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "7 \u00b7 Jenny Lake",
+  "n": "9 \u00b7 Jenny Lake",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Jenny Lake, Wyoming",
@@ -3054,7 +3195,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Hidden Falls",
+  "n": "10 \u00b7 Hidden Falls",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Jenny Lake, Wyoming",
@@ -3071,7 +3212,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Grand Teton National Park",
+  "n": "11 \u00b7 Grand Teton National Park",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Moose, Wyoming",
@@ -3096,7 +3237,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "10 \u00b7 Great Sand Dunes National Park",
+  "n": "12 \u00b7 Great Sand Dunes National Park",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Mosca, Colorado",
@@ -3113,7 +3254,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Manitou Incline",
+  "n": "13 \u00b7 Manitou Incline",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Manitou Springs, Colorado",
@@ -3130,7 +3271,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Grotto Geyser",
+  "n": "14 \u00b7 Grotto Geyser",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3147,7 +3288,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "13 \u00b7 Old Faithful",
+  "n": "15 \u00b7 Old Faithful",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3164,7 +3305,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Norris Geyser Basin",
+  "n": "16 \u00b7 Norris Geyser Basin",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3181,7 +3322,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 West Thumb Geyser Basin",
+  "n": "17 \u00b7 West Thumb Geyser Basin",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3198,7 +3339,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Bunsen Peak",
+  "n": "18 \u00b7 Bunsen Peak",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3215,7 +3356,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Artists Paint Pots",
+  "n": "19 \u00b7 Artists Paint Pots",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3232,7 +3373,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Grand Prismatic Spring",
+  "n": "20 \u00b7 Grand Prismatic Spring",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3249,7 +3390,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Mammoth Hot Springs",
+  "n": "21 \u00b7 Mammoth Hot Springs",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3266,7 +3407,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "20 \u00b7 Morning Glory Pool",
+  "n": "22 \u00b7 Morning Glory Pool",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3283,7 +3424,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Trout Lake",
+  "n": "23 \u00b7 Trout Lake",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3300,7 +3441,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 Yellowstone Lake",
+  "n": "24 \u00b7 Yellowstone Lake",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3317,7 +3458,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "23 \u00b7 Mud Volcano",
+  "n": "25 \u00b7 Mud Volcano",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3334,7 +3475,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Artist Point",
+  "n": "26 \u00b7 Artist Point",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3351,7 +3492,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "25 \u00b7 Fairy Falls",
+  "n": "27 \u00b7 Fairy Falls",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3368,7 +3509,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Firehole Falls",
+  "n": "28 \u00b7 Firehole Falls",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3385,7 +3526,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 Gibbon Falls",
+  "n": "29 \u00b7 Gibbon Falls",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3402,7 +3543,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "28 \u00b7 Lower Yellowstone Falls",
+  "n": "30 \u00b7 Lower Yellowstone Falls",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3419,7 +3560,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Undine Falls",
+  "n": "31 \u00b7 Undine Falls",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3436,7 +3577,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "30 \u00b7 Lamar Valley",
+  "n": "32 \u00b7 Lamar Valley",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3453,7 +3594,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "31 \u00b7 LeHardy Rapids",
+  "n": "33 \u00b7 LeHardy Rapids",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Yellowstone National Park, Wyoming",
@@ -3470,7 +3611,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "32 \u00b7 Yellowstone National Park",
+  "n": "34 \u00b7 Yellowstone National Park",
   "r": "mountain-west",
   "rlabel": "U.S. Territories",
   "loc": "Gardiner, Wyoming",
@@ -5119,5 +5260,5 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 35<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 44<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 7<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 60<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 32<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 33<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 12<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 13<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 35<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 44<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 10<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 62<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 34<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 33<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 12<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 13<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>

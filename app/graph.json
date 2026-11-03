@@ -2613,7 +2613,7 @@
     "title": "9 Places in Utah That Look Unreal — None in a National Park",
     "creator": "@adventurefamilyvlog",
     "theme": "Utah beyond the national parks",
-    "places_count": 6,
+    "places_count": 8,
     "recommendation_summary": "Nine unreal Utah spots outside the national parks: Grand Staircase-Escalante, Long Dong Silver, Factory Butte, Bentonite Hills, Potash Road, the Great Salt Lake's pink water, Bonneville Salt Flats and Marlboro Point are pinned; #7, 'Utah's Dark Sky Destinations', is a theme rather than a single place, so it has no pin.",
     "posted": "2026-10-31",
     "added": "2026-11-02"
@@ -2624,6 +2624,99 @@
    "type": "Theme",
    "properties": {
     "name": "Utah beyond the national parks"
+   }
+  },
+  {
+   "id": "reel:DcwklY4JwKO",
+   "type": "Reel",
+   "properties": {
+    "name": "Going-to-the-Sun Road, Glacier National Park",
+    "url": "https://www.instagram.com/reel/DcwklY4JwKO/",
+    "title": "Going-to-the-Sun Road, Glacier National Park",
+    "creator": "@joycequeviaja",
+    "theme": "Glacier scenic drive",
+    "places_count": 1,
+    "recommendation_summary": "Going-to-the-Sun Road in Glacier National Park, Montana — called the most beautiful place the creator has been in the US.",
+    "posted": "2026-09-01",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:joycequeviaja",
+   "type": "Creator",
+   "properties": {
+    "name": "@joycequeviaja",
+    "handle": "@joycequeviaja",
+    "display_name": "Joyce Que Viaja"
+   }
+  },
+  {
+   "id": "theme:glacier-scenic-drive",
+   "type": "Theme",
+   "properties": {
+    "name": "Glacier scenic drive"
+   }
+  },
+  {
+   "id": "reel:DfPlCYlBKv2",
+   "type": "Reel",
+   "properties": {
+    "name": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "url": "https://www.instagram.com/reel/DfPlCYlBKv2/",
+    "title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "creator": "@funsizewanderer",
+    "theme": "Dakotas road trip itinerary",
+    "places_count": 6,
+    "recommendation_summary": "A 9-day, two-state loop from Rapid City: Badlands NP, Theodore Roosevelt NP (Medora), Devils Tower, Wind Cave NP, Custer State Park and Mount Rushmore — best April–May or September–October, about 5 days of PTO across two weekends.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:funsizewanderer",
+   "type": "Creator",
+   "properties": {
+    "name": "@funsizewanderer",
+    "handle": "@funsizewanderer",
+    "display_name": "Funsize Wanderer"
+   }
+  },
+  {
+   "id": "theme:dakotas-road-trip-itinerary",
+   "type": "Theme",
+   "properties": {
+    "name": "Dakotas road trip itinerary"
+   }
+  },
+  {
+   "id": "reel:DfP6OiPPW-W",
+   "type": "Reel",
+   "properties": {
+    "name": "Bentonite Hills — a landscape from another planet",
+    "url": "https://www.instagram.com/reel/DfP6OiPPW-W/",
+    "title": "Bentonite Hills — a landscape from another planet",
+    "creator": "@megsandpat",
+    "theme": "Bentonite Hills guide",
+    "places_count": 1,
+    "recommendation_summary": "Bentonite Hills near Hanksville, Utah (Cow Dung Road / Mars Desert Research Station) — already on the map from @adventurefamilyvlog; added as a second source with visit tips.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:megsandpat",
+   "type": "Creator",
+   "properties": {
+    "name": "@megsandpat",
+    "handle": "@megsandpat",
+    "display_name": "Megs and Pat"
+   }
+  },
+  {
+   "id": "theme:bentonite-hills-guide",
+   "type": "Theme",
+   "properties": {
+    "name": "Bentonite Hills guide"
    }
   },
   {
@@ -2926,6 +3019,13 @@
    }
   },
   {
+   "id": "theme:road-trip",
+   "type": "Theme",
+   "properties": {
+    "name": "Road trip"
+   }
+  },
+  {
    "id": "place:guadalupe-peak-tx",
    "type": "Place",
    "properties": {
@@ -3183,13 +3283,6 @@
    "type": "Theme",
    "properties": {
     "name": "Stargazing"
-   }
-  },
-  {
-   "id": "theme:road-trip",
-   "type": "Theme",
-   "properties": {
-    "name": "Road trip"
    }
   },
   {
@@ -8739,24 +8832,24 @@
    "properties": {
     "name": "Bentonite Hills",
     "place_id": "bentonite-hills-ut",
-    "site": "Bentonite Hills (Caineville)",
+    "site": "Bentonite Hills (Cow Dung Road, near the Mars Desert Research Station)",
     "city": "Hanksville",
     "state": "Utah",
     "state_code": "",
     "region": "Southwest",
     "country": "United States",
-    "lat": 38.36167,
-    "lng": -111.12797,
+    "lat": 38.41225,
+    "lng": -110.78594,
     "google_maps_query": "Bentonite+Hills+UT",
     "best_for": "Viewpoint",
-    "note": "Coordinates verified against OpenStreetMap."
+    "note": "Two Bentonite Hills areas exist: the official ones inside Capitol Reef (Cathedral Valley) and the photographed BLM hills on Cow Dung Road near the Mars Desert Research Station outside Hanksville. Both source reels point to the Hanksville/MDRS hills (the 'none in a national park' list rules out the park site), so the pin uses the Cow Dung Road coordinates given by several independent guides (~38.4123, -110.7859)."
    }
   },
   {
-   "id": "site:bentonite-hills-caineville",
+   "id": "site:bentonite-hills-cow-dung-road-near-the-mars-desert-research-station",
    "type": "Site",
    "properties": {
-    "name": "Bentonite Hills (Caineville)"
+    "name": "Bentonite Hills (Cow Dung Road, near the Mars Desert Research Station)"
    }
   },
   {
@@ -8809,6 +8902,215 @@
    "type": "Site",
    "properties": {
     "name": "Bonneville Salt Flats"
+   }
+  },
+  {
+   "id": "place:potash-road-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Potash Road",
+    "place_id": "potash-road-ut",
+    "site": "Potash Road (SR-279, Moab)",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.53351,
+    "lng": -109.60789,
+    "google_maps_query": "Potash+Road+Moab+UT",
+    "best_for": "Scenic drive",
+    "note": "Pin marks the Potash Road dinosaur tracks & petroglyphs stop on SR-279 (a documented roadside stop on the drive); coordinates from the place record for that stop. The road itself runs ~17 miles along the Colorado River from US-191."
+   }
+  },
+  {
+   "id": "site:potash-road-sr-279-moab",
+   "type": "Site",
+   "properties": {
+    "name": "Potash Road (SR-279, Moab)"
+   }
+  },
+  {
+   "id": "theme:scenic-drive",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic drive"
+   }
+  },
+  {
+   "id": "place:marlboro-point-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Marlboro Point",
+    "place_id": "marlboro-point-ut",
+    "site": "Marlboro Point",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.49463,
+    "lng": -109.7701,
+    "google_maps_query": "Marlboro+Point+Moab+UT",
+    "best_for": "Viewpoint",
+    "note": "Coordinates from the Marlboro Point place record (Grand County, UT); reached by dirt roads off UT-313, high-clearance 4x4 for the last stretch."
+   }
+  },
+  {
+   "id": "site:marlboro-point",
+   "type": "Site",
+   "properties": {
+    "name": "Marlboro Point"
+   }
+  },
+  {
+   "id": "place:going-to-the-sun-road-mt",
+   "type": "Place",
+   "properties": {
+    "name": "Going-to-the-Sun Road",
+    "place_id": "going-to-the-sun-road-mt",
+    "site": "Glacier National Park",
+    "city": "West Glacier",
+    "state": "Montana",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 48.50655,
+    "lng": -113.98772,
+    "google_maps_query": "Going-to-the-Sun+Road+Glacier+National+Park+MT",
+    "best_for": "Scenic drive",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-montana",
+   "type": "State",
+   "properties": {
+    "name": "Montana",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "place:devils-tower-national-monument-wy",
+   "type": "Place",
+   "properties": {
+    "name": "Devils Tower National Monument",
+    "place_id": "devils-tower-national-monument-wy",
+    "site": "Devils Tower National Monument",
+    "city": "Hulett",
+    "state": "Wyoming",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 44.5898,
+    "lng": -104.71516,
+    "google_maps_query": "Devils+Tower+National+Monument+WY",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-wyoming",
+   "type": "State",
+   "properties": {
+    "name": "Wyoming",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:devils-tower-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Devils Tower National Monument"
+   }
+  },
+  {
+   "id": "place:wind-cave-national-park-sd",
+   "type": "Place",
+   "properties": {
+    "name": "Wind Cave National Park",
+    "place_id": "wind-cave-national-park-sd",
+    "site": "Wind Cave National Park",
+    "city": "Hot Springs",
+    "state": "South Dakota",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.57887,
+    "lng": -103.47085,
+    "google_maps_query": "Wind+Cave+National+Park+SD",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-south-dakota",
+   "type": "State",
+   "properties": {
+    "name": "South Dakota",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:wind-cave-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "Wind Cave National Park"
+   }
+  },
+  {
+   "id": "place:custer-state-park-sd",
+   "type": "Place",
+   "properties": {
+    "name": "Custer State Park",
+    "place_id": "custer-state-park-sd",
+    "site": "Custer State Park",
+    "city": "Custer",
+    "state": "South Dakota",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.74298,
+    "lng": -103.41871,
+    "google_maps_query": "Custer+State+Park+SD",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:custer-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Custer State Park"
+   }
+  },
+  {
+   "id": "place:mount-rushmore-sd",
+   "type": "Place",
+   "properties": {
+    "name": "Mount Rushmore",
+    "place_id": "mount-rushmore-sd",
+    "site": "Mount Rushmore National Memorial",
+    "city": "Keystone",
+    "state": "South Dakota",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.88086,
+    "lng": -103.45382,
+    "google_maps_query": "Mount+Rushmore+National+Memorial+SD",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:mount-rushmore-national-memorial",
+   "type": "Site",
+   "properties": {
+    "name": "Mount Rushmore National Memorial"
    }
   }
  ],
@@ -10692,6 +10994,42 @@
    "properties": {}
   },
   {
+   "from": "reel:DcwklY4JwKO",
+   "to": "creator:joycequeviaja",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcwklY4JwKO",
+   "to": "theme:glacier-scenic-drive",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfPlCYlBKv2",
+   "to": "creator:funsizewanderer",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfPlCYlBKv2",
+   "to": "theme:dakotas-road-trip-itinerary",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfP6OiPPW-W",
+   "to": "creator:megsandpat",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfP6OiPPW-W",
+   "to": "theme:bentonite-hills-guide",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -11154,6 +11492,25 @@
   {
    "from": "place:badlands-national-park-sd",
    "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:badlands-national-park-sd",
+   "to": "reel:DfPlCYlBKv2",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Road trip",
+    "recommendation": "Stop 1 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Days 1–2 — fly into Rapid City and head straight to the Badlands.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "reel_theme": "Dakotas road trip itinerary"
+   }
+  },
+  {
+   "from": "place:badlands-national-park-sd",
+   "to": "theme:road-trip",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -16080,6 +16437,25 @@
     "reel_title": "Wildlife — Theodore Roosevelt National Park",
     "reel_theme": "Wildlife"
    }
+  },
+  {
+   "from": "place:theodore-roosevelt-national-park-nd",
+   "to": "reel:DfPlCYlBKv2",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Road trip",
+    "recommendation": "Stop 2 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Days 4–5, based in Medora — the North Dakota leg of the loop.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "reel_theme": "Dakotas road trip itinerary"
+   }
+  },
+  {
+   "from": "place:theodore-roosevelt-national-park-nd",
+   "to": "theme:road-trip",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:yellowstone-national-park-wy",
@@ -21082,7 +21458,7 @@
   },
   {
    "from": "place:bentonite-hills-ut",
-   "to": "site:bentonite-hills-caineville",
+   "to": "site:bentonite-hills-cow-dung-road-near-the-mars-desert-research-station",
    "type": "PART_OF",
    "properties": {}
   },
@@ -21104,6 +21480,19 @@
    "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:bentonite-hills-ut",
+   "to": "reel:DfP6OiPPW-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint",
+    "recommendation": "Megs and Pat's Mars-on-Earth pick: hills of bentonite clay near Hanksville, just outside Capitol Reef, striped purple, pink, red, orange, grey and blue-green from volcanic ash and minerals. Their practical notes: on the road toward the Mars Desert Research Station; unpaved access, high-clearance 4WD recommended; best at sunrise or sunset when low light brings out the colours; and never after rain — wet bentonite turns extremely slippery and sticky and vehicles get stuck.",
+    "creator": "@megsandpat",
+    "reel_title": "Bentonite Hills — a landscape from another planet",
+    "reel_theme": "Bentonite Hills guide"
+   }
   },
   {
    "from": "place:great-salt-lake-pink-water-ut",
@@ -21164,6 +21553,259 @@
   {
    "from": "place:bonneville-salt-flats-ut",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-road-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-road-ut",
+   "to": "site:potash-road-sr-279-moab",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-road-ut",
+   "to": "reel:DfKQdjWx1L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Scenic drive",
+    "recommendation": "Ranked #5 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': a jaw-dropping scenic drive along the Colorado River near Moab.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "reel_theme": "Utah beyond the national parks"
+   }
+  },
+  {
+   "from": "place:potash-road-ut",
+   "to": "theme:scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:marlboro-point-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:marlboro-point-ut",
+   "to": "site:marlboro-point",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:marlboro-point-ut",
+   "to": "reel:DfKQdjWx1L3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 9,
+    "best_for": "Viewpoint",
+    "recommendation": "Ranked #9 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': a hidden desert overlook with incredible canyon views, out in the Moab backcountry between Canyonlands and Dead Horse Point.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "9 Places in Utah That Look Unreal — None in a National Park",
+    "reel_theme": "Utah beyond the national parks"
+   }
+  },
+  {
+   "from": "place:marlboro-point-ut",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:going-to-the-sun-road-mt",
+   "to": "state:united-states-montana",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-montana",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-montana",
+   "to": "region:mountain-west",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:going-to-the-sun-road-mt",
+   "to": "site:glacier-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:going-to-the-sun-road-mt",
+   "to": "reel:DcwklY4JwKO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Scenic drive",
+    "recommendation": "Joyce's verdict: 'Breathtaking views — definitely the most beautiful place I've ever been in the US.' The reel is a love letter to Glacier's Going-to-the-Sun Road, the alpine highway over Logan Pass.",
+    "creator": "@joycequeviaja",
+    "reel_title": "Going-to-the-Sun Road, Glacier National Park",
+    "reel_theme": "Glacier scenic drive"
+   }
+  },
+  {
+   "from": "place:going-to-the-sun-road-mt",
+   "to": "theme:scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-tower-national-monument-wy",
+   "to": "state:united-states-wyoming",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-wyoming",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-wyoming",
+   "to": "region:mountain-west",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-tower-national-monument-wy",
+   "to": "site:devils-tower-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-tower-national-monument-wy",
+   "to": "reel:DfPlCYlBKv2",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop 3 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 6 — treated as its own stop on the transfer back to the Black Hills.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "reel_theme": "Dakotas road trip itinerary"
+   }
+  },
+  {
+   "from": "place:devils-tower-national-monument-wy",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wind-cave-national-park-sd",
+   "to": "state:united-states-south-dakota",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-south-dakota",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-south-dakota",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:wind-cave-national-park-sd",
+   "to": "site:wind-cave-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wind-cave-national-park-sd",
+   "to": "reel:DfPlCYlBKv2",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 — book a timed cave tour in advance, per her tip.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "reel_theme": "Dakotas road trip itinerary"
+   }
+  },
+  {
+   "from": "place:wind-cave-national-park-sd",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:custer-state-park-sd",
+   "to": "state:united-states-south-dakota",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:custer-state-park-sd",
+   "to": "site:custer-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:custer-state-park-sd",
+   "to": "reel:DfPlCYlBKv2",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop 5 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Mount Rushmore — wildlife-loop country in the Black Hills.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "reel_theme": "Dakotas road trip itinerary"
+   }
+  },
+  {
+   "from": "place:custer-state-park-sd",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-rushmore-sd",
+   "to": "state:united-states-south-dakota",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-rushmore-sd",
+   "to": "site:mount-rushmore-national-memorial",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-rushmore-sd",
+   "to": "reel:DfPlCYlBKv2",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop 6 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Custer State Park before the Day 9 flight out of Rapid City.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
+    "reel_theme": "Dakotas road trip itinerary"
+   }
+  },
+  {
+   "from": "place:mount-rushmore-sd",
+   "to": "theme:road-trip-stop",
    "type": "BEST_FOR",
    "properties": {}
   }
