@@ -37,13 +37,25 @@ import llm  # noqa: E402
 st.set_page_config(page_title="Reel Chat — Reel Places", page_icon="🎬", layout="centered")
 
 
+def _graph_fingerprint():
+    """mtime+size of the bundled graph.json — passed into the cached loader
+    so a data update busts the cache on the next run. (Streamlit Cloud kept
+    serving a stale cached graph, 144 places vs 161 in the repo, until the
+    app was rebooted; this makes reboots unnecessary for data updates.)"""
+    try:
+        s = (HERE / "graph.json").stat()
+        return f"{s.st_mtime_ns}-{s.st_size}"
+    except Exception:
+        return "none"
+
+
 @st.cache_resource(show_spinner="Loading the reel graph…")
-def get_graph():
+def get_graph(fingerprint):
     data, backend_note = chatbot.load_graph()
     return chatbot.Graph(data), backend_note, data
 
 
-g, backend_note, data = get_graph()
+g, backend_note, data = get_graph(_graph_fingerprint())
 
 places = [n for n in data["nodes"] if n["type"] == "Place"]
 reels = [n for n in data["nodes"] if n["type"] == "Reel"]
