@@ -16,7 +16,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Southwest Region — 68 places](#southwest)
 - [Mountain West Region — 40 places](#mountain-west)
 - [West Region — 33 places](#west)
-- [Pacific Northwest Region — 15 places](#pacific-northwest)
+- [Pacific Northwest Region — 16 places](#pacific-northwest)
 - [Alaska Region — 13 places](#alaska)
 - [Hawaii Region — 5 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 44 · Midwest 10 · Southwest 68 · Mountain West 40 · West 33 · Pacific Northwest 15 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 268**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 44 · Midwest 10 · Southwest 68 · Mountain West 40 · West 33 · Pacific Northwest 16 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 269**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -2196,7 +2196,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Pacific Northwest Region {#pacific-northwest}
 
-**15 places · Washington**
+**16 places · Washington**
 
 ### Alpine Lakes Wilderness
 
@@ -2315,9 +2315,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Also recommended by: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild
     - **Best for:** Top national park — His #10 national park: Olympic, shown with mountain vistas and a deer grazing.
 
+##### Viewpoint
+
+- **14. [Tree of Life (Kalaloch Beach)](https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA)** — Olympic National Park, Kalaloch
+  - **Best for:** Viewpoint — Big Bat Billy's stop: the Tree of Life at Kalaloch Beach in Olympic National Park — the famous Sitka spruce that keeps growing over an eroded gully, its roots exposed in a root cave beneath it, right on the beach.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [Tree of Life — Kalaloch Beach, Olympic National Park](https://www.instagram.com/reel/DduRKbUhtT9/) by @bigbatbilly (#1 in that reel)
+
 ##### Waterfall
 
-- **14. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
+- **15. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
   - **Best for:** Waterfall — Ranked #3 waterfall, plunging into a mossy gorge and viewed from a bridge.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#3 in that reel)
 
@@ -2327,7 +2334,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **15. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
+- **16. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
   - **Best for:** Hike — Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It's a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Most beautiful lake in the USA? — Colchuck Lake](https://www.instagram.com/reel/DfPvUw7PcCy/) by @thisworldofadventure (#1 in that reel)
@@ -2932,6 +2939,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Ice Lake Basin Trail outside Silverton, Colorado — an alpine basin of vivid blue lakes in the San Juan Mountains.
 - **[Mesa Verde — cliff dwellings, Cliff Palace & Balcony House](https://www.instagram.com/reel/DfQ3oNhSfFM/)** — @throughourlinds · 3 places · Theme: Mesa Verde National Park guide
   - What the reel recommends: Mesa Verde National Park, Colorado — Ancestral Pueblo cliff dwellings: Cliff Palace and Balcony House by ranger-guided tour (Recreation.gov), Morefield Campground as base, fry bread at Soda Point.
+- **[Tree of Life — Kalaloch Beach, Olympic National Park](https://www.instagram.com/reel/DduRKbUhtT9/)** — @bigbatbilly · 1 places · Theme: Olympic National Park beach landmark
+  - What the reel recommends: The Tree of Life at Kalaloch Beach, Olympic National Park, Washington — the root-exposed spruce growing over a beach gully.
 
 ## How this page is updated {#how-this-page-is-updated}
 

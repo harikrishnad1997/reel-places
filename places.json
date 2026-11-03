@@ -7166,6 +7166,28 @@
    "source_rank": 3,
    "source_reel_theme": "Mesa Verde National Park guide",
    "additional_sources": []
+  },
+  {
+   "id": "tree-of-life-kalaloch-wa",
+   "name": "Tree of Life (Kalaloch Beach)",
+   "site": "Olympic National Park",
+   "city": "Kalaloch",
+   "state": "Washington",
+   "country": "United States",
+   "region": "Pacific Northwest",
+   "region_id": "pacific-northwest",
+   "lat": 47.58973,
+   "lng": -124.36835,
+   "google_maps_query": "Tree+of+Life+Kalaloch+Beach+WA",
+   "best_for": "Viewpoint",
+   "recommendation": "Big Bat Billy's stop: the Tree of Life at Kalaloch Beach in Olympic National Park \u2014 the famous Sitka spruce that keeps growing over an eroded gully, its roots exposed in a root cave beneath it, right on the beach.",
+   "note": "Coordinates verified against OpenStreetMap.",
+   "source_reel": "https://www.instagram.com/reel/DduRKbUhtT9/",
+   "source_title": "Tree of Life \u2014 Kalaloch Beach, Olympic National Park",
+   "source_creator": "@bigbatbilly",
+   "source_rank": 1,
+   "source_reel_theme": "Olympic National Park beach landmark",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",
