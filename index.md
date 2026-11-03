@@ -13,10 +13,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Northeast Region — 19 places](#northeast)
 - [Southeast Region — 22 places](#southeast)
 - [Midwest Region — 6 places](#midwest)
-- [Southwest Region — 49 places](#southwest)
+- [Southwest Region — 50 places](#southwest)
 - [Mountain West Region — 32 places](#mountain-west)
 - [West Region — 33 places](#west)
-- [Pacific Northwest Region — 11 places](#pacific-northwest)
+- [Pacific Northwest Region — 12 places](#pacific-northwest)
 - [Alaska Region — 13 places](#alaska)
 - [Hawaii Region — 5 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 19 · Southeast 22 · Midwest 6 · Southwest 49 · Mountain West 32 · West 33 · Pacific Northwest 11 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 193**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 19 · Southeast 22 · Midwest 6 · Southwest 50 · Mountain West 32 · West 33 · Pacific Northwest 12 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 195**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -510,7 +510,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Southwest Region {#southwest}
 
-**49 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
+**50 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
 
 ### Arches National Park
 
@@ -811,13 +811,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#5 in that reel)
 
+### Havasu Canyon (Havasupai)
+
+#### Arizona
+
+##### Waterfall
+
+- **31. [Havasu Falls](https://www.google.com/maps/search/?api=1&query=Havasu+Falls+AZ)** — Havasu Canyon (Havasupai), Supai
+  - **Best for:** Waterfall — Justine calls the Havasupai hike '1000% YES — the best experience of my life': the hike in, the waterfalls, and the unreal turquoise water (her toes, she admits, tell a different story). The reel asks whether the $455 permit was worth it and lets the view answer — Havasu Falls pouring over the red rock into its turquoise pool.
+  - Access is by Havasupai Tribe reservation/permit only. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [1000% YES! — Havasu Falls, the best experience of my life](https://www.instagram.com/reel/DfP-za3Modr/) by @justine_le_flahec (#1 in that reel)
+
 ### Hell Hole Canyon
 
 #### Utah
 
 ##### Waterfall
 
-- **31. [Kayenta Falls](https://www.google.com/maps/search/?api=1&query=Kayenta+Falls+Ivins+UT)** — Hell Hole Canyon, Ivins
+- **32. [Kayenta Falls](https://www.google.com/maps/search/?api=1&query=Kayenta+Falls+Ivins+UT)** — Hell Hole Canyon, Ivins
   - **Best for:** Waterfall — One of Southern Utah's rarest sights, per Mikey Loveridge: the 1,000-foot red-rock cliffs of Hell Hole Canyon near Ivins run bone dry most days, but after heavy rain three ephemeral waterfalls — Kayenta Falls — pour straight down the cliff faces in a vertical flash flood. He photographed the canyon completely dry on Nov 1, 2026, and in full flow the next day after the rain kept coming.
   - Pin is approximate: the ephemeral falls are not a mapped feature, so it sits on Kayenta Wash at the mouth of Hell Hole Canyon, just northwest of the Kayenta community in Ivins (OpenStreetMap). The falls flow only after heavy rain.
   - 🎬 Source: [Kayenta Falls — A Vertical Flash Flood](https://www.instagram.com/reel/DfQEa3Ph55r/) by @mikeyloveridge (#1 in that reel)
@@ -828,7 +839,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **32. [Monument Valley](https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT)** — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
+- **33. [Monument Valley](https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT)** — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
   - **Best for:** Road trip stop — Stop #11 on @_wanderedsouls' Southwest winter road-trip route — the classic buttes, filmed from the road through the valley.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#11 in that reel)
@@ -839,7 +850,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **33. [Natural Bridges National Monument](https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT)** — Natural Bridges National Monument, Blanding
+- **34. [Natural Bridges National Monument](https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT)** — Natural Bridges National Monument, Blanding
   - **Best for:** Stargazing — Ranked #7 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#7 in that reel)
@@ -850,7 +861,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **34. [Page](https://www.google.com/maps/search/?api=1&query=Page+AZ)** — Page, Page
+- **35. [Page](https://www.google.com/maps/search/?api=1&query=Page+AZ)** — Page, Page
   - **Best for:** Road trip stop — Stop #12 on @_wanderedsouls' Southwest winter road-trip route — the reel's Page stop is Horseshoe Bend, the Colorado River's famous incised meander.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#12 in that reel)
@@ -861,7 +872,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **35. [Red Rock Canyon National Conservation Area](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV)** — Red Rock Canyon National Conservation Area, Las Vegas
+- **36. [Red Rock Canyon National Conservation Area](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV)** — Red Rock Canyon National Conservation Area, Las Vegas
   - **Best for:** Sunset — Caption names Red Rock Canyon, NV, with a sunset hashtag. The video pans over desert mountains at dusk under a blue-to-orange sky and says the spot is just fifteen minutes from Las Vegas — a peaceful desert contrast to the city.
   - Caption calls it 'Red Rock Canyon State Park, NV', but the Las Vegas-area spot in the video (15 minutes from the city) is Red Rock Canyon National Conservation Area, the BLM conservation area west of Las Vegas; Red Rock Canyon State Park is a different park in California. Pin is the conservation area's visitor center on the Scenic Loop (the Nominatim nature-reserve centroid was the alternative).
   - 🎬 Source: [Sunset — Red Rock Canyon](https://www.instagram.com/reel/DGVlZoGoEAa/) by @amorywild (#None in that reel)
@@ -872,14 +883,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **36. [Chasm Lake](https://www.google.com/maps/search/?api=1&query=Chasm+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **37. [Chasm Lake](https://www.google.com/maps/search/?api=1&query=Chasm+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — Ranked #1, a frozen alpine lake surrounded by towering, snow-dusted granite peaks.
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#1 in that reel)
-- **37. [Gem Lake Trail](https://www.google.com/maps/search/?api=1&query=Gem+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **38. [Gem Lake Trail](https://www.google.com/maps/search/?api=1&query=Gem+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — Caption names the Gem Lake Trail in 'Rock Mountain' (Rocky Mountain) National Park; the state (Colorado) is inferred from the park. This post has no tagged location. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Caption says 'Rock Mountain National Park' — Rocky Mountain National Park. Pin is Gem Lake in Larimer County (the Lumpy Ridge lake in Rocky Mountain National Park), the trail's destination; same-named lakes in Jackson and El Paso counties, CO were rejected.
   - 🎬 Source: [Hiking — Gem Lake Trail](https://www.instagram.com/reel/DGOs9n7SG5e/) by @amorywild (#None in that reel)
-- **38. [Rocky Mountain National Park](https://www.google.com/maps/search/?api=1&query=Rocky+Mountain+National+Park+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **39. [Rocky Mountain National Park](https://www.google.com/maps/search/?api=1&query=Rocky+Mountain+National+Park+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — His #5 in 'My Top 5 National Parks For Hiking': shown with wide views of snow-dusted peaks, valleys, frozen lakes, rocky summits and a cascading waterfall. (The media-understanding transcript renders the name as 'Rocky Mountains National Park.')
   - Park-level pin is the park's Nominatim point on the east side, near the Beaver Meadows entrance.
   - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#5 in that reel)
@@ -890,7 +901,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Winter hike
 
-- **39. [Lake Haiyaha Trail](https://www.google.com/maps/search/?api=1&query=Lake+Haiyaha+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **40. [Lake Haiyaha Trail](https://www.google.com/maps/search/?api=1&query=Lake+Haiyaha+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Winter hike — Caption names the Lake Haiyaha Trail in Rocky Mountain National Park with a snow emoji; the tag adds Colorado. The video follows a hiker laughing and walking a snowy trail through a snow-covered mountain landscape — a joyful winter hike.
   - Pin is Lake Haiyaha, the trail's destination.
   - 🎬 Source: [Hiking — Lake Haiyaha Trail](https://www.instagram.com/reel/DGTIqslJiFN/) by @amorywild (#None in that reel)
@@ -901,13 +912,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **40. [Wasson Peak](https://www.google.com/maps/search/?api=1&query=Wasson+Peak+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
+- **41. [Wasson Peak](https://www.google.com/maps/search/?api=1&query=Wasson+Peak+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
   - **Best for:** Hike — Ranked #5, hiking among giant saguaro cacti to a summit with panoramic desert mountain views at sunset.
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#5 in that reel)
 
 ##### Road trip stop
 
-- **41. [Saguaro National Park](https://www.google.com/maps/search/?api=1&query=Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
+- **42. [Saguaro National Park](https://www.google.com/maps/search/?api=1&query=Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
   - **Best for:** Road trip stop — Named in @_wanderedsouls' Southwest winter road-trip reel as part of their detailed itinerary (an Arizona add-on beyond the 13 route stops) — forests of giant saguaro cactus outside Tucson.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#None in that reel)
@@ -918,7 +929,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **42. [Sedona](https://www.google.com/maps/search/?api=1&query=Sedona+AZ)** — Sedona, Sedona
+- **43. [Sedona](https://www.google.com/maps/search/?api=1&query=Sedona+AZ)** — Sedona, Sedona
   - **Best for:** Road trip stop — Named in @_wanderedsouls' Southwest winter road-trip reel as part of their detailed itinerary (an Arizona add-on beyond the 13 route stops).
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#None in that reel)
@@ -929,7 +940,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **43. [Valley of Fire State Park](https://www.google.com/maps/search/?api=1&query=Valley+of+Fire+State+Park+Valley+of+Fire+State+Park+NV)** — Valley of Fire State Park, Moapa Valley
+- **44. [Valley of Fire State Park](https://www.google.com/maps/search/?api=1&query=Valley+of+Fire+State+Park+Valley+of+Fire+State+Park+NV)** — Valley of Fire State Park, Moapa Valley
   - **Best for:** Hiking / Red-rock scenery — A POV walkthrough introduced by on-screen text, 'POV you finally made it to Valley of Fire.' It moves through narrow orange-red slot canyons, past jagged red-rock spires, and across expansive wave-like striped formations with pools and sparse desert vegetation.
   - 🎬 Source: [Scenic landscapes — Valley of Fire State Park](https://www.instagram.com/reel/Dd4og3dtf8U/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
@@ -941,17 +952,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **44. [Angels Landing](https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **45. [Angels Landing](https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Hike — Caption names Angels Landing in Zion National Park (caption spells it 'Angel's Landing'). No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Caption spells it 'Angel's Landing'; corrected to the official name, Angels Landing.
   - 🎬 Source: [Hiking — Angels Landing](https://www.instagram.com/reel/DGk-9K9OoBr/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild
     - **Best for:** Hike / Adrenaline — His #2 adrenaline hike: the steep red-rock ascent, hikers holding chains along an exposed ridge, and panoramic views of Zion Canyon.
-- **45. [Subway Trail](https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT)** — Zion National Park, Zion National Park
+- **46. [Subway Trail](https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT)** — Zion National Park, Zion National Park
   - **Best for:** Hike — His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings.
   - Pin is an OSM path point inside The Subway canyon (Left Fork of North Creek), the hike's destination.
   - 🎬 Source: [Top 5 National Park Hikes](https://www.instagram.com/reel/Ddpitf0BMb-/) by @amorywild (#4 in that reel)
-- **46. [The Narrows](https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT)** — Zion National Park, Zion Canyon
+- **47. [The Narrows](https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT)** — Zion National Park, Zion Canyon
   - **Best for:** Hike — Ranked #4, a 10.5-mile round trip wading the Virgin River in cold water. He went in June during snowmelt and used a dry bib wetsuit.
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild
@@ -959,7 +970,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **47. [Canyon Overlook](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **48. [Canyon Overlook](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Sunrise — Ranked #3 for sunrise in the reel. Massive red rock cliffs glow bright orange as the sun hits Zion Canyon.
   - End of the 1-mile Canyon Overlook Trail, just east of the Zion-Mount Carmel Tunnel.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#3 in that reel)
@@ -974,7 +985,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top national park
 
-- **48. [Zion National Park](https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **49. [Zion National Park](https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Top national park — His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water.
   - Park-level pin is the park's Nominatim point.
   - 🎬 Source: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild (#7 in that reel)
@@ -985,7 +996,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **49. [Zion Canyon](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **50. [Zion Canyon](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** View — A static scenic shot of Zion Canyon: the Virgin River (name inferred from the location) flowing between massive orange-and-white striated cliffs in warm early-morning or late-afternoon light, posted as a calm, meditative nature scene.
   - 🎬 Source: [Scenic viewpoint — Zion Canyon](https://www.instagram.com/reel/DGqUbwIpLIH/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Scenic ride — Zion Canyon](https://www.instagram.com/reel/DGIocRzuRcL/) by @amorywild
@@ -1482,7 +1493,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Pacific Northwest Region {#pacific-northwest}
 
-**11 places · Washington**
+**12 places · Washington**
 
 ### Mount Rainier National Park
 
@@ -1578,6 +1589,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - **11. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
   - **Best for:** Waterfall — Ranked #3 waterfall, plunging into a mossy gorge and viewed from a bridge.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#3 in that reel)
+
+### The Enchantments (Alpine Lakes Wilderness)
+
+#### Washington
+
+##### Hike
+
+- **12. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
+  - **Best for:** Hike — Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It's a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [Most beautiful lake in the USA? — Colchuck Lake](https://www.instagram.com/reel/DfPvUw7PcCy/) by @thisworldofadventure (#1 in that reel)
 
 ## Alaska Region {#alaska}
 
@@ -2125,6 +2147,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Black Canyon of the Gunnison National Park (Montrose, Colorado) — huge canyon views, hardly any crowds, and South Rim overlooks just a short walk from parking.
 - **[One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/)** — @_wanderedsouls · 15 places · Theme: Southwest winter road trip
   - What the reel recommends: A 13-stop Southwest winter road-trip route — Valley of Fire, Zion, Bryce Canyon, Capitol Reef, Hanksville, Goblin Valley, Arches, Canyonlands, Dead Horse Point, Forrest Gump Point, Monument Valley, Page, Grand Canyon — plus Sedona and Saguaro National Park named as itinerary add-ons. 7 stops attached to existing places; 8 new.
+- **[1000% YES! — Havasu Falls, the best experience of my life](https://www.instagram.com/reel/DfP-za3Modr/)** — @justine_le_flahec · 1 places · Theme: Havasupai waterfalls
+  - What the reel recommends: Havasu Falls in Havasu Canyon on the Havasupai Reservation, Arizona — turquoise waterfall pools reached by a permit-only hike.
+- **[Most beautiful lake in the USA? — Colchuck Lake](https://www.instagram.com/reel/DfPvUw7PcCy/)** — @thisworldofadventure · 1 places · Theme: Enchantments lake hike
+  - What the reel recommends: Colchuck Lake in the Enchantments near Leavenworth, Washington — a 9-mile, 2,340 ft-gain hike to an alpine lake; arrive before dawn for parking.
 
 ## How this page is updated {#how-this-page-is-updated}
 

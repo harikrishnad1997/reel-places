@@ -2456,6 +2456,54 @@
    }
   },
   {
+   "id": "reel:DfP-za3Modr",
+   "type": "Reel",
+   "properties": {
+    "name": "1000% YES! — Havasu Falls, the best experience of my life",
+    "url": "https://www.instagram.com/reel/DfP-za3Modr/",
+    "title": "1000% YES! — Havasu Falls, the best experience of my life",
+    "creator": "@justine_le_flahec",
+    "theme": "Havasupai waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "Havasu Falls in Havasu Canyon on the Havasupai Reservation, Arizona — turquoise waterfall pools reached by a permit-only hike.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:justine-le-flahec",
+   "type": "Creator",
+   "properties": {
+    "name": "@justine_le_flahec",
+    "handle": "@justine_le_flahec",
+    "display_name": "Justine Le Flahec"
+   }
+  },
+  {
+   "id": "reel:DfPvUw7PcCy",
+   "type": "Reel",
+   "properties": {
+    "name": "Most beautiful lake in the USA? — Colchuck Lake",
+    "url": "https://www.instagram.com/reel/DfPvUw7PcCy/",
+    "title": "Most beautiful lake in the USA? — Colchuck Lake",
+    "creator": "@thisworldofadventure",
+    "theme": "Enchantments lake hike",
+    "places_count": 1,
+    "recommendation_summary": "Colchuck Lake in the Enchantments near Leavenworth, Washington — a 9-mile, 2,340 ft-gain hike to an alpine lake; arrive before dawn for parking.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:thisworldofadventure",
+   "type": "Creator",
+   "properties": {
+    "name": "@thisworldofadventure",
+    "handle": "@thisworldofadventure",
+    "display_name": "This World of Adventure"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -7288,6 +7336,67 @@
     "best_for": "Road trip stop",
     "note": "Coordinates verified against OpenStreetMap."
    }
+  },
+  {
+   "id": "place:havasu-falls-az",
+   "type": "Place",
+   "properties": {
+    "name": "Havasu Falls",
+    "place_id": "havasu-falls-az",
+    "site": "Havasu Canyon (Havasupai)",
+    "city": "Supai",
+    "state": "Arizona",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.25521,
+    "lng": -112.69785,
+    "google_maps_query": "Havasu+Falls+AZ",
+    "best_for": "Waterfall",
+    "note": "Access is by Havasupai Tribe reservation/permit only. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:havasu-canyon-havasupai",
+   "type": "Site",
+   "properties": {
+    "name": "Havasu Canyon (Havasupai)"
+   }
+  },
+  {
+   "id": "place:colchuck-lake-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Colchuck Lake",
+    "place_id": "colchuck-lake-wa",
+    "site": "The Enchantments (Alpine Lakes Wilderness)",
+    "city": "Leavenworth",
+    "state": "Washington",
+    "state_code": "",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 47.49314,
+    "lng": -120.83325,
+    "google_maps_query": "Colchuck+Lake+WA",
+    "best_for": "Hike",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-washington",
+   "type": "State",
+   "properties": {
+    "name": "Washington",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:the-enchantments-alpine-lakes-wilderness",
+   "type": "Site",
+   "properties": {
+    "name": "The Enchantments (Alpine Lakes Wilderness)"
+   }
   }
  ],
  "edges": [
@@ -9082,6 +9191,30 @@
   {
    "from": "reel:DexzsRogiV7",
    "to": "theme:winter-visit",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfP-za3Modr",
+   "to": "creator:justine-le-flahec",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfP-za3Modr",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfPvUw7PcCy",
+   "to": "creator:thisworldofadventure",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfPvUw7PcCy",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -17818,6 +17951,80 @@
   {
    "from": "place:saguaro-national-park-az",
    "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:havasu-falls-az",
+   "to": "state:united-states-arizona",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:havasu-falls-az",
+   "to": "site:havasu-canyon-havasupai",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:havasu-falls-az",
+   "to": "reel:DfP-za3Modr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Waterfall",
+    "recommendation": "Justine calls the Havasupai hike '1000% YES — the best experience of my life': the hike in, the waterfalls, and the unreal turquoise water (her toes, she admits, tell a different story). The reel asks whether the $455 permit was worth it and lets the view answer — Havasu Falls pouring over the red rock into its turquoise pool.",
+    "creator": "@justine_le_flahec",
+    "reel_title": "1000% YES! — Havasu Falls, the best experience of my life",
+    "reel_theme": "Havasupai waterfalls"
+   }
+  },
+  {
+   "from": "place:havasu-falls-az",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:colchuck-lake-wa",
+   "to": "state:united-states-washington",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-washington",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-washington",
+   "to": "region:pacific-northwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:colchuck-lake-wa",
+   "to": "site:the-enchantments-alpine-lakes-wilderness",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:colchuck-lake-wa",
+   "to": "reel:DfPvUw7PcCy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It's a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.",
+    "creator": "@thisworldofadventure",
+    "reel_title": "Most beautiful lake in the USA? — Colchuck Lake",
+    "reel_theme": "Enchantments lake hike"
+   }
+  },
+  {
+   "from": "place:colchuck-lake-wa",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
