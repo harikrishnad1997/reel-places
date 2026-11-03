@@ -10,11 +10,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
 ## Contents
 
 - [Map — all places, color-coded by region](#map)
-- [Northeast Region — 7 places](#northeast)
+- [Northeast Region — 19 places](#northeast)
 - [Southeast Region — 22 places](#southeast)
 - [Midwest Region — 6 places](#midwest)
-- [Southwest Region — 41 places](#southwest)
-- [Mountain West Region — 31 places](#mountain-west)
+- [Southwest Region — 49 places](#southwest)
+- [Mountain West Region — 32 places](#mountain-west)
 - [West Region — 33 places](#west)
 - [Pacific Northwest Region — 11 places](#pacific-northwest)
 - [Alaska Region — 13 places](#alaska)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 7 · Southeast 22 · Midwest 6 · Southwest 41 · Mountain West 31 · West 33 · Pacific Northwest 11 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 172**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 19 · Southeast 22 · Midwest 6 · Southwest 49 · Mountain West 32 · West 33 · Pacific Northwest 11 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 193**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -39,7 +39,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Northeast Region {#northeast}
 
-**7 places · Maine, New York, Pennsylvania**
+**19 places · Maine, Massachusetts, New Hampshire, New York, Pennsylvania, Vermont**
 
 ### Acadia National Park
 
@@ -70,16 +70,104 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Also recommended by: [Hiking — Acadia National Park](https://www.instagram.com/reel/DdILP0qJ6Op/) by @amorywild
     - **Best for:** Iron-rung hike / View — Caption complains, 'So many ladders...' on an Acadia hike. The POV video climbs installed metal rungs and ladders on a near-vertical granite face, crosses an exposed ledge, and reaches a summit view over green mountains and coastal islands; the specific trail is not named by the creator.
 
+### Bash Bish Falls State Park
+
+#### Massachusetts
+
+##### Top state park
+
+- **4. [Bash Bish Falls State Park](https://www.google.com/maps/search/?api=1&query=Bash+Bish+Falls+State+Park+MA)** — Bash Bish Falls State Park, Mount Washington
+  - **Best for:** Top state park — Ranked #11 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#11 in that reel)
+
+### Baxter State Park
+
+#### Maine
+
+##### Top state park
+
+- **5. [Baxter State Park](https://www.google.com/maps/search/?api=1&query=Baxter+State+Park+ME)** — Baxter State Park, Millinocket
+  - **Best for:** Top state park — Ranked #3 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#3 in that reel)
+
+### Camden Hills State Park
+
+#### Maine
+
+##### Top state park
+
+- **6. [Camden Hills State Park](https://www.google.com/maps/search/?api=1&query=Camden+Hills+State+Park+ME)** — Camden Hills State Park, Camden
+  - **Best for:** Top state park — Ranked #7 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#7 in that reel)
+
 ### Cherry Springs State Park
 
 #### Pennsylvania
 
 ##### Stargazing
 
-- **4. [Cherry Springs State Park](https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+PA)** — Cherry Springs State Park, Coudersport
+- **7. [Cherry Springs State Park](https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+PA)** — Cherry Springs State Park, Coudersport
   - **Best for:** Stargazing — Ranked #5 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#5 in that reel)
+
+### Crawford Notch State Park
+
+#### New Hampshire
+
+##### Top state park
+
+- **8. [Crawford Notch State Park](https://www.google.com/maps/search/?api=1&query=Crawford+Notch+State+Park+NH)** — Crawford Notch State Park, Harts Location
+  - **Best for:** Top state park — Ranked #10 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#10 in that reel)
+
+### Franconia Notch State Park
+
+#### New Hampshire
+
+##### Top state park
+
+- **9. [Franconia Notch State Park](https://www.google.com/maps/search/?api=1&query=Franconia+Notch+State+Park+NH)** — Franconia Notch State Park, Lincoln
+  - **Best for:** Top state park — Ranked #2 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#2 in that reel)
+
+### Letchworth State Park
+
+#### New York
+
+##### Top state park
+
+- **10. [Letchworth State Park](https://www.google.com/maps/search/?api=1&query=Letchworth+State+Park+NY)** — Letchworth State Park, Castile
+  - **Best for:** Top state park — Ranked #1 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#1 in that reel)
+
+### Minnewaska State Park Preserve
+
+#### New York
+
+##### Top state park
+
+- **11. [Minnewaska State Park Preserve](https://www.google.com/maps/search/?api=1&query=Minnewaska+State+Park+Preserve+NY)** — Minnewaska State Park Preserve, Kerhonkson
+  - **Best for:** Top state park — Ranked #6 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#6 in that reel)
+
+### Mount Washington State Park
+
+#### New Hampshire
+
+##### Top state park
+
+- **12. [Mount Washington State Park](https://www.google.com/maps/search/?api=1&query=Mount+Washington+State+Park+NH)** — Mount Washington State Park, Gorham
+  - **Best for:** Top state park — Ranked #9 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#9 in that reel)
 
 ### Niagara Falls State Park
 
@@ -87,17 +175,61 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **5. [American Falls](https://www.google.com/maps/search/?api=1&query=American+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
+- **13. [American Falls](https://www.google.com/maps/search/?api=1&query=American+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
   - **Best for:** Waterfall — Caption names Niagara Falls, and on-screen text calls it 'America's first state park for a reason...' The video shows the American Falls from the Cave of the Winds walkways and staircases, with massive water crashing down and heavy mist around visitors in yellow ponchos.
   - Pin is the second of two adjacent Nominatim waterfall points returned for American Falls, so it does not sit exactly on the general Niagara Falls point.
   - 🎬 Source: [Waterfall — American Falls](https://www.instagram.com/reel/DdDMPVahoxH/) by @amorywild (#None in that reel)
-- **6. [Horseshoe Falls](https://www.google.com/maps/search/?api=1&query=Horseshoe+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
+- **14. [Horseshoe Falls](https://www.google.com/maps/search/?api=1&query=Horseshoe+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
   - **Best for:** Waterfall — Caption asks, 'Or is it Niagara Falls?' The video pans across Horseshoe Falls' massive curtain of water, rising mist, churning green-blue river, rocky cliffs, and a distant viewing platform.
   - Pin is OSM's waterfall point for Horseshoe Falls on the Niagara River; the falls straddle the U.S.–Canada border.
   - 🎬 Source: [Waterfall — Horseshoe Falls](https://www.instagram.com/reel/DdNRYJHPaSe/) by @amorywild (#None in that reel)
-- **7. [Niagara Falls](https://www.google.com/maps/search/?api=1&query=Niagara+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
+- **15. [Niagara Falls](https://www.google.com/maps/search/?api=1&query=Niagara+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
   - **Best for:** Waterfall — Caption names Niagara Falls. A close view pans across torrents of white water, the mist-filled gorge, and the distant city skyline across the river; on-screen text reads, 'The original...'
   - 🎬 Source: [Waterfall — Niagara Falls](https://www.instagram.com/reel/DdIOsK4JDSu/) by @amorywild (#None in that reel)
+
+### Ohiopyle State Park
+
+#### Pennsylvania
+
+##### Top state park
+
+- **16. [Ohiopyle State Park](https://www.google.com/maps/search/?api=1&query=Ohiopyle+State+Park+PA)** — Ohiopyle State Park, Ohiopyle
+  - **Best for:** Top state park — Ranked #8 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#8 in that reel)
+
+### Ricketts Glen State Park
+
+#### Pennsylvania
+
+##### Top state park
+
+- **17. [Ricketts Glen State Park](https://www.google.com/maps/search/?api=1&query=Ricketts+Glen+State+Park+PA)** — Ricketts Glen State Park, Benton
+  - **Best for:** Top state park — Ranked #5 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#5 in that reel)
+
+### Smugglers' Notch State Park
+
+#### Vermont
+
+##### Top state park
+
+- **18. [Smugglers' Notch State Park](https://www.google.com/maps/search/?api=1&query=Smugglers'+Notch+State+Park+VT)** — Smugglers' Notch State Park, Cambridge
+  - **Best for:** Top state park — Ranked #12 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#12 in that reel)
+
+### Watkins Glen State Park
+
+#### New York
+
+##### Top state park
+
+- **19. [Watkins Glen State Park](https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+NY)** — Watkins Glen State Park, Watkins Glen
+  - **Best for:** Top state park — Ranked #4 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
+  - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#4 in that reel)
 
 ## Southeast Region {#southeast}
 
@@ -378,7 +510,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Southwest Region {#southwest}
 
-**41 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
+**49 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
 
 ### Arches National Park
 
@@ -401,6 +533,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Stargazing — Ranked #4 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#4 in that reel)
+  - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
+    - **Best for:** Road trip — Stop #7 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown as Delicate Arch at sunset.
 
 ### Big Bend National Park
 
@@ -474,6 +608,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Sunrise / Sunset — His #3: Bryce Canyon, highlighted for how sunrise lights up the orange hoodoos; footage shows snow-dusted red spires glowing at dawn.
   - 🎬 Also recommended by: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog
     - **Best for:** Stargazing — Ranked #1 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.
+  - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
+    - **Best for:** Road trip — Stop #3 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown with a hiker among the hoodoos.
 
 ### Canyonlands National Park
 
@@ -501,6 +637,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog
     - **Best for:** Stargazing — One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.
+  - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
+    - **Best for:** Road trip — Stop #8 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown from beneath an arch at dusk.
 
 ### Capitol Reef National Park
 
@@ -519,6 +657,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog
     - **Best for:** Stargazing — One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.
+  - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
+    - **Best for:** Road trip — Stop #4 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown featuring a large natural arch.
+
+### Dead Horse Point State Park
+
+#### Utah
+
+##### Road trip stop
+
+- **17. [Dead Horse Point State Park](https://www.google.com/maps/search/?api=1&query=Dead+Horse+Point+State+Park+UT)** — Dead Horse Point State Park, Moab
+  - **Best for:** Road trip stop — Stop #9 on @_wanderedsouls' Southwest winter road-trip route — shown overlooking vast canyons at twilight, next door to Canyonlands.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#9 in that reel)
 
 ### Estes Park
 
@@ -526,7 +677,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **17. [Lake Estes](https://www.google.com/maps/search/?api=1&query=Lake+Estes+Estes+Park+CO)** — , Estes Park
+- **18. [Lake Estes](https://www.google.com/maps/search/?api=1&query=Lake+Estes+Estes+Park+CO)** — , Estes Park
   - **Best for:** Sunset / View — Caption names Lake Estes, Estes Park, CO (tagged #sunrise). The video actually shows sunset over the lake — pink, orange and purple sky reflected in the rippling water, silhouetted treeline and mountains — then transitions through dusk to a clear daytime view of the snow-dusted peaks.
   - 🎬 Source: [Lake scenery — Lake Estes](https://www.instagram.com/reel/DF_OK-vS9g6/) by @amorywild (#None in that reel)
 
@@ -536,10 +687,32 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **18. [Factory Butte](https://www.google.com/maps/search/?api=1&query=Factory+Butte+UT)** — Factory Butte (Hanksville), Hanksville
+- **19. [Factory Butte](https://www.google.com/maps/search/?api=1&query=Factory+Butte+UT)** — Factory Butte (Hanksville), Hanksville
   - **Best for:** Stargazing — One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#None in that reel)
+
+### Forrest Gump Point (US-163)
+
+#### Utah
+
+##### Road trip stop
+
+- **20. [Forrest Gump Point](https://www.google.com/maps/search/?api=1&query=Forrest+Gump+Point+UT)** — Forrest Gump Point (US-163), Mexican Hat
+  - **Best for:** Road trip stop — Stop #10 on @_wanderedsouls' Southwest winter road-trip route — the iconic long, straight highway shot toward the Monument Valley buttes, made famous by Forrest Gump.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#10 in that reel)
+
+### Goblin Valley State Park
+
+#### Utah
+
+##### Road trip stop
+
+- **21. [Goblin Valley State Park](https://www.google.com/maps/search/?api=1&query=Goblin+Valley+State+Park+UT)** — Goblin Valley State Park, Green River
+  - **Best for:** Road trip stop — Stop #6 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops) — a valley of hoodoo 'goblins' between Hanksville and Arches.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#6 in that reel)
 
 ### Grand Canyon National Park
 
@@ -547,7 +720,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **19. [South Kaibab and Bright Angel Trails (Phantom Ranch)](https://www.google.com/maps/search/?api=1&query=South+Kaibab+and+Bright+Angel+Trails+(Phantom+Ranch)+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **22. [South Kaibab and Bright Angel Trails (Phantom Ranch)](https://www.google.com/maps/search/?api=1&query=South+Kaibab+and+Bright+Angel+Trails+(Phantom+Ranch)+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Hike — Ranked #1, illustrated with sunrise views over the red-rock canyon, the rim trail and the Colorado River below.
   - Pin is the South Kaibab Trailhead. Phantom Ranch, at the bottom of the route, is at 36.1044, -112.0953.
   - 🎬 Source: [My Top 5 Awe-Inspiring National Park Hikes](https://www.instagram.com/reel/DerSq5htCWS/) by @amorywild (#1 in that reel)
@@ -564,7 +737,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **20. [Grand Canyon National Park](https://www.google.com/maps/search/?api=1&query=Grand+Canyon+National+Park+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon Village
+- **23. [Grand Canyon National Park](https://www.google.com/maps/search/?api=1&query=Grand+Canyon+National+Park+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon Village
   - **Best for:** Sunrise / Sunset — His #2: Grand Canyon, which he treats as self-explanatory because of its scale, with vast vistas and sunbeams breaking through clouds at sunrise.
   - Park-level pin is the park's Nominatim point in the park interior.
   - 🎬 Source: [Top 5 National Parks for Sunrises/Sets](https://www.instagram.com/reel/Dd1VBxKPvQU/) by @amorywild (#2 in that reel)
@@ -572,10 +745,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Top national park — His #8 national park: Grand Canyon, shown with sunset canyon views and the Colorado River.
   - 🎬 Also recommended by: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog
     - **Best for:** Stargazing — Ranked #8 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
+  - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
+    - **Best for:** Road trip — Stop #13 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). The route's finale — expansive canyon vistas.
 
 ##### Sunset
 
-- **21. [Lipan Point](https://www.google.com/maps/search/?api=1&query=Lipan+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **24. [Lipan Point](https://www.google.com/maps/search/?api=1&query=Lipan+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Sunset — Captioned 'Sunset at Lipan Point' in Grand Canyon National Park. The video shows the sun on the horizon casting a shaft of golden light across the canyon as the camera pans over its layered walls.
   - 🎬 Source: [Sunset viewpoint — Lipan Point](https://www.instagram.com/reel/DGYHwrqOnXT/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild
@@ -583,7 +758,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **22. [Colorado River](https://www.google.com/maps/search/?api=1&query=Colorado+River+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **25. [Colorado River](https://www.google.com/maps/search/?api=1&query=Colorado+River+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** View / River — Filmed from the banks of the Colorado River at the bottom of the Grand Canyon: muddy river water rushing between towering layered red-brown cliffs, showing the canyon's scale from river level.
   - Pin is at Phantom Ranch, on the river's north bank at the bottom of the canyon — the river-level point the park's rim-to-river trails reach. Nominatim's Colorado River feature points for the county query sit near Page, AZ, outside Grand Canyon, and were rejected (same access-point approach as Batch 1's Wrangell-St. Elias pin).
   - 🎬 Source: [Scenic viewpoint — Colorado River (Grand Canyon)](https://www.instagram.com/reel/DGjtIqUtQ9J/) by @amorywild (#None in that reel)
@@ -594,7 +769,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **23. [Great Basin National Park](https://www.google.com/maps/search/?api=1&query=Great+Basin+National+Park+NV)** — Great Basin National Park, Baker
+- **26. [Great Basin National Park](https://www.google.com/maps/search/?api=1&query=Great+Basin+National+Park+NV)** — Great Basin National Park, Baker
   - **Best for:** Stargazing — Ranked #6 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#6 in that reel)
@@ -605,7 +780,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **24. [High Dune](https://www.google.com/maps/search/?api=1&query=High+Dune+Great+Sand+Dunes+National+Park+and+Preserve+CO)** — Great Sand Dunes National Park and Preserve, Alamosa
+- **27. [High Dune](https://www.google.com/maps/search/?api=1&query=High+Dune+Great+Sand+Dunes+National+Park+and+Preserve+CO)** — Great Sand Dunes National Park and Preserve, Alamosa
   - **Best for:** Hike — Ranked #2, climbing a massive sand dune with sweeping views of endless rippling dunes to distant mountains.
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#2 in that reel)
 
@@ -615,15 +790,26 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **25. [Devil's Hall](https://www.google.com/maps/search/?api=1&query=Devil's+Hall+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+- **28. [Devil's Hall](https://www.google.com/maps/search/?api=1&query=Devil's+Hall+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** Hike — Ranked #5, a narrow, steep-walled canyon with layered rock formations and boulder scrambling.
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#5 in that reel)
 
 ##### View
 
-- **26. [Guadalupe Peak](https://www.google.com/maps/search/?api=1&query=Guadalupe+Peak+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+- **29. [Guadalupe Peak](https://www.google.com/maps/search/?api=1&query=Guadalupe+Peak+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** View — Ranked #5 for views, shown with its summit marker and sweeping desert mountain vistas.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#5 in that reel)
+
+### Hanksville
+
+#### Utah
+
+##### Road trip stop
+
+- **30. [Hanksville](https://www.google.com/maps/search/?api=1&query=Hanksville+UT)** — Hanksville, Hanksville
+  - **Best for:** Road trip stop — Stop #5 on @_wanderedsouls' Southwest winter road-trip route — the barren, otherworldly desert country around Hanksville is a stop in its own right between Capitol Reef and Goblin Valley.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#5 in that reel)
 
 ### Hell Hole Canyon
 
@@ -631,10 +817,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **27. [Kayenta Falls](https://www.google.com/maps/search/?api=1&query=Kayenta+Falls+Ivins+UT)** — Hell Hole Canyon, Ivins
+- **31. [Kayenta Falls](https://www.google.com/maps/search/?api=1&query=Kayenta+Falls+Ivins+UT)** — Hell Hole Canyon, Ivins
   - **Best for:** Waterfall — One of Southern Utah's rarest sights, per Mikey Loveridge: the 1,000-foot red-rock cliffs of Hell Hole Canyon near Ivins run bone dry most days, but after heavy rain three ephemeral waterfalls — Kayenta Falls — pour straight down the cliff faces in a vertical flash flood. He photographed the canyon completely dry on Nov 1, 2026, and in full flow the next day after the rain kept coming.
   - Pin is approximate: the ephemeral falls are not a mapped feature, so it sits on Kayenta Wash at the mouth of Hell Hole Canyon, just northwest of the Kayenta community in Ivins (OpenStreetMap). The falls flow only after heavy rain.
   - 🎬 Source: [Kayenta Falls — A Vertical Flash Flood](https://www.instagram.com/reel/DfQEa3Ph55r/) by @mikeyloveridge (#1 in that reel)
+
+### Monument Valley Navajo Tribal Park
+
+#### Utah
+
+##### Road trip stop
+
+- **32. [Monument Valley](https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT)** — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
+  - **Best for:** Road trip stop — Stop #11 on @_wanderedsouls' Southwest winter road-trip route — the classic buttes, filmed from the road through the valley.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#11 in that reel)
 
 ### Natural Bridges National Monument
 
@@ -642,10 +839,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **28. [Natural Bridges National Monument](https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT)** — Natural Bridges National Monument, Blanding
+- **33. [Natural Bridges National Monument](https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT)** — Natural Bridges National Monument, Blanding
   - **Best for:** Stargazing — Ranked #7 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#7 in that reel)
+
+### Page
+
+#### Arizona
+
+##### Road trip stop
+
+- **34. [Page](https://www.google.com/maps/search/?api=1&query=Page+AZ)** — Page, Page
+  - **Best for:** Road trip stop — Stop #12 on @_wanderedsouls' Southwest winter road-trip route — the reel's Page stop is Horseshoe Bend, the Colorado River's famous incised meander.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#12 in that reel)
 
 ### Red Rock Canyon National Conservation Area
 
@@ -653,7 +861,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **29. [Red Rock Canyon National Conservation Area](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV)** — Red Rock Canyon National Conservation Area, Las Vegas
+- **35. [Red Rock Canyon National Conservation Area](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV)** — Red Rock Canyon National Conservation Area, Las Vegas
   - **Best for:** Sunset — Caption names Red Rock Canyon, NV, with a sunset hashtag. The video pans over desert mountains at dusk under a blue-to-orange sky and says the spot is just fifteen minutes from Las Vegas — a peaceful desert contrast to the city.
   - Caption calls it 'Red Rock Canyon State Park, NV', but the Las Vegas-area spot in the video (15 minutes from the city) is Red Rock Canyon National Conservation Area, the BLM conservation area west of Las Vegas; Red Rock Canyon State Park is a different park in California. Pin is the conservation area's visitor center on the Scenic Loop (the Nominatim nature-reserve centroid was the alternative).
   - 🎬 Source: [Sunset — Red Rock Canyon](https://www.instagram.com/reel/DGVlZoGoEAa/) by @amorywild (#None in that reel)
@@ -664,14 +872,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **30. [Chasm Lake](https://www.google.com/maps/search/?api=1&query=Chasm+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **36. [Chasm Lake](https://www.google.com/maps/search/?api=1&query=Chasm+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — Ranked #1, a frozen alpine lake surrounded by towering, snow-dusted granite peaks.
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#1 in that reel)
-- **31. [Gem Lake Trail](https://www.google.com/maps/search/?api=1&query=Gem+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **37. [Gem Lake Trail](https://www.google.com/maps/search/?api=1&query=Gem+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — Caption names the Gem Lake Trail in 'Rock Mountain' (Rocky Mountain) National Park; the state (Colorado) is inferred from the park. This post has no tagged location. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Caption says 'Rock Mountain National Park' — Rocky Mountain National Park. Pin is Gem Lake in Larimer County (the Lumpy Ridge lake in Rocky Mountain National Park), the trail's destination; same-named lakes in Jackson and El Paso counties, CO were rejected.
   - 🎬 Source: [Hiking — Gem Lake Trail](https://www.instagram.com/reel/DGOs9n7SG5e/) by @amorywild (#None in that reel)
-- **32. [Rocky Mountain National Park](https://www.google.com/maps/search/?api=1&query=Rocky+Mountain+National+Park+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **38. [Rocky Mountain National Park](https://www.google.com/maps/search/?api=1&query=Rocky+Mountain+National+Park+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — His #5 in 'My Top 5 National Parks For Hiking': shown with wide views of snow-dusted peaks, valleys, frozen lakes, rocky summits and a cascading waterfall. (The media-understanding transcript renders the name as 'Rocky Mountains National Park.')
   - Park-level pin is the park's Nominatim point on the east side, near the Beaver Meadows entrance.
   - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#5 in that reel)
@@ -682,7 +890,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Winter hike
 
-- **33. [Lake Haiyaha Trail](https://www.google.com/maps/search/?api=1&query=Lake+Haiyaha+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **39. [Lake Haiyaha Trail](https://www.google.com/maps/search/?api=1&query=Lake+Haiyaha+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Winter hike — Caption names the Lake Haiyaha Trail in Rocky Mountain National Park with a snow emoji; the tag adds Colorado. The video follows a hiker laughing and walking a snowy trail through a snow-covered mountain landscape — a joyful winter hike.
   - Pin is Lake Haiyaha, the trail's destination.
   - 🎬 Source: [Hiking — Lake Haiyaha Trail](https://www.instagram.com/reel/DGTIqslJiFN/) by @amorywild (#None in that reel)
@@ -693,9 +901,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **34. [Wasson Peak](https://www.google.com/maps/search/?api=1&query=Wasson+Peak+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
+- **40. [Wasson Peak](https://www.google.com/maps/search/?api=1&query=Wasson+Peak+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
   - **Best for:** Hike — Ranked #5, hiking among giant saguaro cacti to a summit with panoramic desert mountain views at sunset.
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#5 in that reel)
+
+##### Road trip stop
+
+- **41. [Saguaro National Park](https://www.google.com/maps/search/?api=1&query=Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
+  - **Best for:** Road trip stop — Named in @_wanderedsouls' Southwest winter road-trip reel as part of their detailed itinerary (an Arizona add-on beyond the 13 route stops) — forests of giant saguaro cactus outside Tucson.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#None in that reel)
+
+### Sedona
+
+#### Arizona
+
+##### Road trip stop
+
+- **42. [Sedona](https://www.google.com/maps/search/?api=1&query=Sedona+AZ)** — Sedona, Sedona
+  - **Best for:** Road trip stop — Named in @_wanderedsouls' Southwest winter road-trip reel as part of their detailed itinerary (an Arizona add-on beyond the 13 route stops).
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#None in that reel)
 
 ### Valley of Fire State Park
 
@@ -703,9 +929,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **35. [Valley of Fire State Park](https://www.google.com/maps/search/?api=1&query=Valley+of+Fire+State+Park+Valley+of+Fire+State+Park+NV)** — Valley of Fire State Park, Moapa Valley
+- **43. [Valley of Fire State Park](https://www.google.com/maps/search/?api=1&query=Valley+of+Fire+State+Park+Valley+of+Fire+State+Park+NV)** — Valley of Fire State Park, Moapa Valley
   - **Best for:** Hiking / Red-rock scenery — A POV walkthrough introduced by on-screen text, 'POV you finally made it to Valley of Fire.' It moves through narrow orange-red slot canyons, past jagged red-rock spires, and across expansive wave-like striped formations with pools and sparse desert vegetation.
   - 🎬 Source: [Scenic landscapes — Valley of Fire State Park](https://www.instagram.com/reel/Dd4og3dtf8U/) by @amorywild (#None in that reel)
+  - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
+    - **Best for:** Road trip — Stop #1 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown as the winding road through its red canyons.
 
 ### Zion National Park
 
@@ -713,17 +941,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **36. [Angels Landing](https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **44. [Angels Landing](https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Hike — Caption names Angels Landing in Zion National Park (caption spells it 'Angel's Landing'). No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Caption spells it 'Angel's Landing'; corrected to the official name, Angels Landing.
   - 🎬 Source: [Hiking — Angels Landing](https://www.instagram.com/reel/DGk-9K9OoBr/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild
     - **Best for:** Hike / Adrenaline — His #2 adrenaline hike: the steep red-rock ascent, hikers holding chains along an exposed ridge, and panoramic views of Zion Canyon.
-- **37. [Subway Trail](https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT)** — Zion National Park, Zion National Park
+- **45. [Subway Trail](https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT)** — Zion National Park, Zion National Park
   - **Best for:** Hike — His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings.
   - Pin is an OSM path point inside The Subway canyon (Left Fork of North Creek), the hike's destination.
   - 🎬 Source: [Top 5 National Park Hikes](https://www.instagram.com/reel/Ddpitf0BMb-/) by @amorywild (#4 in that reel)
-- **38. [The Narrows](https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT)** — Zion National Park, Zion Canyon
+- **46. [The Narrows](https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT)** — Zion National Park, Zion Canyon
   - **Best for:** Hike — Ranked #4, a 10.5-mile round trip wading the Virgin River in cold water. He went in June during snowmelt and used a dry bib wetsuit.
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild
@@ -731,7 +959,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **39. [Canyon Overlook](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **47. [Canyon Overlook](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Sunrise — Ranked #3 for sunrise in the reel. Massive red rock cliffs glow bright orange as the sun hits Zion Canyon.
   - End of the 1-mile Canyon Overlook Trail, just east of the Zion-Mount Carmel Tunnel.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#3 in that reel)
@@ -746,16 +974,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top national park
 
-- **40. [Zion National Park](https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **48. [Zion National Park](https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Top national park — His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water.
   - Park-level pin is the park's Nominatim point.
   - 🎬 Source: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild (#7 in that reel)
   - 🎬 Also recommended by: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog
     - **Best for:** Stargazing — One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.
+  - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
+    - **Best for:** Road trip — Stop #2 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown from above its famous switchback road.
 
 ##### View
 
-- **41. [Zion Canyon](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **49. [Zion Canyon](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** View — A static scenic shot of Zion Canyon: the Virgin River (name inferred from the location) flowing between massive orange-and-white striated cliffs in warm early-morning or late-afternoon light, posted as a calm, meditative nature scene.
   - 🎬 Source: [Scenic viewpoint — Zion Canyon](https://www.instagram.com/reel/DGqUbwIpLIH/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Scenic ride — Zion Canyon](https://www.instagram.com/reel/DGIocRzuRcL/) by @amorywild
@@ -763,7 +993,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Mountain West Region {#mountain-west}
 
-**31 places · Colorado, Montana, Wyoming**
+**32 places · Colorado, Montana, Wyoming**
+
+### Black Canyon of the Gunnison National Park
+
+#### Colorado
+
+##### Viewpoint
+
+- **1. [Black Canyon of the Gunnison National Park](https://www.google.com/maps/search/?api=1&query=Black+Canyon+of+the+Gunnison+National+Park+CO)** — Black Canyon of the Gunnison National Park, Montrose
+  - **Best for:** Viewpoint — Jalene and Seth's hidden-gem pick: massive canyon views with hardly any crowds — and you don't have to hike miles to get them. Most overlooks along the South Rim are a short walk from where you park, some only a few minutes. Their verdict after visiting parks across the country in their van: seriously surprising, and a do-not-skip on a Colorado road trip.
+  - Park-level entry; the reel showcases the South Rim overlooks generally rather than one named viewpoint. Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [We might regret telling everyone about this place — Black Canyon of the Gunnison](https://www.instagram.com/reel/DfQcH0yCX5T/) by @jaleneandseth (#1 in that reel)
 
 ### Glacier National Park
 
@@ -771,10 +1012,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **1. [Avalanche Lake](https://www.google.com/maps/search/?api=1&query=Avalanche+Lake+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
+- **2. [Avalanche Lake](https://www.google.com/maps/search/?api=1&query=Avalanche+Lake+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Hike — Caption and tagged location name Avalanche Lake in Glacier National Park. The video pans along a turquoise alpine lake under forested, snow-patched peaks and asks whether this is the best hike in West Glacier.
   - 🎬 Source: [Hiking — Avalanche Lake](https://www.instagram.com/reel/DedQ0ksvhco/) by @amorywild (#None in that reel)
-- **2. [Glacier National Park](https://www.google.com/maps/search/?api=1&query=Glacier+National+Park+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
+- **3. [Glacier National Park](https://www.google.com/maps/search/?api=1&query=Glacier+National+Park+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Hike — His #1 for hiking, presented as the most beautiful: high-elevation views of long lakes between snow-streaked mountains and hiker footage on alpine trails.
   - Park-level pin is the park's Nominatim point on the Going-to-the-Sun Road corridor.
   - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#1 in that reel)
@@ -782,17 +1023,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Black bear / Wildlife — Caption names Glacier National Park for a bear encounter. A person walking a bicycle along a paved road passes a small black bear on the grassy shoulder, speaking calmly to it; another voice then asks to hold the bear spray.
   - 🎬 Also recommended by: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild
     - **Best for:** Top national park — His #2 national park: Glacier, shown with high mountain ridges, turquoise lakes, and bighorn sheep near a road.
-- **3. [Mt Henry Trail](https://www.google.com/maps/search/?api=1&query=Mt+Henry+Trail+Glacier+National+Park+MT)** — Glacier National Park, Glacier National Park
+- **4. [Mt Henry Trail](https://www.google.com/maps/search/?api=1&query=Mt+Henry+Trail+Glacier+National+Park+MT)** — Glacier National Park, Glacier National Park
   - **Best for:** Hike / Summit view — Caption names the Mt Henry Trail in Glacier National Park. From the summit, the camera pans across rugged snow-dusted peaks, forested valleys, and a distant turquoise lake as a hiker with trekking poles walks the exposed ridge; on-screen text reads, 'On top of the world...'
   - Pin is the Mount Henry summit; the Mt Henry Trail climbs it from the Two Medicine Campground area.
   - 🎬 Source: [Hiking / Summit view — Mt Henry Trail](https://www.instagram.com/reel/DdfjmAOzCTR/) by @amorywild (#None in that reel)
-- **4. [Stanton Mountain](https://www.google.com/maps/search/?api=1&query=Stanton+Mountain+Glacier+National+Park+MT)** — Glacier National Park, Lake McDonald
+- **5. [Stanton Mountain](https://www.google.com/maps/search/?api=1&query=Stanton+Mountain+Glacier+National+Park+MT)** — Glacier National Park, Lake McDonald
   - **Best for:** Hike — Ranked #5, an 8-mile round trip with about 4,500 feet of gain, mostly off-trail on the second half. He stopped short of the summit in snow but had views of Lake McDonald.
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#5 in that reel)
 
 ##### Waterfall
 
-- **5. [Virginia Falls](https://www.google.com/maps/search/?api=1&query=Virginia+Falls+Glacier+National+Park+MT)** — Glacier National Park, St. Mary
+- **6. [Virginia Falls](https://www.google.com/maps/search/?api=1&query=Virginia+Falls+Glacier+National+Park+MT)** — Glacier National Park, St. Mary
   - **Best for:** Waterfall — Ranked #1 waterfall, a tall, misty waterfall in a forested valley.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#1 in that reel)
   - 🎬 Also recommended by: [Waterfall — Virginia Falls](https://www.instagram.com/reel/Dd951SeBW1m/) by @amorywild
@@ -804,19 +1045,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **6. [Jenny Lake](https://www.google.com/maps/search/?api=1&query=Jenny+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
+- **7. [Jenny Lake](https://www.google.com/maps/search/?api=1&query=Jenny+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
   - **Best for:** View — Ranked #1 for views, highlighted by the clear lake reflecting the snow-capped Teton peaks.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#1 in that reel)
 
 ##### Waterfall
 
-- **7. [Hidden Falls](https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
+- **8. [Hidden Falls](https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
   - **Best for:** Waterfall — Ranked #4 waterfall, a powerful cascade surrounded by evergreen trees and rocky terrain.
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#4 in that reel)
 
 ##### Wildlife
 
-- **8. [Grand Teton National Park](https://www.google.com/maps/search/?api=1&query=Grand+Teton+National+Park+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+- **9. [Grand Teton National Park](https://www.google.com/maps/search/?api=1&query=Grand+Teton+National+Park+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Wildlife — His #5 in 'My Top 5 National Parks For Wildlife Viewing': a moose grazing by a roadside fence, a porcupine in brush, and a herd of bison in an open field.
   - Park-level pin is the park's Nominatim point near the park's centre.
   - 🎬 Source: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild (#5 in that reel)
@@ -829,7 +1070,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **9. [Great Sand Dunes National Park](https://www.google.com/maps/search/?api=1&query=Great+Sand+Dunes+National+Park+CO)** — Great Sand Dunes National Park, Mosca
+- **10. [Great Sand Dunes National Park](https://www.google.com/maps/search/?api=1&query=Great+Sand+Dunes+National+Park+CO)** — Great Sand Dunes National Park, Mosca
   - **Best for:** Stargazing — Ranked #9 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#9 in that reel)
@@ -840,7 +1081,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **10. [Manitou Incline](https://www.google.com/maps/search/?api=1&query=Manitou+Incline+Manitou+Springs+CO)** — Manitou Incline, Manitou Springs
+- **11. [Manitou Incline](https://www.google.com/maps/search/?api=1&query=Manitou+Incline+Manitou+Springs+CO)** — Manitou Incline, Manitou Springs
   - **Best for:** Hike — Joe Ferrucci and his friend Jordan set out to climb the Manitou Incline, billed on-screen as the tallest staircase in the United States. Jordan grinds his way up the relentless steps to the summit; Joe's own 'halfway through' update is filmed from a bar stool. A comedy bit, but an honest preview of how steep this climb is.
   - Geocoded as 'The Incline' (OSM, type: steps), Manitou Springs, El Paso County, CO.
   - 🎬 Source: [Manitou Incline hike — 'Hold on I forgot something'](https://www.instagram.com/reel/DfC4kU-xTZ-/) by @josephferrucci (#1 in that reel)
@@ -851,96 +1092,96 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Geyser
 
-- **11. [Grotto Geyser](https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **12. [Grotto Geyser](https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser — Day 1: Grotto Geyser, on the same Upper Geyser Basin walk as Old Faithful and Morning Glory Pool.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **12. [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **13. [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser — Day 1 of his 6-day Yellowstone recap: the south entrance, then Old Faithful erupting in the Upper Geyser Basin.
   - Pin is the Old Faithful Inn point: Nominatim resolves 'Old Faithful' to the visitor complex, ~250 m from the geyser cone.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Geyser basin
 
-- **13. [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **14. [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser basin — Day 3: Norris Geyser Basin, visited with Artists Paint Pots and Gibbon Falls.
   - Pin is the basin's attraction point by the Norris Museum area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **14. [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **15. [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser basin — Day 5: West Thumb Geyser Basin on the shore of Yellowstone Lake.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Hike
 
-- **15. [Bunsen Peak](https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **16. [Bunsen Peak](https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hike / Summit — Day 4: a hike up Bunsen Peak for mountain views, on the Mammoth Hot Springs day.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Hot spring
 
-- **16. [Artists Paint Pots](https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **17. [Artists Paint Pots](https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring — Day 3: Artists Paint Pots, on the Norris / Gibbon Falls day of the trip.
   - Park signage and OSM spell the name 'Artists Paintpots' (one word); the candidate's spelling is kept.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **17. [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **18. [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring / View — Day 2: Grand Prismatic Spring seen from both ground level and the overlook.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **18. [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **19. [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring / Terraces — Day 4: the Mammoth Hot Springs terraces; the day also brought three grizzly bears grazing.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **19. [Morning Glory Pool](https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **20. [Morning Glory Pool](https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring — Day 1: Morning Glory Pool, visited on the Upper Geyser Basin loop with Old Faithful and Grotto Geyser.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Lake
 
-- **20. [Trout Lake](https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **21. [Trout Lake](https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Lake / Hike — Day 6: Trout Lake, hiked on the Lamar Valley day.
   - The Trout Lake by Pebble Creek in the park's northeast, verified inside the park boundary — several other Wyoming Trout Lakes exist and were rejected by a park-bounded search.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **21. [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **22. [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Lake / View — Day 5: Yellowstone Lake, visited with West Thumb Geyser Basin and the Mud Volcano area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Thermal area
 
-- **22. [Mud Volcano](https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **23. [Mud Volcano](https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Thermal area — Day 5: the steaming Mud Volcano thermal area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### View
 
-- **23. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **24. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** View / Waterfall — His #2 viewpoint: the Lower Falls of the Yellowstone River cascading through the colorful canyon.
   - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#2 in that reel)
 
 ##### Waterfall
 
-- **24. [Fairy Falls](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **25. [Fairy Falls](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 2: Fairy Falls, hiked on the same outing as the Grand Prismatic Spring overlook.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **25. [Firehole Falls](https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **26. [Firehole Falls](https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 1: Firehole Falls, after the geyser basin, on a day that also featured bison including a calf.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **26. [Gibbon Falls](https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **27. [Gibbon Falls](https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 3: Gibbon Falls, roadside falls visited with Norris Geyser Basin and Artists Paint Pots.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **27. [Lower Yellowstone Falls](https://www.google.com/maps/search/?api=1&query=Lower+Yellowstone+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **28. [Lower Yellowstone Falls](https://www.google.com/maps/search/?api=1&query=Lower+Yellowstone+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — His #3 waterfall: Lower Yellowstone Falls, shown plunging into the Grand Canyon of the Yellowstone between colorful canyon walls.
   - 🎬 Source: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild (#3 in that reel)
-- **28. [Undine Falls](https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **29. [Undine Falls](https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 6: Undine Falls, on the final day that also brought a black bear near the roadside.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Wildlife
 
-- **29. [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **30. [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Wildlife — Day 6: Lamar Valley, where distant wolves were spotted — the wildlife finale of the trip.
   - Pin is OSM's Lamar Valley locality point in the valley's eastern half.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **30. [LeHardy Rapids](https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **31. [LeHardy Rapids](https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Wildlife / Rapids — Day 5: LeHardy Rapids, where he watched harlequin ducks in the rapids.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **31. [Yellowstone National Park](https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY)** — Yellowstone National Park, Gardiner
+- **32. [Yellowstone National Park](https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY)** — Yellowstone National Park, Gardiner
   - **Best for:** Wildlife — His #1 for wildlife, described as the most diverse: bison including a calf, an elk grazing, multiple grizzly bears foraging, distant wolves in a meadow, a pronghorn antelope, bighorn sheep by a road, a marmot on rocks, harlequin ducks in rapids, and a black bear crossing pavement.
   - Park-level pin is the park's Nominatim point near the Canyon area.
   - 🎬 Source: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild (#1 in that reel)
@@ -1878,6 +2119,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Kayenta Falls in Hell Hole Canyon near Ivins, Utah — three ephemeral waterfalls that pour over 1,000-foot cliffs only after heavy rain; filmed dry on Nov 1 and flowing on Nov 2, 2026.
 - **[Have you done this trail? — Zion Canyon Overlook](https://www.instagram.com/reel/DbFJQBPBPUi/)** — @danielleoutdoors_ · 1 places · Theme: Canyon Overlook Trail recommendation
   - What the reel recommends: Canyon Overlook Trail in Zion — already on the map from @amorywild, @adventurefamilyvlog and @beesforbeau; added as another source recommending it as a 1-mile, low-effort, high-reward hike.
+- **[State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/)** — @discovery_matt · 12 places · Theme: Best Northeast state parks ranking
+  - What the reel recommends: Countdown of the 12 best state parks in the Northeast U.S.: #12 Smugglers' Notch VT, #11 Bash Bish Falls MA, #10 Crawford Notch NH, #9 Mount Washington NH, #8 Ohiopyle PA, #7 Camden Hills ME, #6 Minnewaska NY, #5 Ricketts Glen PA, #4 Watkins Glen NY, #3 Baxter ME, #2 Franconia Notch NH, #1 Letchworth NY.
+- **[We might regret telling everyone about this place — Black Canyon of the Gunnison](https://www.instagram.com/reel/DfQcH0yCX5T/)** — @jaleneandseth · 1 places · Theme: Hidden-gem national park
+  - What the reel recommends: Black Canyon of the Gunnison National Park (Montrose, Colorado) — huge canyon views, hardly any crowds, and South Rim overlooks just a short walk from parking.
+- **[One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/)** — @_wanderedsouls · 15 places · Theme: Southwest winter road trip
+  - What the reel recommends: A 13-stop Southwest winter road-trip route — Valley of Fire, Zion, Bryce Canyon, Capitol Reef, Hanksville, Goblin Valley, Arches, Canyonlands, Dead Horse Point, Forrest Gump Point, Monument Valley, Page, Grand Canyon — plus Sedona and Saguaro National Park named as itinerary add-ons. 7 stops attached to existing places; 8 new.
 
 ## How this page is updated {#how-this-page-is-updated}
 

@@ -2370,6 +2370,92 @@
    }
   },
   {
+   "id": "reel:De9LC16xH4i",
+   "type": "Reel",
+   "properties": {
+    "name": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "url": "https://www.instagram.com/reel/De9LC16xH4i/",
+    "title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "creator": "@discovery_matt",
+    "theme": "Best Northeast state parks ranking",
+    "places_count": 12,
+    "recommendation_summary": "Countdown of the 12 best state parks in the Northeast U.S.: #12 Smugglers' Notch VT, #11 Bash Bish Falls MA, #10 Crawford Notch NH, #9 Mount Washington NH, #8 Ohiopyle PA, #7 Camden Hills ME, #6 Minnewaska NY, #5 Ricketts Glen PA, #4 Watkins Glen NY, #3 Baxter ME, #2 Franconia Notch NH, #1 Letchworth NY.",
+    "posted": "2026-10-26",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:discovery-matt",
+   "type": "Creator",
+   "properties": {
+    "name": "@discovery_matt",
+    "handle": "@discovery_matt",
+    "display_name": "Matt"
+   }
+  },
+  {
+   "id": "theme:best-northeast-state-parks-ranking",
+   "type": "Theme",
+   "properties": {
+    "name": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "id": "reel:DfQcH0yCX5T",
+   "type": "Reel",
+   "properties": {
+    "name": "We might regret telling everyone about this place — Black Canyon of the Gunnison",
+    "url": "https://www.instagram.com/reel/DfQcH0yCX5T/",
+    "title": "We might regret telling everyone about this place — Black Canyon of the Gunnison",
+    "creator": "@jaleneandseth",
+    "theme": "Hidden-gem national park",
+    "places_count": 1,
+    "recommendation_summary": "Black Canyon of the Gunnison National Park (Montrose, Colorado) — huge canyon views, hardly any crowds, and South Rim overlooks just a short walk from parking.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:jaleneandseth",
+   "type": "Creator",
+   "properties": {
+    "name": "@jaleneandseth",
+    "handle": "@jaleneandseth",
+    "display_name": "Jalene and Seth"
+   }
+  },
+  {
+   "id": "theme:hidden-gem-national-park",
+   "type": "Theme",
+   "properties": {
+    "name": "Hidden-gem national park"
+   }
+  },
+  {
+   "id": "reel:DexzsRogiV7",
+   "type": "Reel",
+   "properties": {
+    "name": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "url": "https://www.instagram.com/reel/DexzsRogiV7/",
+    "title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "creator": "@_wanderedsouls",
+    "theme": "Southwest winter road trip",
+    "places_count": 15,
+    "recommendation_summary": "A 13-stop Southwest winter road-trip route — Valley of Fire, Zion, Bryce Canyon, Capitol Reef, Hanksville, Goblin Valley, Arches, Canyonlands, Dead Horse Point, Forrest Gump Point, Monument Valley, Page, Grand Canyon — plus Sedona and Saguaro National Park named as itinerary add-ons. 7 stops attached to existing places; 8 new.",
+    "posted": "2026-10-21",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:wanderedsouls",
+   "type": "Creator",
+   "properties": {
+    "name": "@_wanderedsouls",
+    "handle": "@_wanderedsouls",
+    "display_name": "Wandered Souls"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -2926,6 +3012,13 @@
    "type": "Theme",
    "properties": {
     "name": "Stargazing"
+   }
+  },
+  {
+   "id": "theme:road-trip",
+   "type": "Theme",
+   "properties": {
+    "name": "Road trip"
    }
   },
   {
@@ -6588,6 +6681,613 @@
    "properties": {
     "name": "Hell Hole Canyon"
    }
+  },
+  {
+   "id": "place:smugglers-notch-state-park-vt",
+   "type": "Place",
+   "properties": {
+    "name": "Smugglers' Notch State Park",
+    "place_id": "smugglers-notch-state-park-vt",
+    "site": "Smugglers' Notch State Park",
+    "city": "Cambridge",
+    "state": "Vermont",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.5727,
+    "lng": -72.76765,
+    "google_maps_query": "Smugglers'+Notch+State+Park+VT",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-vermont",
+   "type": "State",
+   "properties": {
+    "name": "Vermont",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:smugglers-notch-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Smugglers' Notch State Park"
+   }
+  },
+  {
+   "id": "theme:top-state-park",
+   "type": "Theme",
+   "properties": {
+    "name": "Top state park"
+   }
+  },
+  {
+   "id": "place:bash-bish-falls-state-park-ma",
+   "type": "Place",
+   "properties": {
+    "name": "Bash Bish Falls State Park",
+    "place_id": "bash-bish-falls-state-park-ma",
+    "site": "Bash Bish Falls State Park",
+    "city": "Mount Washington",
+    "state": "Massachusetts",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.10968,
+    "lng": -73.49125,
+    "google_maps_query": "Bash+Bish+Falls+State+Park+MA",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-massachusetts",
+   "type": "State",
+   "properties": {
+    "name": "Massachusetts",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:bash-bish-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Bash Bish Falls State Park"
+   }
+  },
+  {
+   "id": "place:crawford-notch-state-park-nh",
+   "type": "Place",
+   "properties": {
+    "name": "Crawford Notch State Park",
+    "place_id": "crawford-notch-state-park-nh",
+    "site": "Crawford Notch State Park",
+    "city": "Harts Location",
+    "state": "New Hampshire",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.17751,
+    "lng": -71.39885,
+    "google_maps_query": "Crawford+Notch+State+Park+NH",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-new-hampshire",
+   "type": "State",
+   "properties": {
+    "name": "New Hampshire",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:crawford-notch-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Crawford Notch State Park"
+   }
+  },
+  {
+   "id": "place:mount-washington-state-park-nh",
+   "type": "Place",
+   "properties": {
+    "name": "Mount Washington State Park",
+    "place_id": "mount-washington-state-park-nh",
+    "site": "Mount Washington State Park",
+    "city": "Gorham",
+    "state": "New Hampshire",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.27083,
+    "lng": -71.30403,
+    "google_maps_query": "Mount+Washington+State+Park+NH",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:mount-washington-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Mount Washington State Park"
+   }
+  },
+  {
+   "id": "place:ohiopyle-state-park-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Ohiopyle State Park",
+    "place_id": "ohiopyle-state-park-pa",
+    "site": "Ohiopyle State Park",
+    "city": "Ohiopyle",
+    "state": "Pennsylvania",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 39.86708,
+    "lng": -79.42948,
+    "google_maps_query": "Ohiopyle+State+Park+PA",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:ohiopyle-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Ohiopyle State Park"
+   }
+  },
+  {
+   "id": "place:camden-hills-state-park-me",
+   "type": "Place",
+   "properties": {
+    "name": "Camden Hills State Park",
+    "place_id": "camden-hills-state-park-me",
+    "site": "Camden Hills State Park",
+    "city": "Camden",
+    "state": "Maine",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.25638,
+    "lng": -69.06397,
+    "google_maps_query": "Camden+Hills+State+Park+ME",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-maine",
+   "type": "State",
+   "properties": {
+    "name": "Maine",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:camden-hills-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Camden Hills State Park"
+   }
+  },
+  {
+   "id": "place:minnewaska-state-park-preserve-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Minnewaska State Park Preserve",
+    "place_id": "minnewaska-state-park-preserve-ny",
+    "site": "Minnewaska State Park Preserve",
+    "city": "Kerhonkson",
+    "state": "New York",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.71155,
+    "lng": -74.30401,
+    "google_maps_query": "Minnewaska+State+Park+Preserve+NY",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-new-york",
+   "type": "State",
+   "properties": {
+    "name": "New York",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:minnewaska-state-park-preserve",
+   "type": "Site",
+   "properties": {
+    "name": "Minnewaska State Park Preserve"
+   }
+  },
+  {
+   "id": "place:ricketts-glen-state-park-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Ricketts Glen State Park",
+    "place_id": "ricketts-glen-state-park-pa",
+    "site": "Ricketts Glen State Park",
+    "city": "Benton",
+    "state": "Pennsylvania",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.33195,
+    "lng": -76.2794,
+    "google_maps_query": "Ricketts+Glen+State+Park+PA",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:ricketts-glen-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Ricketts Glen State Park"
+   }
+  },
+  {
+   "id": "place:watkins-glen-state-park-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Watkins Glen State Park",
+    "place_id": "watkins-glen-state-park-ny",
+    "site": "Watkins Glen State Park",
+    "city": "Watkins Glen",
+    "state": "New York",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.3615,
+    "lng": -76.92885,
+    "google_maps_query": "Watkins+Glen+State+Park+NY",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:watkins-glen-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Watkins Glen State Park"
+   }
+  },
+  {
+   "id": "place:baxter-state-park-me",
+   "type": "Place",
+   "properties": {
+    "name": "Baxter State Park",
+    "place_id": "baxter-state-park-me",
+    "site": "Baxter State Park",
+    "city": "Millinocket",
+    "state": "Maine",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 46.01564,
+    "lng": -68.95441,
+    "google_maps_query": "Baxter+State+Park+ME",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:baxter-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Baxter State Park"
+   }
+  },
+  {
+   "id": "place:franconia-notch-state-park-nh",
+   "type": "Place",
+   "properties": {
+    "name": "Franconia Notch State Park",
+    "place_id": "franconia-notch-state-park-nh",
+    "site": "Franconia Notch State Park",
+    "city": "Lincoln",
+    "state": "New Hampshire",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.14438,
+    "lng": -71.69095,
+    "google_maps_query": "Franconia+Notch+State+Park+NH",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:franconia-notch-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Franconia Notch State Park"
+   }
+  },
+  {
+   "id": "place:letchworth-state-park-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Letchworth State Park",
+    "place_id": "letchworth-state-park-ny",
+    "site": "Letchworth State Park",
+    "city": "Castile",
+    "state": "New York",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.6556,
+    "lng": -77.96755,
+    "google_maps_query": "Letchworth+State+Park+NY",
+    "best_for": "Top state park",
+    "note": "Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:letchworth-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Letchworth State Park"
+   }
+  },
+  {
+   "id": "place:black-canyon-of-the-gunnison-national-park-co",
+   "type": "Place",
+   "properties": {
+    "name": "Black Canyon of the Gunnison National Park",
+    "place_id": "black-canyon-of-the-gunnison-national-park-co",
+    "site": "Black Canyon of the Gunnison National Park",
+    "city": "Montrose",
+    "state": "Colorado",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.57981,
+    "lng": -107.7437,
+    "google_maps_query": "Black+Canyon+of+the+Gunnison+National+Park+CO",
+    "best_for": "Viewpoint",
+    "note": "Park-level entry; the reel showcases the South Rim overlooks generally rather than one named viewpoint. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:black-canyon-of-the-gunnison-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "Black Canyon of the Gunnison National Park"
+   }
+  },
+  {
+   "id": "place:hanksville-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Hanksville",
+    "place_id": "hanksville-ut",
+    "site": "Hanksville",
+    "city": "Hanksville",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.37378,
+    "lng": -110.7064,
+    "google_maps_query": "Hanksville+UT",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:hanksville",
+   "type": "Site",
+   "properties": {
+    "name": "Hanksville"
+   }
+  },
+  {
+   "id": "theme:road-trip-stop",
+   "type": "Theme",
+   "properties": {
+    "name": "Road trip stop"
+   }
+  },
+  {
+   "id": "place:goblin-valley-state-park-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Goblin Valley State Park",
+    "place_id": "goblin-valley-state-park-ut",
+    "site": "Goblin Valley State Park",
+    "city": "Green River",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.59816,
+    "lng": -110.69997,
+    "google_maps_query": "Goblin+Valley+State+Park+UT",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:goblin-valley-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Goblin Valley State Park"
+   }
+  },
+  {
+   "id": "place:dead-horse-point-state-park-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Dead Horse Point State Park",
+    "place_id": "dead-horse-point-state-park-ut",
+    "site": "Dead Horse Point State Park",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.51422,
+    "lng": -109.73877,
+    "google_maps_query": "Dead+Horse+Point+State+Park+UT",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:dead-horse-point-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Dead Horse Point State Park"
+   }
+  },
+  {
+   "id": "place:forrest-gump-point-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Forrest Gump Point",
+    "place_id": "forrest-gump-point-ut",
+    "site": "Forrest Gump Point (US-163)",
+    "city": "Mexican Hat",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.10147,
+    "lng": -109.99084,
+    "google_maps_query": "Forrest+Gump+Point+UT",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:forrest-gump-point-us-163",
+   "type": "Site",
+   "properties": {
+    "name": "Forrest Gump Point (US-163)"
+   }
+  },
+  {
+   "id": "place:monument-valley-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Monument Valley",
+    "place_id": "monument-valley-ut",
+    "site": "Monument Valley Navajo Tribal Park",
+    "city": "Oljato-Monument Valley",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.99675,
+    "lng": -110.10286,
+    "google_maps_query": "Monument+Valley+Navajo+Tribal+Park+UT",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:monument-valley-navajo-tribal-park",
+   "type": "Site",
+   "properties": {
+    "name": "Monument Valley Navajo Tribal Park"
+   }
+  },
+  {
+   "id": "place:page-az",
+   "type": "Place",
+   "properties": {
+    "name": "Page",
+    "place_id": "page-az",
+    "site": "Page",
+    "city": "Page",
+    "state": "Arizona",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.91483,
+    "lng": -111.45729,
+    "google_maps_query": "Page+AZ",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-arizona",
+   "type": "State",
+   "properties": {
+    "name": "Arizona",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:page",
+   "type": "Site",
+   "properties": {
+    "name": "Page"
+   }
+  },
+  {
+   "id": "place:sedona-az",
+   "type": "Place",
+   "properties": {
+    "name": "Sedona",
+    "place_id": "sedona-az",
+    "site": "Sedona",
+    "city": "Sedona",
+    "state": "Arizona",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 34.86886,
+    "lng": -111.76144,
+    "google_maps_query": "Sedona+AZ",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:sedona",
+   "type": "Site",
+   "properties": {
+    "name": "Sedona"
+   }
+  },
+  {
+   "id": "place:saguaro-national-park-az",
+   "type": "Place",
+   "properties": {
+    "name": "Saguaro National Park",
+    "place_id": "saguaro-national-park-az",
+    "site": "Saguaro National Park",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 32.16838,
+    "lng": -110.61835,
+    "google_maps_query": "Saguaro+National+Park+AZ",
+    "best_for": "Road trip stop",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
   }
  ],
  "edges": [
@@ -8350,6 +9050,42 @@
    "properties": {}
   },
   {
+   "from": "reel:De9LC16xH4i",
+   "to": "creator:discovery-matt",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:De9LC16xH4i",
+   "to": "theme:best-northeast-state-parks-ranking",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQcH0yCX5T",
+   "to": "creator:jaleneandseth",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQcH0yCX5T",
+   "to": "theme:hidden-gem-national-park",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DexzsRogiV7",
+   "to": "creator:wanderedsouls",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DexzsRogiV7",
+   "to": "theme:winter-visit",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -9195,6 +9931,25 @@
    "properties": {}
   },
   {
+   "from": "place:capitol-reef-national-park-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Road trip",
+    "recommendation": "Stop #4 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown featuring a large natural arch.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:capitol-reef-national-park-ut",
+   "to": "theme:road-trip",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:death-valley-national-park-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -9691,6 +10446,25 @@
   {
    "from": "place:bryce-canyon-national-park-ut",
    "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Road trip",
+    "recommendation": "Stop #3 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown with a hiker among the hoodoos.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "theme:road-trip",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -14539,6 +15313,25 @@
    "properties": {}
   },
   {
+   "from": "place:canyonlands-national-park-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Road trip",
+    "recommendation": "Stop #8 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown from beneath an arch at dusk.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:canyonlands-national-park-ut",
+   "to": "theme:road-trip",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:pinnacles-national-park-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -15178,6 +15971,25 @@
    "properties": {}
   },
   {
+   "from": "place:valley-of-fire-state-park-nv",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Road trip",
+    "recommendation": "Stop #1 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown as the winding road through its red canyons.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:valley-of-fire-state-park-nv",
+   "to": "theme:road-trip",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:wapama-falls-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -15342,6 +16154,25 @@
   {
    "from": "place:grand-canyon-national-park-az",
    "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 13,
+    "best_for": "Road trip",
+    "recommendation": "Stop #13 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). The route's finale — expansive canyon vistas.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "theme:road-trip",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -15622,6 +16453,25 @@
   {
    "from": "place:zion-national-park-ut",
    "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:zion-national-park-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Road trip",
+    "recommendation": "Stop #2 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown from above its famous switchback road.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:zion-national-park-ut",
+   "to": "theme:road-trip",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -15977,6 +16827,25 @@
    "properties": {}
   },
   {
+   "from": "place:arches-national-park-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Road trip",
+    "recommendation": "Stop #7 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). Shown as Delicate Arch at sunset.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "theme:road-trip",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:cherry-springs-state-park-pa",
    "to": "state:united-states-pennsylvania",
    "type": "LOCATED_IN",
@@ -16226,6 +17095,729 @@
   {
    "from": "place:kayenta-falls-ut",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:smugglers-notch-state-park-vt",
+   "to": "state:united-states-vermont",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-vermont",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-vermont",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:smugglers-notch-state-park-vt",
+   "to": "site:smugglers-notch-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:smugglers-notch-state-park-vt",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 12,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #12 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:smugglers-notch-state-park-vt",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bash-bish-falls-state-park-ma",
+   "to": "state:united-states-massachusetts",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-massachusetts",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-massachusetts",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:bash-bish-falls-state-park-ma",
+   "to": "site:bash-bish-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bash-bish-falls-state-park-ma",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 11,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #11 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:bash-bish-falls-state-park-ma",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:crawford-notch-state-park-nh",
+   "to": "state:united-states-new-hampshire",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-new-hampshire",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-new-hampshire",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:crawford-notch-state-park-nh",
+   "to": "site:crawford-notch-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:crawford-notch-state-park-nh",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 10,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #10 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:crawford-notch-state-park-nh",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-washington-state-park-nh",
+   "to": "state:united-states-new-hampshire",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-washington-state-park-nh",
+   "to": "site:mount-washington-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-washington-state-park-nh",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 9,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #9 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:mount-washington-state-park-nh",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ohiopyle-state-park-pa",
+   "to": "state:united-states-pennsylvania",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ohiopyle-state-park-pa",
+   "to": "site:ohiopyle-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ohiopyle-state-park-pa",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #8 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:ohiopyle-state-park-pa",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:camden-hills-state-park-me",
+   "to": "state:united-states-maine",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-maine",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-maine",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:camden-hills-state-park-me",
+   "to": "site:camden-hills-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:camden-hills-state-park-me",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #7 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:camden-hills-state-park-me",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:minnewaska-state-park-preserve-ny",
+   "to": "state:united-states-new-york",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-new-york",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-new-york",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:minnewaska-state-park-preserve-ny",
+   "to": "site:minnewaska-state-park-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:minnewaska-state-park-preserve-ny",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #6 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:minnewaska-state-park-preserve-ny",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ricketts-glen-state-park-pa",
+   "to": "state:united-states-pennsylvania",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ricketts-glen-state-park-pa",
+   "to": "site:ricketts-glen-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ricketts-glen-state-park-pa",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #5 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:ricketts-glen-state-park-pa",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:watkins-glen-state-park-ny",
+   "to": "state:united-states-new-york",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:watkins-glen-state-park-ny",
+   "to": "site:watkins-glen-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:watkins-glen-state-park-ny",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #4 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:watkins-glen-state-park-ny",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:baxter-state-park-me",
+   "to": "state:united-states-maine",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:baxter-state-park-me",
+   "to": "site:baxter-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:baxter-state-park-me",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #3 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:baxter-state-park-me",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:franconia-notch-state-park-nh",
+   "to": "state:united-states-new-hampshire",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:franconia-notch-state-park-nh",
+   "to": "site:franconia-notch-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:franconia-notch-state-park-nh",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #2 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:franconia-notch-state-park-nh",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:letchworth-state-park-ny",
+   "to": "state:united-states-new-york",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:letchworth-state-park-ny",
+   "to": "site:letchworth-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:letchworth-state-park-ny",
+   "to": "reel:De9LC16xH4i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Top state park",
+    "recommendation": "Ranked #1 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.",
+    "creator": "@discovery_matt",
+    "reel_title": "State Park Ranking — 12 Best State Parks, Northeast U.S.",
+    "reel_theme": "Best Northeast state parks ranking"
+   }
+  },
+  {
+   "from": "place:letchworth-state-park-ny",
+   "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:black-canyon-of-the-gunnison-national-park-co",
+   "to": "state:united-states-colorado",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:black-canyon-of-the-gunnison-national-park-co",
+   "to": "site:black-canyon-of-the-gunnison-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:black-canyon-of-the-gunnison-national-park-co",
+   "to": "reel:DfQcH0yCX5T",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint",
+    "recommendation": "Jalene and Seth's hidden-gem pick: massive canyon views with hardly any crowds — and you don't have to hike miles to get them. Most overlooks along the South Rim are a short walk from where you park, some only a few minutes. Their verdict after visiting parks across the country in their van: seriously surprising, and a do-not-skip on a Colorado road trip.",
+    "creator": "@jaleneandseth",
+    "reel_title": "We might regret telling everyone about this place — Black Canyon of the Gunnison",
+    "reel_theme": "Hidden-gem national park"
+   }
+  },
+  {
+   "from": "place:black-canyon-of-the-gunnison-national-park-co",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hanksville-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:hanksville-ut",
+   "to": "site:hanksville",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:hanksville-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop #5 on @_wanderedsouls' Southwest winter road-trip route — the barren, otherworldly desert country around Hanksville is a stop in its own right between Capitol Reef and Goblin Valley.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:hanksville-ut",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:goblin-valley-state-park-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:goblin-valley-state-park-ut",
+   "to": "site:goblin-valley-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:goblin-valley-state-park-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop #6 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops) — a valley of hoodoo 'goblins' between Hanksville and Arches.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:goblin-valley-state-park-ut",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:dead-horse-point-state-park-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:dead-horse-point-state-park-ut",
+   "to": "site:dead-horse-point-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:dead-horse-point-state-park-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 9,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop #9 on @_wanderedsouls' Southwest winter road-trip route — shown overlooking vast canyons at twilight, next door to Canyonlands.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:dead-horse-point-state-park-ut",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:forrest-gump-point-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:forrest-gump-point-ut",
+   "to": "site:forrest-gump-point-us-163",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:forrest-gump-point-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 10,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop #10 on @_wanderedsouls' Southwest winter road-trip route — the iconic long, straight highway shot toward the Monument Valley buttes, made famous by Forrest Gump.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:forrest-gump-point-ut",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:monument-valley-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:monument-valley-ut",
+   "to": "site:monument-valley-navajo-tribal-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:monument-valley-ut",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 11,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop #11 on @_wanderedsouls' Southwest winter road-trip route — the classic buttes, filmed from the road through the valley.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:monument-valley-ut",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:page-az",
+   "to": "state:united-states-arizona",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-arizona",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-arizona",
+   "to": "region:southwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:page-az",
+   "to": "site:page",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:page-az",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 12,
+    "best_for": "Road trip stop",
+    "recommendation": "Stop #12 on @_wanderedsouls' Southwest winter road-trip route — the reel's Page stop is Horseshoe Bend, the Colorado River's famous incised meander.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:page-az",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sedona-az",
+   "to": "state:united-states-arizona",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:sedona-az",
+   "to": "site:sedona",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:sedona-az",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Road trip stop",
+    "recommendation": "Named in @_wanderedsouls' Southwest winter road-trip reel as part of their detailed itinerary (an Arizona add-on beyond the 13 route stops).",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:sedona-az",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:saguaro-national-park-az",
+   "to": "state:united-states-arizona",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:saguaro-national-park-az",
+   "to": "site:saguaro-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:saguaro-national-park-az",
+   "to": "reel:DexzsRogiV7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Road trip stop",
+    "recommendation": "Named in @_wanderedsouls' Southwest winter road-trip reel as part of their detailed itinerary (an Arizona add-on beyond the 13 route stops) — forests of giant saguaro cactus outside Tucson.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)",
+    "reel_theme": "Southwest winter road trip"
+   }
+  },
+  {
+   "from": "place:saguaro-national-park-az",
+   "to": "theme:road-trip-stop",
    "type": "BEST_FOR",
    "properties": {}
   }
