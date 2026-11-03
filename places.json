@@ -5442,6 +5442,28 @@
    "source_rank": 1,
    "source_reel_theme": "Enchantments lake hike",
    "additional_sources": []
+  },
+  {
+   "id": "palisade-head-mn",
+   "name": "Palisade Head",
+   "site": "Palisade Head",
+   "city": "Silver Bay",
+   "state": "Minnesota",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 47.32056,
+   "lng": -91.21059,
+   "google_maps_query": "Palisade+Head+Silver+Bay+MN",
+   "best_for": "Viewpoint",
+   "recommendation": "One of John Walberg's all-time favorite views on Minnesota's North Shore: standing on top of Palisade Head looking out over the endless blue of Lake Superior \u2014 towering cliffs, huge views, and fresh air. His verdict: a place he'll never get tired of visiting, and a must for any North Shore trip's bucket list.",
+   "note": "Coordinates verified against OpenStreetMap.",
+   "source_reel": "https://www.instagram.com/reel/DfP15Ujq6wb/",
+   "source_title": "One of my all-time favorite views on Minnesota's North Shore \u2014 Palisade Head",
+   "source_creator": "@john_walberg",
+   "source_rank": 1,
+   "source_reel_theme": "Lake Superior cliff viewpoint",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",
