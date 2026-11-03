@@ -2452,6 +2452,63 @@
    "added": "2026-11-03",
    "duplicate_place": true,
    "recommendation_summary": "Snow Lake near Snoqualmie Pass, Washington \u2014 already on the map; added as another source (bright-blue alpine lake ~60 minutes from Seattle; go past the first viewpoints for quiet)."
+  },
+  {
+   "url": "https://www.instagram.com/reel/Dccc6pnxZSm/",
+   "title": "Million Dollar Highway (US-550) \u2014 Ouray to Silverton, CO",
+   "creator": "@americantravelarchives",
+   "creator_name": "American Travel Archives",
+   "theme": "Colorado scenic drive",
+   "places_count": 1,
+   "place_ids": [
+    "million-dollar-highway-co"
+   ],
+   "posted": "2026-08-24",
+   "added": "2026-11-03",
+   "recommendation_summary": "The Million Dollar Highway (US-550) between Ouray and Silverton, Colorado \u2014 25 cliff-hugging miles in the San Juans; Red Mountain Pass overlook; best in autumn."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DZ_sGCfPYpo/",
+   "title": "Spooky Canyon in Utah!",
+   "creator": "@jackie.travel.photos",
+   "creator_name": "Jackie Travel Photos",
+   "theme": "Utah slot canyon",
+   "places_count": 1,
+   "place_ids": [
+    "spooky-gulch-ut"
+   ],
+   "posted": "2026-06-24",
+   "added": "2026-11-03",
+   "recommendation_summary": "Spooky Gulch in the Dry Fork slot canyons of Grand Staircase-Escalante, Utah \u2014 an extremely narrow slot with downclimbs and backpack-off squeezes."
+  },
+  {
+   "url": "https://www.instagram.com/reel/Deer0XBS9VU/",
+   "title": "Franconia Ridge Trail in New Hampshire",
+   "creator": "@calvin_on_the_internet",
+   "creator_name": "Calvin on the Internet",
+   "theme": "New Hampshire ridge hike",
+   "places_count": 1,
+   "place_ids": [
+    "franconia-ridge-trail-nh"
+   ],
+   "posted": "2026-10-14",
+   "added": "2026-11-03",
+   "recommendation_summary": "The Franconia Ridge Trail in Franconia Notch, New Hampshire \u2014 an exposed alpine ridge over Little Haystack, Lincoln and Lafayette; check conditions in fall/winter."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfQPqiyzGwM/",
+   "title": "Bentonite Hills \u2014 a landscape from another planet (duplicate send)",
+   "creator": "@megsandpat",
+   "creator_name": "Megs and Pat",
+   "theme": "Bentonite Hills guide",
+   "places_count": 1,
+   "place_ids": [
+    "bentonite-hills-ut"
+   ],
+   "posted": "2026-11-02",
+   "added": "2026-11-03",
+   "recommendation_summary": "Same Bentonite Hills video as the @megsandpat reel already on the map (DfP6OiPPW-W), sent again under a second link \u2014 the place already carries that source once, so no duplicate source was added.",
+   "duplicate_place": true
   }
  ]
 }
