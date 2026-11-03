@@ -7232,6 +7232,28 @@
    "source_rank": 1,
    "source_reel_theme": "Illinois hidden-gem hike",
    "additional_sources": []
+  },
+  {
+   "id": "lake-of-the-clouds-mi",
+   "name": "Lake of the Clouds",
+   "site": "Porcupine Mountains Wilderness State Park",
+   "city": "Ontonagon",
+   "state": "Michigan",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 46.80469,
+   "lng": -89.74914,
+   "google_maps_query": "Lake+of+the+Clouds+Porcupine+Mountains+MI",
+   "best_for": "Viewpoint",
+   "recommendation": "Andrew's take: 'Some places make you stop and appreciate just how beautiful the world really is.' Lake of the Clouds, tucked in the heart of Michigan's Porcupine Mountains Wilderness State Park, is one of those places that never fails to impress \u2014 his photos catch it in full fall color.",
+   "note": "Coordinates verified against OpenStreetMap.",
+   "source_reel": "https://www.instagram.com/p/DeSzUHXjWNr/",
+   "source_title": "Lake of the Clouds \u2014 Porcupine Mountains, Michigan",
+   "source_creator": "@andrew_krzesinski",
+   "source_rank": 1,
+   "source_reel_theme": "Michigan Upper Peninsula viewpoint",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

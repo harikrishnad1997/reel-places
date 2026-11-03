@@ -3203,6 +3203,30 @@
    }
   },
   {
+   "id": "reel:DeSzUHXjWNr",
+   "type": "Reel",
+   "properties": {
+    "name": "Lake of the Clouds — Porcupine Mountains, Michigan",
+    "url": "https://www.instagram.com/p/DeSzUHXjWNr/",
+    "title": "Lake of the Clouds — Porcupine Mountains, Michigan",
+    "creator": "@andrew_krzesinski",
+    "theme": "Michigan Upper Peninsula viewpoint",
+    "places_count": 1,
+    "recommendation_summary": "Lake of the Clouds in Porcupine Mountains Wilderness State Park, Michigan's Upper Peninsula — a mountain lake overlook that shines in fall color.",
+    "posted": "2026-10-09",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "creator:andrew-krzesinski",
+   "type": "Creator",
+   "properties": {
+    "name": "@andrew_krzesinski",
+    "handle": "@andrew_krzesinski",
+    "display_name": "Andrew Krzesinski"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10098,6 +10122,41 @@
    "properties": {
     "name": "Franklin Creek State Natural Area"
    }
+  },
+  {
+   "id": "place:lake-of-the-clouds-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Lake of the Clouds",
+    "place_id": "lake-of-the-clouds-mi",
+    "site": "Porcupine Mountains Wilderness State Park",
+    "city": "Ontonagon",
+    "state": "Michigan",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 46.80469,
+    "lng": -89.74914,
+    "google_maps_query": "Lake+of+the+Clouds+Porcupine+Mountains+MI",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-michigan",
+   "type": "State",
+   "properties": {
+    "name": "Michigan",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:porcupine-mountains-wilderness-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Porcupine Mountains Wilderness State Park"
+   }
   }
  ],
  "edges": [
@@ -12240,6 +12299,18 @@
   {
    "from": "reel:DfSiIY5sLzM",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeSzUHXjWNr",
+   "to": "creator:andrew-krzesinski",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeSzUHXjWNr",
+   "to": "theme:view",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -23760,6 +23831,49 @@
   {
    "from": "place:whipples-cave-il",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-of-the-clouds-mi",
+   "to": "state:united-states-michigan",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-michigan",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-michigan",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-of-the-clouds-mi",
+   "to": "site:porcupine-mountains-wilderness-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-of-the-clouds-mi",
+   "to": "reel:DeSzUHXjWNr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint",
+    "recommendation": "Andrew's take: 'Some places make you stop and appreciate just how beautiful the world really is.' Lake of the Clouds, tucked in the heart of Michigan's Porcupine Mountains Wilderness State Park, is one of those places that never fails to impress — his photos catch it in full fall color.",
+    "creator": "@andrew_krzesinski",
+    "reel_title": "Lake of the Clouds — Porcupine Mountains, Michigan",
+    "reel_theme": "Michigan Upper Peninsula viewpoint"
+   }
+  },
+  {
+   "from": "place:lake-of-the-clouds-mi",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }

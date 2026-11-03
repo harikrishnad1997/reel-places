@@ -12,7 +12,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 37 places](#northeast)
 - [Southeast Region — 44 places](#southeast)
-- [Midwest Region — 11 places](#midwest)
+- [Midwest Region — 12 places](#midwest)
 - [Southwest Region — 68 places](#southwest)
 - [Mountain West Region — 40 places](#mountain-west)
 - [West Region — 33 places](#west)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 44 · Midwest 11 · Southwest 68 · Mountain West 40 · West 33 · Pacific Northwest 17 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 271**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 44 · Midwest 12 · Southwest 68 · Mountain West 40 · West 33 · Pacific Northwest 17 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 272**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -827,7 +827,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**11 places · Illinois, Michigan, Minnesota, North Dakota, South Dakota, Wisconsin**
+**12 places · Illinois, Michigan, Minnesota, North Dakota, South Dakota, Wisconsin**
 
 ### Badlands National Park
 
@@ -925,13 +925,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - Pin is the Eagle Trail trailhead just west of the Eagle Tower parking area (Trailforks trailhead coordinates); DNR lists access at Eagle Terrace, Eagle Panorama or the Tower. DNR rates this 2.0-mile loop 'more difficult', with steep, rocky sections under 150-foot cliffs along Eagle Harbor.
   - 🎬 Source: [Fall colors — Eagle Tower, Peninsula State Park](https://www.instagram.com/reel/DfQ6dEHt8NU/) by @asia_in_chicago (#2 in that reel)
 
+### Porcupine Mountains Wilderness State Park
+
+#### Michigan
+
+##### Viewpoint
+
+- **10. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
+  - **Best for:** Viewpoint — Andrew's take: 'Some places make you stop and appreciate just how beautiful the world really is.' Lake of the Clouds, tucked in the heart of Michigan's Porcupine Mountains Wilderness State Park, is one of those places that never fails to impress — his photos catch it in full fall color.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [Lake of the Clouds — Porcupine Mountains, Michigan](https://www.instagram.com/p/DeSzUHXjWNr/) by @andrew_krzesinski (#1 in that reel)
+
 ### Theodore Roosevelt National Park
 
 #### North Dakota
 
 ##### Underrated park
 
-- **10. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **11. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Underrated park — His #2 underrated park: badlands terrain, bison crossing a road, wild horses at sunset, prairie dogs, and a river sunset view.
   - Park-level pin is the park's Nominatim point in the South Unit.
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#2 in that reel)
@@ -948,7 +959,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **11. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **12. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Road trip stop — Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 — book a timed cave tour in advance, per her tip.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#4 in that reel)
@@ -2967,6 +2978,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: The Alvord Desert playa in southeastern Oregon — some of the darkest skies in the state; camp on the playa for Milky Way photography (plan around the moon).
 - **[Whipple's Cave — a cave hiding in the Illinois woods](https://www.instagram.com/reel/DfSiIY5sLzM/)** — @our.adventure.tails · 1 places · Theme: Illinois hidden-gem hike
   - What the reel recommends: Whipple's Cave in Franklin Creek State Natural Area, Franklin Grove, Illinois — a 2.9-mile out-and-back on the Pioneer Pass Trail with deep creek crossings.
+- **[Lake of the Clouds — Porcupine Mountains, Michigan](https://www.instagram.com/p/DeSzUHXjWNr/)** — @andrew_krzesinski · 1 places · Theme: Michigan Upper Peninsula viewpoint
+  - What the reel recommends: Lake of the Clouds in Porcupine Mountains Wilderness State Park, Michigan's Upper Peninsula — a mountain lake overlook that shines in fall color.
 
 ## How this page is updated {#how-this-page-is-updated}
 
