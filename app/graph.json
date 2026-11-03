@@ -3179,6 +3179,30 @@
    }
   },
   {
+   "id": "reel:DfSiIY5sLzM",
+   "type": "Reel",
+   "properties": {
+    "name": "Whipple's Cave — a cave hiding in the Illinois woods",
+    "url": "https://www.instagram.com/reel/DfSiIY5sLzM/",
+    "title": "Whipple's Cave — a cave hiding in the Illinois woods",
+    "creator": "@our.adventure.tails",
+    "theme": "Illinois hidden-gem hike",
+    "places_count": 1,
+    "recommendation_summary": "Whipple's Cave in Franklin Creek State Natural Area, Franklin Grove, Illinois — a 2.9-mile out-and-back on the Pioneer Pass Trail with deep creek crossings.",
+    "posted": "2026-11-03",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "creator:our-adventure-tails",
+   "type": "Creator",
+   "properties": {
+    "name": "@our.adventure.tails",
+    "handle": "@our.adventure.tails",
+    "display_name": "Our Adventure Tails"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10039,6 +10063,41 @@
    "properties": {
     "name": "Alvord Desert"
    }
+  },
+  {
+   "id": "place:whipples-cave-il",
+   "type": "Place",
+   "properties": {
+    "name": "Whipple's Cave",
+    "place_id": "whipples-cave-il",
+    "site": "Franklin Creek State Natural Area",
+    "city": "Franklin Grove",
+    "state": "Illinois",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.84934,
+    "lng": -89.33632,
+    "google_maps_query": "Whipple's+Cave+Franklin+Creek+State+Natural+Area+IL",
+    "best_for": "Hike",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-illinois",
+   "type": "State",
+   "properties": {
+    "name": "Illinois",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:franklin-creek-state-natural-area",
+   "type": "Site",
+   "properties": {
+    "name": "Franklin Creek State Natural Area"
+   }
   }
  ],
  "edges": [
@@ -12169,6 +12228,18 @@
   {
    "from": "reel:Dd19e-FTUn_",
    "to": "theme:oregon-dark-sky-camping",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfSiIY5sLzM",
+   "to": "creator:our-adventure-tails",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfSiIY5sLzM",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -23646,6 +23717,49 @@
   {
    "from": "place:alvord-desert-or",
    "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:whipples-cave-il",
+   "to": "state:united-states-illinois",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-illinois",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-illinois",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:whipples-cave-il",
+   "to": "site:franklin-creek-state-natural-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:whipples-cave-il",
+   "to": "reel:DfSiIY5sLzM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "A cave hiding in the Illinois woods: Whipple's Cave in Franklin Creek State Natural Area, reached via the Pioneer Pass Trail from the Mill Springs Day Use Area — 2.9 miles out and back with 226 ft of gain through wooded scenery, rocky terrain and creek crossings. Know before you go: be prepared for deep creek crossings, and other trails in the area also lead to the cave.",
+    "creator": "@our.adventure.tails",
+    "reel_title": "Whipple's Cave — a cave hiding in the Illinois woods",
+    "reel_theme": "Illinois hidden-gem hike"
+   }
+  },
+  {
+   "from": "place:whipples-cave-il",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
