@@ -76,7 +76,7 @@ with st.sidebar:
     st.divider()
     st.caption(f"Graph backend: {backend_note}")
     st.caption("LLM layer: " + ("on — LLM-only mode" if llm.available() else "off — paste an OpenAI key on the page to chat (LLM-only, no fallback)"))
-    st.caption("Answers come only from the graph. Every place cites its source reel.")
+    st.caption("Answers come from the graph first (every place cites its source reel); if the graph doesn't cover a question, the bot searches the web and labels the answer as web-sourced.")
 
 st.title("Reel Chat")
 st.write("Ask about the places saved from Instagram reels, or build an itinerary from their recommendations.")

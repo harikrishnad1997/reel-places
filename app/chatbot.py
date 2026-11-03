@@ -115,13 +115,28 @@ def site_distinctive_tokens(site_name):
 
 
 def find_sites(g, q):
-    hits = []
+    """Sites named by the question, best matches only.
+
+    Scoring: a full site name in the question outranks everything; below
+    that, sites are scored by how many of their distinctive tokens appear,
+    and only the top score is kept. (The old any-token match dragged
+    Cave-in-Rock into a "Mammoth Cave" answer and Kobuk Valley into a
+    "Death Valley" one — both share a single generic token.)"""
     words = set(re.findall(r"[a-z']+", q))
+    scored = []
     for s in g.by_type.get("Site", []):
         name = s["properties"]["name"].lower()
-        if name in q or any(tok in words for tok in site_distinctive_tokens(name)):
-            hits.append(s)
-    return hits
+        if name in q:
+            scored.append((1000 + len(name), s))
+            continue
+        toks = site_distinctive_tokens(name)
+        score = sum(1 for tok in toks if tok in words)
+        if score:
+            scored.append((score, s))
+    if not scored:
+        return []
+    top = max(score for score, _ in scored)
+    return [s for score, s in scored if score == top]
 
 
 def find_geo(g, q, raw_q):
@@ -476,6 +491,11 @@ def canonical_question(parsed):
         return f"what did {parsed['creator']} recommend?" + (f" in {scope}" if scope else "")
     if intent == "theme" and parsed.get("theme"):
         return f"best {parsed['theme']} spots" + (f" in {scope}" if scope else "")
+    if scope and intent in ("browse", "theme", "creator", "unknown"):
+        # A named scope with a missing primary slot (e.g. "Mammoth Cave
+        # highlights" parsed as theme-with-site but no theme) still means:
+        # show what's in that place.
+        return f"places in {scope}"
     if intent == "browse" and scope:
         return f"places in {scope}"
     if intent == "itinerary":
@@ -513,15 +533,48 @@ def route_rules(g, question):
     return result
 
 
+_SITE_SUFFIXES = (" National Park and Preserve", " National Park", " State Park",
+                  " National Monument", " National Recreation Area",
+                  " National Conservation Area", " National Historical Park")
+
+
+def mention_rescue(g, question):
+    """Last-resort grounding when the LLM's parse yields no canonical
+    question: if the question verbatim names a graph vocabulary entry (a
+    site, a state/region/country, or a creator handle), use that scope.
+    This invents nothing — the mention must appear in the user's own words
+    and in the graph's vocabulary, and the answer still comes entirely
+    from the graph pipeline. Themes are deliberately NOT rescued: loose
+    theme guessing is what made the old rule-based mode wrong."""
+    q = " " + question.lower() + " "
+    v = vocab(g)
+    best = None  # (length, canon)
+    for site in v["sites"]:
+        forms = [site] + [site[: -len(s)] for s in _SITE_SUFFIXES if site.endswith(s)]
+        for form in forms:
+            if len(form) >= 5 and form.lower() in q:
+                if best is None or len(form) > best[0]:
+                    best = (len(form), f"places in {site}")
+    if best:
+        return best[1]
+    for geo in v["states"] + v["regions"] + v["countries"]:
+        if geo.lower() in q:
+            return f"places in {geo}"
+    for creator in v["creators"]:
+        if creator.lower() in q or creator.lower().lstrip("@") in q:
+            return f"what did {creator} recommend?"
+    return None
+
+
 def answer(g, question, backend_note):
-    """LLM-only mode (user directive, 2026-11-02 — the rule-only mode gave
-    wrong answers on the website, so there is NO rule-based fallback).
-    The LLM must parse the question into a validated intent drawn from the
-    graph's vocabulary; the graph pipeline then produces the facts, and
-    the LLM rephrases them (a phrasing that changes any link is rejected).
-    If the LLM is unavailable or cannot parse the question, the bot says
-    so instead of guessing with keyword rules. Facts come only from the
-    graph either way."""
+    """LLM-first mode (user directives, 2026-11-02 — the rule-only mode
+    gave wrong answers on the website, so there is NO rule-based fallback
+    for facts). The LLM parses the question into a validated intent drawn
+    from the graph's vocabulary; the graph pipeline produces the facts,
+    and the LLM rephrases them (a phrasing that changes any link is
+    rejected). When the graph has no answer, the bot falls back to a
+    labelled web search (user directive, 2026-11-02) instead of dead-
+    ending. If the AI connection itself is down, the bot says so."""
     llm = None
     try:
         import llm as _llm
@@ -532,7 +585,22 @@ def answer(g, question, backend_note):
         return ("This chatbot runs in LLM-only mode, but the AI connection "
                 "isn't available right now, so I can't answer that."
                 f"\n\n[answered from the {backend_note} - LLM unavailable, no fallback]")
+    def web_fallback():
+        """User directive (2026-11-02): no dead ends — when the graph
+        can't answer, search the web and answer from it, clearly labelled
+        as web-sourced (never presented as graph facts)."""
+        web = llm.web_answer(question)
+        if not web:
+            return None
+        return ("🌐 **From the web** — the Reel Places graph doesn't cover "
+                "this yet, so I searched the web:\n\n" + web +
+                f"\n\n[answered from the web - fallback, not from the {backend_note}]")
+
     canon = canonical_question(llm.parse_question(question, vocab(g)))
+    rescued = False
+    if not canon:
+        canon = mention_rescue(g, question)
+        rescued = canon is not None
     if not canon:
         err = getattr(llm, "LAST_ERROR", None)
         if err:
@@ -540,13 +608,25 @@ def answer(g, question, backend_note):
                     f"question. Reason: {err}. Check the API key on the page "
                     "and try again."
                     f"\n\n[answered from the {backend_note} - LLM mode, AI call failed: {err}]")
+        web = web_fallback()
+        if web:
+            return web
+        werr = getattr(llm, "LAST_ERROR", None)
         return ("I couldn't understand that question well enough to query "
-                "the graph. Try naming a theme (sunrise, waterfall, hike), "
+                "the graph, and the web fallback didn't return an answer "
+                "either. Try naming a theme (sunrise, waterfall, hike), "
                 "a place or park, a creator like @amorywild, or ask for an "
                 "itinerary with a number of days."
-                f"\n\n[answered from the {backend_note} - LLM mode, no matching intent]")
+                f"\n\n[answered from the {backend_note} - LLM mode, no matching intent"
+                + (f"; web fallback failed: {werr}" if werr else "") + "]")
     result = route_rules(g, canon)
+    if result.startswith("I can only answer") or result.startswith("I don't have "):
+        web = web_fallback()
+        if web:
+            return web
     llm_note = " - LLM mode: parsed by the LLM, facts from the graph"
+    if rescued:
+        llm_note = " - LLM mode: scope matched verbatim from the graph vocabulary, facts from the graph"
     if not result.startswith("I can only answer"):
         phrased = llm.phrase_answer(question, result)
         if phrased:

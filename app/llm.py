@@ -135,7 +135,18 @@ def parse_question(question, vocab):
         "places, people or themes. Output JSON only, with keys: intent "
         "(one of theme, creator, browse, reels, count, itinerary, unknown), "
         "theme, geo (a state, region or country name), site, creator, days "
-        "(an integer or null)."
+        "(an integer or null).\n"
+        "Intent guide: a question naming a park/site and asking for its "
+        "highlights, overview, spots or places is intent browse with that "
+        "site. A question naming only a state/region/country is browse with "
+        "that geo. Use theme only when the question asks for an activity or "
+        "subject (sunrise, waterfalls, hikes) — and still fill site or geo "
+        "when one is named.\n"
+        "Examples:\n"
+        '- "Mammoth cave highlights" -> {"intent": "browse", "theme": null, "geo": null, "site": "Mammoth Cave National Park", "creator": null, "days": null}\n'
+        '- "Places in California" -> {"intent": "browse", "theme": null, "geo": "California", "site": null, "creator": null, "days": null}\n'
+        '- "best sunrise spots in Utah" -> {"intent": "theme", "theme": "Sunrise", "geo": "Utah", "site": null, "creator": null, "days": null}\n'
+        '- "make a 3-day itinerary for Zion" -> {"intent": "itinerary", "theme": null, "geo": null, "site": "Zion National Park", "creator": null, "days": 3}'
     )
     user = f"Vocab: {json.dumps(vocab)}\n\nQuestion: {question}"
     raw = _chat(system, user)
@@ -155,9 +166,12 @@ def parse_question(question, vocab):
     if not isinstance(parsed, dict) or parsed.get("intent") not in INTENTS:
         return None
 
-    def match(value, options):
+    def match(value, options, substring=False):
         """Exact vocab match, with a case/whitespace-insensitive rescue —
-        the model sometimes returns the right value in the wrong case."""
+        the model sometimes returns the right value in the wrong case.
+        With substring=True (sites and geos), a unique vocab entry that
+        contains the value, or is contained by it, also matches — e.g.
+        "Mammoth Cave" for "Mammoth Cave National Park"."""
         if value in options:
             return value
         if isinstance(value, str):
@@ -165,14 +179,18 @@ def parse_question(question, vocab):
             for opt in options:
                 if opt.lower() == low:
                     return opt
+            if substring and low:
+                hits = [o for o in options if low in o.lower() or o.lower() in low]
+                if len(hits) == 1:
+                    return hits[0]
         return None
 
     geo_vocab = vocab.get("states", []) + vocab.get("regions", []) + vocab.get("countries", [])
     out = {"intent": parsed["intent"], "theme": None, "geo": None,
            "site": None, "creator": None, "days": None}
     out["theme"] = match(parsed.get("theme"), vocab.get("themes", []))
-    out["geo"] = match(parsed.get("geo"), geo_vocab)
-    out["site"] = match(parsed.get("site"), vocab.get("sites", []))
+    out["geo"] = match(parsed.get("geo"), geo_vocab, substring=True)
+    out["site"] = match(parsed.get("site"), vocab.get("sites", []), substring=True)
     out["creator"] = match(parsed.get("creator"), vocab.get("creators", []))
     days = parsed.get("days")
     if isinstance(days, int) and 1 <= days <= 14:
@@ -180,6 +198,71 @@ def parse_question(question, vocab):
     if out["intent"] == "unknown":
         return None
     return out
+
+
+def web_answer(question):
+    """Web-search fallback (user directive, 2026-11-02): when the graph
+    can't answer, search the web and answer from it instead of dead-ending.
+
+    Uses the OpenAI Responses API with the web_search tool, via the direct
+    key path only (Streamlit Cloud / any OPENAI_API_KEY deployment). The
+    connector-helper path has no web tool, so locally this returns None.
+    Answers are always labelled as web-sourced by the caller. Returns the
+    answer text with source URLs, or None (LAST_ERROR set) on failure."""
+    global LAST_ERROR
+    if not available():
+        LAST_ERROR = "no AI connection configured"
+        return None
+    key = os.environ.get("OPENAI_API_KEY")
+    if not key:
+        LAST_ERROR = "web fallback needs the direct API connection"
+        return None
+    try:
+        import urllib.error
+        import urllib.request
+
+        class _NoRedirect(urllib.request.HTTPRedirectHandler):
+            def redirect_request(self, *args):
+                raise RuntimeError("redirect refused")
+
+        payload = {
+            "model": os.environ.get("REEL_CHAT_MODEL", "gpt-4o-mini"),
+            "tools": [{"type": "web_search"}],
+            "input": [
+                {"role": "system", "content": (
+                    "Answer the user's question using web search. Focus on "
+                    "concrete highlights and practical facts. Cite your "
+                    "sources inline as Markdown links to the pages you used. "
+                    "If the question is about a place, give its best-known "
+                    "highlights as a short list.")},
+                {"role": "user", "content": question}],
+        }
+        req = urllib.request.Request(
+            "https://api.openai.com/v1/responses",
+            data=json.dumps(payload).encode("utf-8"),
+            headers={"Content-Type": "application/json",
+                     "Authorization": f"Bearer {key}"},
+            method="POST")
+        with urllib.request.build_opener(_NoRedirect()).open(req, timeout=90) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        texts = []
+        for item in data.get("output", []):
+            if item.get("type") == "message":
+                for part in item.get("content", []):
+                    if part.get("type") == "output_text" and part.get("text"):
+                        texts.append(part["text"])
+        out = "\n".join(texts).strip()
+        if out:
+            LAST_ERROR = None
+            return out
+        LAST_ERROR = "web search returned an empty answer"
+        return None
+    except urllib.error.HTTPError as exc:
+        LAST_ERROR = f"OpenAI HTTP {exc.code}"
+        return None
+    except Exception as exc:
+        LAST_ERROR = f"web search failed ({type(exc).__name__})"
+        return None
 
 
 def phrase_answer(question, grounded_answer):
