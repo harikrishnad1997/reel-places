@@ -2422,6 +2422,21 @@
    "posted": "2026-08-23",
    "added": "2026-11-02",
    "recommendation_summary": "Trappers Peak in North Cascades National Park, Washington \u2014 a 9.7-mile, 3,438 ft-gain summit hike via Thornton Lakes with 360\u00b0 panoramic views."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DZfljAtvNtN/",
+   "title": "Colchuck Lake \u2014 and a mountain goat named Fred",
+   "creator": "@jessonthewildway",
+   "creator_name": "Jess on the Wild Way",
+   "theme": "Colchuck Lake hike",
+   "places_count": 1,
+   "place_ids": [
+    "colchuck-lake-wa"
+   ],
+   "posted": "2026-06-12",
+   "added": "2026-11-03",
+   "duplicate_place": true,
+   "recommendation_summary": "Colchuck Lake, Washington \u2014 already on the map from @thisworldofadventure; added as a second source (Dragontail Peak and Aasgard Pass views, 9 miles / ~2,400 ft, and a trail-blocking goat named Fred)."
   }
  ]
 }

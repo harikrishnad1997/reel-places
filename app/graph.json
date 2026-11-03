@@ -2830,6 +2830,30 @@
    }
   },
   {
+   "id": "reel:DZfljAtvNtN",
+   "type": "Reel",
+   "properties": {
+    "name": "Colchuck Lake — and a mountain goat named Fred",
+    "url": "https://www.instagram.com/reel/DZfljAtvNtN/",
+    "title": "Colchuck Lake — and a mountain goat named Fred",
+    "creator": "@jessonthewildway",
+    "theme": "Colchuck Lake hike",
+    "places_count": 1,
+    "recommendation_summary": "Colchuck Lake, Washington — already on the map from @thisworldofadventure; added as a second source (Dragontail Peak and Aasgard Pass views, 9 miles / ~2,400 ft, and a trail-blocking goat named Fred).",
+    "posted": "2026-06-12",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "creator:jessonthewildway",
+   "type": "Creator",
+   "properties": {
+    "name": "@jessonthewildway",
+    "handle": "@jessonthewildway",
+    "display_name": "Jess on the Wild Way"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -11351,6 +11375,18 @@
   },
   {
    "from": "reel:DcY8Huyswku",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZfljAtvNtN",
+   "to": "creator:jessonthewildway",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZfljAtvNtN",
    "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
@@ -20253,6 +20289,19 @@
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:colchuck-lake-wa",
+   "to": "reel:DZfljAtvNtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "Jess's take on a trail that 'still manages to blow me away every time': the color of the water, the views of Dragontail Peak, and Aasgard Pass climbing into the Core Enchantments — 'worth every step.' 9 miles, about 2,400 ft of gain, and one hazard the other reel didn't mention: a very persistent mountain goat named Fred who disputes trail right-of-way.",
+    "creator": "@jessonthewildway",
+    "reel_title": "Colchuck Lake — and a mountain goat named Fred",
+    "reel_theme": "Colchuck Lake hike"
+   }
   },
   {
    "from": "place:palisade-head-mn",

@@ -2236,6 +2236,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Hike — Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It's a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Most beautiful lake in the USA? — Colchuck Lake](https://www.instagram.com/reel/DfPvUw7PcCy/) by @thisworldofadventure (#1 in that reel)
+  - 🎬 Also recommended by: [Colchuck Lake — and a mountain goat named Fred](https://www.instagram.com/reel/DZfljAtvNtN/) by @jessonthewildway
+    - **Best for:** Hike — Jess's take on a trail that 'still manages to blow me away every time': the color of the water, the views of Dragontail Peak, and Aasgard Pass climbing into the Core Enchantments — 'worth every step.' 9 miles, about 2,400 ft of gain, and one hazard the other reel didn't mention: a very persistent mountain goat named Fred who disputes trail right-of-way.
 
 ## Alaska Region {#alaska}
 
@@ -2811,6 +2813,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Day 3 of an Arizona road trip around Page: Navajo Bridge, Glen Canyon Dam Bridge & Overlook, Wahweap Overlook and Horseshoe Bend.
 - **[Trappers Peak — 360° views of the North Cascades](https://www.instagram.com/reel/DcY8Huyswku/)** — @gwynandami · 1 places · Theme: North Cascades summit hike
   - What the reel recommends: Trappers Peak in North Cascades National Park, Washington — a 9.7-mile, 3,438 ft-gain summit hike via Thornton Lakes with 360° panoramic views.
+- **[Colchuck Lake — and a mountain goat named Fred](https://www.instagram.com/reel/DZfljAtvNtN/)** — @jessonthewildway · 1 places · Theme: Colchuck Lake hike
+  - What the reel recommends: Colchuck Lake, Washington — already on the map from @thisworldofadventure; added as a second source (Dragontail Peak and Aasgard Pass views, 9 miles / ~2,400 ft, and a trail-blocking goat named Fred).
 
 ## How this page is updated {#how-this-page-is-updated}
 

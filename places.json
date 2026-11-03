@@ -5490,7 +5490,17 @@
    "source_creator": "@thisworldofadventure",
    "source_rank": 1,
    "source_reel_theme": "Enchantments lake hike",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Hike",
+     "recommendation": "Jess's take on a trail that 'still manages to blow me away every time': the color of the water, the views of Dragontail Peak, and Aasgard Pass climbing into the Core Enchantments \u2014 'worth every step.' 9 miles, about 2,400 ft of gain, and one hazard the other reel didn't mention: a very persistent mountain goat named Fred who disputes trail right-of-way.",
+     "source_creator": "@jessonthewildway",
+     "source_rank": 1,
+     "source_reel": "https://www.instagram.com/reel/DZfljAtvNtN/",
+     "source_reel_theme": "Colchuck Lake hike",
+     "source_title": "Colchuck Lake \u2014 and a mountain goat named Fred"
+    }
+   ]
   },
   {
    "id": "palisade-head-mn",
