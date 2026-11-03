@@ -15,6 +15,11 @@ must never break an answer, so everything here fails soft.
 """
 import os
 
+# Workspace pinned in code (user directive, 2026-11-03): traces go to the
+# "harikrishnad1997" workspace unless OPIK_WORKSPACE is explicitly set in
+# the environment/Secrets. The project is created automatically by Opik
+# when the first trace lands — nothing to provision by hand.
+os.environ.setdefault("OPIK_WORKSPACE", "harikrishnad1997")
 _PROJECT = os.environ.get("OPIK_PROJECT_NAME", "reel-places")
 _import_ok = None
 
