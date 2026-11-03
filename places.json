@@ -1924,6 +1924,15 @@
      "source_reel": "https://www.instagram.com/reel/DdILP0qJ6Op/",
      "source_reel_theme": "Hiking",
      "source_title": "Hiking \u2014 Acadia National Park"
+    },
+    {
+     "best_for": "Sunrise",
+     "recommendation": "Dave & Joce came to Acadia for one of the most iconic sunrises in the U.S.: Cadillac Mountain (first sunrise in the country for part of the year; vehicle reservations required in season, or hike up) \u2014 and their personal favorite, the Beehive Trail. 'Send this to the people you're waking up at 3am with.'",
+     "source_creator": "@daveandjoce",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/De3GgUCgfu4/",
+     "source_reel_theme": "Acadia National Park sunrise spots",
+     "source_title": "Acadia's iconic sunrises \u2014 Cadillac Mountain & the Beehive"
     }
    ],
    "best_for": "Top national park (East)",
@@ -3338,6 +3347,15 @@
      "source_reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
      "source_reel_theme": "Top 10 National Parks",
      "source_title": "Top 10 National Parks"
+    },
+    {
+     "best_for": "Itinerary",
+     "recommendation": "Days 2\u20135 of Taylor & Kristen's 5-day Wyoming trip (only 3 days of PTO): Old Faithful and the Grand Prismatic Overlook hike, an early-morning Lamar Valley drive for wolves and bison, the Grand Canyon of the Yellowstone from Artist Point, Hayden Valley at sunset, the Upper Geyser Basin, Yellowstone Lake, Great Fountain Geyser at sunset, and a bonus day of Mystic Falls or Mount Washburn plus Mammoth Hot Springs.",
+     "source_creator": "@roamingwithtk",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfQimY6Pasm/",
+     "source_reel_theme": "Wyoming 5-day itinerary (3 days of PTO)",
+     "source_title": "Wyoming bucket-list trip \u2014 Grand Teton & Yellowstone in 5 days"
     }
    ],
    "best_for": "Wildlife",
@@ -3548,6 +3566,15 @@
      "source_reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
      "source_reel_theme": "Top 10 National Parks",
      "source_title": "Top 10 National Parks"
+    },
+    {
+     "best_for": "Itinerary",
+     "recommendation": "Taylor & Kristen's 5-day Wyoming bucket-list trip uses only 3 days of PTO, and Days 1\u20132 are Grand Teton: sunrise at Mormon Row, wildlife spotting at Antelope Flats, Jenny Lake (hike, kayak or boat shuttle), sunset at Schwabacher Landing, then sunrise at Oxbow Bend and the Snake River Overlook on the way north to Yellowstone.",
+     "source_creator": "@roamingwithtk",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfQimY6Pasm/",
+     "source_reel_theme": "Wyoming 5-day itinerary (3 days of PTO)",
+     "source_title": "Wyoming bucket-list trip \u2014 Grand Teton & Yellowstone in 5 days"
     }
    ],
    "best_for": "Wildlife",
@@ -4669,7 +4696,18 @@
    "source_reel_theme": "Hiking / Sunrise",
    "source_title": "Hiking / Sunrise \u2014 Beehive Trail",
    "state": "Maine",
-   "state_code": "ME"
+   "state_code": "ME",
+   "additional_sources": [
+    {
+     "best_for": "Sunrise",
+     "recommendation": "Dave & Joce's favorite Acadia sunrise spot \u2014 'another unreal sunrise spot' besides Cadillac Mountain: the Beehive Trail, the park's famous iron-rung climb above Sand Beach.",
+     "source_creator": "@daveandjoce",
+     "source_rank": 2,
+     "source_reel": "https://www.instagram.com/reel/De3GgUCgfu4/",
+     "source_reel_theme": "Acadia National Park sunrise spots",
+     "source_title": "Acadia's iconic sunrises \u2014 Cadillac Mountain & the Beehive"
+    }
+   ]
   },
   {
    "best_for": "Waterfall",
@@ -6973,6 +7011,28 @@
    "source_creator": "@calvin_on_the_internet",
    "source_rank": 1,
    "source_reel_theme": "New Hampshire ridge hike",
+   "additional_sources": []
+  },
+  {
+   "id": "cadillac-mountain-me",
+   "name": "Cadillac Mountain",
+   "site": "Acadia National Park",
+   "city": "Bar Harbor",
+   "state": "Maine",
+   "country": "United States",
+   "region": "Northeast",
+   "region_id": "northeast",
+   "lat": 44.35286,
+   "lng": -68.2239,
+   "google_maps_query": "Cadillac+Mountain+Acadia+National+Park+ME",
+   "best_for": "Sunrise",
+   "recommendation": "Dave & Joce's pick for one of the most iconic sunrises in the U.S.: Cadillac Mountain, famous for being one of the first places in the country to see the sunrise during parts of the year. If you're driving up, vehicle reservations are required during the reservation season \u2014 or you can hike to the top.",
+   "note": "Coordinates verified against OpenStreetMap.",
+   "source_reel": "https://www.instagram.com/reel/De3GgUCgfu4/",
+   "source_title": "Acadia's iconic sunrises \u2014 Cadillac Mountain & the Beehive",
+   "source_creator": "@daveandjoce",
+   "source_rank": 1,
+   "source_reel_theme": "Acadia National Park sunrise spots",
    "additional_sources": []
   }
  ],

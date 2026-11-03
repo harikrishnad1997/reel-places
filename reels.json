@@ -2509,6 +2509,52 @@
    "added": "2026-11-03",
    "recommendation_summary": "Same Bentonite Hills video as the @megsandpat reel already on the map (DfP6OiPPW-W), sent again under a second link \u2014 the place already carries that source once, so no duplicate source was added.",
    "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfF6uHDSyVj/",
+   "title": "Cape Flattery \u2014 the final boss of PNW-maxxing",
+   "creator": "@giselle.on.trails",
+   "creator_name": "Giselle on Trails",
+   "theme": "Cape Flattery trail guide",
+   "places_count": 1,
+   "place_ids": [
+    "cape-flattery-wa"
+   ],
+   "posted": "2026-10-29",
+   "added": "2026-11-03",
+   "recommendation_summary": "Cape Flattery, Washington \u2014 already on the map from @griffins.onthego; added as a second source with the full trail beta (1.5 mi RT, boardwalks, Makah permit, dawn-to-dusk hours).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfQimY6Pasm/",
+   "title": "Wyoming bucket-list trip \u2014 Grand Teton & Yellowstone in 5 days",
+   "creator": "@roamingwithtk",
+   "creator_name": "Roaming with TK (Taylor & Kristen)",
+   "theme": "Wyoming 5-day itinerary (3 days of PTO)",
+   "places_count": 2,
+   "place_ids": [
+    "grand-teton-national-park-wy",
+    "yellowstone-national-park-wy"
+   ],
+   "posted": "2026-11-02",
+   "added": "2026-11-03",
+   "recommendation_summary": "A 5-day Grand Teton + Yellowstone itinerary using only 3 days of PTO \u2014 Mormon Row, Jenny Lake, Old Faithful, Grand Prismatic, Lamar Valley, Artist Point, Mammoth Hot Springs and more; filed as itinerary sources on both park entries."
+  },
+  {
+   "url": "https://www.instagram.com/reel/De3GgUCgfu4/",
+   "title": "Acadia's iconic sunrises \u2014 Cadillac Mountain & the Beehive",
+   "creator": "@daveandjoce",
+   "creator_name": "Dave and Joce",
+   "theme": "Acadia National Park sunrise spots",
+   "places_count": 3,
+   "place_ids": [
+    "cadillac-mountain-me",
+    "beehive-trail-me",
+    "acadia-national-park-me"
+   ],
+   "posted": "2026-10-23",
+   "added": "2026-11-03",
+   "recommendation_summary": "Acadia National Park, Maine \u2014 sunrise at Cadillac Mountain (vehicle reservations in season) and the Beehive Trail, the creators' favorite."
   }
  ]
 }

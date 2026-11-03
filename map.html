@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;color:#fff;font-weight:700;font-size:11px;text-align:center;line-height:22px;width:22px;height:22px;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>261 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>262 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
@@ -37,10 +37,35 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking / Sunrise \u2014 Beehive Trail",
   "creator": "@amorywild",
   "rank": null,
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/De3GgUCgfu4/",
+    "reel_title": "Acadia's iconic sunrises \u2014 Cadillac Mountain & the Beehive",
+    "creator": "@daveandjoce",
+    "best": "Sunrise",
+    "rec": "Dave & Joce's favorite Acadia sunrise spot \u2014 'another unreal sunrise spot' besides Cadillac Mountain: the Beehive Trail, the park's famous iron-rung climb above Sand Beach."
+   }
+  ]
+ },
+ {
+  "n": "3 \u00b7 Cadillac Mountain",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bar Harbor, Maine",
+  "site": "Acadia National Park",
+  "lat": 44.35286,
+  "lng": -68.2239,
+  "q": "Cadillac+Mountain+Acadia+National+Park+ME",
+  "best": "Sunrise",
+  "rec": "Dave & Joce's pick for one of the most iconic sunrises in the U.S.: Cadillac Mountain, famous for being one of the first places in the country to see the sunrise during parts of the year. If you're driving up, vehicle reservations are required during the reservation season \u2014 or you can hike to the top.",
+  "reel": "https://www.instagram.com/reel/De3GgUCgfu4/",
+  "reel_title": "Acadia's iconic sunrises \u2014 Cadillac Mountain & the Beehive",
+  "creator": "@daveandjoce",
+  "rank": 1,
   "also": []
  },
  {
-  "n": "3 \u00b7 Acadia National Park",
+  "n": "4 \u00b7 Acadia National Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bar Harbor, Maine",
@@ -75,11 +100,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Iron-rung hike / View",
     "rec": "Caption complains, 'So many ladders...' on an Acadia hike. The POV video climbs installed metal rungs and ladders on a near-vertical granite face, crosses an exposed ledge, and reaches a summit view over green mountains and coastal islands; the specific trail is not named by the creator."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/De3GgUCgfu4/",
+    "reel_title": "Acadia's iconic sunrises \u2014 Cadillac Mountain & the Beehive",
+    "creator": "@daveandjoce",
+    "best": "Sunrise",
+    "rec": "Dave & Joce came to Acadia for one of the most iconic sunrises in the U.S.: Cadillac Mountain (first sunrise in the country for part of the year; vehicle reservations required in season, or hike up) \u2014 and their personal favorite, the Beehive Trail. 'Send this to the people you're waking up at 3am with.'"
    }
   ]
  },
  {
-  "n": "4 \u00b7 Arethusa Falls",
+  "n": "5 \u00b7 Arethusa Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Harts Location, New Hampshire",
@@ -96,7 +128,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "5 \u00b7 Bash Bish Falls State Park",
+  "n": "6 \u00b7 Bash Bish Falls State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Mount Washington, Massachusetts",
@@ -121,7 +153,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "6 \u00b7 Baxter State Park",
+  "n": "7 \u00b7 Baxter State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Millinocket, Maine",
@@ -138,7 +170,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "7 \u00b7 Bushkill Falls",
+  "n": "8 \u00b7 Bushkill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bushkill, Pennsylvania",
@@ -155,7 +187,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Camden Hills State Park",
+  "n": "9 \u00b7 Camden Hills State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Camden, Maine",
@@ -172,7 +204,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Cherry Springs State Park",
+  "n": "10 \u00b7 Cherry Springs State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Coudersport, Pennsylvania",
@@ -189,7 +221,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Overnight Astronomy Observation Field",
+  "n": "11 \u00b7 Overnight Astronomy Observation Field",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Coudersport, Pennsylvania",
@@ -206,7 +238,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Chittenango Falls",
+  "n": "12 \u00b7 Chittenango Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cazenovia, New York",
@@ -223,7 +255,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Crawford Notch State Park",
+  "n": "13 \u00b7 Crawford Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Harts Location, New Hampshire",
@@ -240,7 +272,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "13 \u00b7 Dingmans Falls",
+  "n": "14 \u00b7 Dingmans Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Dingmans Ferry, Pennsylvania",
@@ -257,7 +289,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Franconia Ridge Trail",
+  "n": "15 \u00b7 Franconia Ridge Trail",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lincoln, New Hampshire",
@@ -274,7 +306,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Franconia Notch State Park",
+  "n": "16 \u00b7 Franconia Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lincoln, New Hampshire",
@@ -291,7 +323,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Glen Ellis Falls",
+  "n": "17 \u00b7 Glen Ellis Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Jackson, New Hampshire",
@@ -308,7 +340,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Kaaterskill Falls",
+  "n": "18 \u00b7 Kaaterskill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Haines Falls, New York",
@@ -325,7 +357,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Kent Falls",
+  "n": "19 \u00b7 Kent Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Kent, Connecticut",
@@ -342,7 +374,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Letchworth State Park",
+  "n": "20 \u00b7 Letchworth State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Castile, New York",
@@ -359,7 +391,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "20 \u00b7 Middle Falls (Letchworth)",
+  "n": "21 \u00b7 Middle Falls (Letchworth)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Castile, New York",
@@ -376,7 +408,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Minnewaska State Park Preserve",
+  "n": "22 \u00b7 Minnewaska State Park Preserve",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Kerhonkson, New York",
@@ -393,7 +425,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 Moss Glen Falls (Granville)",
+  "n": "23 \u00b7 Moss Glen Falls (Granville)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Granville, Vermont",
@@ -410,7 +442,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "23 \u00b7 Mount Washington State Park",
+  "n": "24 \u00b7 Mount Washington State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Gorham, New Hampshire",
@@ -427,7 +459,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Moxie Falls",
+  "n": "25 \u00b7 Moxie Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "The Forks, Maine",
@@ -444,7 +476,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "25 \u00b7 American Falls",
+  "n": "26 \u00b7 American Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -461,7 +493,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Horseshoe Falls",
+  "n": "27 \u00b7 Horseshoe Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -478,7 +510,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 Niagara Falls",
+  "n": "28 \u00b7 Niagara Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -503,7 +535,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "28 \u00b7 Ohiopyle State Park",
+  "n": "29 \u00b7 Ohiopyle State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ohiopyle, Pennsylvania",
@@ -520,7 +552,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Raymondskill Falls",
+  "n": "30 \u00b7 Raymondskill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Milford, Pennsylvania",
@@ -537,7 +569,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "30 \u00b7 Ricketts Glen State Park",
+  "n": "31 \u00b7 Ricketts Glen State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benton, Pennsylvania",
@@ -554,7 +586,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "31 \u00b7 Ganoga Falls",
+  "n": "32 \u00b7 Ganoga Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benton, Pennsylvania",
@@ -571,7 +603,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "32 \u00b7 Smalls Falls",
+  "n": "33 \u00b7 Smalls Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Rangeley, Maine",
@@ -588,7 +620,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "33 \u00b7 Smugglers' Notch State Park",
+  "n": "34 \u00b7 Smugglers' Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cambridge, Vermont",
@@ -605,7 +637,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "34 \u00b7 Taughannock Falls",
+  "n": "35 \u00b7 Taughannock Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ithaca, New York",
@@ -622,7 +654,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "35 \u00b7 Watkins Glen State Park",
+  "n": "36 \u00b7 Watkins Glen State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Watkins Glen, New York",
@@ -639,7 +671,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "36 \u00b7 Rainbow Falls (Watkins Glen)",
+  "n": "37 \u00b7 Rainbow Falls (Watkins Glen)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Watkins Glen, New York",
@@ -3369,6 +3401,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Top national park",
     "rec": "His #6 national park: Grand Teton, shown with snow-capped peaks reflected in a lake and a moose by the roadside."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DfQimY6Pasm/",
+    "reel_title": "Wyoming bucket-list trip \u2014 Grand Teton & Yellowstone in 5 days",
+    "creator": "@roamingwithtk",
+    "best": "Itinerary",
+    "rec": "Taylor & Kristen's 5-day Wyoming bucket-list trip uses only 3 days of PTO, and Days 1\u20132 are Grand Teton: sunrise at Mormon Row, wildlife spotting at Antelope Flats, Jenny Lake (hike, kayak or boat shuttle), sunset at Schwabacher Landing, then sunrise at Oxbow Bend and the Snake River Overlook on the way north to Yellowstone."
    }
   ]
  },
@@ -3799,6 +3838,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@amorywild",
     "best": "Top national park",
     "rec": "His #1 national park: Yellowstone, shown with bison including a calf, grizzly bears in meadows, and Lower Falls with a rainbow."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/DfQimY6Pasm/",
+    "reel_title": "Wyoming bucket-list trip \u2014 Grand Teton & Yellowstone in 5 days",
+    "creator": "@roamingwithtk",
+    "best": "Itinerary",
+    "rec": "Days 2\u20135 of Taylor & Kristen's 5-day Wyoming trip (only 3 days of PTO): Old Faithful and the Grand Prismatic Overlook hike, an early-morning Lamar Valley drive for wolves and bison, the Grand Canyon of the Yellowstone from Artist Point, Hayden Valley at sunset, the Upper Geyser Basin, Yellowstone Lake, Great Fountain Geyser at sunset, and a bonus day of Mystic Falls or Mount Washburn plus Mammoth Hot Springs."
    }
   ]
  },
@@ -5446,5 +5492,5 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 36<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 44<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 10<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 68<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 36<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 33<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 13<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 13<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 37<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 44<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 10<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 68<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 36<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 33<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 13<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 13<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>

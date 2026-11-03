@@ -10,7 +10,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 ## Contents
 
 - [Map — all places, color-coded by region](#map)
-- [Northeast Region — 36 places](#northeast)
+- [Northeast Region — 37 places](#northeast)
 - [Southeast Region — 44 places](#southeast)
 - [Midwest Region — 10 places](#midwest)
 - [Southwest Region — 68 places](#southwest)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 36 · Southeast 44 · Midwest 10 · Southwest 68 · Mountain West 36 · West 33 · Pacific Northwest 13 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 261**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 44 · Midwest 10 · Southwest 68 · Mountain West 36 · West 33 · Pacific Northwest 13 · Alaska 13 · Hawaii 5 · U.S. Territories 3 · **Total 262**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -39,7 +39,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Northeast Region {#northeast}
 
-**36 places · Connecticut, Maine, Massachusetts, New Hampshire, New York, Pennsylvania, Vermont**
+**37 places · Connecticut, Maine, Massachusetts, New Hampshire, New York, Pennsylvania, Vermont**
 
 ### Acadia National Park
 
@@ -57,10 +57,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - **2. [Beehive Trail](https://www.google.com/maps/search/?api=1&query=Beehive+Trail+Acadia+National+Park+ME)** — Acadia National Park, Acadia National Park
   - **Best for:** Sunrise / Summit view / Hike — Caption names Acadia's Beehive Trail at sunrise. After finishing their 63rd national park, the creators film themselves squinting into the sun, then pan across the rocky granite summit to a forested coastline, islands, curving shoreline, and golden reflection on the ocean.
   - 🎬 Source: [Hiking / Sunrise — Beehive Trail](https://www.instagram.com/reel/DdJgrUhvccf/) by @amorywild (#None in that reel)
+  - 🎬 Also recommended by: [Acadia's iconic sunrises — Cadillac Mountain & the Beehive](https://www.instagram.com/reel/De3GgUCgfu4/) by @daveandjoce
+    - **Best for:** Sunrise — Dave & Joce's favorite Acadia sunrise spot — 'another unreal sunrise spot' besides Cadillac Mountain: the Beehive Trail, the park's famous iron-rung climb above Sand Beach.
+- **3. [Cadillac Mountain](https://www.google.com/maps/search/?api=1&query=Cadillac+Mountain+Acadia+National+Park+ME)** — Acadia National Park, Bar Harbor
+  - **Best for:** Sunrise — Dave & Joce's pick for one of the most iconic sunrises in the U.S.: Cadillac Mountain, famous for being one of the first places in the country to see the sunrise during parts of the year. If you're driving up, vehicle reservations are required during the reservation season — or you can hike to the top.
+  - Coordinates verified against OpenStreetMap.
+  - 🎬 Source: [Acadia's iconic sunrises — Cadillac Mountain & the Beehive](https://www.instagram.com/reel/De3GgUCgfu4/) by @daveandjoce (#1 in that reel)
 
 ##### Top national park (East)
 
-- **3. [Acadia National Park](https://www.google.com/maps/search/?api=1&query=Acadia+National+Park+ME)** — Acadia National Park, Bar Harbor
+- **4. [Acadia National Park](https://www.google.com/maps/search/?api=1&query=Acadia+National+Park+ME)** — Acadia National Park, Bar Harbor
   - **Best for:** Top national park (East) — Ranked #5 in the East, shown with mountain, lake and coastline views at sunrise/sunset, iron-rung climbs, a loon and seals on a sunset boat cruise.
   - 🎬 Source: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [Wildlife — Acadia National Park](https://www.instagram.com/reel/Ddt8odbRZ32/) by @amorywild
@@ -69,6 +75,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Seals / Sunset / Wildlife — Caption names Acadia at sunset for wildlife. From a boat, the camera zooms toward a rocky outcrop where harbor seals are hauled out and swimming nearby as orange and pink light reflects on calm water; on-screen text reads, 'POV you're watching seals at sunset in Acadia...'
   - 🎬 Also recommended by: [Hiking — Acadia National Park](https://www.instagram.com/reel/DdILP0qJ6Op/) by @amorywild
     - **Best for:** Iron-rung hike / View — Caption complains, 'So many ladders...' on an Acadia hike. The POV video climbs installed metal rungs and ladders on a near-vertical granite face, crosses an exposed ledge, and reaches a summit view over green mountains and coastal islands; the specific trail is not named by the creator.
+  - 🎬 Also recommended by: [Acadia's iconic sunrises — Cadillac Mountain & the Beehive](https://www.instagram.com/reel/De3GgUCgfu4/) by @daveandjoce
+    - **Best for:** Sunrise — Dave & Joce came to Acadia for one of the most iconic sunrises in the U.S.: Cadillac Mountain (first sunrise in the country for part of the year; vehicle reservations required in season, or hike up) — and their personal favorite, the Beehive Trail. 'Send this to the people you're waking up at 3am with.'
 
 ### Arethusa Falls (Crawford Notch)
 
@@ -76,7 +84,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **4. [Arethusa Falls](https://www.google.com/maps/search/?api=1&query=Arethusa+Falls+NH)** — Arethusa Falls (Crawford Notch), Harts Location
+- **5. [Arethusa Falls](https://www.google.com/maps/search/?api=1&query=Arethusa+Falls+NH)** — Arethusa Falls (Crawford Notch), Harts Location
   - **Best for:** Waterfall — Ranked #17 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#17 in that reel)
@@ -87,7 +95,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **5. [Bash Bish Falls State Park](https://www.google.com/maps/search/?api=1&query=Bash+Bish+Falls+State+Park+MA)** — Bash Bish Falls State Park, Mount Washington
+- **6. [Bash Bish Falls State Park](https://www.google.com/maps/search/?api=1&query=Bash+Bish+Falls+State+Park+MA)** — Bash Bish Falls State Park, Mount Washington
   - **Best for:** Top state park — Ranked #11 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#11 in that reel)
@@ -100,7 +108,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **6. [Baxter State Park](https://www.google.com/maps/search/?api=1&query=Baxter+State+Park+ME)** — Baxter State Park, Millinocket
+- **7. [Baxter State Park](https://www.google.com/maps/search/?api=1&query=Baxter+State+Park+ME)** — Baxter State Park, Millinocket
   - **Best for:** Top state park — Ranked #3 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#3 in that reel)
@@ -111,7 +119,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **7. [Bushkill Falls](https://www.google.com/maps/search/?api=1&query=Bushkill+Falls+PA)** — Bushkill Falls, Bushkill
+- **8. [Bushkill Falls](https://www.google.com/maps/search/?api=1&query=Bushkill+Falls+PA)** — Bushkill Falls, Bushkill
   - **Best for:** Waterfall — Ranked #36 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#36 in that reel)
@@ -122,7 +130,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **8. [Camden Hills State Park](https://www.google.com/maps/search/?api=1&query=Camden+Hills+State+Park+ME)** — Camden Hills State Park, Camden
+- **9. [Camden Hills State Park](https://www.google.com/maps/search/?api=1&query=Camden+Hills+State+Park+ME)** — Camden Hills State Park, Camden
   - **Best for:** Top state park — Ranked #7 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#7 in that reel)
@@ -133,11 +141,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **9. [Cherry Springs State Park](https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+PA)** — Cherry Springs State Park, Coudersport
+- **10. [Cherry Springs State Park](https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+PA)** — Cherry Springs State Park, Coudersport
   - **Best for:** Stargazing — Ranked #5 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#5 in that reel)
-- **10. [Overnight Astronomy Observation Field](https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+Astronomy+Observation+Field+PA)** — Cherry Springs State Park, Coudersport
+- **11. [Overnight Astronomy Observation Field](https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+Astronomy+Observation+Field+PA)** — Cherry Springs State Park, Coudersport
   - **Best for:** Stargazing — Visit Dark Skies PA's pick for the best stargazing setup at Cherry Springs: the Overnight Astronomy Observation Field, with concrete telescope pads, electrical outlets and WiFi. The rules that keep it world-class: a permit/registration is required, arrive and set up before dark (vehicles then stay in the adjacent lot), red lights only — no white light — no campfires, and quiet hours from midnight to 9 AM.
   - Pin shares the Cherry Springs State Park coordinates; the observation field is inside the park.
   - 🎬 Source: [Overnight Astronomy Observation Field — Cherry Springs State Park](https://www.instagram.com/reel/DdHyZ9qRHJZ/) by @visitdarkskiespa (#1 in that reel)
@@ -148,7 +156,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **11. [Chittenango Falls](https://www.google.com/maps/search/?api=1&query=Chittenango+Falls+NY)** — Chittenango Falls State Park, Cazenovia
+- **12. [Chittenango Falls](https://www.google.com/maps/search/?api=1&query=Chittenango+Falls+NY)** — Chittenango Falls State Park, Cazenovia
   - **Best for:** Waterfall — Ranked #34 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#34 in that reel)
@@ -159,7 +167,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **12. [Crawford Notch State Park](https://www.google.com/maps/search/?api=1&query=Crawford+Notch+State+Park+NH)** — Crawford Notch State Park, Harts Location
+- **13. [Crawford Notch State Park](https://www.google.com/maps/search/?api=1&query=Crawford+Notch+State+Park+NH)** — Crawford Notch State Park, Harts Location
   - **Best for:** Top state park — Ranked #10 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#10 in that reel)
@@ -170,7 +178,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **13. [Dingmans Falls](https://www.google.com/maps/search/?api=1&query=Dingmans+Falls+PA)** — Dingmans Falls (Delaware Water Gap), Dingmans Ferry
+- **14. [Dingmans Falls](https://www.google.com/maps/search/?api=1&query=Dingmans+Falls+PA)** — Dingmans Falls (Delaware Water Gap), Dingmans Ferry
   - **Best for:** Waterfall — Ranked #27 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#27 in that reel)
@@ -181,14 +189,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **14. [Franconia Ridge Trail](https://www.google.com/maps/search/?api=1&query=Franconia+Ridge+Trail+NH)** — Franconia Notch State Park, Lincoln
+- **15. [Franconia Ridge Trail](https://www.google.com/maps/search/?api=1&query=Franconia+Ridge+Trail+NH)** — Franconia Notch State Park, Lincoln
   - **Best for:** Hike — Calvin hiked the Franconia Ridge Trail in July — the classic above-treeline ridge walk across Little Haystack, Mount Lincoln and Mount Lafayette in Franconia Notch. His caution: check the weather and conditions before hiking it in fall or winter, and be prepared — the ridge is fully exposed.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Franconia Ridge Trail in New Hampshire](https://www.instagram.com/reel/Deer0XBS9VU/) by @calvin_on_the_internet (#1 in that reel)
 
 ##### Top state park
 
-- **15. [Franconia Notch State Park](https://www.google.com/maps/search/?api=1&query=Franconia+Notch+State+Park+NH)** — Franconia Notch State Park, Lincoln
+- **16. [Franconia Notch State Park](https://www.google.com/maps/search/?api=1&query=Franconia+Notch+State+Park+NH)** — Franconia Notch State Park, Lincoln
   - **Best for:** Top state park — Ranked #2 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#2 in that reel)
@@ -199,7 +207,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **16. [Glen Ellis Falls](https://www.google.com/maps/search/?api=1&query=Glen+Ellis+Falls+NH)** — Glen Ellis Falls (Pinkham Notch), Jackson
+- **17. [Glen Ellis Falls](https://www.google.com/maps/search/?api=1&query=Glen+Ellis+Falls+NH)** — Glen Ellis Falls (Pinkham Notch), Jackson
   - **Best for:** Waterfall — Ranked #25 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#25 in that reel)
@@ -210,7 +218,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **17. [Kaaterskill Falls](https://www.google.com/maps/search/?api=1&query=Kaaterskill+Falls+NY)** — Kaaterskill Falls, Haines Falls
+- **18. [Kaaterskill Falls](https://www.google.com/maps/search/?api=1&query=Kaaterskill+Falls+NY)** — Kaaterskill Falls, Haines Falls
   - **Best for:** Waterfall — Ranked #6 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#6 in that reel)
@@ -221,7 +229,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **18. [Kent Falls](https://www.google.com/maps/search/?api=1&query=Kent+Falls+CT)** — Kent Falls State Park, Kent
+- **19. [Kent Falls](https://www.google.com/maps/search/?api=1&query=Kent+Falls+CT)** — Kent Falls State Park, Kent
   - **Best for:** Waterfall — Ranked #30 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#30 in that reel)
@@ -232,14 +240,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **19. [Letchworth State Park](https://www.google.com/maps/search/?api=1&query=Letchworth+State+Park+NY)** — Letchworth State Park, Castile
+- **20. [Letchworth State Park](https://www.google.com/maps/search/?api=1&query=Letchworth+State+Park+NY)** — Letchworth State Park, Castile
   - **Best for:** Top state park — Ranked #1 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#1 in that reel)
 
 ##### Waterfall
 
-- **20. [Middle Falls (Letchworth)](https://www.google.com/maps/search/?api=1&query=Middle+Falls+Letchworth+State+Park+NY)** — Letchworth State Park, Castile
+- **21. [Middle Falls (Letchworth)](https://www.google.com/maps/search/?api=1&query=Middle+Falls+Letchworth+State+Park+NY)** — Letchworth State Park, Castile
   - **Best for:** Waterfall — Ranked #12 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#12 in that reel)
@@ -250,7 +258,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **21. [Minnewaska State Park Preserve](https://www.google.com/maps/search/?api=1&query=Minnewaska+State+Park+Preserve+NY)** — Minnewaska State Park Preserve, Kerhonkson
+- **22. [Minnewaska State Park Preserve](https://www.google.com/maps/search/?api=1&query=Minnewaska+State+Park+Preserve+NY)** — Minnewaska State Park Preserve, Kerhonkson
   - **Best for:** Top state park — Ranked #6 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#6 in that reel)
@@ -261,7 +269,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **22. [Moss Glen Falls (Granville)](https://www.google.com/maps/search/?api=1&query=Moss+Glen+Falls+Granville+VT)** — Moss Glen Falls (Granville), Granville
+- **23. [Moss Glen Falls (Granville)](https://www.google.com/maps/search/?api=1&query=Moss+Glen+Falls+Granville+VT)** — Moss Glen Falls (Granville), Granville
   - **Best for:** Waterfall — Ranked #35 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#35 in that reel)
@@ -272,7 +280,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **23. [Mount Washington State Park](https://www.google.com/maps/search/?api=1&query=Mount+Washington+State+Park+NH)** — Mount Washington State Park, Gorham
+- **24. [Mount Washington State Park](https://www.google.com/maps/search/?api=1&query=Mount+Washington+State+Park+NH)** — Mount Washington State Park, Gorham
   - **Best for:** Top state park — Ranked #9 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#9 in that reel)
@@ -283,7 +291,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **24. [Moxie Falls](https://www.google.com/maps/search/?api=1&query=Moxie+Falls+ME)** — Moxie Falls, The Forks
+- **25. [Moxie Falls](https://www.google.com/maps/search/?api=1&query=Moxie+Falls+ME)** — Moxie Falls, The Forks
   - **Best for:** Waterfall — Ranked #26 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#26 in that reel)
@@ -294,15 +302,15 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **25. [American Falls](https://www.google.com/maps/search/?api=1&query=American+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
+- **26. [American Falls](https://www.google.com/maps/search/?api=1&query=American+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
   - **Best for:** Waterfall — Caption names Niagara Falls, and on-screen text calls it 'America's first state park for a reason...' The video shows the American Falls from the Cave of the Winds walkways and staircases, with massive water crashing down and heavy mist around visitors in yellow ponchos.
   - Pin is the second of two adjacent Nominatim waterfall points returned for American Falls, so it does not sit exactly on the general Niagara Falls point.
   - 🎬 Source: [Waterfall — American Falls](https://www.instagram.com/reel/DdDMPVahoxH/) by @amorywild (#None in that reel)
-- **26. [Horseshoe Falls](https://www.google.com/maps/search/?api=1&query=Horseshoe+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
+- **27. [Horseshoe Falls](https://www.google.com/maps/search/?api=1&query=Horseshoe+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
   - **Best for:** Waterfall — Caption asks, 'Or is it Niagara Falls?' The video pans across Horseshoe Falls' massive curtain of water, rising mist, churning green-blue river, rocky cliffs, and a distant viewing platform.
   - Pin is OSM's waterfall point for Horseshoe Falls on the Niagara River; the falls straddle the U.S.–Canada border.
   - 🎬 Source: [Waterfall — Horseshoe Falls](https://www.instagram.com/reel/DdNRYJHPaSe/) by @amorywild (#None in that reel)
-- **27. [Niagara Falls](https://www.google.com/maps/search/?api=1&query=Niagara+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
+- **28. [Niagara Falls](https://www.google.com/maps/search/?api=1&query=Niagara+Falls+Niagara+Falls+State+Park+NY)** — Niagara Falls State Park, Niagara Falls
   - **Best for:** Waterfall — Caption names Niagara Falls. A close view pans across torrents of white water, the mist-filled gorge, and the distant city skyline across the river; on-screen text reads, 'The original...'
   - 🎬 Source: [Waterfall — Niagara Falls](https://www.instagram.com/reel/DdIOsK4JDSu/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt
@@ -314,7 +322,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **28. [Ohiopyle State Park](https://www.google.com/maps/search/?api=1&query=Ohiopyle+State+Park+PA)** — Ohiopyle State Park, Ohiopyle
+- **29. [Ohiopyle State Park](https://www.google.com/maps/search/?api=1&query=Ohiopyle+State+Park+PA)** — Ohiopyle State Park, Ohiopyle
   - **Best for:** Top state park — Ranked #8 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#8 in that reel)
@@ -325,7 +333,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **29. [Raymondskill Falls](https://www.google.com/maps/search/?api=1&query=Raymondskill+Falls+PA)** — Raymondskill Falls (Delaware Water Gap), Milford
+- **30. [Raymondskill Falls](https://www.google.com/maps/search/?api=1&query=Raymondskill+Falls+PA)** — Raymondskill Falls (Delaware Water Gap), Milford
   - **Best for:** Waterfall — Ranked #21 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#21 in that reel)
@@ -336,14 +344,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **30. [Ricketts Glen State Park](https://www.google.com/maps/search/?api=1&query=Ricketts+Glen+State+Park+PA)** — Ricketts Glen State Park, Benton
+- **31. [Ricketts Glen State Park](https://www.google.com/maps/search/?api=1&query=Ricketts+Glen+State+Park+PA)** — Ricketts Glen State Park, Benton
   - **Best for:** Top state park — Ranked #5 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#5 in that reel)
 
 ##### Waterfall
 
-- **31. [Ganoga Falls](https://www.google.com/maps/search/?api=1&query=Ganoga+Falls+PA)** — Ricketts Glen State Park, Benton
+- **32. [Ganoga Falls](https://www.google.com/maps/search/?api=1&query=Ganoga+Falls+PA)** — Ricketts Glen State Park, Benton
   - **Best for:** Waterfall — Ranked #13 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#13 in that reel)
@@ -354,7 +362,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **32. [Smalls Falls](https://www.google.com/maps/search/?api=1&query=Smalls+Falls+ME)** — Smalls Falls, Rangeley
+- **33. [Smalls Falls](https://www.google.com/maps/search/?api=1&query=Smalls+Falls+ME)** — Smalls Falls, Rangeley
   - **Best for:** Waterfall — Ranked #37 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#37 in that reel)
@@ -365,7 +373,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **33. [Smugglers' Notch State Park](https://www.google.com/maps/search/?api=1&query=Smugglers'+Notch+State+Park+VT)** — Smugglers' Notch State Park, Cambridge
+- **34. [Smugglers' Notch State Park](https://www.google.com/maps/search/?api=1&query=Smugglers'+Notch+State+Park+VT)** — Smugglers' Notch State Park, Cambridge
   - **Best for:** Top state park — Ranked #12 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#12 in that reel)
@@ -376,7 +384,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **34. [Taughannock Falls](https://www.google.com/maps/search/?api=1&query=Taughannock+Falls+NY)** — Taughannock Falls State Park, Ithaca
+- **35. [Taughannock Falls](https://www.google.com/maps/search/?api=1&query=Taughannock+Falls+NY)** — Taughannock Falls State Park, Ithaca
   - **Best for:** Waterfall — Ranked #4 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#4 in that reel)
@@ -387,14 +395,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **35. [Watkins Glen State Park](https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+NY)** — Watkins Glen State Park, Watkins Glen
+- **36. [Watkins Glen State Park](https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+NY)** — Watkins Glen State Park, Watkins Glen
   - **Best for:** Top state park — Ranked #4 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#4 in that reel)
 
 ##### Waterfall
 
-- **36. [Rainbow Falls (Watkins Glen)](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Watkins+Glen+NY)** — Watkins Glen State Park, Watkins Glen
+- **37. [Rainbow Falls (Watkins Glen)](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Watkins+Glen+NY)** — Watkins Glen State Park, Watkins Glen
   - **Best for:** Waterfall — Ranked #14 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#14 in that reel)
@@ -1724,6 +1732,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild
     - **Best for:** Top national park — His #6 national park: Grand Teton, shown with snow-capped peaks reflected in a lake and a moose by the roadside.
+  - 🎬 Also recommended by: [Wyoming bucket-list trip — Grand Teton & Yellowstone in 5 days](https://www.instagram.com/reel/DfQimY6Pasm/) by @roamingwithtk
+    - **Best for:** Itinerary — Taylor & Kristen's 5-day Wyoming bucket-list trip uses only 3 days of PTO, and Days 1–2 are Grand Teton: sunrise at Mormon Row, wildlife spotting at Antelope Flats, Jenny Lake (hike, kayak or boat shuttle), sunset at Schwabacher Landing, then sunrise at Oxbow Bend and the Snake River Overlook on the way north to Yellowstone.
 
 ### Great Sand Dunes National Park
 
@@ -1863,6 +1873,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Bison calves / Wildlife — Caption names Yellowstone for wildlife. An adult bison grazes in a grassland while a small reddish calf takes tentative steps nearby; on-screen text reads, 'Bring me back to red dog season...', referring to newborn bison calves' red coats.
   - 🎬 Also recommended by: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild
     - **Best for:** Top national park — His #1 national park: Yellowstone, shown with bison including a calf, grizzly bears in meadows, and Lower Falls with a rainbow.
+  - 🎬 Also recommended by: [Wyoming bucket-list trip — Grand Teton & Yellowstone in 5 days](https://www.instagram.com/reel/DfQimY6Pasm/) by @roamingwithtk
+    - **Best for:** Itinerary — Days 2–5 of Taylor & Kristen's 5-day Wyoming trip (only 3 days of PTO): Old Faithful and the Grand Prismatic Overlook hike, an early-morning Lamar Valley drive for wolves and bison, the Grand Canyon of the Yellowstone from Artist Point, Hayden Valley at sunset, the Upper Geyser Basin, Yellowstone Lake, Great Fountain Geyser at sunset, and a bonus day of Mystic Falls or Mount Washburn plus Mammoth Hot Springs.
 
 ## West Region {#west}
 
@@ -2856,6 +2868,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: The Franconia Ridge Trail in Franconia Notch, New Hampshire — an exposed alpine ridge over Little Haystack, Lincoln and Lafayette; check conditions in fall/winter.
 - **[Bentonite Hills — a landscape from another planet (duplicate send)](https://www.instagram.com/reel/DfQPqiyzGwM/)** — @megsandpat · 1 places · Theme: Bentonite Hills guide
   - What the reel recommends: Same Bentonite Hills video as the @megsandpat reel already on the map (DfP6OiPPW-W), sent again under a second link — the place already carries that source once, so no duplicate source was added.
+- **[Cape Flattery — the final boss of PNW-maxxing](https://www.instagram.com/reel/DfF6uHDSyVj/)** — @giselle.on.trails · 1 places · Theme: Cape Flattery trail guide
+  - What the reel recommends: Cape Flattery, Washington — already on the map from @griffins.onthego; added as a second source with the full trail beta (1.5 mi RT, boardwalks, Makah permit, dawn-to-dusk hours).
+- **[Wyoming bucket-list trip — Grand Teton & Yellowstone in 5 days](https://www.instagram.com/reel/DfQimY6Pasm/)** — @roamingwithtk · 2 places · Theme: Wyoming 5-day itinerary (3 days of PTO)
+  - What the reel recommends: A 5-day Grand Teton + Yellowstone itinerary using only 3 days of PTO — Mormon Row, Jenny Lake, Old Faithful, Grand Prismatic, Lamar Valley, Artist Point, Mammoth Hot Springs and more; filed as itinerary sources on both park entries.
+- **[Acadia's iconic sunrises — Cadillac Mountain & the Beehive](https://www.instagram.com/reel/De3GgUCgfu4/)** — @daveandjoce · 3 places · Theme: Acadia National Park sunrise spots
+  - What the reel recommends: Acadia National Park, Maine — sunrise at Cadillac Mountain (vehicle reservations in season) and the Beehive Trail, the creators' favorite.
 
 ## How this page is updated {#how-this-page-is-updated}
 
