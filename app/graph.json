@@ -2806,6 +2806,30 @@
    }
   },
   {
+   "id": "reel:DcY8Huyswku",
+   "type": "Reel",
+   "properties": {
+    "name": "Trappers Peak — 360° views of the North Cascades",
+    "url": "https://www.instagram.com/reel/DcY8Huyswku/",
+    "title": "Trappers Peak — 360° views of the North Cascades",
+    "creator": "@gwynandami",
+    "theme": "North Cascades summit hike",
+    "places_count": 1,
+    "recommendation_summary": "Trappers Peak in North Cascades National Park, Washington — a 9.7-mile, 3,438 ft-gain summit hike via Thornton Lakes with 360° panoramic views.",
+    "posted": "2026-08-23",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:gwynandami",
+   "type": "Creator",
+   "properties": {
+    "name": "@gwynandami",
+    "handle": "@gwynandami",
+    "display_name": "Gwyn and Ami"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -9347,6 +9371,25 @@
    "properties": {
     "name": "Horseshoe Bend"
    }
+  },
+  {
+   "id": "place:trappers-peak-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Trappers Peak",
+    "place_id": "trappers-peak-wa",
+    "site": "North Cascades National Park",
+    "city": "Marblemount",
+    "state": "Washington",
+    "state_code": "",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 48.68855,
+    "lng": -121.32251,
+    "google_maps_query": "Trappers+Peak+North+Cascades+National+Park+WA",
+    "best_for": "Hike",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
   }
  ],
  "edges": [
@@ -11297,6 +11340,18 @@
   {
    "from": "reel:DfQ_wxVu4HX",
    "to": "theme:arizona-road-trip-page-glen-canyon",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcY8Huyswku",
+   "to": "creator:gwynandami",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcY8Huyswku",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -22263,6 +22318,37 @@
   {
    "from": "place:horseshoe-bend-az",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:trappers-peak-wa",
+   "to": "state:united-states-washington",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:trappers-peak-wa",
+   "to": "site:north-cascades-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:trappers-peak-wa",
+   "to": "reel:DcY8Huyswku",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "Gwyn and Ami's pick for some of the best panoramic mountain views in the North Cascades: Trappers Peak via Thornton Lakes — 9.7 miles with 3,438 ft of gain to stunning 360° summit views. Non-technical (no special gear or skills), with a few steep rock-scramble sections. Their tips: pack plenty of water (few places to filter), no backpacking on the peak itself, and Thornton Lakes backpacking is by competitive NPS permit.",
+    "creator": "@gwynandami",
+    "reel_title": "Trappers Peak — 360° views of the North Cascades",
+    "reel_theme": "North Cascades summit hike"
+   }
+  },
+  {
+   "from": "place:trappers-peak-wa",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }

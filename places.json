@@ -6865,6 +6865,28 @@
    "source_rank": 4,
    "source_reel_theme": "Arizona road trip (Page / Glen Canyon)",
    "additional_sources": []
+  },
+  {
+   "id": "trappers-peak-wa",
+   "name": "Trappers Peak",
+   "site": "North Cascades National Park",
+   "city": "Marblemount",
+   "state": "Washington",
+   "country": "United States",
+   "region": "Pacific Northwest",
+   "region_id": "pacific-northwest",
+   "lat": 48.68855,
+   "lng": -121.32251,
+   "google_maps_query": "Trappers+Peak+North+Cascades+National+Park+WA",
+   "best_for": "Hike",
+   "recommendation": "Gwyn and Ami's pick for some of the best panoramic mountain views in the North Cascades: Trappers Peak via Thornton Lakes \u2014 9.7 miles with 3,438 ft of gain to stunning 360\u00b0 summit views. Non-technical (no special gear or skills), with a few steep rock-scramble sections. Their tips: pack plenty of water (few places to filter), no backpacking on the peak itself, and Thornton Lakes backpacking is by competitive NPS permit.",
+   "note": "Coordinates verified against OpenStreetMap.",
+   "source_reel": "https://www.instagram.com/reel/DcY8Huyswku/",
+   "source_title": "Trappers Peak \u2014 360\u00b0 views of the North Cascades",
+   "source_creator": "@gwynandami",
+   "source_rank": 1,
+   "source_reel_theme": "North Cascades summit hike",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",
