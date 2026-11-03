@@ -2363,6 +2363,51 @@
    "added": "2026-11-02",
    "duplicate_place": true,
    "recommendation_summary": "Bentonite Hills near Hanksville, Utah (Cow Dung Road / Mars Desert Research Station) \u2014 already on the map from @adventurefamilyvlog; added as a second source with visit tips."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfPv6sti64R/",
+   "title": "The Sperry Chalet hike \u2014 Glacier National Park",
+   "creator": "@renata.at.world",
+   "creator_name": "Renata",
+   "theme": "Glacier backcountry hike",
+   "places_count": 1,
+   "place_ids": [
+    "sperry-chalet-mt"
+   ],
+   "posted": "2026-11-02",
+   "added": "2026-11-02",
+   "recommendation_summary": "The Sperry Chalet hike in Glacier National Park, from the Lake McDonald trailhead \u2014 fog, a cliff-perched stone chalet, a mountain goat, ice and glacier snowfields."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DeryBokR80O/",
+   "title": "Highway 128 \u2014 the Colorado River drive",
+   "creator": "@n8.sauer",
+   "creator_name": "Nate Sauer",
+   "theme": "Utah scenic drive",
+   "places_count": 1,
+   "place_ids": [
+    "highway-128-ut"
+   ],
+   "posted": "2026-10-19",
+   "added": "2026-11-02",
+   "recommendation_summary": "Highway 128 (Upper Colorado River Scenic Byway) near Moab, Utah \u2014 a bucket-list river-canyon drive; start ~1.5 hours before sunset."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfQ_wxVu4HX/",
+   "title": "Day 3 of Arizona \u2014 Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
+   "creator": "@laurenbcardona",
+   "creator_name": "Lauren Cardona",
+   "theme": "Arizona road trip (Page / Glen Canyon)",
+   "places_count": 4,
+   "place_ids": [
+    "navajo-bridge-az",
+    "glen-canyon-dam-overlook-az",
+    "wahweap-overlook-az",
+    "horseshoe-bend-az"
+   ],
+   "posted": "2026-11-02",
+   "added": "2026-11-02",
+   "recommendation_summary": "Day 3 of an Arizona road trip around Page: Navajo Bridge, Glen Canyon Dam Bridge & Overlook, Wahweap Overlook and Horseshoe Bend."
   }
  ]
 }

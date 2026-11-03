@@ -2720,6 +2720,92 @@
    }
   },
   {
+   "id": "reel:DfPv6sti64R",
+   "type": "Reel",
+   "properties": {
+    "name": "The Sperry Chalet hike — Glacier National Park",
+    "url": "https://www.instagram.com/reel/DfPv6sti64R/",
+    "title": "The Sperry Chalet hike — Glacier National Park",
+    "creator": "@renata.at.world",
+    "theme": "Glacier backcountry hike",
+    "places_count": 1,
+    "recommendation_summary": "The Sperry Chalet hike in Glacier National Park, from the Lake McDonald trailhead — fog, a cliff-perched stone chalet, a mountain goat, ice and glacier snowfields.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:renata-at-world",
+   "type": "Creator",
+   "properties": {
+    "name": "@renata.at.world",
+    "handle": "@renata.at.world",
+    "display_name": "Renata"
+   }
+  },
+  {
+   "id": "reel:DeryBokR80O",
+   "type": "Reel",
+   "properties": {
+    "name": "Highway 128 — the Colorado River drive",
+    "url": "https://www.instagram.com/reel/DeryBokR80O/",
+    "title": "Highway 128 — the Colorado River drive",
+    "creator": "@n8.sauer",
+    "theme": "Utah scenic drive",
+    "places_count": 1,
+    "recommendation_summary": "Highway 128 (Upper Colorado River Scenic Byway) near Moab, Utah — a bucket-list river-canyon drive; start ~1.5 hours before sunset.",
+    "posted": "2026-10-19",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:n8-sauer",
+   "type": "Creator",
+   "properties": {
+    "name": "@n8.sauer",
+    "handle": "@n8.sauer",
+    "display_name": "Nate Sauer"
+   }
+  },
+  {
+   "id": "theme:utah-scenic-drive",
+   "type": "Theme",
+   "properties": {
+    "name": "Utah scenic drive"
+   }
+  },
+  {
+   "id": "reel:DfQ_wxVu4HX",
+   "type": "Reel",
+   "properties": {
+    "name": "Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
+    "url": "https://www.instagram.com/reel/DfQ_wxVu4HX/",
+    "title": "Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
+    "creator": "@laurenbcardona",
+    "theme": "Arizona road trip (Page / Glen Canyon)",
+    "places_count": 4,
+    "recommendation_summary": "Day 3 of an Arizona road trip around Page: Navajo Bridge, Glen Canyon Dam Bridge & Overlook, Wahweap Overlook and Horseshoe Bend.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:laurenbcardona",
+   "type": "Creator",
+   "properties": {
+    "name": "@laurenbcardona",
+    "handle": "@laurenbcardona",
+    "display_name": "Lauren Cardona"
+   }
+  },
+  {
+   "id": "theme:arizona-road-trip-page-glen-canyon",
+   "type": "Theme",
+   "properties": {
+    "name": "Arizona road trip (Page / Glen Canyon)"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -9112,6 +9198,155 @@
    "properties": {
     "name": "Mount Rushmore National Memorial"
    }
+  },
+  {
+   "id": "place:sperry-chalet-mt",
+   "type": "Place",
+   "properties": {
+    "name": "Sperry Chalet",
+    "place_id": "sperry-chalet-mt",
+    "site": "Glacier National Park",
+    "city": "West Glacier",
+    "state": "Montana",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 48.6049,
+    "lng": -113.78639,
+    "google_maps_query": "Sperry+Chalet+Glacier+National+Park+MT",
+    "best_for": "Hike",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:highway-128-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Highway 128 (Upper Colorado River Scenic Byway)",
+    "place_id": "highway-128-ut",
+    "site": "Highway 128 — Colorado River Scenic Byway",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.72807,
+    "lng": -109.32708,
+    "google_maps_query": "Highway+128+Moab+UT",
+    "best_for": "Scenic drive",
+    "note": "Pin sits at Fisher Towers, the best-known landmark along the SR-128 corridor (OpenStreetMap)."
+   }
+  },
+  {
+   "id": "site:highway-128-colorado-river-scenic-byway",
+   "type": "Site",
+   "properties": {
+    "name": "Highway 128 — Colorado River Scenic Byway"
+   }
+  },
+  {
+   "id": "place:navajo-bridge-az",
+   "type": "Place",
+   "properties": {
+    "name": "Navajo Bridge",
+    "place_id": "navajo-bridge-az",
+    "site": "Navajo Bridge (Marble Canyon)",
+    "city": "Marble Canyon",
+    "state": "Arizona",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.8178,
+    "lng": -111.63157,
+    "google_maps_query": "Navajo+Bridge+AZ",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:navajo-bridge-marble-canyon",
+   "type": "Site",
+   "properties": {
+    "name": "Navajo Bridge (Marble Canyon)"
+   }
+  },
+  {
+   "id": "place:glen-canyon-dam-overlook-az",
+   "type": "Place",
+   "properties": {
+    "name": "Glen Canyon Dam Bridge & Overlook",
+    "place_id": "glen-canyon-dam-overlook-az",
+    "site": "Glen Canyon Dam",
+    "city": "Page",
+    "state": "Arizona",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.93556,
+    "lng": -111.48328,
+    "google_maps_query": "Glen+Canyon+Dam+Page+AZ",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:glen-canyon-dam",
+   "type": "Site",
+   "properties": {
+    "name": "Glen Canyon Dam"
+   }
+  },
+  {
+   "id": "place:wahweap-overlook-az",
+   "type": "Place",
+   "properties": {
+    "name": "Wahweap Overlook",
+    "place_id": "wahweap-overlook-az",
+    "site": "Wahweap Overlook (Lake Powell)",
+    "city": "Page",
+    "state": "Arizona",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.96897,
+    "lng": -111.49896,
+    "google_maps_query": "Wahweap+Overlook+AZ",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:wahweap-overlook-lake-powell",
+   "type": "Site",
+   "properties": {
+    "name": "Wahweap Overlook (Lake Powell)"
+   }
+  },
+  {
+   "id": "place:horseshoe-bend-az",
+   "type": "Place",
+   "properties": {
+    "name": "Horseshoe Bend",
+    "place_id": "horseshoe-bend-az",
+    "site": "Horseshoe Bend",
+    "city": "Page",
+    "state": "Arizona",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.88045,
+    "lng": -111.51613,
+    "google_maps_query": "Horseshoe+Bend+Page+AZ",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:horseshoe-bend",
+   "type": "Site",
+   "properties": {
+    "name": "Horseshoe Bend"
+   }
   }
  ],
  "edges": [
@@ -11026,6 +11261,42 @@
   {
    "from": "reel:DfP6OiPPW-W",
    "to": "theme:bentonite-hills-guide",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfPv6sti64R",
+   "to": "creator:renata-at-world",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfPv6sti64R",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeryBokR80O",
+   "to": "creator:n8-sauer",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeryBokR80O",
+   "to": "theme:utah-scenic-drive",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQ_wxVu4HX",
+   "to": "creator:laurenbcardona",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQ_wxVu4HX",
+   "to": "theme:arizona-road-trip-page-glen-canyon",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -21806,6 +22077,192 @@
   {
    "from": "place:mount-rushmore-sd",
    "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sperry-chalet-mt",
+   "to": "state:united-states-montana",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:sperry-chalet-mt",
+   "to": "site:glacier-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:sperry-chalet-mt",
+   "to": "reel:DfPv6sti64R",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "Renata's Glacier hike: a 5 AM start from Lake McDonald, a foggy forest climb she calls boring — until the stone Sperry Chalet appears on its cliff, a mountain goat poses nearby, and the scenery turns 'INSANE': ice formations, snowfields by a glacier, and her jaw on the floor. Dinner afterwards at the Lake McDonald lodge.",
+    "creator": "@renata.at.world",
+    "reel_title": "The Sperry Chalet hike — Glacier National Park",
+    "reel_theme": "Glacier backcountry hike"
+   }
+  },
+  {
+   "from": "place:sperry-chalet-mt",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:highway-128-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:highway-128-ut",
+   "to": "site:highway-128-colorado-river-scenic-byway",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:highway-128-ut",
+   "to": "reel:DeryBokR80O",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Scenic drive",
+    "recommendation": "Nate's bucket-list drive: Utah's Highway 128, the Upper Colorado River Scenic Byway out of Moab — the road runs right along the Colorado River between towering orange cliffs. His timing tip from the caption: start about an hour and a half before official sunset.",
+    "creator": "@n8.sauer",
+    "reel_title": "Highway 128 — the Colorado River drive",
+    "reel_theme": "Utah scenic drive"
+   }
+  },
+  {
+   "from": "place:highway-128-ut",
+   "to": "theme:scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:navajo-bridge-az",
+   "to": "state:united-states-arizona",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:navajo-bridge-az",
+   "to": "site:navajo-bridge-marble-canyon",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:navajo-bridge-az",
+   "to": "reel:DfQ_wxVu4HX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint",
+    "recommendation": "Day 3 stop 1: the twin Navajo Bridges over the Colorado River at Marble Canyon — the historic 1929 span is now a pedestrian bridge with California condor sightings.",
+    "creator": "@laurenbcardona",
+    "reel_title": "Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
+    "reel_theme": "Arizona road trip (Page / Glen Canyon)"
+   }
+  },
+  {
+   "from": "place:navajo-bridge-az",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:glen-canyon-dam-overlook-az",
+   "to": "state:united-states-arizona",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:glen-canyon-dam-overlook-az",
+   "to": "site:glen-canyon-dam",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:glen-canyon-dam-overlook-az",
+   "to": "reel:DfQ_wxVu4HX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Viewpoint",
+    "recommendation": "Day 3 stop 2: the Glen Canyon Dam and its bridge over the Colorado, with the overlook view across to Lake Powell.",
+    "creator": "@laurenbcardona",
+    "reel_title": "Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
+    "reel_theme": "Arizona road trip (Page / Glen Canyon)"
+   }
+  },
+  {
+   "from": "place:glen-canyon-dam-overlook-az",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wahweap-overlook-az",
+   "to": "state:united-states-arizona",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:wahweap-overlook-az",
+   "to": "site:wahweap-overlook-lake-powell",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wahweap-overlook-az",
+   "to": "reel:DfQ_wxVu4HX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Viewpoint",
+    "recommendation": "Day 3 stop 3: the Wahweap Overlook above Lake Powell's Wahweap Bay — the big-water panorama near Page.",
+    "creator": "@laurenbcardona",
+    "reel_title": "Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
+    "reel_theme": "Arizona road trip (Page / Glen Canyon)"
+   }
+  },
+  {
+   "from": "place:wahweap-overlook-az",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:horseshoe-bend-az",
+   "to": "state:united-states-arizona",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:horseshoe-bend-az",
+   "to": "site:horseshoe-bend",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:horseshoe-bend-az",
+   "to": "reel:DfQ_wxVu4HX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Viewpoint",
+    "recommendation": "Day 3 stop 4: Horseshoe Bend, the Colorado River's famous incised meander outside Page — the day's finale.",
+    "creator": "@laurenbcardona",
+    "reel_title": "Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
+    "reel_theme": "Arizona road trip (Page / Glen Canyon)"
+   }
+  },
+  {
+   "from": "place:horseshoe-bend-az",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
