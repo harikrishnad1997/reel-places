@@ -25,6 +25,11 @@ import streamlit as st
 try:
     if "OPENAI_API_KEY" in st.secrets:
         os.environ.setdefault("OPENAI_API_KEY", st.secrets["OPENAI_API_KEY"])
+    # Opik tracing (always added, per the user): activates when its key is
+    # present in Secrets; without one, tracing is a no-op.
+    for _k in ("OPIK_API_KEY", "OPIK_WORKSPACE", "OPIK_PROJECT_NAME"):
+        if _k in st.secrets:
+            os.environ.setdefault(_k, st.secrets[_k])
 except Exception:
     pass
 
@@ -33,6 +38,7 @@ sys.path.insert(0, str(HERE))
 
 import chatbot  # noqa: E402
 import llm  # noqa: E402
+import tracing  # noqa: E402
 
 st.set_page_config(page_title="Reel Chat — Reel Places", page_icon="🎬", layout="centered")
 
@@ -65,18 +71,19 @@ for p in places:
     r = p["properties"].get("region", "?")
     regions[r] = regions.get(r, 0) + 1
 
-# with st.sidebar:
-#     st.title("🎬 Reel Places")
-#     st.metric("Places", len(places))
-#     st.metric("Source reels", len(reels))
-#     st.metric("Creators", len(creators))
-#     st.subheader("Places by region")
-#     for name, count in sorted(regions.items(), key=lambda kv: -kv[1]):
-#         st.write(f"**{name}** · {count}")
-#     st.divider()
-#     st.caption(f"Graph backend: {backend_note}")
-#     st.caption("LLM layer: " + ("on — LLM-only mode" if llm.available() else "off — paste an OpenAI key on the page to chat (LLM-only, no fallback)"))
-#     st.caption("Answers come from the graph first (every place cites its source reel); if the graph doesn't cover a question, the bot searches the web and labels the answer as web-sourced.")
+with st.sidebar:
+    st.title("🎬 Reel Places")
+    st.metric("Places", len(places))
+    st.metric("Source reels", len(reels))
+    st.metric("Creators", len(creators))
+    st.subheader("Places by region")
+    for name, count in sorted(regions.items(), key=lambda kv: -kv[1]):
+        st.write(f"**{name}** · {count}")
+    st.divider()
+    st.caption(f"Graph backend: {backend_note}")
+    st.caption("LLM layer: " + ("on — LLM-only mode" if llm.available() else "off — paste an OpenAI key on the page to chat (LLM-only, no fallback)"))
+    st.caption("Tracing (Opik): " + ("on — project " + os.environ.get("OPIK_PROJECT_NAME", "reel-places") if tracing.enabled() else "off — add OPIK_API_KEY to Secrets to enable"))
+    st.caption("Answers come from the graph first (every place cites its source reel); if the graph doesn't cover a question, the bot searches the web and labels the answer as web-sourced.")
 
 st.title("Reel Chat")
 st.write("Ask about the places saved from Instagram reels, or build an itinerary from their recommendations.")

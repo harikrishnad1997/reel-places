@@ -36,6 +36,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+import tracing
+
 INTENTS = {"theme", "creator", "browse", "reels", "count", "itinerary", "unknown"}
 _URL_RE = re.compile(r"https?://[^\s\"')\]]+")
 HELPER = Path(os.environ.get(
@@ -54,6 +56,7 @@ def available():
     return HELPER.is_file() or bool(os.environ.get("OPENAI_API_KEY"))
 
 
+@tracing.track("openai-call", span_type="llm")
 def _chat(system, user, temperature_note=None):
     """One chat completion; None on any failure.
 
@@ -120,6 +123,7 @@ def _chat(system, user, temperature_note=None):
     return None
 
 
+@tracing.track("llm-parse", span_type="general")
 def parse_question(question, vocab):
     """Free-form question -> validated intent dict, or None.
 
@@ -200,6 +204,7 @@ def parse_question(question, vocab):
     return out
 
 
+@tracing.track("web-search", span_type="general")
 def web_answer(question):
     """Web-search fallback (user directive, 2026-11-02): when the graph
     can't answer, search the web and answer from it instead of dead-ending.
@@ -265,6 +270,7 @@ def web_answer(question):
         return None
 
 
+@tracing.track("llm-phrase", span_type="general")
 def phrase_answer(question, grounded_answer):
     """Rephrase a graph-produced answer, or None to keep the original.
 

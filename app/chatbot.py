@@ -20,6 +20,8 @@ import pathlib
 import re
 import sys
 
+import tracing
+
 HERE = pathlib.Path(__file__).resolve().parent
 
 
@@ -566,7 +568,7 @@ def mention_rescue(g, question):
     return None
 
 
-def answer(g, question, backend_note):
+def _answer(g, question, backend_note):
     """LLM-first mode (user directives, 2026-11-02 — the rule-only mode
     gave wrong answers on the website, so there is NO rule-based fallback
     for facts). The LLM parses the question into a validated intent drawn
@@ -625,6 +627,16 @@ def answer(g, question, backend_note):
     # No technical footer on answers (user, 2026-11-02: "I don't care for
     # that") — answers end with the answer itself.
     return result
+
+
+@tracing.track("reel-chat-answer")
+def answer(g, question, backend_note):
+    """Public entry point — traced in Opik when tracing is enabled
+    (see tracing.py); flushes pending traces before returning."""
+    try:
+        return _answer(g, question, backend_note)
+    finally:
+        tracing.flush()
 
 
 def main():
