@@ -51,6 +51,14 @@ def track(name, span_type="general"):
         return lambda fn: fn
 
 
+def status():
+    """(enabled, workspace label, project) for the sidebar — the workspace
+    label shows exactly where traces will land, so a wrong-workspace key is
+    visible instead of silent."""
+    ws = os.environ.get("OPIK_WORKSPACE") or "(key's default — not set)"
+    return enabled(), ws, _PROJECT
+
+
 def flush():
     """Push pending traces (Opik batches in a background thread; flushing
     at the end of an answer keeps the dashboard near-real-time)."""

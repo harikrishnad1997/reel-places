@@ -82,7 +82,8 @@ with st.sidebar:
     st.divider()
     st.caption(f"Graph backend: {backend_note}")
     st.caption("LLM layer: " + ("on — LLM-only mode" if llm.available() else "off — paste an OpenAI key on the page to chat (LLM-only, no fallback)"))
-    st.caption("Tracing (Opik): " + ("on — project " + os.environ.get("OPIK_PROJECT_NAME", "reel-places") if tracing.enabled() else "off — add OPIK_API_KEY to Secrets to enable"))
+    _t_on, _t_ws, _t_proj = tracing.status()
+    st.caption("Tracing (Opik): " + (f"on — workspace {_t_ws} · project {_t_proj}" if _t_on else "off — add OPIK_API_KEY to Secrets to enable"))
     st.caption("Answers come from the graph first (every place cites its source reel); if the graph doesn't cover a question, the bot searches the web and labels the answer as web-sourced.")
 
 st.title("Reel Chat")
