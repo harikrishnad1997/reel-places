@@ -3056,6 +3056,76 @@
    }
   },
   {
+   "id": "reel:DcdhI5UBsTA",
+   "type": "Reel",
+   "properties": {
+    "name": "Cape Flattery, Washington State",
+    "url": "https://www.instagram.com/reel/DcdhI5UBsTA/",
+    "title": "Cape Flattery, Washington State",
+    "creator": "@griffins.onthego",
+    "theme": "Olympic Peninsula viewpoint",
+    "places_count": 1,
+    "recommendation_summary": "Cape Flattery, Washington — the northwesternmost point of the contiguous U.S. on the Olympic Peninsula; unforgettable even in fog.",
+    "posted": "2026-08-25",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "creator:griffins-onthego",
+   "type": "Creator",
+   "properties": {
+    "name": "@griffins.onthego",
+    "handle": "@griffins.onthego",
+    "display_name": "Griffins on the Go"
+   }
+  },
+  {
+   "id": "reel:De78223Su7h",
+   "type": "Reel",
+   "properties": {
+    "name": "Ice Lake Basin Trail — Silverton, Colorado",
+    "url": "https://www.instagram.com/reel/De78223Su7h/",
+    "title": "Ice Lake Basin Trail — Silverton, Colorado",
+    "creator": "@calvin_on_the_internet",
+    "theme": "Colorado alpine lake hike",
+    "places_count": 1,
+    "recommendation_summary": "Ice Lake Basin Trail outside Silverton, Colorado — an alpine basin of vivid blue lakes in the San Juan Mountains.",
+    "posted": "2026-10-25",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "reel:DfQ3oNhSfFM",
+   "type": "Reel",
+   "properties": {
+    "name": "Mesa Verde — cliff dwellings, Cliff Palace & Balcony House",
+    "url": "https://www.instagram.com/reel/DfQ3oNhSfFM/",
+    "title": "Mesa Verde — cliff dwellings, Cliff Palace & Balcony House",
+    "creator": "@throughourlinds",
+    "theme": "Mesa Verde National Park guide",
+    "places_count": 3,
+    "recommendation_summary": "Mesa Verde National Park, Colorado — Ancestral Pueblo cliff dwellings: Cliff Palace and Balcony House by ranger-guided tour (Recreation.gov), Morefield Campground as base, fry bread at Soda Point.",
+    "posted": "2026-11-02",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "creator:throughourlinds",
+   "type": "Creator",
+   "properties": {
+    "name": "@throughourlinds",
+    "handle": "@throughourlinds",
+    "display_name": "Through Our Linds (Lindsay & Ryan)"
+   }
+  },
+  {
+   "id": "theme:mesa-verde-national-park-guide",
+   "type": "Theme",
+   "properties": {
+    "name": "Mesa Verde National Park guide"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -9713,6 +9783,155 @@
     "best_for": "Sunrise",
     "note": "Coordinates verified against OpenStreetMap."
    }
+  },
+  {
+   "id": "place:snow-lake-alpine-lakes-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Snow Lake (Alpine Lakes)",
+    "place_id": "snow-lake-alpine-lakes-wa",
+    "site": "Alpine Lakes Wilderness",
+    "city": "Snoqualmie Pass",
+    "state": "Washington",
+    "state_code": "",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 47.46662,
+    "lng": -121.4546,
+    "google_maps_query": "Snow+Lake+Trail+Snoqualmie+Pass+WA",
+    "best_for": "Hike",
+    "note": "The Alpine Lakes Wilderness Snow Lake near Snoqualmie Pass — a different lake from the Snow Lake in Mount Rainier National Park, which is a separate pin. Pin is OpenStreetMap's named point for the lake."
+   }
+  },
+  {
+   "id": "site:alpine-lakes-wilderness",
+   "type": "Site",
+   "properties": {
+    "name": "Alpine Lakes Wilderness"
+   }
+  },
+  {
+   "id": "place:cape-flattery-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Cape Flattery",
+    "place_id": "cape-flattery-wa",
+    "site": "Cape Flattery (Makah Reservation)",
+    "city": "Neah Bay",
+    "state": "Washington",
+    "state_code": "",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 48.38552,
+    "lng": -124.7258,
+    "google_maps_query": "Cape+Flattery+WA",
+    "best_for": "Viewpoint",
+    "note": "Coordinates verified against OpenStreetMap. Cape Flattery is on the Makah Reservation; a Makah recreation pass is required to visit."
+   }
+  },
+  {
+   "id": "site:cape-flattery-makah-reservation",
+   "type": "Site",
+   "properties": {
+    "name": "Cape Flattery (Makah Reservation)"
+   }
+  },
+  {
+   "id": "place:ice-lake-basin-co",
+   "type": "Place",
+   "properties": {
+    "name": "Ice Lake Basin",
+    "place_id": "ice-lake-basin-co",
+    "site": "Ice Lake Basin (San Juan Mountains)",
+    "city": "Silverton",
+    "state": "Colorado",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 37.81472,
+    "lng": -107.77361,
+    "google_maps_query": "Ice+Lake+Basin+Trail+Silverton+CO",
+    "best_for": "Hike",
+    "note": "Coordinates from published trail references for Ice Lake — the basin is not a mapped OpenStreetMap feature."
+   }
+  },
+  {
+   "id": "site:ice-lake-basin-san-juan-mountains",
+   "type": "Site",
+   "properties": {
+    "name": "Ice Lake Basin (San Juan Mountains)"
+   }
+  },
+  {
+   "id": "place:mesa-verde-national-park-co",
+   "type": "Place",
+   "properties": {
+    "name": "Mesa Verde National Park",
+    "place_id": "mesa-verde-national-park-co",
+    "site": "Mesa Verde National Park",
+    "city": "Mesa Verde",
+    "state": "Colorado",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 37.25378,
+    "lng": -108.4556,
+    "google_maps_query": "Mesa+Verde+National+Park+CO",
+    "best_for": "Cliff dwellings",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:mesa-verde-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "Mesa Verde National Park"
+   }
+  },
+  {
+   "id": "theme:cliff-dwellings",
+   "type": "Theme",
+   "properties": {
+    "name": "Cliff dwellings"
+   }
+  },
+  {
+   "id": "place:cliff-palace-co",
+   "type": "Place",
+   "properties": {
+    "name": "Cliff Palace",
+    "place_id": "cliff-palace-co",
+    "site": "Mesa Verde National Park",
+    "city": "Mesa Verde",
+    "state": "Colorado",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 37.16663,
+    "lng": -108.473,
+    "google_maps_query": "Cliff+Palace+Mesa+Verde+National+Park+CO",
+    "best_for": "Cliff dwellings",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:balcony-house-co",
+   "type": "Place",
+   "properties": {
+    "name": "Balcony House",
+    "place_id": "balcony-house-co",
+    "site": "Mesa Verde National Park",
+    "city": "Mesa Verde",
+    "state": "Colorado",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 37.16417,
+    "lng": -108.46528,
+    "google_maps_query": "Balcony+House+Mesa+Verde+National+Park+CO",
+    "best_for": "Cliff dwellings",
+    "note": "Coordinates from published park references — the dwelling is not a mapped OpenStreetMap feature."
+   }
   }
  ],
  "edges": [
@@ -11783,6 +12002,42 @@
   {
    "from": "reel:De3GgUCgfu4",
    "to": "theme:sunrise",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcdhI5UBsTA",
+   "to": "creator:griffins-onthego",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcdhI5UBsTA",
+   "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:De78223Su7h",
+   "to": "creator:calvin-on-the-internet",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:De78223Su7h",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQ3oNhSfFM",
+   "to": "creator:throughourlinds",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQ3oNhSfFM",
+   "to": "theme:mesa-verde-national-park-guide",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -16981,19 +17236,6 @@
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
-  },
-  {
-   "from": "place:snow-lake-wa",
-   "to": "reel:DaiuZDzPo9J",
-   "type": "RECOMMENDED_BY",
-   "properties": {
-    "rank": 1,
-    "best_for": "Hike",
-    "recommendation": "The Trekking Mama's 'how is this real?' lake: Snow Lake looks like it should require a plane ticket or a major expedition, but the trailhead is only about 60 minutes from Seattle. The water is an unbelievable bright alpine blue that looks photoshopped but isn't. It's popular and you'll share the trail — her tip is to keep going past the first viewpoints down toward the end of the lake, where the crowds thin out. Her go-to when someone visits Washington and needs a massive dose of alpine gorgeousness without planning a whole trip.",
-    "creator": "@the.trekking.mama",
-    "reel_title": "Snow Lake — the 'how is this real?' lake an hour from Seattle",
-    "reel_theme": "Washington alpine lake hike"
-   }
   },
   {
    "from": "place:glacier-bay-national-park-and-preserve-ak",
@@ -23000,6 +23242,205 @@
   {
    "from": "place:cadillac-mountain-me",
    "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:snow-lake-alpine-lakes-wa",
+   "to": "state:united-states-washington",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:snow-lake-alpine-lakes-wa",
+   "to": "site:alpine-lakes-wilderness",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:snow-lake-alpine-lakes-wa",
+   "to": "reel:DaiuZDzPo9J",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "The Trekking Mama's 'how is this real?' lake: Snow Lake looks like it should require a plane ticket or a major expedition, but the trailhead is only about 60 minutes from Seattle. The water is an unbelievable bright alpine blue that looks photoshopped but isn't. It's popular and you'll share the trail — her tip is to keep going past the first viewpoints down toward the end of the lake, where the crowds thin out. Her go-to when someone visits Washington and needs a massive dose of alpine gorgeousness without planning a whole trip.",
+    "creator": "@the.trekking.mama",
+    "reel_title": "Snow Lake — the 'how is this real?' lake an hour from Seattle",
+    "reel_theme": "Washington alpine lake hike"
+   }
+  },
+  {
+   "from": "place:snow-lake-alpine-lakes-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cape-flattery-wa",
+   "to": "state:united-states-washington",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cape-flattery-wa",
+   "to": "site:cape-flattery-makah-reservation",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cape-flattery-wa",
+   "to": "reel:DcdhI5UBsTA",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint",
+    "recommendation": "The Griffins' verdict: even on a foggy day, Cape Flattery was unforgettable — the farthest northwest point of the Olympic Peninsula (and the contiguous U.S.), and one of those places that's worth going out of your way for.",
+    "creator": "@griffins.onthego",
+    "reel_title": "Cape Flattery, Washington State",
+    "reel_theme": "Olympic Peninsula viewpoint"
+   }
+  },
+  {
+   "from": "place:cape-flattery-wa",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cape-flattery-wa",
+   "to": "reel:DfF6uHDSyVj",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint",
+    "recommendation": "Giselle calls it 'the final boss of PNW-maxxing' — the most northwestern place in the lower 48. The hike is 1.5 miles round trip with about 200 ft of gain: forest trails, boardwalks, stairs and multiple ocean viewpoints. A Makah Recreation Permit is required (online or in Neah Bay before the trailhead); open daily from dawn until 30 minutes after sunset, year-round. Her tips: it's a remote drive with spotty cell service, so download directions ahead, bring a rain jacket, and stay on the designated trails and viewing platforms.",
+    "creator": "@giselle.on.trails",
+    "reel_title": "Cape Flattery — the final boss of PNW-maxxing",
+    "reel_theme": "Cape Flattery trail guide"
+   }
+  },
+  {
+   "from": "place:ice-lake-basin-co",
+   "to": "state:united-states-colorado",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ice-lake-basin-co",
+   "to": "site:ice-lake-basin-san-juan-mountains",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ice-lake-basin-co",
+   "to": "reel:De78223Su7h",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "Calvin's pick: the Ice Lake Basin Trail outside Silverton, Colorado — the San Juan Mountains' famous alpine basin of electric-blue lakes (Ice Lake and Island Lake) ringed by 13,000-foot peaks.",
+    "creator": "@calvin_on_the_internet",
+    "reel_title": "Ice Lake Basin Trail — Silverton, Colorado",
+    "reel_theme": "Colorado alpine lake hike"
+   }
+  },
+  {
+   "from": "place:ice-lake-basin-co",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mesa-verde-national-park-co",
+   "to": "state:united-states-colorado",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mesa-verde-national-park-co",
+   "to": "site:mesa-verde-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mesa-verde-national-park-co",
+   "to": "reel:DfQ3oNhSfFM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Cliff dwellings",
+    "recommendation": "Lindsay & Ryan: 'There's nowhere else on earth quite like this national park' — step back in time and explore the incredible cliff dwellings built by the Ancestral Pueblo people. Their plan: stay at Morefield Campground as the home base inside the park, start at the Visitor & Research Center to learn the history and plan the visit, book ranger-guided tours through Recreation.gov to get up close to the dwellings (they loved Cliff Palace and Balcony House), and grab fry bread at Soda Point after a day of exploring.",
+    "creator": "@throughourlinds",
+    "reel_title": "Mesa Verde — cliff dwellings, Cliff Palace & Balcony House",
+    "reel_theme": "Mesa Verde National Park guide"
+   }
+  },
+  {
+   "from": "place:mesa-verde-national-park-co",
+   "to": "theme:cliff-dwellings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cliff-palace-co",
+   "to": "state:united-states-colorado",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cliff-palace-co",
+   "to": "site:mesa-verde-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cliff-palace-co",
+   "to": "reel:DfQ3oNhSfFM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Cliff dwellings",
+    "recommendation": "The largest cliff dwelling in North America — and one of the two Mesa Verde dwellings Lindsay & Ryan loved exploring on a ranger-guided tour (booked through Recreation.gov to get up close).",
+    "creator": "@throughourlinds",
+    "reel_title": "Mesa Verde — cliff dwellings, Cliff Palace & Balcony House",
+    "reel_theme": "Mesa Verde National Park guide"
+   }
+  },
+  {
+   "from": "place:cliff-palace-co",
+   "to": "theme:cliff-dwellings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:balcony-house-co",
+   "to": "state:united-states-colorado",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:balcony-house-co",
+   "to": "site:mesa-verde-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:balcony-house-co",
+   "to": "reel:DfQ3oNhSfFM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Cliff dwellings",
+    "recommendation": "Lindsay & Ryan's other favorite Mesa Verde dwelling tour (ranger-guided, booked through Recreation.gov) — Balcony House, the park's most adventurous dwelling visit, reached by ladders and a tunnel crawl.",
+    "creator": "@throughourlinds",
+    "reel_title": "Mesa Verde — cliff dwellings, Cliff Palace & Balcony House",
+    "reel_theme": "Mesa Verde National Park guide"
+   }
+  },
+  {
+   "from": "place:balcony-house-co",
+   "to": "theme:cliff-dwellings",
    "type": "BEST_FOR",
    "properties": {}
   }

@@ -2446,11 +2446,10 @@
    "theme": "Washington alpine lake hike",
    "places_count": 1,
    "place_ids": [
-    "snow-lake-wa"
+    "snow-lake-alpine-lakes-wa"
    ],
    "posted": "2026-07-08",
    "added": "2026-11-03",
-   "duplicate_place": true,
    "recommendation_summary": "Snow Lake near Snoqualmie Pass, Washington \u2014 already on the map; added as another source (bright-blue alpine lake ~60 minutes from Seattle; go past the first viewpoints for quiet)."
   },
   {
@@ -2555,6 +2554,50 @@
    "posted": "2026-10-23",
    "added": "2026-11-03",
    "recommendation_summary": "Acadia National Park, Maine \u2014 sunrise at Cadillac Mountain (vehicle reservations in season) and the Beehive Trail, the creators' favorite."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcdhI5UBsTA/",
+   "title": "Cape Flattery, Washington State",
+   "creator": "@griffins.onthego",
+   "creator_name": "Griffins on the Go",
+   "theme": "Olympic Peninsula viewpoint",
+   "places_count": 1,
+   "place_ids": [
+    "cape-flattery-wa"
+   ],
+   "posted": "2026-08-25",
+   "added": "2026-11-03",
+   "recommendation_summary": "Cape Flattery, Washington \u2014 the northwesternmost point of the contiguous U.S. on the Olympic Peninsula; unforgettable even in fog."
+  },
+  {
+   "url": "https://www.instagram.com/reel/De78223Su7h/",
+   "title": "Ice Lake Basin Trail \u2014 Silverton, Colorado",
+   "creator": "@calvin_on_the_internet",
+   "creator_name": "Calvin on the Internet",
+   "theme": "Colorado alpine lake hike",
+   "places_count": 1,
+   "place_ids": [
+    "ice-lake-basin-co"
+   ],
+   "posted": "2026-10-25",
+   "added": "2026-11-03",
+   "recommendation_summary": "Ice Lake Basin Trail outside Silverton, Colorado \u2014 an alpine basin of vivid blue lakes in the San Juan Mountains."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfQ3oNhSfFM/",
+   "title": "Mesa Verde \u2014 cliff dwellings, Cliff Palace & Balcony House",
+   "creator": "@throughourlinds",
+   "creator_name": "Through Our Linds (Lindsay & Ryan)",
+   "theme": "Mesa Verde National Park guide",
+   "places_count": 3,
+   "place_ids": [
+    "mesa-verde-national-park-co",
+    "cliff-palace-co",
+    "balcony-house-co"
+   ],
+   "posted": "2026-11-02",
+   "added": "2026-11-03",
+   "recommendation_summary": "Mesa Verde National Park, Colorado \u2014 Ancestral Pueblo cliff dwellings: Cliff Palace and Balcony House by ranger-guided tour (Recreation.gov), Morefield Campground as base, fry bread at Soda Point."
   }
  ]
 }
