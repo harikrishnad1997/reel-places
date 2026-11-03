@@ -5,10 +5,12 @@ Run from this folder:
     .venv/bin/streamlit run streamlit_app.py
 
 It reuses chatbot.py's engine (Kuzu graph DB, graph.json fallback) and the
-optional OpenAI LLM layer in llm.py. The OpenAI key is never read here: the
-LLM layer calls Muse's custom.openai connector helper, which injects the
-credential by surrogate exchange at request time. Nothing secret is in this
-file, the browser, or the repo.
+OpenAI LLM layer in llm.py (LLM-only — no rule-based fallback). Where the
+key comes from depends on the deployment: locally, Muse's custom.openai
+connector helper injects it by surrogate exchange; on Streamlit Cloud it
+can be set as an app Secret, or the user can paste it into the page's key
+field, where it is held only in that browser session's memory and sent
+only to OpenAI. The key is never stored in this file or the repo.
 """
 import os
 import sys
@@ -61,19 +63,28 @@ with st.sidebar:
         st.write(f"**{name}** · {count}")
     st.divider()
     st.caption(f"Graph backend: {backend_note}")
-    st.caption("LLM layer: " + ("on (OpenAI via secure connector)" if llm.available() else "off — rule-based answers only"))
+    st.caption("LLM layer: " + ("on — LLM-only mode" if llm.available() else "off — paste an OpenAI key on the page to chat (LLM-only, no fallback)"))
     st.caption("Answers come only from the graph. Every place cites its source reel.")
 
 st.title("Reel Chat")
 st.write("Ask about the places saved from Instagram reels, or build an itinerary from their recommendations.")
 
 if not llm.available():
-    st.error(
-        "This chatbot runs in **LLM-only mode** (no rule-based fallback), and no AI "
-        "connection is configured for this deployment yet. To switch it on, add "
-        "`OPENAI_API_KEY` under the app's Settings → Secrets in Streamlit Cloud, "
-        "then reboot the app."
+    st.info(
+        "Reel Chat runs in **LLM-only mode** — it needs an OpenAI API key to answer. "
+        "Paste yours below to start chatting. The key stays in this browser session "
+        "only: it is never saved, never written to the repo, and is sent only to OpenAI."
     )
+    entered_key = st.text_input(
+        "OpenAI API key",
+        type="password",
+        key="openai_key_input",
+        placeholder="sk-…",
+        help="Held in this session's memory only. Alternatively, set OPENAI_API_KEY once under the app's Settings → Secrets in Streamlit Cloud.",
+    )
+    if entered_key and entered_key.strip():
+        os.environ["OPENAI_API_KEY"] = entered_key.strip()
+        st.rerun()
     st.stop()
 
 EXAMPLES = [
