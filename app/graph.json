@@ -3258,6 +3258,45 @@
    }
   },
   {
+   "id": "reel:DfS6lozBjPr",
+   "type": "Reel",
+   "properties": {
+    "name": "Top 5 Unique National Park Waterfalls",
+    "url": "https://www.instagram.com/reel/DfS6lozBjPr/",
+    "title": "Top 5 Unique National Park Waterfalls",
+    "creator": "@amorywild",
+    "theme": "Unique national park waterfalls countdown",
+    "places_count": 3,
+    "recommendation_summary": "Amory Wild's Top 5 Unique National Park Waterfalls: #5 Wolf Creek Falls (New River Gorge), #4 Hidden Falls (Glacier), #3 Zapata Falls (near Great Sand Dunes), #2 Cataract Falls (Kenai Fjords), #1 Brooks Falls (Katmai).",
+    "posted": "2026-11-03",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "reel:DfSQ-1wGjff",
+   "type": "Reel",
+   "properties": {
+    "name": "Mount Si — Washington's most popular hike",
+    "url": "https://www.instagram.com/reel/DfSQ-1wGjff/",
+    "title": "Mount Si — Washington's most popular hike",
+    "creator": "@outdoorsapp",
+    "theme": "Washington day hike",
+    "places_count": 1,
+    "recommendation_summary": "Mount Si above North Bend, Washington — the state's most popular hike (8 mi RT, 3,150 ft), a Rainier training standard; Discover Pass required and the lot fills early.",
+    "posted": "2026-11-03",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "creator:outdoorsapp",
+   "type": "Creator",
+   "properties": {
+    "name": "@outdoorsapp",
+    "handle": "@outdoorsapp",
+    "display_name": "Outdoors App"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10188,6 +10227,112 @@
    "properties": {
     "name": "Porcupine Mountains Wilderness State Park"
    }
+  },
+  {
+   "id": "place:hidden-falls-glacier-mt",
+   "type": "Place",
+   "properties": {
+    "name": "Hidden Falls (Glacier)",
+    "place_id": "hidden-falls-glacier-mt",
+    "site": "Glacier National Park",
+    "city": "Logan Pass",
+    "state": "Montana",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 48.76633,
+    "lng": -113.69502,
+    "google_maps_query": "Hidden+Falls+Glacier+National+Park+MT",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "place:zapata-falls-co",
+   "type": "Place",
+   "properties": {
+    "name": "Zapata Falls",
+    "place_id": "zapata-falls-co",
+    "site": "Zapata Falls (near Great Sand Dunes)",
+    "city": "Mosca",
+    "state": "Colorado",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 37.61903,
+    "lng": -105.55316,
+    "google_maps_query": "Zapata+Falls+Colorado",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:zapata-falls-near-great-sand-dunes",
+   "type": "Site",
+   "properties": {
+    "name": "Zapata Falls (near Great Sand Dunes)"
+   }
+  },
+  {
+   "id": "place:brooks-falls-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Brooks Falls",
+    "place_id": "brooks-falls-ak",
+    "site": "Katmai National Park",
+    "city": "Brooks Camp",
+    "state": "Alaska",
+    "state_code": "",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 58.55498,
+    "lng": -155.79159,
+    "google_maps_query": "Brooks+Falls+Katmai+Alaska",
+    "best_for": "Waterfall",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-alaska",
+   "type": "State",
+   "properties": {
+    "name": "Alaska",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:katmai-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "Katmai National Park"
+   }
+  },
+  {
+   "id": "place:mount-si-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Mount Si",
+    "place_id": "mount-si-wa",
+    "site": "Mount Si Natural Resources Conservation Area",
+    "city": "North Bend",
+    "state": "Washington",
+    "state_code": "",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 47.49142,
+    "lng": -121.78047,
+    "google_maps_query": "Mount+Si+Trail+North+Bend+WA",
+    "best_for": "Hike",
+    "note": "Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:mount-si-natural-resources-conservation-area",
+   "type": "Site",
+   "properties": {
+    "name": "Mount Si Natural Resources Conservation Area"
+   }
   }
  ],
  "edges": [
@@ -12354,6 +12499,30 @@
   {
    "from": "reel:DfSTi-OxFFN",
    "to": "theme:monument-valley-scenic-drive",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfS6lozBjPr",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfS6lozBjPr",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfSQ-1wGjff",
+   "to": "creator:outdoorsapp",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfSQ-1wGjff",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -23936,6 +24105,142 @@
   {
    "from": "place:lake-of-the-clouds-mi",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hidden-falls-glacier-mt",
+   "to": "state:united-states-montana",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:hidden-falls-glacier-mt",
+   "to": "site:glacier-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:hidden-falls-glacier-mt",
+   "to": "reel:DfS6lozBjPr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Waterfall",
+    "recommendation": "Amory's #4 unique national park waterfall: Hidden Falls in Glacier — a powerful waterfall plunging through a narrow, mossy rock gorge, with snow-capped peaks and evergreens behind it.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 Unique National Park Waterfalls",
+    "reel_theme": "Unique national park waterfalls countdown"
+   }
+  },
+  {
+   "from": "place:hidden-falls-glacier-mt",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:zapata-falls-co",
+   "to": "state:united-states-colorado",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:zapata-falls-co",
+   "to": "site:zapata-falls-near-great-sand-dunes",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:zapata-falls-co",
+   "to": "reel:DfS6lozBjPr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Waterfall",
+    "recommendation": "Amory's #3 unique national park waterfall: Zapata Falls near Great Sand Dunes — a dramatic falls hidden inside a dark rock cavern at the foot of the Sangre de Cristo Mountains, shown as a frozen icefall in winter.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 Unique National Park Waterfalls",
+    "reel_theme": "Unique national park waterfalls countdown"
+   }
+  },
+  {
+   "from": "place:zapata-falls-co",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:brooks-falls-ak",
+   "to": "state:united-states-alaska",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-alaska",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-alaska",
+   "to": "region:alaska",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:brooks-falls-ak",
+   "to": "site:katmai-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:brooks-falls-ak",
+   "to": "reel:DfS6lozBjPr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Waterfall",
+    "recommendation": "Amory's #1 unique national park waterfall: Brooks Falls in Katmai — the famous falls where brown bears stand in the river catching leaping salmon.",
+    "creator": "@amorywild",
+    "reel_title": "Top 5 Unique National Park Waterfalls",
+    "reel_theme": "Unique national park waterfalls countdown"
+   }
+  },
+  {
+   "from": "place:brooks-falls-ak",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-si-wa",
+   "to": "state:united-states-washington",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-si-wa",
+   "to": "site:mount-si-natural-resources-conservation-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-si-wa",
+   "to": "reel:DfSQ-1wGjff",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "WTA calls Mount Si the most popular hike in Washington — upwards of 100,000 hikers a year. The switchbacks start right at the trailhead; a mile and a half up you pass through Snag Flat, old-growth trees that survived fire and logging, then past a talus slope to the base of the Haystack, the true summit. 8.0 miles round trip with 3,150 ft of gain. Climbers training for Rainier haul heavy packs up here — the rule of thumb is that if you can make the top in under two hours, you're ready. A Discover Pass is required to park, and the lot fills early.",
+    "creator": "@outdoorsapp",
+    "reel_title": "Mount Si — Washington's most popular hike",
+    "reel_theme": "Washington day hike"
+   }
+  },
+  {
+   "from": "place:mount-si-wa",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
