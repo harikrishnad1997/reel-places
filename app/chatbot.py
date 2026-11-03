@@ -583,8 +583,7 @@ def answer(g, question, backend_note):
         llm = None
     if llm is None:
         return ("This chatbot runs in LLM-only mode, but the AI connection "
-                "isn't available right now, so I can't answer that."
-                f"\n\n[answered from the {backend_note} - LLM unavailable, no fallback]")
+                "isn't available right now, so I can't answer that.")
     def web_fallback():
         """User directive (2026-11-02): no dead ends — when the graph
         can't answer, search the web and answer from it, clearly labelled
@@ -593,8 +592,7 @@ def answer(g, question, backend_note):
         if not web:
             return None
         return ("🌐 **From the web** — the Reel Places graph doesn't cover "
-                "this yet, so I searched the web:\n\n" + web +
-                f"\n\n[answered from the web - fallback, not from the {backend_note}]")
+                "this yet, so I searched the web:\n\n" + web)
 
     canon = canonical_question(llm.parse_question(question, vocab(g)))
     rescued = False
@@ -606,33 +604,27 @@ def answer(g, question, backend_note):
         if err:
             return ("The AI call itself failed, so I couldn't parse that "
                     f"question. Reason: {err}. Check the API key on the page "
-                    "and try again."
-                    f"\n\n[answered from the {backend_note} - LLM mode, AI call failed: {err}]")
+                    "and try again.")
         web = web_fallback()
         if web:
             return web
-        werr = getattr(llm, "LAST_ERROR", None)
         return ("I couldn't understand that question well enough to query "
                 "the graph, and the web fallback didn't return an answer "
                 "either. Try naming a theme (sunrise, waterfall, hike), "
                 "a place or park, a creator like @amorywild, or ask for an "
-                "itinerary with a number of days."
-                f"\n\n[answered from the {backend_note} - LLM mode, no matching intent"
-                + (f"; web fallback failed: {werr}" if werr else "") + "]")
+                "itinerary with a number of days.")
     result = route_rules(g, canon)
     if result.startswith("I can only answer") or result.startswith("I don't have "):
         web = web_fallback()
         if web:
             return web
-    llm_note = " - LLM mode: parsed by the LLM, facts from the graph"
-    if rescued:
-        llm_note = " - LLM mode: scope matched verbatim from the graph vocabulary, facts from the graph"
     if not result.startswith("I can only answer"):
         phrased = llm.phrase_answer(question, result)
         if phrased:
             result = phrased
-            llm_note += ", phrased by the LLM with links verified unchanged"
-    return result + f"\n\n[answered from the {backend_note}{llm_note}]"
+    # No technical footer on answers (user, 2026-11-02: "I don't care for
+    # that") — answers end with the answer itself.
+    return result
 
 
 def main():
