@@ -10,9 +10,9 @@ Design rules (non-negotiable):
     2. phrase_answer(): rephrase a finished, graph-produced answer for
        readability. The result is rejected unless it preserves every URL
        from the grounded answer and introduces no new URLs.
-- Helper missing, helper erroring, or any validation failure -> these
-  functions return None and chatbot.py runs its rule-based pipeline
-  exactly as if this module did not exist.
+- Any failure here -> these functions return None and set LAST_ERROR;
+  chatbot.py runs in LLM-only mode (user directive, 2026-11-02), so it
+  then explains the failure instead of falling back to keyword rules.
 
 How the LLM is reached (no raw key anywhere):
 - All calls go through Muse's secure connector helper:
@@ -42,6 +42,11 @@ HELPER = Path(os.environ.get(
     "REEL_CHAT_OPENAI_HELPER",
     Path.home() / "workspace/custom-connectors/custom.openai/bin/openai_chat.py"))
 
+# Short, key-free description of the most recent _chat failure (e.g.
+# "OpenAI HTTP 401"), so the UI can tell the user WHY the AI call failed
+# instead of a bare "couldn't understand". Never holds any credential.
+LAST_ERROR = None
+
 
 def available():
     if os.environ.get("REEL_CHAT_LLM", "").lower() in ("off", "0", "no"):
@@ -58,7 +63,9 @@ def _chat(system, user, temperature_note=None):
     — this is the hosted path (e.g. Streamlit Cloud Secrets inject it as an
     env var). The key is read at call time only, never stored or logged.
     """
+    global LAST_ERROR
     if not available():
+        LAST_ERROR = "no AI connection configured"
         return None
     model = os.environ.get("REEL_CHAT_MODEL", "gpt-4o-mini")
     if HELPER.is_file():
@@ -67,15 +74,20 @@ def _chat(system, user, temperature_note=None):
                 [sys.executable, str(HELPER), "--system", system,
                  "--user", user, "--model", model],
                 capture_output=True, text=True, timeout=60)
-        except Exception:
+        except Exception as exc:
             proc = None
+            LAST_ERROR = f"AI helper error ({type(exc).__name__})"
         if proc is not None and proc.returncode == 0:
             out = (proc.stdout or "").strip()
             if out:
+                LAST_ERROR = None
                 return out
+        if proc is not None:
+            LAST_ERROR = "AI helper returned an error"
     key = os.environ.get("OPENAI_API_KEY")
     if key:
         try:
+            import urllib.error
             import urllib.request
 
             class _NoRedirect(urllib.request.HTTPRedirectHandler):
@@ -94,8 +106,16 @@ def _chat(system, user, temperature_note=None):
             with urllib.request.build_opener(_NoRedirect()).open(req, timeout=60) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
             out = (data["choices"][0]["message"]["content"] or "").strip()
-            return out or None
-        except Exception:
+            if out:
+                LAST_ERROR = None
+                return out
+            LAST_ERROR = "OpenAI returned an empty reply"
+            return None
+        except urllib.error.HTTPError as exc:
+            LAST_ERROR = f"OpenAI HTTP {exc.code}"
+            return None
+        except Exception as exc:
+            LAST_ERROR = f"OpenAI call failed ({type(exc).__name__})"
             return None
     return None
 
@@ -120,25 +140,40 @@ def parse_question(question, vocab):
     user = f"Vocab: {json.dumps(vocab)}\n\nQuestion: {question}"
     raw = _chat(system, user)
     if not raw:
+        raw = _chat(system, user)  # one retry for a transient failure
+    if not raw:
         return None
     raw = re.sub(r"^```(?:json)?|```$", "", raw.strip(), flags=re.M).strip()
     try:
         parsed = json.loads(raw)
     except Exception:
-        return None
+        m = re.search(r"\{.*\}", raw, flags=re.S)  # salvage a JSON object in prose
+        try:
+            parsed = json.loads(m.group(0)) if m else None
+        except Exception:
+            parsed = None
     if not isinstance(parsed, dict) or parsed.get("intent") not in INTENTS:
         return None
+
+    def match(value, options):
+        """Exact vocab match, with a case/whitespace-insensitive rescue —
+        the model sometimes returns the right value in the wrong case."""
+        if value in options:
+            return value
+        if isinstance(value, str):
+            low = value.strip().lower()
+            for opt in options:
+                if opt.lower() == low:
+                    return opt
+        return None
+
     geo_vocab = vocab.get("states", []) + vocab.get("regions", []) + vocab.get("countries", [])
     out = {"intent": parsed["intent"], "theme": None, "geo": None,
            "site": None, "creator": None, "days": None}
-    if parsed.get("theme") in vocab.get("themes", []):
-        out["theme"] = parsed["theme"]
-    if parsed.get("geo") in geo_vocab:
-        out["geo"] = parsed["geo"]
-    if parsed.get("site") in vocab.get("sites", []):
-        out["site"] = parsed["site"]
-    if parsed.get("creator") in vocab.get("creators", []):
-        out["creator"] = parsed["creator"]
+    out["theme"] = match(parsed.get("theme"), vocab.get("themes", []))
+    out["geo"] = match(parsed.get("geo"), geo_vocab)
+    out["site"] = match(parsed.get("site"), vocab.get("sites", []))
+    out["creator"] = match(parsed.get("creator"), vocab.get("creators", []))
     days = parsed.get("days")
     if isinstance(days, int) and 1 <= days <= 14:
         out["days"] = days

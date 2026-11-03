@@ -534,6 +534,12 @@ def answer(g, question, backend_note):
                 f"\n\n[answered from the {backend_note} - LLM unavailable, no fallback]")
     canon = canonical_question(llm.parse_question(question, vocab(g)))
     if not canon:
+        err = getattr(llm, "LAST_ERROR", None)
+        if err:
+            return ("The AI call itself failed, so I couldn't parse that "
+                    f"question. Reason: {err}. Check the API key on the page "
+                    "and try again."
+                    f"\n\n[answered from the {backend_note} - LLM mode, AI call failed: {err}]")
         return ("I couldn't understand that question well enough to query "
                 "the graph. Try naming a theme (sunrise, waterfall, hike), "
                 "a place or park, a creator like @amorywild, or ask for an "
