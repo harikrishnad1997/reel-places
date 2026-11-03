@@ -2293,6 +2293,83 @@
    }
   },
   {
+   "id": "reel:DfK2OLUiTVM",
+   "type": "Reel",
+   "properties": {
+    "name": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "url": "https://www.instagram.com/p/DfK2OLUiTVM/",
+    "title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "creator": "@adventurefamilyvlog",
+    "theme": "Dark sky destinations",
+    "places_count": 15,
+    "recommendation_summary": "Top 10 ranked dark-sky destinations (Bryce Canyon, Death Valley, Big Bend, Arches, Cherry Springs, Great Basin, Natural Bridges, Grand Canyon, Great Sand Dunes, Joshua Tree) plus 5 bonus picks (Bisti Badlands, Factory Butte/Hanksville, Zion, Canyonlands, Capitol Reef) — all for stargazing and Milky Way photography. 8 attached to existing park entries as an extra source; 7 created as new park-level places.",
+    "posted": "2026-10-31",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "theme:dark-sky-destinations",
+   "type": "Theme",
+   "properties": {
+    "name": "Dark sky destinations"
+   }
+  },
+  {
+   "id": "reel:DfQEa3Ph55r",
+   "type": "Reel",
+   "properties": {
+    "name": "Kayenta Falls — A Vertical Flash Flood",
+    "url": "https://www.instagram.com/reel/DfQEa3Ph55r/",
+    "title": "Kayenta Falls — A Vertical Flash Flood",
+    "creator": "@mikeyloveridge",
+    "theme": "Ephemeral desert waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "Kayenta Falls in Hell Hole Canyon near Ivins, Utah — three ephemeral waterfalls that pour over 1,000-foot cliffs only after heavy rain; filmed dry on Nov 1 and flowing on Nov 2, 2026.",
+    "posted": "2026-11-02",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:mikeyloveridge",
+   "type": "Creator",
+   "properties": {
+    "name": "@mikeyloveridge",
+    "handle": "@mikeyloveridge",
+    "display_name": "Mikey Loveridge"
+   }
+  },
+  {
+   "id": "reel:DbFJQBPBPUi",
+   "type": "Reel",
+   "properties": {
+    "name": "Have you done this trail? — Zion Canyon Overlook",
+    "url": "https://www.instagram.com/reel/DbFJQBPBPUi/",
+    "title": "Have you done this trail? — Zion Canyon Overlook",
+    "creator": "@danielleoutdoors_",
+    "theme": "Canyon Overlook Trail recommendation",
+    "places_count": 1,
+    "recommendation_summary": "Canyon Overlook Trail in Zion — already on the map from @amorywild, @adventurefamilyvlog and @beesforbeau; added as another source recommending it as a 1-mile, low-effort, high-reward hike.",
+    "posted": "2026-07-21",
+    "added": "2026-11-02"
+   }
+  },
+  {
+   "id": "creator:danielleoutdoors",
+   "type": "Creator",
+   "properties": {
+    "name": "@danielleoutdoors_",
+    "handle": "@danielleoutdoors_",
+    "display_name": "Danielle"
+   }
+  },
+  {
+   "id": "theme:canyon-overlook-trail-recommendation",
+   "type": "Theme",
+   "properties": {
+    "name": "Canyon Overlook Trail recommendation"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -2842,6 +2919,13 @@
    "type": "Site",
    "properties": {
     "name": "Capitol Reef National Park"
+   }
+  },
+  {
+   "id": "theme:stargazing",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing"
    }
   },
   {
@@ -6267,6 +6351,243 @@
     "best_for": "Hike",
     "note": "Pin is the Eagle Trail trailhead just west of the Eagle Tower parking area (Trailforks trailhead coordinates); DNR lists access at Eagle Terrace, Eagle Panorama or the Tower. DNR rates this 2.0-mile loop 'more difficult', with steep, rocky sections under 150-foot cliffs along Eagle Harbor."
    }
+  },
+  {
+   "id": "place:arches-national-park-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Arches National Park",
+    "place_id": "arches-national-park-ut",
+    "site": "Arches National Park",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.72653,
+    "lng": -109.56305,
+    "google_maps_query": "Arches+National+Park+UT",
+    "best_for": "Stargazing",
+    "note": "Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-utah",
+   "type": "State",
+   "properties": {
+    "name": "Utah",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "place:cherry-springs-state-park-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Cherry Springs State Park",
+    "place_id": "cherry-springs-state-park-pa",
+    "site": "Cherry Springs State Park",
+    "city": "Coudersport",
+    "state": "Pennsylvania",
+    "state_code": "",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.66276,
+    "lng": -77.8222,
+    "google_maps_query": "Cherry+Springs+State+Park+PA",
+    "best_for": "Stargazing",
+    "note": "Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-pennsylvania",
+   "type": "State",
+   "properties": {
+    "name": "Pennsylvania",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:cherry-springs-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Cherry Springs State Park"
+   }
+  },
+  {
+   "id": "place:great-basin-national-park-nv",
+   "type": "Place",
+   "properties": {
+    "name": "Great Basin National Park",
+    "place_id": "great-basin-national-park-nv",
+    "site": "Great Basin National Park",
+    "city": "Baker",
+    "state": "Nevada",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.94416,
+    "lng": -114.23495,
+    "google_maps_query": "Great+Basin+National+Park+NV",
+    "best_for": "Stargazing",
+    "note": "Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-nevada",
+   "type": "State",
+   "properties": {
+    "name": "Nevada",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:great-basin-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "Great Basin National Park"
+   }
+  },
+  {
+   "id": "place:natural-bridges-national-monument-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Natural Bridges National Monument",
+    "place_id": "natural-bridges-national-monument-ut",
+    "site": "Natural Bridges National Monument",
+    "city": "Blanding",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.6026,
+    "lng": -110.01118,
+    "google_maps_query": "Natural+Bridges+National+Monument+UT",
+    "best_for": "Stargazing",
+    "note": "Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:natural-bridges-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Natural Bridges National Monument"
+   }
+  },
+  {
+   "id": "place:great-sand-dunes-national-park-co",
+   "type": "Place",
+   "properties": {
+    "name": "Great Sand Dunes National Park",
+    "place_id": "great-sand-dunes-national-park-co",
+    "site": "Great Sand Dunes National Park",
+    "city": "Mosca",
+    "state": "Colorado",
+    "state_code": "",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 37.79119,
+    "lng": -105.61227,
+    "google_maps_query": "Great+Sand+Dunes+National+Park+CO",
+    "best_for": "Stargazing",
+    "note": "Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:great-sand-dunes-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "Great Sand Dunes National Park"
+   }
+  },
+  {
+   "id": "place:bisti-badlands-nm",
+   "type": "Place",
+   "properties": {
+    "name": "Bisti Badlands",
+    "place_id": "bisti-badlands-nm",
+    "site": "Bisti/De-Na-Zin Wilderness",
+    "city": "Farmington",
+    "state": "New Mexico",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.30191,
+    "lng": -108.12185,
+    "google_maps_query": "Bisti+De-Na-Zin+Wilderness+NM",
+    "best_for": "Stargazing",
+    "note": "Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "state:united-states-new-mexico",
+   "type": "State",
+   "properties": {
+    "name": "New Mexico",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:bisti-de-na-zin-wilderness",
+   "type": "Site",
+   "properties": {
+    "name": "Bisti/De-Na-Zin Wilderness"
+   }
+  },
+  {
+   "id": "place:factory-butte-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Factory Butte",
+    "place_id": "factory-butte-ut",
+    "site": "Factory Butte (Hanksville)",
+    "city": "Hanksville",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.43787,
+    "lng": -110.91437,
+    "google_maps_query": "Factory+Butte+UT",
+    "best_for": "Stargazing",
+    "note": "Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap."
+   }
+  },
+  {
+   "id": "site:factory-butte-hanksville",
+   "type": "Site",
+   "properties": {
+    "name": "Factory Butte (Hanksville)"
+   }
+  },
+  {
+   "id": "place:kayenta-falls-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Kayenta Falls",
+    "place_id": "kayenta-falls-ut",
+    "site": "Hell Hole Canyon",
+    "city": "Ivins",
+    "state": "Utah",
+    "state_code": "",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 37.18654,
+    "lng": -113.70047,
+    "google_maps_query": "Kayenta+Falls+Ivins+UT",
+    "best_for": "Waterfall",
+    "note": "Pin is approximate: the ephemeral falls are not a mapped feature, so it sits on Kayenta Wash at the mouth of Hell Hole Canyon, just northwest of the Kayenta community in Ivins (OpenStreetMap). The falls flow only after heavy rain."
+   }
+  },
+  {
+   "id": "site:hell-hole-canyon",
+   "type": "Site",
+   "properties": {
+    "name": "Hell Hole Canyon"
+   }
   }
  ],
  "edges": [
@@ -7993,6 +8314,42 @@
    "properties": {}
   },
   {
+   "from": "reel:DfK2OLUiTVM",
+   "to": "creator:adventurefamilyvlog",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfK2OLUiTVM",
+   "to": "theme:dark-sky-destinations",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQEa3Ph55r",
+   "to": "creator:mikeyloveridge",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfQEa3Ph55r",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DbFJQBPBPUi",
+   "to": "creator:danielleoutdoors",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DbFJQBPBPUi",
+   "to": "theme:canyon-overlook-trail-recommendation",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -8189,6 +8546,19 @@
     "creator": "@amorywild",
     "reel_title": "Top 5 Easy National Park Hikes",
     "reel_theme": "Top 5 Easy National Park Hikes"
+   }
+  },
+  {
+   "from": "place:canyon-overlook-zion-ut",
+   "to": "reel:DbFJQBPBPUi",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "Danielle's pick for the one hike everyone visiting Zion should try at least once: the Canyon Overlook Trail — only 1 mile round trip, low effort for a high reward, passing caves and a boardwalk tucked under a red-rock overhang on the way to the big canyon view.",
+    "creator": "@danielleoutdoors_",
+    "reel_title": "Have you done this trail? — Zion Canyon Overlook",
+    "reel_theme": "Canyon Overlook Trail recommendation"
    }
   },
   {
@@ -8806,6 +9176,25 @@
    "properties": {}
   },
   {
+   "from": "place:capitol-reef-national-park-ut",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing",
+    "recommendation": "One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:capitol-reef-national-park-ut",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:death-valley-national-park-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -8896,6 +9285,25 @@
   {
    "from": "place:death-valley-national-park-ca",
    "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:death-valley-national-park-ca",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #2 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:death-valley-national-park-ca",
+   "to": "theme:stargazing",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -9174,6 +9582,25 @@
    "properties": {}
   },
   {
+   "from": "place:big-bend-national-park-tx",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #3 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:big-bend-national-park-tx",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:bryce-canyon-national-park-ut",
    "to": "state:united-states-ut",
    "type": "LOCATED_IN",
@@ -9245,6 +9672,25 @@
   {
    "from": "place:bryce-canyon-national-park-ut",
    "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #1 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "theme:stargazing",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -11402,6 +11848,25 @@
   {
    "from": "place:joshua-tree-national-park-ca",
    "to": "theme:winter-visit",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:joshua-tree-national-park-ca",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 10,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #10 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:joshua-tree-national-park-ca",
+   "to": "theme:stargazing",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -14055,6 +14520,25 @@
    "properties": {}
   },
   {
+   "from": "place:canyonlands-national-park-ut",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing",
+    "recommendation": "One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:canyonlands-national-park-ut",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:pinnacles-national-park-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -14843,6 +15327,25 @@
    "properties": {}
   },
   {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #8 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:subway-trail-ut",
    "to": "state:united-states-ut",
    "type": "LOCATED_IN",
@@ -15100,6 +15603,25 @@
   {
    "from": "place:zion-national-park-ut",
    "to": "theme:top-national-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:zion-national-park-ut",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing",
+    "recommendation": "One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:zion-national-park-ut",
+   "to": "theme:stargazing",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -15408,6 +15930,302 @@
   {
    "from": "place:eagle-trail-peninsula-state-park-wi",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-utah",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-utah",
+   "to": "region:southwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "site:arches-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #4 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography. The post notes all five of Utah's Mighty 5 national parks are designated Dark Sky Parks.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cherry-springs-state-park-pa",
+   "to": "state:united-states-pennsylvania",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-pennsylvania",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-pennsylvania",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:cherry-springs-state-park-pa",
+   "to": "site:cherry-springs-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cherry-springs-state-park-pa",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #5 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:cherry-springs-state-park-pa",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:great-basin-national-park-nv",
+   "to": "state:united-states-nevada",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-nevada",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-nevada",
+   "to": "region:southwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:great-basin-national-park-nv",
+   "to": "site:great-basin-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:great-basin-national-park-nv",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #6 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:great-basin-national-park-nv",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:natural-bridges-national-monument-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:natural-bridges-national-monument-ut",
+   "to": "site:natural-bridges-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:natural-bridges-national-monument-ut",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #7 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:natural-bridges-national-monument-ut",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:great-sand-dunes-national-park-co",
+   "to": "state:united-states-colorado",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:great-sand-dunes-national-park-co",
+   "to": "site:great-sand-dunes-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:great-sand-dunes-national-park-co",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 9,
+    "best_for": "Stargazing",
+    "recommendation": "Ranked #9 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:great-sand-dunes-national-park-co",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bisti-badlands-nm",
+   "to": "state:united-states-new-mexico",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-new-mexico",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-new-mexico",
+   "to": "region:southwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:bisti-badlands-nm",
+   "to": "site:bisti-de-na-zin-wilderness",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bisti-badlands-nm",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing",
+    "recommendation": "One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:bisti-badlands-nm",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:factory-butte-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:factory-butte-ut",
+   "to": "site:factory-butte-hanksville",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:factory-butte-ut",
+   "to": "reel:DfK2OLUiTVM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing",
+    "recommendation": "One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
+    "reel_theme": "Dark sky destinations"
+   }
+  },
+  {
+   "from": "place:factory-butte-ut",
+   "to": "theme:stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kayenta-falls-ut",
+   "to": "state:united-states-utah",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:kayenta-falls-ut",
+   "to": "site:hell-hole-canyon",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kayenta-falls-ut",
+   "to": "reel:DfQEa3Ph55r",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Waterfall",
+    "recommendation": "One of Southern Utah's rarest sights, per Mikey Loveridge: the 1,000-foot red-rock cliffs of Hell Hole Canyon near Ivins run bone dry most days, but after heavy rain three ephemeral waterfalls — Kayenta Falls — pour straight down the cliff faces in a vertical flash flood. He photographed the canyon completely dry on Nov 1, 2026, and in full flow the next day after the rain kept coming.",
+    "creator": "@mikeyloveridge",
+    "reel_title": "Kayenta Falls — A Vertical Flash Flood",
+    "reel_theme": "Ephemeral desert waterfalls"
+   }
+  },
+  {
+   "from": "place:kayenta-falls-ut",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }
