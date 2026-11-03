@@ -2854,6 +2854,30 @@
    }
   },
   {
+   "id": "reel:DaiuZDzPo9J",
+   "type": "Reel",
+   "properties": {
+    "name": "Snow Lake — the 'how is this real?' lake an hour from Seattle",
+    "url": "https://www.instagram.com/reel/DaiuZDzPo9J/",
+    "title": "Snow Lake — the 'how is this real?' lake an hour from Seattle",
+    "creator": "@the.trekking.mama",
+    "theme": "Washington alpine lake hike",
+    "places_count": 1,
+    "recommendation_summary": "Snow Lake near Snoqualmie Pass, Washington — already on the map; added as another source (bright-blue alpine lake ~60 minutes from Seattle; go past the first viewpoints for quiet).",
+    "posted": "2026-07-08",
+    "added": "2026-11-03"
+   }
+  },
+  {
+   "id": "creator:the-trekking-mama",
+   "type": "Creator",
+   "properties": {
+    "name": "@the.trekking.mama",
+    "handle": "@the.trekking.mama",
+    "display_name": "The Trekking Mama"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -11392,6 +11416,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DaiuZDzPo9J",
+   "to": "creator:the-trekking-mama",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaiuZDzPo9J",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -16567,6 +16603,19 @@
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:snow-lake-wa",
+   "to": "reel:DaiuZDzPo9J",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike",
+    "recommendation": "The Trekking Mama's 'how is this real?' lake: Snow Lake looks like it should require a plane ticket or a major expedition, but the trailhead is only about 60 minutes from Seattle. The water is an unbelievable bright alpine blue that looks photoshopped but isn't. It's popular and you'll share the trail — her tip is to keep going past the first viewpoints down toward the end of the lake, where the crowds thin out. Her go-to when someone visits Washington and needs a massive dose of alpine gorgeousness without planning a whole trip.",
+    "creator": "@the.trekking.mama",
+    "reel_title": "Snow Lake — the 'how is this real?' lake an hour from Seattle",
+    "reel_theme": "Washington alpine lake hike"
+   }
   },
   {
    "from": "place:glacier-bay-national-park-and-preserve-ak",

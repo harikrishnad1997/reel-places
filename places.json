@@ -3141,7 +3141,18 @@
    "source_reel_theme": "Alpine lake hike",
    "source_title": "Alpine lake hike \u2014 Snow Lake",
    "state": "Washington",
-   "state_code": "WA"
+   "state_code": "WA",
+   "additional_sources": [
+    {
+     "best_for": "Hike",
+     "recommendation": "The Trekking Mama's 'how is this real?' lake: Snow Lake looks like it should require a plane ticket or a major expedition, but the trailhead is only about 60 minutes from Seattle. The water is an unbelievable bright alpine blue that looks photoshopped but isn't. It's popular and you'll share the trail \u2014 her tip is to keep going past the first viewpoints down toward the end of the lake, where the crowds thin out. Her go-to when someone visits Washington and needs a massive dose of alpine gorgeousness without planning a whole trip.",
+     "source_creator": "@the.trekking.mama",
+     "source_rank": 1,
+     "source_reel": "https://www.instagram.com/reel/DaiuZDzPo9J/",
+     "source_reel_theme": "Washington alpine lake hike",
+     "source_title": "Snow Lake \u2014 the 'how is this real?' lake an hour from Seattle"
+    }
+   ]
   },
   {
    "additional_sources": [

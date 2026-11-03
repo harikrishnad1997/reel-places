@@ -2145,6 +2145,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Hike / Lake — Caption names Snow Lake; tagged location Mt. Rainier National Park. On-screen text: 'One of Mt Rainier's easiest hikes... with a great payoff.' The video crosses a rustic log bridge over a forest stream, then reveals the calm alpine lake at the base of steep, rocky, snow-patched mountains lined with evergreens and driftwood.
   - The Snow Lake on the Bench and Snow Lakes Trail east of Paradise, geocoded inside a Rainier-bounded search — not the better-known Snow Lake at Snoqualmie Pass.
   - 🎬 Source: [Alpine lake hike — Snow Lake](https://www.instagram.com/reel/DeYG1AsvvsM/) by @amorywild (#None in that reel)
+  - 🎬 Also recommended by: [Snow Lake — the 'how is this real?' lake an hour from Seattle](https://www.instagram.com/reel/DaiuZDzPo9J/) by @the.trekking.mama
+    - **Best for:** Hike — The Trekking Mama's 'how is this real?' lake: Snow Lake looks like it should require a plane ticket or a major expedition, but the trailhead is only about 60 minutes from Seattle. The water is an unbelievable bright alpine blue that looks photoshopped but isn't. It's popular and you'll share the trail — her tip is to keep going past the first viewpoints down toward the end of the lake, where the crowds thin out. Her go-to when someone visits Washington and needs a massive dose of alpine gorgeousness without planning a whole trip.
 
 ##### Top national park
 
@@ -2815,6 +2817,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Trappers Peak in North Cascades National Park, Washington — a 9.7-mile, 3,438 ft-gain summit hike via Thornton Lakes with 360° panoramic views.
 - **[Colchuck Lake — and a mountain goat named Fred](https://www.instagram.com/reel/DZfljAtvNtN/)** — @jessonthewildway · 1 places · Theme: Colchuck Lake hike
   - What the reel recommends: Colchuck Lake, Washington — already on the map from @thisworldofadventure; added as a second source (Dragontail Peak and Aasgard Pass views, 9 miles / ~2,400 ft, and a trail-blocking goat named Fred).
+- **[Snow Lake — the 'how is this real?' lake an hour from Seattle](https://www.instagram.com/reel/DaiuZDzPo9J/)** — @the.trekking.mama · 1 places · Theme: Washington alpine lake hike
+  - What the reel recommends: Snow Lake near Snoqualmie Pass, Washington — already on the map; added as another source (bright-blue alpine lake ~60 minutes from Seattle; go past the first viewpoints for quiet).
 
 ## How this page is updated {#how-this-page-is-updated}
 
