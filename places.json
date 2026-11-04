@@ -4795,7 +4795,18 @@
    "source_reel_theme": "Fall colors",
    "source_title": "Fall colors \u2014 Eagle Tower, Peninsula State Park",
    "state": "Wisconsin",
-   "state_code": "WI"
+   "state_code": "WI",
+   "additional_sources": [
+    {
+     "best_for": "Fall colors / View",
+     "recommendation": "Asia's follow-up Peninsula State Park reel leads with Eagle Tower again: the elevated wooden boardwalk through peak autumn color out to the overlook above the water, pitched as the park's headline view on a Wisconsin trip about 5 hours from Chicago.",
+     "source_creator": "@asia_in_chicago",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfTGhTnMlKV/",
+     "source_reel_theme": "Peninsula State Park fall showcase",
+     "source_title": "Peninsula State Park, Door County \u2014 a must-add Wisconsin trip"
+    }
+   ]
   },
   {
    "best_for": "Hike",
@@ -4817,7 +4828,18 @@
    "source_reel_theme": "Fall colors",
    "source_title": "Fall colors \u2014 Eagle Tower, Peninsula State Park",
    "state": "Wisconsin",
-   "state_code": "WI"
+   "state_code": "WI",
+   "additional_sources": [
+    {
+     "best_for": "Hike",
+     "recommendation": "The same reel shows the Eagle Trail trailhead sign (marked 'Difficult Trail') and points to the park's hiking trails as the way to explore beyond the tower.",
+     "source_creator": "@asia_in_chicago",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfTGhTnMlKV/",
+     "source_reel_theme": "Peninsula State Park fall showcase",
+     "source_title": "Peninsula State Park, Door County \u2014 a must-add Wisconsin trip"
+    }
+   ]
   },
   {
    "id": "arches-national-park-ut",

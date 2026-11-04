@@ -928,6 +928,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Fall colors / View — The reel's headline stop: add Peninsula State Park in Door County to a Wisconsin trip for Eagle Tower, reached by a long wooden elevated walkway through autumn trees to panoramic views over Green Bay and the surrounding islands — at their best in fall color. Parking, restrooms and park information are right at the tower area.
   - The reel says the views overlook Lake Michigan; the tower actually faces Green Bay (the bay between the Door Peninsula and mainland Wisconsin), with Horseshoe Island in view. Caption puts the park about a 5-hour drive from Chicago. The rebuilt tower (opened 2021) is reached by 95-100 stairs or an 850-foot accessible canopy ramp; Wisconsin DNR lists it open May 1-Oct 31.
   - 🎬 Source: [Fall colors — Eagle Tower, Peninsula State Park](https://www.instagram.com/reel/DfQ6dEHt8NU/) by @asia_in_chicago (#1 in that reel)
+  - 🎬 Also recommended by: [Peninsula State Park, Door County — a must-add Wisconsin trip](https://www.instagram.com/reel/DfTGhTnMlKV/) by @asia_in_chicago
+    - **Best for:** Fall colors / View — Asia's follow-up Peninsula State Park reel leads with Eagle Tower again: the elevated wooden boardwalk through peak autumn color out to the overlook above the water, pitched as the park's headline view on a Wisconsin trip about 5 hours from Chicago.
 
 ##### Hike
 
@@ -935,6 +937,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Hike — Shown in the reel right after the tower: the trailhead sign marked 'Difficult Trail' for the park's Eagle Trail, a loop the narrator points viewers to for more scenic overlooks beyond Eagle Tower.
   - Pin is the Eagle Trail trailhead just west of the Eagle Tower parking area (Trailforks trailhead coordinates); DNR lists access at Eagle Terrace, Eagle Panorama or the Tower. DNR rates this 2.0-mile loop 'more difficult', with steep, rocky sections under 150-foot cliffs along Eagle Harbor.
   - 🎬 Source: [Fall colors — Eagle Tower, Peninsula State Park](https://www.instagram.com/reel/DfQ6dEHt8NU/) by @asia_in_chicago (#2 in that reel)
+  - 🎬 Also recommended by: [Peninsula State Park, Door County — a must-add Wisconsin trip](https://www.instagram.com/reel/DfTGhTnMlKV/) by @asia_in_chicago
+    - **Best for:** Hike — The same reel shows the Eagle Trail trailhead sign (marked 'Difficult Trail') and points to the park's hiking trails as the way to explore beyond the tower.
 
 ### Porcupine Mountains Wilderness State Park
 
@@ -3040,6 +3044,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Amory Wild's Top 5 Unique National Park Waterfalls: #5 Wolf Creek Falls (New River Gorge), #4 Hidden Falls (Glacier), #3 Zapata Falls (near Great Sand Dunes), #2 Cataract Falls (Kenai Fjords), #1 Brooks Falls (Katmai).
 - **[Mount Si — Washington's most popular hike](https://www.instagram.com/reel/DfSQ-1wGjff/)** — @outdoorsapp · 1 places · Theme: Washington day hike
   - What the reel recommends: Mount Si above North Bend, Washington — the state's most popular hike (8 mi RT, 3,150 ft), a Rainier training standard; Discover Pass required and the lot fills early.
+- **[Peninsula State Park, Door County — a must-add Wisconsin trip](https://www.instagram.com/reel/DfTGhTnMlKV/)** — @asia_in_chicago · 2 places · Theme: Peninsula State Park fall showcase
+  - What the reel recommends: A return visit to Peninsula State Park in Door County: Eagle Tower's canopy walkway and overlook in peak fall color, plus the Eagle Trail trailhead — both already on the map from her earlier Door County reel, so this reel is logged as a second source on each.
 
 ## How this page is updated {#how-this-page-is-updated}
 
