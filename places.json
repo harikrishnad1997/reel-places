@@ -7418,6 +7418,28 @@
    "source_rank": 2,
    "source_reel_theme": "Unique national park waterfalls countdown",
    "additional_sources": []
+  },
+  {
+   "id": "princess-arch-ky",
+   "name": "Princess Arch",
+   "site": "Red River Gorge Geological Area",
+   "city": "Slade",
+   "state": "Kentucky",
+   "country": "United States",
+   "region": "Southeast",
+   "region_id": "southeast",
+   "lat": 37.82735,
+   "lng": -83.61966,
+   "google_maps_query": "Princess+Arch+Red+River+Gorge+Kentucky",
+   "best_for": "Hike",
+   "recommendation": "A 1/4-mile walk on Princess Arch Trail (#233) to Princess Arch, a natural sandstone arch in Red River Gorge \u2014 the reel hikes it at peak fall color, with a sandstone ledge overlook above a valley of red and gold trees on the way.",
+   "note": "Coordinates from OpenStreetMap's named Princess Arch point on Trail #233 (Wolfe County side of the gorge). Red River Gorge is in Daniel Boone National Forest; the creator's caption points to her series of 5+ Red River Gorge videos.",
+   "source_reel": "https://www.instagram.com/reel/DfUqfrOOzIu/",
+   "source_title": "Princess Arch Trail in fall \u2014 Red River Gorge",
+   "source_creator": "@jhunjhun_jn8888",
+   "source_rank": null,
+   "source_reel_theme": "Red River Gorge fall hiking",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

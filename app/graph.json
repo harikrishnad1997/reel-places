@@ -3319,6 +3319,30 @@
    }
   },
   {
+   "id": "reel:DfUqfrOOzIu",
+   "type": "Reel",
+   "properties": {
+    "name": "Princess Arch Trail in fall — Red River Gorge",
+    "url": "https://www.instagram.com/reel/DfUqfrOOzIu/",
+    "title": "Princess Arch Trail in fall — Red River Gorge",
+    "creator": "@jhunjhun_jn8888",
+    "theme": "Red River Gorge fall hiking",
+    "places_count": 1,
+    "recommendation_summary": "A fall hike on the short Princess Arch Trail (#233) in Red River Gorge, Kentucky — 1/4 mile to a natural sandstone arch, with peak autumn color and a ledge overlook en route. Part of the creator's series of 5+ Red River Gorge videos.",
+    "posted": "2026-11-04",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:jhunjhun-jn8888",
+   "type": "Creator",
+   "properties": {
+    "name": "@jhunjhun_jn8888",
+    "handle": "@jhunjhun_jn8888",
+    "display_name": "JhunJhun Acosta Aromin"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10400,6 +10424,32 @@
     "best_for": "Waterfall",
     "note": "Pin is at Cataract Cove in the Northwestern Fjord (OpenStreetMap) — the boat-tour stop named for its waterfalls, where the falls pour down the cove's cliffs into the sea."
    }
+  },
+  {
+   "id": "place:princess-arch-ky",
+   "type": "Place",
+   "properties": {
+    "name": "Princess Arch",
+    "place_id": "princess-arch-ky",
+    "site": "Red River Gorge Geological Area",
+    "city": "Slade",
+    "state": "Kentucky",
+    "state_code": "",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 37.82735,
+    "lng": -83.61966,
+    "google_maps_query": "Princess+Arch+Red+River+Gorge+Kentucky",
+    "best_for": "Hike",
+    "note": "Coordinates from OpenStreetMap's named Princess Arch point on Trail #233 (Wolfe County side of the gorge). Red River Gorge is in Daniel Boone National Forest; the creator's caption points to her series of 5+ Red River Gorge videos."
+   }
+  },
+  {
+   "id": "site:red-river-gorge-geological-area",
+   "type": "Site",
+   "properties": {
+    "name": "Red River Gorge Geological Area"
+   }
   }
  ],
  "edges": [
@@ -12602,6 +12652,18 @@
   {
    "from": "reel:DfTGhTnMlKV",
    "to": "theme:peninsula-state-park-fall-showcase",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUqfrOOzIu",
+   "to": "creator:jhunjhun-jn8888",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUqfrOOzIu",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -24408,6 +24470,37 @@
   {
    "from": "place:cataract-falls-kenai-ak",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:princess-arch-ky",
+   "to": "state:united-states-kentucky",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:princess-arch-ky",
+   "to": "site:red-river-gorge-geological-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:princess-arch-ky",
+   "to": "reel:DfUqfrOOzIu",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "A 1/4-mile walk on Princess Arch Trail (#233) to Princess Arch, a natural sandstone arch in Red River Gorge — the reel hikes it at peak fall color, with a sandstone ledge overlook above a valley of red and gold trees on the way.",
+    "creator": "@jhunjhun_jn8888",
+    "reel_title": "Princess Arch Trail in fall — Red River Gorge",
+    "reel_theme": "Red River Gorge fall hiking"
+   }
+  },
+  {
+   "from": "place:princess-arch-ky",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
