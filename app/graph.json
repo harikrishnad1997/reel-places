@@ -3460,6 +3460,21 @@
    }
   },
   {
+   "id": "reel:DeiypL5TviI",
+   "type": "Reel",
+   "properties": {
+    "name": "Seven Teacups — granite pools above the Kern River",
+    "url": "https://www.instagram.com/reel/DeiypL5TviI/",
+    "title": "Seven Teacups — granite pools above the Kern River",
+    "creator": "@asyatravels",
+    "theme": "California hidden-gem waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "Seven Teacups in Giant Sequoia National Monument: granite pools carved by Dry Meadow Creek above the Kern River, near Kernville — a 4-mile round-trip hike, and an explicit no-swimming warning because of the current.",
+    "posted": "2026-10-15",
+    "added": "2026-11-04"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10828,6 +10843,32 @@
    "properties": {
     "name": "Big Sur"
    }
+  },
+  {
+   "id": "place:seven-teacups-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Seven Teacups",
+    "place_id": "seven-teacups-ca",
+    "site": "Giant Sequoia National Monument",
+    "city": "Kernville",
+    "state": "California",
+    "state_code": "",
+    "region": "West",
+    "country": "United States",
+    "lat": 35.99313,
+    "lng": -118.4842,
+    "google_maps_query": "Seven+Teacups+Kern+River+California",
+    "best_for": "Waterfall",
+    "note": "Pin is OpenStreetMap's Seven Teacups waterfall point near Johnsondale Bridge, under 2 hours from Bakersfield. The reel names the AllTrails route 'Seven Tea Cups Viewpoint via Dry Creek Meadow' and mentions Johnny McNally's Fairview Lodge-Restaurant, about 10 minutes away, as a nearby stop (an amenity mention, not pinned)."
+   }
+  },
+  {
+   "id": "site:giant-sequoia-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Giant Sequoia National Monument"
+   }
   }
  ],
  "edges": [
@@ -13090,6 +13131,18 @@
   {
    "from": "reel:DeyC-4UzfHd",
    "to": "theme:california-scenic-drives",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeiypL5TviI",
+   "to": "creator:asyatravels",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeiypL5TviI",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -25242,6 +25295,37 @@
   {
    "from": "place:big-sur-ca",
    "to": "theme:scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:seven-teacups-ca",
+   "to": "state:united-states-california",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:seven-teacups-ca",
+   "to": "site:giant-sequoia-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:seven-teacups-ca",
+   "to": "reel:DeiypL5TviI",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall",
+    "recommendation": "A surreal chain of smooth white-granite pools on Dry Meadow Creek, each cup dropping 6 to 20 feet into the next before the water slides into the Kern River. Reached by a roughly 4-mile round-trip hike with about 850 feet of gain, rock scrambling and a creek crossing. The creator's warning, kept verbatim in spirit: please don't swim — the current can pull swimmers under even when the water looks calm.",
+    "creator": "@asyatravels",
+    "reel_title": "Seven Teacups — granite pools above the Kern River",
+    "reel_theme": "California hidden-gem waterfalls"
+   }
+  },
+  {
+   "from": "place:seven-teacups-ca",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }

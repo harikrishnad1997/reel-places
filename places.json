@@ -7638,6 +7638,28 @@
    "best_for": "Scenic drive",
    "recommendation": "One of the five, and the caption's headliner: Big Sur \u2014 Highway 1 along green grassy cliffs above the Pacific and its rocky shoreline, the most famous coastal drive in California.",
    "note": "Pin at Bixby Creek Bridge (OpenStreetMap), the iconic span on the Big Sur stretch of Highway 1."
+  },
+  {
+   "id": "seven-teacups-ca",
+   "name": "Seven Teacups",
+   "site": "Giant Sequoia National Monument",
+   "city": "Kernville",
+   "state": "California",
+   "country": "United States",
+   "region": "West",
+   "region_id": "west",
+   "lat": 35.99313,
+   "lng": -118.4842,
+   "google_maps_query": "Seven+Teacups+Kern+River+California",
+   "best_for": "Waterfall",
+   "recommendation": "A surreal chain of smooth white-granite pools on Dry Meadow Creek, each cup dropping 6 to 20 feet into the next before the water slides into the Kern River. Reached by a roughly 4-mile round-trip hike with about 850 feet of gain, rock scrambling and a creek crossing. The creator's warning, kept verbatim in spirit: please don't swim \u2014 the current can pull swimmers under even when the water looks calm.",
+   "note": "Pin is OpenStreetMap's Seven Teacups waterfall point near Johnsondale Bridge, under 2 hours from Bakersfield. The reel names the AllTrails route 'Seven Tea Cups Viewpoint via Dry Creek Meadow' and mentions Johnny McNally's Fairview Lodge-Restaurant, about 10 minutes away, as a nearby stop (an amenity mention, not pinned).",
+   "source_reel": "https://www.instagram.com/reel/DeiypL5TviI/",
+   "source_title": "Seven Teacups \u2014 granite pools above the Kern River",
+   "source_creator": "@asyatravels",
+   "source_rank": null,
+   "source_reel_theme": "California hidden-gem waterfalls",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

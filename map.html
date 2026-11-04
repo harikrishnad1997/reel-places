@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;color:#fff;font-weight:700;font-size:11px;text-align:center;line-height:22px;width:22px;height:22px;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>288 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>289 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
@@ -4317,7 +4317,24 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Jedediah Smith Redwoods State Park",
+  "n": "11 \u00b7 Seven Teacups",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Kernville, California",
+  "site": "Giant Sequoia National Monument",
+  "lat": 35.99313,
+  "lng": -118.4842,
+  "q": "Seven+Teacups+Kern+River+California",
+  "best": "Waterfall",
+  "rec": "A surreal chain of smooth white-granite pools on Dry Meadow Creek, each cup dropping 6 to 20 feet into the next before the water slides into the Kern River. Reached by a roughly 4-mile round-trip hike with about 850 feet of gain, rock scrambling and a creek crossing. The creator's warning, kept verbatim in spirit: please don't swim \u2014 the current can pull swimmers under even when the water looks calm.",
+  "reel": "https://www.instagram.com/reel/DeiypL5TviI/",
+  "reel_title": "Seven Teacups \u2014 granite pools above the Kern River",
+  "creator": "@asyatravels",
+  "rank": null,
+  "also": []
+ },
+ {
+  "n": "12 \u00b7 Jedediah Smith Redwoods State Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Crescent City, California",
@@ -4334,7 +4351,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Inspiration Peak (Inspiration Point)",
+  "n": "13 \u00b7 Inspiration Peak (Inspiration Point)",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -4351,7 +4368,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "13 \u00b7 Joshua Tree National Park",
+  "n": "14 \u00b7 Joshua Tree National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -4376,7 +4393,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "14 \u00b7 Ella Falls",
+  "n": "15 \u00b7 Ella Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Grant Grove, California",
@@ -4393,7 +4410,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Kings Canyon Scenic Byway",
+  "n": "16 \u00b7 Kings Canyon Scenic Byway",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Grant Grove, California",
@@ -4410,7 +4427,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Manzanita Lake",
+  "n": "17 \u00b7 Manzanita Lake",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Manzanita Lake, California",
@@ -4427,7 +4444,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Hawk Hill",
+  "n": "18 \u00b7 Hawk Hill",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Sausalito, California",
@@ -4444,7 +4461,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Monterey Bay",
+  "n": "19 \u00b7 Monterey Bay",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Monterey, California",
@@ -4461,7 +4478,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 17-Mile Drive",
+  "n": "20 \u00b7 17-Mile Drive",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pebble Beach, California",
@@ -4478,7 +4495,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "20 \u00b7 High Peaks Trail",
+  "n": "21 \u00b7 High Peaks Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pinnacles National Park, California",
@@ -4495,7 +4512,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Pinnacles National Park",
+  "n": "22 \u00b7 Pinnacles National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Paicines, California",
@@ -4520,7 +4537,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "22 \u00b7 Pinole",
+  "n": "23 \u00b7 Pinole",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pinole, California",
@@ -4537,7 +4554,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "23 \u00b7 Gold Bluffs Beach",
+  "n": "24 \u00b7 Gold Bluffs Beach",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Redwood National Park, California",
@@ -4554,7 +4571,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Fern Canyon",
+  "n": "25 \u00b7 Fern Canyon",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -4571,7 +4588,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "25 \u00b7 Redwood National Park",
+  "n": "26 \u00b7 Redwood National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -4588,7 +4605,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Shark Fin Cove",
+  "n": "27 \u00b7 Shark Fin Cove",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Davenport, California",
@@ -4613,7 +4630,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "27 \u00b7 Trail of the Sequoias",
+  "n": "28 \u00b7 Trail of the Sequoias",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -4630,7 +4647,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "28 \u00b7 Sequoia National Park",
+  "n": "29 \u00b7 Sequoia National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -4647,7 +4664,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Moro Rock",
+  "n": "30 \u00b7 Moro Rock",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -4672,7 +4689,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "30 \u00b7 Tokopah Falls",
+  "n": "31 \u00b7 Tokopah Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lodgepole, California",
@@ -4689,7 +4706,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "31 \u00b7 Eagle Peak",
+  "n": "32 \u00b7 Eagle Peak",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -4706,7 +4723,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "32 \u00b7 Four Mile Trail to Glacier Point",
+  "n": "33 \u00b7 Four Mile Trail to Glacier Point",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -4738,7 +4755,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "33 \u00b7 Yosemite National Park",
+  "n": "34 \u00b7 Yosemite National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -4770,7 +4787,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "34 \u00b7 Valley View",
+  "n": "35 \u00b7 Valley View",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -4787,7 +4804,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "35 \u00b7 Big Oak Flat Road",
+  "n": "36 \u00b7 Big Oak Flat Road",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -4804,7 +4821,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "36 \u00b7 Tunnel View",
+  "n": "37 \u00b7 Tunnel View",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -4821,7 +4838,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "37 \u00b7 Vernal Falls",
+  "n": "38 \u00b7 Vernal Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -4846,7 +4863,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "38 \u00b7 Wapama Falls",
+  "n": "39 \u00b7 Wapama Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -4863,7 +4880,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "39 \u00b7 Yosemite Falls",
+  "n": "40 \u00b7 Yosemite Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -5958,5 +5975,5 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 37<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 46<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 15<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 68<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 42<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 39<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 18<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 15<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 37<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 46<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 15<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 68<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 42<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 40<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 18<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 15<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>
