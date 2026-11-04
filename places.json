@@ -7440,6 +7440,28 @@
    "source_rank": null,
    "source_reel_theme": "Red River Gorge fall hiking",
    "additional_sources": []
+  },
+  {
+   "id": "johnsons-shut-ins-state-park-mo",
+   "name": "Johnson's Shut-Ins State Park",
+   "site": "Johnson's Shut-Ins State Park",
+   "city": "Middle Brook",
+   "state": "Missouri",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 37.53965,
+   "lng": -90.84348,
+   "google_maps_query": "Johnson%27s+Shut-Ins+State+Park+Missouri",
+   "best_for": "Swimming",
+   "recommendation": "One of the most unique swims in the Midwest: hundreds of natural pools and chutes the Black River carved into billion-year-old volcanic rock \u2014 'nature's own waterpark,' about 2 hours south of St. Louis. The reel's tips: go early in summer (it gets busy), wear water shoes for the slippery rock, and mind the stronger currents with kids.",
+   "note": "Pin sits at the main shut-ins day-use area (OpenStreetMap point for the swimming area's supply store) rather than the park boundary centroid. The 'shut-ins' are narrow channels where the river squeezes through erosion-resistant rhyolite.",
+   "source_reel": "https://www.instagram.com/reel/DfUarsMgzMy/",
+   "source_title": "Johnson's Shut-Ins State Park \u2014 nature's waterpark in Missouri",
+   "source_creator": "@coupleofpatels",
+   "source_rank": null,
+   "source_reel_theme": "Midwest hidden-gem swimming spots (Part 22)",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

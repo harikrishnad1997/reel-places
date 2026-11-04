@@ -3343,6 +3343,37 @@
    }
   },
   {
+   "id": "reel:DfUarsMgzMy",
+   "type": "Reel",
+   "properties": {
+    "name": "Johnson's Shut-Ins State Park — nature's waterpark in Missouri",
+    "url": "https://www.instagram.com/reel/DfUarsMgzMy/",
+    "title": "Johnson's Shut-Ins State Park — nature's waterpark in Missouri",
+    "creator": "@coupleofpatels",
+    "theme": "Midwest hidden-gem swimming spots (Part 22)",
+    "places_count": 1,
+    "recommendation_summary": "Part 22 of the couple's hidden-gems series: Johnson's Shut-Ins State Park, Missouri — swim and scramble through natural pools the Black River carved into ancient volcanic rock, ~2 hours south of St. Louis; go early, wear water shoes.",
+    "posted": "2026-11-04",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:coupleofpatels",
+   "type": "Creator",
+   "properties": {
+    "name": "@coupleofpatels",
+    "handle": "@coupleofpatels",
+    "display_name": "Jay & Himani Patel"
+   }
+  },
+  {
+   "id": "theme:midwest-hidden-gem-swimming-spots-part-22",
+   "type": "Theme",
+   "properties": {
+    "name": "Midwest hidden-gem swimming spots (Part 22)"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10450,6 +10481,48 @@
    "properties": {
     "name": "Red River Gorge Geological Area"
    }
+  },
+  {
+   "id": "place:johnsons-shut-ins-state-park-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Johnson's Shut-Ins State Park",
+    "place_id": "johnsons-shut-ins-state-park-mo",
+    "site": "Johnson's Shut-Ins State Park",
+    "city": "Middle Brook",
+    "state": "Missouri",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.53965,
+    "lng": -90.84348,
+    "google_maps_query": "Johnson%27s+Shut-Ins+State+Park+Missouri",
+    "best_for": "Swimming",
+    "note": "Pin sits at the main shut-ins day-use area (OpenStreetMap point for the swimming area's supply store) rather than the park boundary centroid. The 'shut-ins' are narrow channels where the river squeezes through erosion-resistant rhyolite."
+   }
+  },
+  {
+   "id": "state:united-states-missouri",
+   "type": "State",
+   "properties": {
+    "name": "Missouri",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:johnson-s-shut-ins-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Johnson's Shut-Ins State Park"
+   }
+  },
+  {
+   "id": "theme:swimming",
+   "type": "Theme",
+   "properties": {
+    "name": "Swimming"
+   }
   }
  ],
  "edges": [
@@ -12664,6 +12737,18 @@
   {
    "from": "reel:DfUqfrOOzIu",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUarsMgzMy",
+   "to": "creator:coupleofpatels",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUarsMgzMy",
+   "to": "theme:midwest-hidden-gem-swimming-spots-part-22",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -24501,6 +24586,49 @@
   {
    "from": "place:princess-arch-ky",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:johnsons-shut-ins-state-park-mo",
+   "to": "state:united-states-missouri",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-missouri",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-missouri",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:johnsons-shut-ins-state-park-mo",
+   "to": "site:johnson-s-shut-ins-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:johnsons-shut-ins-state-park-mo",
+   "to": "reel:DfUarsMgzMy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Swimming",
+    "recommendation": "One of the most unique swims in the Midwest: hundreds of natural pools and chutes the Black River carved into billion-year-old volcanic rock — 'nature's own waterpark,' about 2 hours south of St. Louis. The reel's tips: go early in summer (it gets busy), wear water shoes for the slippery rock, and mind the stronger currents with kids.",
+    "creator": "@coupleofpatels",
+    "reel_title": "Johnson's Shut-Ins State Park — nature's waterpark in Missouri",
+    "reel_theme": "Midwest hidden-gem swimming spots (Part 22)"
+   }
+  },
+  {
+   "from": "place:johnsons-shut-ins-state-park-mo",
+   "to": "theme:swimming",
    "type": "BEST_FOR",
    "properties": {}
   }
