@@ -3429,6 +3429,37 @@
    }
   },
   {
+   "id": "reel:DeyC-4UzfHd",
+   "type": "Reel",
+   "properties": {
+    "name": "5 Most Scenic Drives in California",
+    "url": "https://www.instagram.com/reel/DeyC-4UzfHd/",
+    "title": "5 Most Scenic Drives in California",
+    "creator": "@asyatravels",
+    "theme": "California scenic drives",
+    "places_count": 5,
+    "recommendation_summary": "Asya's five all-time favorite California drives, in the order shown: Highway 395 in the Eastern Sierra, 17-Mile Drive at Pebble Beach, the Kings Canyon Scenic Byway, the redwoods drive through Jedediah Smith Redwoods State Park, and Big Sur on Highway 1.",
+    "posted": "2026-10-21",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:asyatravels",
+   "type": "Creator",
+   "properties": {
+    "name": "@asyatravels",
+    "handle": "@asyatravels",
+    "display_name": "Asya Olson"
+   }
+  },
+  {
+   "id": "theme:california-scenic-drives",
+   "type": "Theme",
+   "properties": {
+    "name": "California scenic drives"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10674,6 +10705,129 @@
    "properties": {
     "name": "Marin Headlands"
    }
+  },
+  {
+   "id": "place:highway-395-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Highway 395 (Eastern Sierra)",
+    "place_id": "highway-395-ca",
+    "site": "Eastern Sierra",
+    "city": "Lone Pine",
+    "state": "California",
+    "state_code": "",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.60496,
+    "lng": -118.06313,
+    "google_maps_query": "Highway+395+Eastern+Sierra+Lone+Pine+CA",
+    "best_for": "Scenic drive",
+    "note": "Pin at Lone Pine (OpenStreetMap village point), the classic Eastern Sierra stretch of US-395 beneath Mount Whitney; the drive itself runs the length of the Sierra's east side."
+   }
+  },
+  {
+   "id": "site:eastern-sierra",
+   "type": "Site",
+   "properties": {
+    "name": "Eastern Sierra"
+   }
+  },
+  {
+   "id": "place:17-mile-drive-ca",
+   "type": "Place",
+   "properties": {
+    "name": "17-Mile Drive",
+    "place_id": "17-mile-drive-ca",
+    "site": "Pebble Beach",
+    "city": "Pebble Beach",
+    "state": "California",
+    "state_code": "",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.61944,
+    "lng": -121.93012,
+    "google_maps_query": "17-Mile+Drive+Pebble+Beach+CA",
+    "best_for": "Scenic drive",
+    "note": "Pin is an OpenStreetMap point on 17-Mile Drive itself in Pebble Beach (Del Monte Forest), on the Monterey Peninsula."
+   }
+  },
+  {
+   "id": "site:pebble-beach",
+   "type": "Site",
+   "properties": {
+    "name": "Pebble Beach"
+   }
+  },
+  {
+   "id": "place:kings-canyon-scenic-byway-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Kings Canyon Scenic Byway",
+    "place_id": "kings-canyon-scenic-byway-ca",
+    "site": "Kings Canyon National Park",
+    "city": "Grant Grove",
+    "state": "California",
+    "state_code": "",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.79371,
+    "lng": -118.59697,
+    "google_maps_query": "Kings+Canyon+Scenic+Byway+CA",
+    "best_for": "Scenic drive",
+    "note": "Pin is OpenStreetMap's Kings Canyon Scenic Byway road point deep in the canyon (Highway 180)."
+   }
+  },
+  {
+   "id": "place:jedediah-smith-redwoods-state-park-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Jedediah Smith Redwoods State Park",
+    "place_id": "jedediah-smith-redwoods-state-park-ca",
+    "site": "Jedediah Smith Redwoods State Park",
+    "city": "Crescent City",
+    "state": "California",
+    "state_code": "",
+    "region": "West",
+    "country": "United States",
+    "lat": 41.7827,
+    "lng": -124.09875,
+    "google_maps_query": "Jedediah+Smith+Redwoods+State+Park+CA",
+    "best_for": "Scenic drive",
+    "note": "Pin is OpenStreetMap's park point near Crescent City; the classic drive through the groves is Howland Hill Road."
+   }
+  },
+  {
+   "id": "site:jedediah-smith-redwoods-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Jedediah Smith Redwoods State Park"
+   }
+  },
+  {
+   "id": "place:big-sur-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Big Sur (Highway 1)",
+    "place_id": "big-sur-ca",
+    "site": "Big Sur",
+    "city": "Big Sur",
+    "state": "California",
+    "state_code": "",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.37159,
+    "lng": -121.90193,
+    "google_maps_query": "Big+Sur+Highway+1+California",
+    "best_for": "Scenic drive",
+    "note": "Pin at Bixby Creek Bridge (OpenStreetMap), the iconic span on the Big Sur stretch of Highway 1."
+   }
+  },
+  {
+   "id": "site:big-sur",
+   "type": "Site",
+   "properties": {
+    "name": "Big Sur"
+   }
   }
  ],
  "edges": [
@@ -12924,6 +13078,18 @@
   {
    "from": "reel:DeHzMiJMX64",
    "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeyC-4UzfHd",
+   "to": "creator:asyatravels",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeyC-4UzfHd",
+   "to": "theme:california-scenic-drives",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -24921,6 +25087,161 @@
   {
    "from": "place:hawk-hill-ca",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:highway-395-ca",
+   "to": "state:united-states-california",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:highway-395-ca",
+   "to": "site:eastern-sierra",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:highway-395-ca",
+   "to": "reel:DeyC-4UzfHd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic drive",
+    "recommendation": "One of Asya's five favorite California drives: Highway 395 along the Eastern Sierra — a winding road under snow-capped peaks and pine forests, with the Sierra escarpment on one side and the high desert on the other.",
+    "creator": "@asyatravels",
+    "reel_title": "5 Most Scenic Drives in California",
+    "reel_theme": "California scenic drives"
+   }
+  },
+  {
+   "from": "place:highway-395-ca",
+   "to": "theme:scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:17-mile-drive-ca",
+   "to": "state:united-states-california",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:17-mile-drive-ca",
+   "to": "site:pebble-beach",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:17-mile-drive-ca",
+   "to": "reel:DeyC-4UzfHd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic drive",
+    "recommendation": "One of the five: the 17-Mile Drive through Pebble Beach — a tree-lined coastal road the reel shows bathed in golden sunset light, past cypress trees and ocean viewpoints.",
+    "creator": "@asyatravels",
+    "reel_title": "5 Most Scenic Drives in California",
+    "reel_theme": "California scenic drives"
+   }
+  },
+  {
+   "from": "place:17-mile-drive-ca",
+   "to": "theme:scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kings-canyon-scenic-byway-ca",
+   "to": "state:united-states-california",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:kings-canyon-scenic-byway-ca",
+   "to": "site:kings-canyon-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kings-canyon-scenic-byway-ca",
+   "to": "reel:DeyC-4UzfHd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic drive",
+    "recommendation": "One of the five: the Kings Canyon Scenic Byway — a narrow road carved between steep rocky canyon walls as it descends into Kings Canyon, following the Kings River toward Roads End.",
+    "creator": "@asyatravels",
+    "reel_title": "5 Most Scenic Drives in California",
+    "reel_theme": "California scenic drives"
+   }
+  },
+  {
+   "from": "place:kings-canyon-scenic-byway-ca",
+   "to": "theme:scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:jedediah-smith-redwoods-state-park-ca",
+   "to": "state:united-states-california",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:jedediah-smith-redwoods-state-park-ca",
+   "to": "site:jedediah-smith-redwoods-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:jedediah-smith-redwoods-state-park-ca",
+   "to": "reel:DeyC-4UzfHd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic drive",
+    "recommendation": "One of the five: driving through Jedediah Smith Redwoods — a dense forest of towering old-growth redwoods, the reel's lush green counterpoint to the desert and coast drives.",
+    "creator": "@asyatravels",
+    "reel_title": "5 Most Scenic Drives in California",
+    "reel_theme": "California scenic drives"
+   }
+  },
+  {
+   "from": "place:jedediah-smith-redwoods-state-park-ca",
+   "to": "theme:scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:big-sur-ca",
+   "to": "state:united-states-california",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:big-sur-ca",
+   "to": "site:big-sur",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:big-sur-ca",
+   "to": "reel:DeyC-4UzfHd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic drive",
+    "recommendation": "One of the five, and the caption's headliner: Big Sur — Highway 1 along green grassy cliffs above the Pacific and its rocky shoreline, the most famous coastal drive in California.",
+    "creator": "@asyatravels",
+    "reel_title": "5 Most Scenic Drives in California",
+    "reel_theme": "California scenic drives"
+   }
+  },
+  {
+   "from": "place:big-sur-ca",
+   "to": "theme:scenic-drive",
    "type": "BEST_FOR",
    "properties": {}
   }
