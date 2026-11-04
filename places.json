@@ -7506,6 +7506,28 @@
    "source_rank": null,
    "source_reel_theme": "Surprising Wisconsin state park",
    "additional_sources": []
+  },
+  {
+   "id": "hawk-hill-ca",
+   "name": "Hawk Hill",
+   "site": "Marin Headlands",
+   "city": "Sausalito",
+   "state": "California",
+   "country": "United States",
+   "region": "West",
+   "region_id": "west",
+   "lat": 37.82855,
+   "lng": -122.49878,
+   "google_maps_query": "Hawk+Hill+Marin+Headlands+Sausalito+CA",
+   "best_for": "Viewpoint",
+   "recommendation": "It looks like Hawaii's Stairway to Heaven, but it's just north of San Francisco: an easy climb of about 650 steps from the parking area to panoramic views \u2014 the Pacific on one side, the Golden Gate Bridge on the other. No long hike, free parking off Conzelman Road.",
+   "note": "Pin is OpenStreetMap's Hawk Hill peak point on Conzelman Road in the Marin Headlands (Golden Gate National Recreation Area); the reel's listed address is Hawk Hill, Conzelman Rd, Sausalito, CA 94965.",
+   "source_reel": "https://www.instagram.com/reel/DeHzMiJMX64/",
+   "source_title": "Hawk Hill \u2014 a 'Stairway to Heaven' viewpoint over the Golden Gate",
+   "source_creator": "@anjali_wandersoul",
+   "source_rank": null,
+   "source_reel_theme": "Bay Area viewpoints",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

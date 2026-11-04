@@ -3405,6 +3405,30 @@
    }
   },
   {
+   "id": "reel:DeHzMiJMX64",
+   "type": "Reel",
+   "properties": {
+    "name": "Hawk Hill — a 'Stairway to Heaven' viewpoint over the Golden Gate",
+    "url": "https://www.instagram.com/reel/DeHzMiJMX64/",
+    "title": "Hawk Hill — a 'Stairway to Heaven' viewpoint over the Golden Gate",
+    "creator": "@anjali_wandersoul",
+    "theme": "Bay Area viewpoints",
+    "places_count": 1,
+    "recommendation_summary": "Hawk Hill in the Marin Headlands: a 650-step climb from the Conzelman Road parking area to a summit with the Pacific on one side and the Golden Gate Bridge on the other — pitched as the Bay Area's answer to Hawaii's Stairway to Heaven.",
+    "posted": "2026-10-05",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:anjali-wandersoul",
+   "type": "Creator",
+   "properties": {
+    "name": "@anjali_wandersoul",
+    "handle": "@anjali_wandersoul",
+    "display_name": "Anjali"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10615,6 +10639,41 @@
     "best_for": "Hike",
     "note": "Pin is OpenStreetMap's Old Immigrant Trail point within Wyalusing State Park."
    }
+  },
+  {
+   "id": "place:hawk-hill-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Hawk Hill",
+    "place_id": "hawk-hill-ca",
+    "site": "Marin Headlands",
+    "city": "Sausalito",
+    "state": "California",
+    "state_code": "",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.82855,
+    "lng": -122.49878,
+    "google_maps_query": "Hawk+Hill+Marin+Headlands+Sausalito+CA",
+    "best_for": "Viewpoint",
+    "note": "Pin is OpenStreetMap's Hawk Hill peak point on Conzelman Road in the Marin Headlands (Golden Gate National Recreation Area); the reel's listed address is Hawk Hill, Conzelman Rd, Sausalito, CA 94965."
+   }
+  },
+  {
+   "id": "state:united-states-california",
+   "type": "State",
+   "properties": {
+    "name": "California",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:marin-headlands",
+   "type": "Site",
+   "properties": {
+    "name": "Marin Headlands"
+   }
   }
  ],
  "edges": [
@@ -12853,6 +12912,18 @@
   {
    "from": "reel:DfTBMuDhL7P",
    "to": "theme:surprising-wisconsin-state-park",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeHzMiJMX64",
+   "to": "creator:anjali-wandersoul",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeHzMiJMX64",
+   "to": "theme:view",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -24807,6 +24878,49 @@
   {
    "from": "place:old-immigrant-bluff-loop-wi",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hawk-hill-ca",
+   "to": "state:united-states-california",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-california",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-california",
+   "to": "region:west",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:hawk-hill-ca",
+   "to": "site:marin-headlands",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:hawk-hill-ca",
+   "to": "reel:DeHzMiJMX64",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint",
+    "recommendation": "It looks like Hawaii's Stairway to Heaven, but it's just north of San Francisco: an easy climb of about 650 steps from the parking area to panoramic views — the Pacific on one side, the Golden Gate Bridge on the other. No long hike, free parking off Conzelman Road.",
+    "creator": "@anjali_wandersoul",
+    "reel_title": "Hawk Hill — a 'Stairway to Heaven' viewpoint over the Golden Gate",
+    "reel_theme": "Bay Area viewpoints"
+   }
+  },
+  {
+   "from": "place:hawk-hill-ca",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
