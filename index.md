@@ -12,7 +12,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 37 places](#northeast)
 - [Southeast Region — 46 places](#southeast)
-- [Midwest Region — 13 places](#midwest)
+- [Midwest Region — 15 places](#midwest)
 - [Southwest Region — 68 places](#southwest)
 - [Mountain West Region — 42 places](#mountain-west)
 - [West Region — 33 places](#west)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 46 · Midwest 13 · Southwest 68 · Mountain West 42 · West 33 · Pacific Northwest 18 · Alaska 15 · Hawaii 5 · U.S. Territories 3 · **Total 280**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 46 · Midwest 15 · Southwest 68 · Mountain West 42 · West 33 · Pacific Northwest 18 · Alaska 15 · Hawaii 5 · U.S. Territories 3 · **Total 282**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -849,7 +849,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**13 places · Illinois, Michigan, Minnesota, Missouri, North Dakota, South Dakota, Wisconsin**
+**15 places · Illinois, Michigan, Minnesota, Missouri, North Dakota, South Dakota, Wisconsin**
 
 ### Badlands National Park
 
@@ -1000,6 +1000,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Road trip stop — Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 — book a timed cave tour in advance, per her tip.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#4 in that reel)
+
+### Wyalusing State Park
+
+#### Wisconsin
+
+##### Caves
+
+- **14. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
+  - **Best for:** Caves / Stargazing — 'This state park surprised us': 14+ miles of trails with caves to explore, an astronomy center that's perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.
+  - Pin is OpenStreetMap's Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.
+  - 🎬 Source: [This state park surprised us — Wyalusing State Park, Wisconsin](https://www.instagram.com/reel/DfTBMuDhL7P/) by @thekateandcody (#None in that reel)
+
+##### Hike
+
+- **15. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
+  - **Best for:** Hike — The creators' favorite trail in the park: the Old Immigrant & Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.
+  - Pin is OpenStreetMap's Old Immigrant Trail point within Wyalusing State Park.
+  - 🎬 Source: [This state park surprised us — Wyalusing State Park, Wisconsin](https://www.instagram.com/reel/DfTBMuDhL7P/) by @thekateandcody (#None in that reel)
 
 ## Southwest Region {#southwest}
 
@@ -3072,6 +3090,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A fall hike on the short Princess Arch Trail (#233) in Red River Gorge, Kentucky — 1/4 mile to a natural sandstone arch, with peak autumn color and a ledge overlook en route. Part of the creator's series of 5+ Red River Gorge videos.
 - **[Johnson's Shut-Ins State Park — nature's waterpark in Missouri](https://www.instagram.com/reel/DfUarsMgzMy/)** — @coupleofpatels · 1 places · Theme: Midwest hidden-gem swimming spots (Part 22)
   - What the reel recommends: Part 22 of the couple's hidden-gems series: Johnson's Shut-Ins State Park, Missouri — swim and scramble through natural pools the Black River carved into ancient volcanic rock, ~2 hours south of St. Louis; go early, wear water shoes.
+- **[This state park surprised us — Wyalusing State Park, Wisconsin](https://www.instagram.com/reel/DfTBMuDhL7P/)** — @thekateandcody · 2 places · Theme: Surprising Wisconsin state park
+  - What the reel recommends: A surprise-hit Wisconsin state park near Bagley: Wyalusing's 14+ miles of trails, explorable caves, astronomy center, and four campgrounds — with the Old Immigrant & Bluff Loop as the creators' favorite hike.
 
 ## How this page is updated {#how-this-page-is-updated}
 

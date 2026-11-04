@@ -3374,6 +3374,37 @@
    }
   },
   {
+   "id": "reel:DfTBMuDhL7P",
+   "type": "Reel",
+   "properties": {
+    "name": "This state park surprised us — Wyalusing State Park, Wisconsin",
+    "url": "https://www.instagram.com/reel/DfTBMuDhL7P/",
+    "title": "This state park surprised us — Wyalusing State Park, Wisconsin",
+    "creator": "@thekateandcody",
+    "theme": "Surprising Wisconsin state park",
+    "places_count": 2,
+    "recommendation_summary": "A surprise-hit Wisconsin state park near Bagley: Wyalusing's 14+ miles of trails, explorable caves, astronomy center, and four campgrounds — with the Old Immigrant & Bluff Loop as the creators' favorite hike.",
+    "posted": "2026-11-03",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:thekateandcody",
+   "type": "Creator",
+   "properties": {
+    "name": "@thekateandcody",
+    "handle": "@thekateandcody",
+    "display_name": "Kate & Cody Henschke"
+   }
+  },
+  {
+   "id": "theme:surprising-wisconsin-state-park",
+   "type": "Theme",
+   "properties": {
+    "name": "Surprising Wisconsin state park"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10523,6 +10554,67 @@
    "properties": {
     "name": "Swimming"
    }
+  },
+  {
+   "id": "place:wyalusing-state-park-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Wyalusing State Park",
+    "place_id": "wyalusing-state-park-wi",
+    "site": "Wyalusing State Park",
+    "city": "Bagley",
+    "state": "Wisconsin",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 42.97384,
+    "lng": -91.12181,
+    "google_maps_query": "Wyalusing+State+Park+Bagley+WI",
+    "best_for": "Caves / Stargazing",
+    "note": "Pin is OpenStreetMap's Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded."
+   }
+  },
+  {
+   "id": "state:united-states-wisconsin",
+   "type": "State",
+   "properties": {
+    "name": "Wisconsin",
+    "state_code": "",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:wyalusing-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Wyalusing State Park"
+   }
+  },
+  {
+   "id": "theme:caves-stargazing",
+   "type": "Theme",
+   "properties": {
+    "name": "Caves / Stargazing"
+   }
+  },
+  {
+   "id": "place:old-immigrant-bluff-loop-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Old Immigrant & Bluff Loop",
+    "place_id": "old-immigrant-bluff-loop-wi",
+    "site": "Wyalusing State Park",
+    "city": "Bagley",
+    "state": "Wisconsin",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 42.99609,
+    "lng": -91.11774,
+    "google_maps_query": "Old+Immigrant+Trail+Wyalusing+State+Park+WI",
+    "best_for": "Hike",
+    "note": "Pin is OpenStreetMap's Old Immigrant Trail point within Wyalusing State Park."
+   }
   }
  ],
  "edges": [
@@ -12749,6 +12841,18 @@
   {
    "from": "reel:DfUarsMgzMy",
    "to": "theme:midwest-hidden-gem-swimming-spots-part-22",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfTBMuDhL7P",
+   "to": "creator:thekateandcody",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfTBMuDhL7P",
+   "to": "theme:surprising-wisconsin-state-park",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -24629,6 +24733,80 @@
   {
    "from": "place:johnsons-shut-ins-state-park-mo",
    "to": "theme:swimming",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wyalusing-state-park-wi",
+   "to": "state:united-states-wisconsin",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-wisconsin",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-wisconsin",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:wyalusing-state-park-wi",
+   "to": "site:wyalusing-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wyalusing-state-park-wi",
+   "to": "reel:DfTBMuDhL7P",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Caves / Stargazing",
+    "recommendation": "'This state park surprised us': 14+ miles of trails with caves to explore, an astronomy center that's perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.",
+    "creator": "@thekateandcody",
+    "reel_title": "This state park surprised us — Wyalusing State Park, Wisconsin",
+    "reel_theme": "Surprising Wisconsin state park"
+   }
+  },
+  {
+   "from": "place:wyalusing-state-park-wi",
+   "to": "theme:caves-stargazing",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:old-immigrant-bluff-loop-wi",
+   "to": "state:united-states-wisconsin",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:old-immigrant-bluff-loop-wi",
+   "to": "site:wyalusing-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:old-immigrant-bluff-loop-wi",
+   "to": "reel:DfTBMuDhL7P",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "The creators' favorite trail in the park: the Old Immigrant & Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.",
+    "creator": "@thekateandcody",
+    "reel_title": "This state park surprised us — Wyalusing State Park, Wisconsin",
+    "reel_theme": "Surprising Wisconsin state park"
+   }
+  },
+  {
+   "from": "place:old-immigrant-bluff-loop-wi",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
