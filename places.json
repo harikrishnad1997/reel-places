@@ -8585,6 +8585,28 @@
    "additional_sources": [],
    "note": "Pin is the Blue Lakes Trailhead (USFS listing, south of Ridgway); Lower Blue Lake is about 3.3 miles up the trail.",
    "alltrails_url": "https://www.alltrails.com/trail/us/colorado/lower-middle-and-upper-blue-lakes"
+  },
+  {
+   "id": "cave-of-the-mounds-wi",
+   "name": "Cave of the Mounds",
+   "site": "Cave of the Mounds National Natural Landmark",
+   "city": "Blue Mounds",
+   "state": "Wisconsin",
+   "state_code": "WI",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 43.01733,
+   "lng": -89.81484,
+   "google_maps_query": "Cave+of+the+Mounds+WI",
+   "best_for": "Cave tour · Underground formations near Madison",
+   "recommendation": "A whole underground world near Madison: colorful rock formations, sparkling crystals and winding passages on guided tours offered year-round. The cave holds a steady 50°F, so bring a light jacket; it's a great family-friendly stop even on a rainy day, and the grounds above ground are worth exploring too.",
+   "source_reel": "https://www.instagram.com/reel/DfXqS2uCIoi/",
+   "source_title": "A cave in Wisconsin? One of the coolest surprises near Madison",
+   "source_creator": "@alunderfullife",
+   "source_rank": null,
+   "source_reel_theme": "Wisconsin hidden gems",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

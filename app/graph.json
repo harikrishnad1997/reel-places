@@ -3693,6 +3693,37 @@
    }
   },
   {
+   "id": "reel:DfXqS2uCIoi",
+   "type": "Reel",
+   "properties": {
+    "name": "A cave in Wisconsin? One of the coolest surprises near Madison",
+    "url": "https://www.instagram.com/reel/DfXqS2uCIoi/",
+    "title": "A cave in Wisconsin? One of the coolest surprises near Madison",
+    "creator": "@alunderfullife",
+    "theme": "Wisconsin hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Cave of the Mounds in Blue Mounds, Wisconsin — a guided-tour cave near Madison that stays 50°F year-round.",
+    "posted": "2026-11-05",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:alunderfullife",
+   "type": "Creator",
+   "properties": {
+    "name": "@alunderfullife",
+    "handle": "@alunderfullife",
+    "display_name": "Chelsae | Family Travel"
+   }
+  },
+  {
+   "id": "theme:wisconsin-hidden-gems",
+   "type": "Theme",
+   "properties": {
+    "name": "Wisconsin hidden gems"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -11979,6 +12010,39 @@
    "properties": {
     "name": "Mount Sneffels Wilderness"
    }
+  },
+  {
+   "id": "place:cave-of-the-mounds-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Cave of the Mounds",
+    "place_id": "cave-of-the-mounds-wi",
+    "site": "Cave of the Mounds National Natural Landmark",
+    "city": "Blue Mounds",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.01733,
+    "lng": -89.81484,
+    "google_maps_query": "Cave+of+the+Mounds+WI",
+    "best_for": "Cave tour · Underground formations near Madison",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:cave-of-the-mounds-national-natural-landmark",
+   "type": "Site",
+   "properties": {
+    "name": "Cave of the Mounds National Natural Landmark"
+   }
+  },
+  {
+   "id": "theme:cave-tour-underground-formations-near-madison",
+   "type": "Theme",
+   "properties": {
+    "name": "Cave tour · Underground formations near Madison"
+   }
   }
  ],
  "edges": [
@@ -14355,6 +14419,18 @@
   {
    "from": "reel:DfVZYUEytWt",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfXqS2uCIoi",
+   "to": "creator:alunderfullife",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfXqS2uCIoi",
+   "to": "theme:wisconsin-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -27718,6 +27794,37 @@
   {
    "from": "place:blue-lakes-co",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cave-of-the-mounds-wi",
+   "to": "state:united-states-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cave-of-the-mounds-wi",
+   "to": "site:cave-of-the-mounds-national-natural-landmark",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cave-of-the-mounds-wi",
+   "to": "reel:DfXqS2uCIoi",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Cave tour · Underground formations near Madison",
+    "recommendation": "A whole underground world near Madison: colorful rock formations, sparkling crystals and winding passages on guided tours offered year-round. The cave holds a steady 50°F, so bring a light jacket; it's a great family-friendly stop even on a rainy day, and the grounds above ground are worth exploring too.",
+    "creator": "@alunderfullife",
+    "reel_title": "A cave in Wisconsin? One of the coolest surprises near Madison",
+    "reel_theme": "Wisconsin hidden gems"
+   }
+  },
+  {
+   "from": "place:cave-of-the-mounds-wi",
+   "to": "theme:cave-tour-underground-formations-near-madison",
    "type": "BEST_FOR",
    "properties": {}
   }
