@@ -3755,6 +3755,28 @@
    }
   },
   {
+   "id": "reel:De0Uuigv9sW",
+   "type": "Reel",
+   "properties": {
+    "name": "Save these places for Lake Clark National Park!",
+    "url": "https://www.instagram.com/p/De0Uuigv9sW/",
+    "title": "Save these places for Lake Clark National Park!",
+    "creator": "@funsizewanderer",
+    "theme": "Lake Clark National Park guide",
+    "places_count": 15,
+    "recommendation_summary": "A Lake Clark National Park guide (best July–September; fly-in only via air taxi/floatplane from Anchorage or Homer): sights — Lake Clark, Proenneke Cabin & Twin Lakes, Turquoise Lake, Port Alsworth, Chinitna Bay, Crescent Lake, Redoubt Volcano, Iliamna Volcano, Telaquana Lake; hikes — Beaver Pond Loop (3.5 mi easy), Teetering Rock (1.8), Tanalian Falls (4.3), Kontrashibuna Lake (4.3), Tanalian Mountain (9.6 hard). Plus flightseeing, bear watching and boat tours.",
+    "posted": "2026-11-04",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "theme:lake-clark-national-park-guide",
+   "type": "Theme",
+   "properties": {
+    "name": "Lake Clark National Park guide"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -5054,6 +5076,13 @@
    "type": "Site",
    "properties": {
     "name": "Lake Clark National Park and Preserve"
+   }
+  },
+  {
+   "id": "theme:national-park-guide",
+   "type": "Theme",
+   "properties": {
+    "name": "National park guide"
    }
   },
   {
@@ -12100,6 +12129,321 @@
    "properties": {
     "name": "Green Lakes State Park"
    }
+  },
+  {
+   "id": "place:lake-clark-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Lake Clark",
+    "place_id": "lake-clark-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Port Alsworth",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.20801,
+    "lng": -154.37589,
+    "google_maps_query": "Lake+Clark+Alaska",
+    "best_for": "Scenic lake · The park's namesake turquoise lake",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:scenic-lake-the-park-s-namesake-turquoise-lake",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic lake · The park's namesake turquoise lake"
+   }
+  },
+  {
+   "id": "place:proenneke-cabin-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Proenneke Cabin",
+    "place_id": "proenneke-cabin-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Twin Lakes",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.645,
+    "lng": -153.82103,
+    "google_maps_query": "Proenneke+Cabin+Alaska",
+    "best_for": "Historic site · Dick Proenneke's hand-built cabin at Twin Lakes",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:historic-site-dick-proenneke-s-hand-built-cabin-at-twin-lakes",
+   "type": "Theme",
+   "properties": {
+    "name": "Historic site · Dick Proenneke's hand-built cabin at Twin Lakes"
+   }
+  },
+  {
+   "id": "place:turquoise-lake-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Turquoise Lake",
+    "place_id": "turquoise-lake-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Port Alsworth",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.78706,
+    "lng": -153.93946,
+    "google_maps_query": "Turquoise+Lake+Lake+Clark+Alaska",
+    "best_for": "Scenic lake · Glacial turquoise backcountry lake",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:scenic-lake-glacial-turquoise-backcountry-lake",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic lake · Glacial turquoise backcountry lake"
+   }
+  },
+  {
+   "id": "place:port-alsworth-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Port Alsworth",
+    "place_id": "port-alsworth-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Port Alsworth",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.20364,
+    "lng": -154.31713,
+    "google_maps_query": "Port+Alsworth+Alaska",
+    "best_for": "Gateway village · Park visitor center and trailheads",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:gateway-village-park-visitor-center-and-trailheads",
+   "type": "Theme",
+   "properties": {
+    "name": "Gateway village · Park visitor center and trailheads"
+   }
+  },
+  {
+   "id": "place:chinitna-bay-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Chinitna Bay",
+    "place_id": "chinitna-bay-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Chinitna Bay",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 59.84742,
+    "lng": -153.10751,
+    "google_maps_query": "Chinitna+Bay+Alaska",
+    "best_for": "Bear viewing · Coastal brown bears on the Cook Inlet shore",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:crescent-lake-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Crescent Lake",
+    "place_id": "crescent-lake-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Crescent Lake",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.35936,
+    "lng": -152.85937,
+    "google_maps_query": "Crescent+Lake+Lake+Clark+Alaska",
+    "best_for": "Bear viewing · Salmon lake in the Chigmit Mountains",
+    "note": "Pin is the Crescent Lake Ranger Station, whose coordinates NPS publishes; the lake is roadless with no developed trails."
+   }
+  },
+  {
+   "id": "place:redoubt-volcano-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Redoubt Volcano",
+    "place_id": "redoubt-volcano-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Redoubt Volcano",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.4857,
+    "lng": -152.74509,
+    "google_maps_query": "Mount+Redoubt+Alaska",
+    "best_for": "Volcano · Active 10,197-ft stratovolcano",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:volcano-active-10-197-ft-stratovolcano",
+   "type": "Theme",
+   "properties": {
+    "name": "Volcano · Active 10,197-ft stratovolcano"
+   }
+  },
+  {
+   "id": "place:iliamna-volcano-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Iliamna Volcano",
+    "place_id": "iliamna-volcano-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Iliamna Volcano",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.03218,
+    "lng": -153.09152,
+    "google_maps_query": "Mount+Iliamna+Alaska",
+    "best_for": "Volcano · Glacier-covered 10,016-ft peak",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:volcano-glacier-covered-10-016-ft-peak",
+   "type": "Theme",
+   "properties": {
+    "name": "Volcano · Glacier-covered 10,016-ft peak"
+   }
+  },
+  {
+   "id": "place:telaquana-lake-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Telaquana Lake",
+    "place_id": "telaquana-lake-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Telaquana Lake",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.95734,
+    "lng": -153.8582,
+    "google_maps_query": "Telaquana+Lake+Alaska",
+    "best_for": "Scenic lake · Remote lake on the historic Telaquana Trail",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:scenic-lake-remote-lake-on-the-historic-telaquana-trail",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic lake · Remote lake on the historic Telaquana Trail"
+   }
+  },
+  {
+   "id": "place:tanalian-falls-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Tanalian Falls",
+    "place_id": "tanalian-falls-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Port Alsworth",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.18373,
+    "lng": -154.26838,
+    "google_maps_query": "Tanalian+Falls+Alaska",
+    "best_for": "Hike / Waterfall · 4.3 mi, moderate (per the guide)",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:kontrashibuna-lake-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Kontrashibuna Lake",
+    "place_id": "kontrashibuna-lake-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Port Alsworth",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.16898,
+    "lng": -153.98183,
+    "google_maps_query": "Kontrashibuna+Lake+Alaska",
+    "best_for": "Hike · 4.3 mi, moderate (per the guide)",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:tanalian-mountain-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Tanalian Mountain",
+    "place_id": "tanalian-mountain-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Port Alsworth",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.20251,
+    "lng": -154.18629,
+    "google_maps_query": "Tanalian+Mountain+Alaska",
+    "best_for": "Hike · 9.6 mi, hard (per the guide)",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:beaver-pond-loop-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Beaver Pond Loop",
+    "place_id": "beaver-pond-loop-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Port Alsworth",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.20364,
+    "lng": -154.31713,
+    "google_maps_query": "Beaver+Pond+Loop+Port+Alsworth+Alaska",
+    "best_for": "Hike · 3.5 mi, easy (per the guide)",
+    "note": "Pin is Port Alsworth, where the loop starts by the visitor center."
+   }
+  },
+  {
+   "id": "place:teetering-rock-ak",
+   "type": "Place",
+   "properties": {
+    "name": "Teetering Rock",
+    "place_id": "teetering-rock-ak",
+    "site": "Lake Clark National Park and Preserve",
+    "city": "Port Alsworth",
+    "state": "Alaska",
+    "state_code": "AK",
+    "region": "Alaska",
+    "country": "United States",
+    "lat": 60.1899,
+    "lng": -154.29039,
+    "google_maps_query": "Teetering+Rock+Port+Alsworth+Alaska",
+    "best_for": "Hike · 1.8 mi, moderate (per the guide)",
+    "note": "Pin is on the Tanalian Falls trail, the route this short hike follows out of Port Alsworth."
+   }
   }
  ],
  "edges": [
@@ -14500,6 +14844,18 @@
   {
    "from": "reel:Depe-uMJ5j8",
    "to": "theme:upstate-new-york-hidden-gems",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:De0Uuigv9sW",
+   "to": "creator:funsizewanderer",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:De0Uuigv9sW",
+   "to": "theme:lake-clark-national-park-guide",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -16970,6 +17326,25 @@
   {
    "from": "place:lake-clark-national-park-and-preserve-ak",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-clark-national-park-and-preserve-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park guide",
+    "recommendation": "A full park guide: best time to visit is July–September. Sights include Lake Clark itself, Proenneke Cabin at Twin Lakes, Turquoise Lake, Port Alsworth, Chinitna Bay, Crescent Lake, Redoubt and Iliamna volcanoes, and Telaquana Lake; top hikes are Beaver Pond Loop (3.5 mi easy), Teetering Rock (1.8), Tanalian Falls (4.3), Kontrashibuna Lake (4.3) and Tanalian Mountain (9.6 hard). The guide's key tip: the park has no road access — arrive by air taxi or floatplane from Anchorage or Homer, and build in buffer days because pass weather can ground bush planes.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:lake-clark-national-park-and-preserve-ak",
+   "to": "theme:national-park-guide",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -27924,6 +28299,446 @@
   },
   {
    "from": "place:green-lakes-state-park-ny",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-clark-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-clark-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-clark-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic lake · The park's namesake turquoise lake",
+    "recommendation": "One of the guide's named sights: the 42-mile turquoise lake at the heart of the park, ringed by volcanic peaks.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:lake-clark-ak",
+   "to": "theme:scenic-lake-the-park-s-namesake-turquoise-lake",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:proenneke-cabin-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:proenneke-cabin-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:proenneke-cabin-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Historic site · Dick Proenneke's hand-built cabin at Twin Lakes",
+    "recommendation": "One of the guide's named sights: the cabin Dick Proenneke built by hand at Twin Lakes and lived in for 30 years — now an NPS historic site, reached by floatplane.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:proenneke-cabin-ak",
+   "to": "theme:historic-site-dick-proenneke-s-hand-built-cabin-at-twin-lakes",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:turquoise-lake-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:turquoise-lake-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:turquoise-lake-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic lake · Glacial turquoise backcountry lake",
+    "recommendation": "One of the guide's named sights: a vivid turquoise glacial lake in the park's backcountry, beneath the Chigmit Mountains.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:turquoise-lake-ak",
+   "to": "theme:scenic-lake-glacial-turquoise-backcountry-lake",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:port-alsworth-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:port-alsworth-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:port-alsworth-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Gateway village · Park visitor center and trailheads",
+    "recommendation": "One of the guide's named sights: the park's gateway village on Lake Clark's south shore — visitor center, air-taxi hub, and the trailhead for the Tanalian trail network.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:port-alsworth-ak",
+   "to": "theme:gateway-village-park-visitor-center-and-trailheads",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chinitna-bay-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:chinitna-bay-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:chinitna-bay-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bear viewing · Coastal brown bears on the Cook Inlet shore",
+    "recommendation": "One of the guide's named sights: at the southern end of the park's Cook Inlet coast, where as many as twenty coastal brown bears can be visible from a single spot during the season.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:chinitna-bay-ak",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:crescent-lake-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:crescent-lake-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:crescent-lake-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bear viewing · Salmon lake in the Chigmit Mountains",
+    "recommendation": "One of the guide's named sights: a salmon lake in the heart of the Chigmit Mountains — sockeye and silver runs draw brown and black bears to the shoreline; most viewing is from boats, and visitors arrive by floatplane.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:crescent-lake-ak",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:redoubt-volcano-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:redoubt-volcano-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:redoubt-volcano-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Volcano · Active 10,197-ft stratovolcano",
+    "recommendation": "One of the guide's named sights: Mount Redoubt, the active stratovolcano dominating the park's Cook Inlet skyline (last erupted in 2009).",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:redoubt-volcano-ak",
+   "to": "theme:volcano-active-10-197-ft-stratovolcano",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:iliamna-volcano-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:iliamna-volcano-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:iliamna-volcano-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Volcano · Glacier-covered 10,016-ft peak",
+    "recommendation": "One of the guide's named sights (spelled 'Iliamana' in the caption): Mount Iliamna, the glacier-covered volcano at the park's southern end.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:iliamna-volcano-ak",
+   "to": "theme:volcano-glacier-covered-10-016-ft-peak",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:telaquana-lake-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:telaquana-lake-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:telaquana-lake-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic lake · Remote lake on the historic Telaquana Trail",
+    "recommendation": "One of the guide's named sights: a remote lake on the historic Telaquana Trail route across the park's northern backcountry.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:telaquana-lake-ak",
+   "to": "theme:scenic-lake-remote-lake-on-the-historic-telaquana-trail",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:tanalian-falls-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:tanalian-falls-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:tanalian-falls-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Waterfall · 4.3 mi, moderate (per the guide)",
+    "recommendation": "One of the guide's best hikes: the 4.3-mile moderate trail from Port Alsworth to a waterfall on the Tanalian River, in the shadow of Tanalian Mountain.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:tanalian-falls-ak",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:tanalian-falls-ak",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kontrashibuna-lake-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:kontrashibuna-lake-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kontrashibuna-lake-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · 4.3 mi, moderate (per the guide)",
+    "recommendation": "One of the guide's best hikes: the 4.3-mile moderate hike from Port Alsworth to this long lake east of town, with Tanalian Mountain views.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:kontrashibuna-lake-ak",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:tanalian-mountain-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:tanalian-mountain-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:tanalian-mountain-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · 9.6 mi, hard (per the guide)",
+    "recommendation": "One of the guide's best hikes: the 9.6-mile hard climb up the 3,800-ft peak that towers over Port Alsworth and Lake Clark.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:tanalian-mountain-ak",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:beaver-pond-loop-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:beaver-pond-loop-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:beaver-pond-loop-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · 3.5 mi, easy (per the guide)",
+    "recommendation": "One of the guide's best hikes: a 3.5-mile easy loop from Port Alsworth through spruce forest to a beaver pond — the park's gentlest trail.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:beaver-pond-loop-ak",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:teetering-rock-ak",
+   "to": "state:united-states-ak",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:teetering-rock-ak",
+   "to": "site:lake-clark-national-park-and-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:teetering-rock-ak",
+   "to": "reel:De0Uuigv9sW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · 1.8 mi, moderate (per the guide)",
+    "recommendation": "One of the guide's best hikes: a 1.8-mile moderate hike in the Tanalian trail network out of Port Alsworth, to a giant boulder balanced above the trail.",
+    "creator": "@funsizewanderer",
+    "reel_title": "Save these places for Lake Clark National Park!",
+    "reel_theme": "Lake Clark National Park guide"
+   }
+  },
+  {
+   "from": "place:teetering-rock-ak",
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}

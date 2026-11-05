@@ -3,6 +3,8 @@ layout: default
 title: Reel Places — Locations from Instagram Reels, by Region
 ---
 
+<a id="top"></a>
+
 # Reel Places
 
 **Locations saved from Instagram reels, divided by region and state — with a map, a pin for every place, what each reel recommended it for, and a link back to the source reel.**
@@ -17,7 +19,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Mountain West Region — 46 places](#mountain-west)
 - [West Region — 51 places](#west)
 - [Pacific Northwest Region — 21 places](#pacific-northwest)
-- [Alaska Region — 15 places](#alaska)
+- [Alaska Region — 29 places](#alaska)
 - [Hawaii Region — 5 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
 - [Source reels](#source-reels)
@@ -26,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 48 · Southeast 46 · Midwest 18 · Southwest 70 · Mountain West 46 · West 51 · Pacific Northwest 21 · Alaska 15 · Hawaii 5 · U.S. Territories 3 · **Total 323**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 48 · Southeast 46 · Midwest 18 · Southwest 70 · Mountain West 46 · West 51 · Pacific Northwest 21 · Alaska 29 · Hawaii 5 · U.S. Territories 3 · **Total 337**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -3009,7 +3011,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Alaska Region {#alaska}
 
-**15 places · Alaska**
+**29 places · Alaska**
 
 ### Denali National Park and Preserve
 
@@ -3160,9 +3162,22 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 #### Alaska
 
+##### Bear viewing · Coastal brown bears on the Cook Inlet shore
+
+- **13. [Chinitna Bay](https://www.google.com/maps/search/?api=1&query=Chinitna+Bay+Alaska)** — Lake Clark National Park and Preserve, Chinitna Bay
+  - **Best for:** Bear viewing · Coastal brown bears on the Cook Inlet shore — One of the guide's named sights: at the southern end of the park's Cook Inlet coast, where as many as twenty coastal brown bears can be visible from a single spot during the season.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Bear viewing · Salmon lake in the Chigmit Mountains
+
+- **14. [Crescent Lake](https://www.google.com/maps/search/?api=1&query=Crescent+Lake+Lake+Clark+Alaska)** — Lake Clark National Park and Preserve, Crescent Lake
+  - **Best for:** Bear viewing · Salmon lake in the Chigmit Mountains — One of the guide's named sights: a salmon lake in the heart of the Chigmit Mountains — sockeye and silver runs draw brown and black bears to the shoreline; most viewing is from boats, and visitors arrive by floatplane.
+  - Pin is the Crescent Lake Ranger Station, whose coordinates NPS publishes; the lake is roadless with no developed trails.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
 ##### Bucket list
 
-- **13. [Lake Clark National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Lake+Clark+National+Park+and+Preserve+AK)** — Lake Clark National Park and Preserve, Port Alsworth
+- **15. [Lake Clark National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Lake+Clark+National+Park+and+Preserve+AK)** — Lake Clark National Park and Preserve, Port Alsworth
   - **Best for:** Bucket list — Ranked #2 bucket list park, with braided rivers, snow-capped mountains, glaciers and a brown bear with cubs in a meadow.
   - 🎬 Source: [My Top 5 Bucket List National Parks](https://www.instagram.com/reel/DezrbJsPMPY/) by @amorywild (#2 in that reel)
   - 🎬 Also recommended by: [5 Most Expensive National Parks](https://www.instagram.com/reel/DeJr8XZO90W/) by @amorywild
@@ -3171,6 +3186,82 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Wildlife / Scenery — His #5: praised for stunning scenery and wildlife — green meadows with brown bears including a mother with three cubs, aerial views of braided glacial rivers, and dramatic snow-covered mountain peaks.
   - 🎬 Also recommended by: [Wildlife / Scenic flight — Lake Clark National Park and Preserve](https://www.instagram.com/reel/DdwVrJouVO9/) by @amorywild
     - **Best for:** Aerial view / Glacier scenery — Caption names Lake Clark NP. From a small aircraft, the video pans across rugged snow-covered peaks and extensive glaciers; on-screen text reads, 'Hoping to see a view this beautiful again one day...'
+  - 🎬 Also recommended by: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer
+    - **Best for:** National park guide — A full park guide: best time to visit is July–September. Sights include Lake Clark itself, Proenneke Cabin at Twin Lakes, Turquoise Lake, Port Alsworth, Chinitna Bay, Crescent Lake, Redoubt and Iliamna volcanoes, and Telaquana Lake; top hikes are Beaver Pond Loop (3.5 mi easy), Teetering Rock (1.8), Tanalian Falls (4.3), Kontrashibuna Lake (4.3) and Tanalian Mountain (9.6 hard). The guide's key tip: the park has no road access — arrive by air taxi or floatplane from Anchorage or Homer, and build in buffer days because pass weather can ground bush planes.
+
+##### Gateway village · Park visitor center and trailheads
+
+- **16. [Port Alsworth](https://www.google.com/maps/search/?api=1&query=Port+Alsworth+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
+  - **Best for:** Gateway village · Park visitor center and trailheads — One of the guide's named sights: the park's gateway village on Lake Clark's south shore — visitor center, air-taxi hub, and the trailhead for the Tanalian trail network.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Hike
+
+- **17. [Tanalian Falls](https://www.google.com/maps/search/?api=1&query=Tanalian+Falls+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
+  - **Best for:** Hike / Waterfall · 4.3 mi, moderate (per the guide) — One of the guide's best hikes: the 4.3-mile moderate trail from Port Alsworth to a waterfall on the Tanalian River, in the shadow of Tanalian Mountain.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Hike · 1.8 mi, moderate (per the guide)
+
+- **18. [Teetering Rock](https://www.google.com/maps/search/?api=1&query=Teetering+Rock+Port+Alsworth+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
+  - **Best for:** Hike · 1.8 mi, moderate (per the guide) — One of the guide's best hikes: a 1.8-mile moderate hike in the Tanalian trail network out of Port Alsworth, to a giant boulder balanced above the trail.
+  - Pin is on the Tanalian Falls trail, the route this short hike follows out of Port Alsworth.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Hike · 3.5 mi, easy (per the guide)
+
+- **19. [Beaver Pond Loop](https://www.google.com/maps/search/?api=1&query=Beaver+Pond+Loop+Port+Alsworth+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
+  - **Best for:** Hike · 3.5 mi, easy (per the guide) — One of the guide's best hikes: a 3.5-mile easy loop from Port Alsworth through spruce forest to a beaver pond — the park's gentlest trail.
+  - Pin is Port Alsworth, where the loop starts by the visitor center.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Hike · 4.3 mi, moderate (per the guide)
+
+- **20. [Kontrashibuna Lake](https://www.google.com/maps/search/?api=1&query=Kontrashibuna+Lake+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
+  - **Best for:** Hike · 4.3 mi, moderate (per the guide) — One of the guide's best hikes: the 4.3-mile moderate hike from Port Alsworth to this long lake east of town, with Tanalian Mountain views.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Hike · 9.6 mi, hard (per the guide)
+
+- **21. [Tanalian Mountain](https://www.google.com/maps/search/?api=1&query=Tanalian+Mountain+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
+  - **Best for:** Hike · 9.6 mi, hard (per the guide) — One of the guide's best hikes: the 9.6-mile hard climb up the 3,800-ft peak that towers over Port Alsworth and Lake Clark.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Historic site · Dick Proenneke's hand-built cabin at Twin Lakes
+
+- **22. [Proenneke Cabin](https://www.google.com/maps/search/?api=1&query=Proenneke+Cabin+Alaska)** — Lake Clark National Park and Preserve, Twin Lakes
+  - **Best for:** Historic site · Dick Proenneke's hand-built cabin at Twin Lakes — One of the guide's named sights: the cabin Dick Proenneke built by hand at Twin Lakes and lived in for 30 years — now an NPS historic site, reached by floatplane.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Scenic lake · Glacial turquoise backcountry lake
+
+- **23. [Turquoise Lake](https://www.google.com/maps/search/?api=1&query=Turquoise+Lake+Lake+Clark+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
+  - **Best for:** Scenic lake · Glacial turquoise backcountry lake — One of the guide's named sights: a vivid turquoise glacial lake in the park's backcountry, beneath the Chigmit Mountains.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Scenic lake · Remote lake on the historic Telaquana Trail
+
+- **24. [Telaquana Lake](https://www.google.com/maps/search/?api=1&query=Telaquana+Lake+Alaska)** — Lake Clark National Park and Preserve, Telaquana Lake
+  - **Best for:** Scenic lake · Remote lake on the historic Telaquana Trail — One of the guide's named sights: a remote lake on the historic Telaquana Trail route across the park's northern backcountry.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Scenic lake · The park's namesake turquoise lake
+
+- **25. [Lake Clark](https://www.google.com/maps/search/?api=1&query=Lake+Clark+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
+  - **Best for:** Scenic lake · The park's namesake turquoise lake — One of the guide's named sights: the 42-mile turquoise lake at the heart of the park, ringed by volcanic peaks.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Volcano · Active 10,197-ft stratovolcano
+
+- **26. [Redoubt Volcano](https://www.google.com/maps/search/?api=1&query=Mount+Redoubt+Alaska)** — Lake Clark National Park and Preserve, Redoubt Volcano
+  - **Best for:** Volcano · Active 10,197-ft stratovolcano — One of the guide's named sights: Mount Redoubt, the active stratovolcano dominating the park's Cook Inlet skyline (last erupted in 2009).
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+
+##### Volcano · Glacier-covered 10,016-ft peak
+
+- **27. [Iliamna Volcano](https://www.google.com/maps/search/?api=1&query=Mount+Iliamna+Alaska)** — Lake Clark National Park and Preserve, Iliamna Volcano
+  - **Best for:** Volcano · Glacier-covered 10,016-ft peak — One of the guide's named sights (spelled 'Iliamana' in the caption): Mount Iliamna, the glacier-covered volcano at the park's southern end.
+  - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
 
 ### Wrangell-St. Elias National Park and Preserve
 
@@ -3178,7 +3269,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **14. [Root Glacier](https://www.google.com/maps/search/?api=1&query=Root+Glacier+Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
+- **28. [Root Glacier](https://www.google.com/maps/search/?api=1&query=Root+Glacier+Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
   - **Best for:** Hike — Ranked #2, showcasing close-ups of blue ice, meltwater streams and glacial pools on the Root Glacier.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/alaska/root-glacier-trail)
   - 🎬 Source: [My Top 5 Awe-Inspiring National Park Hikes](https://www.instagram.com/reel/DerSq5htCWS/) by @amorywild (#2 in that reel)
@@ -3189,7 +3280,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top national park
 
-- **15. [Wrangell-St. Elias National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
+- **29. [Wrangell-St. Elias National Park and Preserve](https://www.google.com/maps/search/?api=1&query=Wrangell-St.+Elias+National+Park+and+Preserve+AK)** — Wrangell-St. Elias National Park and Preserve, McCarthy
   - **Best for:** Top national park — Ranked #13, featuring vast glaciers, ice caves and meltwater streams.
   - Nominatim has no entry for the park itself; the pin is McCarthy, the main access town inside the park.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#13 in that reel)
@@ -3673,7 +3764,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Cave of the Mounds in Blue Mounds, Wisconsin — a guided-tour cave near Madison that stays 50°F year-round.
 - **[I thought this shade of blue required a passport](https://www.instagram.com/reel/Depe-uMJ5j8/)** — @daytripnomad · 1 places · Theme: Upstate New York hidden gems
   - What the reel recommends: Green Lakes State Park near Fayetteville, NY — two rare meromictic lakes with Caribbean-blue water, an easy shoreline trail, beach swimming and kayaking.
+- **[Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/)** — @funsizewanderer · 15 places · Theme: Lake Clark National Park guide
+  - What the reel recommends: A Lake Clark National Park guide (best July–September; fly-in only via air taxi/floatplane from Anchorage or Homer): sights — Lake Clark, Proenneke Cabin & Twin Lakes, Turquoise Lake, Port Alsworth, Chinitna Bay, Crescent Lake, Redoubt Volcano, Iliamna Volcano, Telaquana Lake; hikes — Beaver Pond Loop (3.5 mi easy), Teetering Rock (1.8), Tanalian Falls (4.3), Kontrashibuna Lake (4.3), Tanalian Mountain (9.6 hard). Plus flightseeing, bear watching and boat tours.
 
 ## How this page is updated {#how-this-page-is-updated}
 
 Send Muse an Instagram reel link in chat. Muse reads the caption and the video itself, extracts every named location, verifies and geocodes each one, assigns its region and state, records what the reel recommended it for and a link to the reel, then regenerates this list and the map from `places.json` and pushes the update to GitHub Pages. Duplicates (same name + state) are not added twice.
+
+[↑ Back to top](#top)
+
+<a href="#top" title="Back to top" style="position:fixed; right:16px; bottom:16px; z-index:99; background:#1d6fb8; color:#fff; padding:10px 16px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600; box-shadow:0 2px 6px rgba(0,0,0,.3);">↑ Top</a>
