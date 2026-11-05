@@ -3852,6 +3852,28 @@
    }
   },
   {
+   "id": "reel:De5xjn8S4vF",
+   "type": "Reel",
+   "properties": {
+    "name": "A fall day trip 40 minutes from Kansas City: Weston Bend + Weston, MO",
+    "url": "https://www.instagram.com/reel/De5xjn8S4vF/",
+    "title": "A fall day trip 40 minutes from Kansas City: Weston Bend + Weston, MO",
+    "creator": "@throughourlinds",
+    "theme": "Midwest fall day trips",
+    "places_count": 2,
+    "recommendation_summary": "A fall day trip 40 minutes from Kansas City: Weston Bend State Park (scenic overlook over the Missouri River valley, bluff trails, campground) paired with downtown Weston's shops, historic streets and nearby orchards.",
+    "posted": "2026-10-24",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "theme:midwest-fall-day-trips",
+   "type": "Theme",
+   "properties": {
+    "name": "Midwest fall day trips"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12618,6 +12640,74 @@
    "properties": {
     "name": "Spring swimming · Kayak a crystal-clear 72°F river"
    }
+  },
+  {
+   "id": "place:weston-bend-state-park-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Weston Bend State Park",
+    "place_id": "weston-bend-state-park-mo",
+    "site": "Weston Bend State Park",
+    "city": "Weston",
+    "state": "Missouri",
+    "state_code": "MO",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 39.38978,
+    "lng": -94.87379,
+    "google_maps_query": "Weston+Bend+State+Park+MO",
+    "best_for": "Scenic overlook · Fall hiking above the Missouri River",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-mo",
+   "type": "State",
+   "properties": {
+    "name": "Missouri",
+    "state_code": "MO",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:weston-bend-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Weston Bend State Park"
+   }
+  },
+  {
+   "id": "place:weston-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Weston",
+    "place_id": "weston-mo",
+    "site": "Weston",
+    "city": "Weston",
+    "state": "Missouri",
+    "state_code": "MO",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 39.41433,
+    "lng": -94.90063,
+    "google_maps_query": "Weston+Missouri",
+    "best_for": "Small town · Historic downtown, shops and fall orchards",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:weston",
+   "type": "Site",
+   "properties": {
+    "name": "Weston"
+   }
+  },
+  {
+   "id": "theme:small-town-historic-downtown-shops-and-fall-orchards",
+   "type": "Theme",
+   "properties": {
+    "name": "Small town · Historic downtown, shops and fall orchards"
+   }
   }
  ],
  "edges": [
@@ -15066,6 +15156,18 @@
   {
    "from": "reel:Dc7ZhgwRA9P",
    "to": "theme:florida-springs-hidden-gems",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:De5xjn8S4vF",
+   "to": "creator:throughourlinds",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:De5xjn8S4vF",
+   "to": "theme:midwest-fall-day-trips",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -29043,6 +29145,80 @@
   {
    "from": "place:rainbow-springs-state-park-fl",
    "to": "theme:spring-swimming-kayak-a-crystal-clear-72-f-river",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:weston-bend-state-park-mo",
+   "to": "state:united-states-mo",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-mo",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-mo",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:weston-bend-state-park-mo",
+   "to": "site:weston-bend-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:weston-bend-state-park-mo",
+   "to": "reel:De5xjn8S4vF",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic overlook · Fall hiking above the Missouri River",
+    "recommendation": "The reel's day-trip anchor, 40 minutes from Kansas City: start at the scenic overlook for sweeping views of the Missouri River valley and fall foliage, then walk the wooded bluff trails (paved and natural-surface options). There's a campground too — the creators camped here and recommend it for turning the day trip into a weekend.",
+    "creator": "@throughourlinds",
+    "reel_title": "A fall day trip 40 minutes from Kansas City: Weston Bend + Weston, MO",
+    "reel_theme": "Midwest fall day trips"
+   }
+  },
+  {
+   "from": "place:weston-bend-state-park-mo",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:weston-mo",
+   "to": "state:united-states-mo",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:weston-mo",
+   "to": "site:weston",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:weston-mo",
+   "to": "reel:De5xjn8S4vF",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Small town · Historic downtown, shops and fall orchards",
+    "recommendation": "The reel's second stop: downtown Weston, with adorable local shops, boutiques and historic streets — plus nearby orchards, seasonal farm activities, and fall events to round out the day trip.",
+    "creator": "@throughourlinds",
+    "reel_title": "A fall day trip 40 minutes from Kansas City: Weston Bend + Weston, MO",
+    "reel_theme": "Midwest fall day trips"
+   }
+  },
+  {
+   "from": "place:weston-mo",
+   "to": "theme:small-town-historic-downtown-shops-and-fall-orchards",
    "type": "BEST_FOR",
    "properties": {}
   }
