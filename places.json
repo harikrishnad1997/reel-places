@@ -8607,6 +8607,28 @@
    "source_rank": null,
    "source_reel_theme": "Wisconsin hidden gems",
    "additional_sources": []
+  },
+  {
+   "id": "green-lakes-state-park-ny",
+   "name": "Green Lakes State Park",
+   "site": "Green Lakes State Park",
+   "city": "Fayetteville",
+   "state": "New York",
+   "state_code": "NY",
+   "country": "United States",
+   "region": "Northeast",
+   "region_id": "northeast",
+   "lat": 43.04664,
+   "lng": -75.98337,
+   "google_maps_query": "Green+Lakes+State+Park+NY",
+   "best_for": "Meromictic lakes · Blue-green water without a major hike",
+   "recommendation": "Two rare meromictic lakes — Green Lake and Round Lake — whose deep waters never mix seasonally, and whose unusual chemistry creates a striking blue-green color that looks like it should need a passport. Walk the easy shoreline trail, swim at the beach in season, kayak, or picnic — a few hours of exploring without needing a major hike.",
+   "source_reel": "https://www.instagram.com/reel/Depe-uMJ5j8/",
+   "source_title": "I thought this shade of blue required a passport",
+   "source_creator": "@daytripnomad",
+   "source_rank": null,
+   "source_reel_theme": "Upstate New York hidden gems",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

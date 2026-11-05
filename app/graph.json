@@ -3724,6 +3724,37 @@
    }
   },
   {
+   "id": "reel:Depe-uMJ5j8",
+   "type": "Reel",
+   "properties": {
+    "name": "I thought this shade of blue required a passport",
+    "url": "https://www.instagram.com/reel/Depe-uMJ5j8/",
+    "title": "I thought this shade of blue required a passport",
+    "creator": "@daytripnomad",
+    "theme": "Upstate New York hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Green Lakes State Park near Fayetteville, NY — two rare meromictic lakes with Caribbean-blue water, an easy shoreline trail, beach swimming and kayaking.",
+    "posted": "2026-10-18",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:daytripnomad",
+   "type": "Creator",
+   "properties": {
+    "name": "@daytripnomad",
+    "handle": "@daytripnomad",
+    "display_name": "Day Trip Nomad | USA Travel"
+   }
+  },
+  {
+   "id": "theme:upstate-new-york-hidden-gems",
+   "type": "Theme",
+   "properties": {
+    "name": "Upstate New York hidden gems"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12043,6 +12074,32 @@
    "properties": {
     "name": "Cave tour · Underground formations near Madison"
    }
+  },
+  {
+   "id": "place:green-lakes-state-park-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Green Lakes State Park",
+    "place_id": "green-lakes-state-park-ny",
+    "site": "Green Lakes State Park",
+    "city": "Fayetteville",
+    "state": "New York",
+    "state_code": "NY",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 43.04664,
+    "lng": -75.98337,
+    "google_maps_query": "Green+Lakes+State+Park+NY",
+    "best_for": "Meromictic lakes · Blue-green water without a major hike",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:green-lakes-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Green Lakes State Park"
+   }
   }
  ],
  "edges": [
@@ -14431,6 +14488,18 @@
   {
    "from": "reel:DfXqS2uCIoi",
    "to": "theme:wisconsin-hidden-gems",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Depe-uMJ5j8",
+   "to": "creator:daytripnomad",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Depe-uMJ5j8",
+   "to": "theme:upstate-new-york-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -27825,6 +27894,37 @@
   {
    "from": "place:cave-of-the-mounds-wi",
    "to": "theme:cave-tour-underground-formations-near-madison",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:green-lakes-state-park-ny",
+   "to": "state:united-states-ny",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:green-lakes-state-park-ny",
+   "to": "site:green-lakes-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:green-lakes-state-park-ny",
+   "to": "reel:Depe-uMJ5j8",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Meromictic lakes · Blue-green water without a major hike",
+    "recommendation": "Two rare meromictic lakes — Green Lake and Round Lake — whose deep waters never mix seasonally, and whose unusual chemistry creates a striking blue-green color that looks like it should need a passport. Walk the easy shoreline trail, swim at the beach in season, kayak, or picnic — a few hours of exploring without needing a major hike.",
+    "creator": "@daytripnomad",
+    "reel_title": "I thought this shade of blue required a passport",
+    "reel_theme": "Upstate New York hidden gems"
+   }
+  },
+  {
+   "from": "place:green-lakes-state-park-ny",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
