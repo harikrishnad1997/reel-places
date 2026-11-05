@@ -3647,6 +3647,28 @@
    }
   },
   {
+   "id": "reel:DecRg0zxbPF",
+   "type": "Reel",
+   "properties": {
+    "name": "There's a hidden underground hot spring in Utah… and you can swim inside it!",
+    "url": "https://www.instagram.com/reel/DecRg0zxbPF/",
+    "title": "There's a hidden underground hot spring in Utah… and you can swim inside it!",
+    "creator": "@adventurefamilyvlog",
+    "theme": "Utah hidden gems / hot springs",
+    "places_count": 1,
+    "recommendation_summary": "Homestead Crater in Midway, Utah — a swim-in geothermal hot spring hidden inside a 55-foot limestone dome at the Homestead Resort; day visitors welcome, reservations recommended.",
+    "posted": "2026-10-13",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "theme:utah-hidden-gems-hot-springs",
+   "type": "Theme",
+   "properties": {
+    "name": "Utah hidden gems / hot springs"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -11725,6 +11747,39 @@
    "properties": {
     "name": "Stargazing · Vast desert with minimal light pollution"
    }
+  },
+  {
+   "id": "place:homestead-crater-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Homestead Crater",
+    "place_id": "homestead-crater-ut",
+    "site": "Homestead Resort",
+    "city": "Midway",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 40.52392,
+    "lng": -111.48502,
+    "google_maps_query": "Homestead+Crater+Midway+UT",
+    "best_for": "Hot spring · Swim inside a 55-foot limestone crater",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:homestead-resort",
+   "type": "Site",
+   "properties": {
+    "name": "Homestead Resort"
+   }
+  },
+  {
+   "id": "theme:hot-spring-swim-inside-a-55-foot-limestone-crater",
+   "type": "Theme",
+   "properties": {
+    "name": "Hot spring · Swim inside a 55-foot limestone crater"
+   }
   }
  ],
  "edges": [
@@ -14077,6 +14132,18 @@
   {
    "from": "reel:DfD2yGrmvkK",
    "to": "theme:dark-sky-milky-way-destinations",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DecRg0zxbPF",
+   "to": "creator:adventurefamilyvlog",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DecRg0zxbPF",
+   "to": "theme:utah-hidden-gems-hot-springs",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -27110,6 +27177,43 @@
   {
    "from": "place:big-bend-ranch-state-park-tx",
    "to": "theme:stargazing-vast-desert-with-minimal-light-pollution",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:homestead-crater-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ut",
+   "to": "region:mountain-west",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:homestead-crater-ut",
+   "to": "site:homestead-resort",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:homestead-crater-ut",
+   "to": "reel:DecRg0zxbPF",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hot spring · Swim inside a 55-foot limestone crater",
+    "recommendation": "A hidden underground hot spring inside a 55-foot-tall limestone crater: a naturally heated geothermal pool at 90–96°F year-round, about 65 feet deep, that you can soak, swim, snorkel or even scuba dive in. It's at the Homestead Resort in Midway, just outside Park City, but day visitors are welcome — $30 per person (the reel notes it was $15 when filmed) for a 60-minute session with about 40 minutes in the water; life jackets are required and provided, and reservations are recommended since weekends fill up.",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "There's a hidden underground hot spring in Utah… and you can swim inside it!",
+    "reel_theme": "Utah hidden gems / hot springs"
+   }
+  },
+  {
+   "from": "place:homestead-crater-ut",
+   "to": "theme:hot-spring-swim-inside-a-55-foot-limestone-crater",
    "type": "BEST_FOR",
    "properties": {}
   }

@@ -8360,6 +8360,28 @@
    "source_rank": null,
    "source_reel_theme": "Dark-sky Milky Way destinations",
    "additional_sources": []
+  },
+  {
+   "id": "homestead-crater-ut",
+   "name": "Homestead Crater",
+   "site": "Homestead Resort",
+   "city": "Midway",
+   "state": "Utah",
+   "state_code": "UT",
+   "country": "United States",
+   "region": "Mountain West",
+   "region_id": "mountain-west",
+   "lat": 40.52392,
+   "lng": -111.48502,
+   "google_maps_query": "Homestead+Crater+Midway+UT",
+   "best_for": "Hot spring · Swim inside a 55-foot limestone crater",
+   "recommendation": "A hidden underground hot spring inside a 55-foot-tall limestone crater: a naturally heated geothermal pool at 90–96°F year-round, about 65 feet deep, that you can soak, swim, snorkel or even scuba dive in. It's at the Homestead Resort in Midway, just outside Park City, but day visitors are welcome — $30 per person (the reel notes it was $15 when filmed) for a 60-minute session with about 40 minutes in the water; life jackets are required and provided, and reservations are recommended since weekends fill up.",
+   "source_reel": "https://www.instagram.com/reel/DecRg0zxbPF/",
+   "source_title": "There's a hidden underground hot spring in Utah… and you can swim inside it!",
+   "source_creator": "@adventurefamilyvlog",
+   "source_rank": null,
+   "source_reel_theme": "Utah hidden gems / hot springs",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",
