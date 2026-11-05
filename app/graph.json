@@ -3537,6 +3537,37 @@
    }
   },
   {
+   "id": "reel:DfU-tMFRe-v",
+   "type": "Reel",
+   "properties": {
+    "name": "Pennsylvania Road Trip Ideas Part 2",
+    "url": "https://www.instagram.com/reel/DfU-tMFRe-v/",
+    "title": "Pennsylvania Road Trip Ideas Part 2",
+    "creator": "@hunterhulbert",
+    "theme": "Pennsylvania Wilds road trip",
+    "places_count": 10,
+    "recommendation_summary": "A PA Wilds road trip through central and northern Pennsylvania: a boat tour through Penn's Cave, the Bilger's Rocks sandstone maze, elk watching near Benezette, the Pine Creek Gorge overlooks and Turkey Path, and gas-lit Wellsboro — plus caption honorable mentions Austin Dam Ruins, Cherry Springs, Kinzua Bridge, Hyner View and Worlds End state parks.",
+    "posted": "2026-11-04",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:hunterhulbert",
+   "type": "Creator",
+   "properties": {
+    "name": "@hunterhulbert",
+    "handle": "@hunterhulbert",
+    "display_name": "Hunter Hulbert"
+   }
+  },
+  {
+   "id": "theme:pennsylvania-wilds-road-trip",
+   "type": "Theme",
+   "properties": {
+    "name": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -7597,6 +7628,13 @@
    }
   },
   {
+   "id": "theme:road-trip-stop",
+   "type": "Theme",
+   "properties": {
+    "name": "Road trip stop"
+   }
+  },
+  {
    "id": "place:great-basin-national-park-nv",
    "type": "Place",
    "properties": {
@@ -8184,13 +8222,6 @@
    "type": "Site",
    "properties": {
     "name": "Hanksville"
-   }
-  },
-  {
-   "id": "theme:road-trip-stop",
-   "type": "Theme",
-   "properties": {
-    "name": "Road trip stop"
    }
   },
   {
@@ -10992,6 +11023,291 @@
    "properties": {
     "name": "Cape Kiwanda State Natural Area"
    }
+  },
+  {
+   "id": "place:penns-cave-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Penn's Cave",
+    "place_id": "penns-cave-pa",
+    "site": "Penn's Cave & Wildlife Park",
+    "city": "Centre Hall",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 40.882364,
+    "lng": -77.611593,
+    "google_maps_query": "Penn's+Cave+Centre+Hall+PA",
+    "best_for": "Cave tour · America's only all-water cavern, toured by boat",
+    "note": "Coordinates from the venue's published location, 222 Penns Cave Rd, Centre Hall (OpenStreetMap has no attraction point for the cave)."
+   }
+  },
+  {
+   "id": "state:united-states-pa",
+   "type": "State",
+   "properties": {
+    "name": "Pennsylvania",
+    "state_code": "PA",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:penn-s-cave-wildlife-park",
+   "type": "Site",
+   "properties": {
+    "name": "Penn's Cave & Wildlife Park"
+   }
+  },
+  {
+   "id": "theme:cave-tour-america-s-only-all-water-cavern-toured-by-boat",
+   "type": "Theme",
+   "properties": {
+    "name": "Cave tour · America's only all-water cavern, toured by boat"
+   }
+  },
+  {
+   "id": "place:bilgers-rocks-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Bilger's Rocks",
+    "place_id": "bilgers-rocks-pa",
+    "site": "Bilger's Rocks",
+    "city": "Grampian",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 40.99406,
+    "lng": -78.59211,
+    "google_maps_query": "Bilger's+Rocks+Grampian+PA",
+    "best_for": "Hike · Ancient sandstone rock maze",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:bilger-s-rocks",
+   "type": "Site",
+   "properties": {
+    "name": "Bilger's Rocks"
+   }
+  },
+  {
+   "id": "place:benezette-elk-viewing-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Benezette Elk Viewing",
+    "place_id": "benezette-elk-viewing-pa",
+    "site": "Elk Country Visitor Center (Winslow Hill)",
+    "city": "Benezette",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.32325,
+    "lng": -78.36789,
+    "google_maps_query": "Elk+Country+Visitor+Center+Benezette+PA",
+    "best_for": "Wildlife · Wild elk herd viewing",
+    "note": "Pin is the Elk Country Visitor Center in Benezette, the center of the Winslow Hill elk-viewing area the reel films."
+   }
+  },
+  {
+   "id": "site:elk-country-visitor-center-winslow-hill",
+   "type": "Site",
+   "properties": {
+    "name": "Elk Country Visitor Center (Winslow Hill)"
+   }
+  },
+  {
+   "id": "place:pine-creek-gorge-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Pine Creek Gorge (PA Grand Canyon)",
+    "place_id": "pine-creek-gorge-pa",
+    "site": "Leonard Harrison State Park",
+    "city": "Wellsboro",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.70031,
+    "lng": -77.45382,
+    "google_maps_query": "Pine+Creek+Gorge+Leonard+Harrison+State+Park+PA",
+    "best_for": "Scenic overlook · PA Grand Canyon overlooks and Turkey Path waterfall",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:leonard-harrison-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Leonard Harrison State Park"
+   }
+  },
+  {
+   "id": "place:wellsboro-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Wellsboro",
+    "place_id": "wellsboro-pa",
+    "site": "Wellsboro",
+    "city": "Wellsboro",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.74868,
+    "lng": -77.30053,
+    "google_maps_query": "Wellsboro+PA",
+    "best_for": "Small town stop · Gas-lit Main Street and the Wellsboro Diner",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:wellsboro",
+   "type": "Site",
+   "properties": {
+    "name": "Wellsboro"
+   }
+  },
+  {
+   "id": "theme:small-town-stop-gas-lit-main-street-and-the-wellsboro-diner",
+   "type": "Theme",
+   "properties": {
+    "name": "Small town stop · Gas-lit Main Street and the Wellsboro Diner"
+   }
+  },
+  {
+   "id": "place:austin-dam-ruins-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Austin Dam Ruins",
+    "place_id": "austin-dam-ruins-pa",
+    "site": "Austin Dam Memorial Park",
+    "city": "Austin",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.65308,
+    "lng": -78.08446,
+    "google_maps_query": "Austin+Dam+Ruins+Potter+County+PA",
+    "best_for": "Historic site · Ruins of the 1911 Austin Dam failure",
+    "note": "Pin is OpenStreetMap's Austin Dam Overlook viewpoint."
+   }
+  },
+  {
+   "id": "site:austin-dam-memorial-park",
+   "type": "Site",
+   "properties": {
+    "name": "Austin Dam Memorial Park"
+   }
+  },
+  {
+   "id": "theme:historic-site-ruins-of-the-1911-austin-dam-failure",
+   "type": "Theme",
+   "properties": {
+    "name": "Historic site · Ruins of the 1911 Austin Dam failure"
+   }
+  },
+  {
+   "id": "place:kinzua-bridge-state-park-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Kinzua Bridge State Park",
+    "place_id": "kinzua-bridge-state-park-pa",
+    "site": "Kinzua Bridge State Park",
+    "city": "Mount Jewett",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.759,
+    "lng": -78.58349,
+    "google_maps_query": "Kinzua+Bridge+State+Park+PA",
+    "best_for": "Scenic overlook · Skywalk on the collapsed Kinzua Viaduct",
+    "note": "The skywalk has been under intermittent repair closures scheduled through 2027, with seasonal openings — check the park page before going."
+   }
+  },
+  {
+   "id": "site:kinzua-bridge-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Kinzua Bridge State Park"
+   }
+  },
+  {
+   "id": "theme:scenic-overlook-skywalk-on-the-collapsed-kinzua-viaduct",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic overlook · Skywalk on the collapsed Kinzua Viaduct"
+   }
+  },
+  {
+   "id": "place:hyner-view-state-park-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Hyner View State Park",
+    "place_id": "hyner-view-state-park-pa",
+    "site": "Hyner View State Park",
+    "city": "Hyner",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.32734,
+    "lng": -77.62224,
+    "google_maps_query": "Hyner+View+State+Park+PA",
+    "best_for": "Scenic overlook · West Branch Susquehanna vista and hang-glider launch",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:hyner-view-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Hyner View State Park"
+   }
+  },
+  {
+   "id": "theme:scenic-overlook-west-branch-susquehanna-vista-and-hang-glider-launch",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic overlook · West Branch Susquehanna vista and hang-glider launch"
+   }
+  },
+  {
+   "id": "place:worlds-end-state-park-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Worlds End State Park",
+    "place_id": "worlds-end-state-park-pa",
+    "site": "Worlds End State Park",
+    "city": "Forksville",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 41.46299,
+    "lng": -76.57536,
+    "google_maps_query": "Worlds+End+State+Park+PA",
+    "best_for": "State park · Loyalsock Creek gorge park",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:worlds-end-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Worlds End State Park"
+   }
+  },
+  {
+   "id": "theme:state-park-loyalsock-creek-gorge-park",
+   "type": "Theme",
+   "properties": {
+    "name": "State park · Loyalsock Creek gorge park"
+   }
   }
  ],
  "edges": [
@@ -13290,6 +13606,18 @@
   {
    "from": "reel:Dbuat08NaQH",
    "to": "theme:oregon-coast",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfU-tMFRe-v",
+   "to": "creator:hunterhulbert",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfU-tMFRe-v",
+   "to": "theme:pennsylvania-wilds-road-trip",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -21244,6 +21572,25 @@
    "properties": {}
   },
   {
+   "from": "place:cherry-springs-state-park-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Road trip stop",
+    "recommendation": "Honorable mention in Hunter Hulbert's Pennsylvania road trip reel — one of the PA Wilds stops he says to add to the route; the park's dark skies are its fame.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:cherry-springs-state-park-pa",
+   "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:great-basin-national-park-nv",
    "to": "state:united-states-nevada",
    "type": "LOCATED_IN",
@@ -25553,6 +25900,303 @@
   {
    "from": "place:cape-kiwanda-or",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:penns-cave-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-pa",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-pa",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:penns-cave-pa",
+   "to": "site:penn-s-cave-wildlife-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:penns-cave-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Cave tour · America's only all-water cavern, toured by boat",
+    "recommendation": "The reel's first stop: a boat ride through America's only all-water cavern — you float the underground river past illuminated stalactites instead of walking. It's also the only Pennsylvania cave on the National Register of Historic Places, with a wildlife park above ground.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:penns-cave-pa",
+   "to": "theme:cave-tour-america-s-only-all-water-cavern-toured-by-boat",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bilgers-rocks-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:bilgers-rocks-pa",
+   "to": "site:bilger-s-rocks",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bilgers-rocks-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Ancient sandstone rock maze",
+    "recommendation": "A 300-million-year-old sandstone 'rock city' in Clearfield County — moss-covered boulders split into narrow passageways and small caves; the reel's presenter squeezes through the crevices and wanders the forest among the rocks.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:bilgers-rocks-pa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:benezette-elk-viewing-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:benezette-elk-viewing-pa",
+   "to": "site:elk-country-visitor-center-winslow-hill",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:benezette-elk-viewing-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Wildlife · Wild elk herd viewing",
+    "recommendation": "The reel stops in Elk County near Benezette for Pennsylvania's wild elk herd — wide fields at sunrise and sunset and a big bull elk filmed from the roadside. The Elk Country Visitor Center on Winslow Hill is the hub of the viewing area.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:benezette-elk-viewing-pa",
+   "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:benezette-elk-viewing-pa",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:pine-creek-gorge-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:pine-creek-gorge-pa",
+   "to": "site:leonard-harrison-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:pine-creek-gorge-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic overlook · PA Grand Canyon overlooks and Turkey Path waterfall",
+    "recommendation": "Tioga County's 'Grand Canyon of Pennsylvania' — a roughly 45-mile-long, 1,000-foot-deep forested gorge. The reel shows the rim overlooks at Leonard Harrison State Park, hikers on the cliff edges, and the Turkey Path trail dropping past its waterfall toward Pine Creek.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:pine-creek-gorge-pa",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wellsboro-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:wellsboro-pa",
+   "to": "site:wellsboro",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wellsboro-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Small town stop · Gas-lit Main Street and the Wellsboro Diner",
+    "recommendation": "The reel's small-town stop: Wellsboro's historic, gas-lit Main Street, its storefronts and the classic Wellsboro Diner — the gateway town for the Pine Creek Gorge.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:wellsboro-pa",
+   "to": "theme:small-town-stop-gas-lit-main-street-and-the-wellsboro-diner",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:austin-dam-ruins-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:austin-dam-ruins-pa",
+   "to": "site:austin-dam-memorial-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:austin-dam-ruins-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Historic site · Ruins of the 1911 Austin Dam failure",
+    "recommendation": "Honorable mention in the reel's caption: the towering concrete ruins of the Austin Dam in Potter County, which failed in 1911 and destroyed the town below — now a memorial park.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:austin-dam-ruins-pa",
+   "to": "theme:historic-site-ruins-of-the-1911-austin-dam-failure",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kinzua-bridge-state-park-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:kinzua-bridge-state-park-pa",
+   "to": "site:kinzua-bridge-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kinzua-bridge-state-park-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic overlook · Skywalk on the collapsed Kinzua Viaduct",
+    "recommendation": "Honorable mention in the reel's caption: the Kinzua Viaduct in McKean County — once among the longest and highest railroad bridges in the world, toppled by a tornado in 2003 and reinvented as a skywalk out over the gorge, with the twisted towers still lying in the valley below.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:kinzua-bridge-state-park-pa",
+   "to": "theme:scenic-overlook-skywalk-on-the-collapsed-kinzua-viaduct",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hyner-view-state-park-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:hyner-view-state-park-pa",
+   "to": "site:hyner-view-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:hyner-view-state-park-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic overlook · West Branch Susquehanna vista and hang-glider launch",
+    "recommendation": "Honorable mention in the reel's caption: a small Clinton County park built around one big view — the overlook (also a hang-glider launch) above a sweeping bend of the West Branch Susquehanna River.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:hyner-view-state-park-pa",
+   "to": "theme:scenic-overlook-west-branch-susquehanna-vista-and-hang-glider-launch",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:worlds-end-state-park-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:worlds-end-state-park-pa",
+   "to": "site:worlds-end-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:worlds-end-state-park-pa",
+   "to": "reel:DfU-tMFRe-v",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "State park · Loyalsock Creek gorge park",
+    "recommendation": "Honorable mention in the reel's caption: a rugged Sullivan County park in the Loyalsock Creek gorge — a swimming area on the creek, the Loyalsock Canyon Vista, and trailheads into Loyalsock Trail country.",
+    "creator": "@hunterhulbert",
+    "reel_title": "Pennsylvania Road Trip Ideas Part 2",
+    "reel_theme": "Pennsylvania Wilds road trip"
+   }
+  },
+  {
+   "from": "place:worlds-end-state-park-pa",
+   "to": "theme:state-park-loyalsock-creek-gorge-park",
    "type": "BEST_FOR",
    "properties": {}
   }
