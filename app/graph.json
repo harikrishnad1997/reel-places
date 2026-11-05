@@ -3777,6 +3777,28 @@
    }
   },
   {
+   "id": "reel:DfW_ZwsAprR",
+   "type": "Reel",
+   "properties": {
+    "name": "This state park drive feels unreal the first time you see it",
+    "url": "https://www.instagram.com/reel/DfW_ZwsAprR/",
+    "title": "This state park drive feels unreal the first time you see it",
+    "creator": "@coupleofpatels",
+    "theme": "Midwest scenic drives",
+    "places_count": 1,
+    "recommendation_summary": "Needles Eye Tunnel on the Needles Highway in Custer State Park, South Dakota — a one-lane, hand-carved granite tunnel (~8'4\" wide × 12' tall) on one of the Black Hills' most photographed scenic drives.",
+    "posted": "2026-11-05",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "theme:midwest-scenic-drives",
+   "type": "Theme",
+   "properties": {
+    "name": "Midwest scenic drives"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12444,6 +12466,39 @@
     "best_for": "Hike · 1.8 mi, moderate (per the guide)",
     "note": "Pin is on the Tanalian Falls trail, the route this short hike follows out of Port Alsworth."
    }
+  },
+  {
+   "id": "place:needles-eye-tunnel-sd",
+   "type": "Place",
+   "properties": {
+    "name": "Needles Eye Tunnel",
+    "place_id": "needles-eye-tunnel-sd",
+    "site": "Custer State Park (Needles Highway)",
+    "city": "Custer",
+    "state": "South Dakota",
+    "state_code": "SD",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.84141,
+    "lng": -103.54475,
+    "google_maps_query": "Needles+Eye+Tunnel+South+Dakota",
+    "best_for": "Scenic drive · One-lane tunnel carved through granite",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:custer-state-park-needles-highway",
+   "type": "Site",
+   "properties": {
+    "name": "Custer State Park (Needles Highway)"
+   }
+  },
+  {
+   "id": "theme:scenic-drive-one-lane-tunnel-carved-through-granite",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic drive · One-lane tunnel carved through granite"
+   }
   }
  ],
  "edges": [
@@ -14856,6 +14911,18 @@
   {
    "from": "reel:De0Uuigv9sW",
    "to": "theme:lake-clark-national-park-guide",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfW_ZwsAprR",
+   "to": "creator:coupleofpatels",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfW_ZwsAprR",
+   "to": "theme:midwest-scenic-drives",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -28740,6 +28807,37 @@
   {
    "from": "place:teetering-rock-ak",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:needles-eye-tunnel-sd",
+   "to": "state:united-states-sd",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:needles-eye-tunnel-sd",
+   "to": "site:custer-state-park-needles-highway",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:needles-eye-tunnel-sd",
+   "to": "reel:DfW_ZwsAprR",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic drive · One-lane tunnel carved through granite",
+    "recommendation": "The Needles Highway through Custer State Park winds between towering granite spires until the road tightens and passes through the Needles Eye Tunnel — a one-lane tunnel hand-carved through solid granite in the 1920s, one of the most photographed drives in the Black Hills. Know before you go: the tunnel is about 8'4\" wide and 12' tall, one vehicle at a time, and RVs/trailers should avoid the route; drive it early morning or late afternoon for fewer cars and better light, and watch for bison, pronghorn and prairie dogs nearby.",
+    "creator": "@coupleofpatels",
+    "reel_title": "This state park drive feels unreal the first time you see it",
+    "reel_theme": "Midwest scenic drives"
+   }
+  },
+  {
+   "from": "place:needles-eye-tunnel-sd",
+   "to": "theme:scenic-drive-one-lane-tunnel-carved-through-granite",
    "type": "BEST_FOR",
    "properties": {}
   }

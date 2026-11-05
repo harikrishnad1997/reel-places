@@ -14,7 +14,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 48 places](#northeast)
 - [Southeast Region — 46 places](#southeast)
-- [Midwest Region — 18 places](#midwest)
+- [Midwest Region — 19 places](#midwest)
 - [Southwest Region — 70 places](#southwest)
 - [Mountain West Region — 46 places](#mountain-west)
 - [West Region — 51 places](#west)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 48 · Southeast 46 · Midwest 18 · Southwest 70 · Mountain West 46 · West 51 · Pacific Northwest 21 · Alaska 29 · Hawaii 5 · U.S. Territories 3 · **Total 337**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 48 · Southeast 46 · Midwest 19 · Southwest 70 · Mountain West 46 · West 51 · Pacific Northwest 21 · Alaska 29 · Hawaii 5 · U.S. Territories 3 · **Total 338**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -1019,7 +1019,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**18 places · Illinois, Michigan, Minnesota, Missouri, North Dakota, South Dakota, Wisconsin**
+**19 places · Illinois, Michigan, Minnesota, Missouri, North Dakota, South Dakota, Wisconsin**
 
 ### Badlands National Park
 
@@ -1066,13 +1066,23 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#5 in that reel)
 
+### Custer State Park (Needles Highway)
+
+#### South Dakota
+
+##### Scenic drive · One-lane tunnel carved through granite
+
+- **5. [Needles Eye Tunnel](https://www.google.com/maps/search/?api=1&query=Needles+Eye+Tunnel+South+Dakota)** — Custer State Park (Needles Highway), Custer
+  - **Best for:** Scenic drive · One-lane tunnel carved through granite — The Needles Highway through Custer State Park winds between towering granite spires until the road tightens and passes through the Needles Eye Tunnel — a one-lane tunnel hand-carved through solid granite in the 1920s, one of the most photographed drives in the Black Hills. Know before you go: the tunnel is about 8'4" wide and 12' tall, one vehicle at a time, and RVs/trailers should avoid the route; drive it early morning or late afternoon for fewer cars and better light, and watch for bison, pronghorn and prairie dogs nearby.
+  - 🎬 Source: [This state park drive feels unreal the first time you see it](https://www.instagram.com/reel/DfW_ZwsAprR/) by @coupleofpatels (#None in that reel)
+
 ### Franklin Creek State Natural Area
 
 #### Illinois
 
 ##### Hike
 
-- **5. [Whipple's Cave](https://www.google.com/maps/search/?api=1&query=Whipple's+Cave+Franklin+Creek+State+Natural+Area+IL)** — Franklin Creek State Natural Area, Franklin Grove
+- **6. [Whipple's Cave](https://www.google.com/maps/search/?api=1&query=Whipple's+Cave+Franklin+Creek+State+Natural+Area+IL)** — Franklin Creek State Natural Area, Franklin Grove
   - **Best for:** Hike — A cave hiding in the Illinois woods: Whipple's Cave in Franklin Creek State Natural Area, reached via the Pioneer Pass Trail from the Mill Springs Day Use Area — 2.9 miles out and back with 226 ft of gain through wooded scenery, rocky terrain and creek crossings. Know before you go: be prepared for deep creek crossings, and other trails in the area also lead to the cave.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Whipple's Cave — a cave hiding in the Illinois woods](https://www.instagram.com/reel/DfSiIY5sLzM/) by @our.adventure.tails (#1 in that reel)
@@ -1083,7 +1093,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Solitude
 
-- **6. [Isle Royale National Park](https://www.google.com/maps/search/?api=1&query=Isle+Royale+National+Park+MI)** — Isle Royale National Park, Rock Harbor
+- **7. [Isle Royale National Park](https://www.google.com/maps/search/?api=1&query=Isle+Royale+National+Park+MI)** — Isle Royale National Park, Rock Harbor
   - **Best for:** Solitude — Ranked #3 for solitude, a remote island of forests and lakes reached only by boat or seaplane, with wolf howls at night.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#3 in that reel)
 
@@ -1093,7 +1103,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Swimming
 
-- **7. [Johnson's Shut-Ins State Park](https://www.google.com/maps/search/?api=1&query=Johnson%27s+Shut-Ins+State+Park+Missouri)** — Johnson's Shut-Ins State Park, Middle Brook
+- **8. [Johnson's Shut-Ins State Park](https://www.google.com/maps/search/?api=1&query=Johnson%27s+Shut-Ins+State+Park+Missouri)** — Johnson's Shut-Ins State Park, Middle Brook
   - **Best for:** Swimming — One of the most unique swims in the Midwest: hundreds of natural pools and chutes the Black River carved into billion-year-old volcanic rock — 'nature's own waterpark,' about 2 hours south of St. Louis. The reel's tips: go early in summer (it gets busy), wear water shoes for the slippery rock, and mind the stronger currents with kids.
   - Pin sits at the main shut-ins day-use area (OpenStreetMap point for the swimming area's supply store) rather than the park boundary centroid. The 'shut-ins' are narrow channels where the river squeezes through erosion-resistant rhyolite.
   - 🎬 Source: [Johnson's Shut-Ins State Park — nature's waterpark in Missouri](https://www.instagram.com/reel/DfUarsMgzMy/) by @coupleofpatels (#None in that reel)
@@ -1104,7 +1114,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **8. [Mount Rushmore](https://www.google.com/maps/search/?api=1&query=Mount+Rushmore+National+Memorial+SD)** — Mount Rushmore National Memorial, Keystone
+- **9. [Mount Rushmore](https://www.google.com/maps/search/?api=1&query=Mount+Rushmore+National+Memorial+SD)** — Mount Rushmore National Memorial, Keystone
   - **Best for:** Road trip stop — Stop 6 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Custer State Park before the Day 9 flight out of Rapid City.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#6 in that reel)
@@ -1115,7 +1125,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **9. [Palisade Head](https://www.google.com/maps/search/?api=1&query=Palisade+Head+Silver+Bay+MN)** — Palisade Head, Silver Bay
+- **10. [Palisade Head](https://www.google.com/maps/search/?api=1&query=Palisade+Head+Silver+Bay+MN)** — Palisade Head, Silver Bay
   - **Best for:** Viewpoint — One of John Walberg's all-time favorite views on Minnesota's North Shore: standing on top of Palisade Head looking out over the endless blue of Lake Superior — towering cliffs, huge views, and fresh air. His verdict: a place he'll never get tired of visiting, and a must for any North Shore trip's bucket list.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of my all-time favorite views on Minnesota's North Shore — Palisade Head](https://www.instagram.com/reel/DfP15Ujq6wb/) by @john_walberg (#1 in that reel)
@@ -1126,7 +1136,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Fall colors
 
-- **10. [Eagle Tower](https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
+- **11. [Eagle Tower](https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
   - **Best for:** Fall colors / View — The reel's headline stop: add Peninsula State Park in Door County to a Wisconsin trip for Eagle Tower, reached by a long wooden elevated walkway through autumn trees to panoramic views over Green Bay and the surrounding islands — at their best in fall color. Parking, restrooms and park information are right at the tower area.
   - The reel says the views overlook Lake Michigan; the tower actually faces Green Bay (the bay between the Door Peninsula and mainland Wisconsin), with Horseshoe Island in view. Caption puts the park about a 5-hour drive from Chicago. The rebuilt tower (opened 2021) is reached by 95-100 stairs or an 850-foot accessible canopy ramp; Wisconsin DNR lists it open May 1-Oct 31.
   - 🎬 Source: [Fall colors — Eagle Tower, Peninsula State Park](https://www.instagram.com/reel/DfQ6dEHt8NU/) by @asia_in_chicago (#1 in that reel)
@@ -1135,7 +1145,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **11. [Eagle Trail](https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
+- **12. [Eagle Trail](https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
   - **Best for:** Hike — Shown in the reel right after the tower: the trailhead sign marked 'Difficult Trail' for the park's Eagle Trail, a loop the narrator points viewers to for more scenic overlooks beyond Eagle Tower.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/eagle-trail--2)
   - Pin is the Eagle Trail trailhead just west of the Eagle Tower parking area (Trailforks trailhead coordinates); DNR lists access at Eagle Terrace, Eagle Panorama or the Tower. DNR rates this 2.0-mile loop 'more difficult', with steep, rocky sections under 150-foot cliffs along Eagle Harbor.
@@ -1149,7 +1159,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · 10-mile loop past two falls to Chapel Rock
 
-- **12. [Chapel Loop Trail](https://www.google.com/maps/search/?api=1&query=Chapel+Loop+Trail+Pictured+Rocks+MI)** — Pictured Rocks National Lakeshore, Munising
+- **13. [Chapel Loop Trail](https://www.google.com/maps/search/?api=1&query=Chapel+Loop+Trail+Pictured+Rocks+MI)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Hike · 10-mile loop past two falls to Chapel Rock — The reel's Michigan pick at 10 miles: the Chapel Loop in Pictured Rocks, past Mosquito Falls and Chapel Falls to Chapel Rock and the Lake Superior shoreline beaches.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/michigan/mosquito-falls-and-chapel-falls-via-chapel-loop)
   - Pin is Chapel Rock, on the loop's lakeshore section.
@@ -1161,7 +1171,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **13. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
+- **14. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
   - **Best for:** Viewpoint — Andrew's take: 'Some places make you stop and appreciate just how beautiful the world really is.' Lake of the Clouds, tucked in the heart of Michigan's Porcupine Mountains Wilderness State Park, is one of those places that never fails to impress — his photos catch it in full fall color.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Lake of the Clouds — Porcupine Mountains, Michigan](https://www.instagram.com/p/DeSzUHXjWNr/) by @andrew_krzesinski (#1 in that reel)
@@ -1172,7 +1182,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Underrated park
 
-- **14. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **15. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Underrated park — His #2 underrated park: badlands terrain, bison crossing a road, wild horses at sunset, prairie dogs, and a river sunset view.
   - Park-level pin is the park's Nominatim point in the South Unit.
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#2 in that reel)
@@ -1189,7 +1199,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Fall colors
 
-- **15. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
+- **16. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
   - **Best for:** Fall colors — The 'Caribbean of the Midwest' in autumn: Torch Lake's turquoise, crystal-clear water and shallow sandbars ringed by peak fall color — the reel's drone shots show deep blue open water against shores of red and gold. The caption pitches the area's wineries and orchards as a perfect Michigan fall road trip.
   - Pin is OpenStreetMap's point for the long Torch Lake near Traverse City (Antrim County) — not the smaller Torch Lake in the Keweenaw Peninsula.
   - 🎬 Source: [Torch Lake in Fall feels like the movies](https://www.instagram.com/reel/DfUu09yRN3C/) by @marco.horizons (#None in that reel)
@@ -1200,7 +1210,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **16. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **17. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Road trip stop — Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 — book a timed cave tour in advance, per her tip.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#4 in that reel)
@@ -1211,14 +1221,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Caves
 
-- **17. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
+- **18. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Caves / Stargazing — 'This state park surprised us': 14+ miles of trails with caves to explore, an astronomy center that's perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.
   - Pin is OpenStreetMap's Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.
   - 🎬 Source: [This state park surprised us — Wyalusing State Park, Wisconsin](https://www.instagram.com/reel/DfTBMuDhL7P/) by @thekateandcody (#None in that reel)
 
 ##### Hike
 
-- **18. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
+- **19. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Hike — The creators' favorite trail in the park: the Old Immigrant & Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/old-immigrant-trail-and-bluff-trail-loop)
   - Pin is OpenStreetMap's Old Immigrant Trail point within Wyalusing State Park.
@@ -3766,6 +3776,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Green Lakes State Park near Fayetteville, NY — two rare meromictic lakes with Caribbean-blue water, an easy shoreline trail, beach swimming and kayaking.
 - **[Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/)** — @funsizewanderer · 15 places · Theme: Lake Clark National Park guide
   - What the reel recommends: A Lake Clark National Park guide (best July–September; fly-in only via air taxi/floatplane from Anchorage or Homer): sights — Lake Clark, Proenneke Cabin & Twin Lakes, Turquoise Lake, Port Alsworth, Chinitna Bay, Crescent Lake, Redoubt Volcano, Iliamna Volcano, Telaquana Lake; hikes — Beaver Pond Loop (3.5 mi easy), Teetering Rock (1.8), Tanalian Falls (4.3), Kontrashibuna Lake (4.3), Tanalian Mountain (9.6 hard). Plus flightseeing, bear watching and boat tours.
+- **[This state park drive feels unreal the first time you see it](https://www.instagram.com/reel/DfW_ZwsAprR/)** — @coupleofpatels · 1 places · Theme: Midwest scenic drives
+  - What the reel recommends: Needles Eye Tunnel on the Needles Highway in Custer State Park, South Dakota — a one-lane, hand-carved granite tunnel (~8'4" wide × 12' tall) on one of the Black Hills' most photographed scenic drives.
 
 ## How this page is updated {#how-this-page-is-updated}
 

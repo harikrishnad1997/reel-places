@@ -8949,6 +8949,28 @@
    "source_reel_theme": "Lake Clark National Park guide",
    "additional_sources": [],
    "note": "Pin is on the Tanalian Falls trail, the route this short hike follows out of Port Alsworth."
+  },
+  {
+   "id": "needles-eye-tunnel-sd",
+   "name": "Needles Eye Tunnel",
+   "site": "Custer State Park (Needles Highway)",
+   "city": "Custer",
+   "state": "South Dakota",
+   "state_code": "SD",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 43.84141,
+   "lng": -103.54475,
+   "google_maps_query": "Needles+Eye+Tunnel+South+Dakota",
+   "best_for": "Scenic drive · One-lane tunnel carved through granite",
+   "recommendation": "The Needles Highway through Custer State Park winds between towering granite spires until the road tightens and passes through the Needles Eye Tunnel — a one-lane tunnel hand-carved through solid granite in the 1920s, one of the most photographed drives in the Black Hills. Know before you go: the tunnel is about 8'4\" wide and 12' tall, one vehicle at a time, and RVs/trailers should avoid the route; drive it early morning or late afternoon for fewer cars and better light, and watch for bison, pronghorn and prairie dogs nearby.",
+   "source_reel": "https://www.instagram.com/reel/DfW_ZwsAprR/",
+   "source_title": "This state park drive feels unreal the first time you see it",
+   "source_creator": "@coupleofpatels",
+   "source_rank": null,
+   "source_reel_theme": "Midwest scenic drives",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",
