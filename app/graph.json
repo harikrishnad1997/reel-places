@@ -3929,6 +3929,37 @@
    }
   },
   {
+   "id": "reel:DfXpx4QxQFZ",
+   "type": "Reel",
+   "properties": {
+    "name": "One of the prettiest fall bike rides in all of Missouri",
+    "url": "https://www.instagram.com/reel/DfXpx4QxQFZ/",
+    "title": "One of the prettiest fall bike rides in all of Missouri",
+    "creator": "@everydayoutdoorfamily",
+    "theme": "Missouri fall day trips",
+    "places_count": 3,
+    "recommendation_summary": "A fall day trip to Rocheport, Missouri: ride the Katy Trail along the Missouri River bluffs at peak foliage, stop at Meriwether Café and Bike Shop, and wander one of Missouri's prettiest small towns.",
+    "posted": "2026-11-05",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:everydayoutdoorfamily",
+   "type": "Creator",
+   "properties": {
+    "name": "@everydayoutdoorfamily",
+    "handle": "@everydayoutdoorfamily",
+    "display_name": "Amy Eastin | Midwest Family Travel"
+   }
+  },
+  {
+   "id": "theme:missouri-fall-day-trips",
+   "type": "Theme",
+   "properties": {
+    "name": "Missouri fall day trips"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12838,6 +12869,98 @@
    "properties": {
     "name": "Summit · Highest peak in the eastern US (6,684 ft)"
    }
+  },
+  {
+   "id": "place:rocheport-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Rocheport",
+    "place_id": "rocheport-mo",
+    "site": "Rocheport",
+    "city": "Rocheport",
+    "state": "Missouri",
+    "state_code": "MO",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 38.98003,
+    "lng": -92.56407,
+    "google_maps_query": "Rocheport+MO",
+    "best_for": "Small town · Prettiest fall day-trip town on the Missouri River",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:rocheport",
+   "type": "Site",
+   "properties": {
+    "name": "Rocheport"
+   }
+  },
+  {
+   "id": "theme:small-town-prettiest-fall-day-trip-town-on-the-missouri-river",
+   "type": "Theme",
+   "properties": {
+    "name": "Small town · Prettiest fall day-trip town on the Missouri River"
+   }
+  },
+  {
+   "id": "place:katy-trail-rocheport-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Katy Trail at Rocheport",
+    "place_id": "katy-trail-rocheport-mo",
+    "site": "Katy Trail State Park",
+    "city": "Rocheport",
+    "state": "Missouri",
+    "state_code": "MO",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 38.9763,
+    "lng": -92.55952,
+    "google_maps_query": "Katy+Trail+Rocheport+MO",
+    "best_for": "Bike ride · Rail-trail along the Missouri River bluffs",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:katy-trail-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Katy Trail State Park"
+   }
+  },
+  {
+   "id": "theme:bike-ride-rail-trail-along-the-missouri-river-bluffs",
+   "type": "Theme",
+   "properties": {
+    "name": "Bike ride · Rail-trail along the Missouri River bluffs"
+   }
+  },
+  {
+   "id": "place:meriwether-cafe-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Meriwether Café and Bike Shop",
+    "place_id": "meriwether-cafe-mo",
+    "site": "Rocheport",
+    "city": "Rocheport",
+    "state": "Missouri",
+    "state_code": "MO",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 38.97802,
+    "lng": -92.56137,
+    "google_maps_query": "Meriwether+Cafe+Rocheport+MO",
+    "best_for": "Café stop · Mid-ride café and bike shop in town",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:caf-stop-mid-ride-caf-and-bike-shop-in-town",
+   "type": "Theme",
+   "properties": {
+    "name": "Café stop · Mid-ride café and bike shop in town"
+   }
   }
  ],
  "edges": [
@@ -15322,6 +15445,18 @@
   {
    "from": "reel:DcrlGvTzOIc",
    "to": "theme:bucket-list",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfXpx4QxQFZ",
+   "to": "creator:everydayoutdoorfamily",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfXpx4QxQFZ",
+   "to": "theme:missouri-fall-day-trips",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -29447,6 +29582,99 @@
   {
    "from": "place:mount-mitchell-nc",
    "to": "theme:summit-highest-peak-in-the-eastern-us-6-684-ft",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rocheport-mo",
+   "to": "state:united-states-mo",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:rocheport-mo",
+   "to": "site:rocheport",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:rocheport-mo",
+   "to": "reel:DfXpx4QxQFZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Small town · Prettiest fall day-trip town on the Missouri River",
+    "recommendation": "The reel's pick for the perfect Missouri fall day trip: a small river town on the Missouri River bluffs — wander the town, see the bluffs at peak fall foliage, and use it as the base for a Katy Trail ride.",
+    "creator": "@everydayoutdoorfamily",
+    "reel_title": "One of the prettiest fall bike rides in all of Missouri",
+    "reel_theme": "Missouri fall day trips"
+   }
+  },
+  {
+   "from": "place:rocheport-mo",
+   "to": "theme:small-town-prettiest-fall-day-trip-town-on-the-missouri-river",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:katy-trail-rocheport-mo",
+   "to": "state:united-states-mo",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:katy-trail-rocheport-mo",
+   "to": "site:katy-trail-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:katy-trail-rocheport-mo",
+   "to": "reel:DfXpx4QxQFZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bike ride · Rail-trail along the Missouri River bluffs",
+    "recommendation": "The reel's ride: the Katy Trail through Rocheport, right along the Missouri River, with fall colors lighting up the river bluffs — slow, scenic riding through Katy Trail State Park. (The full Katy Trail runs 240 miles across Missouri; this pin is its Rocheport stretch.)",
+    "creator": "@everydayoutdoorfamily",
+    "reel_title": "One of the prettiest fall bike rides in all of Missouri",
+    "reel_theme": "Missouri fall day trips"
+   }
+  },
+  {
+   "from": "place:katy-trail-rocheport-mo",
+   "to": "theme:bike-ride-rail-trail-along-the-missouri-river-bluffs",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:meriwether-cafe-mo",
+   "to": "state:united-states-mo",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:meriwether-cafe-mo",
+   "to": "site:rocheport",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:meriwether-cafe-mo",
+   "to": "reel:DfXpx4QxQFZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Café stop · Mid-ride café and bike shop in town",
+    "recommendation": "The reel's mid-ride stop in the middle of Rocheport: a café and bike shop — the pause that makes the day feel like exactly what fall in a small Missouri town should feel like.",
+    "creator": "@everydayoutdoorfamily",
+    "reel_title": "One of the prettiest fall bike rides in all of Missouri",
+    "reel_theme": "Missouri fall day trips"
+   }
+  },
+  {
+   "from": "place:meriwether-cafe-mo",
+   "to": "theme:caf-stop-mid-ride-caf-and-bike-shop-in-town",
    "type": "BEST_FOR",
    "properties": {}
   }
