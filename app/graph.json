@@ -3830,6 +3830,28 @@
    }
   },
   {
+   "id": "reel:Dc7ZhgwRA9P",
+   "type": "Reel",
+   "properties": {
+    "name": "Rainbow Springs — Florida's crystal-clear spring river",
+    "url": "https://www.instagram.com/reel/Dc7ZhgwRA9P/",
+    "title": "Rainbow Springs — Florida's crystal-clear spring river",
+    "creator": "@americantravelarchives",
+    "theme": "Florida springs / hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Rainbow Springs State Park in Dunnellon, Florida — Florida's 4th-largest spring with crystal-clear 72°F water for swimming, kayaking and snorkeling, plus garden trails with waterfalls.",
+    "posted": "2026-09-05",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "theme:florida-springs-hidden-gems",
+   "type": "Theme",
+   "properties": {
+    "name": "Florida springs / hidden gems"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12563,6 +12585,39 @@
    "properties": {
     "name": "Fossils · A building built around a wall of dinosaur bones"
    }
+  },
+  {
+   "id": "place:rainbow-springs-state-park-fl",
+   "type": "Place",
+   "properties": {
+    "name": "Rainbow Springs State Park",
+    "place_id": "rainbow-springs-state-park-fl",
+    "site": "Rainbow Springs State Park",
+    "city": "Dunnellon",
+    "state": "Florida",
+    "state_code": "FL",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 29.10289,
+    "lng": -82.43498,
+    "google_maps_query": "Rainbow+Springs+State+Park+FL",
+    "best_for": "Spring swimming · Kayak a crystal-clear 72°F river",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:rainbow-springs-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Rainbow Springs State Park"
+   }
+  },
+  {
+   "id": "theme:spring-swimming-kayak-a-crystal-clear-72-f-river",
+   "type": "Theme",
+   "properties": {
+    "name": "Spring swimming · Kayak a crystal-clear 72°F river"
+   }
   }
  ],
  "edges": [
@@ -14999,6 +15054,18 @@
   {
    "from": "reel:DdglrAsBsTg",
    "to": "theme:dinosaur-fossils-national-monument",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dc7ZhgwRA9P",
+   "to": "creator:americantravelarchives",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dc7ZhgwRA9P",
+   "to": "theme:florida-springs-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -28945,6 +29012,37 @@
   {
    "from": "place:quarry-exhibit-hall-ut",
    "to": "theme:fossils-a-building-built-around-a-wall-of-dinosaur-bones",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-springs-state-park-fl",
+   "to": "state:united-states-fl",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-springs-state-park-fl",
+   "to": "site:rainbow-springs-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-springs-state-park-fl",
+   "to": "reel:Dc7ZhgwRA9P",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Spring swimming · Kayak a crystal-clear 72°F river",
+    "recommendation": "One of the oldest and most beautiful spring-fed rivers in Florida: crystal-clear water at 72°F year-round, surrounded by lush greenery that feels like a tropical jungle. It's Florida's 4th-largest spring; the headspring area was a privately owned theme park in the 1930s. Kayak, paddleboard, swim in the designated area, or walk the garden trails to see waterfalls — real ones, in Florida. Open daily 8 AM to sunset, $2 entry (tubing and kayak rentals extra). Pro tip from the reel: come early morning or late afternoon to beat the crowds, and bring your own snorkel gear to spot fish and turtles.",
+    "creator": "@americantravelarchives",
+    "reel_title": "Rainbow Springs — Florida's crystal-clear spring river",
+    "reel_theme": "Florida springs / hidden gems"
+   }
+  },
+  {
+   "from": "place:rainbow-springs-state-park-fl",
+   "to": "theme:spring-swimming-kayak-a-crystal-clear-72-f-river",
    "type": "BEST_FOR",
    "properties": {}
   }

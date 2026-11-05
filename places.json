@@ -8993,6 +8993,28 @@
    "source_rank": null,
    "source_reel_theme": "Dinosaur fossils / national monument",
    "additional_sources": []
+  },
+  {
+   "id": "rainbow-springs-state-park-fl",
+   "name": "Rainbow Springs State Park",
+   "site": "Rainbow Springs State Park",
+   "city": "Dunnellon",
+   "state": "Florida",
+   "state_code": "FL",
+   "country": "United States",
+   "region": "Southeast",
+   "region_id": "southeast",
+   "lat": 29.10289,
+   "lng": -82.43498,
+   "google_maps_query": "Rainbow+Springs+State+Park+FL",
+   "best_for": "Spring swimming · Kayak a crystal-clear 72°F river",
+   "recommendation": "One of the oldest and most beautiful spring-fed rivers in Florida: crystal-clear water at 72°F year-round, surrounded by lush greenery that feels like a tropical jungle. It's Florida's 4th-largest spring; the headspring area was a privately owned theme park in the 1930s. Kayak, paddleboard, swim in the designated area, or walk the garden trails to see waterfalls — real ones, in Florida. Open daily 8 AM to sunset, $2 entry (tubing and kayak rentals extra). Pro tip from the reel: come early morning or late afternoon to beat the crowds, and bring your own snorkel gear to spot fish and turtles.",
+   "source_reel": "https://www.instagram.com/reel/Dc7ZhgwRA9P/",
+   "source_title": "Rainbow Springs — Florida's crystal-clear spring river",
+   "source_creator": "@americantravelarchives",
+   "source_rank": null,
+   "source_reel_theme": "Florida springs / hidden gems",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",
