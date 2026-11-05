@@ -3669,6 +3669,30 @@
    }
   },
   {
+   "id": "reel:DfVZYUEytWt",
+   "type": "Reel",
+   "properties": {
+    "name": "Epic USA hikes — how many have you done?",
+    "url": "https://www.instagram.com/reel/DfVZYUEytWt/",
+    "title": "Epic USA hikes — how many have you done?",
+    "creator": "@ashleyemckee",
+    "theme": "Epic USA hikes",
+    "places_count": 11,
+    "recommendation_summary": "An 'epic USA hikes' montage with mileages: Tahoe Rim Trail (165 mi), Devil's Head Lookout CO (3), Delicate Arch UT (3), Guadalupe Peak TX (8), Chapel Loop MI (10), South Kaibab AZ (14), Skyline Loop WA (6), Angels Landing UT (4.5), Sahale Arm WA (12), Swiftcurrent Lake MT (2) and Blue Lakes CO (10).",
+    "posted": "2026-11-04",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:ashleyemckee",
+   "type": "Creator",
+   "properties": {
+    "name": "@ashleyemckee",
+    "handle": "@ashleyemckee",
+    "display_name": "Ashley E. McKee | Outdoor Adventure Travel"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -11780,6 +11804,181 @@
    "properties": {
     "name": "Hot spring · Swim inside a 55-foot limestone crater"
    }
+  },
+  {
+   "id": "place:tahoe-rim-trail",
+   "type": "Place",
+   "properties": {
+    "name": "Tahoe Rim Trail",
+    "place_id": "tahoe-rim-trail",
+    "site": "Lake Tahoe Basin",
+    "city": "Tahoe City",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 39.14423,
+    "lng": -120.20926,
+    "google_maps_query": "Tahoe+Rim+Trail",
+    "best_for": "Hike · 165-mile trail ringing Lake Tahoe",
+    "note": "Pin sits on the trail's west-shore segment above Lake Tahoe; the 165-mile trail rings the lake across California and Nevada."
+   }
+  },
+  {
+   "id": "site:lake-tahoe-basin",
+   "type": "Site",
+   "properties": {
+    "name": "Lake Tahoe Basin"
+   }
+  },
+  {
+   "id": "place:devils-head-lookout-co",
+   "type": "Place",
+   "properties": {
+    "name": "Devil's Head Lookout",
+    "place_id": "devils-head-lookout-co",
+    "site": "Pike National Forest (Rampart Range)",
+    "city": "Sedalia",
+    "state": "Colorado",
+    "state_code": "CO",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 39.26036,
+    "lng": -105.10128,
+    "google_maps_query": "Devil's+Head+Lookout+Colorado",
+    "best_for": "Hike · Staffed fire lookout tower with 100-mile views",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:pike-national-forest-rampart-range",
+   "type": "Site",
+   "properties": {
+    "name": "Pike National Forest (Rampart Range)"
+   }
+  },
+  {
+   "id": "place:chapel-loop-trail-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Chapel Loop Trail",
+    "place_id": "chapel-loop-trail-mi",
+    "site": "Pictured Rocks National Lakeshore",
+    "city": "Munising",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 46.54872,
+    "lng": -86.43812,
+    "google_maps_query": "Chapel+Loop+Trail+Pictured+Rocks+MI",
+    "best_for": "Hike · 10-mile loop past two falls to Chapel Rock",
+    "note": "Pin is Chapel Rock, on the loop's lakeshore section."
+   }
+  },
+  {
+   "id": "site:pictured-rocks-national-lakeshore",
+   "type": "Site",
+   "properties": {
+    "name": "Pictured Rocks National Lakeshore"
+   }
+  },
+  {
+   "id": "place:skyline-loop-trail-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Skyline Loop Trail",
+    "place_id": "skyline-loop-trail-wa",
+    "site": "Mount Rainier National Park (Paradise)",
+    "city": "Ashford",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 46.786,
+    "lng": -121.735,
+    "google_maps_query": "Skyline+Loop+Trail+Mount+Rainier+WA",
+    "best_for": "Hike · Alpine loop to Panorama Point",
+    "note": "Pin is the trailhead at Paradise, by the Jackson Visitor Center (trailhead coordinates from published trail guides)."
+   }
+  },
+  {
+   "id": "site:mount-rainier-national-park-paradise",
+   "type": "Site",
+   "properties": {
+    "name": "Mount Rainier National Park (Paradise)"
+   }
+  },
+  {
+   "id": "place:sahale-arm-trail-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Sahale Arm Trail",
+    "place_id": "sahale-arm-trail-wa",
+    "site": "North Cascades National Park",
+    "city": "Marblemount",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 48.4793,
+    "lng": -121.05427,
+    "google_maps_query": "Sahale+Arm+Trail+North+Cascades+WA",
+    "best_for": "Hike · Ridge climb to the Sahale Glacier camp",
+    "note": "Pin is the Sahale Arm ridge (published place point); the trail starts at the Cascade Pass trailhead at the end of Cascade River Road."
+   }
+  },
+  {
+   "id": "place:swiftcurrent-lake-trail-mt",
+   "type": "Place",
+   "properties": {
+    "name": "Swiftcurrent Lake Trail",
+    "place_id": "swiftcurrent-lake-trail-mt",
+    "site": "Glacier National Park (Many Glacier)",
+    "city": "Babb",
+    "state": "Montana",
+    "state_code": "MT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 48.79431,
+    "lng": -113.66094,
+    "google_maps_query": "Swiftcurrent+Lake+Trail+Glacier+National+Park+MT",
+    "best_for": "Hike · Easy lakeside loop in Many Glacier",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:glacier-national-park-many-glacier",
+   "type": "Site",
+   "properties": {
+    "name": "Glacier National Park (Many Glacier)"
+   }
+  },
+  {
+   "id": "place:blue-lakes-co",
+   "type": "Place",
+   "properties": {
+    "name": "Blue Lakes Trail",
+    "place_id": "blue-lakes-co",
+    "site": "Mount Sneffels Wilderness",
+    "city": "Ridgway",
+    "state": "Colorado",
+    "state_code": "CO",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.03574,
+    "lng": -107.80677,
+    "google_maps_query": "Blue+Lakes+Trail+Ridgway+Colorado",
+    "best_for": "Hike · Three turquoise alpine lakes below Mt. Sneffels",
+    "note": "Pin is the Blue Lakes Trailhead (USFS listing, south of Ridgway); Lower Blue Lake is about 3.3 miles up the trail."
+   }
+  },
+  {
+   "id": "site:mount-sneffels-wilderness",
+   "type": "Site",
+   "properties": {
+    "name": "Mount Sneffels Wilderness"
+   }
   }
  ],
  "edges": [
@@ -14148,6 +14347,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DfVZYUEytWt",
+   "to": "creator:ashleyemckee",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfVZYUEytWt",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -14672,6 +14883,25 @@
   {
    "from": "place:guadalupe-peak-tx",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:guadalupe-peak-tx",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "One of the reel's epic USA hikes: the climb up Guadalupe Peak, the highest point in Texas, listed at 8 miles.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
+   "from": "place:guadalupe-peak-tx",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -16882,6 +17112,19 @@
    "properties": {}
   },
   {
+   "from": "place:delicate-arch-ut",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "One of the reel's epic USA hikes: the Delicate Arch Trail in Arches National Park, listed at 3 miles.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
    "from": "place:high-dune-co",
    "to": "state:united-states-co",
    "type": "LOCATED_IN",
@@ -17231,6 +17474,19 @@
     "creator": "@amorywild",
     "reel_title": "Top 5 National Park Hikes",
     "reel_theme": "Top 5 National Park Hikes"
+   }
+  },
+  {
+   "from": "place:south-kaibab-and-bright-angel-trails-phantom-ranch-az",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "The reel lists the South Kaibab Trail among its epic USA hikes at 14 miles — the Grand Canyon descent toward Phantom Ranch.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
    }
   },
   {
@@ -18216,6 +18472,19 @@
     "creator": "@amorywild",
     "reel_title": "Top 5 National Park Adrenaline Hikes",
     "reel_theme": "Top 5 National Park Adrenaline Hikes"
+   }
+  },
+  {
+   "from": "place:angels-landing-ut",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "One of the reel's epic USA hikes: Angels Landing in Zion National Park, listed at 4.5 miles.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
    }
   },
   {
@@ -27214,6 +27483,241 @@
   {
    "from": "place:homestead-crater-ut",
    "to": "theme:hot-spring-swim-inside-a-55-foot-limestone-crater",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:tahoe-rim-trail",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:tahoe-rim-trail",
+   "to": "site:lake-tahoe-basin",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:tahoe-rim-trail",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · 165-mile trail ringing Lake Tahoe",
+    "recommendation": "The reel's opener: the 165-mile Tahoe Rim Trail, filmed on a narrow cliffside section high above Lake Tahoe's big blue water.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
+   "from": "place:tahoe-rim-trail",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-head-lookout-co",
+   "to": "state:united-states-co",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-co",
+   "to": "region:mountain-west",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-head-lookout-co",
+   "to": "site:pike-national-forest-rampart-range",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-head-lookout-co",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Staffed fire lookout tower with 100-mile views",
+    "recommendation": "Listed at 3 miles in the reel: the climb to the Devil's Head Lookout, the only Forest Service fire tower in Colorado still staffed — 143 stairs to the cab at 9,749 feet and views for 100 miles in every direction.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
+   "from": "place:devils-head-lookout-co",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-head-lookout-co",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chapel-loop-trail-mi",
+   "to": "state:united-states-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:chapel-loop-trail-mi",
+   "to": "site:pictured-rocks-national-lakeshore",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:chapel-loop-trail-mi",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · 10-mile loop past two falls to Chapel Rock",
+    "recommendation": "The reel's Michigan pick at 10 miles: the Chapel Loop in Pictured Rocks, past Mosquito Falls and Chapel Falls to Chapel Rock and the Lake Superior shoreline beaches.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
+   "from": "place:chapel-loop-trail-mi",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chapel-loop-trail-mi",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:skyline-loop-trail-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:skyline-loop-trail-wa",
+   "to": "site:mount-rainier-national-park-paradise",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:skyline-loop-trail-wa",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Alpine loop to Panorama Point",
+    "recommendation": "Listed at 6 miles in the reel: Rainier's signature loop from Paradise — wildflower meadows, Myrtle Falls, and the climb to Panorama Point with the mountain filling the sky.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
+   "from": "place:skyline-loop-trail-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sahale-arm-trail-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:sahale-arm-trail-wa",
+   "to": "site:north-cascades-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:sahale-arm-trail-wa",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Ridge climb to the Sahale Glacier camp",
+    "recommendation": "Listed at 12 miles in the reel: switchbacks up to Cascade Pass, then the steep climb along the Sahale Arm ridge through meadows — marmots and mountain goats along the way — to the Sahale Glacier camp, ringed by North Cascades peaks.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
+   "from": "place:sahale-arm-trail-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:swiftcurrent-lake-trail-mt",
+   "to": "state:united-states-mt",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:swiftcurrent-lake-trail-mt",
+   "to": "site:glacier-national-park-many-glacier",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:swiftcurrent-lake-trail-mt",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Easy lakeside loop in Many Glacier",
+    "recommendation": "The reel's shortest pick at 2 miles: the easy nature-trail loop around Swiftcurrent Lake in Glacier's Many Glacier valley, under Mount Wilbur and past the historic Many Glacier Hotel.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
+   "from": "place:swiftcurrent-lake-trail-mt",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:blue-lakes-co",
+   "to": "state:united-states-co",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:blue-lakes-co",
+   "to": "site:mount-sneffels-wilderness",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:blue-lakes-co",
+   "to": "reel:DfVZYUEytWt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Three turquoise alpine lakes below Mt. Sneffels",
+    "recommendation": "Listed at 10 miles in the reel: three stacked turquoise lakes — Lower, Middle and Upper Blue — in a glacial basin beneath 14,150-foot Mount Sneffels in the San Juan Mountains.",
+    "creator": "@ashleyemckee",
+    "reel_title": "Epic USA hikes — how many have you done?",
+    "reel_theme": "Epic USA hikes"
+   }
+  },
+  {
+   "from": "place:blue-lakes-co",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
