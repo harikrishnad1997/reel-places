@@ -3475,6 +3475,37 @@
    }
   },
   {
+   "id": "reel:DfUu09yRN3C",
+   "type": "Reel",
+   "properties": {
+    "name": "Torch Lake in Fall feels like the movies",
+    "url": "https://www.instagram.com/reel/DfUu09yRN3C/",
+    "title": "Torch Lake in Fall feels like the movies",
+    "creator": "@marco.horizons",
+    "theme": "Michigan fall colors",
+    "places_count": 1,
+    "recommendation_summary": "Aerial fall showcase of Torch Lake, Michigan — turquoise Caribbean-like water and sandbars against peak autumn shoreline color, near Traverse City amid wineries and orchards.",
+    "posted": "2026-11-04",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:marco-horizons",
+   "type": "Creator",
+   "properties": {
+    "name": "@marco.horizons",
+    "handle": "@marco.horizons",
+    "display_name": "Marco"
+   }
+  },
+  {
+   "id": "theme:michigan-fall-colors",
+   "type": "Theme",
+   "properties": {
+    "name": "Michigan fall colors"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10869,6 +10900,32 @@
    "properties": {
     "name": "Giant Sequoia National Monument"
    }
+  },
+  {
+   "id": "place:torch-lake-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Torch Lake",
+    "place_id": "torch-lake-mi",
+    "site": "Torch Lake",
+    "city": "Alden",
+    "state": "Michigan",
+    "state_code": "",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 44.97821,
+    "lng": -85.30447,
+    "google_maps_query": "Torch+Lake+Michigan",
+    "best_for": "Fall colors",
+    "note": "Pin is OpenStreetMap's point for the long Torch Lake near Traverse City (Antrim County) — not the smaller Torch Lake in the Keweenaw Peninsula."
+   }
+  },
+  {
+   "id": "site:torch-lake",
+   "type": "Site",
+   "properties": {
+    "name": "Torch Lake"
+   }
   }
  ],
  "edges": [
@@ -13143,6 +13200,18 @@
   {
    "from": "reel:DeiypL5TviI",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUu09yRN3C",
+   "to": "creator:marco-horizons",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUu09yRN3C",
+   "to": "theme:michigan-fall-colors",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -25326,6 +25395,37 @@
   {
    "from": "place:seven-teacups-ca",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:torch-lake-mi",
+   "to": "state:united-states-michigan",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:torch-lake-mi",
+   "to": "site:torch-lake",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:torch-lake-mi",
+   "to": "reel:DfUu09yRN3C",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Fall colors",
+    "recommendation": "The 'Caribbean of the Midwest' in autumn: Torch Lake's turquoise, crystal-clear water and shallow sandbars ringed by peak fall color — the reel's drone shots show deep blue open water against shores of red and gold. The caption pitches the area's wineries and orchards as a perfect Michigan fall road trip.",
+    "creator": "@marco.horizons",
+    "reel_title": "Torch Lake in Fall feels like the movies",
+    "reel_theme": "Michigan fall colors"
+   }
+  },
+  {
+   "from": "place:torch-lake-mi",
+   "to": "theme:fall-colors",
    "type": "BEST_FOR",
    "properties": {}
   }

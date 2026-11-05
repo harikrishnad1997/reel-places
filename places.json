@@ -7660,6 +7660,28 @@
    "source_rank": null,
    "source_reel_theme": "California hidden-gem waterfalls",
    "additional_sources": []
+  },
+  {
+   "id": "torch-lake-mi",
+   "name": "Torch Lake",
+   "site": "Torch Lake",
+   "city": "Alden",
+   "state": "Michigan",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 44.97821,
+   "lng": -85.30447,
+   "google_maps_query": "Torch+Lake+Michigan",
+   "best_for": "Fall colors",
+   "recommendation": "The 'Caribbean of the Midwest' in autumn: Torch Lake's turquoise, crystal-clear water and shallow sandbars ringed by peak fall color \u2014 the reel's drone shots show deep blue open water against shores of red and gold. The caption pitches the area's wineries and orchards as a perfect Michigan fall road trip.",
+   "note": "Pin is OpenStreetMap's point for the long Torch Lake near Traverse City (Antrim County) \u2014 not the smaller Torch Lake in the Keweenaw Peninsula.",
+   "source_reel": "https://www.instagram.com/reel/DfUu09yRN3C/",
+   "source_title": "Torch Lake in Fall feels like the movies",
+   "source_creator": "@marco.horizons",
+   "source_rank": null,
+   "source_reel_theme": "Michigan fall colors",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

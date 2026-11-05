@@ -12,7 +12,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 37 places](#northeast)
 - [Southeast Region — 46 places](#southeast)
-- [Midwest Region — 15 places](#midwest)
+- [Midwest Region — 16 places](#midwest)
 - [Southwest Region — 68 places](#southwest)
 - [Mountain West Region — 42 places](#mountain-west)
 - [West Region — 40 places](#west)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 46 · Midwest 15 · Southwest 68 · Mountain West 42 · West 40 · Pacific Northwest 18 · Alaska 15 · Hawaii 5 · U.S. Territories 3 · **Total 289**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 37 · Southeast 46 · Midwest 16 · Southwest 68 · Mountain West 42 · West 40 · Pacific Northwest 18 · Alaska 15 · Hawaii 5 · U.S. Territories 3 · **Total 290**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -849,7 +849,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**15 places · Illinois, Michigan, Minnesota, Missouri, North Dakota, South Dakota, Wisconsin**
+**16 places · Illinois, Michigan, Minnesota, Missouri, North Dakota, South Dakota, Wisconsin**
 
 ### Badlands National Park
 
@@ -990,13 +990,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Also recommended by: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer
     - **Best for:** Road trip — Stop 2 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Days 4–5, based in Medora — the North Dakota leg of the loop.
 
+### Torch Lake
+
+#### Michigan
+
+##### Fall colors
+
+- **13. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
+  - **Best for:** Fall colors — The 'Caribbean of the Midwest' in autumn: Torch Lake's turquoise, crystal-clear water and shallow sandbars ringed by peak fall color — the reel's drone shots show deep blue open water against shores of red and gold. The caption pitches the area's wineries and orchards as a perfect Michigan fall road trip.
+  - Pin is OpenStreetMap's point for the long Torch Lake near Traverse City (Antrim County) — not the smaller Torch Lake in the Keweenaw Peninsula.
+  - 🎬 Source: [Torch Lake in Fall feels like the movies](https://www.instagram.com/reel/DfUu09yRN3C/) by @marco.horizons (#None in that reel)
+
 ### Wind Cave National Park
 
 #### South Dakota
 
 ##### Road trip stop
 
-- **13. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **14. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Road trip stop — Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 — book a timed cave tour in advance, per her tip.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#4 in that reel)
@@ -1007,14 +1018,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Caves
 
-- **14. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
+- **15. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Caves / Stargazing — 'This state park surprised us': 14+ miles of trails with caves to explore, an astronomy center that's perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.
   - Pin is OpenStreetMap's Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.
   - 🎬 Source: [This state park surprised us — Wyalusing State Park, Wisconsin](https://www.instagram.com/reel/DfTBMuDhL7P/) by @thekateandcody (#None in that reel)
 
 ##### Hike
 
-- **15. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
+- **16. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Hike — The creators' favorite trail in the park: the Old Immigrant & Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.
   - Pin is OpenStreetMap's Old Immigrant Trail point within Wyalusing State Park.
   - 🎬 Source: [This state park surprised us — Wyalusing State Park, Wisconsin](https://www.instagram.com/reel/DfTBMuDhL7P/) by @thekateandcody (#None in that reel)
@@ -3171,6 +3182,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Asya's five all-time favorite California drives, in the order shown: Highway 395 in the Eastern Sierra, 17-Mile Drive at Pebble Beach, the Kings Canyon Scenic Byway, the redwoods drive through Jedediah Smith Redwoods State Park, and Big Sur on Highway 1.
 - **[Seven Teacups — granite pools above the Kern River](https://www.instagram.com/reel/DeiypL5TviI/)** — @asyatravels · 1 places · Theme: California hidden-gem waterfalls
   - What the reel recommends: Seven Teacups in Giant Sequoia National Monument: granite pools carved by Dry Meadow Creek above the Kern River, near Kernville — a 4-mile round-trip hike, and an explicit no-swimming warning because of the current.
+- **[Torch Lake in Fall feels like the movies](https://www.instagram.com/reel/DfUu09yRN3C/)** — @marco.horizons · 1 places · Theme: Michigan fall colors
+  - What the reel recommends: Aerial fall showcase of Torch Lake, Michigan — turquoise Caribbean-like water and sandbars against peak autumn shoreline color, near Traverse City amid wineries and orchards.
 
 ## How this page is updated {#how-this-page-is-updated}
 
