@@ -3616,6 +3616,37 @@
    }
   },
   {
+   "id": "reel:DfD2yGrmvkK",
+   "type": "Reel",
+   "properties": {
+    "name": "You haven't really seen the night sky until you've visited places like these",
+    "url": "https://www.instagram.com/p/DfD2yGrmvkK/",
+    "title": "You haven't really seen the night sky until you've visited places like these",
+    "creator": "@earthpulse111",
+    "theme": "Dark-sky Milky Way destinations",
+    "places_count": 4,
+    "recommendation_summary": "A dark-sky carousel: Massacre Rim (NV), Arches National Park (UT), Big Bend Ranch (TX) and Cherry Springs (PA) — remote places to see the Milky Way under some of the darkest skies in the US.",
+    "posted": "2026-10-28",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:earthpulse111",
+   "type": "Creator",
+   "properties": {
+    "name": "@earthpulse111",
+    "handle": "@earthpulse111",
+    "display_name": "Explore the wild"
+   }
+  },
+  {
+   "id": "theme:dark-sky-milky-way-destinations",
+   "type": "Theme",
+   "properties": {
+    "name": "Dark-sky Milky Way destinations"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -11628,6 +11659,72 @@
     "best_for": "Waterfall · 36-foot falls you can walk behind, on a 5-minute trail",
     "note": ""
    }
+  },
+  {
+   "id": "place:massacre-rim-nv",
+   "type": "Place",
+   "properties": {
+    "name": "Massacre Rim",
+    "place_id": "massacre-rim-nv",
+    "site": "Massacre Rim Wilderness Study Area",
+    "city": "Cedarville",
+    "state": "Nevada",
+    "state_code": "NV",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 41.70079,
+    "lng": -119.68421,
+    "google_maps_query": "Massacre+Rim+Nevada",
+    "best_for": "Stargazing · One of the darkest skies in America",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:massacre-rim-wilderness-study-area",
+   "type": "Site",
+   "properties": {
+    "name": "Massacre Rim Wilderness Study Area"
+   }
+  },
+  {
+   "id": "theme:stargazing-one-of-the-darkest-skies-in-america",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing · One of the darkest skies in America"
+   }
+  },
+  {
+   "id": "place:big-bend-ranch-state-park-tx",
+   "type": "Place",
+   "properties": {
+    "name": "Big Bend Ranch State Park",
+    "place_id": "big-bend-ranch-state-park-tx",
+    "site": "Big Bend Ranch State Park",
+    "city": "Presidio",
+    "state": "Texas",
+    "state_code": "TX",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 29.53174,
+    "lng": -104.0657,
+    "google_maps_query": "Big+Bend+Ranch+State+Park+TX",
+    "best_for": "Stargazing · Vast desert with minimal light pollution",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:big-bend-ranch-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Big Bend Ranch State Park"
+   }
+  },
+  {
+   "id": "theme:stargazing-vast-desert-with-minimal-light-pollution",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing · Vast desert with minimal light pollution"
+   }
   }
  ],
  "edges": [
@@ -13968,6 +14065,18 @@
   {
    "from": "reel:DfUwZ-FIXLI",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfD2yGrmvkK",
+   "to": "creator:earthpulse111",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfD2yGrmvkK",
+   "to": "theme:dark-sky-milky-way-destinations",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -21879,6 +21988,19 @@
    "properties": {}
   },
   {
+   "from": "place:arches-national-park-ut",
+   "to": "reel:DfD2yGrmvkK",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing",
+    "recommendation": "The carousel's Utah pick: a sky filled with stars above the park's ancient stone arches.",
+    "creator": "@earthpulse111",
+    "reel_title": "You haven't really seen the night sky until you've visited places like these",
+    "reel_theme": "Dark-sky Milky Way destinations"
+   }
+  },
+  {
    "from": "place:cherry-springs-state-park-pa",
    "to": "state:united-states-pennsylvania",
    "type": "LOCATED_IN",
@@ -21939,6 +22061,19 @@
    "to": "theme:road-trip-stop",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:cherry-springs-state-park-pa",
+   "to": "reel:DfD2yGrmvkK",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing",
+    "recommendation": "The carousel's Pennsylvania pick: noted as one of the best places to see stars in the eastern United States.",
+    "creator": "@earthpulse111",
+    "reel_title": "You haven't really seen the night sky until you've visited places like these",
+    "reel_theme": "Dark-sky Milky Way destinations"
+   }
   },
   {
    "from": "place:great-basin-national-park-nv",
@@ -26913,6 +27048,68 @@
   {
    "from": "place:cucumber-falls-pa",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:massacre-rim-nv",
+   "to": "state:united-states-nv",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:massacre-rim-nv",
+   "to": "site:massacre-rim-wilderness-study-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:massacre-rim-nv",
+   "to": "reel:DfD2yGrmvkK",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing · One of the darkest skies in America",
+    "recommendation": "The carousel's Nevada pick: a wilderness study area so remote that the Milky Way stretches brilliantly across the sky on clear, moonless nights — among the darkest skies left in the United States.",
+    "creator": "@earthpulse111",
+    "reel_title": "You haven't really seen the night sky until you've visited places like these",
+    "reel_theme": "Dark-sky Milky Way destinations"
+   }
+  },
+  {
+   "from": "place:massacre-rim-nv",
+   "to": "theme:stargazing-one-of-the-darkest-skies-in-america",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:big-bend-ranch-state-park-tx",
+   "to": "state:united-states-tx",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:big-bend-ranch-state-park-tx",
+   "to": "site:big-bend-ranch-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:big-bend-ranch-state-park-tx",
+   "to": "reel:DfD2yGrmvkK",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing · Vast desert with minimal light pollution",
+    "recommendation": "The carousel's Texas pick: the sprawling state park west of Big Bend National Park, where vast desert landscapes and minimal light pollution create extraordinary stargazing.",
+    "creator": "@earthpulse111",
+    "reel_title": "You haven't really seen the night sky until you've visited places like these",
+    "reel_theme": "Dark-sky Milky Way destinations"
+   }
+  },
+  {
+   "from": "place:big-bend-ranch-state-park-tx",
+   "to": "theme:stargazing-vast-desert-with-minimal-light-pollution",
    "type": "BEST_FOR",
    "properties": {}
   }

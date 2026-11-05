@@ -4930,6 +4930,15 @@
      "source_reel": "https://www.instagram.com/reel/DexzsRogiV7/",
      "source_reel_theme": "Southwest winter road trip",
      "source_title": "One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)"
+    },
+    {
+     "best_for": "Stargazing",
+     "recommendation": "The carousel's Utah pick: a sky filled with stars above the park's ancient stone arches.",
+     "source_creator": "@earthpulse111",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfD2yGrmvkK/",
+     "source_reel_theme": "Dark-sky Milky Way destinations",
+     "source_title": "You haven't really seen the night sky until you've visited places like these"
     }
    ]
   },
@@ -4962,6 +4971,15 @@
      "source_reel": "https://www.instagram.com/reel/DfU-tMFRe-v/",
      "source_reel_theme": "Pennsylvania Wilds road trip",
      "source_title": "Pennsylvania Road Trip Ideas Part 2"
+    },
+    {
+     "best_for": "Stargazing",
+     "recommendation": "The carousel's Pennsylvania pick: noted as one of the best places to see stars in the eastern United States.",
+     "source_creator": "@earthpulse111",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfD2yGrmvkK/",
+     "source_reel_theme": "Dark-sky Milky Way destinations",
+     "source_title": "You haven't really seen the night sky until you've visited places like these"
     }
    ]
   },
@@ -8298,6 +8316,50 @@
    "source_reel_theme": "Easy Pennsylvania waterfall hike",
    "additional_sources": [],
    "alltrails_url": "https://www.alltrails.com/trail/us/pennsylvania/cucumber-falls"
+  },
+  {
+   "id": "massacre-rim-nv",
+   "name": "Massacre Rim",
+   "site": "Massacre Rim Wilderness Study Area",
+   "city": "Cedarville",
+   "state": "Nevada",
+   "state_code": "NV",
+   "country": "United States",
+   "region": "Southwest",
+   "region_id": "southwest",
+   "lat": 41.70079,
+   "lng": -119.68421,
+   "google_maps_query": "Massacre+Rim+Nevada",
+   "best_for": "Stargazing · One of the darkest skies in America",
+   "recommendation": "The carousel's Nevada pick: a wilderness study area so remote that the Milky Way stretches brilliantly across the sky on clear, moonless nights — among the darkest skies left in the United States.",
+   "source_reel": "https://www.instagram.com/p/DfD2yGrmvkK/",
+   "source_title": "You haven't really seen the night sky until you've visited places like these",
+   "source_creator": "@earthpulse111",
+   "source_rank": null,
+   "source_reel_theme": "Dark-sky Milky Way destinations",
+   "additional_sources": []
+  },
+  {
+   "id": "big-bend-ranch-state-park-tx",
+   "name": "Big Bend Ranch State Park",
+   "site": "Big Bend Ranch State Park",
+   "city": "Presidio",
+   "state": "Texas",
+   "state_code": "TX",
+   "country": "United States",
+   "region": "Southwest",
+   "region_id": "southwest",
+   "lat": 29.53174,
+   "lng": -104.0657,
+   "google_maps_query": "Big+Bend+Ranch+State+Park+TX",
+   "best_for": "Stargazing · Vast desert with minimal light pollution",
+   "recommendation": "The carousel's Texas pick: the sprawling state park west of Big Bend National Park, where vast desert landscapes and minimal light pollution create extraordinary stargazing.",
+   "source_reel": "https://www.instagram.com/p/DfD2yGrmvkK/",
+   "source_title": "You haven't really seen the night sky until you've visited places like these",
+   "source_creator": "@earthpulse111",
+   "source_rank": null,
+   "source_reel_theme": "Dark-sky Milky Way destinations",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",
