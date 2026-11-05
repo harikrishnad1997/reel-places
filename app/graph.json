@@ -3592,6 +3592,30 @@
    }
   },
   {
+   "id": "reel:DfUwZ-FIXLI",
+   "type": "Reel",
+   "properties": {
+    "name": "Cucumber Falls — the waterfall you can stand inside",
+    "url": "https://www.instagram.com/reel/DfUwZ-FIXLI/",
+    "title": "Cucumber Falls — the waterfall you can stand inside",
+    "creator": "@_haubibi",
+    "theme": "Easy Pennsylvania waterfall hike",
+    "places_count": 1,
+    "recommendation_summary": "A single-spot reel: Cucumber Falls in Ohiopyle State Park, PA — a 36-foot waterfall you can walk behind, reached by an easy trail of under five minutes.",
+    "posted": "2026-11-04",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:haubibi",
+   "type": "Creator",
+   "properties": {
+    "name": "@_haubibi",
+    "handle": "@_haubibi",
+    "display_name": "Chase Haubert"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -11585,6 +11609,25 @@
    "properties": {
     "name": "King Range National Conservation Area (Shelter Cove)"
    }
+  },
+  {
+   "id": "place:cucumber-falls-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Cucumber Falls",
+    "place_id": "cucumber-falls-pa",
+    "site": "Ohiopyle State Park",
+    "city": "Ohiopyle",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 39.86321,
+    "lng": -79.50265,
+    "google_maps_query": "Cucumber+Falls+Ohiopyle+State+Park+PA",
+    "best_for": "Waterfall · 36-foot falls you can walk behind, on a 5-minute trail",
+    "note": ""
+   }
   }
  ],
  "edges": [
@@ -13906,6 +13949,24 @@
   },
   {
    "from": "reel:De7CHmAMQoz",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUwZ-FIXLI",
+   "to": "creator:haubibi",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUwZ-FIXLI",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfUwZ-FIXLI",
    "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
@@ -26821,6 +26882,37 @@
   {
    "from": "place:black-sands-beach-ca",
    "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cucumber-falls-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cucumber-falls-pa",
+   "to": "site:ohiopyle-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cucumber-falls-pa",
+   "to": "reel:DfUwZ-FIXLI",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall · 36-foot falls you can walk behind, on a 5-minute trail",
+    "recommendation": "A beautiful waterfall you can stand inside of: a 36-foot bridal-veil falls on the Great Gorge Trail in Ohiopyle State Park, reached by a very short, super-maintained trail — under five minutes, with a scenic overlook at the start — that the creator stresses is easy enough for kids and elderly visitors. Scramble over the rocks at the base and you can walk behind the curtain of water.",
+    "creator": "@_haubibi",
+    "reel_title": "Cucumber Falls — the waterfall you can stand inside",
+    "reel_theme": "Easy Pennsylvania waterfall hike"
+   }
+  },
+  {
+   "from": "place:cucumber-falls-pa",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }

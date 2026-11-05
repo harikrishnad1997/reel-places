@@ -10,7 +10,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 ## Contents
 
 - [Map — all places, color-coded by region](#map)
-- [Northeast Region — 46 places](#northeast)
+- [Northeast Region — 47 places](#northeast)
 - [Southeast Region — 46 places](#southeast)
 - [Midwest Region — 16 places](#midwest)
 - [Southwest Region — 68 places](#southwest)
@@ -26,7 +26,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 46 · Southeast 46 · Midwest 16 · Southwest 68 · Mountain West 42 · West 50 · Pacific Northwest 19 · Alaska 15 · Hawaii 5 · U.S. Territories 3 · **Total 310**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 47 · Southeast 46 · Midwest 16 · Southwest 68 · Mountain West 42 · West 50 · Pacific Northwest 19 · Alaska 15 · Hawaii 5 · U.S. Territories 3 · **Total 311**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -39,7 +39,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Northeast Region {#northeast}
 
-**46 places · Connecticut, Maine, Massachusetts, New Hampshire, New York, Pennsylvania, Vermont**
+**47 places · Connecticut, Maine, Massachusetts, New Hampshire, New York, Pennsylvania, Vermont**
 
 ### Acadia National Park
 
@@ -411,13 +411,20 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#8 in that reel)
 
+##### Waterfall · 36-foot falls you can walk behind, on a 5-minute trail
+
+- **36. [Cucumber Falls](https://www.google.com/maps/search/?api=1&query=Cucumber+Falls+Ohiopyle+State+Park+PA)** — Ohiopyle State Park, Ohiopyle
+  - **Best for:** Waterfall · 36-foot falls you can walk behind, on a 5-minute trail — A beautiful waterfall you can stand inside of: a 36-foot bridal-veil falls on the Great Gorge Trail in Ohiopyle State Park, reached by a very short, super-maintained trail — under five minutes, with a scenic overlook at the start — that the creator stresses is easy enough for kids and elderly visitors. Scramble over the rocks at the base and you can walk behind the curtain of water.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/pennsylvania/cucumber-falls)
+  - 🎬 Source: [Cucumber Falls — the waterfall you can stand inside](https://www.instagram.com/reel/DfUwZ-FIXLI/) by @_haubibi (#None in that reel)
+
 ### Penn's Cave & Wildlife Park
 
 #### Pennsylvania
 
 ##### Cave tour · America's only all-water cavern, toured by boat
 
-- **36. [Penn's Cave](https://www.google.com/maps/search/?api=1&query=Penn's+Cave+Centre+Hall+PA)** — Penn's Cave & Wildlife Park, Centre Hall
+- **37. [Penn's Cave](https://www.google.com/maps/search/?api=1&query=Penn's+Cave+Centre+Hall+PA)** — Penn's Cave & Wildlife Park, Centre Hall
   - **Best for:** Cave tour · America's only all-water cavern, toured by boat — The reel's first stop: a boat ride through America's only all-water cavern — you float the underground river past illuminated stalactites instead of walking. It's also the only Pennsylvania cave on the National Register of Historic Places, with a wildlife park above ground.
   - Coordinates from the venue's published location, 222 Penns Cave Rd, Centre Hall (OpenStreetMap has no attraction point for the cave).
   - 🎬 Source: [Pennsylvania Road Trip Ideas Part 2](https://www.instagram.com/reel/DfU-tMFRe-v/) by @hunterhulbert (#None in that reel)
@@ -428,7 +435,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **37. [Raymondskill Falls](https://www.google.com/maps/search/?api=1&query=Raymondskill+Falls+PA)** — Raymondskill Falls (Delaware Water Gap), Milford
+- **38. [Raymondskill Falls](https://www.google.com/maps/search/?api=1&query=Raymondskill+Falls+PA)** — Raymondskill Falls (Delaware Water Gap), Milford
   - **Best for:** Waterfall — Ranked #21 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/pennsylvania/raymondskill-falls-loop-trail)
   - Coordinates verified against OpenStreetMap.
@@ -440,14 +447,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **38. [Ricketts Glen State Park](https://www.google.com/maps/search/?api=1&query=Ricketts+Glen+State+Park+PA)** — Ricketts Glen State Park, Benton
+- **39. [Ricketts Glen State Park](https://www.google.com/maps/search/?api=1&query=Ricketts+Glen+State+Park+PA)** — Ricketts Glen State Park, Benton
   - **Best for:** Top state park — Ranked #5 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#5 in that reel)
 
 ##### Waterfall
 
-- **39. [Ganoga Falls](https://www.google.com/maps/search/?api=1&query=Ganoga+Falls+PA)** — Ricketts Glen State Park, Benton
+- **40. [Ganoga Falls](https://www.google.com/maps/search/?api=1&query=Ganoga+Falls+PA)** — Ricketts Glen State Park, Benton
   - **Best for:** Waterfall — Ranked #13 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/pennsylvania/ricketts-glen-falls-loop)
   - Coordinates verified against OpenStreetMap.
@@ -459,7 +466,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **40. [Smalls Falls](https://www.google.com/maps/search/?api=1&query=Smalls+Falls+ME)** — Smalls Falls, Rangeley
+- **41. [Smalls Falls](https://www.google.com/maps/search/?api=1&query=Smalls+Falls+ME)** — Smalls Falls, Rangeley
   - **Best for:** Waterfall — Ranked #37 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/maine/smalls-falls)
   - Coordinates verified against OpenStreetMap.
@@ -471,7 +478,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **41. [Smugglers' Notch State Park](https://www.google.com/maps/search/?api=1&query=Smugglers'+Notch+State+Park+VT)** — Smugglers' Notch State Park, Cambridge
+- **42. [Smugglers' Notch State Park](https://www.google.com/maps/search/?api=1&query=Smugglers'+Notch+State+Park+VT)** — Smugglers' Notch State Park, Cambridge
   - **Best for:** Top state park — Ranked #12 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#12 in that reel)
@@ -482,7 +489,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **42. [Taughannock Falls](https://www.google.com/maps/search/?api=1&query=Taughannock+Falls+NY)** — Taughannock Falls State Park, Ithaca
+- **43. [Taughannock Falls](https://www.google.com/maps/search/?api=1&query=Taughannock+Falls+NY)** — Taughannock Falls State Park, Ithaca
   - **Best for:** Waterfall — Ranked #4 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/new-york/taughannock-falls-via-gorge-trail)
   - Coordinates verified against OpenStreetMap.
@@ -494,14 +501,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top state park
 
-- **43. [Watkins Glen State Park](https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+NY)** — Watkins Glen State Park, Watkins Glen
+- **44. [Watkins Glen State Park](https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+NY)** — Watkins Glen State Park, Watkins Glen
   - **Best for:** Top state park — Ranked #4 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#4 in that reel)
 
 ##### Waterfall
 
-- **44. [Rainbow Falls (Watkins Glen)](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Watkins+Glen+NY)** — Watkins Glen State Park, Watkins Glen
+- **45. [Rainbow Falls (Watkins Glen)](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Watkins+Glen+NY)** — Watkins Glen State Park, Watkins Glen
   - **Best for:** Waterfall — Ranked #14 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/new-york/rainbow-falls-via-indian-trail-and-gorge-trail)
   - Coordinates verified against OpenStreetMap.
@@ -513,7 +520,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Small town stop · Gas-lit Main Street and the Wellsboro Diner
 
-- **45. [Wellsboro](https://www.google.com/maps/search/?api=1&query=Wellsboro+PA)** — Wellsboro, Wellsboro
+- **46. [Wellsboro](https://www.google.com/maps/search/?api=1&query=Wellsboro+PA)** — Wellsboro, Wellsboro
   - **Best for:** Small town stop · Gas-lit Main Street and the Wellsboro Diner — The reel's small-town stop: Wellsboro's historic, gas-lit Main Street, its storefronts and the classic Wellsboro Diner — the gateway town for the Pine Creek Gorge.
   - 🎬 Source: [Pennsylvania Road Trip Ideas Part 2](https://www.instagram.com/reel/DfU-tMFRe-v/) by @hunterhulbert (#None in that reel)
 
@@ -523,7 +530,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### State park · Loyalsock Creek gorge park
 
-- **46. [Worlds End State Park](https://www.google.com/maps/search/?api=1&query=Worlds+End+State+Park+PA)** — Worlds End State Park, Forksville
+- **47. [Worlds End State Park](https://www.google.com/maps/search/?api=1&query=Worlds+End+State+Park+PA)** — Worlds End State Park, Forksville
   - **Best for:** State park · Loyalsock Creek gorge park — Honorable mention in the reel's caption: a rugged Sullivan County park in the Loyalsock Creek gorge — a swimming area on the creek, the Loyalsock Canyon Vista, and trailheads into Loyalsock Trail country.
   - 🎬 Source: [Pennsylvania Road Trip Ideas Part 2](https://www.instagram.com/reel/DfU-tMFRe-v/) by @hunterhulbert (#None in that reel)
 
@@ -3515,6 +3522,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A PA Wilds road trip through central and northern Pennsylvania: a boat tour through Penn's Cave, the Bilger's Rocks sandstone maze, elk watching near Benezette, the Pine Creek Gorge overlooks and Turkey Path, and gas-lit Wellsboro — plus caption honorable mentions Austin Dam Ruins, Cherry Springs, Kinzua Bridge, Hyner View and Worlds End state parks.
 - **[7 hikes that will ruin every other hike for you](https://www.instagram.com/reel/De7CHmAMQoz/)** — @discover_california_ · 11 places · Theme: California hikes countdown
   - What the reel recommends: Discover California's countdown of 7 California hikes: #7 Point Lobos, #6 Armstrong Redwoods, #5 Mossbrae Falls, #4 'literally anything in Big Sur' (McWay Falls, Pfeiffer Beach, Ewoldsen Trail, Partington Cove), #3 Grizzly Creek Redwoods, #2 Karl Knapp Trail, #1 Black Sands Beach at Shelter Cove. The caption lists the seven in the reverse order of the on-screen countdown; the ranks recorded here follow the video.
+- **[Cucumber Falls — the waterfall you can stand inside](https://www.instagram.com/reel/DfUwZ-FIXLI/)** — @_haubibi · 1 places · Theme: Easy Pennsylvania waterfall hike
+  - What the reel recommends: A single-spot reel: Cucumber Falls in Ohiopyle State Park, PA — a 36-foot waterfall you can walk behind, reached by an easy trail of under five minutes.
 
 ## How this page is updated {#how-this-page-is-updated}
 
