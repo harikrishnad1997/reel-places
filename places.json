@@ -9059,6 +9059,28 @@
    "source_rank": null,
    "source_reel_theme": "Midwest fall day trips",
    "additional_sources": []
+  },
+  {
+   "id": "kitch-iti-kipi-mi",
+   "name": "Kitch-iti-kipi",
+   "site": "Palms Book State Park",
+   "city": "Manistique",
+   "state": "Michigan",
+   "state_code": "MI",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 46.00416,
+   "lng": -86.38194,
+   "google_maps_query": "Kitch-iti-kipi+Michigan",
+   "best_for": "Spring · Self-propelled raft over turquoise water",
+   "recommendation": "Michigan's largest freshwater spring, inside Palms Book State Park: turquoise water so crystal clear you can see straight to the bottom, at a constant 45°F, viewed from a self-propelled wooden observation raft you crank across the spring yourself. Open year-round; a Michigan Recreation Passport (state park pass) is required. No swimming or fishing, but it's pet friendly and ADA accessible.",
+   "source_reel": "https://www.instagram.com/reel/DcmIo5lJNCT/",
+   "source_title": "Kitch-iti-kipi — Michigan's crystal-clear Big Spring",
+   "source_creator": "@missnortherner",
+   "source_rank": null,
+   "source_reel_theme": "Midwest hidden gems",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

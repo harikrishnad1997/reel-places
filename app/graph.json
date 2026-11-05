@@ -3874,6 +3874,37 @@
    }
   },
   {
+   "id": "reel:DcmIo5lJNCT",
+   "type": "Reel",
+   "properties": {
+    "name": "Kitch-iti-kipi — Michigan's crystal-clear Big Spring",
+    "url": "https://www.instagram.com/reel/DcmIo5lJNCT/",
+    "title": "Kitch-iti-kipi — Michigan's crystal-clear Big Spring",
+    "creator": "@missnortherner",
+    "theme": "Midwest hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Kitch-iti-kipi in Palms Book State Park near Manistique, Michigan — Michigan's largest spring, seen from a self-propelled raft over crystal-clear 45°F turquoise water.",
+    "posted": "2026-08-28",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:missnortherner",
+   "type": "Creator",
+   "properties": {
+    "name": "@missnortherner",
+    "handle": "@missnortherner",
+    "display_name": "Kristen Carlson • Midwest Travel"
+   }
+  },
+  {
+   "id": "theme:midwest-hidden-gems",
+   "type": "Theme",
+   "properties": {
+    "name": "Midwest hidden gems"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12708,6 +12739,39 @@
    "properties": {
     "name": "Small town · Historic downtown, shops and fall orchards"
    }
+  },
+  {
+   "id": "place:kitch-iti-kipi-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Kitch-iti-kipi",
+    "place_id": "kitch-iti-kipi-mi",
+    "site": "Palms Book State Park",
+    "city": "Manistique",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 46.00416,
+    "lng": -86.38194,
+    "google_maps_query": "Kitch-iti-kipi+Michigan",
+    "best_for": "Spring · Self-propelled raft over turquoise water",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:palms-book-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Palms Book State Park"
+   }
+  },
+  {
+   "id": "theme:spring-self-propelled-raft-over-turquoise-water",
+   "type": "Theme",
+   "properties": {
+    "name": "Spring · Self-propelled raft over turquoise water"
+   }
   }
  ],
  "edges": [
@@ -15168,6 +15232,18 @@
   {
    "from": "reel:De5xjn8S4vF",
    "to": "theme:midwest-fall-day-trips",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcmIo5lJNCT",
+   "to": "creator:missnortherner",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcmIo5lJNCT",
+   "to": "theme:midwest-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -29219,6 +29295,37 @@
   {
    "from": "place:weston-mo",
    "to": "theme:small-town-historic-downtown-shops-and-fall-orchards",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kitch-iti-kipi-mi",
+   "to": "state:united-states-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:kitch-iti-kipi-mi",
+   "to": "site:palms-book-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kitch-iti-kipi-mi",
+   "to": "reel:DcmIo5lJNCT",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Spring · Self-propelled raft over turquoise water",
+    "recommendation": "Michigan's largest freshwater spring, inside Palms Book State Park: turquoise water so crystal clear you can see straight to the bottom, at a constant 45°F, viewed from a self-propelled wooden observation raft you crank across the spring yourself. Open year-round; a Michigan Recreation Passport (state park pass) is required. No swimming or fishing, but it's pet friendly and ADA accessible.",
+    "creator": "@missnortherner",
+    "reel_title": "Kitch-iti-kipi — Michigan's crystal-clear Big Spring",
+    "reel_theme": "Midwest hidden gems"
+   }
+  },
+  {
+   "from": "place:kitch-iti-kipi-mi",
+   "to": "theme:spring-self-propelled-raft-over-turquoise-water",
    "type": "BEST_FOR",
    "properties": {}
   }
