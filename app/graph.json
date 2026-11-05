@@ -3506,6 +3506,37 @@
    }
   },
   {
+   "id": "reel:Dbuat08NaQH",
+   "type": "Reel",
+   "properties": {
+    "name": "Cape Kiwanda — 12/10 view on the Oregon Coast",
+    "url": "https://www.instagram.com/reel/Dbuat08NaQH/",
+    "title": "Cape Kiwanda — 12/10 view on the Oregon Coast",
+    "creator": "@lauren_see",
+    "theme": "Oregon Coast",
+    "places_count": 1,
+    "recommendation_summary": "Cape Kiwanda in Pacific City, Oregon — a 240-foot sand dune above sandstone cliffs, tide pools and sandy beach, with a Haystack Rock lookalike offshore; an easier 1-mile beach walk reaches the rocks.",
+    "posted": "2026-08-06",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:lauren-see",
+   "type": "Creator",
+   "properties": {
+    "name": "@lauren_see",
+    "handle": "@lauren_see",
+    "display_name": "Lauren"
+   }
+  },
+  {
+   "id": "theme:oregon-coast",
+   "type": "Theme",
+   "properties": {
+    "name": "Oregon Coast"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10926,6 +10957,41 @@
    "properties": {
     "name": "Torch Lake"
    }
+  },
+  {
+   "id": "place:cape-kiwanda-or",
+   "type": "Place",
+   "properties": {
+    "name": "Cape Kiwanda",
+    "place_id": "cape-kiwanda-or",
+    "site": "Cape Kiwanda State Natural Area",
+    "city": "Pacific City",
+    "state": "Oregon",
+    "state_code": "OR",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 45.2168,
+    "lng": -123.98027,
+    "google_maps_query": "Cape+Kiwanda+Pacific+City+Oregon",
+    "best_for": "Hike · Sand dune climb, tide pools and coastal views",
+    "note": "Pin is OpenStreetMap's point for the Cape Kiwanda headland."
+   }
+  },
+  {
+   "id": "state:united-states-or",
+   "type": "State",
+   "properties": {
+    "name": "Oregon",
+    "state_code": "OR",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:cape-kiwanda-state-natural-area",
+   "type": "Site",
+   "properties": {
+    "name": "Cape Kiwanda State Natural Area"
+   }
   }
  ],
  "edges": [
@@ -13212,6 +13278,18 @@
   {
    "from": "reel:DfUu09yRN3C",
    "to": "theme:michigan-fall-colors",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dbuat08NaQH",
+   "to": "creator:lauren-see",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dbuat08NaQH",
+   "to": "theme:oregon-coast",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -25426,6 +25504,55 @@
   {
    "from": "place:torch-lake-mi",
    "to": "theme:fall-colors",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cape-kiwanda-or",
+   "to": "state:united-states-or",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-or",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-or",
+   "to": "region:pacific-northwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:cape-kiwanda-or",
+   "to": "site:cape-kiwanda-state-natural-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cape-kiwanda-or",
+   "to": "reel:Dbuat08NaQH",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Sand dune climb, tide pools and coastal views",
+    "recommendation": "Climb the 240-foot sand dune for the payoff view over sandstone cliffs, tide pools and sandy beaches, with Pacific City's own Haystack Rock offshore. There's also an easier 1-mile walk along the beach to the rocks of the cape.",
+    "creator": "@lauren_see",
+    "reel_title": "Cape Kiwanda — 12/10 view on the Oregon Coast",
+    "reel_theme": "Oregon Coast"
+   }
+  },
+  {
+   "from": "place:cape-kiwanda-or",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cape-kiwanda-or",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }

@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;color:#fff;font-weight:700;font-size:11px;text-align:center;line-height:22px;width:22px;height:22px;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>290 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>291 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
@@ -20,6 +20,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Adrenaline Hikes",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/maine/precipice-loop",
   "also": []
  },
  {
@@ -37,6 +38,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking / Sunrise \u2014 Beehive Trail",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/maine/the-beehive-loop-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/De3GgUCgfu4/",
@@ -62,6 +64,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Acadia's iconic sunrises \u2014 Cadillac Mountain & the Beehive",
   "creator": "@daveandjoce",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -79,6 +82,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 National Parks in the EAST",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Ddt8odbRZ32/",
@@ -125,6 +129,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 17,
+  "at": "https://www.alltrails.com/trail/us/new-hampshire/arethusa-falls-via-bemis-brook-and-arethusa-falls-trails",
   "also": []
  },
  {
@@ -142,6 +147,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 11,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/p/Der2jZzGNin/",
@@ -167,6 +173,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 3,
+  "at": "",
   "also": []
  },
  {
@@ -184,6 +191,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 36,
+  "at": "https://www.alltrails.com/trail/us/pennsylvania/bushkill-falls-red-and-blue-trail",
   "also": []
  },
  {
@@ -201,6 +209,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 7,
+  "at": "",
   "also": []
  },
  {
@@ -218,6 +227,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
   "creator": "@adventurefamilyvlog",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -235,6 +245,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Overnight Astronomy Observation Field \u2014 Cherry Springs State Park",
   "creator": "@visitdarkskiespa",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -252,6 +263,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 34,
+  "at": "https://www.alltrails.com/trail/us/new-york/chittenango-falls--2",
   "also": []
  },
  {
@@ -269,6 +281,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 10,
+  "at": "",
   "also": []
  },
  {
@@ -286,6 +299,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 27,
+  "at": "https://www.alltrails.com/trail/us/pennsylvania/dingmans-creek-trail",
   "also": []
  },
  {
@@ -303,6 +317,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Franconia Ridge Trail in New Hampshire",
   "creator": "@calvin_on_the_internet",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/new-hampshire/mount-lafayette-and-franconia-ridge-trail-loop",
   "also": []
  },
  {
@@ -320,6 +335,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -337,6 +353,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 25,
+  "at": "https://www.alltrails.com/trail/us/new-hampshire/glen-ellis-falls-trail",
   "also": []
  },
  {
@@ -354,6 +371,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 6,
+  "at": "https://www.alltrails.com/trail/us/new-york/katterskill-falls-from-laurel-house-road",
   "also": []
  },
  {
@@ -371,6 +389,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 30,
+  "at": "https://www.alltrails.com/trail/us/connecticut/kent-falls-red-and-yellow-loop-trail",
   "also": []
  },
  {
@@ -388,6 +407,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -405,6 +425,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 12,
+  "at": "https://www.alltrails.com/trail/us/new-york/letchworth-state-park-gorge-trail",
   "also": []
  },
  {
@@ -422,6 +443,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 6,
+  "at": "",
   "also": []
  },
  {
@@ -439,6 +461,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 35,
+  "at": "https://www.alltrails.com/trail/us/vermont/moss-glen-falls--2",
   "also": []
  },
  {
@@ -456,6 +479,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 9,
+  "at": "",
   "also": []
  },
  {
@@ -473,6 +497,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 26,
+  "at": "https://www.alltrails.com/trail/us/maine/moxie-falls--3",
   "also": []
  },
  {
@@ -490,6 +515,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall \u2014 American Falls",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/new-york/niagara-falls-terrapin-point-and-bridal-veil-falls",
   "also": []
  },
  {
@@ -507,6 +533,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall \u2014 Horseshoe Falls",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/new-york/niagara-falls-terrapin-point-and-bridal-veil-falls",
   "also": []
  },
  {
@@ -524,6 +551,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall \u2014 Niagara Falls",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/new-york/niagara-falls-terrapin-point-and-bridal-veil-falls",
   "also": [
    {
     "reel": "https://www.instagram.com/p/Der2jZzGNin/",
@@ -549,6 +577,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 8,
+  "at": "",
   "also": []
  },
  {
@@ -566,6 +595,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 21,
+  "at": "https://www.alltrails.com/trail/us/pennsylvania/raymondskill-falls-loop-trail",
   "also": []
  },
  {
@@ -583,6 +613,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -600,6 +631,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 13,
+  "at": "https://www.alltrails.com/trail/us/pennsylvania/ricketts-glen-falls-loop",
   "also": []
  },
  {
@@ -617,6 +649,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 37,
+  "at": "https://www.alltrails.com/trail/us/maine/smalls-falls",
   "also": []
  },
  {
@@ -634,6 +667,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 12,
+  "at": "",
   "also": []
  },
  {
@@ -651,6 +685,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/new-york/taughannock-falls-via-gorge-trail",
   "also": []
  },
  {
@@ -668,6 +703,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "State Park Ranking \u2014 12 Best State Parks, Northeast U.S.",
   "creator": "@discovery_matt",
   "rank": 4,
+  "at": "",
   "also": []
  },
  {
@@ -685,6 +721,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 14,
+  "at": "https://www.alltrails.com/trail/us/new-york/rainbow-falls-via-indian-trail-and-gorge-trail",
   "also": []
  },
  {
@@ -702,6 +739,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/georgia/amicalola-falls--2",
   "also": []
  },
  {
@@ -719,6 +757,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Winter National Parks",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -736,6 +775,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 7,
+  "at": "https://www.alltrails.com/trail/us/west-virginia/blackwater-falls--2",
   "also": []
  },
  {
@@ -753,6 +793,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 10,
+  "at": "https://www.alltrails.com/trail/us/tennessee/burgess-falls-trail",
   "also": []
  },
  {
@@ -770,6 +811,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 16,
+  "at": "https://www.alltrails.com/trail/us/north-carolina/catawba-falls-trail",
   "also": []
  },
  {
@@ -787,6 +829,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 28,
+  "at": "https://www.alltrails.com/trail/us/west-virginia/cathedral-falls",
   "also": []
  },
  {
@@ -804,6 +847,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 15,
+  "at": "https://www.alltrails.com/trail/us/virginia/crabtree-falls",
   "also": []
  },
  {
@@ -821,6 +865,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 29,
+  "at": "https://www.alltrails.com/trail/us/north-carolina/crabtree-falls-trail",
   "also": []
  },
  {
@@ -838,6 +883,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 2,
+  "at": "https://www.alltrails.com/trail/us/kentucky/cumberland-falls-trails-4-and-6",
   "also": []
  },
  {
@@ -855,6 +901,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 20,
+  "at": "https://www.alltrails.com/trail/us/tennessee/cummins-falls-base-route-via-falls-overlook-trail-and-blackburn-fork",
   "also": []
  },
  {
@@ -872,6 +919,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 9,
+  "at": "https://www.alltrails.com/trail/us/north-carolina/dry-falls-trail",
   "also": []
  },
  {
@@ -889,6 +937,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Winter National Parks",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DenDeSLBwwP/",
@@ -921,6 +970,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Favorite spot in the Everglades",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -938,6 +988,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Winter National Parks",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Ddot1ynPIHd/",
@@ -963,6 +1014,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 32,
+  "at": "",
   "also": []
  },
  {
@@ -980,6 +1032,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Wildlife / Scenic landscape \u2014 Grayson Highlands State Park",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Ddcu9EaOHnT/",
@@ -1005,6 +1058,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Summit hike \u2014 Mt. Le Conte",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/tennessee/mount-leconte-via-trillium-gap",
   "also": []
  },
  {
@@ -1022,6 +1076,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/tennessee/alum-cave-trail-to-mount-leconte",
   "also": []
  },
  {
@@ -1039,6 +1094,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunset viewpoint \u2014 Kuwohi",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1056,6 +1112,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 National Parks in the EAST",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/De_9Sf3BDFB/",
@@ -1081,6 +1138,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Scenic viewpoint \u2014 Cades Cove",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1098,6 +1156,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Fire tower view \u2014 Mount Cammerer Fire Tower",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1115,6 +1174,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Favorite viewpoint",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Ddpitf0BMb-/",
@@ -1147,6 +1207,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 38,
+  "at": "https://www.alltrails.com/trail/us/tennessee/abrams-falls-trail",
   "also": []
  },
  {
@@ -1164,6 +1225,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 31,
+  "at": "https://www.alltrails.com/trail/us/tennessee/grotto-falls-trail",
   "also": []
  },
  {
@@ -1181,6 +1243,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 23,
+  "at": "https://www.alltrails.com/trail/us/tennessee/rainbow-falls-trail",
   "also": []
  },
  {
@@ -1198,6 +1261,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Waterfalls That Blew My Mind",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/tennessee/ramsey-cascades-trail",
   "also": []
  },
  {
@@ -1215,6 +1279,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 8,
+  "at": "https://www.alltrails.com/trail/us/north-carolina/linville-falls-trail",
   "also": []
  },
  {
@@ -1232,6 +1297,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 11,
+  "at": "https://www.alltrails.com/trail/us/north-carolina/looking-glass-waterfalls",
   "also": []
  },
  {
@@ -1249,6 +1315,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunset viewpoint \u2014 Sunset Rock",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1266,6 +1333,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Cave \u2014 Mammoth Cave National Park",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DF_LFOtyBoO/",
@@ -1291,6 +1359,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Unique National Park Waterfalls",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -1308,6 +1377,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Underrated National Parks",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -1325,6 +1395,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 24,
+  "at": "https://www.alltrails.com/trail/us/tennessee/ozone-falls-state-natural-area",
   "also": []
  },
  {
@@ -1342,6 +1413,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunrise viewpoint \u2014 Snooper's Rock",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1359,6 +1431,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Princess Arch Trail in fall \u2014 Red River Gorge",
   "creator": "@jhunjhun_jn8888",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/kentucky/princess-arch-trail",
   "also": []
  },
  {
@@ -1376,6 +1449,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 18,
+  "at": "https://www.alltrails.com/trail/us/tennessee/ruby-falls",
   "also": []
  },
  {
@@ -1393,6 +1467,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 19,
+  "at": "https://www.alltrails.com/trail/us/west-virginia/sandstone-falls-boardwalk",
   "also": []
  },
  {
@@ -1410,6 +1485,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Adrenaline Hikes",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/virginia/old-rag-mountain-loop-trail",
   "also": []
  },
  {
@@ -1427,6 +1503,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Summit trail \u2014 Upper Hawksbill Trail",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/virginia/upper-hawksbill-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdsUVssgoMw/",
@@ -1459,6 +1536,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 National Parks in the EAST",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Dd1VBxKPvQU/",
@@ -1491,6 +1569,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 33,
+  "at": "https://www.alltrails.com/trail/us/virginia/dark-hollow-falls-trail",
   "also": []
  },
  {
@@ -1508,6 +1587,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 39,
+  "at": "https://www.alltrails.com/trail/us/virginia/overall-run-falls-via-tuscarora-overall-run-trail",
   "also": []
  },
  {
@@ -1525,6 +1605,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall \u2014 Greeter Falls",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/tennessee/greeter-falls-loop",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeCM6vlBwb9/",
@@ -1550,6 +1631,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)",
   "creator": "@discovery_matt",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/north-carolina/upper-whitewater-falls-trail--2",
   "also": []
  },
  {
@@ -1567,6 +1649,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking \u2014 Walls of Jericho",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/tennessee/walls-of-jericho-trail-head",
   "also": []
  },
  {
@@ -1584,6 +1667,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunset \u2014 Badlands National Park",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Dd1VBxKPvQU/",
@@ -1616,6 +1700,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Cave scenery \u2014 Cave-in-Rock",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1633,6 +1718,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
   "creator": "@funsizewanderer",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -1650,6 +1736,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Whipple's Cave \u2014 a cave hiding in the Illinois woods",
   "creator": "@our.adventure.tails",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -1667,6 +1754,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Parks for Deafening Silence (solitude)",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "",
   "also": []
  },
  {
@@ -1684,6 +1772,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Johnson's Shut-Ins State Park \u2014 nature's waterpark in Missouri",
   "creator": "@coupleofpatels",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1701,6 +1790,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
   "creator": "@funsizewanderer",
   "rank": 6,
+  "at": "",
   "also": []
  },
  {
@@ -1718,6 +1808,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of my all-time favorite views on Minnesota's North Shore \u2014 Palisade Head",
   "creator": "@john_walberg",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -1735,6 +1826,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Fall colors \u2014 Eagle Tower, Peninsula State Park",
   "creator": "@asia_in_chicago",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DfTGhTnMlKV/",
@@ -1760,6 +1852,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Fall colors \u2014 Eagle Tower, Peninsula State Park",
   "creator": "@asia_in_chicago",
   "rank": 2,
+  "at": "https://www.alltrails.com/trail/us/wisconsin/eagle-trail--2",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DfTGhTnMlKV/",
@@ -1785,6 +1878,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Lake of the Clouds \u2014 Porcupine Mountains, Michigan",
   "creator": "@andrew_krzesinski",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -1802,6 +1896,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Underrated National Parks",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Dd71F1qOrV3/",
@@ -1841,6 +1936,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Torch Lake in Fall feels like the movies",
   "creator": "@marco.horizons",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1858,6 +1954,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
   "creator": "@funsizewanderer",
   "rank": 4,
+  "at": "",
   "also": []
  },
  {
@@ -1875,6 +1972,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "This state park surprised us \u2014 Wyalusing State Park, Wisconsin",
   "creator": "@thekateandcody",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -1892,6 +1990,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "This state park surprised us \u2014 Wyalusing State Park, Wisconsin",
   "creator": "@thekateandcody",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/wisconsin/old-immigrant-trail-and-bluff-trail-loop",
   "also": []
  },
  {
@@ -1909,6 +2008,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Otherworldly National Park Hikes",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/utah/delicate-arch-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeGNe_OBZMp/",
@@ -1934,6 +2034,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Unique National Park Hikes",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/utah/devils-garden-loop-trail-with-7-arches",
   "also": []
  },
  {
@@ -1951,6 +2052,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
   "creator": "@adventurefamilyvlog",
   "rank": 4,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DexzsRogiV7/",
@@ -1976,6 +2078,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
   "creator": "@adventurefamilyvlog",
   "rank": 4,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DfP6OiPPW-W/",
@@ -2001,6 +2104,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Easy National Park Hikes",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -2018,6 +2122,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Guess the National Park game \u2014 The Window Trail",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/texas/the-window-trail",
   "also": []
  },
  {
@@ -2035,6 +2140,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Hikes That Blew My Mind",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/texas/emory-peak-trail",
   "also": []
  },
  {
@@ -2052,6 +2158,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 20,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Dd6-VBbhtY6/",
@@ -2084,6 +2191,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
   "creator": "@adventurefamilyvlog",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -2101,6 +2209,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
   "creator": "@adventurefamilyvlog",
   "rank": 8,
+  "at": "",
   "also": []
  },
  {
@@ -2118,6 +2227,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Unique National Park Hikes",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/utah/fairyland-loop-trail",
   "also": []
  },
  {
@@ -2135,6 +2245,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -2152,6 +2263,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 19,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DGx4mhMJiZv/",
@@ -2198,6 +2310,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Unique National Park Hikes",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "https://www.alltrails.com/trail/us/utah/joint-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdGt8sqhy8-/",
@@ -2223,6 +2336,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Parks for Deafening Silence (solitude)",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -2240,6 +2354,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Underrated National Parks",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/p/DfK2OLUiTVM/",
@@ -2272,6 +2387,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Otherworldly National Park Hikes",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/utah/cassidy-arch-trail",
   "also": []
  },
  {
@@ -2289,6 +2405,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Parks for Deafening Silence (solitude)",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/p/DfK2OLUiTVM/",
@@ -2321,6 +2438,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of the BEST winter road trips in the USA \u2014 Nevada \u2192 Utah \u2192 Arizona (13 stops)",
   "creator": "@_wanderedsouls",
   "rank": 9,
+  "at": "",
   "also": []
  },
  {
@@ -2338,6 +2456,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Spooky Canyon in Utah!",
   "creator": "@jackie.travel.photos",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -2355,6 +2474,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Lake scenery \u2014 Lake Estes",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -2372,6 +2492,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
   "creator": "@adventurefamilyvlog",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DfKQdjWx1L3/",
@@ -2397,6 +2518,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of the BEST winter road trips in the USA \u2014 Nevada \u2192 Utah \u2192 Arizona (13 stops)",
   "creator": "@_wanderedsouls",
   "rank": 10,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DfSTi-OxFFN/",
@@ -2422,6 +2544,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Day 3 of Arizona \u2014 Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
   "creator": "@laurenbcardona",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -2439,6 +2562,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of the BEST winter road trips in the USA \u2014 Nevada \u2192 Utah \u2192 Arizona (13 stops)",
   "creator": "@_wanderedsouls",
   "rank": 6,
+  "at": "",
   "also": []
  },
  {
@@ -2456,6 +2580,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Awe-Inspiring National Park Hikes",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/arizona/south-kaibab-phantom-ranch-and-bright-angel-trail-loop",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DfF8sFUPES5/",
@@ -2509,6 +2634,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Sunrises/Sets",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
@@ -2548,6 +2674,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunset viewpoint \u2014 Lipan Point",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeFZ8Zcvq_I/",
@@ -2573,6 +2700,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Scenic viewpoint \u2014 Colorado River (Grand Canyon)",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -2590,6 +2718,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
   "creator": "@adventurefamilyvlog",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -2607,6 +2736,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
   "creator": "@adventurefamilyvlog",
   "rank": 6,
+  "at": "",
   "also": []
  },
  {
@@ -2624,6 +2754,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
   "creator": "@adventurefamilyvlog",
   "rank": 6,
+  "at": "",
   "also": []
  },
  {
@@ -2641,6 +2772,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Otherworldly National Park Hikes",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "https://www.alltrails.com/trail/us/colorado/high-dune-trail",
   "also": []
  },
  {
@@ -2658,6 +2790,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Hikes That Blew My Mind",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/texas/devils-hall",
   "also": []
  },
  {
@@ -2675,6 +2808,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Views That Blew My Mind",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -2692,6 +2826,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of the BEST winter road trips in the USA \u2014 Nevada \u2192 Utah \u2192 Arizona (13 stops)",
   "creator": "@_wanderedsouls",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -2709,6 +2844,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "1000% YES! \u2014 Havasu Falls, the best experience of my life",
   "creator": "@justine_le_flahec",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/arizona/havasu-falls-mooney-falls-and-beaver-falls",
   "also": []
  },
  {
@@ -2726,6 +2862,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Kayenta Falls \u2014 A Vertical Flash Flood",
   "creator": "@mikeyloveridge",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/utah/hellhole-trail",
   "also": []
  },
  {
@@ -2743,6 +2880,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Highway 128 \u2014 the Colorado River drive",
   "creator": "@n8.sauer",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -2760,6 +2898,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Day 3 of Arizona \u2014 Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
   "creator": "@laurenbcardona",
   "rank": 4,
+  "at": "",
   "also": []
  },
  {
@@ -2777,6 +2916,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
   "creator": "@giselle.on.trails",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/utah/sand-caves--2",
   "also": []
  },
  {
@@ -2794,6 +2934,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
   "creator": "@giselle.on.trails",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/utah/kanarra-falls",
   "also": []
  },
  {
@@ -2811,6 +2952,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
   "creator": "@adventurefamilyvlog",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -2828,6 +2970,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
   "creator": "@adventurefamilyvlog",
   "rank": 9,
+  "at": "",
   "also": []
  },
  {
@@ -2845,6 +2988,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of the BEST winter road trips in the USA \u2014 Nevada \u2192 Utah \u2192 Arizona (13 stops)",
   "creator": "@_wanderedsouls",
   "rank": 11,
+  "at": "",
   "also": []
  },
  {
@@ -2862,6 +3006,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
   "creator": "@adventurefamilyvlog",
   "rank": 7,
+  "at": "",
   "also": []
  },
  {
@@ -2879,6 +3024,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Day 3 of Arizona \u2014 Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
   "creator": "@laurenbcardona",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -2896,6 +3042,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of the BEST winter road trips in the USA \u2014 Nevada \u2192 Utah \u2192 Arizona (13 stops)",
   "creator": "@_wanderedsouls",
   "rank": 12,
+  "at": "",
   "also": []
  },
  {
@@ -2913,6 +3060,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "9 Places in Utah That Look Unreal \u2014 None in a National Park",
   "creator": "@adventurefamilyvlog",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -2930,6 +3078,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
   "creator": "@giselle.on.trails",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -2947,6 +3096,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunset \u2014 Red Rock Canyon",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -2964,6 +3114,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Hikes That Blew My Mind",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/colorado/chasm-lake",
   "also": []
  },
  {
@@ -2981,6 +3132,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking \u2014 Gem Lake Trail",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/colorado/gem-lake-trail",
   "also": []
  },
  {
@@ -2998,6 +3150,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Hiking",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
@@ -3030,6 +3183,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking \u2014 Lake Haiyaha Trail",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/colorado/lake-haiyaha",
   "also": []
  },
  {
@@ -3047,6 +3201,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Otherworldly National Park Hikes",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/arizona/wasson-peak-saguaro-national-park",
   "also": []
  },
  {
@@ -3064,6 +3219,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of the BEST winter road trips in the USA \u2014 Nevada \u2192 Utah \u2192 Arizona (13 stops)",
   "creator": "@_wanderedsouls",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3081,6 +3237,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "One of the BEST winter road trips in the USA \u2014 Nevada \u2192 Utah \u2192 Arizona (13 stops)",
   "creator": "@_wanderedsouls",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3098,6 +3255,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
   "creator": "@giselle.on.trails",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/utah/toquerville-falls",
   "also": []
  },
  {
@@ -3115,6 +3273,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Scenic landscapes \u2014 Valley of Fire State Park",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DexzsRogiV7/",
@@ -3140,6 +3299,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Day 3 of Arizona \u2014 Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend",
   "creator": "@laurenbcardona",
   "rank": 3,
+  "at": "",
   "also": []
  },
  {
@@ -3157,6 +3317,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "When Zion is too packed \u2014 5 spots about an hour away (Kanab area)",
   "creator": "@giselle.on.trails",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/utah/water-canyon-amp-squirrel-creek-loop",
   "also": []
  },
  {
@@ -3174,6 +3335,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking \u2014 Angels Landing",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/utah/angels-landing-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeRqnZahkTx/",
@@ -3199,6 +3361,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Hikes",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/utah/the-subway-trail",
   "also": []
  },
  {
@@ -3216,6 +3379,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Hikes That Tested My Limit",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/utah/zion-narrows-trail-to-imlay-temple-and-big-spring",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeRqnZahkTx/",
@@ -3241,6 +3405,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdMWajZA_cn/",
@@ -3287,6 +3452,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 10 National Parks",
   "creator": "@amorywild",
   "rank": 7,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/p/DfK2OLUiTVM/",
@@ -3319,6 +3485,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Scenic viewpoint \u2014 Zion Canyon",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DGIocRzuRcL/",
@@ -3344,6 +3511,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "We might regret telling everyone about this place \u2014 Black Canyon of the Gunnison",
   "creator": "@jaleneandseth",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -3361,6 +3529,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Steal my 9-day South Dakota & North Dakota road trip itinerary",
   "creator": "@funsizewanderer",
   "rank": 3,
+  "at": "",
   "also": []
  },
  {
@@ -3378,6 +3547,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking \u2014 Avalanche Lake",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/montana/avalanche-lake--6",
   "also": []
  },
  {
@@ -3395,6 +3565,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Hiking",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdkljjUh48e/",
@@ -3427,6 +3598,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking / Summit view \u2014 Mt Henry Trail",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/montana/glacier-national-park-east-side",
   "also": []
  },
  {
@@ -3444,6 +3616,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "The Sperry Chalet hike \u2014 Glacier National Park",
   "creator": "@renata.at.world",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/montana/sperry-chalet-trail",
   "also": []
  },
  {
@@ -3461,6 +3634,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Hikes That Tested My Limit",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/montana/stanton-mountain",
   "also": []
  },
  {
@@ -3478,6 +3652,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Going-to-the-Sun Road, Glacier National Park",
   "creator": "@joycequeviaja",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -3495,6 +3670,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Unique National Park Waterfalls",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/montana/grinnell-lake-trail",
   "also": []
  },
  {
@@ -3512,6 +3688,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Waterfalls That Blew My Mind",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/montana/st-mary-and-virginia-falls-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Dd951SeBW1m/",
@@ -3537,6 +3714,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Views That Blew My Mind",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -3554,6 +3732,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Waterfalls That Blew My Mind",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/wyoming/hidden-falls-trail--2",
   "also": []
  },
  {
@@ -3571,6 +3750,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Wildlife Viewing",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
@@ -3603,6 +3783,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)",
   "creator": "@adventurefamilyvlog",
   "rank": 9,
+  "at": "",
   "also": []
  },
  {
@@ -3620,6 +3801,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Ice Lake Basin Trail \u2014 Silverton, Colorado",
   "creator": "@calvin_on_the_internet",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/colorado/ice-lake-basin-trail",
   "also": []
  },
  {
@@ -3637,6 +3819,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Manitou Incline hike \u2014 'Hold on I forgot something'",
   "creator": "@josephferrucci",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/colorado/the-manitou-incline",
   "also": []
  },
  {
@@ -3654,6 +3837,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Mesa Verde \u2014 cliff dwellings, Cliff Palace & Balcony House",
   "creator": "@throughourlinds",
   "rank": 3,
+  "at": "",
   "also": []
  },
  {
@@ -3671,6 +3855,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Mesa Verde \u2014 cliff dwellings, Cliff Palace & Balcony House",
   "creator": "@throughourlinds",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -3688,6 +3873,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Mesa Verde \u2014 cliff dwellings, Cliff Palace & Balcony House",
   "creator": "@throughourlinds",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -3705,6 +3891,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Million Dollar Highway (US-550) \u2014 Ouray to Silverton, CO",
   "creator": "@americantravelarchives",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -3722,6 +3909,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3739,6 +3927,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3756,6 +3945,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3773,6 +3963,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3790,6 +3981,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/wyoming/bunsen-peak",
   "also": []
  },
  {
@@ -3807,6 +3999,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3824,6 +4017,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3841,6 +4035,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3858,6 +4053,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3875,6 +4071,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3892,6 +4089,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3909,6 +4107,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3926,6 +4125,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Viewpoints",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -3943,6 +4143,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/wyoming/fairy-falls--4",
   "also": []
  },
  {
@@ -3960,6 +4161,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -3977,6 +4179,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/wyoming/gibbon-falls",
   "also": []
  },
  {
@@ -3994,6 +4197,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Waterfalls",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/wyoming/brink-of-the-lower-falls",
   "also": []
  },
  {
@@ -4011,6 +4215,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/wyoming/upper-and-lower-undine-falls",
   "also": []
  },
  {
@@ -4028,6 +4233,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4045,6 +4251,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Everything We Did in Yellowstone \u2014 6-Day Trip Recap",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4062,6 +4269,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Wildlife Viewing",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeLVPl3tfKu/",
@@ -4108,6 +4316,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Unique National Park Waterfalls",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/colorado/zapata-falls-trail",
   "also": []
  },
  {
@@ -4125,6 +4334,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Scenic Drives in California",
   "creator": "@asyatravels",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4142,6 +4352,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Guess the National Park game \u2014 Santa Cruz Island",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4159,6 +4370,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Island National Parks",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdgyUvPBO7P/",
@@ -4184,6 +4396,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Views That Blew My Mind",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "",
   "also": []
  },
  {
@@ -4201,6 +4414,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Parks for Deafening Silence (solitude)",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeiJu-bBcEn/",
@@ -4247,6 +4461,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DGTJvkRpKri/",
@@ -4272,6 +4487,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunset \u2014 Artist's Palette",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4289,6 +4505,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Viewpoints",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DGDosKGJBg0/",
@@ -4314,6 +4531,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Desert scenery \u2014 Gower Gulch",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4331,6 +4549,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Scenic Drives in California",
   "creator": "@asyatravels",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4348,6 +4567,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Seven Teacups \u2014 granite pools above the Kern River",
   "creator": "@asyatravels",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/california/seven-tea-cups-7tc-vis-dry-creek-meadow",
   "also": []
  },
  {
@@ -4365,6 +4585,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Scenic Drives in California",
   "creator": "@asyatravels",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4382,6 +4603,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Sunrises That Blew My Mind",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -4399,6 +4621,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Winter National Parks",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/p/DfK2OLUiTVM/",
@@ -4424,6 +4647,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Guess the National Park game \u2014 Ella Falls",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4441,6 +4665,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Scenic Drives in California",
   "creator": "@asyatravels",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4458,6 +4683,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Guess the National Park game \u2014 Manzanita Lake",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4475,6 +4701,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hawk Hill \u2014 a 'Stairway to Heaven' viewpoint over the Golden Gate",
   "creator": "@anjali_wandersoul",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4492,6 +4719,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunrise \u2014 Monterey Bay",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4509,6 +4737,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Scenic Drives in California",
   "creator": "@asyatravels",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4526,6 +4755,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Trail hike \u2014 High Peaks Trail",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/california/high-peaks-trail",
   "also": []
  },
  {
@@ -4543,6 +4773,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 Most Underrated National Parks",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdytARbBESa/",
@@ -4568,6 +4799,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Local hike \u2014 Pinole",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4585,6 +4817,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Beach scenery \u2014 Gold Bluffs Beach",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4602,6 +4835,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Unique National Park Hikes",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/california/fern-canyon-loop-trail",
   "also": []
  },
  {
@@ -4619,6 +4853,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Wildlife \u2014 Redwood National Park",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4636,6 +4871,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Coastal scenery \u2014 Shark Fin Cove",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DGHXVDmt9HW/",
@@ -4661,6 +4897,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Unique National Park Hikes",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/california/trail-of-the-sequoias-via-congress-trail",
   "also": []
  },
  {
@@ -4678,6 +4915,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 14,
+  "at": "",
   "also": []
  },
  {
@@ -4695,6 +4933,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Views That Blew My Mind",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeO6QgjJIfW/",
@@ -4720,6 +4959,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Waterfalls That Blew My Mind",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "https://www.alltrails.com/trail/us/california/tokopah-falls",
   "also": []
  },
  {
@@ -4737,6 +4977,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Hikes",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/california/eagle-peak--6",
   "also": []
  },
  {
@@ -4754,6 +4995,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Hiking \u2014 Four Mile Trail to Glacier Point",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/california/four-mile-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DGYHDN0u_jZ/",
@@ -4786,6 +5028,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Hiking",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
@@ -4818,6 +5061,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunrise viewpoint \u2014 Valley View",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4835,6 +5079,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sunset \u2014 Big Oak Flat Road",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4852,6 +5097,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Viewpoint \u2014 Tunnel View",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -4869,6 +5115,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall \u2014 Vernal Falls",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/california/vernal-falls",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DF-mfuoJF8y/",
@@ -4894,6 +5141,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Waterfalls",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/us/california/wapama-falls-trail",
   "also": []
  },
  {
@@ -4911,6 +5159,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall / Viewpoint \u2014 Yosemite Falls",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/california/upper-yosemite-falls-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
@@ -4943,6 +5192,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Snow Lake \u2014 the 'how is this real?' lake an hour from Seattle",
   "creator": "@the.trekking.mama",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/washington/snow-lake-trail",
   "also": []
  },
  {
@@ -4960,6 +5210,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Alvord Desert \u2014 a 3:24 AM starlapse on the playa",
   "creator": "@jessonthewildway",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -4977,6 +5228,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Cape Flattery, Washington State",
   "creator": "@griffins.onthego",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DfF6uHDSyVj/",
@@ -4988,7 +5240,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "4 \u00b7 Myrtle Falls",
+  "n": "4 \u00b7 Cape Kiwanda",
+  "r": "pacific-northwest",
+  "rlabel": "U.S. Territories",
+  "loc": "Pacific City, Oregon",
+  "site": "Cape Kiwanda State Natural Area",
+  "lat": 45.2168,
+  "lng": -123.98027,
+  "q": "Cape+Kiwanda+Pacific+City+Oregon",
+  "best": "Hike \u00b7 Sand dune climb, tide pools and coastal views",
+  "rec": "Climb the 240-foot sand dune for the payoff view over sandstone cliffs, tide pools and sandy beaches, with Pacific City's own Haystack Rock offshore. There's also an easier 1-mile walk along the beach to the rocks of the cape.",
+  "reel": "https://www.instagram.com/reel/Dbuat08NaQH/",
+  "reel_title": "Cape Kiwanda \u2014 12/10 view on the Oregon Coast",
+  "creator": "@lauren_see",
+  "rank": null,
+  "at": "https://www.alltrails.com/trail/us/oregon/cape-kiwanda-state-natural-area",
+  "also": []
+ },
+ {
+  "n": "5 \u00b7 Myrtle Falls",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Mount Rainier National Park, Washington",
@@ -5002,6 +5272,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Easy National Park Hikes",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Dd4GTzPBDJR/",
@@ -5013,7 +5284,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "5 \u00b7 Snow Lake",
+  "n": "6 \u00b7 Snow Lake",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Mount Rainier National Park, Washington",
@@ -5027,10 +5298,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Alpine lake hike \u2014 Snow Lake",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/washington/bench-and-snow-lakes-trail",
   "also": []
  },
  {
-  "n": "6 \u00b7 Mount Rainier National Park",
+  "n": "7 \u00b7 Mount Rainier National Park",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Ashford, Washington",
@@ -5044,6 +5316,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 11,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeZvgf4Mc2A/",
@@ -5062,7 +5335,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "7 \u00b7 Comet Falls",
+  "n": "8 \u00b7 Comet Falls",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Mount Rainier National Park, Washington",
@@ -5076,6 +5349,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Waterfall \u2014 Comet Falls",
   "creator": "@amorywild",
   "rank": null,
+  "at": "https://www.alltrails.com/trail/us/washington/comet-falls-via-van-trump-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdEPGaTtAk0/",
@@ -5087,7 +5361,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "8 \u00b7 Mount Si",
+  "n": "9 \u00b7 Mount Si",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "North Bend, Washington",
@@ -5101,10 +5375,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Mount Si \u2014 Washington's most popular hike",
   "creator": "@outdoorsapp",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/washington/mount-si-trail",
   "also": []
  },
  {
-  "n": "9 \u00b7 North Cascades National Park",
+  "n": "10 \u00b7 North Cascades National Park",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Marblemount, Washington",
@@ -5118,6 +5393,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Parks for Hiking",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/Ddyq3UhtEkw/",
@@ -5143,7 +5419,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "10 \u00b7 Sourdough Mountain",
+  "n": "11 \u00b7 Sourdough Mountain",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Newhalem, Washington",
@@ -5157,6 +5433,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Hikes That Tested My Limit",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/washington/sourdough-mountain-lookout--2",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DerSq5htCWS/",
@@ -5175,7 +5452,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "11 \u00b7 Trappers Peak",
+  "n": "12 \u00b7 Trappers Peak",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Marblemount, Washington",
@@ -5189,10 +5466,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Trappers Peak \u2014 360\u00b0 views of the North Cascades",
   "creator": "@gwynandami",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/washington/trappers-peak--2",
   "also": []
  },
  {
-  "n": "12 \u00b7 Diablo Lake Overlook",
+  "n": "13 \u00b7 Diablo Lake Overlook",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "North Cascades National Park, Washington",
@@ -5206,10 +5484,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Viewpoints",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
-  "n": "13 \u00b7 Klahhane Ridge",
+  "n": "14 \u00b7 Klahhane Ridge",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Port Angeles, Washington",
@@ -5223,10 +5502,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Hikes That Blew My Mind",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/washington/klahhane-ridge-via-switchback-trail--2",
   "also": []
  },
  {
-  "n": "14 \u00b7 Mount Storm King",
+  "n": "15 \u00b7 Mount Storm King",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Olympic National Park, Washington",
@@ -5240,10 +5520,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Adrenaline Hikes",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/washington/mount-storm-king",
   "also": []
  },
  {
-  "n": "15 \u00b7 Olympic National Park",
+  "n": "16 \u00b7 Olympic National Park",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Port Angeles, Washington",
@@ -5257,6 +5538,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Scenic viewpoint \u2014 Olympic National Park",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
@@ -5268,7 +5550,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "16 \u00b7 Tree of Life (Kalaloch Beach)",
+  "n": "17 \u00b7 Tree of Life (Kalaloch Beach)",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Kalaloch, Washington",
@@ -5282,10 +5564,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Tree of Life \u2014 Kalaloch Beach, Olympic National Park",
   "creator": "@bigbatbilly",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
-  "n": "17 \u00b7 Sol Duc Falls",
+  "n": "18 \u00b7 Sol Duc Falls",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Sol Duc, Washington",
@@ -5299,10 +5582,11 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Waterfalls That Blew My Mind",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "https://www.alltrails.com/trail/us/washington/sol-duc-falls-nature-trail",
   "also": []
  },
  {
-  "n": "18 \u00b7 Colchuck Lake",
+  "n": "19 \u00b7 Colchuck Lake",
   "r": "pacific-northwest",
   "rlabel": "U.S. Territories",
   "loc": "Leavenworth, Washington",
@@ -5316,6 +5600,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Most beautiful lake in the USA? \u2014 Colchuck Lake",
   "creator": "@thisworldofadventure",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/washington/colchuck-lake-via-stuart-lake-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DZfljAtvNtN/",
@@ -5341,6 +5626,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 17,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeBFTPBNlFg/",
@@ -5373,6 +5659,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Parks for Deafening Silence (solitude)",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeJr8XZO90W/",
@@ -5405,6 +5692,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Wildlife \u2014 Glacier Bay National Park and Preserve",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeUvOD2hM8q/",
@@ -5444,6 +5732,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Unique National Park Waterfalls",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "https://www.alltrails.com/trail/us/alaska/brooks-lodge-brooks-river-bridge-riffles-platform-and-brooks-falls",
   "also": []
  },
  {
@@ -5461,6 +5750,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Bucket List National Parks",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeUvOD2hM8q/",
@@ -5535,6 +5825,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My 5 Favorite Experiences in Alaska",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "",
   "also": []
  },
  {
@@ -5552,6 +5843,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Park Hikes That Blew My Mind",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -5569,6 +5861,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Easy National Park Hikes",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -5586,6 +5879,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 12,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeBI8EqNcDs/",
@@ -5632,6 +5926,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 National Park Waterfalls",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": []
  },
  {
@@ -5649,6 +5944,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Top 5 Unique National Park Waterfalls",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": []
  },
  {
@@ -5666,6 +5962,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "5 National Parks for Deafening Silence (solitude)",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeJr8XZO90W/",
@@ -5698,6 +5995,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Bucket List National Parks",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeJr8XZO90W/",
@@ -5737,6 +6035,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Awe-Inspiring National Park Hikes",
   "creator": "@amorywild",
   "rank": 2,
+  "at": "https://www.alltrails.com/trail/us/alaska/root-glacier-trail",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DepK7AbMgFF/",
@@ -5769,6 +6068,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
   "creator": "@amorywild",
   "rank": 13,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeBFTPBNlFg/",
@@ -5794,6 +6094,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Bucket List National Parks",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/De_9Sf3BDFB/",
@@ -5833,6 +6134,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Awe-Inspiring National Park Hikes",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/hawaii/maui/halemauu-haleakala-overlook-trail",
   "also": []
  },
  {
@@ -5850,6 +6152,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Bucket List National Parks",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeJr8XZO90W/",
@@ -5882,6 +6185,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Otherworldly National Park Hikes",
   "creator": "@amorywild",
   "rank": 4,
+  "at": "https://www.alltrails.com/trail/hawaii/hawaii/kilauea-iki-trail-and-crater-rim-trail",
   "also": []
  },
  {
@@ -5899,6 +6203,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "Sea arch \u2014 Holei Arch",
   "creator": "@amorywild",
   "rank": null,
+  "at": "",
   "also": []
  },
  {
@@ -5916,6 +6221,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Bucket List National Parks",
   "creator": "@amorywild",
   "rank": 3,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DeJr8XZO90W/",
@@ -5955,6 +6261,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Awe-Inspiring National Park Hikes",
   "creator": "@amorywild",
   "rank": 5,
+  "at": "https://www.alltrails.com/trail/american-samoa/tutuila/mount-alava-trail",
   "also": []
  },
  {
@@ -5972,6 +6279,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "reel_title": "My Top 5 Winter National Parks",
   "creator": "@amorywild",
   "rank": 1,
+  "at": "",
   "also": [
    {
     "reel": "https://www.instagram.com/reel/DenDeSLBwwP/",
@@ -5991,6 +6299,6 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
  }
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
-var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a><br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 37<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 46<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 16<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 68<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 42<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 40<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 18<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 15<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a>'+(s.at?'<br>🥾 <a href="'+s.at+'" target="_blank" rel="noopener">AllTrails trail page</a>':"")+'<br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 37<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 46<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 16<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 68<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 42<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 40<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 19<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 15<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>
