@@ -8971,6 +8971,28 @@
    "source_rank": null,
    "source_reel_theme": "Midwest scenic drives",
    "additional_sources": []
+  },
+  {
+   "id": "quarry-exhibit-hall-ut",
+   "name": "Quarry Exhibit Hall",
+   "site": "Dinosaur National Monument",
+   "city": "Jensen",
+   "state": "Utah",
+   "state_code": "UT",
+   "country": "United States",
+   "region": "Mountain West",
+   "region_id": "mountain-west",
+   "lat": 40.44055,
+   "lng": -109.30125,
+   "google_maps_query": "Quarry+Exhibit+Hall+Dinosaur+National+Monument",
+   "best_for": "Fossils · A building built around a wall of dinosaur bones",
+   "recommendation": "About 30 minutes east of Vernal, a shuttle takes you to the Quarry Exhibit Hall — a building constructed around the sloped rock face where a 'log jam' of dinosaur bones was found in 1909. Hundreds of thousands of bones were excavated for museums around the world, but the rest were left in place, so you can see — and touch — real fossils where they were buried. You can shuttle back or hike back down for more fossils in the rock formations. The monument spans Utah and Colorado; the quarry is on the Utah side, and the creators wished they'd had time for more trails and a Green River float.",
+   "source_reel": "https://www.instagram.com/reel/DdglrAsBsTg/",
+   "source_title": "Finding, seeing, touching dinosaur fossils at Dinosaur National Monument",
+   "source_creator": "@the_vg_odyssey",
+   "source_rank": null,
+   "source_reel_theme": "Dinosaur fossils / national monument",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-02",

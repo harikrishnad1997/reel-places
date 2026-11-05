@@ -3799,6 +3799,37 @@
    }
   },
   {
+   "id": "reel:DdglrAsBsTg",
+   "type": "Reel",
+   "properties": {
+    "name": "Finding, seeing, touching dinosaur fossils at Dinosaur National Monument",
+    "url": "https://www.instagram.com/reel/DdglrAsBsTg/",
+    "title": "Finding, seeing, touching dinosaur fossils at Dinosaur National Monument",
+    "creator": "@the_vg_odyssey",
+    "theme": "Dinosaur fossils / national monument",
+    "places_count": 1,
+    "recommendation_summary": "The Quarry Exhibit Hall at Dinosaur National Monument near Jensen, Utah — see and touch dinosaur fossils in the rock wall where Earl Douglass found them in 1909; shuttle up, hike back down.",
+    "posted": "2026-09-20",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:the-vg-odyssey",
+   "type": "Creator",
+   "properties": {
+    "name": "@the_vg_odyssey",
+    "handle": "@the_vg_odyssey",
+    "display_name": "The VG Odyssey"
+   }
+  },
+  {
+   "id": "theme:dinosaur-fossils-national-monument",
+   "type": "Theme",
+   "properties": {
+    "name": "Dinosaur fossils / national monument"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12499,6 +12530,39 @@
    "properties": {
     "name": "Scenic drive · One-lane tunnel carved through granite"
    }
+  },
+  {
+   "id": "place:quarry-exhibit-hall-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Quarry Exhibit Hall",
+    "place_id": "quarry-exhibit-hall-ut",
+    "site": "Dinosaur National Monument",
+    "city": "Jensen",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 40.44055,
+    "lng": -109.30125,
+    "google_maps_query": "Quarry+Exhibit+Hall+Dinosaur+National+Monument",
+    "best_for": "Fossils · A building built around a wall of dinosaur bones",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:dinosaur-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Dinosaur National Monument"
+   }
+  },
+  {
+   "id": "theme:fossils-a-building-built-around-a-wall-of-dinosaur-bones",
+   "type": "Theme",
+   "properties": {
+    "name": "Fossils · A building built around a wall of dinosaur bones"
+   }
   }
  ],
  "edges": [
@@ -14923,6 +14987,18 @@
   {
    "from": "reel:DfW_ZwsAprR",
    "to": "theme:midwest-scenic-drives",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdglrAsBsTg",
+   "to": "creator:the-vg-odyssey",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdglrAsBsTg",
+   "to": "theme:dinosaur-fossils-national-monument",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -28838,6 +28914,37 @@
   {
    "from": "place:needles-eye-tunnel-sd",
    "to": "theme:scenic-drive-one-lane-tunnel-carved-through-granite",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:quarry-exhibit-hall-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:quarry-exhibit-hall-ut",
+   "to": "site:dinosaur-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:quarry-exhibit-hall-ut",
+   "to": "reel:DdglrAsBsTg",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Fossils · A building built around a wall of dinosaur bones",
+    "recommendation": "About 30 minutes east of Vernal, a shuttle takes you to the Quarry Exhibit Hall — a building constructed around the sloped rock face where a 'log jam' of dinosaur bones was found in 1909. Hundreds of thousands of bones were excavated for museums around the world, but the rest were left in place, so you can see — and touch — real fossils where they were buried. You can shuttle back or hike back down for more fossils in the rock formations. The monument spans Utah and Colorado; the quarry is on the Utah side, and the creators wished they'd had time for more trails and a Green River float.",
+    "creator": "@the_vg_odyssey",
+    "reel_title": "Finding, seeing, touching dinosaur fossils at Dinosaur National Monument",
+    "reel_theme": "Dinosaur fossils / national monument"
+   }
+  },
+  {
+   "from": "place:quarry-exhibit-hall-ut",
+   "to": "theme:fossils-a-building-built-around-a-wall-of-dinosaur-bones",
    "type": "BEST_FOR",
    "properties": {}
   }
