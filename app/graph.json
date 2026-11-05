@@ -3905,6 +3905,30 @@
    }
   },
   {
+   "id": "reel:DcrlGvTzOIc",
+   "type": "Reel",
+   "properties": {
+    "name": "The highest point east of the Mississippi",
+    "url": "https://www.instagram.com/reel/DcrlGvTzOIc/",
+    "title": "The highest point east of the Mississippi",
+    "creator": "@travelguidesasheville",
+    "theme": "North Carolina / Blue Ridge bucket list",
+    "places_count": 1,
+    "recommendation_summary": "Mount Mitchell State Park, NC — at 6,684 ft the highest peak east of the Mississippi, with sweeping Blue Ridge views; a must-add for an Asheville + Blue Ridge trip.",
+    "posted": "2026-08-30",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:travelguidesasheville",
+   "type": "Creator",
+   "properties": {
+    "name": "@travelguidesasheville",
+    "handle": "@travelguidesasheville",
+    "display_name": "Travel Guides Asheville | North Carolina"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12772,6 +12796,48 @@
    "properties": {
     "name": "Spring · Self-propelled raft over turquoise water"
    }
+  },
+  {
+   "id": "place:mount-mitchell-nc",
+   "type": "Place",
+   "properties": {
+    "name": "Mount Mitchell",
+    "place_id": "mount-mitchell-nc",
+    "site": "Mount Mitchell State Park",
+    "city": "Burnsville",
+    "state": "North Carolina",
+    "state_code": "NC",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.76496,
+    "lng": -82.26512,
+    "google_maps_query": "Mount+Mitchell+State+Park+NC",
+    "best_for": "Summit · Highest peak in the eastern US (6,684 ft)",
+    "note": "Pin is the summit (Nominatim peak point)."
+   }
+  },
+  {
+   "id": "state:united-states-nc",
+   "type": "State",
+   "properties": {
+    "name": "North Carolina",
+    "state_code": "NC",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:mount-mitchell-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Mount Mitchell State Park"
+   }
+  },
+  {
+   "id": "theme:summit-highest-peak-in-the-eastern-us-6-684-ft",
+   "type": "Theme",
+   "properties": {
+    "name": "Summit · Highest peak in the eastern US (6,684 ft)"
+   }
   }
  ],
  "edges": [
@@ -15244,6 +15310,18 @@
   {
    "from": "reel:DcmIo5lJNCT",
    "to": "theme:midwest-hidden-gems",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcrlGvTzOIc",
+   "to": "creator:travelguidesasheville",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcrlGvTzOIc",
+   "to": "theme:bucket-list",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -29326,6 +29404,49 @@
   {
    "from": "place:kitch-iti-kipi-mi",
    "to": "theme:spring-self-propelled-raft-over-turquoise-water",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-mitchell-nc",
+   "to": "state:united-states-nc",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-nc",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-nc",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-mitchell-nc",
+   "to": "site:mount-mitchell-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-mitchell-nc",
+   "to": "reel:DcrlGvTzOIc",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Summit · Highest peak in the eastern US (6,684 ft)",
+    "recommendation": "At 6,684 feet, Mount Mitchell is the highest peak in the eastern United States — the highest point east of the Mississippi. The reel puts it on the North Carolina bucket list for the sweeping Blue Ridge Mountain views that make the drive up (off the Blue Ridge Parkway, near Asheville) worth it.",
+    "creator": "@travelguidesasheville",
+    "reel_title": "The highest point east of the Mississippi",
+    "reel_theme": "North Carolina / Blue Ridge bucket list"
+   }
+  },
+  {
+   "from": "place:mount-mitchell-nc",
+   "to": "theme:summit-highest-peak-in-the-eastern-us-6-684-ft",
    "type": "BEST_FOR",
    "properties": {}
   }
