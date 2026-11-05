@@ -3568,6 +3568,30 @@
    }
   },
   {
+   "id": "reel:De7CHmAMQoz",
+   "type": "Reel",
+   "properties": {
+    "name": "7 hikes that will ruin every other hike for you",
+    "url": "https://www.instagram.com/reel/De7CHmAMQoz/",
+    "title": "7 hikes that will ruin every other hike for you",
+    "creator": "@discover_california_",
+    "theme": "California hikes countdown",
+    "places_count": 11,
+    "recommendation_summary": "Discover California's countdown of 7 California hikes: #7 Point Lobos, #6 Armstrong Redwoods, #5 Mossbrae Falls, #4 'literally anything in Big Sur' (McWay Falls, Pfeiffer Beach, Ewoldsen Trail, Partington Cove), #3 Grizzly Creek Redwoods, #2 Karl Knapp Trail, #1 Black Sands Beach at Shelter Cove. The caption lists the seven in the reverse order of the on-screen countdown; the ranks recorded here follow the video.",
+    "posted": "2026-10-25",
+    "added": "2026-11-04"
+   }
+  },
+  {
+   "id": "creator:discover-california",
+   "type": "Creator",
+   "properties": {
+    "name": "@discover_california_",
+    "handle": "@discover_california_",
+    "display_name": "Discover California | Nature & Travel"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10938,6 +10962,13 @@
    }
   },
   {
+   "id": "theme:4-literally-anything-in-big-sur",
+   "type": "Theme",
+   "properties": {
+    "name": "#4 — 'Literally anything in Big Sur'"
+   }
+  },
+  {
    "id": "place:seven-teacups-ca",
    "type": "Place",
    "properties": {
@@ -11307,6 +11338,252 @@
    "type": "Theme",
    "properties": {
     "name": "State park · Loyalsock Creek gorge park"
+   }
+  },
+  {
+   "id": "place:point-lobos-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Point Lobos",
+    "place_id": "point-lobos-ca",
+    "site": "Point Lobos State Natural Reserve",
+    "city": "Carmel-by-the-Sea",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.51473,
+    "lng": -121.94279,
+    "google_maps_query": "Point+Lobos+State+Natural+Reserve+CA",
+    "best_for": "Hike · Turquoise coves, sea lions and coastal trails",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:point-lobos-state-natural-reserve",
+   "type": "Site",
+   "properties": {
+    "name": "Point Lobos State Natural Reserve"
+   }
+  },
+  {
+   "id": "place:armstrong-redwoods-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Armstrong Redwoods",
+    "place_id": "armstrong-redwoods-ca",
+    "site": "Armstrong Redwoods State Natural Reserve",
+    "city": "Guerneville",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 38.53995,
+    "lng": -123.00881,
+    "google_maps_query": "Armstrong+Redwoods+State+Natural+Reserve+CA",
+    "best_for": "Hike · Easy old-growth redwood trails",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:armstrong-redwoods-state-natural-reserve",
+   "type": "Site",
+   "properties": {
+    "name": "Armstrong Redwoods State Natural Reserve"
+   }
+  },
+  {
+   "id": "place:mossbrae-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Mossbrae Falls",
+    "place_id": "mossbrae-falls-ca",
+    "site": "Mossbrae Falls",
+    "city": "Dunsmuir",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 41.24197,
+    "lng": -122.26639,
+    "google_maps_query": "Mossbrae+Falls+Dunsmuir+CA",
+    "best_for": "Waterfall · Springs pouring from a moss-covered cliff",
+    "note": "Access warning from the reel itself: reaching the falls requires walking along private, active railroad tracks, so visit only if you understand and accept the risks. AllTrails lists the route as closed / private property."
+   }
+  },
+  {
+   "id": "site:mossbrae-falls",
+   "type": "Site",
+   "properties": {
+    "name": "Mossbrae Falls"
+   }
+  },
+  {
+   "id": "place:mcway-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "McWay Falls",
+    "place_id": "mcway-falls-ca",
+    "site": "Julia Pfeiffer Burns State Park",
+    "city": "Big Sur",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.15782,
+    "lng": -121.6724,
+    "google_maps_query": "McWay+Falls+Big+Sur+CA",
+    "best_for": "Waterfall · 80-foot falls onto a Big Sur beach cove",
+    "note": "AllTrails listed the Overlook Trail as closed in fall 2026 (fire damage); the falls remain viewable from Highway 1 pullouts — check current conditions."
+   }
+  },
+  {
+   "id": "site:julia-pfeiffer-burns-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Julia Pfeiffer Burns State Park"
+   }
+  },
+  {
+   "id": "place:pfeiffer-beach-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Pfeiffer Beach",
+    "place_id": "pfeiffer-beach-ca",
+    "site": "Big Sur",
+    "city": "Big Sur",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.23936,
+    "lng": -121.81761,
+    "google_maps_query": "Pfeiffer+Beach+Big+Sur+CA",
+    "best_for": "Beach · Purple-sand beach and Keyhole Rock",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:beach-purple-sand-beach-and-keyhole-rock",
+   "type": "Theme",
+   "properties": {
+    "name": "Beach · Purple-sand beach and Keyhole Rock"
+   }
+  },
+  {
+   "id": "place:ewoldsen-trail-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Ewoldsen Trail",
+    "place_id": "ewoldsen-trail-ca",
+    "site": "Julia Pfeiffer Burns State Park",
+    "city": "Big Sur",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.16023,
+    "lng": -121.66849,
+    "google_maps_query": "Ewoldsen+Trail+Julia+Pfeiffer+Burns+State+Park+CA",
+    "best_for": "Hike · Redwood canyon loop to coastal ridge views",
+    "note": "Pin is the Ewoldsen Trailhead at the park's main parking area. AllTrails listed the trail as closed in fall 2026 due to fire damage — check current conditions before going."
+   }
+  },
+  {
+   "id": "place:partington-cove-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Partington Cove",
+    "place_id": "partington-cove-ca",
+    "site": "Julia Pfeiffer Burns State Park",
+    "city": "Big Sur",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.17496,
+    "lng": -121.69773,
+    "google_maps_query": "Partington+Cove+Big+Sur+CA",
+    "best_for": "Hike · Short trail through a rock tunnel to a hidden cove",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:grizzly-creek-redwoods-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Grizzly Creek Redwoods",
+    "place_id": "grizzly-creek-redwoods-ca",
+    "site": "Grizzly Creek Redwoods State Park",
+    "city": "Carlotta",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 40.48454,
+    "lng": -123.90601,
+    "google_maps_query": "Grizzly+Creek+Redwoods+State+Park+CA",
+    "best_for": "Hike · Quiet old-growth redwood grove",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:grizzly-creek-redwoods-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Grizzly Creek Redwoods State Park"
+   }
+  },
+  {
+   "id": "place:karl-knapp-trail-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Karl Knapp Trail",
+    "place_id": "karl-knapp-trail-ca",
+    "site": "Prairie Creek Redwoods State Park",
+    "city": "Orick",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 41.37876,
+    "lng": -124.01545,
+    "google_maps_query": "Karl+Knapp+Trail+Prairie+Creek+Redwoods+CA",
+    "best_for": "Hike · Flat redwood loop through ferns and moss",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:prairie-creek-redwoods-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Prairie Creek Redwoods State Park"
+   }
+  },
+  {
+   "id": "place:black-sands-beach-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Black Sands Beach",
+    "place_id": "black-sands-beach-ca",
+    "site": "King Range National Conservation Area (Shelter Cove)",
+    "city": "Shelter Cove",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 40.0547,
+    "lng": -124.07924,
+    "google_maps_query": "Black+Sands+Beach+Shelter+Cove+CA",
+    "best_for": "Beach · Black-sand beach — sunset and whale watching",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:king-range-national-conservation-area-shelter-cove",
+   "type": "Site",
+   "properties": {
+    "name": "King Range National Conservation Area (Shelter Cove)"
    }
   }
  ],
@@ -13618,6 +13895,18 @@
   {
    "from": "reel:DfU-tMFRe-v",
    "to": "theme:pennsylvania-wilds-road-trip",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:De7CHmAMQoz",
+   "to": "creator:discover-california",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:De7CHmAMQoz",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -25793,6 +26082,25 @@
    "properties": {}
   },
   {
+   "from": "place:big-sur-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "#4 — 'Literally anything in Big Sur'",
+    "recommendation": "Ranked #4 in Discover California's '7 hikes that will ruin every other hike for you': 'McWay Falls, Pfeiffer Beach, Ewoldsen Trail, Partington Cove… it's almost impossible to pick a bad hike here.' Plan extra time, because you'll want to stop at every viewpoint.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:big-sur-ca",
+   "to": "theme:4-literally-anything-in-big-sur",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:seven-teacups-ca",
    "to": "state:united-states-california",
    "type": "LOCATED_IN",
@@ -26197,6 +26505,322 @@
   {
    "from": "place:worlds-end-state-park-pa",
    "to": "theme:state-park-loyalsock-creek-gorge-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:point-lobos-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:point-lobos-ca",
+   "to": "site:point-lobos-state-natural-reserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:point-lobos-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Hike · Turquoise coves, sea lions and coastal trails",
+    "recommendation": "One of the most beautiful coastal parks in California — turquoise coves, sea lions, and some of the clearest ocean views you'll find anywhere. The reel warns it has become extremely popular: visit outside peak season and peak days for a more enjoyable experience.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:point-lobos-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:armstrong-redwoods-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:armstrong-redwoods-ca",
+   "to": "site:armstrong-redwoods-state-natural-reserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:armstrong-redwoods-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Hike · Easy old-growth redwood trails",
+    "recommendation": "Walk among towering old-growth redwoods on mostly flat, easy trails — the magic of the redwoods without a strenuous hike.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:armstrong-redwoods-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mossbrae-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mossbrae-falls-ca",
+   "to": "site:mossbrae-falls",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mossbrae-falls-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Waterfall · Springs pouring from a moss-covered cliff",
+    "recommendation": "A breathtaking waterfall whose cascades pour straight out of a moss-covered cliff into the Sacramento River below.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:mossbrae-falls-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mcway-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mcway-falls-ca",
+   "to": "site:julia-pfeiffer-burns-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mcway-falls-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall · 80-foot falls onto a Big Sur beach cove",
+    "recommendation": "One of the four hikes the reel names under its #4 pick, 'literally anything in Big Sur': the 80-foot waterfall that drops onto the sand of McWay Cove, seen from the short Overlook Trail.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:mcway-falls-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:pfeiffer-beach-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:pfeiffer-beach-ca",
+   "to": "site:big-sur",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:pfeiffer-beach-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Beach · Purple-sand beach and Keyhole Rock",
+    "recommendation": "One of the four spots the reel names under its #4 pick, 'literally anything in Big Sur' — the wild beach down Sycamore Canyon Road, famous for its purple-tinged sand and the Keyhole Rock arch.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:pfeiffer-beach-ca",
+   "to": "theme:beach-purple-sand-beach-and-keyhole-rock",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ewoldsen-trail-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ewoldsen-trail-ca",
+   "to": "site:julia-pfeiffer-burns-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ewoldsen-trail-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Redwood canyon loop to coastal ridge views",
+    "recommendation": "One of the four hikes the reel names under its #4 Big Sur pick: the loop up McWay Creek through redwood forest to open coastal ridge views — often called the best day hike in Big Sur.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:ewoldsen-trail-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ewoldsen-trail-ca",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:partington-cove-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:partington-cove-ca",
+   "to": "site:julia-pfeiffer-burns-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:partington-cove-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Short trail through a rock tunnel to a hidden cove",
+    "recommendation": "One of the four spots the reel names under its #4 Big Sur pick: a short, steep trail down through a hand-carved tunnel to a turquoise cove once used to load tanbark onto ships.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:partington-cove-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grizzly-creek-redwoods-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:grizzly-creek-redwoods-ca",
+   "to": "site:grizzly-creek-redwoods-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:grizzly-creek-redwoods-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Hike · Quiet old-growth redwood grove",
+    "recommendation": "One of California's most underrated redwood groves, with peaceful trails and massive ancient trees but without the crowds of the more famous parks. The reel's fun fact: scenes from Star Wars were filmed here.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:grizzly-creek-redwoods-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:karl-knapp-trail-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:karl-knapp-trail-ca",
+   "to": "site:prairie-creek-redwoods-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:karl-knapp-trail-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike · Flat redwood loop through ferns and moss",
+    "recommendation": "The creator's favorite redwood hike of all time: a gorgeous, mostly flat loop (also signed as the Prairie Creek Trail) through a lush redwood forest filled with ferns, moss, and towering trees.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:karl-knapp-trail-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:black-sands-beach-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:black-sands-beach-ca",
+   "to": "site:king-range-national-conservation-area-shelter-cove",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:black-sands-beach-ca",
+   "to": "reel:De7CHmAMQoz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Beach · Black-sand beach — sunset and whale watching",
+    "recommendation": "The reel's #1 pick: a dramatic black sand beach at Shelter Cove on the Lost Coast, surrounded by rugged cliffs and crashing waves. Time your visit for sunset, and if you're lucky you'll spot whales offshore; winter brings the dramatic moody weather shown in the reel.",
+    "creator": "@discover_california_",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "reel_theme": "California hikes countdown"
+   }
+  },
+  {
+   "from": "place:black-sands-beach-ca",
+   "to": "theme:sunset",
    "type": "BEST_FOR",
    "properties": {}
   }

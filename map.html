@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;color:#fff;font-weight:700;font-size:11px;text-align:center;line-height:22px;width:22px;height:22px;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>300 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>310 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
@@ -4490,7 +4490,43 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "1 \u00b7 Big Sur (Highway 1)",
+  "n": "1 \u00b7 Armstrong Redwoods",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Guerneville, California",
+  "site": "Armstrong Redwoods State Natural Reserve",
+  "lat": 38.53995,
+  "lng": -123.00881,
+  "q": "Armstrong+Redwoods+State+Natural+Reserve+CA",
+  "best": "Hike \u00b7 Easy old-growth redwood trails",
+  "rec": "Walk among towering old-growth redwoods on mostly flat, easy trails \u2014 the magic of the redwoods without a strenuous hike.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": 6,
+  "at": "https://www.alltrails.com/trail/us/california/pioneer-nature-trail--3",
+  "also": []
+ },
+ {
+  "n": "2 \u00b7 Pfeiffer Beach",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Big Sur, California",
+  "site": "Big Sur",
+  "lat": 36.23936,
+  "lng": -121.81761,
+  "q": "Pfeiffer+Beach+Big+Sur+CA",
+  "best": "Beach \u00b7 Purple-sand beach and Keyhole Rock",
+  "rec": "One of the four spots the reel names under its #4 pick, 'literally anything in Big Sur' \u2014 the wild beach down Sycamore Canyon Road, famous for its purple-tinged sand and the Keyhole Rock arch.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "3 \u00b7 Big Sur (Highway 1)",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Big Sur, California",
@@ -4505,10 +4541,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@asyatravels",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+    "reel_title": "7 hikes that will ruin every other hike for you",
+    "creator": "@discover_california_",
+    "best": "#4 \u2014 'Literally anything in Big Sur'",
+    "rec": "Ranked #4 in Discover California's '7 hikes that will ruin every other hike for you': 'McWay Falls, Pfeiffer Beach, Ewoldsen Trail, Partington Cove\u2026 it's almost impossible to pick a bad hike here.' Plan extra time, because you'll want to stop at every viewpoint."
+   }
+  ]
  },
  {
-  "n": "2 \u00b7 Santa Cruz Island",
+  "n": "4 \u00b7 Santa Cruz Island",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Santa Cruz Island, California",
@@ -4526,7 +4570,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "3 \u00b7 Channel Islands National Park",
+  "n": "5 \u00b7 Channel Islands National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Santa Rosa Island, California",
@@ -4552,7 +4596,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "4 \u00b7 Potato Harbor",
+  "n": "6 \u00b7 Potato Harbor",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Santa Cruz Island, California",
@@ -4570,7 +4614,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "5 \u00b7 Death Valley National Park",
+  "n": "7 \u00b7 Death Valley National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Furnace Creek, California",
@@ -4617,7 +4661,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "6 \u00b7 Zabriskie Point",
+  "n": "8 \u00b7 Zabriskie Point",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Death Valley, California",
@@ -4643,7 +4687,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "7 \u00b7 Artist's Palette",
+  "n": "9 \u00b7 Artist's Palette",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Death Valley, California",
@@ -4661,7 +4705,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "8 \u00b7 Dante's View",
+  "n": "10 \u00b7 Dante's View",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Death Valley National Park, California",
@@ -4687,7 +4731,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "9 \u00b7 Gower Gulch",
+  "n": "11 \u00b7 Gower Gulch",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Death Valley National Park, California",
@@ -4705,7 +4749,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Highway 395 (Eastern Sierra)",
+  "n": "12 \u00b7 Highway 395 (Eastern Sierra)",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lone Pine, California",
@@ -4723,7 +4767,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Seven Teacups",
+  "n": "13 \u00b7 Seven Teacups",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Kernville, California",
@@ -4741,7 +4785,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Jedediah Smith Redwoods State Park",
+  "n": "14 \u00b7 Grizzly Creek Redwoods",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Carlotta, California",
+  "site": "Grizzly Creek Redwoods State Park",
+  "lat": 40.48454,
+  "lng": -123.90601,
+  "q": "Grizzly+Creek+Redwoods+State+Park+CA",
+  "best": "Hike \u00b7 Quiet old-growth redwood grove",
+  "rec": "One of California's most underrated redwood groves, with peaceful trails and massive ancient trees but without the crowds of the more famous parks. The reel's fun fact: scenes from Star Wars were filmed here.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": 3,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "15 \u00b7 Jedediah Smith Redwoods State Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Crescent City, California",
@@ -4759,7 +4821,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "13 \u00b7 Inspiration Peak (Inspiration Point)",
+  "n": "16 \u00b7 Inspiration Peak (Inspiration Point)",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -4777,7 +4839,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Joshua Tree National Park",
+  "n": "17 \u00b7 Joshua Tree National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -4803,7 +4865,79 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "15 \u00b7 Ella Falls",
+  "n": "18 \u00b7 Ewoldsen Trail",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Big Sur, California",
+  "site": "Julia Pfeiffer Burns State Park",
+  "lat": 36.16023,
+  "lng": -121.66849,
+  "q": "Ewoldsen+Trail+Julia+Pfeiffer+Burns+State+Park+CA",
+  "best": "Hike \u00b7 Redwood canyon loop to coastal ridge views",
+  "rec": "One of the four hikes the reel names under its #4 Big Sur pick: the loop up McWay Creek through redwood forest to open coastal ridge views \u2014 often called the best day hike in Big Sur.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": null,
+  "at": "https://www.alltrails.com/trail/us/california/ewoldsen-trail",
+  "also": []
+ },
+ {
+  "n": "19 \u00b7 Partington Cove",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Big Sur, California",
+  "site": "Julia Pfeiffer Burns State Park",
+  "lat": 36.17496,
+  "lng": -121.69773,
+  "q": "Partington+Cove+Big+Sur+CA",
+  "best": "Hike \u00b7 Short trail through a rock tunnel to a hidden cove",
+  "rec": "One of the four spots the reel names under its #4 Big Sur pick: a short, steep trail down through a hand-carved tunnel to a turquoise cove once used to load tanbark onto ships.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": null,
+  "at": "https://www.alltrails.com/trail/us/california/partington-cove-trail",
+  "also": []
+ },
+ {
+  "n": "20 \u00b7 McWay Falls",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Big Sur, California",
+  "site": "Julia Pfeiffer Burns State Park",
+  "lat": 36.15782,
+  "lng": -121.6724,
+  "q": "McWay+Falls+Big+Sur+CA",
+  "best": "Waterfall \u00b7 80-foot falls onto a Big Sur beach cove",
+  "rec": "One of the four hikes the reel names under its #4 pick, 'literally anything in Big Sur': the 80-foot waterfall that drops onto the sand of McWay Cove, seen from the short Overlook Trail.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": null,
+  "at": "https://www.alltrails.com/trail/us/california/overlook-trail-to-mcway-falls-and-saddle-rock",
+  "also": []
+ },
+ {
+  "n": "21 \u00b7 Black Sands Beach",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Shelter Cove, California",
+  "site": "King Range National Conservation Area (Shelter Cove)",
+  "lat": 40.0547,
+  "lng": -124.07924,
+  "q": "Black+Sands+Beach+Shelter+Cove+CA",
+  "best": "Beach \u00b7 Black-sand beach \u2014 sunset and whale watching",
+  "rec": "The reel's #1 pick: a dramatic black sand beach at Shelter Cove on the Lost Coast, surrounded by rugged cliffs and crashing waves. Time your visit for sunset, and if you're lucky you'll spot whales offshore; winter brings the dramatic moody weather shown in the reel.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": 1,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "22 \u00b7 Ella Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Grant Grove, California",
@@ -4821,7 +4955,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "16 \u00b7 Kings Canyon Scenic Byway",
+  "n": "23 \u00b7 Kings Canyon Scenic Byway",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Grant Grove, California",
@@ -4839,7 +4973,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Manzanita Lake",
+  "n": "24 \u00b7 Manzanita Lake",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Manzanita Lake, California",
@@ -4857,7 +4991,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Hawk Hill",
+  "n": "25 \u00b7 Hawk Hill",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Sausalito, California",
@@ -4875,7 +5009,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Monterey Bay",
+  "n": "26 \u00b7 Monterey Bay",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Monterey, California",
@@ -4893,7 +5027,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "20 \u00b7 17-Mile Drive",
+  "n": "27 \u00b7 Mossbrae Falls",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Dunsmuir, California",
+  "site": "Mossbrae Falls",
+  "lat": 41.24197,
+  "lng": -122.26639,
+  "q": "Mossbrae+Falls+Dunsmuir+CA",
+  "best": "Waterfall \u00b7 Springs pouring from a moss-covered cliff",
+  "rec": "A breathtaking waterfall whose cascades pour straight out of a moss-covered cliff into the Sacramento River below.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": 5,
+  "at": "https://www.alltrails.com/trail/us/california/mossbrae-falls",
+  "also": []
+ },
+ {
+  "n": "28 \u00b7 17-Mile Drive",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pebble Beach, California",
@@ -4911,7 +5063,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 High Peaks Trail",
+  "n": "29 \u00b7 High Peaks Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pinnacles National Park, California",
@@ -4929,7 +5081,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 Pinnacles National Park",
+  "n": "30 \u00b7 Pinnacles National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Paicines, California",
@@ -4955,7 +5107,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "23 \u00b7 Pinole",
+  "n": "31 \u00b7 Pinole",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pinole, California",
@@ -4973,7 +5125,43 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Gold Bluffs Beach",
+  "n": "32 \u00b7 Point Lobos",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Carmel-by-the-Sea, California",
+  "site": "Point Lobos State Natural Reserve",
+  "lat": 36.51473,
+  "lng": -121.94279,
+  "q": "Point+Lobos+State+Natural+Reserve+CA",
+  "best": "Hike \u00b7 Turquoise coves, sea lions and coastal trails",
+  "rec": "One of the most beautiful coastal parks in California \u2014 turquoise coves, sea lions, and some of the clearest ocean views you'll find anywhere. The reel warns it has become extremely popular: visit outside peak season and peak days for a more enjoyable experience.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": 7,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "33 \u00b7 Karl Knapp Trail",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Orick, California",
+  "site": "Prairie Creek Redwoods State Park",
+  "lat": 41.37876,
+  "lng": -124.01545,
+  "q": "Karl+Knapp+Trail+Prairie+Creek+Redwoods+CA",
+  "best": "Hike \u00b7 Flat redwood loop through ferns and moss",
+  "rec": "The creator's favorite redwood hike of all time: a gorgeous, mostly flat loop (also signed as the Prairie Creek Trail) through a lush redwood forest filled with ferns, moss, and towering trees.",
+  "reel": "https://www.instagram.com/reel/De7CHmAMQoz/",
+  "reel_title": "7 hikes that will ruin every other hike for you",
+  "creator": "@discover_california_",
+  "rank": 2,
+  "at": "https://www.alltrails.com/trail/us/california/prairie-creek-trail-and-foothill-trail-loop",
+  "also": []
+ },
+ {
+  "n": "34 \u00b7 Gold Bluffs Beach",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Redwood National Park, California",
@@ -4991,7 +5179,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "25 \u00b7 Fern Canyon",
+  "n": "35 \u00b7 Fern Canyon",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -5009,7 +5197,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Redwood National Park",
+  "n": "36 \u00b7 Redwood National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -5027,7 +5215,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 Shark Fin Cove",
+  "n": "37 \u00b7 Shark Fin Cove",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Davenport, California",
@@ -5053,7 +5241,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "28 \u00b7 Trail of the Sequoias",
+  "n": "38 \u00b7 Trail of the Sequoias",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -5071,7 +5259,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Sequoia National Park",
+  "n": "39 \u00b7 Sequoia National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -5089,7 +5277,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "30 \u00b7 Moro Rock",
+  "n": "40 \u00b7 Moro Rock",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -5115,7 +5303,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "31 \u00b7 Tokopah Falls",
+  "n": "41 \u00b7 Tokopah Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lodgepole, California",
@@ -5133,7 +5321,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "32 \u00b7 Eagle Peak",
+  "n": "42 \u00b7 Eagle Peak",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -5151,7 +5339,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "33 \u00b7 Four Mile Trail to Glacier Point",
+  "n": "43 \u00b7 Four Mile Trail to Glacier Point",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -5184,7 +5372,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "34 \u00b7 Yosemite National Park",
+  "n": "44 \u00b7 Yosemite National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -5217,7 +5405,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "35 \u00b7 Valley View",
+  "n": "45 \u00b7 Valley View",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -5235,7 +5423,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "36 \u00b7 Big Oak Flat Road",
+  "n": "46 \u00b7 Big Oak Flat Road",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -5253,7 +5441,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "37 \u00b7 Tunnel View",
+  "n": "47 \u00b7 Tunnel View",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -5271,7 +5459,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "38 \u00b7 Vernal Falls",
+  "n": "48 \u00b7 Vernal Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -5297,7 +5485,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "39 \u00b7 Wapama Falls",
+  "n": "49 \u00b7 Wapama Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -5315,7 +5503,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "40 \u00b7 Yosemite Falls",
+  "n": "50 \u00b7 Yosemite Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -6470,5 +6658,5 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var label=s.n.split(" · ")[0]; var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'">'+label+"</div>",iconSize:[22,22],iconAnchor:[11,11]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a>'+(s.at?'<br>🥾 <a href="'+s.at+'" target="_blank" rel="noopener">AllTrails trail page</a>':"")+'<br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 46<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 46<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 16<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 68<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 42<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 40<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 19<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 15<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 46<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 46<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 16<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 68<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 42<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 50<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 19<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 15<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 5<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>
