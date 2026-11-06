@@ -4107,6 +4107,37 @@
    }
   },
   {
+   "id": "reel:DfVQyYRlN-p",
+   "type": "Reel",
+   "properties": {
+    "name": "20 Midwest Escapes for Epic Stargazing",
+    "url": "https://www.instagram.com/p/DfVQyYRlN-p/",
+    "title": "20 Midwest Escapes for Epic Stargazing",
+    "creator": "@midwestlivingmag",
+    "theme": "Midwest stargazing / dark skies",
+    "places_count": 7,
+    "recommendation_summary": "Midwest Living's epic-stargazing escapes — the readable slides name Tallgrass Prairie National Preserve (KS), Beaver Island (MI), Adler Planetarium (Chicago), Beverly Shores (IN), Headlands International Dark Sky Park (MI), Newport State Park (WI) and Theodore Roosevelt National Park (ND). The carousel advertises 20 places; the rest are only in the magazine's linked list, so nothing beyond the named slides was pinned.",
+    "posted": "2026-11-04",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "creator:midwestlivingmag",
+   "type": "Creator",
+   "properties": {
+    "name": "@midwestlivingmag",
+    "handle": "@midwestlivingmag",
+    "display_name": "Midwest Living"
+   }
+  },
+  {
+   "id": "theme:midwest-stargazing-dark-skies",
+   "type": "Theme",
+   "properties": {
+    "name": "Midwest stargazing / dark skies"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -13412,6 +13443,215 @@
    "properties": {
     "name": "Playground park · Huge themed playgrounds"
    }
+  },
+  {
+   "id": "place:tallgrass-prairie-national-preserve-ks",
+   "type": "Place",
+   "properties": {
+    "name": "Tallgrass Prairie National Preserve",
+    "place_id": "tallgrass-prairie-national-preserve-ks",
+    "site": "Tallgrass Prairie National Preserve",
+    "city": "Strong City",
+    "state": "Kansas",
+    "state_code": "KS",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 38.447,
+    "lng": -96.5775,
+    "google_maps_query": "Tallgrass+Prairie+National+Preserve",
+    "best_for": "Stargazing · Milky Way over the tallgrass prairie",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-ks",
+   "type": "State",
+   "properties": {
+    "name": "Kansas",
+    "state_code": "KS",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:tallgrass-prairie-national-preserve",
+   "type": "Site",
+   "properties": {
+    "name": "Tallgrass Prairie National Preserve"
+   }
+  },
+  {
+   "id": "theme:stargazing-milky-way-over-the-tallgrass-prairie",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing · Milky Way over the tallgrass prairie"
+   }
+  },
+  {
+   "id": "place:beaver-island-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Beaver Island",
+    "place_id": "beaver-island-mi",
+    "site": "Beaver Island",
+    "city": "Beaver Island",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 45.66608,
+    "lng": -85.55442,
+    "google_maps_query": "Beaver+Island+Michigan",
+    "best_for": "Stargazing · Northern lights over Lake Michigan",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:beaver-island",
+   "type": "Site",
+   "properties": {
+    "name": "Beaver Island"
+   }
+  },
+  {
+   "id": "theme:stargazing-northern-lights-over-lake-michigan",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing · Northern lights over Lake Michigan"
+   }
+  },
+  {
+   "id": "place:adler-planetarium-il",
+   "type": "Place",
+   "properties": {
+    "name": "Adler Planetarium",
+    "place_id": "adler-planetarium-il",
+    "site": "Adler Planetarium",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.86637,
+    "lng": -87.60663,
+    "google_maps_query": "Adler+Planetarium+Chicago",
+    "best_for": "Astronomy · Telescope viewing on the lakefront",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:adler-planetarium",
+   "type": "Site",
+   "properties": {
+    "name": "Adler Planetarium"
+   }
+  },
+  {
+   "id": "place:beverly-shores-in",
+   "type": "Place",
+   "properties": {
+    "name": "Beverly Shores",
+    "place_id": "beverly-shores-in",
+    "site": "Beverly Shores (Indiana Dunes)",
+    "city": "Beverly Shores",
+    "state": "Indiana",
+    "state_code": "IN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.69254,
+    "lng": -86.97753,
+    "google_maps_query": "Beverly+Shores+Indiana",
+    "best_for": "Stargazing · Night sky over Lake Michigan by the dunes",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-in",
+   "type": "State",
+   "properties": {
+    "name": "Indiana",
+    "state_code": "IN",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:beverly-shores-indiana-dunes",
+   "type": "Site",
+   "properties": {
+    "name": "Beverly Shores (Indiana Dunes)"
+   }
+  },
+  {
+   "id": "theme:stargazing-night-sky-over-lake-michigan-by-the-dunes",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing · Night sky over Lake Michigan by the dunes"
+   }
+  },
+  {
+   "id": "place:headlands-international-dark-sky-park-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Headlands International Dark Sky Park",
+    "place_id": "headlands-international-dark-sky-park-mi",
+    "site": "Headlands International Dark Sky Park",
+    "city": "Mackinaw City",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 45.7777,
+    "lng": -84.77925,
+    "google_maps_query": "Headlands+International+Dark+Sky+Park",
+    "best_for": "Stargazing · Designated international dark sky park",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:headlands-international-dark-sky-park",
+   "type": "Site",
+   "properties": {
+    "name": "Headlands International Dark Sky Park"
+   }
+  },
+  {
+   "id": "theme:stargazing-designated-international-dark-sky-park",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing · Designated international dark sky park"
+   }
+  },
+  {
+   "id": "place:newport-state-park-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Newport State Park",
+    "place_id": "newport-state-park-wi",
+    "site": "Newport State Park",
+    "city": "Ellison Bay",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 45.24315,
+    "lng": -86.98627,
+    "google_maps_query": "Newport+State+Park+Wisconsin",
+    "best_for": "Stargazing · Dark sky park on Door County's quiet side",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:newport-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Newport State Park"
+   }
+  },
+  {
+   "id": "theme:stargazing-dark-sky-park-on-door-county-s-quiet-side",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing · Dark sky park on Door County's quiet side"
+   }
   }
  ],
  "edges": [
@@ -15980,6 +16220,18 @@
   {
    "from": "reel:De29PU7Oj9j",
    "to": "theme:missouri-day-trips",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfVQyYRlN-p",
+   "to": "creator:midwestlivingmag",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfVQyYRlN-p",
+   "to": "theme:midwest-stargazing-dark-skies",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -21506,6 +21758,19 @@
    "to": "theme:road-trip",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:theodore-roosevelt-national-park-nd",
+   "to": "reel:DfVQyYRlN-p",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Dark sky / Scenic drive · Badlands overlooks and wildlife",
+    "recommendation": "From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. The park is shown with the Milky Way above a river bend in the badlands.",
+    "creator": "@midwestlivingmag",
+    "reel_title": "20 Midwest Escapes for Epic Stargazing",
+    "reel_theme": "Midwest stargazing / dark skies"
+   }
   },
   {
    "from": "place:yellowstone-national-park-wy",
@@ -30638,6 +30903,216 @@
   {
    "from": "place:cosmo-park-columbia-mo",
    "to": "theme:playground-park-huge-themed-playgrounds",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:tallgrass-prairie-national-preserve-ks",
+   "to": "state:united-states-ks",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ks",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ks",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:tallgrass-prairie-national-preserve-ks",
+   "to": "site:tallgrass-prairie-national-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:tallgrass-prairie-national-preserve-ks",
+   "to": "reel:DfVQyYRlN-p",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing · Milky Way over the tallgrass prairie",
+    "recommendation": "From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. The preserve is shown under the Milky Way — some of the darkest skies in Kansas over the last stand of tallgrass prairie.",
+    "creator": "@midwestlivingmag",
+    "reel_title": "20 Midwest Escapes for Epic Stargazing",
+    "reel_theme": "Midwest stargazing / dark skies"
+   }
+  },
+  {
+   "from": "place:tallgrass-prairie-national-preserve-ks",
+   "to": "theme:stargazing-milky-way-over-the-tallgrass-prairie",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:beaver-island-mi",
+   "to": "state:united-states-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:beaver-island-mi",
+   "to": "site:beaver-island",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:beaver-island-mi",
+   "to": "reel:DfVQyYRlN-p",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing · Northern lights over Lake Michigan",
+    "recommendation": "From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. The Lake Michigan island is featured for northern lights — a ferry ride from Charlevoix puts you under genuinely dark island skies.",
+    "creator": "@midwestlivingmag",
+    "reel_title": "20 Midwest Escapes for Epic Stargazing",
+    "reel_theme": "Midwest stargazing / dark skies"
+   }
+  },
+  {
+   "from": "place:beaver-island-mi",
+   "to": "theme:stargazing-northern-lights-over-lake-michigan",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:adler-planetarium-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:adler-planetarium-il",
+   "to": "site:adler-planetarium",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:adler-planetarium-il",
+   "to": "reel:DfVQyYRlN-p",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Astronomy · Telescope viewing on the lakefront",
+    "recommendation": "From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. The city pick: the slide shows telescope viewing at the Adler on Chicago's lakefront at sunset — astronomy nights without leaving the city.",
+    "creator": "@midwestlivingmag",
+    "reel_title": "20 Midwest Escapes for Epic Stargazing",
+    "reel_theme": "Midwest stargazing / dark skies"
+   }
+  },
+  {
+   "from": "place:adler-planetarium-il",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:beverly-shores-in",
+   "to": "state:united-states-in",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-in",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-in",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:beverly-shores-in",
+   "to": "site:beverly-shores-indiana-dunes",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:beverly-shores-in",
+   "to": "reel:DfVQyYRlN-p",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing · Night sky over Lake Michigan by the dunes",
+    "recommendation": "From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. Featured at dusk with the Chicago skyline across the lake — the Indiana Dunes town is an International Dark Sky Community, so the stars come out once the sun drops.",
+    "creator": "@midwestlivingmag",
+    "reel_title": "20 Midwest Escapes for Epic Stargazing",
+    "reel_theme": "Midwest stargazing / dark skies"
+   }
+  },
+  {
+   "from": "place:beverly-shores-in",
+   "to": "theme:stargazing-night-sky-over-lake-michigan-by-the-dunes",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:headlands-international-dark-sky-park-mi",
+   "to": "state:united-states-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:headlands-international-dark-sky-park-mi",
+   "to": "site:headlands-international-dark-sky-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:headlands-international-dark-sky-park-mi",
+   "to": "reel:DfVQyYRlN-p",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing · Designated international dark sky park",
+    "recommendation": "From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. One of the first International Dark Sky Parks in the US, on the Straits of Mackinac west of Mackinaw City — shown under a star-filled sky.",
+    "creator": "@midwestlivingmag",
+    "reel_title": "20 Midwest Escapes for Epic Stargazing",
+    "reel_theme": "Midwest stargazing / dark skies"
+   }
+  },
+  {
+   "from": "place:headlands-international-dark-sky-park-mi",
+   "to": "theme:stargazing-designated-international-dark-sky-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:newport-state-park-wi",
+   "to": "state:united-states-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:newport-state-park-wi",
+   "to": "site:newport-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:newport-state-park-wi",
+   "to": "reel:DfVQyYRlN-p",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing · Dark sky park on Door County's quiet side",
+    "recommendation": "From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. Door County's wilderness park on the Lake Michigan side — a designated dark sky park shown over a calm lake at night.",
+    "creator": "@midwestlivingmag",
+    "reel_title": "20 Midwest Escapes for Epic Stargazing",
+    "reel_theme": "Midwest stargazing / dark skies"
+   }
+  },
+  {
+   "from": "place:newport-state-park-wi",
+   "to": "theme:stargazing-dark-sky-park-on-door-county-s-quiet-side",
    "type": "BEST_FOR",
    "properties": {}
   }
