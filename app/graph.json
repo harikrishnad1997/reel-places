@@ -3960,6 +3960,30 @@
    }
   },
   {
+   "id": "reel:DfM53guRj7X",
+   "type": "Reel",
+   "properties": {
+    "name": "You hiked 6 miles to see THIS Arkansas view",
+    "url": "https://www.instagram.com/reel/DfM53guRj7X/",
+    "title": "You hiked 6 miles to see THIS Arkansas view",
+    "creator": "@heyarkansas",
+    "theme": "Arkansas / Buffalo River hikes",
+    "places_count": 1,
+    "recommendation_summary": "The Goat Trail to Big Bluff in the Ponca Wilderness, Buffalo National River, Arkansas — a strenuous 6-mile hike to a narrow ledge on a 550-ft bluff high above the Buffalo River.",
+    "posted": "2026-11-01",
+    "added": "2026-11-05"
+   }
+  },
+  {
+   "id": "creator:heyarkansas",
+   "type": "Creator",
+   "properties": {
+    "name": "@heyarkansas",
+    "handle": "@heyarkansas",
+    "display_name": "Ashleigh Seale || Adventure + Travel"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -12961,6 +12985,41 @@
    "properties": {
     "name": "Café stop · Mid-ride café and bike shop in town"
    }
+  },
+  {
+   "id": "place:goat-trail-big-bluff-ar",
+   "type": "Place",
+   "properties": {
+    "name": "Goat Trail to Big Bluff",
+    "place_id": "goat-trail-big-bluff-ar",
+    "site": "Buffalo National River (Ponca Wilderness)",
+    "city": "Ponca",
+    "state": "Arkansas",
+    "state_code": "AR",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 36.06403,
+    "lng": -93.3603,
+    "google_maps_query": "Centerpoint+Trailhead+Ponca+Arkansas",
+    "best_for": "Hike · Narrow ledge trail on a 550-ft bluff over the Buffalo River",
+    "note": "Pin is the Centerpoint Trailhead on AR-43 north of Ponca (the hike's start); Big Bluff is about 3 trail-miles in."
+   }
+  },
+  {
+   "id": "state:united-states-ar",
+   "type": "State",
+   "properties": {
+    "name": "Arkansas",
+    "state_code": "AR",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:buffalo-national-river-ponca-wilderness",
+   "type": "Site",
+   "properties": {
+    "name": "Buffalo National River (Ponca Wilderness)"
+   }
   }
  ],
  "edges": [
@@ -15457,6 +15516,18 @@
   {
    "from": "reel:DfXpx4QxQFZ",
    "to": "theme:missouri-fall-day-trips",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfM53guRj7X",
+   "to": "creator:heyarkansas",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfM53guRj7X",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -29675,6 +29746,49 @@
   {
    "from": "place:meriwether-cafe-mo",
    "to": "theme:caf-stop-mid-ride-caf-and-bike-shop-in-town",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:goat-trail-big-bluff-ar",
+   "to": "state:united-states-ar",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ar",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ar",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:goat-trail-big-bluff-ar",
+   "to": "site:buffalo-national-river-ponca-wilderness",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:goat-trail-big-bluff-ar",
+   "to": "reel:DfM53guRj7X",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Narrow ledge trail on a 550-ft bluff over the Buffalo River",
+    "recommendation": "A strenuous 6-mile round trip in the Ponca Wilderness: follow the Centerpoint Trail down from Highway 43, then take the Goat Trail spur — a narrow ledge carved across the face of Big Bluff, at 550 feet one of the tallest sheer bluffs between the Rockies and the Appalachians — for the huge view over the Buffalo River. Rugged, rocky, and a real climb back out; the reel's trail warning is plenty of horse poop along the way. Not for kids or anyone afraid of heights.",
+    "creator": "@heyarkansas",
+    "reel_title": "You hiked 6 miles to see THIS Arkansas view",
+    "reel_theme": "Arkansas / Buffalo River hikes"
+   }
+  },
+  {
+   "from": "place:goat-trail-big-bluff-ar",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
