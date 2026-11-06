@@ -4054,6 +4054,37 @@
    }
   },
   {
+   "id": "reel:DfXMNFOBqaU",
+   "type": "Reel",
+   "properties": {
+    "name": "Cleveland, Ohio looks like this?! Cleveland Metroparks highlights",
+    "url": "https://www.instagram.com/reel/DfXMNFOBqaU/",
+    "title": "Cleveland, Ohio looks like this?! Cleveland Metroparks highlights",
+    "creator": "@hikingwithhykes",
+    "theme": "Ohio / Cleveland Metroparks",
+    "places_count": 4,
+    "recommendation_summary": "Cleveland Metroparks highlights in autumn: Bedford Reservation, Tinkers Creek Gorge, Berea Falls, and the Fort Hill stairs at Rocky River Reservation — plus the tip to download offline maps (no cell service in the preserves). Suunto watch ad in the reel is not a place.",
+    "posted": "2026-11-05",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "creator:hikingwithhykes",
+   "type": "Creator",
+   "properties": {
+    "name": "@hikingwithhykes",
+    "handle": "@hikingwithhykes",
+    "display_name": "Trevor & Riley Hykes | Bucket List Adventure Travel"
+   }
+  },
+  {
+   "id": "theme:ohio-cleveland-metroparks",
+   "type": "Theme",
+   "properties": {
+    "name": "Ohio / Cleveland Metroparks"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -13187,6 +13218,112 @@
     "best_for": "Waterfall / Hike · 101-foot falls with rainbows in the mist",
     "note": ""
    }
+  },
+  {
+   "id": "place:bedford-reservation-oh",
+   "type": "Place",
+   "properties": {
+    "name": "Bedford Reservation",
+    "place_id": "bedford-reservation-oh",
+    "site": "Cleveland Metroparks (Bedford Reservation)",
+    "city": "Bedford",
+    "state": "Ohio",
+    "state_code": "OH",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.37522,
+    "lng": -81.56063,
+    "google_maps_query": "Bedford+Reservation+Ohio",
+    "best_for": "Park / Hike · Gorge, waterfalls and fall color",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-oh",
+   "type": "State",
+   "properties": {
+    "name": "Ohio",
+    "state_code": "OH",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:cleveland-metroparks-bedford-reservation",
+   "type": "Site",
+   "properties": {
+    "name": "Cleveland Metroparks (Bedford Reservation)"
+   }
+  },
+  {
+   "id": "place:tinkers-creek-gorge-oh",
+   "type": "Place",
+   "properties": {
+    "name": "Tinkers Creek Gorge",
+    "place_id": "tinkers-creek-gorge-oh",
+    "site": "Cleveland Metroparks (Bedford Reservation)",
+    "city": "Bedford",
+    "state": "Ohio",
+    "state_code": "OH",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.38451,
+    "lng": -81.52694,
+    "google_maps_query": "Tinkers+Creek+Gorge+Ohio",
+    "best_for": "Scenic gorge · One of Ohio's deepest gorges",
+    "note": "Pin is on Tinkers Creek within the gorge reach of Bedford Reservation."
+   }
+  },
+  {
+   "id": "theme:scenic-gorge-one-of-ohio-s-deepest-gorges",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic gorge · One of Ohio's deepest gorges"
+   }
+  },
+  {
+   "id": "place:berea-falls-oh",
+   "type": "Place",
+   "properties": {
+    "name": "Berea Falls",
+    "place_id": "berea-falls-oh",
+    "site": "Cleveland Metroparks (Rocky River Reservation)",
+    "city": "Berea",
+    "state": "Ohio",
+    "state_code": "OH",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.37709,
+    "lng": -81.86533,
+    "google_maps_query": "Berea+Falls+Ohio",
+    "best_for": "Waterfall · Rocky River cascades below the overlook",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:cleveland-metroparks-rocky-river-reservation",
+   "type": "Site",
+   "properties": {
+    "name": "Cleveland Metroparks (Rocky River Reservation)"
+   }
+  },
+  {
+   "id": "place:fort-hill-stairs-oh",
+   "type": "Place",
+   "properties": {
+    "name": "Fort Hill Stairs",
+    "place_id": "fort-hill-stairs-oh",
+    "site": "Cleveland Metroparks (Rocky River Reservation)",
+    "city": "North Olmsted",
+    "state": "Ohio",
+    "state_code": "OH",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.40913,
+    "lng": -81.88525,
+    "google_maps_query": "Fort+Hill+Stairs+Rocky+River+Reservation",
+    "best_for": "Hike / Viewpoint · Stair climb to a hilltop earthwork",
+    "note": ""
+   }
   }
  ],
  "edges": [
@@ -15731,6 +15868,18 @@
   {
    "from": "reel:Dd42HvZB63U",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfXMNFOBqaU",
+   "to": "creator:hikingwithhykes",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfXMNFOBqaU",
+   "to": "theme:ohio-cleveland-metroparks",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -30128,6 +30277,154 @@
   {
    "from": "place:rainbow-falls-mammoth-ca",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bedford-reservation-oh",
+   "to": "state:united-states-oh",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-oh",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-oh",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:bedford-reservation-oh",
+   "to": "site:cleveland-metroparks-bedford-reservation",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bedford-reservation-oh",
+   "to": "reel:DfXMNFOBqaU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park / Hike · Gorge, waterfalls and fall color",
+    "recommendation": "One of the Cleveland Metroparks highlights in the reel — the system has 300+ miles of hiking trails, and the reel's practical tip is to download offline maps first, because cell service is almost nonexistent in some of these preserves even this close to the city. Bedford Reservation is the reel's autumn showpiece — wooden overlooks and trails above the Tinkers Creek gorge in peak fall color.",
+    "creator": "@hikingwithhykes",
+    "reel_title": "Cleveland, Ohio looks like this?! Cleveland Metroparks highlights",
+    "reel_theme": "Ohio / Cleveland Metroparks"
+   }
+  },
+  {
+   "from": "place:bedford-reservation-oh",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bedford-reservation-oh",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:tinkers-creek-gorge-oh",
+   "to": "state:united-states-oh",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:tinkers-creek-gorge-oh",
+   "to": "site:cleveland-metroparks-bedford-reservation",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:tinkers-creek-gorge-oh",
+   "to": "reel:DfXMNFOBqaU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic gorge · One of Ohio's deepest gorges",
+    "recommendation": "One of the Cleveland Metroparks highlights in the reel — the system has 300+ miles of hiking trails, and the reel's practical tip is to download offline maps first, because cell service is almost nonexistent in some of these preserves even this close to the city. The reel calls out Tinkers Creek itself — the stream that carved one of Ohio's deepest gorges through Bedford Reservation, with waterfalls, hemlock forest and gorge-rim views.",
+    "creator": "@hikingwithhykes",
+    "reel_title": "Cleveland, Ohio looks like this?! Cleveland Metroparks highlights",
+    "reel_theme": "Ohio / Cleveland Metroparks"
+   }
+  },
+  {
+   "from": "place:tinkers-creek-gorge-oh",
+   "to": "theme:scenic-gorge-one-of-ohio-s-deepest-gorges",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:berea-falls-oh",
+   "to": "state:united-states-oh",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:berea-falls-oh",
+   "to": "site:cleveland-metroparks-rocky-river-reservation",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:berea-falls-oh",
+   "to": "reel:DfXMNFOBqaU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall · Rocky River cascades below the overlook",
+    "recommendation": "One of the Cleveland Metroparks highlights in the reel — the system has 300+ miles of hiking trails, and the reel's practical tip is to download offline maps first, because cell service is almost nonexistent in some of these preserves even this close to the city. Berea Falls is the waterfall stop: the East Branch of the Rocky River dropping over rocky ledges, seen from the overlook in the reel's footage.",
+    "creator": "@hikingwithhykes",
+    "reel_title": "Cleveland, Ohio looks like this?! Cleveland Metroparks highlights",
+    "reel_theme": "Ohio / Cleveland Metroparks"
+   }
+  },
+  {
+   "from": "place:berea-falls-oh",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:fort-hill-stairs-oh",
+   "to": "state:united-states-oh",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:fort-hill-stairs-oh",
+   "to": "site:cleveland-metroparks-rocky-river-reservation",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:fort-hill-stairs-oh",
+   "to": "reel:DfXMNFOBqaU",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Viewpoint · Stair climb to a hilltop earthwork",
+    "recommendation": "One of the Cleveland Metroparks highlights in the reel — the system has 300+ miles of hiking trails, and the reel's practical tip is to download offline maps first, because cell service is almost nonexistent in some of these preserves even this close to the city. The reel features the Fort Hill stairs — the long stair climb up to the Fort Hill earthwork above the Rocky River valley, with forest and river views at sunset.",
+    "creator": "@hikingwithhykes",
+    "reel_title": "Cleveland, Ohio looks like this?! Cleveland Metroparks highlights",
+    "reel_theme": "Ohio / Cleveland Metroparks"
+   }
+  },
+  {
+   "from": "place:fort-hill-stairs-oh",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:fort-hill-stairs-oh",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
