@@ -4153,6 +4153,21 @@
    }
   },
   {
+   "id": "reel:DfarEsNMIc4",
+   "type": "Reel",
+   "properties": {
+    "name": "5 National Park Sunsets That Blew My Mind",
+    "url": "https://www.instagram.com/reel/DfarEsNMIc4/",
+    "title": "5 National Park Sunsets That Blew My Mind",
+    "creator": "@amorywild",
+    "theme": "National park sunsets countdown",
+    "places_count": 5,
+    "recommendation_summary": "Amory's ranked countdown of national park sunsets: #5 Saddle Pass (Badlands), #4 Artists Palette (Death Valley), #3 Upper Hawksbill Summit (Shenandoah), #2 Kuwohi (Great Smoky Mountains), #1 Lipan Point (Grand Canyon).",
+    "posted": "2026-11-06",
+    "added": "2026-11-06"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -13667,6 +13682,44 @@
    "properties": {
     "name": "Stargazing · Dark sky park on Door County's quiet side"
    }
+  },
+  {
+   "id": "place:saddle-pass-sd",
+   "type": "Place",
+   "properties": {
+    "name": "Saddle Pass",
+    "place_id": "saddle-pass-sd",
+    "site": "Badlands National Park",
+    "city": "Interior",
+    "state": "South Dakota",
+    "state_code": "SD",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.75826,
+    "lng": -101.9743,
+    "google_maps_query": "Saddle+Pass+Trailhead+Badlands",
+    "best_for": "Sunset / Hike · Eroded badlands formations in orange light",
+    "note": "Pin is the Saddle Pass Trailhead (published trailhead point); the pass overlook is a short climb up the trail."
+   }
+  },
+  {
+   "id": "place:artists-palette-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Artists Palette",
+    "place_id": "artists-palette-ca",
+    "site": "Death Valley National Park",
+    "city": "Death Valley",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.36669,
+    "lng": -116.80052,
+    "google_maps_query": "Artists+Palette+Death+Valley",
+    "best_for": "Sunset / Scenic drive · Mineral-streaked colorful hills",
+    "note": ""
+   }
   }
  ],
  "edges": [
@@ -16263,6 +16316,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DfarEsNMIc4",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfarEsNMIc4",
+   "to": "theme:sunset",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -18207,6 +18272,19 @@
    "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:kuwohi-tn",
+   "to": "reel:DfarEsNMIc4",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Summit / Sunset · Layered Smokies vistas from the observation tower",
+    "recommendation": "Sunset #2 in Amory's countdown: Kuwohi (formerly Clingmans Dome) in Great Smoky Mountains National Park — the circular observation walkway above the evergreens, with layered mountain vistas at sunset.",
+    "creator": "@amorywild",
+    "reel_title": "5 National Park Sunsets That Blew My Mind",
+    "reel_theme": "National park sunsets countdown"
+   }
   },
   {
    "from": "place:devil-s-hall-tx",
@@ -20636,6 +20714,19 @@
    "properties": {}
   },
   {
+   "from": "place:lipan-point-az",
+   "to": "reel:DfarEsNMIc4",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint / Sunset · Golden hour over the canyon",
+    "recommendation": "Sunset #1 in Amory's countdown — his top pick: Lipan Point at the Grand Canyon, vast canyon walls illuminated by golden-hour light (you can see the Colorado River and the Desert View area from here).",
+    "creator": "@amorywild",
+    "reel_title": "5 National Park Sunsets That Blew My Mind",
+    "reel_theme": "National park sunsets countdown"
+   }
+  },
+  {
    "from": "place:cades-cove-tn",
    "to": "state:united-states-tn",
    "type": "LOCATED_IN",
@@ -21452,6 +21543,19 @@
     "creator": "@amorywild",
     "reel_title": "Sunset viewpoint — Upper Hawksbill Summit",
     "reel_theme": "Sunset viewpoint"
+   }
+  },
+  {
+   "from": "place:upper-hawksbill-trail-va",
+   "to": "reel:DfarEsNMIc4",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Summit / Sunset · Highest peak in Shenandoah",
+    "recommendation": "Sunset #3 in Amory's countdown: Upper Hawksbill Summit in Shenandoah National Park — the park's highest peak, with views over forested Blue Ridge mountains as the sun sets.",
+    "creator": "@amorywild",
+    "reel_title": "5 National Park Sunsets That Blew My Mind",
+    "reel_theme": "National park sunsets countdown"
    }
   },
   {
@@ -31153,6 +31257,74 @@
   {
    "from": "place:newport-state-park-wi",
    "to": "theme:stargazing-dark-sky-park-on-door-county-s-quiet-side",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:saddle-pass-sd",
+   "to": "state:united-states-sd",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:saddle-pass-sd",
+   "to": "site:badlands-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:saddle-pass-sd",
+   "to": "reel:DfarEsNMIc4",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Sunset / Hike · Eroded badlands formations in orange light",
+    "recommendation": "Sunset #5 in Amory's countdown: Saddle Pass in Badlands National Park — a short, steep climb from the trailhead on Sage Creek Rim Road up through a break in the Badlands Wall, where the eroded spires and pinnacles light up orange at sunset.",
+    "creator": "@amorywild",
+    "reel_title": "5 National Park Sunsets That Blew My Mind",
+    "reel_theme": "National park sunsets countdown"
+   }
+  },
+  {
+   "from": "place:saddle-pass-sd",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:saddle-pass-sd",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:artists-palette-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:artists-palette-ca",
+   "to": "site:death-valley-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:artists-palette-ca",
+   "to": "reel:DfarEsNMIc4",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Sunset / Scenic drive · Mineral-streaked colorful hills",
+    "recommendation": "Sunset #4 in Amory's countdown: Artists Palette in Death Valley — the one-way Artists Drive loops past hills streaked pink, gold, green and lavender by mineral deposits, and the colors deepen at dusk as the light drops.",
+    "creator": "@amorywild",
+    "reel_title": "5 National Park Sunsets That Blew My Mind",
+    "reel_theme": "National park sunsets countdown"
+   }
+  },
+  {
+   "from": "place:artists-palette-ca",
+   "to": "theme:sunset",
    "type": "BEST_FOR",
    "properties": {}
   }
