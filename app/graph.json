@@ -4030,6 +4030,30 @@
    }
   },
   {
+   "id": "reel:Dd42HvZB63U",
+   "type": "Reel",
+   "properties": {
+    "name": "One hike, two incredible destinations: Devil's Postpile + Rainbow Falls",
+    "url": "https://www.instagram.com/reel/Dd42HvZB63U/",
+    "title": "One hike, two incredible destinations: Devil's Postpile + Rainbow Falls",
+    "creator": "@scenic_adventure_travel",
+    "theme": "California / Sierra Nevada hikes",
+    "places_count": 2,
+    "recommendation_summary": "One hike outside Mammoth Lakes, CA to two wonders: #1 Devil's Postpile National Monument (hexagonal basalt columns, ~2.6 mi round trip) and #2 Rainbow Falls (101-ft waterfall, ~5 mi round trip for both), both moderate.",
+    "posted": "2026-09-29",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "creator:scenic-adventure-travel",
+   "type": "Creator",
+   "properties": {
+    "name": "@scenic_adventure_travel",
+    "handle": "@scenic_adventure_travel",
+    "display_name": "Crystal | Adventure Travel • California & Beyond"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -13111,6 +13135,58 @@
    "properties": {
     "name": "Pinnacles Youth Park"
    }
+  },
+  {
+   "id": "place:devils-postpile-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Devil's Postpile",
+    "place_id": "devils-postpile-ca",
+    "site": "Devils Postpile National Monument",
+    "city": "Mammoth Lakes",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.6299,
+    "lng": -119.0847,
+    "google_maps_query": "Devils+Postpile+National+Monument",
+    "best_for": "Geology · Towering hexagonal basalt columns",
+    "note": "Pin is the monument trailhead by the ranger station (published trailhead coordinates); the postpile formation is a short walk in."
+   }
+  },
+  {
+   "id": "site:devils-postpile-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Devils Postpile National Monument"
+   }
+  },
+  {
+   "id": "theme:geology-towering-hexagonal-basalt-columns",
+   "type": "Theme",
+   "properties": {
+    "name": "Geology · Towering hexagonal basalt columns"
+   }
+  },
+  {
+   "id": "place:rainbow-falls-mammoth-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Rainbow Falls",
+    "place_id": "rainbow-falls-mammoth-ca",
+    "site": "Devils Postpile National Monument",
+    "city": "Mammoth Lakes",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.60192,
+    "lng": -119.08427,
+    "google_maps_query": "Rainbow+Falls+Mammoth+Lakes+CA",
+    "best_for": "Waterfall / Hike · 101-foot falls with rainbows in the mist",
+    "note": ""
+   }
   }
  ],
  "edges": [
@@ -15643,6 +15719,18 @@
   {
    "from": "reel:DfYsfYBOaqy",
    "to": "theme:missouri-hidden-gems",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd42HvZB63U",
+   "to": "creator:scenic-adventure-travel",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd42HvZB63U",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -29971,6 +30059,74 @@
   },
   {
    "from": "place:pinnacles-youth-park-mo",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-postpile-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-postpile-ca",
+   "to": "site:devils-postpile-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-postpile-ca",
+   "to": "reel:Dd42HvZB63U",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Geology · Towering hexagonal basalt columns",
+    "recommendation": "Stop #1 on the reel's two-for-one hike (~2.6 miles round trip, moderate): towering columns of basalt formed by ancient volcanic activity, the hexagonal formations looking almost perfectly stacked.",
+    "creator": "@scenic_adventure_travel",
+    "reel_title": "One hike, two incredible destinations: Devil's Postpile + Rainbow Falls",
+    "reel_theme": "California / Sierra Nevada hikes"
+   }
+  },
+  {
+   "from": "place:devils-postpile-ca",
+   "to": "theme:geology-towering-hexagonal-basalt-columns",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-mammoth-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-mammoth-ca",
+   "to": "site:devils-postpile-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-mammoth-ca",
+   "to": "reel:Dd42HvZB63U",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Waterfall / Hike · 101-foot falls with rainbows in the mist",
+    "recommendation": "Stop #2 on the reel's hike (~5 miles round trip from the main trailhead to see both, moderate): a stunning 101-foot waterfall on the Middle Fork of the San Joaquin River, where sunlight creates rainbows in the mist — the highest waterfall on the river.",
+    "creator": "@scenic_adventure_travel",
+    "reel_title": "One hike, two incredible destinations: Devil's Postpile + Rainbow Falls",
+    "reel_theme": "California / Sierra Nevada hikes"
+   }
+  },
+  {
+   "from": "place:rainbow-falls-mammoth-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rainbow-falls-mammoth-ca",
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
