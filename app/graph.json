@@ -3999,6 +3999,37 @@
    }
   },
   {
+   "id": "reel:DfYsfYBOaqy",
+   "type": "Reel",
+   "properties": {
+    "name": "This is Missouri?! Pinnacles Youth Park",
+    "url": "https://www.instagram.com/reel/DfYsfYBOaqy/",
+    "title": "This is Missouri?! Pinnacles Youth Park",
+    "creator": "@midwestnomadfamily",
+    "theme": "Missouri hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Pinnacles Youth Park near Sturgeon, Missouri — towering rock formations you can hike over, creek trails, and crinoid fossils everywhere; free with a donation box, privately owned and open to the public.",
+    "posted": "2026-11-05",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "creator:midwestnomadfamily",
+   "type": "Creator",
+   "properties": {
+    "name": "@midwestnomadfamily",
+    "handle": "@midwestnomadfamily",
+    "display_name": "Sara Lesire | Family Travel & Adventure | Midwest & More"
+   }
+  },
+  {
+   "id": "theme:missouri-hidden-gems",
+   "type": "Theme",
+   "properties": {
+    "name": "Missouri hidden gems"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -13054,6 +13085,32 @@
     "best_for": "Waterfall / Hike · Tallest waterfall between the Rockies and Appalachians",
     "note": ""
    }
+  },
+  {
+   "id": "place:pinnacles-youth-park-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Pinnacles Youth Park",
+    "place_id": "pinnacles-youth-park-mo",
+    "site": "Pinnacles Youth Park",
+    "city": "Sturgeon",
+    "state": "Missouri",
+    "state_code": "MO",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 39.13256,
+    "lng": -92.32245,
+    "google_maps_query": "Pinnacles+Youth+Park+Missouri",
+    "best_for": "Hike · Towering rock pinnacles and fossil hunting",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:pinnacles-youth-park",
+   "type": "Site",
+   "properties": {
+    "name": "Pinnacles Youth Park"
+   }
   }
  ],
  "edges": [
@@ -15574,6 +15631,18 @@
   {
    "from": "reel:DczeYNly63D",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfYsfYBOaqy",
+   "to": "creator:midwestnomadfamily",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfYsfYBOaqy",
+   "to": "theme:missouri-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -29871,6 +29940,37 @@
   },
   {
    "from": "place:hemmed-in-hollow-falls-ar",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:pinnacles-youth-park-mo",
+   "to": "state:united-states-mo",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:pinnacles-youth-park-mo",
+   "to": "site:pinnacles-youth-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:pinnacles-youth-park-mo",
+   "to": "reel:DfYsfYBOaqy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Towering rock pinnacles and fossil hunting",
+    "recommendation": "One of the most unique places in Missouri: a privately owned park north of Columbia (850 E. Pinnacles Rd, Sturgeon) that's open for public day use and feels like a rugged hike out west. Lower trails run along the creek to a shelter bluff for all ages; the real adventure is crossing the creek and taking the narrow, rocky path over the top of the towering rock formations. The spot is full of fossils — look in the creek and across the rocks for thousands of crinoids. Free (donation box at the kiosk); vault restroom; no alcohol, glass or drones. The reel's warnings: the upper ledge trails are not for young kids or anyone afraid of heights, don't cross the creek when the water is high, and expect wet feet even in summer.",
+    "creator": "@midwestnomadfamily",
+    "reel_title": "This is Missouri?! Pinnacles Youth Park",
+    "reel_theme": "Missouri hidden gems"
+   }
+  },
+  {
+   "from": "place:pinnacles-youth-park-mo",
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
