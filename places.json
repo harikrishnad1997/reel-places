@@ -9125,7 +9125,17 @@
    "source_creator": "@everydayoutdoorfamily",
    "source_rank": null,
    "source_reel_theme": "Missouri fall day trips",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Small town · Charming shops, restaurants and a history museum",
+     "recommendation": "Also the day trip's Rocheport stop: a tiny town with charming shops and restaurants — don't miss the free Friends of Rocheport History Museum or the Missouri Life store for Missouri-made items.",
+     "source_creator": "@midwestnomadfamily",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/De29PU7Oj9j/",
+     "source_reel_theme": "Missouri day trips",
+     "source_title": "Plan a Missouri fall adventure: Columbia + Rocheport day trip"
+    }
+   ]
   },
   {
    "id": "katy-trail-rocheport-mo",
@@ -9147,7 +9157,17 @@
    "source_creator": "@everydayoutdoorfamily",
    "source_rank": null,
    "source_reel_theme": "Missouri fall day trips",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Bike / Hike · Katy Trail and the historic Rocheport Tunnel",
+     "recommendation": "Also featured as 'Rocheport Tunnel & Katy Trail': Missouri's longest rail-to-trail path has a trailhead right in town — follow it a short distance across a bridge to the historic Rocheport Rail Tunnel (38.97787, -92.57031), a great fall-colors spot.",
+     "source_creator": "@midwestnomadfamily",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/De29PU7Oj9j/",
+     "source_reel_theme": "Missouri day trips",
+     "source_title": "Plan a Missouri fall adventure: Columbia + Rocheport day trip"
+    }
+   ]
   },
   {
    "id": "meriwether-cafe-mo",
@@ -9238,7 +9258,17 @@
    "source_creator": "@midwestnomadfamily",
    "source_rank": null,
    "source_reel_theme": "Missouri hidden gems",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Hike · Towering rock pinnacles and fossil hunting",
+     "recommendation": "Also a stop on this Columbia + Rocheport fall day trip: a hidden gem that's private property but open to the public — lower trails to a shelter cave and creek for all ages, while older kids and adults can carefully climb along the rock Pinnacles. Note from this reel: no dogs, and the restrooms are primitive.",
+     "source_creator": "@midwestnomadfamily",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/De29PU7Oj9j/",
+     "source_reel_theme": "Missouri day trips",
+     "source_title": "Plan a Missouri fall adventure: Columbia + Rocheport day trip"
+    }
+   ]
   },
   {
    "id": "devils-postpile-ca",
@@ -9372,6 +9402,50 @@
    "source_creator": "@hikingwithhykes",
    "source_rank": null,
    "source_reel_theme": "Ohio / Cleveland Metroparks",
+   "additional_sources": []
+  },
+  {
+   "id": "rock-bridge-memorial-state-park-mo",
+   "name": "Rock Bridge Memorial State Park",
+   "site": "Rock Bridge Memorial State Park",
+   "city": "Columbia",
+   "state": "Missouri",
+   "state_code": "MO",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 38.87127,
+   "lng": -92.32102,
+   "google_maps_query": "Rock+Bridge+Memorial+State+Park",
+   "best_for": "Hike / Cave · Natural rock bridge and Devil's Icebox cave",
+   "recommendation": "The day trip's start (5901 South Highway 163, Columbia): a beautiful state park with amazing fall colors, multiple caves, and a natural rock arch. Take the short Devil's Icebox trail along a boardwalk and steps to see the rock bridge and cave entrances.",
+   "source_reel": "https://www.instagram.com/reel/De29PU7Oj9j/",
+   "source_title": "Plan a Missouri fall adventure: Columbia + Rocheport day trip",
+   "source_creator": "@midwestnomadfamily",
+   "source_rank": null,
+   "source_reel_theme": "Missouri day trips",
+   "additional_sources": []
+  },
+  {
+   "id": "cosmo-park-columbia-mo",
+   "name": "Cosmo Park",
+   "site": "Cosmo Park",
+   "city": "Columbia",
+   "state": "Missouri",
+   "state_code": "MO",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 38.97717,
+   "lng": -92.36448,
+   "google_maps_query": "Cosmo+Park+Columbia+MO",
+   "best_for": "Playground park · Huge themed playgrounds",
+   "recommendation": "Columbia's big playground stop (1615 Business Loop 70 W): multiple huge playgrounds with unique features and fun themes — don't miss the classic rocket climber and racing slides. The reel's tip: make a left at the roundabout when entering the park for the playgrounds.",
+   "source_reel": "https://www.instagram.com/reel/De29PU7Oj9j/",
+   "source_title": "Plan a Missouri fall adventure: Columbia + Rocheport day trip",
+   "source_creator": "@midwestnomadfamily",
+   "source_rank": null,
+   "source_reel_theme": "Missouri day trips",
    "additional_sources": []
   }
  ],
