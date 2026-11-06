@@ -3751,7 +3751,18 @@
    "source_title": "Top 5 National Park Adrenaline Hikes",
    "state": "Maine",
    "state_code": "ME",
-   "alltrails_url": "https://www.alltrails.com/trail/us/maine/precipice-loop"
+   "alltrails_url": "https://www.alltrails.com/trail/us/maine/precipice-loop",
+   "additional_sources": [
+    {
+     "best_for": "Hike / Adrenaline · Iron-rung cliff climb in Acadia",
+     "recommendation": "A second take on Acadia's Precipice Trail: Dave & Joce ask 'Have you done this hike?? What'd you think' — the near-vertical iron-rung and ladder climb up Champlain Mountain's east face, famous as one of the most thrilling (and exposed) trails in the eastern national parks.",
+     "source_creator": "@daveandjoce",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfaOC7PRf92/",
+     "source_reel_theme": "Maine / Acadia hikes",
+     "source_title": "Have you done this hike?? Precipice Trail, Acadia"
+    }
+   ]
   },
   {
    "best_for": "Easy hike",

@@ -4138,6 +4138,21 @@
    }
   },
   {
+   "id": "reel:DfaOC7PRf92",
+   "type": "Reel",
+   "properties": {
+    "name": "Have you done this hike?? Precipice Trail, Acadia",
+    "url": "https://www.instagram.com/reel/DfaOC7PRf92/",
+    "title": "Have you done this hike?? Precipice Trail, Acadia",
+    "creator": "@daveandjoce",
+    "theme": "Maine / Acadia hikes",
+    "places_count": 1,
+    "recommendation_summary": "Precipice Trail in Acadia National Park, Maine — the iron-rung cliff climb; added as a second source on the existing pin.",
+    "posted": "2026-11-06",
+    "added": "2026-11-06"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -16236,6 +16251,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DfaOC7PRf92",
+   "to": "creator:daveandjoce",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfaOC7PRf92",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -22323,6 +22350,19 @@
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:precipice-trail-me",
+   "to": "reel:DfaOC7PRf92",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Adrenaline · Iron-rung cliff climb in Acadia",
+    "recommendation": "A second take on Acadia's Precipice Trail: Dave & Joce ask 'Have you done this hike?? What'd you think' — the near-vertical iron-rung and ladder climb up Champlain Mountain's east face, famous as one of the most thrilling (and exposed) trails in the eastern national parks.",
+    "creator": "@daveandjoce",
+    "reel_title": "Have you done this hike?? Precipice Trail, Acadia",
+    "reel_theme": "Maine / Acadia hikes"
+   }
   },
   {
    "from": "place:santa-elena-canyon-tx",

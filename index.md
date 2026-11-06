@@ -54,6 +54,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/maine/precipice-loop)
   - Pin is the trailhead point on the Park Loop Road (OSM's 'The Precipice Trail' information point).
   - 🎬 Source: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild (#1 in that reel)
+  - 🎬 Also recommended by: [Have you done this hike?? Precipice Trail, Acadia](https://www.instagram.com/reel/DfaOC7PRf92/) by @daveandjoce
+    - **Best for:** Hike / Adrenaline · Iron-rung cliff climb in Acadia — A second take on Acadia's Precipice Trail: Dave & Joce ask 'Have you done this hike?? What'd you think' — the near-vertical iron-rung and ladder climb up Champlain Mountain's east face, famous as one of the most thrilling (and exposed) trails in the eastern national parks.
 
 ##### Sunrise
 
@@ -4058,6 +4060,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A Missouri fall day trip (under 2 hrs from both St. Louis and Kansas City): Rock Bridge Memorial State Park (Devil's Icebox), Pinnacles Youth Park, Cosmo Park playgrounds in Columbia, downtown Rocheport, and the Rocheport Tunnel on the Katy Trail.
 - **[20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/)** — @midwestlivingmag · 7 places · Theme: Midwest stargazing / dark skies
   - What the reel recommends: Midwest Living's epic-stargazing escapes — the readable slides name Tallgrass Prairie National Preserve (KS), Beaver Island (MI), Adler Planetarium (Chicago), Beverly Shores (IN), Headlands International Dark Sky Park (MI), Newport State Park (WI) and Theodore Roosevelt National Park (ND). The carousel advertises 20 places; the rest are only in the magazine's linked list, so nothing beyond the named slides was pinned.
+- **[Have you done this hike?? Precipice Trail, Acadia](https://www.instagram.com/reel/DfaOC7PRf92/)** — @daveandjoce · 1 places · Theme: Maine / Acadia hikes
+  - What the reel recommends: Precipice Trail in Acadia National Park, Maine — the iron-rung cliff climb; added as a second source on the existing pin.
 
 ## How this page is updated {#how-this-page-is-updated}
 
