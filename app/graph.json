@@ -3984,6 +3984,21 @@
    }
   },
   {
+   "id": "reel:DczeYNly63D",
+   "type": "Reel",
+   "properties": {
+    "name": "Arkansas is keeping too many secrets — a nearly 210-foot waterfall",
+    "url": "https://www.instagram.com/reel/DczeYNly63D/",
+    "title": "Arkansas is keeping too many secrets — a nearly 210-foot waterfall",
+    "creator": "@heyarkansas",
+    "theme": "Arkansas / Buffalo River waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "Hemmed-In Hollow Falls in the Ponca Wilderness, Buffalo National River, Arkansas — a ~209-ft rain-fed waterfall (tallest between the Rockies and Appalachians) reached by a steep hike dropping nearly 1,400 ft.",
+    "posted": "2026-09-02",
+    "added": "2026-11-05"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -13020,6 +13035,25 @@
    "properties": {
     "name": "Buffalo National River (Ponca Wilderness)"
    }
+  },
+  {
+   "id": "place:hemmed-in-hollow-falls-ar",
+   "type": "Place",
+   "properties": {
+    "name": "Hemmed-In Hollow Falls",
+    "place_id": "hemmed-in-hollow-falls-ar",
+    "site": "Buffalo National River (Ponca Wilderness)",
+    "city": "Compton",
+    "state": "Arkansas",
+    "state_code": "AR",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 36.07207,
+    "lng": -93.3074,
+    "google_maps_query": "Hemmed-in-Hollow+Falls+Arkansas",
+    "best_for": "Waterfall / Hike · Tallest waterfall between the Rockies and Appalachians",
+    "note": ""
+   }
   }
  ],
  "edges": [
@@ -15528,6 +15562,18 @@
   {
    "from": "reel:DfM53guRj7X",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DczeYNly63D",
+   "to": "creator:heyarkansas",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DczeYNly63D",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -29788,6 +29834,43 @@
   },
   {
    "from": "place:goat-trail-big-bluff-ar",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hemmed-in-hollow-falls-ar",
+   "to": "state:united-states-ar",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:hemmed-in-hollow-falls-ar",
+   "to": "site:buffalo-national-river-ponca-wilderness",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:hemmed-in-hollow-falls-ar",
+   "to": "reel:DczeYNly63D",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Hike · Tallest waterfall between the Rockies and Appalachians",
+    "recommendation": "A nearly 210-foot waterfall hidden in the Ponca Wilderness of Buffalo National River — the tallest waterfall between the Rocky and Appalachian Mountains. The journey is part of it: a steep, rugged hike drops nearly 1,400 feet into the hollow, and you climb every bit of it back out. Key catch from the reel: it's rain-fed, so it can be a powerful cascade after significant rainfall or barely a trickle in dry periods — go after rain (late winter through spring is peak flow).",
+    "creator": "@heyarkansas",
+    "reel_title": "Arkansas is keeping too many secrets — a nearly 210-foot waterfall",
+    "reel_theme": "Arkansas / Buffalo River waterfalls"
+   }
+  },
+  {
+   "from": "place:hemmed-in-hollow-falls-ar",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hemmed-in-hollow-falls-ar",
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
