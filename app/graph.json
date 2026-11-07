@@ -4192,6 +4192,37 @@
    }
   },
   {
+   "id": "reel:DfYsMN8RuDh",
+   "type": "Reel",
+   "properties": {
+    "name": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "url": "https://www.instagram.com/reel/DfYsMN8RuDh/",
+    "title": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "creator": "@thewildlifeofrach",
+    "theme": "Utah / Moab scenic drives",
+    "places_count": 7,
+    "recommendation_summary": "Highway 279 (Potash Road) scenic byway along the Colorado River out of Moab: #1 petroglyph panel, #2 Poison Spider dinosaur tracks, #3 Wall Street climbing walls, #4 Corona Arch, #5 Jug Handle Arch, #6 the blue Potash Ponds — with the byway itself gaining this as a second source.",
+    "posted": "2026-11-05",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "creator:thewildlifeofrach",
+   "type": "Creator",
+   "properties": {
+    "name": "@thewildlifeofrach",
+    "handle": "@thewildlifeofrach",
+    "display_name": "Rach | Adventure + Travel"
+   }
+  },
+  {
+   "id": "theme:utah-moab-scenic-drives",
+   "type": "Theme",
+   "properties": {
+    "name": "Utah / Moab scenic drives"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -10424,6 +10455,13 @@
    }
   },
   {
+   "id": "theme:scenic-drive-colorado-river-byway-with-arches-petroglyphs-and-dinosaur-tracks",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic drive · Colorado River byway with arches, petroglyphs and dinosaur tracks"
+   }
+  },
+  {
    "id": "place:marlboro-point-ut",
    "type": "Place",
    "properties": {
@@ -13770,6 +13808,148 @@
    "properties": {
     "name": "Acadia National Park (Sieur de Monts)"
    }
+  },
+  {
+   "id": "place:wall-street-moab-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Wall Street (Potash Road)",
+    "place_id": "wall-street-moab-ut",
+    "site": "Potash Road (SR-279, Moab)",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.54648,
+    "lng": -109.60112,
+    "google_maps_query": "Wall+Street+Potash+Road+Moab",
+    "best_for": "Rock climbing / Scenic drive · Sheer sandstone walls at the pavement",
+    "note": "Pin at byway mile ~4.3, where Wall Street begins (milepoint-anchored to the Corona Arch trailhead OSM point)."
+   }
+  },
+  {
+   "id": "theme:rock-climbing-scenic-drive-sheer-sandstone-walls-at-the-pavement",
+   "type": "Theme",
+   "properties": {
+    "name": "Rock climbing / Scenic drive · Sheer sandstone walls at the pavement"
+   }
+  },
+  {
+   "id": "place:potash-road-petroglyphs-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Potash Road Petroglyph Panel",
+    "place_id": "potash-road-petroglyphs-ut",
+    "site": "Potash Road (SR-279, Moab)",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.55523,
+    "lng": -109.60811,
+    "google_maps_query": "Potash+Road+Petroglyphs+Moab",
+    "best_for": "Rock art · Ancient petroglyphs at a marked roadside pullout",
+    "note": "Pin at byway mile ~5.0, the 'Indian Writing' pullout (milepoint-anchored to the Corona Arch trailhead OSM point)."
+   }
+  },
+  {
+   "id": "theme:rock-art-ancient-petroglyphs-at-a-marked-roadside-pullout",
+   "type": "Theme",
+   "properties": {
+    "name": "Rock art · Ancient petroglyphs at a marked roadside pullout"
+   }
+  },
+  {
+   "id": "place:poison-spider-dinosaur-tracks-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Poison Spider Dinosaur Tracks",
+    "place_id": "poison-spider-dinosaur-tracks-ut",
+    "site": "Potash Road (SR-279, Moab)",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.56368,
+    "lng": -109.61466,
+    "google_maps_query": "Poison+Spider+Dinosaur+Tracks+Moab",
+    "best_for": "Dinosaur tracks · Fossil tracksite a short walk from parking",
+    "note": "Pin at the Poison Spider trailhead parking, byway mile ~5.9 (milepoint-anchored to the Corona Arch trailhead OSM point)."
+   }
+  },
+  {
+   "id": "theme:dinosaur-tracks-fossil-tracksite-a-short-walk-from-parking",
+   "type": "Theme",
+   "properties": {
+    "name": "Dinosaur tracks · Fossil tracksite a short walk from parking"
+   }
+  },
+  {
+   "id": "place:corona-arch-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Corona Arch",
+    "place_id": "corona-arch-ut",
+    "site": "Potash Road (SR-279, Moab)",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.57482,
+    "lng": -109.63251,
+    "google_maps_query": "Corona+Arch+Trailhead+Moab",
+    "best_for": "Hike / Arch · Massive freestanding arch, ladder + cable section",
+    "note": "Pin is the Corona Arch Trailhead (the OSM-listed trailhead point); the arch is at the end of the ~1.5-mile trail."
+   }
+  },
+  {
+   "id": "place:jug-handle-arch-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Jug Handle Arch",
+    "place_id": "jug-handle-arch-ut",
+    "site": "Potash Road (SR-279, Moab)",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.53198,
+    "lng": -109.64642,
+    "google_maps_query": "Jug+Handle+Arch+Moab",
+    "best_for": "Arch · Tall, narrow arch visible right from the road",
+    "note": "Pin at the Jug Handle Arch view area (milepoint-anchored to the Corona Arch trailhead OSM point; UDOT milepost 1.678 measured back from the Potash plant end of SR-279)."
+   }
+  },
+  {
+   "id": "theme:arch-tall-narrow-arch-visible-right-from-the-road",
+   "type": "Theme",
+   "properties": {
+    "name": "Arch · Tall, narrow arch visible right from the road"
+   }
+  },
+  {
+   "id": "place:potash-ponds-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Potash Evaporation Ponds",
+    "place_id": "potash-ponds-ut",
+    "site": "Potash Road (SR-279, Moab)",
+    "city": "Moab",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.47329,
+    "lng": -109.68418,
+    "google_maps_query": "Potash+Evaporation+Ponds+Moab",
+    "best_for": "Viewpoint · Bright blue evaporation ponds at the end of the route",
+    "note": ""
+   }
   }
  ],
  "edges": [
@@ -16386,6 +16566,18 @@
   {
    "from": "reel:Dd0ePLKxuJF",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfYsMN8RuDh",
+   "to": "creator:thewildlifeofrach",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfYsMN8RuDh",
+   "to": "theme:utah-moab-scenic-drives",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -27263,6 +27455,25 @@
    "properties": {}
   },
   {
+   "from": "place:potash-road-ut",
+   "to": "reel:DfYsMN8RuDh",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic drive · Colorado River byway with arches, petroglyphs and dinosaur tracks",
+    "recommendation": "The reel drives this byway (Highway 279) as the Arches alternative: it follows the Colorado River through red canyon walls and packs in six numbered stops — the petroglyph panel, Poison Spider dinosaur tracks, Wall Street climbing walls, Corona Arch, Jug Handle Arch and the blue Potash Ponds. Its tip: the road is paved for the first stretch, then turns to dirt; past that point you want high clearance or 4WD toward Thelma & Louise Point and the Shafer Trail.",
+    "creator": "@thewildlifeofrach",
+    "reel_title": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "reel_theme": "Utah / Moab scenic drives"
+   }
+  },
+  {
+   "from": "place:potash-road-ut",
+   "to": "theme:scenic-drive-colorado-river-byway-with-arches-petroglyphs-and-dinosaur-tracks",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:marlboro-point-ut",
    "to": "state:united-states-utah",
    "type": "LOCATED_IN",
@@ -31418,6 +31629,192 @@
   {
    "from": "place:homans-path-me",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wall-street-moab-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:wall-street-moab-ut",
+   "to": "site:potash-road-sr-279-moab",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wall-street-moab-ut",
+   "to": "reel:DfYsMN8RuDh",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Rock climbing / Scenic drive · Sheer sandstone walls at the pavement",
+    "recommendation": "Stop #3 on the reel's Highway 279 drive: 'Wall Street' — sheer sandstone walls rising right next to the pavement where you can watch climbers in action. It's Moab's most famous roadside climbing zone, a thousand-foot wall running alongside the Colorado River gorge.",
+    "creator": "@thewildlifeofrach",
+    "reel_title": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "reel_theme": "Utah / Moab scenic drives"
+   }
+  },
+  {
+   "from": "place:wall-street-moab-ut",
+   "to": "theme:rock-climbing-scenic-drive-sheer-sandstone-walls-at-the-pavement",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-road-petroglyphs-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-road-petroglyphs-ut",
+   "to": "site:potash-road-sr-279-moab",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-road-petroglyphs-ut",
+   "to": "reel:DfYsMN8RuDh",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Rock art · Ancient petroglyphs at a marked roadside pullout",
+    "recommendation": "Stop #1 on the reel's Highway 279 drive: an ancient petroglyph panel right along the road, with a marked pullout so you can see the rock art without hiking — dozens of carvings (bighorn sheep, hunters, spirals) on the varnished cliff, with BLM interpretive signs.",
+    "creator": "@thewildlifeofrach",
+    "reel_title": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "reel_theme": "Utah / Moab scenic drives"
+   }
+  },
+  {
+   "from": "place:potash-road-petroglyphs-ut",
+   "to": "theme:rock-art-ancient-petroglyphs-at-a-marked-roadside-pullout",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:poison-spider-dinosaur-tracks-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:poison-spider-dinosaur-tracks-ut",
+   "to": "site:potash-road-sr-279-moab",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:poison-spider-dinosaur-tracks-ut",
+   "to": "reel:DfYsMN8RuDh",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Dinosaur tracks · Fossil tracksite a short walk from parking",
+    "recommendation": "Stop #2 on the reel's Highway 279 drive: the Poison Spider tracksite — real three-toed Jurassic dinosaur tracks on rock slabs, a short walk from the trailhead parking; viewing tubes in the BLM area line up on a series of fossilized tracks and a petroglyph panel.",
+    "creator": "@thewildlifeofrach",
+    "reel_title": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "reel_theme": "Utah / Moab scenic drives"
+   }
+  },
+  {
+   "from": "place:poison-spider-dinosaur-tracks-ut",
+   "to": "theme:dinosaur-tracks-fossil-tracksite-a-short-walk-from-parking",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:corona-arch-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:corona-arch-ut",
+   "to": "site:potash-road-sr-279-moab",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:corona-arch-ut",
+   "to": "reel:DfYsMN8RuDh",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Hike / Arch · Massive freestanding arch, ladder + cable section",
+    "recommendation": "Stop #4 on the reel's Highway 279 drive: Corona Arch — a massive freestanding arch (140 by 105 ft, also called Little Rainbow Bridge) on a 3-mile round-trip hike with a short ladder and cable section; the trail also passes Bowtie Arch.",
+    "creator": "@thewildlifeofrach",
+    "reel_title": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "reel_theme": "Utah / Moab scenic drives"
+   }
+  },
+  {
+   "from": "place:corona-arch-ut",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:jug-handle-arch-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:jug-handle-arch-ut",
+   "to": "site:potash-road-sr-279-moab",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:jug-handle-arch-ut",
+   "to": "reel:DfYsMN8RuDh",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Arch · Tall, narrow arch visible right from the road",
+    "recommendation": "Stop #5 on the reel's Highway 279 drive: Jug Handle Arch — a tall, narrow arch visible right from the road at the entrance to Long Canyon; park at the signed turn-off and look up.",
+    "creator": "@thewildlifeofrach",
+    "reel_title": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "reel_theme": "Utah / Moab scenic drives"
+   }
+  },
+  {
+   "from": "place:jug-handle-arch-ut",
+   "to": "theme:arch-tall-narrow-arch-visible-right-from-the-road",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-ponds-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-ponds-ut",
+   "to": "site:potash-road-sr-279-moab",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:potash-ponds-ut",
+   "to": "reel:DfYsMN8RuDh",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Viewpoint · Bright blue evaporation ponds at the end of the route",
+    "recommendation": "Stop #6 on the reel's Highway 279 drive: the Potash Ponds — bright blue evaporation ponds near the end of the route, best seen from above (they're the Intrepid Potash mine's solar evaporation ponds; the paved road ends further on and the route continues on dirt toward Thelma & Louise Point and the Shafer Trail into Canyonlands).",
+    "creator": "@thewildlifeofrach",
+    "reel_title": "Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more",
+    "reel_theme": "Utah / Moab scenic drives"
+   }
+  },
+  {
+   "from": "place:potash-ponds-ut",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
