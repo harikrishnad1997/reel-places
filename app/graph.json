@@ -4168,6 +4168,30 @@
    }
   },
   {
+   "id": "reel:Dd0ePLKxuJF",
+   "type": "Reel",
+   "properties": {
+    "name": "One of the shortest hikes in Acadia might be the most unique: Homans Path",
+    "url": "https://www.instagram.com/reel/Dd0ePLKxuJF/",
+    "title": "One of the shortest hikes in Acadia might be the most unique: Homans Path",
+    "creator": "@the_roamsteaders",
+    "theme": "Maine / Acadia hikes",
+    "places_count": 1,
+    "recommendation_summary": "Homans Path at Sieur de Monts in Acadia National Park — a 0.3-mile historic memorial path of granite staircases and a stone hallway climbing toward Dorr Mountain; pair it with the Wild Gardens of Acadia, Nature Center and Jesup Path boardwalk.",
+    "posted": "2026-09-27",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "creator:the-roamsteaders",
+   "type": "Creator",
+   "properties": {
+    "name": "@the_roamsteaders",
+    "handle": "@the_roamsteaders",
+    "display_name": "The Roamsteaders | RV Travel"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -13720,6 +13744,32 @@
     "best_for": "Sunset / Scenic drive · Mineral-streaked colorful hills",
     "note": ""
    }
+  },
+  {
+   "id": "place:homans-path-me",
+   "type": "Place",
+   "properties": {
+    "name": "Homans Path",
+    "place_id": "homans-path-me",
+    "site": "Acadia National Park (Sieur de Monts)",
+    "city": "Bar Harbor",
+    "state": "Maine",
+    "state_code": "ME",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.36136,
+    "lng": -68.20852,
+    "google_maps_query": "Homans+Path+Acadia",
+    "best_for": "Hike · Short historic stone-step path to Dorr Mountain",
+    "note": "Pin is Sieur de Monts Spring — the trail begins at Sieur de Monts, steps from the spring and the Wild Gardens of Acadia."
+   }
+  },
+  {
+   "id": "site:acadia-national-park-sieur-de-monts",
+   "type": "Site",
+   "properties": {
+    "name": "Acadia National Park (Sieur de Monts)"
+   }
   }
  ],
  "edges": [
@@ -16324,6 +16374,18 @@
   {
    "from": "reel:DfarEsNMIc4",
    "to": "theme:sunset",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd0ePLKxuJF",
+   "to": "creator:the-roamsteaders",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd0ePLKxuJF",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -31325,6 +31387,37 @@
   {
    "from": "place:artists-palette-ca",
    "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:homans-path-me",
+   "to": "state:united-states-me",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:homans-path-me",
+   "to": "site:acadia-national-park-sieur-de-monts",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:homans-path-me",
+   "to": "reel:Dd0ePLKxuJF",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike · Short historic stone-step path to Dorr Mountain",
+    "recommendation": "One of the shortest hikes in Acadia National Park might also be one of the most unique: tucked into the Sieur de Monts area near Bar Harbor, Homans Path is just 0.3 miles one way (0.8 mi out-and-back with ~334 ft of climb) but packs in intricate granite staircases, narrow forest passages, historic stonework, a stone 'hallway' and beautiful views on a short but steep climb. The reel pairs it into a half-day Sieur de Monts itinerary: Wild Gardens of Acadia, the Nature Center, the Jesup Path boardwalk, then Homans Path, with the Island Explorer shuttle as an option. The path is a memorial trail honoring Eliza Lothrop Homans' land donations; it joins the Schiff Path toward the summit of Dorr Mountain.",
+    "creator": "@the_roamsteaders",
+    "reel_title": "One of the shortest hikes in Acadia might be the most unique: Homans Path",
+    "reel_theme": "Maine / Acadia hikes"
+   }
+  },
+  {
+   "from": "place:homans-path-me",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
