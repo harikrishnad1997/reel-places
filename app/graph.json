@@ -4323,6 +4323,30 @@
    }
   },
   {
+   "id": "reel:DfYrTw7t0-W",
+   "type": "Reel",
+   "properties": {
+    "name": "12 bucket-list hikes NOT in national parks",
+    "url": "https://www.instagram.com/reel/DfYrTw7t0-W/",
+    "title": "12 bucket-list hikes NOT in national parks",
+    "creator": "@theadventurepostcard",
+    "theme": "Bucket-list hikes outside national parks",
+    "places_count": 12,
+    "recommendation_summary": "A ranked countdown of 12 bucket-list hikes that are NOT in national parks, from The Wave (#1) to Cathedral Rock (#12): The Wave, Colchuck Lake, Kasha-Katuwe Tent Rocks, Hanging Lake, Ice Lake Basin, Bisti Wings, Blue Lakes, Sawtooth Lake, Awa'awapuhi, Cathedral Spires, Havasu Falls and Cathedral Rock.",
+    "posted": "2026-11-05",
+    "added": "2026-11-07"
+   }
+  },
+  {
+   "id": "creator:theadventurepostcard",
+   "type": "Creator",
+   "properties": {
+    "name": "@theadventurepostcard",
+    "handle": "@theadventurepostcard",
+    "display_name": "Jason + Angie | The Adventure Postcard"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14241,6 +14265,199 @@
    "properties": {
     "name": "McArthur-Burney Falls Memorial State Park"
    }
+  },
+  {
+   "id": "place:the-wave-az",
+   "type": "Place",
+   "properties": {
+    "name": "The Wave",
+    "place_id": "the-wave-az",
+    "site": "Coyote Buttes North (Vermilion Cliffs National Monument)",
+    "city": "Page",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.99596,
+    "lng": -112.00633,
+    "google_maps_query": "The+Wave+Arizona",
+    "best_for": "Hike · Bucket-list hike, #1 of 12",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:coyote-buttes-north-vermilion-cliffs-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Coyote Buttes North (Vermilion Cliffs National Monument)"
+   }
+  },
+  {
+   "id": "place:kasha-katuwe-tent-rocks-nm",
+   "type": "Place",
+   "properties": {
+    "name": "Kasha-Katuwe Tent Rocks",
+    "place_id": "kasha-katuwe-tent-rocks-nm",
+    "site": "Kasha-Katuwe Tent Rocks National Monument",
+    "city": "Cochiti Pueblo",
+    "state": "New Mexico",
+    "state_code": "NM",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 35.65782,
+    "lng": -106.41932,
+    "google_maps_query": "Kasha-Katuwe+Tent+Rocks+National+Monument",
+    "best_for": "Hike · Bucket-list hike, #3 of 12",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-nm",
+   "type": "State",
+   "properties": {
+    "name": "New Mexico",
+    "state_code": "NM",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:kasha-katuwe-tent-rocks-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Kasha-Katuwe Tent Rocks National Monument"
+   }
+  },
+  {
+   "id": "place:hanging-lake-co",
+   "type": "Place",
+   "properties": {
+    "name": "Hanging Lake",
+    "place_id": "hanging-lake-co",
+    "site": "Glenwood Canyon",
+    "city": "Glenwood Springs",
+    "state": "Colorado",
+    "state_code": "CO",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 39.60141,
+    "lng": -107.19177,
+    "google_maps_query": "Hanging+Lake+Colorado",
+    "best_for": "Hike · Bucket-list hike, #4 of 12",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:glenwood-canyon",
+   "type": "Site",
+   "properties": {
+    "name": "Glenwood Canyon"
+   }
+  },
+  {
+   "id": "place:sawtooth-lake-id",
+   "type": "Place",
+   "properties": {
+    "name": "Sawtooth Lake",
+    "place_id": "sawtooth-lake-id",
+    "site": "Sawtooth Wilderness (Sawtooth National Forest)",
+    "city": "Stanley",
+    "state": "Idaho",
+    "state_code": "ID",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 44.17357,
+    "lng": -115.06461,
+    "google_maps_query": "Sawtooth+Lake+Idaho",
+    "best_for": "Hike · Bucket-list hike, #8 of 12",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-id",
+   "type": "State",
+   "properties": {
+    "name": "Idaho",
+    "state_code": "ID",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:sawtooth-wilderness-sawtooth-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Sawtooth Wilderness (Sawtooth National Forest)"
+   }
+  },
+  {
+   "id": "place:awaawapuhi-hi",
+   "type": "Place",
+   "properties": {
+    "name": "Awa'awapuhi Trail",
+    "place_id": "awaawapuhi-hi",
+    "site": "Kōke'e State Park",
+    "city": "Waimea",
+    "state": "Hawaii",
+    "state_code": "HI",
+    "region": "Hawaii",
+    "country": "United States",
+    "lat": 22.14829,
+    "lng": -159.66591,
+    "google_maps_query": "Awaawapuhi+Trail+Kauai",
+    "best_for": "Hike · Bucket-list hike, #9 of 12",
+    "note": "Pin is a point on the trail path; the trailhead is at 22.14140, -159.64874."
+   }
+  },
+  {
+   "id": "site:k-ke-e-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Kōke'e State Park"
+   }
+  },
+  {
+   "id": "place:cathedral-spires-sd",
+   "type": "Place",
+   "properties": {
+    "name": "Cathedral Spires",
+    "place_id": "cathedral-spires-sd",
+    "site": "Custer State Park",
+    "city": "Custer",
+    "state": "South Dakota",
+    "state_code": "SD",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.84855,
+    "lng": -103.53553,
+    "google_maps_query": "Cathedral+Spires+Trail+Custer+State+Park",
+    "best_for": "Hike · Bucket-list hike, #10 of 12",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:cathedral-rock-az",
+   "type": "Place",
+   "properties": {
+    "name": "Cathedral Rock",
+    "place_id": "cathedral-rock-az",
+    "site": "Coconino National Forest (Red Rock)",
+    "city": "Sedona",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 34.83595,
+    "lng": -111.7801,
+    "google_maps_query": "Cathedral+Rock+Trail+Sedona",
+    "best_for": "Hike · Bucket-list hike, #12 of 12",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:coconino-national-forest-red-rock",
+   "type": "Site",
+   "properties": {
+    "name": "Coconino National Forest (Red Rock)"
+   }
   }
  ],
  "edges": [
@@ -16929,6 +17146,18 @@
   {
    "from": "reel:DfZ5L1ivynd",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfYrTw7t0-W",
+   "to": "creator:theadventurepostcard",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfYrTw7t0-W",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -25218,6 +25447,25 @@
    "properties": {}
   },
   {
+   "from": "place:bisti-badlands-nm",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Hike · Bucket-list hike, #6 of 12",
+    "recommendation": "Ranked #6 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Bisti Wings, the wing-shaped hoodoo in the Bisti Badlands. The Wings formation itself has no verifiable mapped point, so this reel is attached to the Bisti Badlands pin as its feature source.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:bisti-badlands-nm",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:factory-butte-ut",
    "to": "state:united-states-utah",
    "type": "LOCATED_IN",
@@ -26091,6 +26339,25 @@
    "properties": {}
   },
   {
+   "from": "place:havasu-falls-az",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 11,
+    "best_for": "Hike · Bucket-list hike, #11 of 12",
+    "recommendation": "Ranked #11 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Havasu Falls in Havasu Canyon, Arizona.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:havasu-falls-az",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:colchuck-lake-wa",
    "to": "state:united-states-washington",
    "type": "LOCATED_IN",
@@ -26144,6 +26411,19 @@
     "creator": "@jessonthewildway",
     "reel_title": "Colchuck Lake — and a mountain goat named Fred",
     "reel_theme": "Colchuck Lake hike"
+   }
+  },
+  {
+   "from": "place:colchuck-lake-wa",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike · Bucket-list hike, #2 of 12",
+    "recommendation": "Ranked #2 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Colchuck Lake in the Enchantments, Washington.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
    }
   },
   {
@@ -28507,6 +28787,19 @@
    "properties": {}
   },
   {
+   "from": "place:ice-lake-basin-co",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Hike · Bucket-list hike, #5 of 12",
+    "recommendation": "Ranked #5 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Ice Lake Basin in the San Juan Mountains, Colorado.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
    "from": "place:mesa-verde-national-park-co",
    "to": "state:united-states-colorado",
    "type": "LOCATED_IN",
@@ -30410,6 +30703,19 @@
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:blue-lakes-co",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Hike · Bucket-list hike, #7 of 12",
+    "recommendation": "Ranked #7 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Blue Lakes below Mount Sneffels, Colorado.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
   },
   {
    "from": "place:cave-of-the-mounds-wi",
@@ -32445,6 +32751,247 @@
   {
    "from": "place:burney-falls-ca",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:the-wave-az",
+   "to": "state:united-states-az",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:the-wave-az",
+   "to": "site:coyote-buttes-north-vermilion-cliffs-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:the-wave-az",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike · Bucket-list hike, #1 of 12",
+    "recommendation": "Ranked #1 in the reel's countdown of 12 bucket-list hikes NOT in national parks: The Wave, the swirling red-and-white sandstone formation in Coyote Buttes North on the Arizona-Utah line. Access is by permit lottery only.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:the-wave-az",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kasha-katuwe-tent-rocks-nm",
+   "to": "state:united-states-nm",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-nm",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-nm",
+   "to": "region:southwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:kasha-katuwe-tent-rocks-nm",
+   "to": "site:kasha-katuwe-tent-rocks-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:kasha-katuwe-tent-rocks-nm",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Hike · Bucket-list hike, #3 of 12",
+    "recommendation": "Ranked #3 in the reel's countdown of 12 bucket-list hikes NOT in national parks: the cone-shaped tent rock formations of Kasha-Katuwe Tent Rocks National Monument, reached by a slot-canyon trail.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:kasha-katuwe-tent-rocks-nm",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hanging-lake-co",
+   "to": "state:united-states-co",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:hanging-lake-co",
+   "to": "site:glenwood-canyon",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:hanging-lake-co",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Hike · Bucket-list hike, #4 of 12",
+    "recommendation": "Ranked #4 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Hanging Lake, the turquoise travertine lake on a cliffside in Glenwood Canyon, reached by a steep climb from the Colorado River.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:hanging-lake-co",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sawtooth-lake-id",
+   "to": "state:united-states-id",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-id",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-id",
+   "to": "region:mountain-west",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:sawtooth-lake-id",
+   "to": "site:sawtooth-wilderness-sawtooth-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:sawtooth-lake-id",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Hike · Bucket-list hike, #8 of 12",
+    "recommendation": "Ranked #8 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Sawtooth Lake, the alpine lake beneath the jagged Sawtooth peaks in Idaho's Sawtooth Wilderness.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:sawtooth-lake-id",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:awaawapuhi-hi",
+   "to": "state:united-states-hi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:awaawapuhi-hi",
+   "to": "site:k-ke-e-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:awaawapuhi-hi",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 9,
+    "best_for": "Hike · Bucket-list hike, #9 of 12",
+    "recommendation": "Ranked #9 in the reel's countdown of 12 bucket-list hikes NOT in national parks: the Awa'awapuhi Trail in Kōke'e State Park, Kauai, a cliffside ridge trail ending above the Nā Pali Coast.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:awaawapuhi-hi",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-spires-sd",
+   "to": "state:united-states-sd",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-spires-sd",
+   "to": "site:custer-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-spires-sd",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 10,
+    "best_for": "Hike · Bucket-list hike, #10 of 12",
+    "recommendation": "Ranked #10 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Cathedral Spires, the granite spires on the Cathedral Spires Trail in Custer State Park, South Dakota.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:cathedral-spires-sd",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-rock-az",
+   "to": "state:united-states-az",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-rock-az",
+   "to": "site:coconino-national-forest-red-rock",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cathedral-rock-az",
+   "to": "reel:DfYrTw7t0-W",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 12,
+    "best_for": "Hike · Bucket-list hike, #12 of 12",
+    "recommendation": "Ranked #12 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Cathedral Rock, the red-rock formation on the Cathedral Rock Trail in Sedona, Arizona.",
+    "creator": "@theadventurepostcard",
+    "reel_title": "12 bucket-list hikes NOT in national parks",
+    "reel_theme": "Bucket-list hikes outside national parks"
+   }
+  },
+  {
+   "from": "place:cathedral-rock-az",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
