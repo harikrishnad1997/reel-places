@@ -4395,6 +4395,30 @@
    }
   },
   {
+   "id": "reel:DcLyRDbxiGY",
+   "type": "Reel",
+   "properties": {
+    "name": "Trail of Ten Falls at Silver Falls State Park — walk under 4 of them",
+    "url": "https://www.instagram.com/reel/DcLyRDbxiGY/",
+    "title": "Trail of Ten Falls at Silver Falls State Park — walk under 4 of them",
+    "creator": "@thetravelingdans",
+    "theme": "Oregon / Pacific Northwest waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "The Trail of Ten Falls at Silver Falls State Park, Oregon — a 7.7-mile loop past ten waterfalls, walking behind four of them; go clockwise from the South Falls lot, $5 parking, no dogs on this trail.",
+    "posted": "2026-08-18",
+    "added": "2026-11-07"
+   }
+  },
+  {
+   "id": "creator:thetravelingdans",
+   "type": "Creator",
+   "properties": {
+    "name": "@thetravelingdans",
+    "handle": "@thetravelingdans",
+    "display_name": "DANNY & DANIE | travel | hiking | road trips"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14668,6 +14692,32 @@
    "properties": {
     "name": "Lake country · Misty dawn lakes in the North Woods"
    }
+  },
+  {
+   "id": "place:trail-of-ten-falls-or",
+   "type": "Place",
+   "properties": {
+    "name": "Trail of Ten Falls",
+    "place_id": "trail-of-ten-falls-or",
+    "site": "Silver Falls State Park",
+    "city": "Silverton",
+    "state": "Oregon",
+    "state_code": "OR",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 44.86609,
+    "lng": -122.6236,
+    "google_maps_query": "Trail+of+Ten+Falls+Silver+Falls+State+Park",
+    "best_for": "Waterfall / Hike · Ten waterfalls on one 7.7-mile loop",
+    "note": "Pin is the Silver Falls State Park point (OSM); the loop starts at the South Falls day-use area per the reel."
+   }
+  },
+  {
+   "id": "site:silver-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Silver Falls State Park"
+   }
   }
  ],
  "edges": [
@@ -17392,6 +17442,18 @@
   {
    "from": "reel:Dfc7s0XMtxX",
    "to": "theme:bucket-list",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcLyRDbxiGY",
+   "to": "creator:thetravelingdans",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcLyRDbxiGY",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -33552,6 +33614,43 @@
   {
    "from": "place:voyageurs-national-park-mn",
    "to": "theme:lake-country-misty-dawn-lakes-in-the-north-woods",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:trail-of-ten-falls-or",
+   "to": "state:united-states-or",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:trail-of-ten-falls-or",
+   "to": "site:silver-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:trail-of-ten-falls-or",
+   "to": "reel:DcLyRDbxiGY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Hike · Ten waterfalls on one 7.7-mile loop",
+    "recommendation": "The best bang-for-your-buck waterfall hike: the 7.7-mile Trail of Ten Falls at Silver Falls State Park, about an hour from Portland — and you get to walk UNDER (behind) four of the falls. The reel's tips: hike the loop clockwise, parking at the South Falls lot to start; bring a credit card ($5 parking at some lots, machines on site); expect to get a little wet walking behind the falls, so bring a rain jacket in colder months; grab the park trail map or an app like AllTrails first, since one or two falls need a side trail; dogs can't hike this trail (take them on the Rim Trail instead); and start early — it's popular.",
+    "creator": "@thetravelingdans",
+    "reel_title": "Trail of Ten Falls at Silver Falls State Park — walk under 4 of them",
+    "reel_theme": "Oregon / Pacific Northwest waterfalls"
+   }
+  },
+  {
+   "from": "place:trail-of-ten-falls-or",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:trail-of-ten-falls-or",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }

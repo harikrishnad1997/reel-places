@@ -18,7 +18,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Southwest Region — 73 places](#southwest)
 - [Mountain West Region — 57 places](#mountain-west)
 - [West Region — 55 places](#west)
-- [Pacific Northwest Region — 21 places](#pacific-northwest)
+- [Pacific Northwest Region — 22 places](#pacific-northwest)
 - [Alaska Region — 29 places](#alaska)
 - [Hawaii Region — 7 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 51 · Southeast 50 · Midwest 45 · Southwest 73 · Mountain West 57 · West 55 · Pacific Northwest 21 · Alaska 29 · Hawaii 7 · U.S. Territories 3 · **Total 391**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 51 · Southeast 50 · Midwest 45 · Southwest 73 · Mountain West 57 · West 55 · Pacific Northwest 22 · Alaska 29 · Hawaii 7 · U.S. Territories 3 · **Total 392**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -3315,7 +3315,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Pacific Northwest Region {#pacific-northwest}
 
-**21 places · Oregon, Washington**
+**22 places · Oregon, Washington**
 
 ### Alpine Lakes Wilderness
 
@@ -3514,13 +3514,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/sol-duc-falls-nature-trail)
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#3 in that reel)
 
+### Silver Falls State Park
+
+#### Oregon
+
+##### Waterfall
+
+- **21. [Trail of Ten Falls](https://www.google.com/maps/search/?api=1&query=Trail+of+Ten+Falls+Silver+Falls+State+Park)** — Silver Falls State Park, Silverton
+  - **Best for:** Waterfall / Hike · Ten waterfalls on one 7.7-mile loop — The best bang-for-your-buck waterfall hike: the 7.7-mile Trail of Ten Falls at Silver Falls State Park, about an hour from Portland — and you get to walk UNDER (behind) four of the falls. The reel's tips: hike the loop clockwise, parking at the South Falls lot to start; bring a credit card ($5 parking at some lots, machines on site); expect to get a little wet walking behind the falls, so bring a rain jacket in colder months; grab the park trail map or an app like AllTrails first, since one or two falls need a side trail; dogs can't hike this trail (take them on the Rim Trail instead); and start early — it's popular.
+  - Pin is the Silver Falls State Park point (OSM); the loop starts at the South Falls day-use area per the reel.
+  - 🎬 Source: [Trail of Ten Falls at Silver Falls State Park — walk under 4 of them](https://www.instagram.com/reel/DcLyRDbxiGY/) by @thetravelingdans (#None in that reel)
+
 ### The Enchantments (Alpine Lakes Wilderness)
 
 #### Washington
 
 ##### Hike
 
-- **21. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
+- **22. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
   - **Best for:** Hike — Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It's a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/colchuck-lake-via-stuart-lake-trail)
   - Coordinates verified against OpenStreetMap.
@@ -4363,6 +4374,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A sunrise hike up Guadalupe Peak in Guadalupe Mountains National Park — the highest point in Texas; added as an additional source on the existing pin.
 - **[Places in the USA you need to visit before you die](https://www.instagram.com/reel/Dfc7s0XMtxX/)** — @tedsalwaystraveling · 13 places · Theme: USA bucket list
   - What the reel recommends: A bucket-list montage of 13 USA landscapes: Napali Coast, Katmai bears, Sequoia, White Mountains fall lake, Maroon Bells, Channel Islands, Voyageurs, Grand Staircase-Escalante arch, Smokies ridges, Rainier waterfall, a San Juan Mountains alpine lake (attached to Ice Lake Basin), Monument Valley, and the North Cascades.
+- **[Trail of Ten Falls at Silver Falls State Park — walk under 4 of them](https://www.instagram.com/reel/DcLyRDbxiGY/)** — @thetravelingdans · 1 places · Theme: Oregon / Pacific Northwest waterfalls
+  - What the reel recommends: The Trail of Ten Falls at Silver Falls State Park, Oregon — a 7.7-mile loop past ten waterfalls, walking behind four of them; go clockwise from the South Falls lot, $5 parking, no dogs on this trail.
 
 ## How this page is updated {#how-this-page-is-updated}
 
