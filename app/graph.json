@@ -4284,6 +4284,45 @@
    }
   },
   {
+   "id": "reel:DdttHNRPV8i",
+   "type": "Reel",
+   "properties": {
+    "name": "Known as the '8th Wonder of the World' — Burney Falls",
+    "url": "https://www.instagram.com/reel/DdttHNRPV8i/",
+    "title": "Known as the '8th Wonder of the World' — Burney Falls",
+    "creator": "@wanderlusttravelcouple",
+    "theme": "California waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "Burney Falls in McArthur-Burney Falls Memorial State Park, California — a 129-ft spring-fed waterfall flowing ~100M gallons a day, year-round, a short walk from parking; summer weekends need reservations.",
+    "posted": "2026-09-25",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "creator:wanderlusttravelcouple",
+   "type": "Creator",
+   "properties": {
+    "name": "@wanderlusttravelcouple",
+    "handle": "@wanderlusttravelcouple",
+    "display_name": "Nick Kokenos & Erica Battle | Adventure Travel"
+   }
+  },
+  {
+   "id": "reel:DfZ5L1ivynd",
+   "type": "Reel",
+   "properties": {
+    "name": "An underground waterfall inside Lookout Mountain: Ruby Falls",
+    "url": "https://www.instagram.com/reel/DfZ5L1ivynd/",
+    "title": "An underground waterfall inside Lookout Mountain: Ruby Falls",
+    "creator": "@wanderlusttravelcouple",
+    "theme": "Tennessee waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "Ruby Falls in Chattanooga, Tennessee — the underground waterfall deep inside Lookout Mountain, reached by elevator and a guided cave walk; added as a second source on the existing pin.",
+    "posted": "2026-11-06",
+    "added": "2026-11-06"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14176,6 +14215,32 @@
    "properties": {
     "name": "Monadnock State Park"
    }
+  },
+  {
+   "id": "place:burney-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Burney Falls",
+    "place_id": "burney-falls-ca",
+    "site": "McArthur-Burney Falls Memorial State Park",
+    "city": "Burney",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 41.01195,
+    "lng": -121.65197,
+    "google_maps_query": "Burney+Falls+California",
+    "best_for": "Waterfall · 129-ft spring-fed falls flowing year-round",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:mcarthur-burney-falls-memorial-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "McArthur-Burney Falls Memorial State Park"
+   }
   }
  ],
  "edges": [
@@ -16840,6 +16905,30 @@
   {
    "from": "reel:De93H7Iyu6a",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdttHNRPV8i",
+   "to": "creator:wanderlusttravelcouple",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdttHNRPV8i",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfZ5L1ivynd",
+   "to": "creator:wanderlusttravelcouple",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfZ5L1ivynd",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -26700,6 +26789,19 @@
    "properties": {}
   },
   {
+   "from": "place:ruby-falls-tn",
+   "to": "reel:DfZ5L1ivynd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Cave tour · Underground waterfall inside Lookout Mountain",
+    "recommendation": "A second take on Ruby Falls: less than 2 hours from both Atlanta and Nashville, the guided tour rides an elevator ~260 ft down into Lookout Mountain, walks about a quarter mile through a cave full of formations, and reaches the falls ~1,120 ft below the surface. Year-round 60°F underground, and heavy rain or snow actually increases the flow. Adult tickets $28.95 per the reel; most people spend 2–3 hours (the tour itself ~90 minutes).",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "An underground waterfall inside Lookout Mountain: Ruby Falls",
+    "reel_theme": "Tennessee waterfalls"
+   }
+  },
+  {
    "from": "place:sandstone-falls-wv",
    "to": "state:united-states-west-virginia",
    "type": "LOCATED_IN",
@@ -32312,6 +32414,37 @@
   {
    "from": "place:mount-monadnock-nh",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:burney-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:burney-falls-ca",
+   "to": "site:mcarthur-burney-falls-memorial-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:burney-falls-ca",
+   "to": "reel:DdttHNRPV8i",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall · 129-ft spring-fed falls flowing year-round",
+    "recommendation": "Known as the '8th Wonder of the World' (Theodore Roosevelt's phrase): Burney Falls, just outside the tiny town of Burney, California — and it's only a short walk from the parking lot. The 129-foot falls push through about 100 million gallons of water a day, and because they're mainly fed by underground springs they flow all year round. A little over an hour from Redding, which the reel suggests as home base. Note from the reel: during peak summer season, weekend visits need a reservation booked in advance (none needed after late September).",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "Known as the '8th Wonder of the World' — Burney Falls",
+    "reel_theme": "California waterfalls"
+   }
+  },
+  {
+   "from": "place:burney-falls-ca",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }

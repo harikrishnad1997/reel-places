@@ -6170,7 +6170,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 18,
    "source_reel_theme": "Best Eastern U.S. waterfalls",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Waterfall / Cave tour · Underground waterfall inside Lookout Mountain",
+     "recommendation": "A second take on Ruby Falls: less than 2 hours from both Atlanta and Nashville, the guided tour rides an elevator ~260 ft down into Lookout Mountain, walks about a quarter mile through a cave full of formations, and reaches the falls ~1,120 ft below the surface. Year-round 60°F underground, and heavy rain or snow actually increases the flow. Adult tickets $28.95 per the reel; most people spend 2–3 hours (the tour itself ~90 minutes).",
+     "source_creator": "@wanderlusttravelcouple",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfZ5L1ivynd/",
+     "source_reel_theme": "Tennessee waterfalls",
+     "source_title": "An underground waterfall inside Lookout Mountain: Ruby Falls"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/tennessee/ruby-falls"
   },
   {
@@ -9989,6 +9999,29 @@
    "source_reel_theme": "New Hampshire hikes",
    "additional_sources": [],
    "alltrails_url": "https://www.alltrails.com/trail/us/new-hampshire/white-dot-to-mount-monadnock"
+  },
+  {
+   "id": "burney-falls-ca",
+   "name": "Burney Falls",
+   "site": "McArthur-Burney Falls Memorial State Park",
+   "city": "Burney",
+   "state": "California",
+   "state_code": "CA",
+   "country": "United States",
+   "region": "West",
+   "region_id": "west",
+   "lat": 41.01195,
+   "lng": -121.65197,
+   "google_maps_query": "Burney+Falls+California",
+   "best_for": "Waterfall · 129-ft spring-fed falls flowing year-round",
+   "recommendation": "Known as the '8th Wonder of the World' (Theodore Roosevelt's phrase): Burney Falls, just outside the tiny town of Burney, California — and it's only a short walk from the parking lot. The 129-foot falls push through about 100 million gallons of water a day, and because they're mainly fed by underground springs they flow all year round. A little over an hour from Redding, which the reel suggests as home base. Note from the reel: during peak summer season, weekend visits need a reservation booked in advance (none needed after late September).",
+   "source_reel": "https://www.instagram.com/reel/DdttHNRPV8i/",
+   "source_title": "Known as the '8th Wonder of the World' — Burney Falls",
+   "source_creator": "@wanderlusttravelcouple",
+   "source_rank": null,
+   "source_reel_theme": "California waterfalls",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/california/burney-falls-loop-trail"
   }
  ],
  "updated": "2026-11-02",
