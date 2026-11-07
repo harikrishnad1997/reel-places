@@ -4223,6 +4223,30 @@
    }
   },
   {
+   "id": "reel:DfZ6r8JR336",
+   "type": "Reel",
+   "properties": {
+    "name": "Michigan fall itinerary — no mountains, so waterfalls",
+    "url": "https://www.instagram.com/reel/DfZ6r8JR336/",
+    "title": "Michigan fall itinerary — no mountains, so waterfalls",
+    "creator": "@braden_vanham",
+    "theme": "Michigan fall / waterfalls",
+    "places_count": 5,
+    "recommendation_summary": "A Michigan fall itinerary of waterfalls (plus one bridge): Chapel Falls and Miners Falls in Pictured Rocks, Kitch-iti-kipi spring, Wagner Falls near Munising, and the SkyBridge at Boyne Mountain over a valley of fall colors.",
+    "posted": "2026-11-06",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "creator:braden-vanham",
+   "type": "Creator",
+   "properties": {
+    "name": "@braden_vanham",
+    "handle": "@braden_vanham",
+    "display_name": "Braden VanHam"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -13099,6 +13123,13 @@
    }
   },
   {
+   "id": "theme:spring-turquoise-big-spring-on-a-self-propelled-raft",
+   "type": "Theme",
+   "properties": {
+    "name": "Spring · Turquoise big spring on a self-propelled raft"
+   }
+  },
+  {
    "id": "place:mount-mitchell-nc",
    "type": "Place",
    "properties": {
@@ -13948,6 +13979,96 @@
     "lng": -109.68418,
     "google_maps_query": "Potash+Evaporation+Ponds+Moab",
     "best_for": "Viewpoint · Bright blue evaporation ponds at the end of the route",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:chapel-falls-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Chapel Falls",
+    "place_id": "chapel-falls-mi",
+    "site": "Pictured Rocks National Lakeshore",
+    "city": "Munising",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 46.52898,
+    "lng": -86.44432,
+    "google_maps_query": "Chapel+Falls+Pictured+Rocks",
+    "best_for": "Waterfall / Hike · Cascading falls on the Chapel Loop",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:wagner-falls-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Wagner Falls",
+    "place_id": "wagner-falls-mi",
+    "site": "Wagner Falls Scenic Site",
+    "city": "Munising",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 46.38802,
+    "lng": -86.64745,
+    "google_maps_query": "Wagner+Falls+Michigan",
+    "best_for": "Waterfall · Small wooded falls on a short boardwalk walk",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:wagner-falls-scenic-site",
+   "type": "Site",
+   "properties": {
+    "name": "Wagner Falls Scenic Site"
+   }
+  },
+  {
+   "id": "place:skybridge-michigan-mi",
+   "type": "Place",
+   "properties": {
+    "name": "SkyBridge Michigan",
+    "place_id": "skybridge-michigan-mi",
+    "site": "Boyne Mountain Resort",
+    "city": "Boyne Falls",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 45.15862,
+    "lng": -84.93894,
+    "google_maps_query": "SkyBridge+Michigan+Boyne+Mountain",
+    "best_for": "Suspension bridge / Viewpoint · World's longest timber-towered suspension bridge",
+    "note": "Pin is Boyne Mountain summit (OSM peak point); the bridge spans the mountaintop between McLouth and Disciples Ridge peaks at the resort (1 Boyne Mountain Rd, Boyne Falls)."
+   }
+  },
+  {
+   "id": "site:boyne-mountain-resort",
+   "type": "Site",
+   "properties": {
+    "name": "Boyne Mountain Resort"
+   }
+  },
+  {
+   "id": "place:miners-falls-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Miners Falls",
+    "place_id": "miners-falls-mi",
+    "site": "Pictured Rocks National Lakeshore",
+    "city": "Munising",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 46.47472,
+    "lng": -86.53141,
+    "google_maps_query": "Miners+Falls+Michigan",
+    "best_for": "Waterfall / Hike · Powerful 50-foot falls you can stand beside",
     "note": ""
    }
   }
@@ -16578,6 +16699,18 @@
   {
    "from": "reel:DfYsMN8RuDh",
    "to": "theme:utah-moab-scenic-drives",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfZ6r8JR336",
+   "to": "creator:braden-vanham",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfZ6r8JR336",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -30748,6 +30881,25 @@
    "properties": {}
   },
   {
+   "from": "place:kitch-iti-kipi-mi",
+   "to": "reel:DfZ6r8JR336",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Spring · Turquoise big spring on a self-propelled raft",
+    "recommendation": "Also on this Michigan fall itinerary: Kitch-iti-kipi shown from the wooden viewing platform/raft — the bright turquoise spring with other visitors taking in the crystal-clear water.",
+    "creator": "@braden_vanham",
+    "reel_title": "Michigan fall itinerary — no mountains, so waterfalls",
+    "reel_theme": "Michigan fall / waterfalls"
+   }
+  },
+  {
+   "from": "place:kitch-iti-kipi-mi",
+   "to": "theme:spring-turquoise-big-spring-on-a-self-propelled-raft",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:mount-mitchell-nc",
    "to": "state:united-states-nc",
    "type": "LOCATED_IN",
@@ -31815,6 +31967,142 @@
   {
    "from": "place:potash-ponds-ut",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chapel-falls-mi",
+   "to": "state:united-states-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:chapel-falls-mi",
+   "to": "site:pictured-rocks-national-lakeshore",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:chapel-falls-mi",
+   "to": "reel:DfZ6r8JR336",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Hike · Cascading falls on the Chapel Loop",
+    "recommendation": "The reel opens at Chapel Falls — a cascading waterfall in the forest on the Chapel Loop in Pictured Rocks: Chapel Creek drops about 60 feet over sandstone ledges on its way to Chapel Lake. (The loop's other pin, Chapel Rock, is on the lakeshore section of the same trail.)",
+    "creator": "@braden_vanham",
+    "reel_title": "Michigan fall itinerary — no mountains, so waterfalls",
+    "reel_theme": "Michigan fall / waterfalls"
+   }
+  },
+  {
+   "from": "place:chapel-falls-mi",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chapel-falls-mi",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wagner-falls-mi",
+   "to": "state:united-states-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:wagner-falls-mi",
+   "to": "site:wagner-falls-scenic-site",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wagner-falls-mi",
+   "to": "reel:DfZ6r8JR336",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall · Small wooded falls on a short boardwalk walk",
+    "recommendation": "One of the reel's Michigan fall stops: Wagner Falls, a smaller wooded waterfall just south of Munising, reached by a short boardwalk trail through the pines — Wagner Creek cascades over rock shelves in a hemlock-shaded gorge.",
+    "creator": "@braden_vanham",
+    "reel_title": "Michigan fall itinerary — no mountains, so waterfalls",
+    "reel_theme": "Michigan fall / waterfalls"
+   }
+  },
+  {
+   "from": "place:wagner-falls-mi",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:skybridge-michigan-mi",
+   "to": "state:united-states-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:skybridge-michigan-mi",
+   "to": "site:boyne-mountain-resort",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:skybridge-michigan-mi",
+   "to": "reel:DfZ6r8JR336",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Suspension bridge / Viewpoint · World's longest timber-towered suspension bridge",
+    "recommendation": "The reel's SkyBridge stop: SkyBridge Michigan at Boyne Mountain — the world's longest timber-towered suspension bridge, 1,200 feet across the valley between McLouth and Disciples Ridge peaks, ~118 feet above the forest floor. In the reel he's on the bridge wearing a cap and black jacket, overlooking a valley of fall colors; you ride a scenic chairlift to the top to cross it.",
+    "creator": "@braden_vanham",
+    "reel_title": "Michigan fall itinerary — no mountains, so waterfalls",
+    "reel_theme": "Michigan fall / waterfalls"
+   }
+  },
+  {
+   "from": "place:skybridge-michigan-mi",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:miners-falls-mi",
+   "to": "state:united-states-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:miners-falls-mi",
+   "to": "site:pictured-rocks-national-lakeshore",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:miners-falls-mi",
+   "to": "reel:DfZ6r8JR336",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Hike · Powerful 50-foot falls you can stand beside",
+    "recommendation": "The reel's finale: Miners Falls in Pictured Rocks — a powerful ~50-foot waterfall where the Miners River plunges over a sandstone outcrop; he stands close to the falls on the wet rocks giving a thumbs-up. A short gravel trail from the Miners Castle area parking leads to viewing platforms above and beside the drop.",
+    "creator": "@braden_vanham",
+    "reel_title": "Michigan fall itinerary — no mountains, so waterfalls",
+    "reel_theme": "Michigan fall / waterfalls"
+   }
+  },
+  {
+   "from": "place:miners-falls-mi",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:miners-falls-mi",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
