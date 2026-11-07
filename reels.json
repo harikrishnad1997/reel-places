@@ -3383,6 +3383,20 @@
    ],
    "places_count": 12,
    "recommendation_summary": "A ranked countdown of 12 bucket-list hikes that are NOT in national parks, from The Wave (#1) to Cathedral Rock (#12): The Wave, Colchuck Lake, Kasha-Katuwe Tent Rocks, Hanging Lake, Ice Lake Basin, Bisti Wings, Blue Lakes, Sawtooth Lake, Awa'awapuhi, Cathedral Spires, Havasu Falls and Cathedral Rock."
+  },
+  {
+   "url": "https://www.instagram.com/reel/Deb8XEtRmcz/",
+   "title": "Sunrise hike at Guadalupe Peak, the highest point in Texas",
+   "creator": "@serg.goes",
+   "creator_name": "Serg | Travel & Adventure",
+   "theme": "Texas hikes",
+   "posted": "2026-10-13",
+   "added": "2026-11-07",
+   "place_ids": [
+    "guadalupe-peak-tx"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "A sunrise hike up Guadalupe Peak in Guadalupe Mountains National Park — the highest point in Texas; added as an additional source on the existing pin."
   }
  ]
 }

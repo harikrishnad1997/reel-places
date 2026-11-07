@@ -1949,6 +1949,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [Epic USA hikes — how many have you done?](https://www.instagram.com/reel/DfVZYUEytWt/) by @ashleyemckee
     - **Best for:** Hike — One of the reel's epic USA hikes: the climb up Guadalupe Peak, the highest point in Texas, listed at 8 miles.
+  - 🎬 Also recommended by: [Sunrise hike at Guadalupe Peak, the highest point in Texas](https://www.instagram.com/reel/Deb8XEtRmcz/) by @serg.goes
+    - **Best for:** Hike / Sunrise · Top-of-Texas summit at dawn — Serg's take is a sunrise hike up Guadalupe Peak — starting in the dark to stand on the highest point in Texas (8,751 ft) as the sun comes up over the desert.
 
 ### Hanksville
 
@@ -4296,6 +4298,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Ruby Falls in Chattanooga, Tennessee — the underground waterfall deep inside Lookout Mountain, reached by elevator and a guided cave walk; added as a second source on the existing pin.
 - **[12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/)** — @theadventurepostcard · 12 places · Theme: Bucket-list hikes outside national parks
   - What the reel recommends: A ranked countdown of 12 bucket-list hikes that are NOT in national parks, from The Wave (#1) to Cathedral Rock (#12): The Wave, Colchuck Lake, Kasha-Katuwe Tent Rocks, Hanging Lake, Ice Lake Basin, Bisti Wings, Blue Lakes, Sawtooth Lake, Awa'awapuhi, Cathedral Spires, Havasu Falls and Cathedral Rock.
+- **[Sunrise hike at Guadalupe Peak, the highest point in Texas](https://www.instagram.com/reel/Deb8XEtRmcz/)** — @serg.goes · 1 places · Theme: Texas hikes
+  - What the reel recommends: A sunrise hike up Guadalupe Peak in Guadalupe Mountains National Park — the highest point in Texas; added as an additional source on the existing pin.
 
 ## How this page is updated {#how-this-page-is-updated}
 
