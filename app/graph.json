@@ -4247,6 +4247,28 @@
    }
   },
   {
+   "id": "reel:DfbItoFgJHj",
+   "type": "Reel",
+   "properties": {
+    "name": "People pay hundreds for Antelope Canyon — almost no one knows this slot canyon near Zion",
+    "url": "https://www.instagram.com/reel/DfbItoFgJHj/",
+    "title": "People pay hundreds for Antelope Canyon — almost no one knows this slot canyon near Zion",
+    "creator": "@adventurefamilyvlog",
+    "theme": "Utah hidden gems / slot canyons",
+    "places_count": 1,
+    "recommendation_summary": "Crimson Canyon, a private-access slot canyon near Orderville/East Zion, Utah — Antelope-style red walls without the crowds, reachable only on a guided tour (they used East Zion Adventures, ~2 hrs with a UTV ride in).",
+    "posted": "2026-11-06",
+    "added": "2026-11-06"
+   }
+  },
+  {
+   "id": "theme:utah-hidden-gems-slot-canyons",
+   "type": "Theme",
+   "properties": {
+    "name": "Utah hidden gems / slot canyons"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14071,6 +14093,39 @@
     "best_for": "Waterfall / Hike · Powerful 50-foot falls you can stand beside",
     "note": ""
    }
+  },
+  {
+   "id": "place:crimson-canyon-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Crimson Canyon",
+    "place_id": "crimson-canyon-ut",
+    "site": "East Zion (Orderville)",
+    "city": "Orderville",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 37.276,
+    "lng": -112.6408,
+    "google_maps_query": "Crimson+Canyon+East+Zion+Adventures+Orderville",
+    "best_for": "Slot canyon / Guided tour · Antelope-style canyon without the crowds",
+    "note": "Pin is the tour meeting point in Orderville (15 E State St — check-in at the Sinclair station coffee shop, per East Zion Adventures' listings); the canyon itself is on private land reached by UTV and has no public coordinates."
+   }
+  },
+  {
+   "id": "site:east-zion-orderville",
+   "type": "Site",
+   "properties": {
+    "name": "East Zion (Orderville)"
+   }
+  },
+  {
+   "id": "theme:slot-canyon-guided-tour-antelope-style-canyon-without-the-crowds",
+   "type": "Theme",
+   "properties": {
+    "name": "Slot canyon / Guided tour · Antelope-style canyon without the crowds"
+   }
   }
  ],
  "edges": [
@@ -16711,6 +16766,18 @@
   {
    "from": "reel:DfZ6r8JR336",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfbItoFgJHj",
+   "to": "creator:adventurefamilyvlog",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfbItoFgJHj",
+   "to": "theme:utah-hidden-gems-slot-canyons",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -32103,6 +32170,37 @@
   {
    "from": "place:miners-falls-mi",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:crimson-canyon-ut",
+   "to": "state:united-states-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:crimson-canyon-ut",
+   "to": "site:east-zion-orderville",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:crimson-canyon-ut",
+   "to": "reel:DfbItoFgJHj",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Slot canyon / Guided tour · Antelope-style canyon without the crowds",
+    "recommendation": "The reel's pitch: people pay hundreds to visit Antelope Canyon, but almost no one knows about this slot canyon near Zion — towering red sandstone walls (100+ ft high, 6–10 ft wide), winding passageways and incredible photo opportunities WITHOUT the crowds. The catch, stated honestly in the reel: Crimson Canyon itself has no entrance fee, but you can't access it independently because the route crosses private property — you book a guided tour with a company that has permission. They booked East Zion Adventures and loved it: a ~2-hour trip, UTV ride into the backcountry from Orderville, then a guided hike with short climbs (obstacles up to ~10 ft).",
+    "creator": "@adventurefamilyvlog",
+    "reel_title": "People pay hundreds for Antelope Canyon — almost no one knows this slot canyon near Zion",
+    "reel_theme": "Utah hidden gems / slot canyons"
+   }
+  },
+  {
+   "from": "place:crimson-canyon-ut",
+   "to": "theme:slot-canyon-guided-tour-antelope-style-canyon-without-the-crowds",
    "type": "BEST_FOR",
    "properties": {}
   }
