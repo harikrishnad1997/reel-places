@@ -4269,6 +4269,21 @@
    }
   },
   {
+   "id": "reel:De93H7Iyu6a",
+   "type": "Reel",
+   "properties": {
+    "name": "Mt. Monadnock in New Hampshire",
+    "url": "https://www.instagram.com/reel/De93H7Iyu6a/",
+    "title": "Mt. Monadnock in New Hampshire",
+    "creator": "@calvin_on_the_internet",
+    "theme": "New Hampshire hikes",
+    "places_count": 1,
+    "recommendation_summary": "Mount Monadnock in Jaffrey, New Hampshire — the iconic 3,165-ft solitary peak in Monadnock State Park, climbed via the White Dot Trail to a bare summit with six-state views on clear days.",
+    "posted": "2026-10-26",
+    "added": "2026-11-06"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14126,6 +14141,41 @@
    "properties": {
     "name": "Slot canyon / Guided tour · Antelope-style canyon without the crowds"
    }
+  },
+  {
+   "id": "place:mount-monadnock-nh",
+   "type": "Place",
+   "properties": {
+    "name": "Mount Monadnock",
+    "place_id": "mount-monadnock-nh",
+    "site": "Monadnock State Park",
+    "city": "Jaffrey",
+    "state": "New Hampshire",
+    "state_code": "NH",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 42.86151,
+    "lng": -72.10801,
+    "google_maps_query": "Mount+Monadnock+New+Hampshire",
+    "best_for": "Hike / Summit · Bare rocky summit with 360° views",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-nh",
+   "type": "State",
+   "properties": {
+    "name": "New Hampshire",
+    "state_code": "NH",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:monadnock-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Monadnock State Park"
+   }
   }
  ],
  "edges": [
@@ -16778,6 +16828,18 @@
   {
    "from": "reel:DfbItoFgJHj",
    "to": "theme:utah-hidden-gems-slot-canyons",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:De93H7Iyu6a",
+   "to": "creator:calvin-on-the-internet",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:De93H7Iyu6a",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -32201,6 +32263,55 @@
   {
    "from": "place:crimson-canyon-ut",
    "to": "theme:slot-canyon-guided-tour-antelope-style-canyon-without-the-crowds",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-monadnock-nh",
+   "to": "state:united-states-nh",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-nh",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-nh",
+   "to": "region:northeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-monadnock-nh",
+   "to": "site:monadnock-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-monadnock-nh",
+   "to": "reel:De93H7Iyu6a",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Summit · Bare rocky summit with 360° views",
+    "recommendation": "Calvin's reel takes on Mt. Monadnock in southern New Hampshire — the 3,165-ft peak that gave 'monadnock' its name (an isolated mountain rising from the plain), reputed to be one of the most-climbed mountains in the world. The classic route is the White Dot Trail up from the state park headquarters (3.4–3.6 mi round trip, ~1,750 ft gain, with rock scrambles and stone steps) and down the White Cross — the bare, rocky summit opens to sweeping views across southern New Hampshire and, on clear days, all six New England states. A National Natural Landmark with a literary streak: Emerson and Thoreau both climbed and wrote about it. No dogs allowed on the mountain.",
+    "creator": "@calvin_on_the_internet",
+    "reel_title": "Mt. Monadnock in New Hampshire",
+    "reel_theme": "New Hampshire hikes"
+   }
+  },
+  {
+   "from": "place:mount-monadnock-nh",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-monadnock-nh",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
