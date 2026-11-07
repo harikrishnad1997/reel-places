@@ -4371,6 +4371,30 @@
    }
   },
   {
+   "id": "reel:Dfc7s0XMtxX",
+   "type": "Reel",
+   "properties": {
+    "name": "Places in the USA you need to visit before you die",
+    "url": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+    "title": "Places in the USA you need to visit before you die",
+    "creator": "@tedsalwaystraveling",
+    "theme": "USA bucket list",
+    "places_count": 13,
+    "recommendation_summary": "A bucket-list montage of 13 USA landscapes: Napali Coast, Katmai bears, Sequoia, White Mountains fall lake, Maroon Bells, Channel Islands, Voyageurs, Grand Staircase-Escalante arch, Smokies ridges, Rainier waterfall, a San Juan Mountains alpine lake (attached to Ice Lake Basin), Monument Valley, and the North Cascades.",
+    "posted": "2026-11-07",
+    "added": "2026-11-07"
+   }
+  },
+  {
+   "id": "creator:tedsalwaystraveling",
+   "type": "Creator",
+   "properties": {
+    "name": "@tedsalwaystraveling",
+    "handle": "@tedsalwaystraveling",
+    "display_name": "Ted Mureiko | Solo Traveler and Photographer"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -5208,6 +5232,13 @@
     "google_maps_query": "Sequoia+National+Park+CA",
     "best_for": "Top national park",
     "note": ""
+   }
+  },
+  {
+   "id": "theme:forest-walking-among-giant-sequoia-trunks",
+   "type": "Theme",
+   "properties": {
+    "name": "Forest · Walking among giant sequoia trunks"
    }
   },
   {
@@ -6117,6 +6148,13 @@
     "google_maps_query": "Great+Smoky+Mountains+National+Park+TN",
     "best_for": "Top national park (East)",
     "note": ""
+   }
+  },
+  {
+   "id": "theme:scenic-layered-blue-ridges-in-fog",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic · Layered blue ridges in fog"
    }
   },
   {
@@ -7248,6 +7286,13 @@
     "google_maps_query": "North+Cascades+National+Park+North+Cascades+National+Park+WA",
     "best_for": "Hike",
     "note": "Park-level pin is the park's Nominatim point in the Ross Lake area."
+   }
+  },
+  {
+   "id": "theme:alpine-rocky-high-altitude-vista",
+   "type": "Theme",
+   "properties": {
+    "name": "Alpine · Rocky high-altitude vista"
    }
   },
   {
@@ -9143,6 +9188,13 @@
    "type": "Site",
    "properties": {
     "name": "Monument Valley Navajo Tribal Park"
+   }
+  },
+  {
+   "id": "theme:desert-icon-red-rock-buttes-and-the-famous-dirt-road",
+   "type": "Theme",
+   "properties": {
+    "name": "Desert icon · Red rock buttes and the famous dirt road"
    }
   },
   {
@@ -11119,6 +11171,13 @@
    "type": "Site",
    "properties": {
     "name": "Ice Lake Basin (San Juan Mountains)"
+   }
+  },
+  {
+   "id": "theme:alpine-lake-swimming-in-a-san-juan-mountains-lake",
+   "type": "Theme",
+   "properties": {
+    "name": "Alpine lake · Swimming in a San Juan Mountains lake"
    }
   },
   {
@@ -14482,6 +14541,133 @@
    "properties": {
     "name": "Coconino National Forest (Red Rock)"
    }
+  },
+  {
+   "id": "place:napali-coast-hi",
+   "type": "Place",
+   "properties": {
+    "name": "Napali Coast",
+    "place_id": "napali-coast-hi",
+    "site": "Na Pali Coast State Wilderness Park",
+    "city": "Kauai",
+    "state": "Hawaii",
+    "state_code": "HI",
+    "region": "Hawaii",
+    "country": "United States",
+    "lat": 22.1682,
+    "lng": -159.65773,
+    "google_maps_query": "Napali+Coast+State+Wilderness+Park",
+    "best_for": "Coast / Hike · Dramatic green sea cliffs of Kauai",
+    "note": "Pin is the Na Pali Coast State Wilderness Park point published by Hawaii DLNR; the reel's shot is the coast from the water."
+   }
+  },
+  {
+   "id": "site:na-pali-coast-state-wilderness-park",
+   "type": "Site",
+   "properties": {
+    "name": "Na Pali Coast State Wilderness Park"
+   }
+  },
+  {
+   "id": "place:maroon-bells-co",
+   "type": "Place",
+   "properties": {
+    "name": "Maroon Bells",
+    "place_id": "maroon-bells-co",
+    "site": "Maroon Bells Scenic Area",
+    "city": "Aspen",
+    "state": "Colorado",
+    "state_code": "CO",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 39.09979,
+    "lng": -106.94222,
+    "google_maps_query": "Maroon+Bells+Colorado",
+    "best_for": "Scenic / Hike · Jagged peaks and golden aspens over Maroon Lake",
+    "note": "Pin is the Maroon Bells shuttle stop at Maroon Lake (OSM point)."
+   }
+  },
+  {
+   "id": "site:maroon-bells-scenic-area",
+   "type": "Site",
+   "properties": {
+    "name": "Maroon Bells Scenic Area"
+   }
+  },
+  {
+   "id": "place:white-mountains-nh",
+   "type": "Place",
+   "properties": {
+    "name": "White Mountains",
+    "place_id": "white-mountains-nh",
+    "site": "White Mountain National Forest",
+    "city": "North Conway",
+    "state": "New Hampshire",
+    "state_code": "NH",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 44.11337,
+    "lng": -71.51803,
+    "google_maps_query": "White+Mountain+National+Forest",
+    "best_for": "Scenic / Fall color · Mirror lake reflecting autumn forest",
+    "note": "Scene-level entry: the film shows a fall lake scene identified as the White Mountains; the pin is the White Mountain National Forest point, not a specific lake."
+   }
+  },
+  {
+   "id": "site:white-mountain-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "White Mountain National Forest"
+   }
+  },
+  {
+   "id": "theme:scenic-fall-color-mirror-lake-reflecting-autumn-forest",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic / Fall color · Mirror lake reflecting autumn forest"
+   }
+  },
+  {
+   "id": "place:voyageurs-national-park-mn",
+   "type": "Place",
+   "properties": {
+    "name": "Voyageurs National Park",
+    "place_id": "voyageurs-national-park-mn",
+    "site": "Voyageurs National Park",
+    "city": "International Falls",
+    "state": "Minnesota",
+    "state_code": "MN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 48.46555,
+    "lng": -92.8854,
+    "google_maps_query": "Voyageurs+National+Park",
+    "best_for": "Lake country · Misty dawn lakes in the North Woods",
+    "note": ""
+   }
+  },
+  {
+   "id": "state:united-states-mn",
+   "type": "State",
+   "properties": {
+    "name": "Minnesota",
+    "state_code": "MN",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:voyageurs-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "Voyageurs National Park"
+   }
+  },
+  {
+   "id": "theme:lake-country-misty-dawn-lakes-in-the-north-woods",
+   "type": "Theme",
+   "properties": {
+    "name": "Lake country · Misty dawn lakes in the North Woods"
+   }
   }
  ],
  "edges": [
@@ -17198,6 +17384,18 @@
    "properties": {}
   },
   {
+   "from": "reel:Dfc7s0XMtxX",
+   "to": "creator:tedsalwaystraveling",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfc7s0XMtxX",
+   "to": "theme:bucket-list",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -18738,6 +18936,25 @@
    "properties": {}
   },
   {
+   "from": "place:sequoia-national-park-ca",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Forest · Walking among giant sequoia trunks",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Massive sequoia trunks — the Giant Forest's ancient trees.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:sequoia-national-park-ca",
+   "to": "theme:forest-walking-among-giant-sequoia-trunks",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:wrangell-st-elias-national-park-and-preserve-ak",
    "to": "state:united-states-ak",
    "type": "LOCATED_IN",
@@ -18948,6 +19165,25 @@
   {
    "from": "place:mount-rainier-national-park-wa",
    "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mount-rainier-national-park-wa",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Mountain · Falls with Rainier behind",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A waterfall with snow-capped Mount Rainier behind it.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:mount-rainier-national-park-wa",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -19878,6 +20114,25 @@
    "properties": {}
   },
   {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Wildlife · Brown bears fishing the falls",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Brown bears fishing in a river — Katmai's Brooks Falls bear scene.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:wasson-peak-az",
    "to": "state:united-states-az",
    "type": "LOCATED_IN",
@@ -20758,6 +21013,25 @@
     "reel_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
     "reel_theme": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)"
    }
+  },
+  {
+   "from": "place:great-smoky-mountains-national-park-tn",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic · Layered blue ridges in fog",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Layered blue ridges shrouded in fog — the Smokies' signature view.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:great-smoky-mountains-national-park-tn",
+   "to": "theme:scenic-layered-blue-ridges-in-fog",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:everglades-national-park-fl",
@@ -23114,6 +23388,25 @@
    "properties": {}
   },
   {
+   "from": "place:north-cascades-national-park-wa",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Alpine · Rocky high-altitude vista",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A rocky high-altitude vista among the North Cascades' jagged peaks.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:north-cascades-national-park-wa",
+   "to": "theme:alpine-rocky-high-altitude-vista",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:glacier-national-park-mt",
    "to": "state:united-states-mt",
    "type": "LOCATED_IN",
@@ -23584,6 +23877,25 @@
   {
    "from": "place:channel-islands-national-park-ca",
    "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:channel-islands-national-park-ca",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Coast / Sunset · Standing on a cliff at sunset",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A person standing on a cliff at sunset above the Pacific.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:channel-islands-national-park-ca",
+   "to": "theme:sunset",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -26258,6 +26570,25 @@
    "properties": {}
   },
   {
+   "from": "place:monument-valley-ut",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Desert icon · Red rock buttes and the famous dirt road",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The red rock buttes and dirt road of Monument Valley.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:monument-valley-ut",
+   "to": "theme:desert-icon-red-rock-buttes-and-the-famous-dirt-road",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:page-az",
    "to": "state:united-states-arizona",
    "type": "LOCATED_IN",
@@ -27986,6 +28317,25 @@
    "properties": {}
   },
   {
+   "from": "place:grand-staircase-escalante-nm-ut",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Arch / Hike · Walking under a natural sandstone arch",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A silhouetted figure walking under a natural sandstone arch in the Escalante canyons.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:grand-staircase-escalante-nm-ut",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:long-dong-silver-ut",
    "to": "state:united-states-utah",
    "type": "LOCATED_IN",
@@ -28853,6 +29203,25 @@
     "reel_title": "12 bucket-list hikes NOT in national parks",
     "reel_theme": "Bucket-list hikes outside national parks"
    }
+  },
+  {
+   "from": "place:ice-lake-basin-co",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Alpine lake · Swimming in a San Juan Mountains lake",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The montage's San Juan Mountains scene is a swimmer in an alpine lake; it is attached here because Ice Lake Basin is the San Juans' signature alpine lake — the film does not name the specific lake.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:ice-lake-basin-co",
+   "to": "theme:alpine-lake-swimming-in-a-san-juan-mountains-lake",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:mesa-verde-national-park-co",
@@ -33047,6 +33416,142 @@
   {
    "from": "place:cathedral-rock-az",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:napali-coast-hi",
+   "to": "state:united-states-hi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:napali-coast-hi",
+   "to": "site:na-pali-coast-state-wilderness-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:napali-coast-hi",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Coast / Hike · Dramatic green sea cliffs of Kauai",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The montage shows the dramatic green cliffs of the Napali Coast viewed from a boat — Kauai's 16-mile wall of fluted 4,000-ft cliffs, otherwise reached only by the Kalalau Trail or by air.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:napali-coast-hi",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:maroon-bells-co",
+   "to": "state:united-states-co",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:maroon-bells-co",
+   "to": "site:maroon-bells-scenic-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:maroon-bells-co",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic / Hike · Jagged peaks and golden aspens over Maroon Lake",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The jagged Maroon Creek peaks with golden aspens — North and South Maroon Peaks reflected in Maroon Lake, the most photographed mountains in Colorado (shuttle/reservation access from Aspen in season).",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:maroon-bells-co",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:white-mountains-nh",
+   "to": "state:united-states-nh",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:white-mountains-nh",
+   "to": "site:white-mountain-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:white-mountains-nh",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic / Fall color · Mirror lake reflecting autumn forest",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The montage's fall scene: a mirror-like lake reflecting fall colors in New Hampshire's White Mountains — the Presidential Range country of Mount Washington, Kancamagus Highway foliage and alpine lakes.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:white-mountains-nh",
+   "to": "theme:scenic-fall-color-mirror-lake-reflecting-autumn-forest",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:voyageurs-national-park-mn",
+   "to": "state:united-states-mn",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-mn",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-mn",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:voyageurs-national-park-mn",
+   "to": "site:voyageurs-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:voyageurs-national-park-mn",
+   "to": "reel:Dfc7s0XMtxX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Lake country · Misty dawn lakes in the North Woods",
+    "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Mist rising over a calm lake at dawn — Minnesota's water-based national park, a maze of island lakes on the Canadian border explored by boat and houseboat.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Places in the USA you need to visit before you die",
+    "reel_theme": "USA bucket list"
+   }
+  },
+  {
+   "from": "place:voyageurs-national-park-mn",
+   "to": "theme:lake-country-misty-dawn-lakes-in-the-north-woods",
    "type": "BEST_FOR",
    "properties": {}
   }

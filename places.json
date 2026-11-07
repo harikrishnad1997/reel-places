@@ -862,7 +862,18 @@
    "source_reel_theme": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
    "source_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
    "state": "California",
-   "state_code": "CA"
+   "state_code": "CA",
+   "additional_sources": [
+    {
+     "best_for": "Forest · Walking among giant sequoia trunks",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Massive sequoia trunks — the Giant Forest's ancient trees.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
+    }
+   ]
   },
   {
    "additional_sources": [
@@ -975,6 +986,15 @@
      "source_reel": "https://www.instagram.com/reel/Ddc6IPNsSQy/",
      "source_reel_theme": "Wildlife",
      "source_title": "Wildlife — Mount Rainier National Park"
+    },
+    {
+     "best_for": "Waterfall / Mountain · Falls with Rainier behind",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A waterfall with snow-capped Mount Rainier behind it.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
     }
    ],
    "best_for": "Top national park",
@@ -1534,6 +1554,15 @@
      "source_reel": "https://www.instagram.com/reel/DdaWOp1N9L3/",
      "source_reel_theme": "Top 10 National Parks",
      "source_title": "Top 10 National Parks"
+    },
+    {
+     "best_for": "Wildlife · Brown bears fishing the falls",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Brown bears fishing in a river — Katmai's Brooks Falls bear scene.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
     }
    ],
    "best_for": "Bucket list",
@@ -2088,6 +2117,15 @@
      "source_reel": "https://www.instagram.com/reel/De_9Sf3BDFB/",
      "source_reel_theme": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)",
      "source_title": "My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)"
+    },
+    {
+     "best_for": "Scenic · Layered blue ridges in fog",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Layered blue ridges shrouded in fog — the Smokies' signature view.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
     }
    ],
    "best_for": "Top national park (East)",
@@ -3617,6 +3655,15 @@
      "source_reel": "https://www.instagram.com/reel/DdAb42fK2kg/",
      "source_reel_theme": "Scenic hike",
      "source_title": "Scenic hike — North Cascades National Park"
+    },
+    {
+     "best_for": "Alpine · Rocky high-altitude vista",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A rocky high-altitude vista among the North Cascades' jagged peaks.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
     }
    ],
    "best_for": "Hike",
@@ -3929,6 +3976,15 @@
      "source_reel": "https://www.instagram.com/reel/DdgyUvPBO7P/",
      "source_reel_theme": "Wildlife",
      "source_title": "Wildlife — Channel Islands National Park"
+    },
+    {
+     "best_for": "Coast / Sunset · Standing on a cliff at sunset",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A person standing on a cliff at sunset above the Pacific.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
     }
    ],
    "best_for": "Island park",
@@ -5655,7 +5711,17 @@
    "source_creator": "@_wanderedsouls",
    "source_rank": 11,
    "source_reel_theme": "Southwest winter road trip",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Desert icon · Red rock buttes and the famous dirt road",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The red rock buttes and dirt road of Monument Valley.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
+    }
+   ]
   },
   {
    "id": "page-az",
@@ -6836,7 +6902,17 @@
    "source_creator": "@adventurefamilyvlog",
    "source_rank": 1,
    "source_reel_theme": "Utah beyond the national parks",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Arch / Hike · Walking under a natural sandstone arch",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A silhouetted figure walking under a natural sandstone arch in the Escalante canyons.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
+    }
+   ]
   },
   {
    "id": "long-dong-silver-ut",
@@ -7429,6 +7505,15 @@
      "source_reel": "https://www.instagram.com/reel/DfYrTw7t0-W/",
      "source_reel_theme": "Bucket-list hikes outside national parks",
      "source_title": "12 bucket-list hikes NOT in national parks"
+    },
+    {
+     "best_for": "Alpine lake · Swimming in a San Juan Mountains lake",
+     "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The montage's San Juan Mountains scene is a swimmer in an alpine lake; it is attached here because Ice Lake Basin is the San Juans' signature alpine lake — the film does not name the specific lake.",
+     "source_creator": "@tedsalwaystraveling",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+     "source_reel_theme": "USA bucket list",
+     "source_title": "Places in the USA you need to visit before you die"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/colorado/ice-lake-basin-trail"
@@ -10234,6 +10319,97 @@
    "source_creator": "@theadventurepostcard",
    "source_rank": 12,
    "source_reel_theme": "Bucket-list hikes outside national parks",
+   "additional_sources": []
+  },
+  {
+   "id": "napali-coast-hi",
+   "name": "Napali Coast",
+   "site": "Na Pali Coast State Wilderness Park",
+   "city": "Kauai",
+   "state": "Hawaii",
+   "state_code": "HI",
+   "country": "United States",
+   "region": "Hawaii",
+   "region_id": "hawaii",
+   "lat": 22.1682,
+   "lng": -159.65773,
+   "google_maps_query": "Napali+Coast+State+Wilderness+Park",
+   "best_for": "Coast / Hike · Dramatic green sea cliffs of Kauai",
+   "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The montage shows the dramatic green cliffs of the Napali Coast viewed from a boat — Kauai's 16-mile wall of fluted 4,000-ft cliffs, otherwise reached only by the Kalalau Trail or by air.",
+   "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+   "source_title": "Places in the USA you need to visit before you die",
+   "source_creator": "@tedsalwaystraveling",
+   "source_rank": null,
+   "source_reel_theme": "USA bucket list",
+   "additional_sources": [],
+   "note": "Pin is the Na Pali Coast State Wilderness Park point published by Hawaii DLNR; the reel's shot is the coast from the water."
+  },
+  {
+   "id": "maroon-bells-co",
+   "name": "Maroon Bells",
+   "site": "Maroon Bells Scenic Area",
+   "city": "Aspen",
+   "state": "Colorado",
+   "state_code": "CO",
+   "country": "United States",
+   "region": "Mountain West",
+   "region_id": "mountain-west",
+   "lat": 39.09979,
+   "lng": -106.94222,
+   "google_maps_query": "Maroon+Bells+Colorado",
+   "best_for": "Scenic / Hike · Jagged peaks and golden aspens over Maroon Lake",
+   "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The jagged Maroon Creek peaks with golden aspens — North and South Maroon Peaks reflected in Maroon Lake, the most photographed mountains in Colorado (shuttle/reservation access from Aspen in season).",
+   "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+   "source_title": "Places in the USA you need to visit before you die",
+   "source_creator": "@tedsalwaystraveling",
+   "source_rank": null,
+   "source_reel_theme": "USA bucket list",
+   "additional_sources": [],
+   "note": "Pin is the Maroon Bells shuttle stop at Maroon Lake (OSM point)."
+  },
+  {
+   "id": "white-mountains-nh",
+   "name": "White Mountains",
+   "site": "White Mountain National Forest",
+   "city": "North Conway",
+   "state": "New Hampshire",
+   "state_code": "NH",
+   "country": "United States",
+   "region": "Northeast",
+   "region_id": "northeast",
+   "lat": 44.11337,
+   "lng": -71.51803,
+   "google_maps_query": "White+Mountain+National+Forest",
+   "best_for": "Scenic / Fall color · Mirror lake reflecting autumn forest",
+   "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The montage's fall scene: a mirror-like lake reflecting fall colors in New Hampshire's White Mountains — the Presidential Range country of Mount Washington, Kancamagus Highway foliage and alpine lakes.",
+   "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+   "source_title": "Places in the USA you need to visit before you die",
+   "source_creator": "@tedsalwaystraveling",
+   "source_rank": null,
+   "source_reel_theme": "USA bucket list",
+   "additional_sources": [],
+   "note": "Scene-level entry: the film shows a fall lake scene identified as the White Mountains; the pin is the White Mountain National Forest point, not a specific lake."
+  },
+  {
+   "id": "voyageurs-national-park-mn",
+   "name": "Voyageurs National Park",
+   "site": "Voyageurs National Park",
+   "city": "International Falls",
+   "state": "Minnesota",
+   "state_code": "MN",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 48.46555,
+   "lng": -92.8854,
+   "google_maps_query": "Voyageurs+National+Park",
+   "best_for": "Lake country · Misty dawn lakes in the North Woods",
+   "recommendation": "One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Mist rising over a calm lake at dawn — Minnesota's water-based national park, a maze of island lakes on the Canadian border explored by boat and houseboat.",
+   "source_reel": "https://www.instagram.com/reel/Dfc7s0XMtxX/",
+   "source_title": "Places in the USA you need to visit before you die",
+   "source_creator": "@tedsalwaystraveling",
+   "source_rank": null,
+   "source_reel_theme": "USA bucket list",
    "additional_sources": []
   }
  ],
