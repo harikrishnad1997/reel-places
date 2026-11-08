@@ -4528,6 +4528,30 @@
    }
   },
   {
+   "id": "reel:DdPj29cM2c6",
+   "type": "Reel",
+   "properties": {
+    "name": "Devil's Den, Florida — swim inside the earth for $30 (American Bucket List ep. 1)",
+    "url": "https://www.instagram.com/reel/DdPj29cM2c6/",
+    "title": "Devil's Den, Florida — swim inside the earth for $30 (American Bucket List ep. 1)",
+    "creator": "@showmelovejete",
+    "theme": "American Bucket List",
+    "places_count": 1,
+    "recommendation_summary": "Devil's Den Prehistoric Spring in Williston, FL — a 72°F underground spring inside a dry cave, swimmable/snorkelable for about $30, reached by a staircase down the sinkhole.",
+    "posted": "2026-09-13",
+    "added": "2026-11-08"
+   }
+  },
+  {
+   "id": "creator:showmelovejete",
+   "type": "Creator",
+   "properties": {
+    "name": "@showmelovejete",
+    "handle": "@showmelovejete",
+    "display_name": "Jason Jeter"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -15014,6 +15038,39 @@
    "properties": {
     "name": "Golden Gate National Recreation Area / Presidio"
    }
+  },
+  {
+   "id": "place:devils-den-fl",
+   "type": "Place",
+   "properties": {
+    "name": "Devil's Den Prehistoric Spring",
+    "place_id": "devils-den-fl",
+    "site": "Devil's Den Spring (private)",
+    "city": "Williston",
+    "state": "Florida",
+    "state_code": "FL",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 29.40756,
+    "lng": -82.4765,
+    "google_maps_query": "Devil's+Den+Spring+Williston+Florida",
+    "best_for": "Swimming / Snorkel & dive · Underground spring inside a dry cave",
+    "note": "Coordinates are the published Devil's Den Cave point (Wikipedia); the business's own listing puts it at the same spot (±0.001°). The Dyrt's printed coordinates (29.439, -82.530) are wrong and were rejected."
+   }
+  },
+  {
+   "id": "site:devil-s-den-spring-private",
+   "type": "Site",
+   "properties": {
+    "name": "Devil's Den Spring (private)"
+   }
+  },
+  {
+   "id": "theme:swimming-snorkel-dive-underground-spring-inside-a-dry-cave",
+   "type": "Theme",
+   "properties": {
+    "name": "Swimming / Snorkel & dive · Underground spring inside a dry cave"
+   }
   }
  ],
  "edges": [
@@ -17810,6 +17867,18 @@
   {
    "from": "reel:DbcXGY6iiRI",
    "to": "theme:san-francisco-hidden-gems",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdPj29cM2c6",
+   "to": "creator:showmelovejete",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdPj29cM2c6",
+   "to": "theme:bucket-list",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -34351,6 +34420,37 @@
   {
    "from": "place:marshalls-beach-ca",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-den-fl",
+   "to": "state:united-states-fl",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-den-fl",
+   "to": "site:devil-s-den-spring-private",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-den-fl",
+   "to": "reel:DdPj29cM2c6",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Swimming / Snorkel & dive · Underground spring inside a dry cave",
+    "recommendation": "Episode 1 of Jete's American Bucket List: Devil's Den in Williston, Florida (5390 NE 180th Ave) — you can swim inside the earth. It's an underground spring in a dry cave, over 100 feet across, reached only by descending a staircase into the sinkhole; it got its name because people once saw 'smoke' (winter steam) rising from the hole and thought it was where the devil lives. The water is 72°F year-round and you can snorkel or scuba dive — the reel's headline price was $30. Animal fossils from millions of years ago (Pleistocene finds, now at the UF Museum of Natural History) have been found down there.",
+    "creator": "@showmelovejete",
+    "reel_title": "Devil's Den, Florida — swim inside the earth for $30 (American Bucket List ep. 1)",
+    "reel_theme": "American Bucket List"
+   }
+  },
+  {
+   "from": "place:devils-den-fl",
+   "to": "theme:swimming-snorkel-dive-underground-spring-inside-a-dry-cave",
    "type": "BEST_FOR",
    "properties": {}
   }
