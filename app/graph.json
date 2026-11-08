@@ -4449,6 +4449,30 @@
    }
   },
   {
+   "id": "reel:Dfcm9Rdzrls",
+   "type": "Reel",
+   "properties": {
+    "name": "Catawba Falls, North Carolina — a hidden gem in the Blue Ridge Mountains",
+    "url": "https://www.instagram.com/reel/Dfcm9Rdzrls/",
+    "title": "Catawba Falls, North Carolina — a hidden gem in the Blue Ridge Mountains",
+    "creator": "@the_wandering2",
+    "theme": "North Carolina waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "Catawba Falls near Old Fort, NC — a cascading Blue Ridge waterfall on a free 3.5-mile loop; added as an additional source on the existing pin.",
+    "posted": "2026-11-07",
+    "added": "2026-11-08"
+   }
+  },
+  {
+   "id": "creator:the-wandering2",
+   "type": "Creator",
+   "properties": {
+    "name": "@the_wandering2",
+    "handle": "@the_wandering2",
+    "display_name": "Zach & Jessy | Adventure Travel Couple"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -17647,6 +17671,18 @@
    "properties": {}
   },
   {
+   "from": "reel:Dfcm9Rdzrls",
+   "to": "creator:the-wandering2",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfcm9Rdzrls",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -27711,6 +27747,25 @@
   {
    "from": "place:catawba-falls-nc",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:catawba-falls-nc",
+   "to": "reel:Dfcm9Rdzrls",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Hike · Cascading falls on a 3.5-mile forest loop",
+    "recommendation": "Zach & Jessy call Catawba Falls a hidden gem tucked in the Blue Ridge Mountains near Old Fort, NC: follow the trail through the forest, cross streams, and reach the cascading falls. Their hike card: 3.5-mile loop, 2–3 hours, moderate, free entry and parking (spaces limited), no permit, dogs on leash, dawn to dusk.",
+    "creator": "@the_wandering2",
+    "reel_title": "Catawba Falls, North Carolina — a hidden gem in the Blue Ridge Mountains",
+    "reel_theme": "North Carolina waterfalls"
+   }
+  },
+  {
+   "from": "place:catawba-falls-nc",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   },

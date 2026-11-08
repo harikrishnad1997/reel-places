@@ -664,6 +664,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/catawba-falls-trail)
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#16 in that reel)
+  - 🎬 Also recommended by: [Catawba Falls, North Carolina — a hidden gem in the Blue Ridge Mountains](https://www.instagram.com/reel/Dfcm9Rdzrls/) by @the_wandering2
+    - **Best for:** Waterfall / Hike · Cascading falls on a 3.5-mile forest loop — Zach & Jessy call Catawba Falls a hidden gem tucked in the Blue Ridge Mountains near Old Fort, NC: follow the trail through the forest, cross streams, and reach the cascading falls. Their hike card: 3.5-mile loop, 2–3 hours, moderate, free entry and parking (spaces limited), no permit, dogs on leash, dawn to dusk.
 
 ### Cathedral Falls
 
@@ -4434,6 +4436,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: The Heart Lake Trail from Castle Lake near Mount Shasta, California — a 3-mile out-and-back with ~800 ft of gain and two standout Mount Shasta viewpoints.
 - **[Top 10 hikes after visiting 62 of 63 national parks](https://www.instagram.com/reel/DdiQ92yODtN/)** — @tedsalwaystraveling · 10 places · Theme: Top 10 national-park hikes
   - What the reel recommends: Ted's top-10 hikes after visiting 62 of 63 US national parks: Cascade Canyon (Grand Teton), The Narrows and Angels Landing (Zion), Thornton Lake (North Cascades), Iceberg Lake (Glacier), Upper Yosemite Falls, Camp Muir (Rainier), Fern Canyon (Redwood), South Kaibab (Grand Canyon), and Wheeler Peak (Great Basin).
+- **[Catawba Falls, North Carolina — a hidden gem in the Blue Ridge Mountains](https://www.instagram.com/reel/Dfcm9Rdzrls/)** — @the_wandering2 · 1 places · Theme: North Carolina waterfalls
+  - What the reel recommends: Catawba Falls near Old Fort, NC — a cascading Blue Ridge waterfall on a free 3.5-mile loop; added as an additional source on the existing pin.
 
 ## How this page is updated {#how-this-page-is-updated}
 

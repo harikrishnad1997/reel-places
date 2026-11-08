@@ -6275,7 +6275,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 16,
    "source_reel_theme": "Best Eastern U.S. waterfalls",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Waterfall / Hike · Cascading falls on a 3.5-mile forest loop",
+     "recommendation": "Zach & Jessy call Catawba Falls a hidden gem tucked in the Blue Ridge Mountains near Old Fort, NC: follow the trail through the forest, cross streams, and reach the cascading falls. Their hike card: 3.5-mile loop, 2–3 hours, moderate, free entry and parking (spaces limited), no permit, dogs on leash, dawn to dusk.",
+     "source_creator": "@the_wandering2",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfcm9Rdzrls/",
+     "source_reel_theme": "North Carolina waterfalls",
+     "source_title": "Catawba Falls, North Carolina — a hidden gem in the Blue Ridge Mountains"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/north-carolina/catawba-falls-trail"
   },
   {
