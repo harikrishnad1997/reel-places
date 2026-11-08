@@ -4434,6 +4434,21 @@
    }
   },
   {
+   "id": "reel:DdiQ92yODtN",
+   "type": "Reel",
+   "properties": {
+    "name": "Top 10 hikes after visiting 62 of 63 national parks",
+    "url": "https://www.instagram.com/reel/DdiQ92yODtN/",
+    "title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "creator": "@tedsalwaystraveling",
+    "theme": "Top 10 national-park hikes",
+    "places_count": 10,
+    "recommendation_summary": "Ted's top-10 hikes after visiting 62 of 63 US national parks: Cascade Canyon (Grand Teton), The Narrows and Angels Landing (Zion), Thornton Lake (North Cascades), Iceberg Lake (Glacier), Upper Yosemite Falls, Camp Muir (Rainier), Fern Canyon (Redwood), South Kaibab (Grand Canyon), and Wheeler Peak (Great Basin).",
+    "posted": "2026-09-20",
+    "added": "2026-11-08"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14759,6 +14774,115 @@
    "properties": {
     "name": "Castle Crags Wilderness / Mount Shasta area"
    }
+  },
+  {
+   "id": "place:cascade-canyon-wy",
+   "type": "Place",
+   "properties": {
+    "name": "Cascade Canyon",
+    "place_id": "cascade-canyon-wy",
+    "site": "Grand Teton National Park",
+    "city": "Moose",
+    "state": "Wyoming",
+    "state_code": "WY",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 43.76453,
+    "lng": -110.81512,
+    "google_maps_query": "Cascade+Canyon+Trail+Grand+Teton",
+    "best_for": "Hike / Canyon · River valley under the towering Tetons",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:thornton-lake-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Thornton Lake",
+    "place_id": "thornton-lake-wa",
+    "site": "North Cascades National Park",
+    "city": "Marblemount",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 48.68778,
+    "lng": -121.3325,
+    "google_maps_query": "Thornton+Lakes+North+Cascades",
+    "best_for": "Alpine lake · Three paternoster lakes reflecting Mount Triumph",
+    "note": "Coordinates are the published Thornton Lakes point (Wikipedia/GeoNames); an earlier generic name lookup returned a different Snohomish County lake and was rejected."
+   }
+  },
+  {
+   "id": "theme:alpine-lake-three-paternoster-lakes-reflecting-mount-triumph",
+   "type": "Theme",
+   "properties": {
+    "name": "Alpine lake · Three paternoster lakes reflecting Mount Triumph"
+   }
+  },
+  {
+   "id": "place:iceberg-lake-mt",
+   "type": "Place",
+   "properties": {
+    "name": "Iceberg Lake",
+    "place_id": "iceberg-lake-mt",
+    "site": "Glacier National Park",
+    "city": "Many Glacier",
+    "state": "Montana",
+    "state_code": "MT",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 48.81353,
+    "lng": -113.74693,
+    "google_maps_query": "Iceberg+Lake+Glacier+National+Park",
+    "best_for": "Alpine lake / Hike · Turquoise lake with floating icebergs",
+    "note": ""
+   }
+  },
+  {
+   "id": "place:camp-muir-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Camp Muir",
+    "place_id": "camp-muir-wa",
+    "site": "Mount Rainier National Park",
+    "city": "Paradise",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 46.83544,
+    "lng": -121.73285,
+    "google_maps_query": "Camp+Muir+Mount+Rainier",
+    "best_for": "Alpine / Mountaineering · Glaciers and the Muir Snowfield",
+    "note": ""
+   }
+  },
+  {
+   "id": "theme:alpine-mountaineering-glaciers-and-the-muir-snowfield",
+   "type": "Theme",
+   "properties": {
+    "name": "Alpine / Mountaineering · Glaciers and the Muir Snowfield"
+   }
+  },
+  {
+   "id": "place:wheeler-peak-nv",
+   "type": "Place",
+   "properties": {
+    "name": "Wheeler Peak",
+    "place_id": "wheeler-peak-nv",
+    "site": "Great Basin National Park",
+    "city": "Baker",
+    "state": "Nevada",
+    "state_code": "NV",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 38.98577,
+    "lng": -114.31391,
+    "google_maps_query": "Wheeler+Peak+Great+Basin",
+    "best_for": "Summit hike · Rocky 13,063-ft summit above the desert",
+    "note": ""
+   }
   }
  ],
  "edges": [
@@ -17511,6 +17635,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DdiQ92yODtN",
+   "to": "creator:tedsalwaystraveling",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdiQ92yODtN",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -18285,6 +18421,19 @@
     "creator": "@amorywild",
     "reel_title": "Top 5 National Park Adrenaline Hikes",
     "reel_theme": "Top 5 National Park Adrenaline Hikes"
+   }
+  },
+  {
+   "from": "place:the-narrows-ut",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "River hike · Water flowing between high canyon walls",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. The Narrows in Zion — wading the Virgin River between thousand-foot canyon walls.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
    }
   },
   {
@@ -20750,6 +20899,19 @@
    }
   },
   {
+   "from": "place:south-kaibab-and-bright-angel-trails-phantom-ranch-az",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Canyon hike · Descending the South Kaibab over the Colorado River",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. The South Kaibab Trail at the Grand Canyon — descending the ridgeline with the Colorado River below.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
    "from": "place:santa-cruz-island-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -21461,6 +21623,19 @@
    "properties": {}
   },
   {
+   "from": "place:fern-canyon-ca",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Canyon hike · Walls covered in lush green ferns",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Fern Canyon in Redwood National Park — a narrow canyon walled in lush green ferns.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
    "from": "place:fairyland-loop-ut",
    "to": "state:united-states-ut",
    "type": "LOCATED_IN",
@@ -21767,6 +21942,19 @@
    }
   },
   {
+   "from": "place:angels-landing-ut",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Summit hike · Sheer red cliffs and the chain section",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Angels Landing in Zion — the sheer red-cliff chain section above the canyon floor.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
    "from": "place:colorado-river-grand-canyon-az",
    "to": "state:united-states-az",
    "type": "LOCATED_IN",
@@ -21890,6 +22078,25 @@
     "reel_title": "Waterfall scenery — Yosemite Falls",
     "reel_theme": "Waterfall scenery"
    }
+  },
+  {
+   "from": "place:yosemite-falls-ca",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall hike · Climbing to the top of Yosemite Falls",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Upper Yosemite Falls — climbing beside the massive falls to the top.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
+   "from": "place:yosemite-falls-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:greeter-falls-tn",
@@ -33741,6 +33948,161 @@
   {
    "from": "place:heart-lake-trail-ca",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cascade-canyon-wy",
+   "to": "state:united-states-wy",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cascade-canyon-wy",
+   "to": "site:grand-teton-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cascade-canyon-wy",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Canyon · River valley under the towering Tetons",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Cascade Canyon in Grand Teton — a river valley running straight into the towering Teton wall, reached by the Jenny Lake boat shuttle or the Jenny Lake loop.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
+   "from": "place:cascade-canyon-wy",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:thornton-lake-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:thornton-lake-wa",
+   "to": "site:north-cascades-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:thornton-lake-wa",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Alpine lake · Three paternoster lakes reflecting Mount Triumph",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Thornton Lake in North Cascades National Park — the lowest of three paternoster lakes below Mount Triumph, reflecting the peaks; the ~10-mile round trip climbs to a ridge above the lakes (backcountry permit to camp).",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
+   "from": "place:thornton-lake-wa",
+   "to": "theme:alpine-lake-three-paternoster-lakes-reflecting-mount-triumph",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:iceberg-lake-mt",
+   "to": "state:united-states-mt",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:iceberg-lake-mt",
+   "to": "site:glacier-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:iceberg-lake-mt",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Alpine lake / Hike · Turquoise lake with floating icebergs",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Iceberg Lake in Glacier National Park — turquoise water with icebergs floating in it year-round, in the shadow of Mount Wilbur on the Many Glacier side; ~9.6-mile out-and-back from the Swiftcurrent trailhead.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
+   "from": "place:iceberg-lake-mt",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:camp-muir-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:camp-muir-wa",
+   "to": "site:mount-rainier-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:camp-muir-wa",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Alpine / Mountaineering · Glaciers and the Muir Snowfield",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Muir Camp (Camp Muir) on Mount Rainier — the 10,080-ft climbers' camp up the Muir Snowfield from Paradise, all glaciers and alpine terrain; also the turnaround for a serious day hike (crevasse country beyond).",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
+   "from": "place:camp-muir-wa",
+   "to": "theme:alpine-mountaineering-glaciers-and-the-muir-snowfield",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wheeler-peak-nv",
+   "to": "state:united-states-nv",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:wheeler-peak-nv",
+   "to": "site:great-basin-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wheeler-peak-nv",
+   "to": "reel:DdiQ92yODtN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Summit hike · Rocky 13,063-ft summit above the desert",
+    "recommendation": "One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Wheeler Peak in Great Basin National Park — the rocky 13,063-ft summit, Nevada's second-highest, climbed from the Wheeler Peak Scenic Drive.",
+    "creator": "@tedsalwaystraveling",
+    "reel_title": "Top 10 hikes after visiting 62 of 63 national parks",
+    "reel_theme": "Top 10 national-park hikes"
+   }
+  },
+  {
+   "from": "place:wheeler-peak-nv",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
