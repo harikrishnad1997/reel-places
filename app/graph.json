@@ -4473,6 +4473,30 @@
    }
   },
   {
+   "id": "reel:DfcrkQtt1Vn",
+   "type": "Reel",
+   "properties": {
+    "name": "Devil's Bathtub, Virginia — 13 creek crossings to a rock-carved bathtub",
+    "url": "https://www.instagram.com/reel/DfcrkQtt1Vn/",
+    "title": "Devil's Bathtub, Virginia — 13 creek crossings to a rock-carved bathtub",
+    "creator": "@xirxaddy",
+    "theme": "Virginia swimming holes and hikes",
+    "places_count": 1,
+    "recommendation_summary": "Devil's Bathtub, Virginia — an emerald rock-carved pool reached by the Devil's Fork Trail's ~4-mile round trip with 13 creek crossings; cold (~65°F) even in July, with flash-flood caution.",
+    "posted": "2026-11-07",
+    "added": "2026-11-08"
+   }
+  },
+  {
+   "id": "creator:xirxaddy",
+   "type": "Creator",
+   "properties": {
+    "name": "@xirxaddy",
+    "handle": "@xirxaddy",
+    "display_name": "Shelton Xir"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14907,6 +14931,32 @@
     "best_for": "Summit hike · Rocky 13,063-ft summit above the desert",
     "note": ""
    }
+  },
+  {
+   "id": "place:devils-bathtub-va",
+   "type": "Place",
+   "properties": {
+    "name": "Devil's Bathtub",
+    "place_id": "devils-bathtub-va",
+    "site": "Devil's Fork Loop Trail / Jefferson National Forest",
+    "city": "Fort Blackmore",
+    "state": "Virginia",
+    "state_code": "VA",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 36.81327,
+    "lng": -82.65007,
+    "google_maps_query": "Devil's+Bathtub+Virginia",
+    "best_for": "Swimming hole / Hike · Emerald rock pool down 13 creek crossings",
+    "note": "Pin is the OSM attraction point for Devil's Bathtub itself."
+   }
+  },
+  {
+   "id": "site:devil-s-fork-loop-trail-jefferson-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Devil's Fork Loop Trail / Jefferson National Forest"
+   }
   }
  ],
  "edges": [
@@ -17679,6 +17729,18 @@
   {
    "from": "reel:Dfcm9Rdzrls",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfcrkQtt1Vn",
+   "to": "creator:xirxaddy",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfcrkQtt1Vn",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -34157,6 +34219,37 @@
   },
   {
    "from": "place:wheeler-peak-nv",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-bathtub-va",
+   "to": "state:united-states-va",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-bathtub-va",
+   "to": "site:devil-s-fork-loop-trail-jefferson-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:devils-bathtub-va",
+   "to": "reel:DfcrkQtt1Vn",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Swimming hole / Hike · Emerald rock pool down 13 creek crossings",
+    "recommendation": "13 creek crossings to reach a bathtub the creek carved for itself: Devil's Bathtub near Fort Blackmore, VA (Scott County, ~30 min from Natural Tunnel) — emerald water swirling through a smooth rock pool, and the name is backed by ~65°F water even in July. The reel's practical card: the Devil's Fork Trail is ~4 mi round trip with 13 unbridged crossings (or a 7-mi no-crossing route), budget 3–5 hours and 3 PM as the last start; don't go if the water is above your knees — the holler flash floods; free lot at 312 High Knob SC, Dungannon VA (no roadside parking — towed); go weekdays or early. Swimming season is over by fall — the hike is the experience then.",
+    "creator": "@xirxaddy",
+    "reel_title": "Devil's Bathtub, Virginia — 13 creek crossings to a rock-carved bathtub",
+    "reel_theme": "Virginia swimming holes and hikes"
+   }
+  },
+  {
+   "from": "place:devils-bathtub-va",
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
