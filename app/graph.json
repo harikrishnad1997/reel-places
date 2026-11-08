@@ -4419,6 +4419,21 @@
    }
   },
   {
+   "id": "reel:DePBnUpvyRI",
+   "type": "Reel",
+   "properties": {
+    "name": "2 incredible viewpoints, 1 short hike: Heart Lake Trail from Castle Lake",
+    "url": "https://www.instagram.com/reel/DePBnUpvyRI/",
+    "title": "2 incredible viewpoints, 1 short hike: Heart Lake Trail from Castle Lake",
+    "creator": "@wanderlusttravelcouple",
+    "theme": "Northern California hikes",
+    "places_count": 1,
+    "recommendation_summary": "The Heart Lake Trail from Castle Lake near Mount Shasta, California — a 3-mile out-and-back with ~800 ft of gain and two standout Mount Shasta viewpoints.",
+    "posted": "2026-10-08",
+    "added": "2026-11-08"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14718,6 +14733,32 @@
    "properties": {
     "name": "Silver Falls State Park"
    }
+  },
+  {
+   "id": "place:heart-lake-trail-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Heart Lake Trail (from Castle Lake)",
+    "place_id": "heart-lake-trail-ca",
+    "site": "Castle Crags Wilderness / Mount Shasta area",
+    "city": "Mount Shasta",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 41.22768,
+    "lng": -122.3834,
+    "google_maps_query": "Heart+Lake+Trail+Castle+Lake+Mount+Shasta",
+    "best_for": "Hike / Viewpoint · Two Mount Shasta viewpoints on one short trail",
+    "note": "Pin is Castle Lake (OSM lake point), the trailhead — Heart Lake sits above it on the trail, and the Shasta viewpoints are the payoff of the climb."
+   }
+  },
+  {
+   "id": "site:castle-crags-wilderness-mount-shasta-area",
+   "type": "Site",
+   "properties": {
+    "name": "Castle Crags Wilderness / Mount Shasta area"
+   }
   }
  ],
  "edges": [
@@ -17454,6 +17495,18 @@
   {
    "from": "reel:DcLyRDbxiGY",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DePBnUpvyRI",
+   "to": "creator:wanderlusttravelcouple",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DePBnUpvyRI",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -33651,6 +33704,43 @@
   {
    "from": "place:trail-of-ten-falls-or",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:heart-lake-trail-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:heart-lake-trail-ca",
+   "to": "site:castle-crags-wilderness-mount-shasta-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:heart-lake-trail-ca",
+   "to": "reel:DePBnUpvyRI",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Viewpoint · Two Mount Shasta viewpoints on one short trail",
+    "recommendation": "2 incredible viewpoints, 1 short hike: the Heart Lake Trail from Castle Lake in the Mount Shasta area of Northern California. The out-and-back is only 3 miles with about 800 ft of elevation gain — not exactly easy, per the reel, but definitely doable and totally worth it for the two insane views of Mount Shasta: Heart Lake itself and the lookout above it looking back over Castle Lake toward the mountain. Trail volunteers have rerouted and marked the path with cairns and ribbons — stick to the defined trail and download offline maps to navigate.",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "2 incredible viewpoints, 1 short hike: Heart Lake Trail from Castle Lake",
+    "reel_theme": "Northern California hikes"
+   }
+  },
+  {
+   "from": "place:heart-lake-trail-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:heart-lake-trail-ca",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
