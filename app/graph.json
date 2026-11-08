@@ -4497,6 +4497,37 @@
    }
   },
   {
+   "id": "reel:DbcXGY6iiRI",
+   "type": "Reel",
+   "properties": {
+    "name": "Marshall's Beach — San Francisco's most underrated Golden Gate view",
+    "url": "https://www.instagram.com/reel/DbcXGY6iiRI/",
+    "title": "Marshall's Beach — San Francisco's most underrated Golden Gate view",
+    "creator": "@gabbettfamilytravels",
+    "theme": "San Francisco hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Marshall's Beach in San Francisco — a crowd-free Golden Gate Bridge viewpoint reached from the Langdon Court lot via Battery West and the Batteries to Bluffs Trail; avoid high tide.",
+    "posted": "2026-07-30",
+    "added": "2026-11-08"
+   }
+  },
+  {
+   "id": "creator:gabbettfamilytravels",
+   "type": "Creator",
+   "properties": {
+    "name": "@gabbettfamilytravels",
+    "handle": "@gabbettfamilytravels",
+    "display_name": "Alanna Gabbett | Family Adventure Travel"
+   }
+  },
+  {
+   "id": "theme:san-francisco-hidden-gems",
+   "type": "Theme",
+   "properties": {
+    "name": "San Francisco hidden gems"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -14957,6 +14988,32 @@
    "properties": {
     "name": "Devil's Fork Loop Trail / Jefferson National Forest"
    }
+  },
+  {
+   "id": "place:marshalls-beach-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Marshall's Beach",
+    "place_id": "marshalls-beach-ca",
+    "site": "Golden Gate National Recreation Area / Presidio",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.80183,
+    "lng": -122.4799,
+    "google_maps_query": "Marshall's+Beach+San+Francisco",
+    "best_for": "Beach / Viewpoint · Golden Gate views without the crowds",
+    "note": "Pin is the OSM beach point for Marshall's Beach, below the Batteries to Bluffs Trail."
+   }
+  },
+  {
+   "id": "site:golden-gate-national-recreation-area-presidio",
+   "type": "Site",
+   "properties": {
+    "name": "Golden Gate National Recreation Area / Presidio"
+   }
   }
  ],
  "edges": [
@@ -17741,6 +17798,18 @@
   {
    "from": "reel:DfcrkQtt1Vn",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DbcXGY6iiRI",
+   "to": "creator:gabbettfamilytravels",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DbcXGY6iiRI",
+   "to": "theme:san-francisco-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -34251,6 +34320,37 @@
   {
    "from": "place:devils-bathtub-va",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:marshalls-beach-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:marshalls-beach-ca",
+   "to": "site:golden-gate-national-recreation-area-presidio",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:marshalls-beach-ca",
+   "to": "reel:DbcXGY6iiRI",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Beach / Viewpoint · Golden Gate views without the crowds",
+    "recommendation": "San Francisco's most underrated Golden Gate view — and you'll probably have it to yourself. The family's route: park at the Langdon Court lot (free, mostly empty around 10 AM), walk toward Battery West, then take the Batteries to Bluffs Trail down to the beach (~0.5 mile, stairs involved — their 4- and 5-year-olds handled it fine), turn right toward Marshall's Beach and down a few more stairs. They stayed almost an hour without seeing another person. Safety notes from the reel: don't go at high tide — the beach becomes mostly inaccessible and dangerous, so check tides first; no restrooms or facilities; and it's a clothing-optional beach, worth knowing if you're bringing kids.",
+    "creator": "@gabbettfamilytravels",
+    "reel_title": "Marshall's Beach — San Francisco's most underrated Golden Gate view",
+    "reel_theme": "San Francisco hidden gems"
+   }
+  },
+  {
+   "from": "place:marshalls-beach-ca",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
