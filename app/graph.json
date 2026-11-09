@@ -4552,6 +4552,37 @@
    }
   },
   {
+   "id": "reel:Dd6kk_6KTv7",
+   "type": "Reel",
+   "properties": {
+    "name": "Royal Gorge Route Railroad — insane canyon views, no hiking required",
+    "url": "https://www.instagram.com/reel/Dd6kk_6KTv7/",
+    "title": "Royal Gorge Route Railroad — insane canyon views, no hiking required",
+    "creator": "@mccrawsonthemap",
+    "theme": "Scenic train rides",
+    "places_count": 1,
+    "recommendation_summary": "The Royal Gorge Route Railroad from Cañon City, CO — a ~2-hour scenic ride through the 1,000-ft Royal Gorge under the Royal Gorge Bridge, no hiking required.",
+    "posted": "2026-09-30",
+    "added": "2026-11-08"
+   }
+  },
+  {
+   "id": "creator:mccrawsonthemap",
+   "type": "Creator",
+   "properties": {
+    "name": "@mccrawsonthemap",
+    "handle": "@mccrawsonthemap",
+    "display_name": "Melissa McCraw and Carson McCraw | RV Life | US Travel"
+   }
+  },
+  {
+   "id": "theme:scenic-train-rides",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic train rides"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -15071,6 +15102,32 @@
    "properties": {
     "name": "Swimming / Snorkel & dive · Underground spring inside a dry cave"
    }
+  },
+  {
+   "id": "place:royal-gorge-route-railroad-co",
+   "type": "Place",
+   "properties": {
+    "name": "Royal Gorge Route Railroad",
+    "place_id": "royal-gorge-route-railroad-co",
+    "site": "Royal Gorge, Cañon City depot",
+    "city": "Cañon City",
+    "state": "Colorado",
+    "state_code": "CO",
+    "region": "Mountain West",
+    "country": "United States",
+    "lat": 38.43777,
+    "lng": -105.24071,
+    "google_maps_query": "Royal+Gorge+Route+Railroad+Canon+City",
+    "best_for": "Scenic train / Canyon views · 1,000-ft gorge from an open-air car",
+    "note": "Pin is the OSM station point for the Royal Gorge Route Railroad depot in Cañon City, where the ride boards."
+   }
+  },
+  {
+   "id": "site:royal-gorge-ca-on-city-depot",
+   "type": "Site",
+   "properties": {
+    "name": "Royal Gorge, Cañon City depot"
+   }
   }
  ],
  "edges": [
@@ -17879,6 +17936,18 @@
   {
    "from": "reel:DdPj29cM2c6",
    "to": "theme:bucket-list",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd6kk_6KTv7",
+   "to": "creator:mccrawsonthemap",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd6kk_6KTv7",
+   "to": "theme:scenic-train-rides",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -34451,6 +34520,37 @@
   {
    "from": "place:devils-den-fl",
    "to": "theme:swimming-snorkel-dive-underground-spring-inside-a-dry-cave",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:royal-gorge-route-railroad-co",
+   "to": "state:united-states-co",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:royal-gorge-route-railroad-co",
+   "to": "site:royal-gorge-ca-on-city-depot",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:royal-gorge-route-railroad-co",
+   "to": "reel:Dd6kk_6KTv7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenic train / Canyon views · 1,000-ft gorge from an open-air car",
+    "recommendation": "Insane canyon views without hiking or driving sketchy roads: the Royal Gorge Route Railroad out of Cañon City, Colorado (~1 hr from Colorado Springs). The train runs the Arkansas River through a 1,000+ ft deep canyon with sheer granite cliffs on both sides, passing under the famous Royal Gorge Bridge — bald eagles, rafters, and dramatic rock formations along the route, with the best photo ops from the open-air car. Know before you go, per the reel: the ride is about 2 hours roundtrip and slow by design (scenery, not speed); parking is easy near the depot; there's a full kitchen and bar on most departures; and you can pair it with Royal Gorge Bridge Park if you have extra time.",
+    "creator": "@mccrawsonthemap",
+    "reel_title": "Royal Gorge Route Railroad — insane canyon views, no hiking required",
+    "reel_theme": "Scenic train rides"
+   }
+  },
+  {
+   "from": "place:royal-gorge-route-railroad-co",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }

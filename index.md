@@ -16,7 +16,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Southeast Region — 52 places](#southeast)
 - [Midwest Region — 45 places](#midwest)
 - [Southwest Region — 74 places](#southwest)
-- [Mountain West Region — 59 places](#mountain-west)
+- [Mountain West Region — 60 places](#mountain-west)
 - [West Region — 57 places](#west)
 - [Pacific Northwest Region — 24 places](#pacific-northwest)
 - [Alaska Region — 29 places](#alaska)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 51 · Southeast 52 · Midwest 45 · Southwest 74 · Mountain West 59 · West 57 · Pacific Northwest 24 · Alaska 29 · Hawaii 7 · U.S. Territories 3 · **Total 401**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 51 · Southeast 52 · Midwest 45 · Southwest 74 · Mountain West 60 · West 57 · Pacific Northwest 24 · Alaska 29 · Hawaii 7 · U.S. Territories 3 · **Total 402**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -2390,7 +2390,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Mountain West Region {#mountain-west}
 
-**59 places · Colorado, Idaho, Montana, Utah, Wyoming**
+**60 places · Colorado, Idaho, Montana, Utah, Wyoming**
 
 ### Black Canyon of the Gunnison National Park
 
@@ -2711,13 +2711,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Viewpoint · Bright blue evaporation ponds at the end of the route — Stop #6 on the reel's Highway 279 drive: the Potash Ponds — bright blue evaporation ponds near the end of the route, best seen from above (they're the Intrepid Potash mine's solar evaporation ponds; the paved road ends further on and the route continues on dirt toward Thelma & Louise Point and the Shafer Trail into Canyonlands).
   - 🎬 Source: [Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more](https://www.instagram.com/reel/DfYsMN8RuDh/) by @thewildlifeofrach (#6 in that reel)
 
+### Royal Gorge, Cañon City depot
+
+#### Colorado
+
+##### Scenic train
+
+- **37. [Royal Gorge Route Railroad](https://www.google.com/maps/search/?api=1&query=Royal+Gorge+Route+Railroad+Canon+City)** — Royal Gorge, Cañon City depot, Cañon City
+  - **Best for:** Scenic train / Canyon views · 1,000-ft gorge from an open-air car — Insane canyon views without hiking or driving sketchy roads: the Royal Gorge Route Railroad out of Cañon City, Colorado (~1 hr from Colorado Springs). The train runs the Arkansas River through a 1,000+ ft deep canyon with sheer granite cliffs on both sides, passing under the famous Royal Gorge Bridge — bald eagles, rafters, and dramatic rock formations along the route, with the best photo ops from the open-air car. Know before you go, per the reel: the ride is about 2 hours roundtrip and slow by design (scenery, not speed); parking is easy near the depot; there's a full kitchen and bar on most departures; and you can pair it with Royal Gorge Bridge Park if you have extra time.
+  - Pin is the OSM station point for the Royal Gorge Route Railroad depot in Cañon City, where the ride boards.
+  - 🎬 Source: [Royal Gorge Route Railroad — insane canyon views, no hiking required](https://www.instagram.com/reel/Dd6kk_6KTv7/) by @mccrawsonthemap (#None in that reel)
+
 ### Sawtooth Wilderness (Sawtooth National Forest)
 
 #### Idaho
 
 ##### Hike · Bucket-list hike, #8 of 12
 
-- **37. [Sawtooth Lake](https://www.google.com/maps/search/?api=1&query=Sawtooth+Lake+Idaho)** — Sawtooth Wilderness (Sawtooth National Forest), Stanley
+- **38. [Sawtooth Lake](https://www.google.com/maps/search/?api=1&query=Sawtooth+Lake+Idaho)** — Sawtooth Wilderness (Sawtooth National Forest), Stanley
   - **Best for:** Hike · Bucket-list hike, #8 of 12 — Ranked #8 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Sawtooth Lake, the alpine lake beneath the jagged Sawtooth peaks in Idaho's Sawtooth Wilderness.
   - 🎬 Source: [12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/) by @theadventurepostcard (#8 in that reel)
 
@@ -2727,101 +2738,101 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Geyser
 
-- **38. [Grotto Geyser](https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **39. [Grotto Geyser](https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser — Day 1: Grotto Geyser, on the same Upper Geyser Basin walk as Old Faithful and Morning Glory Pool.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **39. [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **40. [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser — Day 1 of his 6-day Yellowstone recap: the south entrance, then Old Faithful erupting in the Upper Geyser Basin.
   - Pin is the Old Faithful Inn point: Nominatim resolves 'Old Faithful' to the visitor complex, ~250 m from the geyser cone.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Geyser basin
 
-- **40. [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **41. [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser basin — Day 3: Norris Geyser Basin, visited with Artists Paint Pots and Gibbon Falls.
   - Pin is the basin's attraction point by the Norris Museum area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **41. [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **42. [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser basin — Day 5: West Thumb Geyser Basin on the shore of Yellowstone Lake.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Hike
 
-- **42. [Bunsen Peak](https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **43. [Bunsen Peak](https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hike / Summit — Day 4: a hike up Bunsen Peak for mountain views, on the Mammoth Hot Springs day.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/bunsen-peak)
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Hot spring
 
-- **43. [Artists Paint Pots](https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **44. [Artists Paint Pots](https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring — Day 3: Artists Paint Pots, on the Norris / Gibbon Falls day of the trip.
   - Park signage and OSM spell the name 'Artists Paintpots' (one word); the candidate's spelling is kept.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **44. [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **45. [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring / View — Day 2: Grand Prismatic Spring seen from both ground level and the overlook.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **45. [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **46. [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring / Terraces — Day 4: the Mammoth Hot Springs terraces; the day also brought three grizzly bears grazing.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **46. [Morning Glory Pool](https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **47. [Morning Glory Pool](https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring — Day 1: Morning Glory Pool, visited on the Upper Geyser Basin loop with Old Faithful and Grotto Geyser.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Lake
 
-- **47. [Trout Lake](https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **48. [Trout Lake](https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Lake / Hike — Day 6: Trout Lake, hiked on the Lamar Valley day.
   - The Trout Lake by Pebble Creek in the park's northeast, verified inside the park boundary — several other Wyoming Trout Lakes exist and were rejected by a park-bounded search.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **48. [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **49. [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Lake / View — Day 5: Yellowstone Lake, visited with West Thumb Geyser Basin and the Mud Volcano area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Thermal area
 
-- **49. [Mud Volcano](https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **50. [Mud Volcano](https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Thermal area — Day 5: the steaming Mud Volcano thermal area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### View
 
-- **50. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **51. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** View / Waterfall — His #2 viewpoint: the Lower Falls of the Yellowstone River cascading through the colorful canyon.
   - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#2 in that reel)
 
 ##### Waterfall
 
-- **51. [Fairy Falls](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **52. [Fairy Falls](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 2: Fairy Falls, hiked on the same outing as the Grand Prismatic Spring overlook.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/fairy-falls--4)
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **52. [Firehole Falls](https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **53. [Firehole Falls](https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 1: Firehole Falls, after the geyser basin, on a day that also featured bison including a calf.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **53. [Gibbon Falls](https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **54. [Gibbon Falls](https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 3: Gibbon Falls, roadside falls visited with Norris Geyser Basin and Artists Paint Pots.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/gibbon-falls)
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **54. [Lower Yellowstone Falls](https://www.google.com/maps/search/?api=1&query=Lower+Yellowstone+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **55. [Lower Yellowstone Falls](https://www.google.com/maps/search/?api=1&query=Lower+Yellowstone+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — His #3 waterfall: Lower Yellowstone Falls, shown plunging into the Grand Canyon of the Yellowstone between colorful canyon walls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/brink-of-the-lower-falls)
   - 🎬 Source: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild (#3 in that reel)
-- **55. [Undine Falls](https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **56. [Undine Falls](https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 6: Undine Falls, on the final day that also brought a black bear near the roadside.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/upper-and-lower-undine-falls)
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Wildlife
 
-- **56. [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **57. [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Wildlife — Day 6: Lamar Valley, where distant wolves were spotted — the wildlife finale of the trip.
   - Pin is OSM's Lamar Valley locality point in the valley's eastern half.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **57. [LeHardy Rapids](https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **58. [LeHardy Rapids](https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Wildlife / Rapids — Day 5: LeHardy Rapids, where he watched harlequin ducks in the rapids.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **58. [Yellowstone National Park](https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY)** — Yellowstone National Park, Gardiner
+- **59. [Yellowstone National Park](https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY)** — Yellowstone National Park, Gardiner
   - **Best for:** Wildlife — His #1 for wildlife, described as the most diverse: bison including a calf, an elk grazing, multiple grizzly bears foraging, distant wolves in a meadow, a pronghorn antelope, bighorn sheep by a road, a marmot on rocks, harlequin ducks in rapids, and a black bear crossing pavement.
   - Park-level pin is the park's Nominatim point near the Canyon area.
   - 🎬 Source: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild (#1 in that reel)
@@ -2840,7 +2851,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **59. [Zapata Falls](https://www.google.com/maps/search/?api=1&query=Zapata+Falls+Colorado)** — Zapata Falls (near Great Sand Dunes), Mosca
+- **60. [Zapata Falls](https://www.google.com/maps/search/?api=1&query=Zapata+Falls+Colorado)** — Zapata Falls (near Great Sand Dunes), Mosca
   - **Best for:** Waterfall — Amory's #3 unique national park waterfall: Zapata Falls near Great Sand Dunes — a dramatic falls hidden inside a dark rock cavern at the foot of the Sangre de Cristo Mountains, shown as a frozen icefall in winter.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/zapata-falls-trail)
   - Coordinates verified against OpenStreetMap.
@@ -4477,6 +4488,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Marshall's Beach in San Francisco — a crowd-free Golden Gate Bridge viewpoint reached from the Langdon Court lot via Battery West and the Batteries to Bluffs Trail; avoid high tide.
 - **[Devil's Den, Florida — swim inside the earth for $30 (American Bucket List ep. 1)](https://www.instagram.com/reel/DdPj29cM2c6/)** — @showmelovejete · 1 places · Theme: American Bucket List
   - What the reel recommends: Devil's Den Prehistoric Spring in Williston, FL — a 72°F underground spring inside a dry cave, swimmable/snorkelable for about $30, reached by a staircase down the sinkhole.
+- **[Royal Gorge Route Railroad — insane canyon views, no hiking required](https://www.instagram.com/reel/Dd6kk_6KTv7/)** — @mccrawsonthemap · 1 places · Theme: Scenic train rides
+  - What the reel recommends: The Royal Gorge Route Railroad from Cañon City, CO — a ~2-hour scenic ride through the 1,000-ft Royal Gorge under the Royal Gorge Bridge, no hiking required.
 
 ## How this page is updated {#how-this-page-is-updated}
 
