@@ -6749,6 +6749,30 @@
    }
   },
   {
+   "id": "reel:Dfh3uCoIXML",
+   "type": "Reel",
+   "properties": {
+    "name": "This might be the BEST hike in Sedona! (Vultee Arch)",
+    "url": "https://www.instagram.com/reel/Dfh3uCoIXML/",
+    "title": "This might be the BEST hike in Sedona! (Vultee Arch)",
+    "creator": "@thegoodflawtravels",
+    "theme": "Vultee Arch — Sedona hidden arch hike",
+    "places_count": 1,
+    "recommendation_summary": "Lily & Bryan (@thegoodflawtravels) hike to Vultee Arch in Sedona, Arizona — a hidden natural sandstone arch in Sterling Canyon they call possibly the best hike in Sedona, with no crowds: 3.5 miles round trip and 547 ft of gain, but the trailhead at the end of the rugged Forest Road 152 strictly requires a 4x4 high-clearance vehicle.",
+    "posted": "2026-11-09",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "creator:thegoodflawtravels",
+   "type": "Creator",
+   "properties": {
+    "name": "@thegoodflawtravels",
+    "handle": "@thegoodflawtravels",
+    "display_name": "Lily & Bryan | Outdoor Adventure Couple"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -22078,6 +22102,25 @@
    "properties": {
     "name": "Rail-biking / Pedal the abandoned Northern Railroad along the Merrimack River"
    }
+  },
+  {
+   "id": "place:vultee-arch-az",
+   "type": "Place",
+   "properties": {
+    "name": "Vultee Arch",
+    "place_id": "vultee-arch-az",
+    "site": "Coconino National Forest (Red Rock)",
+    "city": "Sedona",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 34.9415616,
+    "lng": -111.7686347,
+    "google_maps_query": "Vultee+Arch+Coconino+National+Forest+(Red+Rock)+AZ",
+    "best_for": "Hiking / Hidden sandstone arch in Sterling Canyon",
+    "note": "Coordinates are OpenStreetMap's named Vultee Arch feature (natural arch, Coconino County), cross-checked against a published place record for Vultee Arch (34.941463, -111.768735) — agreement within ~10 m. The USFS Vultee Arch Trailhead record (34.937275, -111.79439) matches the OSM trailhead parking ~2.3 km west, confirming the geography."
+   }
   }
  ],
  "edges": [
@@ -26193,6 +26236,18 @@
   },
   {
    "from": "reel:DfhTNzOysfe",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfh3uCoIXML",
+   "to": "creator:thegoodflawtravels",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfh3uCoIXML",
    "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
@@ -54195,6 +54250,37 @@
   {
    "from": "place:scenic-railriders-nh",
    "to": "theme:rail-biking-pedal-the-abandoned-northern-railroad-along-the-merrimack-river",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:vultee-arch-az",
+   "to": "state:united-states-az",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:vultee-arch-az",
+   "to": "site:coconino-national-forest-red-rock",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:vultee-arch-az",
+   "to": "reel:Dfh3uCoIXML",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hiking / Hidden sandstone arch in Sterling Canyon",
+    "recommendation": "Lily & Bryan call this hidden arch possibly the best hike in Sedona — it 'completely blew them away' and there were no crowds (their on-screen text jokes it 'ruined all other Arizona hikes'). The Vultee Arch Trail is 3.5 miles round trip with 547 ft of elevation gain through Sterling Canyon to the big natural arch, but the trailhead at the end of the rugged Dry Creek / Vultee Arch Road (Forest Road 152) strictly requires a 4x4 high-clearance vehicle.",
+    "creator": "@thegoodflawtravels",
+    "reel_title": "This might be the BEST hike in Sedona! (Vultee Arch)",
+    "reel_theme": "Vultee Arch — Sedona hidden arch hike"
+   }
+  },
+  {
+   "from": "place:vultee-arch-az",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
