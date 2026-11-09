@@ -6816,6 +6816,34 @@
    "places_count": 12,
    "recommendation_summary": "An exact repost of their Montana & Wyoming hike ratings from earlier in this batch (the Highline re-graded 10/10 and Hidden Falls 8/10 here versus 9/10 and 7/10 in the original). Flagged as a repost — no new sources attached.",
    "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfAda3aBxvF/",
+   "title": "Where am I?! — the 11/10 bench in Wisconsin",
+   "creator": "@themidwestguide",
+   "creator_name": "The Midwest Guide | Minnesota + Wisconsin Based | Midwest Travel",
+   "theme": "Wisconsin scenic overlook (unnamed in the reel)",
+   "posted": "2026-10-27",
+   "added": "2026-11-09",
+   "place_ids": [
+    "bradys-bluff-wi"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "An unnamed Wisconsin overlook the creator rates an '11/10 bench': a weathered wooden bench in the stacked-stone wall of a CCC-built shelter on a flagstone patio, opening onto a panoramic river-valley vista in fall color. Commenters identified it as Brady's Bluff in Perrot State Park (Trempealeau) — added as a new pin."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfIdIj-MNq-/",
+   "title": "Big Schloss via Wolf Gap Trail — a sunset favorite 2 hours from DC",
+   "creator": "@happilyeverexploring",
+   "creator_name": "Aleah + Seth 𖤥 DC-Based Outdoorsy Travelers",
+   "theme": "Sunset hike near Washington, DC",
+   "posted": "2026-10-30",
+   "added": "2026-11-09",
+   "place_ids": [
+    "big-schloss-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "One of their favorite sunset hikes, about two hours from Washington, DC: Big Schloss ('Big Castle') via the Wolf Gap Trail in George Washington National Forest — 4.3 miles round trip, 1,046 feet of gain, moderate — to a castle-like rock summit on the VA/WV line. Post-hike: Woodstock Brewhouse for beer and nachos. Added as a new pin."
   }
  ]
 }
