@@ -4708,6 +4708,28 @@
    }
   },
   {
+   "id": "reel:DbGeLXjP-qE",
+   "type": "Reel",
+   "properties": {
+    "name": "Would you stay the night in this cave? Beckham Creek Cave Lodge",
+    "url": "https://www.instagram.com/reel/DbGeLXjP-qE/",
+    "title": "Would you stay the night in this cave? Beckham Creek Cave Lodge",
+    "creator": "@wanderlusttravelcouple",
+    "theme": "Unique stays",
+    "places_count": 1,
+    "recommendation_summary": "Beckham Creek Cave Lodge, Parthenon AR — a former Cold War fallout shelter turned 5,800 sq ft luxury cave home in the Ozarks (4 bed/bath, sleeps 12, ~$300/person/night for a group, Netflix-featured); cave tours available without staying.",
+    "posted": "2026-07-22",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "theme:unique-stays",
+   "type": "Theme",
+   "properties": {
+    "name": "Unique stays"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -15785,6 +15807,39 @@
     "best_for": "Hike / Giant trees · Bonus — the carousel's cover grove",
     "note": "Pin is the published Lady Bird Johnson Grove parking/trailhead point on Bald Hills Road."
    }
+  },
+  {
+   "id": "place:beckham-creek-cave-lodge-ar",
+   "type": "Place",
+   "properties": {
+    "name": "Beckham Creek Cave Lodge",
+    "place_id": "beckham-creek-cave-lodge-ar",
+    "site": "Parthenon",
+    "city": "Parthenon",
+    "state": "Arkansas",
+    "state_code": "AR",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 35.95504,
+    "lng": -93.31688,
+    "google_maps_query": "Beckham+Creek+Cave+Lodge+Parthenon+AR",
+    "best_for": "Stay / Unique stay · Sleep inside a living cave in the Ozarks",
+    "note": "Pin is the lodge's published point (1110 NC 8641, Parthenon, AR 72666) — the business listing, the Newton County Chamber's map embed, and showcaves.com all agree within ~150 ft."
+   }
+  },
+  {
+   "id": "site:parthenon",
+   "type": "Site",
+   "properties": {
+    "name": "Parthenon"
+   }
+  },
+  {
+   "id": "theme:stay-unique-stay-sleep-inside-a-living-cave-in-the-ozarks",
+   "type": "Theme",
+   "properties": {
+    "name": "Stay / Unique stay · Sleep inside a living cave in the Ozarks"
+   }
   }
  ],
  "edges": [
@@ -18665,6 +18720,18 @@
   {
    "from": "reel:DfgBZshmdho",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DbGeLXjP-qE",
+   "to": "creator:wanderlusttravelcouple",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DbGeLXjP-qE",
+   "to": "theme:unique-stays",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -36011,6 +36078,37 @@
   {
    "from": "place:lady-bird-johnson-grove-ca",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:beckham-creek-cave-lodge-ar",
+   "to": "state:united-states-ar",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:beckham-creek-cave-lodge-ar",
+   "to": "site:parthenon",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:beckham-creek-cave-lodge-ar",
+   "to": "reel:DbGeLXjP-qE",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stay / Unique stay · Sleep inside a living cave in the Ozarks",
+    "recommendation": "Would you stay the night in this cave? Buried in the Ozark Mountains, Beckham Creek Cave Lodge (@beckhamcave) in Parthenon, Arkansas was once a private Cold War fallout shelter and has since been converted into one of the most beautiful and unique homes in the world. The 5,800 sq ft cave has 4 bedrooms, each with its own bathroom, and comfortably sleeps up to 12 guests — for less than $300 a person per night with a group. It was featured on Netflix's “World's Most Amazing Vacation Rentals,” and they offer cave tours you can take without staying the night.",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "Would you stay the night in this cave? Beckham Creek Cave Lodge",
+    "reel_theme": "Unique stays"
+   }
+  },
+  {
+   "from": "place:beckham-creek-cave-lodge-ar",
+   "to": "theme:stay-unique-stay-sleep-inside-a-living-cave-in-the-ozarks",
    "type": "BEST_FOR",
    "properties": {}
   }
