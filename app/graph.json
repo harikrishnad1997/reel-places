@@ -4662,6 +4662,28 @@
    }
   },
   {
+   "id": "reel:DantcQoQedg",
+   "type": "Reel",
+   "properties": {
+    "name": "Green River Gorge Resort — a hidden gem with a waterfall cave near Enumclaw",
+    "url": "https://www.instagram.com/reel/DantcQoQedg/",
+    "title": "Green River Gorge Resort — a hidden gem with a waterfall cave near Enumclaw",
+    "creator": "@n.sisson",
+    "theme": "Washington hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Green River Gorge Resort near Enumclaw, WA — a defunct 1920s resort whose trails stay open: a bridge, unique rock formations, and a walk behind a waterfall into a hidden cave; $5 cash-box parking, no restrooms, slippery trail.",
+    "posted": "2026-07-10",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "theme:washington-hidden-gems",
+   "type": "Theme",
+   "properties": {
+    "name": "Washington hidden gems"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -15460,6 +15482,32 @@
    "properties": {
     "name": "Mount Tamalpais Watershed"
    }
+  },
+  {
+   "id": "place:green-river-gorge-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Green River Gorge Resort",
+    "place_id": "green-river-gorge-wa",
+    "site": "Green River Gorge",
+    "city": "Enumclaw",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 47.30209,
+    "lng": -121.9496,
+    "google_maps_query": "Green+River+Gorge+Resort+Enumclaw",
+    "best_for": "Waterfall / Hidden gem · Walk behind a waterfall into a cave",
+    "note": "Pin is the published Green River Gorge Resort point (29500 SE Green River Gorge Rd, Enumclaw) — the trail access for the gorge, bridge, and waterfall cave."
+   }
+  },
+  {
+   "id": "site:green-river-gorge",
+   "type": "Site",
+   "properties": {
+    "name": "Green River Gorge"
+   }
   }
  ],
  "edges": [
@@ -18316,6 +18364,18 @@
   {
    "from": "reel:DcWZiBySFWX",
    "to": "theme:washington-alpine-lakes",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DantcQoQedg",
+   "to": "creator:n-sisson",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DantcQoQedg",
+   "to": "theme:washington-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -35272,6 +35332,37 @@
   {
    "from": "place:cataract-falls-ca",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:green-river-gorge-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:green-river-gorge-wa",
+   "to": "site:green-river-gorge",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:green-river-gorge-wa",
+   "to": "reel:DantcQoQedg",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Hidden gem · Walk behind a waterfall into a cave",
+    "recommendation": "Don't miss this hidden gem: the Green River Gorge Resort property near Enumclaw, WA. The resort dates to the 1920s, when it operated as a privately owned getaway with a hotel and cabins; by the 1970s and '80s it had become a well-known local party spot. The resort itself no longer operates, but the property and trails are still accessible — check out the bridge, walk behind a waterfall into a hidden cave, and explore the area's unique rock formations. The reel's practical notes: $5 for parking, paid at a cash box; no restrooms; and the trail can be slippery, so watch your step. Leave no trace.",
+    "creator": "@n.sisson",
+    "reel_title": "Green River Gorge Resort — a hidden gem with a waterfall cave near Enumclaw",
+    "reel_theme": "Washington hidden gems"
+   }
+  },
+  {
+   "from": "place:green-river-gorge-wa",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }
