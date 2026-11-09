@@ -4631,6 +4631,37 @@
    }
   },
   {
+   "id": "reel:DcWZiBySFWX",
+   "type": "Reel",
+   "properties": {
+    "name": "Snow Lake — a stunning alpine lake just 45 min from Seattle",
+    "url": "https://www.instagram.com/reel/DcWZiBySFWX/",
+    "title": "Snow Lake — a stunning alpine lake just 45 min from Seattle",
+    "creator": "@n.sisson",
+    "theme": "Washington alpine lakes",
+    "places_count": 1,
+    "recommendation_summary": "Snow Lake at Snoqualmie Pass, Washington — a 7.2-mile round trip to turquoise alpine water, 45 min from Seattle, extensible to Gem Lake; added as an additional source on the existing pin.",
+    "posted": "2026-08-22",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "creator:n-sisson",
+   "type": "Creator",
+   "properties": {
+    "name": "@n.sisson",
+    "handle": "@n.sisson",
+    "display_name": "Nicole Sisson | Adventure Travel"
+   }
+  },
+  {
+   "id": "theme:washington-alpine-lakes",
+   "type": "Theme",
+   "properties": {
+    "name": "Washington alpine lakes"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -18277,6 +18308,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DcWZiBySFWX",
+   "to": "creator:n-sisson",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcWZiBySFWX",
+   "to": "theme:washington-alpine-lakes",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -30086,6 +30129,19 @@
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:snow-lake-alpine-lakes-wa",
+   "to": "reel:DcWZiBySFWX",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Alpine lake / Hike · Turquoise water below Snoqualmie Pass peaks",
+    "recommendation": "Nicole's take: Snow Lake is a stunning alpine lake hike just off I-90 near Snoqualmie Pass, only 45 min from Seattle — beautiful mountain views and crystal-clear turquoise water that looks almost unreal. Her card: 7.2 miles round trip, ~1,800 ft of gain, NW Forest Pass or America the Beautiful at the trailhead, and if you want to extend the adventure, continue on to Gem Lake. Leave no trace.",
+    "creator": "@n.sisson",
+    "reel_title": "Snow Lake — a stunning alpine lake just 45 min from Seattle",
+    "reel_theme": "Washington alpine lakes"
+   }
   },
   {
    "from": "place:cape-flattery-wa",

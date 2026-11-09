@@ -7498,7 +7498,17 @@
    "source_creator": "@the.trekking.mama",
    "source_rank": 1,
    "source_reel_theme": "Washington alpine lake hike",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Alpine lake / Hike · Turquoise water below Snoqualmie Pass peaks",
+     "recommendation": "Nicole's take: Snow Lake is a stunning alpine lake hike just off I-90 near Snoqualmie Pass, only 45 min from Seattle — beautiful mountain views and crystal-clear turquoise water that looks almost unreal. Her card: 7.2 miles round trip, ~1,800 ft of gain, NW Forest Pass or America the Beautiful at the trailhead, and if you want to extend the adventure, continue on to Gem Lake. Leave no trace.",
+     "source_creator": "@n.sisson",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DcWZiBySFWX/",
+     "source_reel_theme": "Washington alpine lakes",
+     "source_title": "Snow Lake — a stunning alpine lake just 45 min from Seattle"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/washington/snow-lake-trail"
   },
   {

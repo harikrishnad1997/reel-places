@@ -3505,6 +3505,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/snow-lake-trail)
   - The Alpine Lakes Wilderness Snow Lake near Snoqualmie Pass — a different lake from the Snow Lake in Mount Rainier National Park, which is a separate pin. Pin is OpenStreetMap's named point for the lake.
   - 🎬 Source: [Snow Lake — the 'how is this real?' lake an hour from Seattle](https://www.instagram.com/reel/DaiuZDzPo9J/) by @the.trekking.mama (#1 in that reel)
+  - 🎬 Also recommended by: [Snow Lake — a stunning alpine lake just 45 min from Seattle](https://www.instagram.com/reel/DcWZiBySFWX/) by @n.sisson
+    - **Best for:** Alpine lake / Hike · Turquoise water below Snoqualmie Pass peaks — Nicole's take: Snow Lake is a stunning alpine lake hike just off I-90 near Snoqualmie Pass, only 45 min from Seattle — beautiful mountain views and crystal-clear turquoise water that looks almost unreal. Her card: 7.2 miles round trip, ~1,800 ft of gain, NW Forest Pass or America the Beautiful at the trailhead, and if you want to extend the adventure, continue on to Gem Lake. Leave no trace.
 
 ### Alvord Desert
 
@@ -4596,6 +4598,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Vesper Peak off the Mountain Loop Highway, Washington — a steep ~6.5-mile, 4,120-ft climb past Vesper Lake to a sunset summit; headlamp for the descent, Northwest Forest Pass at the trailhead.
 - **[9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/)** — @bhuti_hikes · 9 places · Theme: Bay Area hikes
   - What the reel recommends: Nine Bay Area hikes: Dragon Mountain Peak (Milpitas), Morning Sun Trail, Alamere Falls, Muir Beach to Pirate's Cove, Linda Falls, Stonewall Panoramic Trail, Steep Ravine Trail, Rodeo Beach to Hill 88, and Cataract Falls — waterfalls, coastal trails and views around the Bay Area.
+- **[Snow Lake — a stunning alpine lake just 45 min from Seattle](https://www.instagram.com/reel/DcWZiBySFWX/)** — @n.sisson · 1 places · Theme: Washington alpine lakes
+  - What the reel recommends: Snow Lake at Snoqualmie Pass, Washington — a 7.2-mile round trip to turquoise alpine water, 45 min from Seattle, extensible to Gem Lake; added as an additional source on the existing pin.
 
 ## How this page is updated {#how-this-page-is-updated}
 
