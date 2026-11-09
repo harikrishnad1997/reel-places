@@ -7743,6 +7743,61 @@
    }
   },
   {
+   "id": "reel:DfAda3aBxvF",
+   "type": "Reel",
+   "properties": {
+    "name": "Where am I?! — the 11/10 bench in Wisconsin",
+    "url": "https://www.instagram.com/reel/DfAda3aBxvF/",
+    "title": "Where am I?! — the 11/10 bench in Wisconsin",
+    "creator": "@themidwestguide",
+    "theme": "Wisconsin scenic overlook (unnamed in the reel)",
+    "places_count": 1,
+    "recommendation_summary": "An unnamed Wisconsin overlook the creator rates an '11/10 bench': a weathered wooden bench in the stacked-stone wall of a CCC-built shelter on a flagstone patio, opening onto a panoramic river-valley vista in fall color. Commenters identified it as Brady's Bluff in Perrot State Park (Trempealeau) — added as a new pin.",
+    "posted": "2026-10-27",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "creator:themidwestguide",
+   "type": "Creator",
+   "properties": {
+    "name": "@themidwestguide",
+    "handle": "@themidwestguide",
+    "display_name": "The Midwest Guide | Minnesota + Wisconsin Based | Midwest Travel"
+   }
+  },
+  {
+   "id": "theme:wisconsin-scenic-overlook-unnamed-in-the-reel",
+   "type": "Theme",
+   "properties": {
+    "name": "Wisconsin scenic overlook (unnamed in the reel)"
+   }
+  },
+  {
+   "id": "reel:DfIdIj-MNq-",
+   "type": "Reel",
+   "properties": {
+    "name": "Big Schloss via Wolf Gap Trail — a sunset favorite 2 hours from DC",
+    "url": "https://www.instagram.com/reel/DfIdIj-MNq-/",
+    "title": "Big Schloss via Wolf Gap Trail — a sunset favorite 2 hours from DC",
+    "creator": "@happilyeverexploring",
+    "theme": "Sunset hike near Washington, DC",
+    "places_count": 1,
+    "recommendation_summary": "One of their favorite sunset hikes, about two hours from Washington, DC: Big Schloss ('Big Castle') via the Wolf Gap Trail in George Washington National Forest — 4.3 miles round trip, 1,046 feet of gain, moderate — to a castle-like rock summit on the VA/WV line. Post-hike: Woodstock Brewhouse for beer and nachos. Added as a new pin.",
+    "posted": "2026-10-30",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "creator:happilyeverexploring",
+   "type": "Creator",
+   "properties": {
+    "name": "@happilyeverexploring",
+    "handle": "@happilyeverexploring",
+    "display_name": "Aleah + Seth 𖤥 DC-Based Outdoorsy Travelers"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -24404,6 +24459,58 @@
     "best_for": "Viewpoint / Painted Desert overlook behind the Painted Desert Inn",
     "note": "Coordinates from the NPS Painted Desert Inn place record — the inn sits at Kachina Point."
    }
+  },
+  {
+   "id": "place:bradys-bluff-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Brady's Bluff",
+    "place_id": "bradys-bluff-wi",
+    "site": "Perrot State Park",
+    "city": "Trempealeau",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 44.02033,
+    "lng": -91.48328,
+    "google_maps_query": "Bradys+Bluff+Perrot+State+Park+WI",
+    "best_for": "Viewpoint / Mississippi River bluff overlook with a CCC stone shelter",
+    "note": "Coordinates are the OpenStreetMap/Mapcarta summit point (USGS GNIS summit: 44.02024, -91.48320). The reel does not name the location; the identification is from the post's comments plus the matching CCC stone shelter, flagstone patio and river-valley panorama at the Brady's Bluff summit."
+   }
+  },
+  {
+   "id": "site:perrot-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Perrot State Park"
+   }
+  },
+  {
+   "id": "place:big-schloss-va",
+   "type": "Place",
+   "properties": {
+    "name": "Big Schloss",
+    "place_id": "big-schloss-va",
+    "site": "George Washington National Forest",
+    "city": "Woodstock",
+    "state": "Virginia",
+    "state_code": "VA",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 38.94056,
+    "lng": -78.66583,
+    "google_maps_query": "Big+Schloss+George+Washington+National+Forest+VA",
+    "best_for": "Hiking / Sunset summit — castle-like rock outcrop",
+    "note": "Summit coordinates from Wikipedia (38.94056, -78.66583); the USFS place record (38.941389, -78.666096) agrees. The summit sits on the VA/WV state line in George Washington National Forest; the trailhead is Wolf Gap Recreation Area."
+   }
+  },
+  {
+   "id": "site:george-washington-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "George Washington National Forest"
+   }
   }
  ],
  "edges": [
@@ -29149,6 +29256,36 @@
   },
   {
    "from": "reel:DUWEL9cCWkp",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfAda3aBxvF",
+   "to": "creator:themidwestguide",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfAda3aBxvF",
+   "to": "theme:wisconsin-scenic-overlook-unnamed-in-the-reel",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfIdIj-MNq-",
+   "to": "creator:happilyeverexploring",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfIdIj-MNq-",
+   "to": "theme:sunset",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfIdIj-MNq-",
    "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
@@ -64795,6 +64932,74 @@
   {
    "from": "place:kachina-point-az",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bradys-bluff-wi",
+   "to": "state:united-states-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:bradys-bluff-wi",
+   "to": "site:perrot-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bradys-bluff-wi",
+   "to": "reel:DfAda3aBxvF",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint / Mississippi River bluff overlook with a CCC stone shelter",
+    "recommendation": "The Midwest Guide's '11/10 bench in Wisconsin': the reel opens on the weathered wooden bench set into the stacked-stone wall of the CCC-built shelter at the top of Brady's Bluff, then pans across the Mississippi River valley in full fall color. The creator never named the spot ('Where am I?!') — commenters identified it as Perrot State Park's Brady's Bluff, the park's highest point, rising nearly 460 feet above the river with views to Trempealeau Mountain and Trempealeau Bay.",
+    "creator": "@themidwestguide",
+    "reel_title": "Where am I?! — the 11/10 bench in Wisconsin",
+    "reel_theme": "Wisconsin scenic overlook (unnamed in the reel)"
+   }
+  },
+  {
+   "from": "place:bradys-bluff-wi",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:big-schloss-va",
+   "to": "state:united-states-va",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:big-schloss-va",
+   "to": "site:george-washington-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:big-schloss-va",
+   "to": "reel:DfIdIj-MNq-",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hiking / Sunset summit — castle-like rock outcrop",
+    "recommendation": "Aleah + Seth's favorite sunset hike about two hours from Washington, DC: Big Schloss ('Big Castle' in German) via the Wolf Gap Trail — 4.3 miles round trip, 1,046 feet of gain, moderate — climbing Great North Mountain to a castle-like sandstone summit (2,964 ft) on the Virginia/West Virginia line. Their post-hike stop: the Woodstock Brewhouse in Woodstock for beer and nachos.",
+    "creator": "@happilyeverexploring",
+    "reel_title": "Big Schloss via Wolf Gap Trail — a sunset favorite 2 hours from DC",
+    "reel_theme": "Sunset hike near Washington, DC"
+   }
+  },
+  {
+   "from": "place:big-schloss-va",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:big-schloss-va",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
