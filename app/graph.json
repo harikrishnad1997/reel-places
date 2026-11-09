@@ -4607,6 +4607,30 @@
    }
   },
   {
+   "id": "reel:DeneiZFxFGB",
+   "type": "Reel",
+   "properties": {
+    "name": "9 Bay Area Hikes You Don't Want to Miss",
+    "url": "https://www.instagram.com/reel/DeneiZFxFGB/",
+    "title": "9 Bay Area Hikes You Don't Want to Miss",
+    "creator": "@bhuti_hikes",
+    "theme": "Bay Area hikes",
+    "places_count": 9,
+    "recommendation_summary": "Nine Bay Area hikes: Dragon Mountain Peak (Milpitas), Morning Sun Trail, Alamere Falls, Muir Beach to Pirate's Cove, Linda Falls, Stonewall Panoramic Trail, Steep Ravine Trail, Rodeo Beach to Hill 88, and Cataract Falls — waterfalls, coastal trails and views around the Bay Area.",
+    "posted": "2026-10-17",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "creator:bhuti-hikes",
+   "type": "Creator",
+   "properties": {
+    "name": "@bhuti_hikes",
+    "handle": "@bhuti_hikes",
+    "display_name": "Tenzin Bhutti"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -15178,6 +15202,233 @@
    "properties": {
     "name": "Mount Baker-Snoqualmie National Forest (Mountain Loop Highway)"
    }
+  },
+  {
+   "id": "place:dragon-mountain-peak-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Dragon Mountain Peak",
+    "place_id": "dragon-mountain-peak-ca",
+    "site": "Thiên Long Sơn (Dragon Mountain Park)",
+    "city": "Milpitas",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.45626,
+    "lng": -121.8494,
+    "google_maps_query": "Dragon+Mountain+Park+Milpitas",
+    "best_for": "Peak / Stairs climb · Buddhist statues and valley views from a temple hill",
+    "note": "Pin is the OSM point for Dragon Mountain Park (the temple grounds); the summit boulders are above it on the trail."
+   }
+  },
+  {
+   "id": "site:thi-n-long-s-n-dragon-mountain-park",
+   "type": "Site",
+   "properties": {
+    "name": "Thiên Long Sơn (Dragon Mountain Park)"
+   }
+  },
+  {
+   "id": "place:morning-sun-trail-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Morning Sun Trail",
+    "place_id": "morning-sun-trail-ca",
+    "site": "Marin Headlands / Golden Gate National Recreation Area",
+    "city": "Sausalito",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.85316,
+    "lng": -122.4945,
+    "google_maps_query": "Morning+Sun+Trail+Sausalito",
+    "best_for": "Hike / Coastal views · Short climb above the Golden Gate's north end",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:marin-headlands-golden-gate-national-recreation-area",
+   "type": "Site",
+   "properties": {
+    "name": "Marin Headlands / Golden Gate National Recreation Area"
+   }
+  },
+  {
+   "id": "place:alamere-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Alamere Falls",
+    "place_id": "alamere-falls-ca",
+    "site": "Point Reyes National Seashore",
+    "city": "Bolinas",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.95376,
+    "lng": -122.78334,
+    "google_maps_query": "Alamere+Falls+Point+Reyes",
+    "best_for": "Waterfall / Hike · A tidefall pouring onto the beach",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:point-reyes-national-seashore",
+   "type": "Site",
+   "properties": {
+    "name": "Point Reyes National Seashore"
+   }
+  },
+  {
+   "id": "place:muir-beach-pirates-cove-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Muir Beach to Pirate's Cove",
+    "place_id": "muir-beach-pirates-cove-ca",
+    "site": "Golden Gate National Recreation Area",
+    "city": "Muir Beach",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.85197,
+    "lng": -122.56194,
+    "google_maps_query": "Pirate's+Cove+Muir+Beach",
+    "best_for": "Coastal hike · Cliff-top walk to a hidden cove",
+    "note": "Pin is the Pirate's Cove beach point (OSM), the hike's destination."
+   }
+  },
+  {
+   "id": "site:golden-gate-national-recreation-area",
+   "type": "Site",
+   "properties": {
+    "name": "Golden Gate National Recreation Area"
+   }
+  },
+  {
+   "id": "place:linda-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Linda Falls",
+    "place_id": "linda-falls-ca",
+    "site": "Linda Falls Preserve (Land Trust of Napa County)",
+    "city": "Angwin",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 38.55559,
+    "lng": -122.44222,
+    "google_maps_query": "Linda+Falls+Napa",
+    "best_for": "Waterfall · A two-tier cascade in a fern-lined canyon",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:linda-falls-preserve-land-trust-of-napa-county",
+   "type": "Site",
+   "properties": {
+    "name": "Linda Falls Preserve (Land Trust of Napa County)"
+   }
+  },
+  {
+   "id": "place:stonewall-panoramic-trail-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Stonewall Panoramic Trail",
+    "place_id": "stonewall-panoramic-trail-ca",
+    "site": "Claremont Canyon Regional Preserve",
+    "city": "Berkeley",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.86461,
+    "lng": -122.24069,
+    "google_maps_query": "Stonewall-Panoramic+Trail+Berkeley",
+    "best_for": "Hike / Panoramic views · Steep ridge climb over the bay",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:claremont-canyon-regional-preserve",
+   "type": "Site",
+   "properties": {
+    "name": "Claremont Canyon Regional Preserve"
+   }
+  },
+  {
+   "id": "place:steep-ravine-trail-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Steep Ravine Trail",
+    "place_id": "steep-ravine-trail-ca",
+    "site": "Mount Tamalpais State Park",
+    "city": "Stinson Beach",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.75011,
+    "lng": -122.45482,
+    "google_maps_query": "Steep+Ravine+Trail+Mount+Tamalpais",
+    "best_for": "Hike / Redwood ravine · Ladders and cascades in a fern-filled gorge",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:mount-tamalpais-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Mount Tamalpais State Park"
+   }
+  },
+  {
+   "id": "place:rodeo-beach-hill-88-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Rodeo Beach to Hill 88",
+    "place_id": "rodeo-beach-hill-88-ca",
+    "site": "Marin Headlands / Golden Gate National Recreation Area",
+    "city": "Sausalito",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.84242,
+    "lng": -122.53244,
+    "google_maps_query": "Hill+88+Marin+Headlands",
+    "best_for": "Coastal hike / Summit · WWII-era radar site above Rodeo Beach",
+    "note": "Pin is the OSM peak point for Hill 88, the hike's summit above Rodeo Beach."
+   }
+  },
+  {
+   "id": "place:cataract-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Cataract Falls",
+    "place_id": "cataract-falls-ca",
+    "site": "Mount Tamalpais Watershed",
+    "city": "Fairfax",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.93202,
+    "lng": -122.63545,
+    "google_maps_query": "Cataract+Falls+Marin",
+    "best_for": "Waterfall / Hike · A staircase of cascades along Cataract Creek",
+    "note": ""
+   }
+  },
+  {
+   "id": "site:mount-tamalpais-watershed",
+   "type": "Site",
+   "properties": {
+    "name": "Mount Tamalpais Watershed"
+   }
   }
  ],
  "edges": [
@@ -18009,6 +18260,18 @@
   },
   {
    "from": "reel:DeqN16QRkeF",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeneiZFxFGB",
+   "to": "creator:bhuti-hikes",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeneiZFxFGB",
    "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
@@ -34649,6 +34912,309 @@
   },
   {
    "from": "place:vesper-peak-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:dragon-mountain-peak-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:dragon-mountain-peak-ca",
+   "to": "site:thi-n-long-s-n-dragon-mountain-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:dragon-mountain-peak-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Peak / Stairs climb · Buddhist statues and valley views from a temple hill",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Dragon Mountain in Milpitas — the Thiên Long Sơn temple park: a 450+ step staircase climb past Buddhist statues to a grassy summit with views across Silicon Valley to Loma Prieta and Mount Umunhum. The out-and-back runs about 4 miles from the lower lot at 3215 Calaveras Rd; open sunrise to sunset, no dogs.",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:dragon-mountain-peak-ca",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:morning-sun-trail-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:morning-sun-trail-ca",
+   "to": "site:marin-headlands-golden-gate-national-recreation-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:morning-sun-trail-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike / Coastal views · Short climb above the Golden Gate's north end",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The Morning Sun Trail in the Marin Headlands — a short, steep climb from the Fort Baker side up to Slacker Ridge, with views back over the Golden Gate Bridge and the bay.",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:morning-sun-trail-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:morning-sun-trail-ca",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:alamere-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:alamere-falls-ca",
+   "to": "site:point-reyes-national-seashore",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:alamere-falls-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Waterfall / Hike · A tidefall pouring onto the beach",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Alamere Falls — one of California's rare tidefalls, pouring over the cliff straight onto Wildcat Beach in Point Reyes. Reached on the Coast Trail from the Palomarin trailhead (the long way, ~13-14 miles round trip via Wildcat Camp, is the safe official route — stay on park trails to the beach rather than the eroded shortcut).",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:alamere-falls-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:alamere-falls-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:muir-beach-pirates-cove-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:muir-beach-pirates-cove-ca",
+   "to": "site:golden-gate-national-recreation-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:muir-beach-pirates-cove-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Coastal hike · Cliff-top walk to a hidden cove",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The coastal walk from Muir Beach south to Pirate's Cove — a cliff-top stretch of the Coastal Trail ending at a small, hidden cove beach tucked between the headlands.",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:muir-beach-pirates-cove-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:linda-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:linda-falls-ca",
+   "to": "site:linda-falls-preserve-land-trust-of-napa-county",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:linda-falls-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Waterfall · A two-tier cascade in a fern-lined canyon",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Linda Falls near Angwin in Napa County — a two-tier waterfall on Conn Creek in a shady, fern-lined canyon, protected as a Land Trust of Napa County preserve; a short trail in from the trailhead on Howell Mountain Road.",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:linda-falls-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:stonewall-panoramic-trail-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:stonewall-panoramic-trail-ca",
+   "to": "site:claremont-canyon-regional-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:stonewall-panoramic-trail-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Hike / Panoramic views · Steep ridge climb over the bay",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The Stonewall-Panoramic Trail in Claremont Canyon — a steep, straight-up-the-ridge climb from behind the Claremont Hotel to Panoramic Ridge, with the payoff right in the name: sweeping views over Berkeley, Oakland, and the bay.",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:stonewall-panoramic-trail-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:stonewall-panoramic-trail-ca",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:steep-ravine-trail-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:steep-ravine-trail-ca",
+   "to": "site:mount-tamalpais-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:steep-ravine-trail-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Hike / Redwood ravine · Ladders and cascades in a fern-filled gorge",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The Steep Ravine Trail on Mount Tamalpais — a fern- and redwood-filled ravine along Webb Creek with small cascades and the trail's famous wooden ladder, usually looped with the Dipsea and Matt Davis trails between Pantoll and Stinson Beach.",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:steep-ravine-trail-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rodeo-beach-hill-88-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:rodeo-beach-hill-88-ca",
+   "to": "site:marin-headlands-golden-gate-national-recreation-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:rodeo-beach-hill-88-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Coastal hike / Summit · WWII-era radar site above Rodeo Beach",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The climb from Rodeo Beach up to Hill 88 in the Marin Headlands — a Cold War-era radar station ruin on the summit, with huge views over Rodeo Beach, the headlands, and the Pacific; usually looped via the Coastal and Wolf Ridge trails.",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:rodeo-beach-hill-88-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-falls-ca",
+   "to": "site:mount-tamalpais-watershed",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-falls-ca",
+   "to": "reel:DeneiZFxFGB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 9,
+    "best_for": "Waterfall / Hike · A staircase of cascades along Cataract Creek",
+    "recommendation": "One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Cataract Falls on the slopes of Mount Tamalpais — not one fall but a staircase of cascades along Cataract Creek through redwoods, at its best after rain; the Cataract Trail climbs ~3 miles out-and-back from Bolinas-Fairfax Road past Alpine Lake.",
+    "creator": "@bhuti_hikes",
+    "reel_title": "9 Bay Area Hikes You Don't Want to Miss",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:cataract-falls-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cataract-falls-ca",
    "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
