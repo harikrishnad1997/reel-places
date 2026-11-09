@@ -6773,6 +6773,30 @@
    }
   },
   {
+   "id": "reel:DfgKTARNl92",
+   "type": "Reel",
+   "properties": {
+    "name": "Hikes to do before your knees give out — Ep. 5: Mooney Falls",
+    "url": "https://www.instagram.com/reel/DfgKTARNl92/",
+    "title": "Hikes to do before your knees give out — Ep. 5: Mooney Falls",
+    "creator": "@lafftravel",
+    "theme": "Mooney Falls chain-and-ladder descent, Havasupai",
+    "places_count": 1,
+    "recommendation_summary": "Cassie Compton (@lafftravel) features Mooney Falls in Havasupai, Arizona — Episode 5 of her 'hikes to do before your knees give out' series. The nearly 200-foot falls pour into intensely blue water, but the base is reached by a cliff descent on chains, ladders and carved footholds, at the end of the 10-mile hike into Havasu Canyon; a Havasupai reservation and permit are required. Added as a new pin next to the existing Havasu Falls pin.",
+    "posted": "2026-11-08",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "creator:lafftravel",
+   "type": "Creator",
+   "properties": {
+    "name": "@lafftravel",
+    "handle": "@lafftravel",
+    "display_name": "Cassie Compton | Bucket List Adventure Travel"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -22121,6 +22145,25 @@
     "best_for": "Hiking / Hidden sandstone arch in Sterling Canyon",
     "note": "Coordinates are OpenStreetMap's named Vultee Arch feature (natural arch, Coconino County), cross-checked against a published place record for Vultee Arch (34.941463, -111.768735) — agreement within ~10 m. The USFS Vultee Arch Trailhead record (34.937275, -111.79439) matches the OSM trailhead parking ~2.3 km west, confirming the geography."
    }
+  },
+  {
+   "id": "place:mooney-falls-az",
+   "type": "Place",
+   "properties": {
+    "name": "Mooney Falls",
+    "place_id": "mooney-falls-az",
+    "site": "Havasu Canyon (Havasupai)",
+    "city": "Supai",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "region": "Southwest",
+    "country": "United States",
+    "lat": 36.2631804,
+    "lng": -112.7085797,
+    "google_maps_query": "Mooney+Falls+Havasupai+AZ",
+    "best_for": "Waterfall / Nearly 200-foot falls reached by a chain-and-ladder cliff descent",
+    "note": "Coordinates are OpenStreetMap's Mooney Falls waterfall point on Havasu Creek, about a mile below Havasu Falls."
+   }
   }
  ],
  "edges": [
@@ -26249,6 +26292,18 @@
   {
    "from": "reel:Dfh3uCoIXML",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfgKTARNl92",
+   "to": "creator:lafftravel",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfgKTARNl92",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -54281,6 +54336,37 @@
   {
    "from": "place:vultee-arch-az",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mooney-falls-az",
+   "to": "state:united-states-az",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mooney-falls-az",
+   "to": "site:havasu-canyon-havasupai",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mooney-falls-az",
+   "to": "reel:DfgKTARNl92",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Nearly 200-foot falls reached by a chain-and-ladder cliff descent",
+    "recommendation": "Episode 5 of Cassie Compton's (@lafftravel) 'hikes to do before your knees give out': Mooney Falls drops nearly 200 feet into the most ridiculously blue water she's ever seen — but reaching the base means climbing down a cliff on chains, ladders and footholds carved into the rock. It's part of the Havasupai backpacking trip (10 miles in with a 35-pound pack on her first-ever backpacking trip; she lost three toenails and would do it all again in a heartbeat). A Havasupai reservation and permit are required, and the descent is steep and slippery — definitely not for everyone, but unforgettable if you're comfortable with heights.",
+    "creator": "@lafftravel",
+    "reel_title": "Hikes to do before your knees give out — Ep. 5: Mooney Falls",
+    "reel_theme": "Mooney Falls chain-and-ladder descent, Havasupai"
+   }
+  },
+  {
+   "from": "place:mooney-falls-az",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }
