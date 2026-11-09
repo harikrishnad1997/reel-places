@@ -4730,6 +4730,30 @@
    }
   },
   {
+   "id": "reel:DfIhRr1hSLK",
+   "type": "Reel",
+   "properties": {
+    "name": "Cascades Falls, Pembroke Virginia — one of the best hikes in Virginia",
+    "url": "https://www.instagram.com/reel/DfIhRr1hSLK/",
+    "title": "Cascades Falls, Pembroke Virginia — one of the best hikes in Virginia",
+    "creator": "@shedarestogo",
+    "theme": "Virginia waterfalls",
+    "places_count": 1,
+    "recommendation_summary": "Cascades Falls, Pembroke VA (Jefferson NF) — a 66-ft waterfall reached by a 4-mile round trip with lots of gain; she did it with her 8-year-old, calls it one of Virginia's best hikes, and advises extra water and breaks.",
+    "posted": "2026-10-30",
+    "added": "2026-11-09"
+   }
+  },
+  {
+   "id": "creator:shedarestogo",
+   "type": "Creator",
+   "properties": {
+    "name": "@shedarestogo",
+    "handle": "@shedarestogo",
+    "display_name": "Shaneice | Adventure Travel • Hiking • Road Trips"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -15840,6 +15864,32 @@
    "properties": {
     "name": "Stay / Unique stay · Sleep inside a living cave in the Ozarks"
    }
+  },
+  {
+   "id": "place:cascades-falls-va",
+   "type": "Place",
+   "properties": {
+    "name": "Cascades Falls",
+    "place_id": "cascades-falls-va",
+    "site": "Jefferson National Forest",
+    "city": "Pembroke",
+    "state": "Virginia",
+    "state_code": "VA",
+    "region": "Southeast",
+    "country": "United States",
+    "lat": 37.36792,
+    "lng": -80.57519,
+    "google_maps_query": "Cascades+Falls+Pembroke+VA",
+    "best_for": "Waterfall / 66-foot waterfall at the end of a creekside climb",
+    "note": "Pin is the falls themselves on Little Stony Creek (published waterfall GPS; trail guides and the Forest Service agree). The Cascades Day Use Area trailhead/parking is ~1.5 mi southwest at 37.35301, -80.59984 (2068 Cascade Dr, $3/car day-use fee)."
+   }
+  },
+  {
+   "id": "site:jefferson-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Jefferson National Forest"
+   }
   }
  ],
  "edges": [
@@ -18732,6 +18782,18 @@
   {
    "from": "reel:DbGeLXjP-qE",
    "to": "theme:unique-stays",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfIhRr1hSLK",
+   "to": "creator:shedarestogo",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfIhRr1hSLK",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -36109,6 +36171,37 @@
   {
    "from": "place:beckham-creek-cave-lodge-ar",
    "to": "theme:stay-unique-stay-sleep-inside-a-living-cave-in-the-ozarks",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cascades-falls-va",
+   "to": "state:united-states-va",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cascades-falls-va",
+   "to": "site:jefferson-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cascades-falls-va",
+   "to": "reel:DfIhRr1hSLK",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / 66-foot waterfall at the end of a creekside climb",
+    "recommendation": "One of the best hikes in Virginia, and the waterfall is incredible: Cascades Falls in Pembroke, Virginia — she hiked it with her 8-year-old. It's 2 miles out and 2 miles back plus lots of elevation gain — a hard hike for beginners, but doable with kids (not recommended for kids under 6). About 4 hours from northern Virginia and 3 hours from Richmond. Her tips for solo moms and solo adventurers: bring way more water than you think you'll need and be prepared to take many breaks. (The falls themselves are a 66-foot cascade on Little Stony Creek, reached by the Cascades National Recreation Trail — US Forest Service.)",
+    "creator": "@shedarestogo",
+    "reel_title": "Cascades Falls, Pembroke Virginia — one of the best hikes in Virginia",
+    "reel_theme": "Virginia waterfalls"
+   }
+  },
+  {
+   "from": "place:cascades-falls-va",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }
