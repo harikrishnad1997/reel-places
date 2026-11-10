@@ -578,6 +578,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Top state park — Ranked #4 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.
   - Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [State Park Ranking — 12 Best State Parks, Northeast U.S.](https://www.instagram.com/reel/De9LC16xH4i/) by @discovery_matt (#4 in that reel)
+  - 🎬 Also recommended by: [We climbed 800 stone steps at Watkins Glen — America's most beautiful state park](https://www.instagram.com/reel/DfSJ024hYiD/) by @codiendrew
+    - **Best for:** Hiking / Gorge Trail — 800 stone steps and 19 waterfalls — Codie & Drew call Watkins Glen's Gorge Trail one of the most incredible gorge hikes in New York: more than 800 stone steps past towering rock walls and 19 waterfalls, over stone bridges and through tunnels, including walking behind the falls at Cavern Cascade — filmed in peak fall color.
 
 ##### Waterfall
 
@@ -9515,6 +9517,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Wildlife of the Dakotas, Wyoming and Montana — the four parks they name as best for wildlife (Theodore Roosevelt, Yellowstone, Grand Teton, Glacier), with a creator reply confirming the post's grizzly was filmed in Hayden Valley. Attached as a source on the four park pins and Hayden Valley; no new pins.
 - **[2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/)** — @kelleyandcarlsadventures · 8 places · Theme: Glacier two-day itinerary
   - What the reel recommends: 2 days in Glacier National Park: the Wild Goose Island Lookout added as a new pin, plus Hidden Lake Overlook, the Highline Trail, the Garden Wall, Grinnell Glacier, Going-to-the-Sun Road, the Many Glacier / Swiftcurrent Lake area and Lake McDonald attached as sources. One new pin.
+- **[We climbed 800 stone steps at Watkins Glen — America's most beautiful state park](https://www.instagram.com/reel/DfSJ024hYiD/)** — @codiendrew · 1 places · Theme: Watkins Glen State Park gorge hike
+  - What the reel recommends: Codie & Drew climb the Watkins Glen Gorge Trail in fall: 800+ stone steps past 19 waterfalls, stone bridges and tunnels, including walking behind Cavern Cascade — billed on screen as America's most beautiful state park. Attached as a source on the existing Watkins Glen State Park pin; no new pins.
 
 ## How this page is updated {#how-this-page-is-updated}
 
