@@ -1607,6 +1607,15 @@
      "source_reel": "https://www.instagram.com/reel/DRzx2E8Dm8C/",
      "source_reel_theme": "East Coast vs West montage",
      "source_title": "It's just not the same on the East Coast"
+    },
+    {
+     "best_for": "Stargazing / Milky Way over the hoodoos",
+     "recommendation": "Their idea of a perfect date night: he woke her at 3am to drive into the park and watch the Milky Way rise over the hoodoos — Bryce's Bortle Class 2 skies are among the best in the country for stargazing and Milky Way photography; the season runs March–October, best around the new moon.",
+     "source_creator": "@flyandfoto",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfiK3RZPXhI/",
+     "source_reel_theme": "Bryce Canyon Milky Way stargazing",
+     "source_title": "A 3am Milky Way date night over the Bryce Canyon hoodoos"
     }
    ],
    "best_for": "Top national park",
@@ -31396,6 +31405,29 @@
    "source_reel_theme": "Cuyahoga Valley National Park guide",
    "additional_sources": [],
    "note": "Coordinates: NPS place record (exact location)."
+  },
+  {
+   "id": "clear-sky-resorts-bryce-canyon-ut",
+   "name": "Clear Sky Resorts Bryce Canyon",
+   "site": "Cannonville",
+   "city": "Cannonville",
+   "state": "Utah",
+   "state_code": "UT",
+   "country": "USA",
+   "region": "Southwest",
+   "region_id": "southwest",
+   "lat": 37.563644,
+   "lng": -112.034334,
+   "google_maps_query": "Clear Sky Resorts Bryce Canyon, Cannonville, Cannonville, Utah",
+   "best_for": "Stargazing stay / Glass Sky Domes for watching the Milky Way from bed",
+   "recommendation": "Where Kasey & Jason stayed for their Bryce Milky Way date night: a resort of glass Sky Domes in a private canyon on Scenic Byway 12, about 20 minutes from Bryce Canyon National Park — after the 3am shoot they kept watching the stars from bed.",
+   "source_reel": "https://www.instagram.com/reel/DfiK3RZPXhI/",
+   "source_title": "A 3am Milky Way date night over the Bryce Canyon hoodoos",
+   "source_creator": "@flyandfoto",
+   "source_rank": null,
+   "source_reel_theme": "Bryce Canyon Milky Way stargazing",
+   "additional_sources": [],
+   "note": "Coordinates: published resort listings agree on 37.563644, -112.034334 (855 UT-12, Cannonville, UT 84718)."
   }
  ],
  "updated": "2026-11-10",
