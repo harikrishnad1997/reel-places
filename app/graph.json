@@ -10674,6 +10674,37 @@
    }
   },
   {
+   "id": "reel:DfiK3RZPXhI",
+   "type": "Reel",
+   "properties": {
+    "name": "A 3am Milky Way date night over the Bryce Canyon hoodoos",
+    "url": "https://www.instagram.com/reel/DfiK3RZPXhI/",
+    "title": "A 3am Milky Way date night over the Bryce Canyon hoodoos",
+    "creator": "@flyandfoto",
+    "theme": "Bryce Canyon Milky Way stargazing",
+    "places_count": 2,
+    "recommendation_summary": "Kasey & Jason's perfect date night: a 3am drive into Bryce Canyon to watch the Milky Way rise over the hoodoos (Bortle Class 2 skies; Milky Way season March–October, best around the new moon), then back to a glass Sky Dome at Clear Sky Resorts in Cannonville to keep watching the stars from bed. Created the Clear Sky Resorts pin; attached as a stargazing source on the Bryce Canyon park pin.",
+    "posted": "2026-11-09",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "creator:flyandfoto",
+   "type": "Creator",
+   "properties": {
+    "name": "@flyandfoto",
+    "handle": "@flyandfoto",
+    "display_name": "Kasey & Jason | Northern Lights + Milky Way Travel"
+   }
+  },
+  {
+   "id": "theme:bryce-canyon-milky-way-stargazing",
+   "type": "Theme",
+   "properties": {
+    "name": "Bryce Canyon Milky Way stargazing"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -11613,6 +11644,13 @@
    "type": "Theme",
    "properties": {
     "name": "National park / East vs West montage"
+   }
+  },
+  {
+   "id": "theme:stargazing-milky-way-over-the-hoodoos",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing / Milky Way over the hoodoos"
    }
   },
   {
@@ -29330,6 +29368,39 @@
     "best_for": "Wildlife viewing / Boardwalk over a beaver marsh on the Towpath Trail",
     "note": "Coordinates: NPS place record (exact location)."
    }
+  },
+  {
+   "id": "place:clear-sky-resorts-bryce-canyon-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Clear Sky Resorts Bryce Canyon",
+    "place_id": "clear-sky-resorts-bryce-canyon-ut",
+    "site": "Cannonville",
+    "city": "Cannonville",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Southwest",
+    "country": "USA",
+    "lat": 37.563644,
+    "lng": -112.034334,
+    "google_maps_query": "Clear Sky Resorts Bryce Canyon, Cannonville, Cannonville, Utah",
+    "best_for": "Stargazing stay / Glass Sky Domes for watching the Milky Way from bed",
+    "note": "Coordinates: published resort listings agree on 37.563644, -112.034334 (855 UT-12, Cannonville, UT 84718)."
+   }
+  },
+  {
+   "id": "site:cannonville",
+   "type": "Site",
+   "properties": {
+    "name": "Cannonville"
+   }
+  },
+  {
+   "id": "theme:stargazing-stay-glass-sky-domes-for-watching-the-milky-way-from-bed",
+   "type": "Theme",
+   "properties": {
+    "name": "Stargazing stay / Glass Sky Domes for watching the Milky Way from bed"
+   }
   }
  ],
  "edges": [
@@ -35934,6 +36005,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DfiK3RZPXhI",
+   "to": "creator:flyandfoto",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfiK3RZPXhI",
+   "to": "theme:bryce-canyon-milky-way-stargazing",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -38763,6 +38846,25 @@
   {
    "from": "place:bryce-canyon-national-park-ut",
    "to": "theme:national-park-east-vs-west-montage",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "reel:DfiK3RZPXhI",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing / Milky Way over the hoodoos",
+    "recommendation": "Their idea of a perfect date night: he woke her at 3am to drive into the park and watch the Milky Way rise over the hoodoos — Bryce's Bortle Class 2 skies are among the best in the country for stargazing and Milky Way photography; the season runs March–October, best around the new moon.",
+    "creator": "@flyandfoto",
+    "reel_title": "A 3am Milky Way date night over the Bryce Canyon hoodoos",
+    "reel_theme": "Bryce Canyon Milky Way stargazing"
+   }
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "theme:stargazing-milky-way-over-the-hoodoos",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -85000,6 +85102,37 @@
   {
    "from": "place:beaver-marsh-oh",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:clear-sky-resorts-bryce-canyon-ut",
+   "to": "state:usa-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:clear-sky-resorts-bryce-canyon-ut",
+   "to": "site:cannonville",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:clear-sky-resorts-bryce-canyon-ut",
+   "to": "reel:DfiK3RZPXhI",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Stargazing stay / Glass Sky Domes for watching the Milky Way from bed",
+    "recommendation": "Where Kasey & Jason stayed for their Bryce Milky Way date night: a resort of glass Sky Domes in a private canyon on Scenic Byway 12, about 20 minutes from Bryce Canyon National Park — after the 3am shoot they kept watching the stars from bed.",
+    "creator": "@flyandfoto",
+    "reel_title": "A 3am Milky Way date night over the Bryce Canyon hoodoos",
+    "reel_theme": "Bryce Canyon Milky Way stargazing"
+   }
+  },
+  {
+   "from": "place:clear-sky-resorts-bryce-canyon-ut",
+   "to": "theme:stargazing-stay-glass-sky-domes-for-watching-the-milky-way-from-bed",
    "type": "BEST_FOR",
    "properties": {}
   }
