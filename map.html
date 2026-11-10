@@ -2,11 +2,29 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;box-sizing:border-box;width:8px;height:8px;border:1px solid #fff;box-shadow:0 1px 3px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>798 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>806 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
-  "n": "1 \u00b7 Precipice Trail",
+  "n": "1 \u00b7 Sand Beach",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bar Harbor, Maine",
+  "site": "Acadia National Park",
+  "lat": 44.330198,
+  "lng": -68.183998,
+  "q": "Sand Beach, Acadia National Park, Bar Harbor, Maine",
+  "best": "Beach / First of the notable stops on their Acadia coastal list",
+  "rec": "Named first among the 'notable stops along the coast of Acadia National Park' in their moody, foggy-day post: Sand Beach \u2014 the park's only sandy ocean beach, about 290 yards long in Newport Cove on the Park Loop Road.",
+  "reel": "https://www.instagram.com/p/Cuu0aNqu4gs/",
+  "reel_title": "Acadia's moody coast \u2014 Park Loop Road stops",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "2 \u00b7 Precipice Trail",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Acadia National Park, Maine",
@@ -32,7 +50,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "2 \u00b7 Ocean Path",
+  "n": "3 \u00b7 Ocean Path",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bar Harbor, Maine",
@@ -58,7 +76,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "3 \u00b7 Jordan Pond",
+  "n": "4 \u00b7 Jordan Pond",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bar Harbor, Maine",
@@ -91,7 +109,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "4 \u00b7 Bass Harbor Head Light",
+  "n": "5 \u00b7 Thunder Hole",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bar Harbor, Maine",
+  "site": "Acadia National Park",
+  "lat": 44.321011,
+  "lng": -68.18933,
+  "q": "Thunder Hole, Acadia National Park, Bar Harbor, Maine",
+  "best": "Landmark / The booming rock inlet on the Park Loop Road",
+  "rec": "On their list of notable Acadia coastal stops: Thunder Hole \u2014 the narrow rock inlet where incoming waves trap air in a cavern and boom out like thunder, best near mid-tide with rough surf.",
+  "reel": "https://www.instagram.com/p/Cuu0aNqu4gs/",
+  "reel_title": "Acadia's moody coast \u2014 Park Loop Road stops",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "6 \u00b7 Bass Harbor Head Light",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bass Harbor, Maine",
@@ -145,7 +181,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "5 \u00b7 Beehive Trail",
+  "n": "7 \u00b7 Beehive Trail",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Acadia National Park, Maine",
@@ -209,11 +245,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hike / Their favorite Acadia hike",
     "rec": "From their 5 favorite places in Acadia (from their rainy July 2023 trip): the Beehive Trail is their favorite hike in the park."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CusZ8DcudBO/",
+    "reel_title": "Beehive Loop \u2014 National Park #7",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / Beehive Loop \u2014 1.5 mi, hard, not kid-friendly",
+    "rec": "'We made it to National Park #7 together!' \u2014 highlights from the Beehive Loop: '1.5 miles and generally considered a hard trail due to the danger of climbing/scaling the sides of several cliffs... it definitely does require some maneuvering, hip mobility, and upper body strength. We saw different families have to turn around because it's not exactly kid friendly.' Fog rolled in fast but drove the crowds away; start early to avoid lines at the rung sections."
    }
   ]
  },
  {
-  "n": "6 \u00b7 Cadillac Mountain",
+  "n": "8 \u00b7 Cadillac Mountain",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bar Harbor, Maine",
@@ -249,11 +292,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Summit / Their favorite Acadia summit view",
     "rec": "From their 5 favorite places in Acadia: Cadillac Mountain is their favorite summit view in the park."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cuw7alLueWD/",
+    "reel_title": "Cadillac Summit \u2014 highest point in Acadia",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Summit / Highest point in Acadia \u2014 reserve ahead for sunrise & sunset",
+    "rec": "'Cadillac Summit is the highest point in Acadia National Park. You can reach the top by car, but you do have to pay for a permit from May-October.' They modified their reservation time to catch sunshine; a sunset attempt on another day failed in the weather \u2014 but the summit 'is known for its epic sunrises & sunsets. Definitely a must do when in Acadia!'"
    }
   ]
  },
  {
-  "n": "7 \u00b7 Acadia National Park",
+  "n": "9 \u00b7 Acadia National Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bar Harbor, Maine",
@@ -324,11 +374,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "National Park / In their 14-park ranking",
     "rec": "Appears in their ranking of the 14 national parks visited by spring 2024 (its exact slot isn't recoverable from the video)."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cuu0aNqu4gs/",
+    "reel_title": "Acadia's moody coast \u2014 Park Loop Road stops",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "National Park / Their moody, foggy Acadia coast post",
+    "rec": "'About 90% of the time we were in Maine, the weather was overcast & foggy. Even though it was a bit dreary at times, the moodiness was beautiful in its own way.' The post names the Park Loop Road coastal stops \u2014 Sand Beach, Thunder Hole, Otter Cliff, Otter Point and Otter Cove are new pins from this post."
    }
   ]
  },
  {
-  "n": "8 \u00b7 Jesup Path",
+  "n": "10 \u00b7 Jesup Path",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bar Harbor, Maine",
@@ -346,7 +403,61 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Homans Path",
+  "n": "11 \u00b7 Otter Cliffs",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bar Harbor, Maine",
+  "site": "Acadia National Park",
+  "lat": 44.31064,
+  "lng": -68.1889,
+  "q": "Otter Cliffs, Acadia National Park, Bar Harbor, Maine",
+  "best": "Viewpoint / The 110-foot granite headland above Ocean Path",
+  "rec": "On their list of notable Acadia coastal stops (caption: 'Otter Cliff'): the pink-granite headland, about 110 feet high, that the Ocean Path climbs south of Thunder Hole \u2014 among the highest headlands on the US Atlantic coast.",
+  "reel": "https://www.instagram.com/p/Cuu0aNqu4gs/",
+  "reel_title": "Acadia's moody coast \u2014 Park Loop Road stops",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "12 \u00b7 Otter Cove",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bar Harbor, Maine",
+  "site": "Acadia National Park",
+  "lat": 44.31064,
+  "lng": -68.19751,
+  "q": "Otter Cove, Acadia National Park, Bar Harbor, Maine",
+  "best": "Viewpoint / The sheltered cove west of Otter Point",
+  "rec": "The last of the notable stops on their Acadia coastal list: Otter Cove \u2014 the sheltered bay just west of Otter Point, crossed by the Park Loop Road causeway; Champlain's crew came ashore here in 1604 to repair their ship.",
+  "reel": "https://www.instagram.com/p/Cuu0aNqu4gs/",
+  "reel_title": "Acadia's moody coast \u2014 Park Loop Road stops",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "13 \u00b7 Otter Point",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bar Harbor, Maine",
+  "site": "Acadia National Park",
+  "lat": 44.30758,
+  "lng": -68.19085,
+  "q": "Otter Point, Acadia National Park, Bar Harbor, Maine",
+  "best": "Viewpoint / Granite slabs at the end of Ocean Path",
+  "rec": "On their list of notable Acadia coastal stops: Otter Point \u2014 the end of the Ocean Path at mile 2.0, where granite slabs are surrounded by ocean on either side.",
+  "reel": "https://www.instagram.com/p/Cuu0aNqu4gs/",
+  "reel_title": "Acadia's moody coast \u2014 Park Loop Road stops",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "14 \u00b7 Homans Path",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bar Harbor, Maine",
@@ -364,7 +475,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Arethusa Falls",
+  "n": "15 \u00b7 Arethusa Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Harts Location, New Hampshire",
@@ -382,7 +493,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Austin Dam Ruins",
+  "n": "16 \u00b7 Austin Dam Ruins",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Austin, Pennsylvania",
@@ -400,7 +511,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "12 \u00b7 Bash Bish Falls State Park",
+  "n": "17 \u00b7 Bash Bish Falls State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Mount Washington, Massachusetts",
@@ -426,7 +537,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "13 \u00b7 Baxter State Park",
+  "n": "18 \u00b7 Baxter State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Millinocket, Maine",
@@ -444,7 +555,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Bilger's Rocks",
+  "n": "19 \u00b7 Bilger's Rocks",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Grampian, Pennsylvania",
@@ -462,7 +573,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Brooklyn Bridge",
+  "n": "20 \u00b7 Brooklyn Bridge",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -477,10 +588,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/CegvB26ue2q/",
+    "reel_title": "New York City in black & white",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Photo 3 of NYC in Black & White",
+    "rec": "Photo 3 of their 'New York City in Black & White' series: 'Brooklyn Bridge and One World Trade Center from Brooklyn'."
+   }
+  ]
  },
  {
-  "n": "16 \u00b7 Bryant Park",
+  "n": "21 \u00b7 Bryant Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -506,7 +625,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "17 \u00b7 Bushkill Falls",
+  "n": "22 \u00b7 Bushkill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bushkill, Pennsylvania",
@@ -524,7 +643,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Camden Hills State Park",
+  "n": "23 \u00b7 Camden Hills State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Camden, Maine",
@@ -542,7 +661,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Central Park",
+  "n": "24 \u00b7 Central Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -557,10 +676,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/CegvB26ue2q/",
+    "reel_title": "New York City in black & white",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Park / Photo 1 of NYC in Black & White",
+    "rec": "Photo 1 of their 'New York City in Black & White' series: 'Billionaires Row and Central Park from @topoftherocknyc'."
+   }
+  ]
  },
  {
-  "n": "20 \u00b7 Cherry Springs State Park",
+  "n": "25 \u00b7 Cherry Springs State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Coudersport, Pennsylvania",
@@ -600,7 +727,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "21 \u00b7 Overnight Astronomy Observation Field",
+  "n": "26 \u00b7 Overnight Astronomy Observation Field",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Coudersport, Pennsylvania",
@@ -618,7 +745,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 Chittenango Falls",
+  "n": "27 \u00b7 Chittenango Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cazenovia, New York",
@@ -636,7 +763,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "23 \u00b7 Scenic Railriders",
+  "n": "28 \u00b7 Scenic Railriders",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Concord, New Hampshire",
@@ -654,7 +781,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Longfellow Trail",
+  "n": "29 \u00b7 Longfellow Trail",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cooksburg, Pennsylvania",
@@ -672,7 +799,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "25 \u00b7 Crawford Notch State Park",
+  "n": "30 \u00b7 Crawford Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Harts Location, New Hampshire",
@@ -690,7 +817,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Delaware Breakwater East End Lighthouse",
+  "n": "31 \u00b7 Delaware Breakwater East End Lighthouse",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lewes, Delaware",
@@ -708,7 +835,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 Dingmans Falls",
+  "n": "32 \u00b7 Dingmans Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Dingmans Ferry, Pennsylvania",
@@ -726,7 +853,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "28 \u00b7 Benezette Elk Viewing",
+  "n": "33 \u00b7 Benezette Elk Viewing",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benezette, Pennsylvania",
@@ -744,7 +871,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Portland Head Light",
+  "n": "34 \u00b7 Portland Head Light",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cape Elizabeth, Maine",
@@ -777,7 +904,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "30 \u00b7 Franconia Ridge Trail",
+  "n": "35 \u00b7 Franconia Ridge Trail",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lincoln, New Hampshire",
@@ -795,7 +922,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "31 \u00b7 Franconia Notch State Park",
+  "n": "36 \u00b7 Franconia Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lincoln, New Hampshire",
@@ -813,7 +940,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "32 \u00b7 Glen Ellis Falls",
+  "n": "37 \u00b7 Glen Ellis Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Jackson, New Hampshire",
@@ -831,7 +958,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "33 \u00b7 Green Lakes State Park",
+  "n": "38 \u00b7 Green Lakes State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, New York",
@@ -849,7 +976,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "34 \u00b7 Edge",
+  "n": "39 \u00b7 Edge",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -882,7 +1009,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "35 \u00b7 Hyner View State Park",
+  "n": "40 \u00b7 Hyner View State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Hyner, Pennsylvania",
@@ -900,7 +1027,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "36 \u00b7 Kaaterskill Falls",
+  "n": "41 \u00b7 Kaaterskill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Haines Falls, New York",
@@ -918,7 +1045,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "37 \u00b7 Kent Falls",
+  "n": "42 \u00b7 Kent Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Kent, Connecticut",
@@ -936,7 +1063,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "38 \u00b7 Kinzua Bridge State Park",
+  "n": "43 \u00b7 Kinzua Bridge State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Mount Jewett, Pennsylvania",
@@ -954,7 +1081,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "39 \u00b7 Pine Creek Gorge (PA Grand Canyon)",
+  "n": "44 \u00b7 Pine Creek Gorge (PA Grand Canyon)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Wellsboro, Pennsylvania",
@@ -972,7 +1099,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "40 \u00b7 Letchworth State Park",
+  "n": "45 \u00b7 Letchworth State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Castile, New York",
@@ -990,7 +1117,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "41 \u00b7 Middle Falls (Letchworth)",
+  "n": "46 \u00b7 Middle Falls (Letchworth)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Castile, New York",
@@ -1008,7 +1135,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "42 \u00b7 Statue of Liberty",
+  "n": "47 \u00b7 Statue of Liberty",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1044,11 +1171,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Landmark / #3 on their travel-the-world list",
     "rec": "#3 on their 'I hope I get the chance to travel the world' list: the Statue of Liberty, NYC."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/CiS9DJ3Mdrd/",
+    "reel_title": "What's your favorite spot in NYC?",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Opener of their NYC favorites montage",
+    "rec": "'What's your favorite spot in NYC?' \u2014 their montage opens on the Statue of Liberty from the water. (The 9/11 Memorial, Grand Central Terminal, Times Square and the Empire State Building also feature \u2014 named in the reel summary only.)"
    }
   ]
  },
  {
-  "n": "43 \u00b7 Little Island",
+  "n": "48 \u00b7 Little Island",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1081,7 +1215,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "44 \u00b7 Macy's Herald Square",
+  "n": "49 \u00b7 Macy's Herald Square",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1128,7 +1262,33 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "45 \u00b7 St. Patrick's Cathedral",
+  "n": "50 \u00b7 Manhattan Bridge",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "New York, New York",
+  "site": "Manhattan Bridge",
+  "lat": 40.707,
+  "lng": -73.9905,
+  "q": "Manhattan Bridge, Manhattan Bridge, New York, New York",
+  "best": "Landmark / The DUMBO Washington Street view",
+  "rec": "Their standalone black-and-white photo: the Manhattan Bridge's tower framed between the brick buildings of Washington Street in DUMBO, Brooklyn \u2014 the same view as photo 5 of their 'New York City in Black & White' series a year earlier.",
+  "reel": "https://www.instagram.com/reel/Cf4CAQJsCj9/",
+  "reel_title": "Manhattan Bridge",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/CegvB26ue2q/",
+    "reel_title": "New York City in black & white",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Photo 5 of NYC in Black & White",
+    "rec": "Photo 5 of their 'New York City in Black & White' series: 'Manhattan Bridge from Washington Street' \u2014 the DUMBO view. (Photo 4, The Plaza Hotel from 59E59 Theaters, is named in the reel summary only; the bridge pin's primary source is their standalone Manhattan Bridge photo post.)"
+   }
+  ]
+ },
+ {
+  "n": "51 \u00b7 St. Patrick's Cathedral",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1143,10 +1303,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/reel/CiS9DJ3Mdrd/",
+    "reel_title": "What's your favorite spot in NYC?",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / In their NYC favorites montage",
+    "rec": "St. Patrick's Cathedral's interior is one of the stops in their 'What's your favorite spot in NYC?' montage."
+   }
+  ]
  },
  {
-  "n": "46 \u00b7 Minnewaska State Park Preserve",
+  "n": "52 \u00b7 Minnewaska State Park Preserve",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Kerhonkson, New York",
@@ -1164,7 +1332,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "47 \u00b7 Mount Monadnock",
+  "n": "53 \u00b7 Mount Monadnock",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Jaffrey, New Hampshire",
@@ -1211,7 +1379,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "48 \u00b7 Moss Glen Falls (Granville)",
+  "n": "54 \u00b7 Moss Glen Falls (Granville)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Granville, Vermont",
@@ -1229,7 +1397,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "49 \u00b7 Mount Washington State Park",
+  "n": "55 \u00b7 Mount Washington State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Gorham, New Hampshire",
@@ -1247,7 +1415,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "50 \u00b7 Moxie Falls",
+  "n": "56 \u00b7 Moxie Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "The Forks, Maine",
@@ -1265,7 +1433,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "51 \u00b7 American Falls",
+  "n": "57 \u00b7 American Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -1283,7 +1451,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "52 \u00b7 Horseshoe Falls",
+  "n": "58 \u00b7 Horseshoe Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -1301,7 +1469,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "53 \u00b7 Niagara Falls",
+  "n": "59 \u00b7 Niagara Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -1327,7 +1495,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "54 \u00b7 Ohiopyle State Park",
+  "n": "60 \u00b7 Ohiopyle State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ohiopyle, Pennsylvania",
@@ -1345,7 +1513,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "55 \u00b7 Cucumber Falls",
+  "n": "61 \u00b7 Cucumber Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ohiopyle, Pennsylvania",
@@ -1363,7 +1531,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "56 \u00b7 Summit One Vanderbilt",
+  "n": "62 \u00b7 Summit One Vanderbilt",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1396,7 +1564,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "57 \u00b7 Pemaquid Point Lighthouse",
+  "n": "63 \u00b7 Pemaquid Point Lighthouse",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bristol, Maine",
@@ -1414,7 +1582,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "58 \u00b7 Penn's Cave",
+  "n": "64 \u00b7 Penn's Cave",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Centre Hall, Pennsylvania",
@@ -1432,7 +1600,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "59 \u00b7 Raymondskill Falls",
+  "n": "65 \u00b7 Raymondskill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Milford, Pennsylvania",
@@ -1450,7 +1618,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "60 \u00b7 Ricketts Glen State Park",
+  "n": "66 \u00b7 Ricketts Glen State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benton, Pennsylvania",
@@ -1468,7 +1636,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "61 \u00b7 Ganoga Falls",
+  "n": "67 \u00b7 Ganoga Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benton, Pennsylvania",
@@ -1486,7 +1654,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "62 \u00b7 Rockefeller Center",
+  "n": "68 \u00b7 Rockefeller Center",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1550,11 +1718,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Landmark / #4 of their 6 favorite NYC holiday displays",
     "rec": "#4 in their ranked list of 6 favorite NYC holiday displays: the Rockefeller Center Christmas tree. (Hudson Yards, Saks Fifth Avenue and the Lotte New York Palace tree are also on the list \u2014 named in the reel summary only.)"
+   },
+   {
+    "reel": "https://www.instagram.com/p/CegvB26ue2q/",
+    "reel_title": "New York City in black & white",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Photo 2 of NYC in Black & White",
+    "rec": "Photo 2 of their 'New York City in Black & White' series: 'Atlas and Rockefeller Center from St. Patrick's Cathedral'."
    }
   ]
  },
  {
-  "n": "63 \u00b7 Radio City Music Hall",
+  "n": "69 \u00b7 Radio City Music Hall",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1587,7 +1762,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "64 \u00b7 Smalls Falls",
+  "n": "70 \u00b7 Smalls Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Rangeley, Maine",
@@ -1605,7 +1780,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "65 \u00b7 Smugglers' Notch State Park",
+  "n": "71 \u00b7 Smugglers' Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cambridge, Vermont",
@@ -1623,7 +1798,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "66 \u00b7 Taughannock Falls",
+  "n": "72 \u00b7 Taughannock Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ithaca, New York",
@@ -1641,7 +1816,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "67 \u00b7 Watkins Glen State Park",
+  "n": "73 \u00b7 Watkins Glen State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Watkins Glen, New York",
@@ -1667,7 +1842,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "68 \u00b7 Rainbow Falls (Watkins Glen)",
+  "n": "74 \u00b7 Rainbow Falls (Watkins Glen)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Watkins Glen, New York",
@@ -1685,7 +1860,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "69 \u00b7 Wellsboro",
+  "n": "75 \u00b7 Wellsboro",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Wellsboro, Pennsylvania",
@@ -1703,7 +1878,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "70 \u00b7 White Mountains",
+  "n": "76 \u00b7 White Mountains",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "North Conway, New Hampshire",
@@ -1721,7 +1896,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "71 \u00b7 Worlds End State Park",
+  "n": "77 \u00b7 Worlds End State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Forksville, Pennsylvania",
@@ -5031,6 +5206,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Kayak / #2 paddling experience \u2014 clear kayaks on Rock Springs Run",
     "rec": "#2 in their top 3 paddling experiences: a clear-kayak tour on Rock Springs Run at Kelly Park/Rock Springs. (#3, canoeing Lake Louise in Canada, is foreign \u2014 named in the reel summary only.)"
+   },
+   {
+    "reel": "https://www.instagram.com/p/CrV8xYMOOub/",
+    "reel_title": "Earth Day \u2014 10 nature views that took my breath away",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Spring / #8 of their Earth Day breathtaking views",
+    "rec": "#8 on their Earth Day list: Rock Springs, Florida. (The foreign entries \u2014 Moraine Lake and Emerald Lake in Canada, Seljalandsfoss, Fja\u00f0r\u00e1rglj\u00fafur and Dyrh\u00f3laey in Iceland, and Moriah Harbor Cay in Exuma \u2014 are named in the reel summary only.)"
    }
   ]
  },
@@ -7051,6 +7233,20 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Scenic drive / 'Fall in the Blue Ridge Mountains is coming'",
     "rec": "'Fall in the Blue Ridge Mountains is coming \u2014 Skyline Drive, Shenandoah National Park (from mid October 2022)': a preview frame of layered fall ridges from the drive."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/CkwDwWlJLqM/",
+    "reel_title": "Where is your favorite place to view fall foliage?",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Scenic drive / Their fall-foliage question reel",
+    "rec": "'Where is your favorite place to view fall foliage?' \u2014 the reel strings together their autumn scenes along Skyline Drive and the Blue Ridge Mountains in Shenandoah: leaf-lined roads, a waterfall, and a rocky overlook above a misty valley."
+   },
+   {
+    "reel": "https://www.instagram.com/reel/CkjtzmcDfai/",
+    "reel_title": "The beauty of Shenandoah in fall \u2014 Skyline Drive",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Scenic drive / 'The beauty of Shenandoah in Fall on Skyline Drive'",
+    "rec": "'The beauty of Shenandoah National Park in Fall on Skyline Drive.' \u2014 the winding drive under peak fall canopy."
    }
   ]
  },
@@ -7215,6 +7411,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "National Park / 'Yellow' in nature's color palette",
     "rec": "In their nature's-color-palette post, Shenandoah National Park is the Yellow entry \u2014 fall gold on Skyline Drive. (Moab, Utah for Orange has no town pin and the Azores for Green is foreign \u2014 both named in the reel summary only.)"
+   },
+   {
+    "reel": "https://www.instagram.com/reel/CkwDwWlJLqM/",
+    "reel_title": "Where is your favorite place to view fall foliage?",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "National Park / Their fall-foliage question reel",
+    "rec": "Their fall-foliage engagement reel is set in Shenandoah National Park \u2014 peak-color drives and hikes on Skyline Drive, asking followers for their own favorite foliage spots."
    }
   ]
  },
@@ -7494,6 +7697,20 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Waterfall / One of their 5 favorite Shenandoah fall hikes",
     "rec": "One of their 5 favorite Shenandoah hikes for fall foliage: Dark Hollow Falls."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CrV8xYMOOub/",
+    "reel_title": "Earth Day \u2014 10 nature views that took my breath away",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Waterfall / #4 of their Earth Day breathtaking views",
+    "rec": "#4 on their Earth Day list: Dark Hollow Falls, Shenandoah National Park."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Ck3hfFeutR0/",
+    "reel_title": "Dark Hollow Falls in the fall",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Waterfall / 'So pretty in the Fall'",
+    "rec": "'Dark Hollow Falls is so pretty in the Fall.' \u2014 a single autumn frame of the falls."
    }
   ]
  },
@@ -7699,6 +7916,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Cherry blossoms / Peak bloom in DC in their 2023 recap",
     "rec": "From their 2023 recap: peak cherry blossom season around the Tidal Basin in Washington, DC."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CqY3cDKu_hB/",
+    "reel_title": "Cherry blossom weekend road trip to DC",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Cherry blossoms / Weekend road trip \u2014 go as early as possible",
+    "rec": "'Went on a weekend road trip to see the cherry blossoms and it was absolutely stunning!! Definitely recommend getting out there as early as possible in the morning... Parking is minimal and the crowds can get super crazy.' The photo frames the Washington Monument over the Tidal Basin through the blossoms."
    }
   ]
  },
@@ -7721,7 +7945,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "165 \u00b7 Walls of Jericho",
+  "n": "165 \u00b7 ViBe Creative District",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Virginia Beach, Virginia",
+  "site": "ViBe Creative District",
+  "lat": 36.845019,
+  "lng": -75.982389,
+  "q": "ViBe Creative District, ViBe Creative District, Virginia Beach, Virginia",
+  "best": "Arts District / The 5th annual ViBe Mural Festival",
+  "rec": "Their walkthrough of the Virginia Beach 5th annual ViBe Creative District Mural Festival (2022): large-scale murals across the oceanfront arts district around 18th Street \u2014 including the 'TOGETHER WE WILL DO SO MUCH' container mural.",
+  "reel": "https://www.instagram.com/reel/Ch0kTk9OtPe/",
+  "reel_title": "ViBe Creative District Mural Festival 2022",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "166 \u00b7 Walls of Jericho",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Winchester, Tennessee",
@@ -7739,7 +7981,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "166 \u00b7 White Point Garden",
+  "n": "167 \u00b7 White Point Garden",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Charleston, South Carolina",
@@ -7765,7 +8007,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "167 \u00b7 Wright Brothers National Memorial",
+  "n": "168 \u00b7 Wright Brothers National Memorial",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Kill Devil Hills, North Carolina",
@@ -14310,6 +14552,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Viewpoint / #4 on their rent-free places list",
     "rec": "#4 on their countdown of places that live in their heads rent-free: Dead Horse Point State Park, Utah."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CrV8xYMOOub/",
+    "reel_title": "Earth Day \u2014 10 nature views that took my breath away",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / #3 of their Earth Day breathtaking views",
+    "rec": "#3 on their Earth Day list: Dead Horse Point State Park, Utah."
    }
   ]
  },
@@ -24603,6 +24852,20 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Kayak / #1 paddling experience \u2014 Discovery Sea Cave Kayak Tour",
     "rec": "#1 in their top 3 paddling experiences: the Discovery Sea Cave Kayak Tour at Santa Cruz Island in Channel Islands National Park \u2014 1.5 hours paddling in and out of sea caves; book ahead."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CtEufQQuoT3/",
+    "reel_title": "5 reasons we loved Santa Cruz Island",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Island / Their 5 reasons to love Santa Cruz Island",
+    "rec": "'5 Reasons we loved Santa Cruz Island': (1) the peace & serenity \u2014 limited ferry tickets keep it empty; (2) the diverse landscapes \u2014 cliffs and rocky outcrops one corner, rolling hills and wildflower fields the next; (3) the abundance of life \u2014 island foxes about 1/3 the size of mainland foxes, spring wildflowers, kelp beds below the cliffs; (4) the simplicity \u2014 no running water, pack everything in and out; (5) abundant views with minimal effort."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CtCF7cVunO3/",
+    "reel_title": "National Park #6 \u2014 Channel Islands, our favorite so far",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Kayak / Sea-cave kayaking on day 1",
+    "rec": "Day 1 of their Channel Islands trip: 'we took a kayaking tour around the sea caves of Santa Cruz Island... We paddled through thick kelp and enjoyed seeing the natural cliffs and caves of the island up close.' They chose the shortest kayak trip to leave time to explore the island on foot before the evening ferry."
    }
   ]
  },
@@ -24629,6 +24892,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hiking / Anacapa Island cliff loop",
     "rec": "In their bucket-list hikes part 4: Cavern Point on Santa Cruz Island, Channel Islands."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CtKm8SMJiRq/",
+    "reel_title": "Cavern Point Loop \u2014 Santa Cruz Island",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / Cavern Point Loop \u2014 1.7 mi easy, their short-trail pick",
+    "rec": "'Cavern Point Loop: 1.7 miles round trip, rated easy on All Trails. Can be combined with Potato Harbor Trail. If you only have time for a short trail on the island of Santa Cruz, this is the trail I'd recommend!' They stopped on the way back to the dock and had the view to themselves."
    }
   ]
  },
@@ -24690,6 +24960,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hike / Inspiration Point via the East Anacapa Island Trail",
     "rec": "Their Anacapa Island recommendation: view Inspiration Point via the East Anacapa Island Trail \u2014 2.5 miles, easy. Keep in mind that Western gull nesting season runs March\u2013May, when you will encounter hundreds if not thousands of birds and the island is pure chaos."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CtNLEzMOD_1/",
+    "reel_title": "Anacapa Island \u2014 Inspiration Point & 10,000 nesting gulls",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / Walking the whole island \u2014 twice around",
+    "rec": "'It's a little over 2 miles to walk around the whole island so we actually ended up going around twice with the ample time we had. KEEP IN MIND, if you are not a fan of birds I would not recommend visiting Anacapa from May-July. This is nesting season and there are about 10,000 western gulls in nests around the island... constant squawking and flying overhead.'"
    }
   ]
  },
@@ -24772,6 +25049,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Viewpoint / Anacapa Island recommendation",
     "rec": "Their Anacapa Island pick: Inspiration Point, reached via the East Anacapa Island Trail."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CtNLEzMOD_1/",
+    "reel_title": "Anacapa Island \u2014 Inspiration Point & 10,000 nesting gulls",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / Anacapa's best-known view \u2014 Middle & West Anacapa",
+    "rec": "'This island is best known for Inspiration Point where you can see Middle & West Anacapa Islands.' From their second day in Channel Islands National Park, on the smaller island of Anacapa."
    }
   ]
  },
@@ -24917,6 +25201,20 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Kayak / Kayaked and hiked in their 2023 recap",
     "rec": "From their 2023 recap: they kayaked and hiked at Channel Islands National Park during the year."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CtPyVAROddD/",
+    "reel_title": "Island Packers boat rides \u2014 dolphins, sea lions & a humpback",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Wildlife / The Island Packers ferry rides are a wildlife tour",
+    "rec": "'I would be remiss if I didn't mention the boat rides to and from the Channel Islands. Island Packers provides transportation to the various islands and the captain & crew do a great job of pointing out wildlife along the way. We saw huge pods of dolphins, colonies of sea lions, several sunfish, and even a humpback whale.' The 1.5-hour crossing to the islands was an attraction in itself."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CtCF7cVunO3/",
+    "reel_title": "National Park #6 \u2014 Channel Islands, our favorite so far",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "National Park / Their NP #6 \u2014 and favorite so far",
+    "rec": "'We made it to our 6th National Park together and Channel Islands National Park has turned out to be our favorite so far.' The park encompasses 5 islands and their surrounding mile of ocean; ferry tickets must be bought in advance."
    }
   ]
  },
@@ -25055,6 +25353,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Viewpoint / #3 on their rent-free places list",
     "rec": "#3 on their countdown of places that live in their heads rent-free: Potato Harbor on Santa Cruz Island, Channel Islands National Park."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CtIBus_ub5x/",
+    "reel_title": "Potato Harbor Trail \u2014 Santa Cruz Island",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / Potato Harbor Trail \u2014 about 5 mi, easy",
+    "rec": "'Potato Harbor Trail: about 5 miles on Santa Cruz Island in Channel Islands National Park. Rated easy on All Trails. What a final viewpoint \ud83d\ude0d'"
    }
   ]
  },
@@ -25208,6 +25513,13 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Dunes / Texture hunting at sunrise",
     "rec": "'Nature paints the most beautiful canvas' \u2014 intricately patterned wind-carved ripples and shadowed crests shot at sunrise on the Mesquite Flat dunes."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CcNng73uKW0/",
+    "reel_title": "Mesquite Flat Dunes \u2014 sunrise or sunset",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / A great spot for sunrise or sunset",
+    "rec": "'Mesquite Flat Dunes are a great spot to watch sunrise or sunset in Death Valley National Park.' In the comments they add their early-March experience: daytime highs in the mid-60s \u00b0F and overnight lows in the mid-40s."
    }
   ]
  },
@@ -25555,6 +25867,34 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Viewpoint / #5 on their travel-the-world list",
     "rec": "#5 on their 'I hope I get the chance to travel the world' list: Zabriskie Point, Death Valley. (#1 Lake Louise, Canada and #2 Skogafoss, Iceland are foreign \u2014 named in the reel summary only.)"
+   },
+   {
+    "reel": "https://www.instagram.com/p/CrV8xYMOOub/",
+    "reel_title": "Earth Day \u2014 10 nature views that took my breath away",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / #2 of their Earth Day breathtaking views",
+    "rec": "#2 on their Earth Day list of '10 nature views that full on took my breath away': Zabriskie Point, Death Valley National Park."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CnX3CnuOFrH/",
+    "reel_title": "More moments from a Zabriskie Point sunset",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / 'Some more moments from an amazing sunset'",
+    "rec": "'Some more moments from an amazing sunset at Zabriskie Point.'"
+   },
+   {
+    "reel": "https://www.instagram.com/p/CnSspvgOL9D/",
+    "reel_title": "Zabriskie Point at sunset",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / Sunset \u2014 an easy short walk from the parking lot",
+    "rec": "'Death Valley is known for its diverse landscapes and Zabriskie Point at sunset is no exception. It's an easy short walk from the parking lot to the viewpoint and seeing the fading light hit the hills and rock formations is unreal.'"
+   },
+   {
+    "reel": "https://www.instagram.com/p/CnQKks_O9vB/",
+    "reel_title": "Winter in Death Valley \u2014 sunset at Zabriskie Point",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / Opener of their Death Valley winter series",
+    "rec": "'Winter is the perfect time to visit Death Valley National Park, so get ready for some of our favorite moments from Death Valley from March of 2022. First up is sunset at Zabriskie Point.'"
    }
   ]
  },
@@ -25753,6 +26093,20 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Landmark / On their Death Valley 24-hour itinerary",
     "rec": "'Badwater Basin: At 282 feet below sea level in Death Valley National Park, Badwater Basin is the lowest elevation in North America. The salt flats here are so fun & unique.'"
+   },
+   {
+    "reel": "https://www.instagram.com/p/CnnhCXJOG9G/",
+    "reel_title": "Badwater Basin \u2014 282 feet below sea level",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Lowest elevation in North America",
+    "rec": "'At 282 feet below sea level, Badwater Basin is the lowest elevation in North America \ud83e\udd2f'"
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cnfl-cKuw7L/",
+    "reel_title": "Badwater Basin \u2014 next must-see in Death Valley",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Teased as a Death Valley must-see",
+    "rec": "'Next up on must see locations in Death Valley National Park is Badwater Basin. More info to come soon \ud83d\ude06'"
    }
   ]
  },
@@ -25956,7 +26310,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "35 \u00b7 Grizzly Creek Redwoods",
+  "n": "35 \u00b7 Griffith Observatory",
+  "r": "west",
+  "rlabel": "U.S. Territories",
+  "loc": "Los Angeles, California",
+  "site": "Griffith Park",
+  "lat": 34.1184,
+  "lng": -118.3004,
+  "q": "Griffith Observatory, Griffith Park, Los Angeles, California",
+  "best": "Landmark / Sweeping views of Los Angeles",
+  "rec": "The wrap-up stop of their Channel Islands trip, before flying out: 'we stopped by Griffith Observatory which is known for its sweeping views of Los Angeles... just seeing the city from a distance was well worth the stop!' They came early on Memorial Day, before the building opened.",
+  "reel": "https://www.instagram.com/p/CtSPOWkOGBk/",
+  "reel_title": "Griffith Observatory \u2014 wrapping up the Channel Islands trip",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "36 \u00b7 Grizzly Creek Redwoods",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Carlotta, California",
@@ -25974,7 +26346,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "36 \u00b7 Avenue of the Giants",
+  "n": "37 \u00b7 Avenue of the Giants",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Weott, California",
@@ -25992,7 +26364,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "37 \u00b7 Grove of Titans",
+  "n": "38 \u00b7 Grove of Titans",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Crescent City, California",
@@ -26025,7 +26397,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "38 \u00b7 Jedediah Smith Redwoods State Park",
+  "n": "39 \u00b7 Jedediah Smith Redwoods State Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Crescent City, California",
@@ -26043,7 +26415,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "39 \u00b7 Hidden Valley",
+  "n": "40 \u00b7 Hidden Valley",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26090,7 +26462,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "40 \u00b7 Arch Rock Trail",
+  "n": "41 \u00b7 Arch Rock Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26137,7 +26509,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "41 \u00b7 Hall of Horrors",
+  "n": "42 \u00b7 Hall of Horrors",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26170,7 +26542,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "42 \u00b7 Ryan Mountain",
+  "n": "43 \u00b7 Ryan Mountain",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26217,7 +26589,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "43 \u00b7 Inspiration Peak (Inspiration Point)",
+  "n": "44 \u00b7 Inspiration Peak (Inspiration Point)",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26235,7 +26607,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "44 \u00b7 Cholla Cactus Garden",
+  "n": "45 \u00b7 Cholla Cactus Garden",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26317,7 +26689,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "45 \u00b7 Keys View",
+  "n": "46 \u00b7 Keys View",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26378,7 +26750,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "46 \u00b7 Skull Rock",
+  "n": "47 \u00b7 Skull Rock",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26432,7 +26804,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "47 \u00b7 Joshua Tree National Park",
+  "n": "48 \u00b7 Joshua Tree National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Joshua Tree, California",
@@ -26528,7 +26900,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "48 \u00b7 Ewoldsen Trail",
+  "n": "49 \u00b7 Ewoldsen Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Big Sur, California",
@@ -26546,7 +26918,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "49 \u00b7 Partington Cove",
+  "n": "50 \u00b7 Partington Cove",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Big Sur, California",
@@ -26564,7 +26936,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "50 \u00b7 McWay Falls",
+  "n": "51 \u00b7 McWay Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Big Sur, California",
@@ -26604,7 +26976,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "51 \u00b7 Black Sands Beach",
+  "n": "52 \u00b7 Black Sands Beach",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Shelter Cove, California",
@@ -26622,7 +26994,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "52 \u00b7 Ella Falls",
+  "n": "53 \u00b7 Ella Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Grant Grove, California",
@@ -26640,7 +27012,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "53 \u00b7 General Grant Tree",
+  "n": "54 \u00b7 General Grant Tree",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Grant Grove, California",
@@ -26673,7 +27045,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "54 \u00b7 Zumwalt Meadow",
+  "n": "55 \u00b7 Zumwalt Meadow",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Cedar Grove, California",
@@ -26734,7 +27106,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "55 \u00b7 Kings Canyon Scenic Byway",
+  "n": "56 \u00b7 Kings Canyon Scenic Byway",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Grant Grove, California",
@@ -26767,7 +27139,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "56 \u00b7 Tahoe Rim Trail",
+  "n": "57 \u00b7 Tahoe Rim Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Tahoe City, California",
@@ -26785,7 +27157,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "57 \u00b7 Manzanita Lake",
+  "n": "58 \u00b7 Manzanita Lake",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Manzanita Lake, California",
@@ -26832,7 +27204,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "58 \u00b7 Bumpass Hell",
+  "n": "59 \u00b7 Bumpass Hell",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lassen Volcanic National Park, California",
@@ -26858,7 +27230,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "59 \u00b7 Cinder Cone Trail",
+  "n": "60 \u00b7 Cinder Cone Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lassen Volcanic National Park, California",
@@ -26926,7 +27298,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "60 \u00b7 Lassen Peak",
+  "n": "61 \u00b7 Lassen Peak",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lassen Volcanic National Park, California",
@@ -26952,7 +27324,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "61 \u00b7 Lassen Volcanic National Park",
+  "n": "62 \u00b7 Lassen Volcanic National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Mineral, California",
@@ -26985,7 +27357,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "62 \u00b7 Lake Helen",
+  "n": "63 \u00b7 Lake Helen",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lassen Volcanic National Park, California",
@@ -27003,7 +27375,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "63 \u00b7 Sulphur Works",
+  "n": "64 \u00b7 Sulphur Works",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lassen Volcanic National Park, California",
@@ -27029,7 +27401,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "64 \u00b7 Linda Falls",
+  "n": "65 \u00b7 Linda Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Angwin, California",
@@ -27047,7 +27419,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "65 \u00b7 Hawk Hill",
+  "n": "66 \u00b7 Hawk Hill",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Sausalito, California",
@@ -27065,7 +27437,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "66 \u00b7 Rodeo Beach to Hill 88",
+  "n": "67 \u00b7 Rodeo Beach to Hill 88",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Sausalito, California",
@@ -27083,7 +27455,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "67 \u00b7 Morning Sun Trail",
+  "n": "68 \u00b7 Morning Sun Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Sausalito, California",
@@ -27101,7 +27473,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "68 \u00b7 Burney Falls",
+  "n": "69 \u00b7 Burney Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Burney, California",
@@ -27127,7 +27499,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "69 \u00b7 Monterey Bay",
+  "n": "70 \u00b7 Monterey Bay",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Monterey, California",
@@ -27145,7 +27517,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "70 \u00b7 Mossbrae Falls",
+  "n": "71 \u00b7 Mossbrae Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Dunsmuir, California",
@@ -27163,7 +27535,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "71 \u00b7 Steep Ravine Trail",
+  "n": "72 \u00b7 Steep Ravine Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Stinson Beach, California",
@@ -27181,7 +27553,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "72 \u00b7 Cataract Falls",
+  "n": "73 \u00b7 Cataract Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Fairfax, California",
@@ -27199,7 +27571,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "73 \u00b7 17-Mile Drive",
+  "n": "74 \u00b7 17-Mile Drive",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pebble Beach, California",
@@ -27217,7 +27589,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "74 \u00b7 High Peaks Trail",
+  "n": "75 \u00b7 High Peaks Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pinnacles National Park, California",
@@ -27264,7 +27636,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "75 \u00b7 Moses Spring and Rim Trail Loop",
+  "n": "76 \u00b7 Moses Spring and Rim Trail Loop",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pinnacles National Park, California",
@@ -27282,7 +27654,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "76 \u00b7 Pinnacles National Park",
+  "n": "77 \u00b7 Pinnacles National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Paicines, California",
@@ -27329,7 +27701,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "77 \u00b7 Pinole",
+  "n": "78 \u00b7 Pinole",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Pinole, California",
@@ -27347,7 +27719,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "78 \u00b7 Point Lobos",
+  "n": "79 \u00b7 Point Lobos",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Carmel-by-the-Sea, California",
@@ -27380,7 +27752,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "79 \u00b7 Point Reyes National Seashore",
+  "n": "80 \u00b7 Point Reyes National Seashore",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Point Reyes Station, California",
@@ -27398,7 +27770,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "80 \u00b7 Alamere Falls",
+  "n": "81 \u00b7 Alamere Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Bolinas, California",
@@ -27416,7 +27788,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "81 \u00b7 Karl Knapp Trail",
+  "n": "82 \u00b7 Karl Knapp Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -27434,7 +27806,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "82 \u00b7 Gold Bluffs Beach",
+  "n": "83 \u00b7 Gold Bluffs Beach",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Redwood National Park, California",
@@ -27452,7 +27824,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "83 \u00b7 Fern Canyon",
+  "n": "84 \u00b7 Fern Canyon",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -27499,7 +27871,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "84 \u00b7 Lady Bird Johnson Grove",
+  "n": "85 \u00b7 Lady Bird Johnson Grove",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -27525,7 +27897,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "85 \u00b7 Tall Trees Grove",
+  "n": "86 \u00b7 Tall Trees Grove",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -27543,7 +27915,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "86 \u00b7 Klamath Overlook",
+  "n": "87 \u00b7 Klamath Overlook",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Klamath, California",
@@ -27561,7 +27933,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "87 \u00b7 Redwood National Park",
+  "n": "88 \u00b7 Redwood National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Orick, California",
@@ -27594,7 +27966,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "88 \u00b7 Shark Fin Cove",
+  "n": "89 \u00b7 Shark Fin Cove",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Davenport, California",
@@ -27620,7 +27992,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "89 \u00b7 Big Trees Trail",
+  "n": "90 \u00b7 Big Trees Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -27688,7 +28060,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "90 \u00b7 Congress Trail",
+  "n": "91 \u00b7 Congress Trail",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -27833,7 +28205,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "91 \u00b7 Trail of the Sequoias",
+  "n": "92 \u00b7 Trail of the Sequoias",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -27851,7 +28223,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "92 \u00b7 Generals Highway",
+  "n": "93 \u00b7 Generals Highway",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -27884,7 +28256,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "93 \u00b7 Sequoia National Park",
+  "n": "94 \u00b7 Sequoia National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -28008,7 +28380,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "94 \u00b7 Moro Rock",
+  "n": "95 \u00b7 Moro Rock",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Giant Forest, California",
@@ -28055,7 +28427,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "95 \u00b7 Tokopah Falls",
+  "n": "96 \u00b7 Tokopah Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Lodgepole, California",
@@ -28095,7 +28467,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "96 \u00b7 Dragon Mountain Peak",
+  "n": "97 \u00b7 Dragon Mountain Peak",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Milpitas, California",
@@ -28113,7 +28485,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "97 \u00b7 Eagle Peak",
+  "n": "98 \u00b7 Eagle Peak",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28131,7 +28503,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "98 \u00b7 Four Mile Trail to Glacier Point",
+  "n": "99 \u00b7 Four Mile Trail to Glacier Point",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -28192,7 +28564,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "99 \u00b7 Half Dome",
+  "n": "100 \u00b7 Half Dome",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28246,7 +28618,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "100 \u00b7 Mariposa Grove",
+  "n": "101 \u00b7 Mariposa Grove",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Wawona, California",
@@ -28264,7 +28636,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "101 \u00b7 Sentinel Dome",
+  "n": "102 \u00b7 Sentinel Dome",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28297,7 +28669,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "102 \u00b7 Yosemite National Park",
+  "n": "103 \u00b7 Yosemite National Park",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28442,7 +28814,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "103 \u00b7 Cook's Meadow Loop",
+  "n": "104 \u00b7 Cook's Meadow Loop",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28489,7 +28861,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "104 \u00b7 Illilouette Falls",
+  "n": "105 \u00b7 Illilouette Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28522,7 +28894,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "105 \u00b7 Yosemite Valley Chapel",
+  "n": "106 \u00b7 Yosemite Valley Chapel",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28540,7 +28912,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "106 \u00b7 Swinging Bridge Picnic Area",
+  "n": "107 \u00b7 Swinging Bridge Picnic Area",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28558,7 +28930,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "107 \u00b7 Valley View",
+  "n": "108 \u00b7 Valley View",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -28576,7 +28948,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "108 \u00b7 Big Oak Flat Road",
+  "n": "109 \u00b7 Big Oak Flat Road",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -28594,7 +28966,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "109 \u00b7 Tunnel View",
+  "n": "110 \u00b7 Tunnel View",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28683,7 +29055,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "110 \u00b7 Artist Point",
+  "n": "111 \u00b7 Artist Point",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28716,7 +29088,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "111 \u00b7 Hanging Valley Viewpoint",
+  "n": "112 \u00b7 Hanging Valley Viewpoint",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28734,7 +29106,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "112 \u00b7 Sentinel Bridge",
+  "n": "113 \u00b7 Sentinel Bridge",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28752,7 +29124,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "113 \u00b7 Taft Point",
+  "n": "114 \u00b7 Taft Point",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28799,7 +29171,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "114 \u00b7 Bridalveil Fall",
+  "n": "115 \u00b7 Bridalveil Fall",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28846,7 +29218,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "115 \u00b7 Lower Yosemite Fall",
+  "n": "116 \u00b7 Lower Yosemite Fall",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28886,7 +29258,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "116 \u00b7 Nevada Fall",
+  "n": "117 \u00b7 Nevada Fall",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -28912,7 +29284,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "117 \u00b7 Vernal Falls",
+  "n": "118 \u00b7 Vernal Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -29127,7 +29499,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "118 \u00b7 Wapama Falls",
+  "n": "119 \u00b7 Wapama Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite National Park, California",
@@ -29145,7 +29517,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "119 \u00b7 Yosemite Falls",
+  "n": "120 \u00b7 Yosemite Falls",
   "r": "west",
   "rlabel": "U.S. Territories",
   "loc": "Yosemite Village, California",
@@ -33912,5 +34284,5 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'"></div>',iconSize:[8,8],iconAnchor:[4,4]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a>'+(s.at?'<br>🥾 <a href="'+s.at+'" target="_blank" rel="noopener">AllTrails trail page</a>':"")+'<br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 71<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 167<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 78<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 161<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 94<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 119<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 60<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 37<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 8<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 77<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 168<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 78<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 161<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 94<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 120<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 60<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 37<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 8<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>
