@@ -20659,6 +20659,30 @@
    }
   },
   {
+   "id": "reel:DfkY9ippjQe",
+   "type": "Reel",
+   "properties": {
+    "name": "Mooney Falls — the hike that ruined all other hikes",
+    "url": "https://www.instagram.com/reel/DfkY9ippjQe/",
+    "title": "Mooney Falls — the hike that ruined all other hikes",
+    "creator": "@stumblinguponserendipity",
+    "theme": "Mooney Falls, Havasupai",
+    "places_count": 1,
+    "recommendation_summary": "A single-place reel: Mooney Falls at the Havasupai Reservation, Arizona — 'unfortunately this hike ruined all other hikes for me.' Notes the $455 backpacking permit (sells out months in advance) and the chains-and-ladders descent to the base of the falls. Attached as a source on the existing Mooney Falls pin; no new pin.",
+    "posted": "2026-11-10",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "creator:stumblinguponserendipity",
+   "type": "Creator",
+   "properties": {
+    "name": "@stumblinguponserendipity",
+    "handle": "@stumblinguponserendipity",
+    "display_name": "Danielle Campbell | Outdoor Adventure Travel"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -57833,6 +57857,18 @@
   {
    "from": "reel:DfcbSbyGxpx",
    "to": "theme:sahale-arm-north-cascades",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkY9ippjQe",
+   "to": "creator:stumblinguponserendipity",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkY9ippjQe",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -114716,6 +114752,25 @@
   {
    "from": "place:mooney-falls-az",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mooney-falls-az",
+   "to": "reel:DfkY9ippjQe",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / The hike that 'ruined all other hikes'",
+    "recommendation": "'Unfortunately this hike ruined all other hikes for me…' Mooney Falls at the Havasupai Reservation, just past the campground down a side canyon of the Grand Canyon. A $455 backpacking permit is required (they sell out fast, months in advance), and to reach the bottom you climb down chains and ladders on the cliff face.",
+    "creator": "@stumblinguponserendipity",
+    "reel_title": "Mooney Falls — the hike that ruined all other hikes",
+    "reel_theme": "Mooney Falls, Havasupai"
+   }
+  },
+  {
+   "from": "place:mooney-falls-az",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   },
