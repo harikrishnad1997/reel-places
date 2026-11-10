@@ -20683,6 +20683,30 @@
    }
   },
   {
+   "id": "reel:DfkZC-8tHEw",
+   "type": "Reel",
+   "properties": {
+    "name": "Lake Superior winter bucket list",
+    "url": "https://www.instagram.com/reel/DfkZC-8tHEw/",
+    "title": "Lake Superior winter bucket list",
+    "creator": "@maddymarq",
+    "theme": "Lake Superior winter bucket list",
+    "places_count": 3,
+    "recommendation_summary": "Her personal Lake Superior winter bucket list — three things she plans every year: (1) sunrise at Artist Point in Grand Marais, Minnesota, over the frozen lake at 20 below zero or colder; (2) the Apostle Islands ice caves — kayak the mainland sea caves in summer, or walk across the frozen lake when the Park Service opens foot access; (3) Michigan's Keweenaw Peninsula for skiing, frozen waterfalls and sauna. All three are new pins (places identified from the reel's narration; the caption itself names no places).",
+    "posted": "2026-11-10",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "creator:maddymarq",
+   "type": "Creator",
+   "properties": {
+    "name": "@maddymarq",
+    "handle": "@maddymarq",
+    "display_name": "Maddy ✨ Midwest Adventure"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -45197,6 +45221,118 @@
     "state_code": "ND",
     "country": "USA"
    }
+  },
+  {
+   "id": "place:artist-point-grand-marais-mn",
+   "type": "Place",
+   "properties": {
+    "name": "Artist Point",
+    "place_id": "artist-point-grand-marais-mn",
+    "site": "Artist Point",
+    "city": "Grand Marais",
+    "state": "Minnesota",
+    "state_code": "MN",
+    "region": "Midwest",
+    "country": "USA",
+    "lat": 47.754721,
+    "lng": -90.330669,
+    "google_maps_query": "Artist Point, Artist Point, Grand Marais, Minnesota",
+    "best_for": "Sunrise / Sub-zero sunrise over frozen Lake Superior",
+    "note": "Coordinates: Minnesota Biodiversity Atlas (Bell Museum) locality point for Artist Point, the northern tip of the Grand Marais harbor peninsula."
+   }
+  },
+  {
+   "id": "state:usa-mn",
+   "type": "State",
+   "properties": {
+    "name": "Minnesota",
+    "state_code": "MN",
+    "country": "USA"
+   }
+  },
+  {
+   "id": "site:artist-point",
+   "type": "Site",
+   "properties": {
+    "name": "Artist Point"
+   }
+  },
+  {
+   "id": "place:apostle-islands-ice-caves-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Apostle Islands Ice Caves",
+    "place_id": "apostle-islands-ice-caves-wi",
+    "site": "Apostle Islands National Lakeshore",
+    "city": "Bayfield",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "USA",
+    "lat": 46.8834,
+    "lng": -91.0484,
+    "google_maps_query": "Apostle Islands Ice Caves, Apostle Islands National Lakeshore, Bayfield, Wisconsin",
+    "best_for": "Ice caves / Walk to frozen sea caves when Lake Superior freezes",
+    "note": "Coordinates: NPS-published Meyers Beach trailhead GPS (go.nps.gov/IceCaves); the caves form along the mainland cliffs east of the trailhead. NPS opens ice-cave access only when ice conditions are safe — 2015, then briefly again in February 2026."
+   }
+  },
+  {
+   "id": "state:usa-wi",
+   "type": "State",
+   "properties": {
+    "name": "Wisconsin",
+    "state_code": "WI",
+    "country": "USA"
+   }
+  },
+  {
+   "id": "site:apostle-islands-national-lakeshore",
+   "type": "Site",
+   "properties": {
+    "name": "Apostle Islands National Lakeshore"
+   }
+  },
+  {
+   "id": "theme:ice-caves-walk-to-frozen-sea-caves-when-lake-superior-freezes",
+   "type": "Theme",
+   "properties": {
+    "name": "Ice caves / Walk to frozen sea caves when Lake Superior freezes"
+   }
+  },
+  {
+   "id": "place:keweenaw-peninsula-mi",
+   "type": "Place",
+   "properties": {
+    "name": "Keweenaw Peninsula",
+    "place_id": "keweenaw-peninsula-mi",
+    "site": "Keweenaw Peninsula",
+    "city": "Copper Harbor",
+    "state": "Michigan",
+    "state_code": "MI",
+    "region": "Midwest",
+    "country": "USA",
+    "lat": 47.46889,
+    "lng": -87.88833,
+    "google_maps_query": "Keweenaw Peninsula, Keweenaw Peninsula, Copper Harbor, Michigan",
+    "best_for": "Winter base / Snowiest corner of the Midwest — skiing, frozen falls, sauna",
+    "note": "Pin point: Copper Harbor, the village at the peninsula's northern tip (Wikipedia / USGS GNIS) — the reel recommends the peninsula as a whole, not one specific site."
+   }
+  },
+  {
+   "id": "state:usa-mi",
+   "type": "State",
+   "properties": {
+    "name": "Michigan",
+    "state_code": "MI",
+    "country": "USA"
+   }
+  },
+  {
+   "id": "site:keweenaw-peninsula",
+   "type": "Site",
+   "properties": {
+    "name": "Keweenaw Peninsula"
+   }
   }
  ],
  "edges": [
@@ -57869,6 +58005,24 @@
   {
    "from": "reel:DfkY9ippjQe",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkZC-8tHEw",
+   "to": "creator:maddymarq",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkZC-8tHEw",
+   "to": "theme:bucket-list",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkZC-8tHEw",
+   "to": "theme:winter-visit",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -129295,6 +129449,141 @@
   {
    "from": "place:prairie-dog-metropolis-nd",
    "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:artist-point-grand-marais-mn",
+   "to": "state:usa-mn",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-mn",
+   "to": "country:usa",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-mn",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:artist-point-grand-marais-mn",
+   "to": "site:artist-point",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:artist-point-grand-marais-mn",
+   "to": "reel:DfkZC-8tHEw",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Sunrise / Sub-zero sunrise over frozen Lake Superior",
+    "recommendation": "#1 on her Lake Superior winter bucket list: watching sunrise at Artist Point in Grand Marais, Minnesota, over the frozen lake when it is 20 degrees below zero or colder. The rocky point is minutes from a parking lot; her advice is to dress warm, stay back from the water's edge, and wear microspikes.",
+    "creator": "@maddymarq",
+    "reel_title": "Lake Superior winter bucket list",
+    "reel_theme": "Lake Superior winter bucket list"
+   }
+  },
+  {
+   "from": "place:artist-point-grand-marais-mn",
+   "to": "theme:sunrise",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:apostle-islands-ice-caves-wi",
+   "to": "state:usa-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-wi",
+   "to": "country:usa",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-wi",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:apostle-islands-ice-caves-wi",
+   "to": "site:apostle-islands-national-lakeshore",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:apostle-islands-ice-caves-wi",
+   "to": "reel:DfkZC-8tHEw",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Ice caves / Walk to frozen sea caves when Lake Superior freezes",
+    "recommendation": "#2 on her winter bucket list: plan a trip around the Apostle Islands ice caves. In summer the mainland sea caves are a kayak trip — she shows a kayak POV under massive icicles and warns it takes advanced skills — but when the lake freezes, the National Park Service opens foot access across the ice; some winters the window lasts only a day.",
+    "creator": "@maddymarq",
+    "reel_title": "Lake Superior winter bucket list",
+    "reel_theme": "Lake Superior winter bucket list"
+   }
+  },
+  {
+   "from": "place:apostle-islands-ice-caves-wi",
+   "to": "theme:ice-caves-walk-to-frozen-sea-caves-when-lake-superior-freezes",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:keweenaw-peninsula-mi",
+   "to": "state:usa-mi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-mi",
+   "to": "country:usa",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-mi",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:keweenaw-peninsula-mi",
+   "to": "site:keweenaw-peninsula",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:keweenaw-peninsula-mi",
+   "to": "reel:DfkZC-8tHEw",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Winter base / Snowiest corner of the Midwest — skiing, frozen falls, sauna",
+    "recommendation": "#3 on her list: Michigan's Keweenaw Peninsula, which she says gets more snow than anywhere else in the Midwest. Her winter plans there center on skiing, frozen waterfalls and a sauna. The peninsula juts north into Lake Superior from Michigan's Upper Peninsula.",
+    "creator": "@maddymarq",
+    "reel_title": "Lake Superior winter bucket list",
+    "reel_theme": "Lake Superior winter bucket list"
+   }
+  },
+  {
+   "from": "place:keweenaw-peninsula-mi",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:keweenaw-peninsula-mi",
+   "to": "theme:winter-visit",
    "type": "BEST_FOR",
    "properties": {}
   }
