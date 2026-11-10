@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reel Places — Map</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>html,body{height:100%;margin:0;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}#bar{background:#37474f;color:#fff;padding:10px 14px}#bar h1{font-size:18px;margin:0 0 2px}#bar p{margin:0;font-size:13px;opacity:.9}#map{height:calc(100% - 62px)}.pin{border-radius:50%;box-sizing:border-box;width:8px;height:8px;border:1px solid #fff;box-shadow:0 1px 3px rgba(0,0,0,.45)}.legend{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.3);font-size:13px;line-height:1.7}.legend .chip{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}.leaflet-popup-content{font-size:14px}</style></head>
-<body><div id="bar"><h1>Reel Places — Map</h1><p>757 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
+<body><div id="bar"><h1>Reel Places — Map</h1><p>779 places from Instagram reels, color-coded by region. Tap a pin for what the reel recommended it for, Google Maps, and the source reel.</p></div><div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>
 var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825", "southwest": "#e07b00", "mountain-west": "#795548", "west": "#1d6fb8", "pacific-northwest": "#00838f", "alaska": "#3949ab", "hawaii": "#d81b60", "us-territories": "#00897b"}; var STOPS=[
  {
@@ -65,7 +65,15 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/Cu2uuVzM9kH/",
+    "reel_title": "3 easily accessible Acadia gems",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Lake / First of their 3 accessible Acadia gems",
+    "rec": "First of '3 other Acadia gems that are easily accessible': Jordan Pond \u2014 Kelley standing on a boulder over the glacial pond, ahead of the Park Loop Road/Champlain Drive stone bridge (named in the summary only) and Jesup Path."
+   }
+  ]
  },
  {
   "n": "4 \u00b7 Bass Harbor Head Light",
@@ -97,6 +105,20 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Lighthouse / #7 on their favorite-lighthouses list",
     "rec": "#7 on Kelley & Carl's favorite-lighthouses list: Bass Harbor Head Light in Acadia."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CvLU8rAuXD9/",
+    "reel_title": "Coastal Maine harbor views \u2014 series finale",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Lighthouse / In their Maine series finale",
+    "rec": "'To finish off our Maine series, here are some beautiful harbor views around coastal Maine' \u2014 the finale carousel of their Maine series, following their 3-lighthouses list that put Bass Harbor Head Light Station first."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CvBSuKeudrx/",
+    "reel_title": "3 Maine lighthouses for your next trip",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Lighthouse / #1 in their Maine lighthouses list",
+    "rec": "#1 on their '3 lighthouses to consider for your next trip to Maine': Bass Harbor Head Light Station."
    }
   ]
  },
@@ -270,7 +292,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "8 \u00b7 Homans Path",
+  "n": "8 \u00b7 Jesup Path",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bar Harbor, Maine",
+  "site": "Acadia National Park",
+  "lat": 44.3593788,
+  "lng": -68.2397308,
+  "q": "Jesup Path, Acadia National Park, Bar Harbor, Maine",
+  "best": "Trail / Boardwalk path in their easily accessible Acadia gems",
+  "rec": "One of '3 other Acadia gems that are easily accessible': Jesup Path \u2014 the boardwalk trail through the birch and wetland forest at Sieur de Monts, photographed with Kelley walking the boardwalk in dappled light.",
+  "reel": "https://www.instagram.com/p/Cu2uuVzM9kH/",
+  "reel_title": "3 easily accessible Acadia gems",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "9 \u00b7 Homans Path",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bar Harbor, Maine",
@@ -288,7 +328,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "9 \u00b7 Arethusa Falls",
+  "n": "10 \u00b7 Arethusa Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Harts Location, New Hampshire",
@@ -306,7 +346,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "10 \u00b7 Austin Dam Ruins",
+  "n": "11 \u00b7 Austin Dam Ruins",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Austin, Pennsylvania",
@@ -324,7 +364,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "11 \u00b7 Bash Bish Falls State Park",
+  "n": "12 \u00b7 Bash Bish Falls State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Mount Washington, Massachusetts",
@@ -350,7 +390,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "12 \u00b7 Baxter State Park",
+  "n": "13 \u00b7 Baxter State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Millinocket, Maine",
@@ -368,7 +408,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "13 \u00b7 Bilger's Rocks",
+  "n": "14 \u00b7 Bilger's Rocks",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Grampian, Pennsylvania",
@@ -386,7 +426,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "14 \u00b7 Brooklyn Bridge",
+  "n": "15 \u00b7 Brooklyn Bridge",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -404,7 +444,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "15 \u00b7 Bryant Park",
+  "n": "16 \u00b7 Bryant Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -419,10 +459,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/C0pY_P_ObXr/",
+    "reel_title": "NYC Christmas bucket list",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Park / Skating + holiday market on their NYC Christmas list",
+    "rec": "On their NYC Christmas bucket list: ice skating at Bryant Park and visiting a holiday market \u2014 Bryant Park is named for both."
+   }
+  ]
  },
  {
-  "n": "16 \u00b7 Bushkill Falls",
+  "n": "17 \u00b7 Bushkill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Bushkill, Pennsylvania",
@@ -440,7 +488,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Camden Hills State Park",
+  "n": "18 \u00b7 Camden Hills State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Camden, Maine",
@@ -458,7 +506,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Central Park",
+  "n": "19 \u00b7 Central Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -476,7 +524,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Cherry Springs State Park",
+  "n": "20 \u00b7 Cherry Springs State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Coudersport, Pennsylvania",
@@ -516,7 +564,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "20 \u00b7 Overnight Astronomy Observation Field",
+  "n": "21 \u00b7 Overnight Astronomy Observation Field",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Coudersport, Pennsylvania",
@@ -534,7 +582,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Chittenango Falls",
+  "n": "22 \u00b7 Chittenango Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cazenovia, New York",
@@ -552,7 +600,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "22 \u00b7 Scenic Railriders",
+  "n": "23 \u00b7 Scenic Railriders",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Concord, New Hampshire",
@@ -570,7 +618,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "23 \u00b7 Longfellow Trail",
+  "n": "24 \u00b7 Longfellow Trail",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cooksburg, Pennsylvania",
@@ -588,7 +636,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Crawford Notch State Park",
+  "n": "25 \u00b7 Crawford Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Harts Location, New Hampshire",
@@ -606,7 +654,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "25 \u00b7 Delaware Breakwater East End Lighthouse",
+  "n": "26 \u00b7 Delaware Breakwater East End Lighthouse",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lewes, Delaware",
@@ -624,7 +672,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "26 \u00b7 Dingmans Falls",
+  "n": "27 \u00b7 Dingmans Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Dingmans Ferry, Pennsylvania",
@@ -642,7 +690,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "27 \u00b7 Benezette Elk Viewing",
+  "n": "28 \u00b7 Benezette Elk Viewing",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benezette, Pennsylvania",
@@ -660,7 +708,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "28 \u00b7 Portland Head Light",
+  "n": "29 \u00b7 Portland Head Light",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cape Elizabeth, Maine",
@@ -675,10 +723,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/CvLU8rAuXD9/",
+    "reel_title": "Coastal Maine harbor views \u2014 series finale",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Lighthouse / In their Maine series finale",
+    "rec": "'To finish off our Maine series, here are some beautiful harbor views around coastal Maine' \u2014 the series finale, with Portland Head Light among the coastal scenes (it was #2 on their Maine lighthouses list)."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CvBSuKeudrx/",
+    "reel_title": "3 Maine lighthouses for your next trip",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Lighthouse / #2 in their Maine lighthouses list",
+    "rec": "#2 on their '3 lighthouses to consider for your next trip to Maine': Portland Head Light."
+   }
+  ]
  },
  {
-  "n": "29 \u00b7 Franconia Ridge Trail",
+  "n": "30 \u00b7 Franconia Ridge Trail",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lincoln, New Hampshire",
@@ -696,7 +759,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "30 \u00b7 Franconia Notch State Park",
+  "n": "31 \u00b7 Franconia Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Lincoln, New Hampshire",
@@ -714,7 +777,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "31 \u00b7 Glen Ellis Falls",
+  "n": "32 \u00b7 Glen Ellis Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Jackson, New Hampshire",
@@ -732,7 +795,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "32 \u00b7 Green Lakes State Park",
+  "n": "33 \u00b7 Green Lakes State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, New York",
@@ -750,7 +813,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "33 \u00b7 Edge",
+  "n": "34 \u00b7 Edge",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -783,7 +846,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "34 \u00b7 Hyner View State Park",
+  "n": "35 \u00b7 Hyner View State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Hyner, Pennsylvania",
@@ -801,7 +864,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "35 \u00b7 Kaaterskill Falls",
+  "n": "36 \u00b7 Kaaterskill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Haines Falls, New York",
@@ -819,7 +882,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "36 \u00b7 Kent Falls",
+  "n": "37 \u00b7 Kent Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Kent, Connecticut",
@@ -837,7 +900,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "37 \u00b7 Kinzua Bridge State Park",
+  "n": "38 \u00b7 Kinzua Bridge State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Mount Jewett, Pennsylvania",
@@ -855,7 +918,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "38 \u00b7 Pine Creek Gorge (PA Grand Canyon)",
+  "n": "39 \u00b7 Pine Creek Gorge (PA Grand Canyon)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Wellsboro, Pennsylvania",
@@ -873,7 +936,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "39 \u00b7 Letchworth State Park",
+  "n": "40 \u00b7 Letchworth State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Castile, New York",
@@ -891,7 +954,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "40 \u00b7 Middle Falls (Letchworth)",
+  "n": "41 \u00b7 Middle Falls (Letchworth)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Castile, New York",
@@ -909,7 +972,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "41 \u00b7 Statue of Liberty",
+  "n": "42 \u00b7 Statue of Liberty",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -942,7 +1005,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "42 \u00b7 Little Island",
+  "n": "43 \u00b7 Little Island",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -964,11 +1027,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Park / On their NYC parks picks",
     "rec": "The Parks chapter of their NYC picturesque guide: 'Little Island Park' named alongside Central Park and Gantry Plaza State Park (the museums chapter names the Met, the American Museum of Natural History and MoMA in the summary)."
+   },
+   {
+    "reel": "https://www.instagram.com/p/C04oGRCOu8T/",
+    "reel_title": "Little Island \u2014 NYC views from the most unique park",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Park / 'The most unique park' in NYC \u2014 free, at Pier 55",
+    "rec": "'New York City views from the most unique park' \u2014 Little Island at Pier 55: 'the perfect place for a stroll with beautiful New York City views and ever changing gardens. The architecture is entirely unique suspended above the water. The park is free to the public.'"
    }
   ]
  },
  {
-  "n": "43 \u00b7 Macy's Herald Square",
+  "n": "44 \u00b7 Macy's Herald Square",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -983,10 +1053,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/C0pY_P_ObXr/",
+    "reel_title": "NYC Christmas bucket list",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Holiday storefronts on their NYC Christmas list",
+    "rec": "Item 1 on their NYC Christmas bucket list: 'View beautiful holiday storefronts along Fifth Avenue & beyond (Sak's, Cartier, Macy's, Louis Vuitton, etc.)' \u2014 Macy's is the named department store."
+   },
+   {
+    "reel": "https://www.instagram.com/p/C0jeezsOXnb/",
+    "reel_title": "Macy's \u2014 our favorite NYC holiday storefront",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Their favorite NYC holiday storefront",
+    "rec": "'Our favorite holiday storefront in New York City \u2014 Macy's Department Store: 151 W 34th St.'"
+   }
+  ]
  },
  {
-  "n": "44 \u00b7 St. Patrick's Cathedral",
+  "n": "45 \u00b7 St. Patrick's Cathedral",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1004,7 +1089,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "45 \u00b7 Minnewaska State Park Preserve",
+  "n": "46 \u00b7 Minnewaska State Park Preserve",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Kerhonkson, New York",
@@ -1022,7 +1107,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "46 \u00b7 Mount Monadnock",
+  "n": "47 \u00b7 Mount Monadnock",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Jaffrey, New Hampshire",
@@ -1069,7 +1154,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "47 \u00b7 Moss Glen Falls (Granville)",
+  "n": "48 \u00b7 Moss Glen Falls (Granville)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Granville, Vermont",
@@ -1087,7 +1172,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "48 \u00b7 Mount Washington State Park",
+  "n": "49 \u00b7 Mount Washington State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Gorham, New Hampshire",
@@ -1105,7 +1190,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "49 \u00b7 Moxie Falls",
+  "n": "50 \u00b7 Moxie Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "The Forks, Maine",
@@ -1123,7 +1208,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "50 \u00b7 American Falls",
+  "n": "51 \u00b7 American Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -1141,7 +1226,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "51 \u00b7 Horseshoe Falls",
+  "n": "52 \u00b7 Horseshoe Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -1159,7 +1244,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "52 \u00b7 Niagara Falls",
+  "n": "53 \u00b7 Niagara Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Niagara Falls, New York",
@@ -1185,7 +1270,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "53 \u00b7 Ohiopyle State Park",
+  "n": "54 \u00b7 Ohiopyle State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ohiopyle, Pennsylvania",
@@ -1203,7 +1288,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "54 \u00b7 Cucumber Falls",
+  "n": "55 \u00b7 Cucumber Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ohiopyle, Pennsylvania",
@@ -1221,7 +1306,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "55 \u00b7 Summit One Vanderbilt",
+  "n": "56 \u00b7 Summit One Vanderbilt",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1243,11 +1328,36 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Viewpoint / SUMMIT in their NYC views guide",
     "rec": "The Observation Decks chapter of their NYC picturesque guide: 'Summit One Vanderbilt offers a unique mirrored room experience with stunning city views.'"
+   },
+   {
+    "reel": "https://www.instagram.com/p/C0w0MNMOg65/",
+    "reel_title": "SUMMIT One Vanderbilt \u2014 93 floors up in the fog",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / 93 floors up with the skyline fogged out",
+    "rec": "'We may not have been able to see the New York City skyline, but we still had a blast exploring SUMMIT One Vanderbilt. The reflections everywhere are unreal and it's hard to comprehend that you are 93 floors up.'"
    }
   ]
  },
  {
-  "n": "56 \u00b7 Penn's Cave",
+  "n": "57 \u00b7 Pemaquid Point Lighthouse",
+  "r": "northeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Bristol, Maine",
+  "site": "Pemaquid Point",
+  "lat": 43.8369528,
+  "lng": -69.5060472,
+  "q": "Pemaquid Point Lighthouse, Pemaquid Point, Bristol, Maine",
+  "best": "Lighthouse / #3 in their Maine lighthouses list",
+  "rec": "#3 on their '3 lighthouses to consider for your next trip to Maine': Pemaquid Point Lighthouse in Bristol \u2014 after Bass Harbor Head Light Station (#1) and Portland Head Light (#2).",
+  "reel": "https://www.instagram.com/p/CvBSuKeudrx/",
+  "reel_title": "3 Maine lighthouses for your next trip",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "58 \u00b7 Penn's Cave",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Centre Hall, Pennsylvania",
@@ -1265,7 +1375,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "57 \u00b7 Raymondskill Falls",
+  "n": "59 \u00b7 Raymondskill Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Milford, Pennsylvania",
@@ -1283,7 +1393,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "58 \u00b7 Ricketts Glen State Park",
+  "n": "60 \u00b7 Ricketts Glen State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benton, Pennsylvania",
@@ -1301,7 +1411,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "59 \u00b7 Ganoga Falls",
+  "n": "61 \u00b7 Ganoga Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Benton, Pennsylvania",
@@ -1319,7 +1429,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "60 \u00b7 Rockefeller Center",
+  "n": "62 \u00b7 Rockefeller Center",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1355,11 +1465,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Landmark / Top of the Rock in their NYC views guide",
     "rec": "The Observation Decks chapter of their NYC picturesque guide: 'Top of the Rock (Rockefeller Center) offers fantastic views of the Manhattan skyline including the Empire State Building.'"
+   },
+   {
+    "reel": "https://www.instagram.com/p/C0pY_P_ObXr/",
+    "reel_title": "NYC Christmas bucket list",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Skating + the Rockefeller tree on their NYC Christmas list",
+    "rec": "Two items on their NYC Christmas bucket list point here: ice skating at Rockefeller Center, and viewing 'the iconic Rockafeller tree (try to do this either earlier in the day, late at night, or on a weekday for the most enjoyable experience)'."
    }
   ]
  },
  {
-  "n": "61 \u00b7 Radio City Music Hall",
+  "n": "63 \u00b7 Radio City Music Hall",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "New York, New York",
@@ -1374,10 +1491,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/C0pY_P_ObXr/",
+    "reel_title": "NYC Christmas bucket list",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Finale of their NYC Christmas bucket list",
+    "rec": "Item 6 on their NYC Christmas bucket list: 'Explore Radio City Music Hall and adjacent park areas where you will find giant bulbs, candy canes, and more.' (Wollman Rink, Brooklyn Bridge Park, Union Square and Hudson Yards are named in the reel summary only.)"
+   }
+  ]
  },
  {
-  "n": "62 \u00b7 Smalls Falls",
+  "n": "64 \u00b7 Smalls Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Rangeley, Maine",
@@ -1395,7 +1520,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "63 \u00b7 Smugglers' Notch State Park",
+  "n": "65 \u00b7 Smugglers' Notch State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Cambridge, Vermont",
@@ -1413,7 +1538,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "64 \u00b7 Taughannock Falls",
+  "n": "66 \u00b7 Taughannock Falls",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Ithaca, New York",
@@ -1431,7 +1556,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "65 \u00b7 Watkins Glen State Park",
+  "n": "67 \u00b7 Watkins Glen State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Watkins Glen, New York",
@@ -1457,7 +1582,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "66 \u00b7 Rainbow Falls (Watkins Glen)",
+  "n": "68 \u00b7 Rainbow Falls (Watkins Glen)",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Watkins Glen, New York",
@@ -1475,7 +1600,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "67 \u00b7 Wellsboro",
+  "n": "69 \u00b7 Wellsboro",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Wellsboro, Pennsylvania",
@@ -1493,7 +1618,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "68 \u00b7 White Mountains",
+  "n": "70 \u00b7 White Mountains",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "North Conway, New Hampshire",
@@ -1511,7 +1636,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "69 \u00b7 Worlds End State Park",
+  "n": "71 \u00b7 Worlds End State Park",
   "r": "northeast",
   "rlabel": "U.S. Territories",
   "loc": "Forksville, Pennsylvania",
@@ -1594,11 +1719,36 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "State park / Glade Creek Grist Mill",
     "rec": "A photo stop on their East Coast road trip: Babcock State Park's Glade Creek Grist Mill."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzHnUDQOihu/",
+    "reel_title": "Babcock State Park \u2014 the grist mill in fall",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "State Park / WV series finale \u2014 the grist mill in fall",
+    "rec": "'To finish off our West Virginia series, no fall trip to the region is complete without a stop at Babcock State Park. The grist mill surrounded by fall foliage is utter perfection.'"
    }
   ]
  },
  {
-  "n": "4 \u00b7 Boca Chita Key",
+  "n": "4 \u00b7 Bald Rock Heritage Preserve",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Cleveland, South Carolina",
+  "site": "Bald Rock Heritage Preserve",
+  "lat": 35.082822,
+  "lng": -82.621274,
+  "q": "Bald Rock Heritage Preserve, Bald Rock Heritage Preserve, Cleveland, South Carolina",
+  "best": "Viewpoint / Granite dome overlook on US 276",
+  "rec": "Paired with Caesars Head on their list: 'the overlooks at Caesars Head State Park and Bald Rock Heritage Preserve' \u2014 a smooth granite outcrop right on US 276 with a panoramic view toward Table Rock.",
+  "reel": "https://www.instagram.com/p/C0FUD26uoGP/",
+  "reel_title": "South Carolina mountain bucket list",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "5 \u00b7 Boca Chita Key",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Miami, Florida",
@@ -1631,7 +1781,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "5 \u00b7 Biscayne National Park",
+  "n": "6 \u00b7 Biscayne National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Miami, Florida",
@@ -1699,7 +1849,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "6 \u00b7 Blackwater Falls",
+  "n": "7 \u00b7 Blackwater Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Davis, West Virginia",
@@ -1735,11 +1885,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Waterfall / #8 on their must-visit waterfalls list",
     "rec": "#8 on their 'waterfalls you have to visit at least once' list: Blackwater Falls in West Virginia."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cy_51Luu4FD/",
+    "reel_title": "Blackwater Falls \u2014 the ultimate WV fall bucket list",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Waterfall / Headliner of the ultimate WV fall bucket list",
+    "rec": "'Blackwater Falls State Park in Davis, West Virginia is the ultimate fall bucket list location... We recommend checking out Blackwater Falls and Elakala Falls. Then drive along Blackwater Falls Road stopping at various overlooks along the way.' All their photos were taken within a few miles of each other with minimal effort."
    }
   ]
  },
  {
-  "n": "7 \u00b7 Elakala Falls",
+  "n": "8 \u00b7 Elakala Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Davis, West Virginia",
@@ -1761,11 +1918,36 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Waterfall / East Coast fall hikes top 10",
     "rec": "Elakala Falls (0.4-mile hike in Blackwater Falls State Park) is one of Kelley & Carl's top 10 East Coast fall hikes."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cy_51Luu4FD/",
+    "reel_title": "Blackwater Falls \u2014 the ultimate WV fall bucket list",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Waterfall / Second falls of their Blackwater Falls stop",
+    "rec": "'We recommend checking out Blackwater Falls and Elakala Falls' \u2014 the second named waterfall of their Blackwater Falls State Park visit, the 'ultimate fall bucket list location' in Davis, WV."
    }
   ]
  },
  {
-  "n": "8 \u00b7 Craggy Pinnacle",
+  "n": "9 \u00b7 Beacon Heights",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Linville, North Carolina",
+  "site": "Blue Ridge Parkway",
+  "lat": 36.08405,
+  "lng": -81.82995,
+  "q": "Beacon Heights, Blue Ridge Parkway, Linville, North Carolina",
+  "best": "Hike / One of their 3 favorite Blue Ridge Parkway hikes",
+  "rec": "On their favorite-hikes list from their fall drive down the North Carolina side of the parkway: 'Beacon Heights (pics 7 & 8)' \u2014 a short climb from the MP 305.2 trailhead to open rock slabs above the Linn Cove area.",
+  "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+  "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "10 \u00b7 Craggy Pinnacle",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Asheville, North Carolina",
@@ -1794,11 +1976,36 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hiking / Craggy Gardens summit",
     "rec": "In their Parkway overlooks post: Craggy Pinnacle above the rhododendron gardens."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+    "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / One of their 3 favorite BRP hikes (pic 3)",
+    "rec": "On their favorite-hikes list: 'Craggy Pinnacle (pic 3)', alongside Beacon Heights and Devil's Courthouse."
    }
   ]
  },
  {
-  "n": "9 \u00b7 Blue Ridge Parkway",
+  "n": "11 \u00b7 Devil's Courthouse",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Brevard, North Carolina",
+  "site": "Blue Ridge Parkway",
+  "lat": 35.302808,
+  "lng": -82.895714,
+  "q": "Devil's Courthouse, Blue Ridge Parkway, Brevard, North Carolina",
+  "best": "Hike / One of their 3 favorite Blue Ridge Parkway hikes",
+  "rec": "On their favorite-hikes list: 'Devil's Courthouse (pic 10)' \u2014 the short, steep climb at MP 422.4 to the bare rock summit with its wide Blue Ridge views.",
+  "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+  "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "12 \u00b7 Blue Ridge Parkway",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Asheville, North Carolina",
@@ -1848,11 +2055,116 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Scenic drive / On their choose-one road trips list",
     "rec": "On their choose-one list: the Smoky Mountains trip drives the Blue Ridge Parkway in fall for the colors (Canadian Rockies and Bear Lake items on the list are foreign/unnamed and not pinned)."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cx1UOvPO_iA/",
+    "reel_title": "Virginia Blue Ridge Parkway overlooks \u2014 skip the Shenandoah crowds",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Scenic drive / Their Shenandoah-crowds alternative in Virginia",
+    "rec": "'If you want to avoid the crowds of Shenandoah National Park but still want to enjoy the mountains of Virginia, a drive along the Blue Ridge Parkway is an excellent alternative! You can find amazing overlooks, hikes, and mountain views. We even saw a black bear run across the road in front of us when we drove through last fall!' Their Virginia favorites (Rice Mountain, House Mountain, Irish Creek Valley and The Slacks overlooks) are new pins from this post; the parkway-level pin carries the drive itself."
    }
   ]
  },
  {
-  "n": "10 \u00b7 Linn Cove Viaduct",
+  "n": "13 \u00b7 Bear Den Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Marion, North Carolina",
+  "site": "Blue Ridge Parkway",
+  "lat": 35.903507,
+  "lng": -81.968728,
+  "q": "Bear Den Overlook, Blue Ridge Parkway, Marion, North Carolina",
+  "best": "Viewpoint / Favorite BRP overlook (pic 4) \u2014 also their Friday-feeling photo spot",
+  "rec": "On their favorite-overlooks list: 'Bear Den Overlook (pic 4)', the MP 323.0 overlook on the North Carolina side of the parkway \u2014 the same spot as their standalone 'That Friday feeling' photo post two weeks earlier.",
+  "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+  "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/CzMOHEXOmR5/",
+    "reel_title": "That Friday feeling \u2014 Bear Den Overlook",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / 'That Friday feeling'",
+    "rec": "'That Friday feeling \u2014 Bear Den Overlook, NC Blue Ridge Parkway': Kelley sitting on the rocks above a full-fall-color valley. Their later favorites list names this overlook (pic 4) as one of the primary sources."
+   }
+  ]
+ },
+ {
+  "n": "14 \u00b7 Black Mountains Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Burnsville, North Carolina",
+  "site": "Blue Ridge Parkway",
+  "lat": 35.785942,
+  "lng": -82.168314,
+  "q": "Black Mountains Overlook, Blue Ridge Parkway, Burnsville, North Carolina",
+  "best": "Viewpoint / The whole Black Mountain range at MP 342.2",
+  "rec": "On their favorite-overlooks list: 'Black Mountains Overlook' \u2014 at MP 342.2 (3,892 ft) the pull-off faces the entire Black Mountain range, including Mount Mitchell, the highest peak east of the Mississippi.",
+  "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+  "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "15 \u00b7 Chestoa Viewpoint",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Marion, North Carolina",
+  "site": "Blue Ridge Parkway",
+  "lat": 35.927447,
+  "lng": -81.95445,
+  "q": "Chestoa Viewpoint, Blue Ridge Parkway, Marion, North Carolina",
+  "best": "Viewpoint / On their favorite Blue Ridge Parkway overlooks list",
+  "rec": "On their favorite-overlooks list from the fall parkway drive: 'Chestoa Viewpoint' (officially Chestoa View), the MP 320.8 overlook over the Linville Gorge country.",
+  "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+  "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "16 \u00b7 Cowee Mountains Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Waynesville, North Carolina",
+  "site": "Blue Ridge Parkway",
+  "lat": 35.355606,
+  "lng": -82.987893,
+  "q": "Cowee Mountains Overlook, Blue Ridge Parkway, Waynesville, North Carolina",
+  "best": "Viewpoint / On their favorite Blue Ridge Parkway overlooks list",
+  "rec": "On their favorite-overlooks list: 'Cowee Mountain Overlook' (the Cowee Mountains Overlook), MP 430.7 at 5,950 feet \u2014 one of the highest overlooks on the parkway, looking over the Cowee Mountains in Jackson County.",
+  "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+  "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "17 \u00b7 Deerlick Gap Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Marion, North Carolina",
+  "site": "Blue Ridge Parkway",
+  "lat": 35.824378,
+  "lng": -82.121775,
+  "q": "Deerlick Gap Overlook, Blue Ridge Parkway, Marion, North Carolina",
+  "best": "Viewpoint / On their favorite Blue Ridge Parkway overlooks list",
+  "rec": "On their favorite-overlooks list: 'Deerlick Gap Overlook (pic 9)' (officially Deer Lick Gap), the MP 337.2 overlook at 3,452 feet on the run toward the Black Mountains.",
+  "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+  "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "18 \u00b7 Linn Cove Viaduct",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Linville, North Carolina",
@@ -1874,11 +2186,36 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Overlook / The Parkway's famous viaduct",
     "rec": "In their Parkway overlooks post: the Linn Cove Viaduct around Grandfather Mountain."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+    "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Landmark / Favorite BRP overlook (pics 1 & 2)",
+    "rec": "First on their favorite-overlooks list from the fall parkway drive: 'Linn Cove Viaduct (pics 1&2)' \u2014 the opening photos of the carousel are shot at the viaduct."
    }
   ]
  },
  {
-  "n": "11 \u00b7 Waterrock Knob",
+  "n": "19 \u00b7 Three Knobs Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Marion, North Carolina",
+  "site": "Blue Ridge Parkway",
+  "lat": 35.819287,
+  "lng": -82.137867,
+  "q": "Three Knobs Overlook, Blue Ridge Parkway, Marion, North Carolina",
+  "best": "Viewpoint / On their favorite Blue Ridge Parkway overlooks list",
+  "rec": "On their favorite-overlooks list: 'Three Knobs Overlook (pic 6)', the MP 338.8 overlook at 3,875 feet.",
+  "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+  "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "20 \u00b7 Waterrock Knob",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Sylva, North Carolina",
@@ -1900,11 +2237,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Overlook / Sunset at the Parkway's high knob",
     "rec": "In their Parkway overlooks post: Waterrock Knob, a sunset favorite near the Parkway's southern end."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+    "reel_title": "Blue Ridge Parkway in the fall \u2014 favorite hikes & overlooks",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / On their favorite BRP overlooks list",
+    "rec": "The last name on their favorite-overlooks list: 'Waterrock Knob' \u2014 also the subject of their standalone Blue Ridge Parkway sunset post a week earlier."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzPUHTTOyVs/",
+    "reel_title": "Sunsets on the Blue Ridge Parkway \u2014 Waterrock Knob",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / 'Sunsets on the Blue Ridge Parkway'",
+    "rec": "'Sunsets on the Blue Ridge Parkway \u2014 Waterrock Knob, NC': a single sunset frame from the overlook."
    }
   ]
  },
  {
-  "n": "12 \u00b7 Humpback Rocks",
+  "n": "21 \u00b7 Humpback Rocks",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Waynesboro, Virginia",
@@ -1930,7 +2281,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "13 \u00b7 Sharp Top Trail",
+  "n": "22 \u00b7 Sharp Top Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Bedford, Virginia",
@@ -1963,7 +2314,79 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "14 \u00b7 Twenty Minute Cliff Overlook",
+  "n": "23 \u00b7 House Mountain Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Buena Vista, Virginia",
+  "site": "Blue Ridge Parkway",
+  "lat": 37.70208,
+  "lng": -79.3217,
+  "q": "House Mountain Overlook, Blue Ridge Parkway, Buena Vista, Virginia",
+  "best": "Viewpoint / Big & Little House Mountain at MP 49.3",
+  "rec": "On their favorite Virginia parkway overlooks list: House Mountain Overlook (MP 49.3), where Big House and Little House Mountains merge into a single silhouette in the distance (sign: elev. 3,612, elev. here 2,498).",
+  "reel": "https://www.instagram.com/p/Cx1UOvPO_iA/",
+  "reel_title": "Virginia Blue Ridge Parkway overlooks \u2014 skip the Shenandoah crowds",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "24 \u00b7 Irish Creek Valley Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Montebello, Virginia",
+  "site": "Blue Ridge Parkway",
+  "lat": 37.78,
+  "lng": -79.275665,
+  "q": "Irish Creek Valley Overlook, Blue Ridge Parkway, Montebello, Virginia",
+  "best": "Viewpoint / Irish Creek Valley at MP 42.2",
+  "rec": "On their favorite Virginia parkway overlooks list: Irish Creek Valley Overlook (MP 42.2) \u2014 the sign reads 'View Irish Creek Valley, 1500 ft. below, elev. here 2660'; the valley is named for the Scots-Irish settlers who passed through in the mid-1700s.",
+  "reel": "https://www.instagram.com/p/Cx1UOvPO_iA/",
+  "reel_title": "Virginia Blue Ridge Parkway overlooks \u2014 skip the Shenandoah crowds",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "25 \u00b7 Rice Mountain Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Buena Vista, Virginia",
+  "site": "Blue Ridge Parkway",
+  "lat": 37.66208,
+  "lng": -79.31809,
+  "q": "Rice Mountain Overlook, Blue Ridge Parkway, Buena Vista, Virginia",
+  "best": "Viewpoint / First stop on their Virginia BRP overlooks list",
+  "rec": "First of their favorite Virginia parkway overlooks (all between Peaks of Otter & Humpback Rocks, from a mid-October 2022 drive): Rice Mountain Overlook, MP 53.6 \u2014 also a picnic area; the parkway sign reads 'View Rice Mountain, elev. 2,214, elev. here 1,755'.",
+  "reel": "https://www.instagram.com/p/Cx1UOvPO_iA/",
+  "reel_title": "Virginia Blue Ridge Parkway overlooks \u2014 skip the Shenandoah crowds",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "26 \u00b7 The Slacks Overlook",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Montebello, Virginia",
+  "site": "Blue Ridge Parkway",
+  "lat": 37.90819,
+  "lng": -79.05086,
+  "q": "The Slacks Overlook, Blue Ridge Parkway, Montebello, Virginia",
+  "best": "Viewpoint / Trailhead overlook at MP 19.9",
+  "rec": "On their favorite Virginia parkway overlooks list: The Slacks Overlook (MP 19.9) \u2014 better known as a hiking access point (the Slacks Trail and the White Rock Falls Trail) than for its views, just south of the 20-Minute Cliff.",
+  "reel": "https://www.instagram.com/p/Cx1UOvPO_iA/",
+  "reel_title": "Virginia Blue Ridge Parkway overlooks \u2014 skip the Shenandoah crowds",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "27 \u00b7 Twenty Minute Cliff Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Montebello, Virginia",
@@ -2020,11 +2443,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Viewpoint / Low-effort Blue Ridge Parkway sunset",
     "rec": "'The perfect low effort sunset spot along the Blue Ridge Parkway' \u2014 the video pans the valley light at golden hour from the overlook."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cx1UOvPO_iA/",
+    "reel_title": "Virginia Blue Ridge Parkway overlooks \u2014 skip the Shenandoah crowds",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / On their Virginia BRP overlooks list",
+    "rec": "The last name on their Virginia parkway list: '20-Minute Cliff Overlook' \u2014 among their favorite overlooks & stops between Peaks of Otter & Humpback Rocks."
    }
   ]
  },
  {
-  "n": "15 \u00b7 Wigwam Falls",
+  "n": "28 \u00b7 Wigwam Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Montebello, Virginia",
@@ -2039,10 +2469,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "creator": "@kelleyandcarlsadventures",
   "rank": null,
   "at": "https://www.alltrails.com/trail/us/virginia/wigwam-falls",
-  "also": []
+  "also": [
+   {
+    "reel": "https://www.instagram.com/p/Cx1UOvPO_iA/",
+    "reel_title": "Virginia Blue Ridge Parkway overlooks \u2014 skip the Shenandoah crowds",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Waterfall / Yankee Horse Ridge on their Virginia BRP list",
+    "rec": "On their Virginia parkway list as 'Yankee Horse Ridge/Wigwam Falls' \u2014 the waterfall stop among their favorite overlooks & stops between Peaks of Otter & Humpback Rocks."
+   }
+  ]
  },
  {
-  "n": "16 \u00b7 Boone Hall Plantation & Gardens",
+  "n": "29 \u00b7 Boone Hall Plantation & Gardens",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Mount Pleasant, South Carolina",
@@ -2060,7 +2498,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "17 \u00b7 Towers Overlook",
+  "n": "30 \u00b7 Towers Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Breaks, Virginia",
@@ -2078,7 +2516,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "18 \u00b7 Goat Trail to Big Bluff",
+  "n": "31 \u00b7 Goat Trail to Big Bluff",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Ponca, Arkansas",
@@ -2096,7 +2534,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "19 \u00b7 Hemmed-In Hollow Falls",
+  "n": "32 \u00b7 Hemmed-In Hollow Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Compton, Arkansas",
@@ -2114,7 +2552,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "20 \u00b7 Burgess Falls",
+  "n": "33 \u00b7 Burgess Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Sparta, Tennessee",
@@ -2132,7 +2570,61 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "21 \u00b7 Bodie Island Lighthouse",
+  "n": "34 \u00b7 Caesars Head State Park",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Cleveland, South Carolina",
+  "site": "Caesars Head State Park",
+  "lat": 35.105588,
+  "lng": -82.628325,
+  "q": "Caesars Head State Park, Caesars Head State Park, Cleveland, South Carolina",
+  "best": "State Park / Escarpment overlooks on their SC mountain bucket list",
+  "rec": "'Check out the overlooks at Caesars Head State Park and Bald Rock Heritage Preserve' \u2014 the park's main overlook sits on the Blue Ridge Escarpment at 3,215 feet off Geer Highway (US 276), with Raven Cliff Falls inside the same park.",
+  "reel": "https://www.instagram.com/p/C0FUD26uoGP/",
+  "reel_title": "South Carolina mountain bucket list",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "35 \u00b7 Raven Cliff Falls",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Cleveland, South Carolina",
+  "site": "Caesars Head State Park",
+  "lat": 35.105673,
+  "lng": -82.660961,
+  "q": "Raven Cliff Falls, Caesars Head State Park, Cleveland, South Carolina",
+  "best": "Waterfall / The falls pick on their SC mountain bucket list",
+  "rec": "Their waterfall choice on the South Carolina mountain bucket list ('we chose Raven Cliff Falls, but there are others to choose from including Pinnacle Mountain Falls, Lee Falls, Issaqueena Falls, Yellow Branch Falls, etc.') \u2014 South Carolina's tallest waterfall, about 420 feet on Matthews Creek in Caesars Head State Park.",
+  "reel": "https://www.instagram.com/p/C0FUD26uoGP/",
+  "reel_title": "South Carolina mountain bucket list",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "36 \u00b7 Campbell's Covered Bridge",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Landrum, South Carolina",
+  "site": "Campbell's Covered Bridge",
+  "lat": 35.08583,
+  "lng": -82.26417,
+  "q": "Campbell's Covered Bridge, Campbell's Covered Bridge, Landrum, South Carolina",
+  "best": "Landmark / South Carolina's only remaining covered bridge",
+  "rec": "First item on their South Carolina mountain bucket list: 'Walk across the only covered bridge in South Carolina (Campbell's Covered Bridge)' \u2014 the 1909 covered bridge in Landrum, the last one remaining in the state.",
+  "reel": "https://www.instagram.com/p/C0FUD26uoGP/",
+  "reel_title": "South Carolina mountain bucket list",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "37 \u00b7 Bodie Island Lighthouse",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Nags Head, North Carolina",
@@ -2193,7 +2685,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "22 \u00b7 Cape Hatteras Lighthouse",
+  "n": "38 \u00b7 Cape Hatteras Lighthouse",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Buxton, North Carolina",
@@ -2233,7 +2725,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "23 \u00b7 Cape Henry Lighthouse",
+  "n": "39 \u00b7 Cape Henry Lighthouse",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Virginia Beach, Virginia",
@@ -2251,7 +2743,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "24 \u00b7 Cape Lookout Lighthouse",
+  "n": "40 \u00b7 Cape Lookout Lighthouse",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Harkers Island, North Carolina",
@@ -2284,7 +2776,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "25 \u00b7 Carter Mountain Orchard",
+  "n": "41 \u00b7 Carter Mountain Orchard",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Charlottesville, Virginia",
@@ -2310,7 +2802,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "26 \u00b7 Catawba Falls",
+  "n": "42 \u00b7 Catawba Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Old Fort, North Carolina",
@@ -2336,7 +2828,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "27 \u00b7 Cathedral Falls",
+  "n": "43 \u00b7 Cathedral Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gauley Bridge, West Virginia",
@@ -2354,7 +2846,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "28 \u00b7 The Great Channels",
+  "n": "44 \u00b7 The Great Channels",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Saltville, Virginia",
@@ -2372,7 +2864,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "29 \u00b7 Mingo Falls",
+  "n": "45 \u00b7 Mingo Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Cherokee, North Carolina",
@@ -2398,7 +2890,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "30 \u00b7 Assateague Lighthouse",
+  "n": "46 \u00b7 Assateague Lighthouse",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Chincoteague, Virginia",
@@ -2416,7 +2908,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "31 \u00b7 Boardwalk Loop",
+  "n": "47 \u00b7 Boardwalk Loop",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Hopkins, South Carolina",
@@ -2473,11 +2965,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hiking / Guide's boardwalk loop",
     "rec": "In their Congaree guide: the elevated Boardwalk Loop."
+   },
+   {
+    "reel": "https://www.instagram.com/p/C0UFlaWuqv2/",
+    "reel_title": "Congaree National Park \u2014 an honest review",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / Half of their easy 5-mile Congaree walk",
+    "rec": "'We did the boardwalk trail and Weston loop trail which was an easy 5 miles. If you do visit the park, we would recommend visiting early because the morning light hitting the leaves and trees is very beautiful. The fall is a nice time to go too as the weather is ideal and the mosquitoes are minimal.'"
    }
   ]
  },
  {
-  "n": "32 \u00b7 Weston Lake Loop Trail",
+  "n": "48 \u00b7 Weston Lake Loop Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Hopkins, South Carolina",
@@ -2499,11 +2998,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hiking / Guide's lake loop",
     "rec": "In their Congaree guide: the Weston Lake Loop beyond the boardwalk."
+   },
+   {
+    "reel": "https://www.instagram.com/p/C0UFlaWuqv2/",
+    "reel_title": "Congaree National Park \u2014 an honest review",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / The other half of their easy 5-mile Congaree walk",
+    "rec": "The Weston Lake Loop half of their Congaree walk: 'we did the boardwalk trail and Weston loop trail which was an easy 5 miles' \u2014 go early for the morning light; fall brings ideal weather and minimal mosquitoes."
    }
   ]
  },
  {
-  "n": "33 \u00b7 Congaree National Park",
+  "n": "49 \u00b7 Congaree National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Hopkins, South Carolina",
@@ -2553,11 +3059,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "National Park / #14 in their 14-park ranking",
     "rec": "Last (#14) in their ranking of the 14 national parks they'd visited by National Park Week 2024: Congaree."
+   },
+   {
+    "reel": "https://www.instagram.com/p/C0UFlaWuqv2/",
+    "reel_title": "Congaree National Park \u2014 an honest review",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "National Park / Their honest review \u2014 not a favorite, but worth a trip",
+    "rec": "'Congaree National Park is one of the least visited national parks in the US and we can understand why to a degree. It is not super multidimensional and doesn't necessarily have the wow factor that a lot of other national parks do. However, we did very much enjoy walking around the park... Overall, Congaree might not be our favorite US National Park, but we do think it's worth a trip!' They combined it with northwest South Carolina state parks for a weekend getaway."
    }
   ]
  },
  {
-  "n": "34 \u00b7 Corkscrew Boardwalk",
+  "n": "50 \u00b7 Corkscrew Boardwalk",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Naples, Florida",
@@ -2575,7 +3088,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "35 \u00b7 Crabtree Falls (Virginia)",
+  "n": "51 \u00b7 Crabtree Falls (Virginia)",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Montebello, Virginia",
@@ -2593,7 +3106,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "36 \u00b7 Crabtree Falls (North Carolina)",
+  "n": "52 \u00b7 Crabtree Falls (North Carolina)",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Little Switzerland, North Carolina",
@@ -2611,7 +3124,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "37 \u00b7 Cumberland Falls",
+  "n": "53 \u00b7 Cumberland Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Corbin, Kentucky",
@@ -2629,7 +3142,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "38 \u00b7 Cummins Falls",
+  "n": "54 \u00b7 Cummins Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Cookeville, Tennessee",
@@ -2647,7 +3160,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "39 \u00b7 Currituck Beach Lighthouse",
+  "n": "55 \u00b7 Currituck Beach Lighthouse",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Corolla, North Carolina",
@@ -2665,7 +3178,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "40 \u00b7 Cypress Gardens",
+  "n": "56 \u00b7 Cypress Gardens",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Moncks Corner, South Carolina",
@@ -2683,7 +3196,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "41 \u00b7 Devil's Den Prehistoric Spring",
+  "n": "57 \u00b7 Devil's Den Prehistoric Spring",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Williston, Florida",
@@ -2701,7 +3214,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "42 \u00b7 Devil's Bathtub",
+  "n": "58 \u00b7 Devil's Bathtub",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Fort Blackmore, Virginia",
@@ -2719,7 +3232,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "43 \u00b7 Bear Rocks Preserve",
+  "n": "59 \u00b7 Devils Fork State Park",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Salem, South Carolina",
+  "site": "Devils Fork State Park",
+  "lat": 34.952214,
+  "lng": -82.946203,
+  "q": "Devils Fork State Park, Devils Fork State Park, Salem, South Carolina",
+  "best": "State Park / Lake Jocassee kayaking",
+  "rec": "The other kayaking option on their South Carolina mountain bucket list: 'Kayak on a lake (Table Rock State Park, Devils Fork State Park)' \u2014 Devils Fork is the state park on Lake Jocassee, the clear mountain lake fed by waterfall streams.",
+  "reel": "https://www.instagram.com/p/C0FUD26uoGP/",
+  "reel_title": "South Carolina mountain bucket list",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "60 \u00b7 Bear Rocks Preserve",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Davis, West Virginia",
@@ -2755,11 +3286,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Viewpoint / Dolly Sods boulder field",
     "rec": "In their ten best non-national-park nature places: Bear Rocks at Dolly Sods, West Virginia."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CyicM55u6rU/",
+    "reel_title": "Bear Rocks Preserve \u2014 a Dolly Sods sunrise attempt",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Viewpoint / Dolly Sods sunrise attempt \u2014 steps from the car",
+    "rec": "'Sunrise might not have been what we hoped for, but Bear Rocks Preserve in Dolly Sods Wilderness of West Virginia feels like another world.' Wind-sculpted sandstone on a high plateau; hiking/backpacking options include Blackbird Knob, but the views are also steps from the car \u2014 reached by a winding gravel road."
    }
   ]
  },
  {
-  "n": "44 \u00b7 Dry Falls",
+  "n": "61 \u00b7 Dry Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Highlands, North Carolina",
@@ -2777,7 +3315,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "45 \u00b7 Fort Jefferson",
+  "n": "62 \u00b7 Fort Jefferson",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Monroe, Florida",
@@ -2866,7 +3404,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "46 \u00b7 Dry Tortugas National Park",
+  "n": "63 \u00b7 Dry Tortugas National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Monroe, Florida",
@@ -2941,7 +3479,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "47 \u00b7 Anhinga Trail",
+  "n": "64 \u00b7 Anhinga Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Homestead, Florida",
@@ -3016,7 +3554,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "48 \u00b7 Mahogany Hammock Trail",
+  "n": "65 \u00b7 Mahogany Hammock Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Homestead, Florida",
@@ -3063,7 +3601,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "49 \u00b7 Pa-Hay-Okee Overlook",
+  "n": "66 \u00b7 Pa-Hay-Okee Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Homestead, Florida",
@@ -3110,7 +3648,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "50 \u00b7 Shark Valley",
+  "n": "67 \u00b7 Shark Valley",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Miami area, Florida",
@@ -3192,7 +3730,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "51 \u00b7 Everglades National Park",
+  "n": "68 \u00b7 Everglades National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Homestead, Florida",
@@ -3253,7 +3791,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "52 \u00b7 Falling Spring Falls",
+  "n": "69 \u00b7 Falling Spring Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Covington, Virginia",
@@ -3271,7 +3809,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "53 \u00b7 Hill Hall Hotel",
+  "n": "70 \u00b7 Hill Hall Hotel",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, West Virginia",
@@ -3289,7 +3827,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "54 \u00b7 Big Schloss",
+  "n": "71 \u00b7 Big Schloss",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Woodstock, Virginia",
@@ -3307,7 +3845,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "55 \u00b7 Wilburn Ridge",
+  "n": "72 \u00b7 Wilburn Ridge",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Mouth of Wilson, Virginia",
@@ -3340,7 +3878,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "56 \u00b7 Grayson Highlands State Park",
+  "n": "73 \u00b7 Grayson Highlands State Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Grayson Highlands State Park, Virginia",
@@ -3394,7 +3932,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "57 \u00b7 Charles A. Webb Overlook",
+  "n": "74 \u00b7 Charles A. Webb Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Cherokee, North Carolina",
@@ -3420,7 +3958,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "58 \u00b7 Mt. Le Conte",
+  "n": "75 \u00b7 Mt. Le Conte",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Great Smoky Mountains National Park, Tennessee",
@@ -3460,7 +3998,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "59 \u00b7 Alum Cave Trail",
+  "n": "76 \u00b7 Clingmans Dome (Kuwohi)",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Gatlinburg, Tennessee",
+  "site": "Great Smoky Mountains National Park",
+  "lat": 35.56278,
+  "lng": -83.49861,
+  "q": "Clingmans Dome (Kuwohi), Great Smoky Mountains National Park, Gatlinburg, Tennessee",
+  "best": "Summit / Highest point in Tennessee \u2014 1.3-mile paved tower trail",
+  "rec": "'Another must do in Great Smoky Mountains National Park is Clingmans Dome. You can get amazing views just steps from the parking lot. But we think it is worth going on the out and back 1.3 mile trail. Be warned, although the trail is paved, it is entirely uphill & rather steep on the way to the tower from the parking lot. At 6,643 feet, Clingmans Dome is the highest point in Tennessee. It's supposedly a beautiful place for sunrise or sunset too.' Their fall Sunday-afternoon warning: expect to wait about an hour for a parking space \u2014 'we are so glad we were patient'.",
+  "reel": "https://www.instagram.com/p/CzeYpjcOPC1/",
+  "reel_title": "Clingmans Dome \u2014 highest point in Tennessee",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "77 \u00b7 Alum Cave Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -3538,11 +4094,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hike / Peregrine Peak via the Alum Cave Bluff Trail",
     "rec": "Their Peregrine Peak hike via the Alum Cave Bluff Trail: 5 miles round trip, moderate and all uphill on the way out, hiked October 30, 2023 (this part of the Smokies was past peak fall color by then; aim for mid-to-late October). Alum Cave trailhead parking fills early and a Smokies parking tag is required. Continue past Peregrine Peak to Mount LeConte for about 11 hard miles."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzmFIJEujAk/",
+    "reel_title": "Alum Cave Trail \u2014 Smokies send-off hike",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / 4.5-mile moderate Smokies send-off",
+    "rec": "'Before leaving Great Smoky Mountains National Park, we hiked to Alum Cave, which is a 4.5 mile moderate trail. You can find this specific trail on AllTrails labeled as Peregrine Peak via Alum Cave Bluff Trail.' The LeConte summit extension is an option; parking tip: they found a space around 8:45 am on a weekday \u2014 weekends need much earlier."
    }
   ]
  },
  {
-  "n": "60 \u00b7 Kuwohi",
+  "n": "78 \u00b7 Kuwohi",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Newfound Gap area, Tennessee",
@@ -3568,7 +4131,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "61 \u00b7 Great Smoky Mountains National Park",
+  "n": "79 \u00b7 Great Smoky Mountains National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -3625,11 +4188,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "National Park / In their 14-park ranking",
     "rec": "Appears in their ranking of the 14 national parks visited by spring 2024 (its exact slot isn't recoverable from the video)."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzjoylLOtui/",
+    "reel_title": "Layers in Great Smoky Mountains National Park",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "National Park / Layered ridges photo",
+    "rec": "'Layers in Great Smoky Mountains National Park' \u2014 a single frame of the park's blue layered ridges."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzWoUTNuHpC/",
+    "reel_title": "National Park #9 \u2014 Great Smoky Mountains & Cades Cove",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "National Park / Their National Park #9 together",
+    "rec": "'We made it to US National Park #9 together!! Great Smoky Mountains National Park is breathtaking in the fall, but be prepared for crowds.'"
    }
   ]
  },
  {
-  "n": "62 \u00b7 Cades Cove",
+  "n": "80 \u00b7 Cades Cove",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Townsend, Tennessee",
@@ -3665,11 +4242,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Scenic drive / Bucket list road (Cades Cove Loop)",
     "rec": "Part 3 of their bucket list roads threads the Cades Cove Loop Road through the Smokies' forested valley \u2014 black bear in a tree included."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CzWoUTNuHpC/",
+    "reel_title": "National Park #9 \u2014 Great Smoky Mountains & Cades Cove",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Scenic drive / The 11-mile loop \u2014 2\u20134 hours, start early",
+    "rec": "'One of the must do activities in the park is to drive along Cades Cove Loop. The scenic drive is only 11 miles, but it will take you 2-4 hours depending on what time of day you go and how many stops you make.' Three churches, a working gristmill, barns and log houses from the 1818\u20131821 settlement era, plus wildlife \u2014 they started around 9 am and it still took over 2 hours."
    }
   ]
  },
  {
-  "n": "63 \u00b7 Mount Cammerer Fire Tower",
+  "n": "81 \u00b7 Mount Cammerer Fire Tower",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Great Smoky Mountains National Park, Tennessee",
@@ -3687,7 +4271,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "64 \u00b7 Myrtle Point",
+  "n": "82 \u00b7 Myrtle Point",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -3734,7 +4318,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "65 \u00b7 Abrams Falls",
+  "n": "83 \u00b7 Abrams Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Townsend, Tennessee",
@@ -3752,7 +4336,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "66 \u00b7 Grotto Falls",
+  "n": "84 \u00b7 Grotto Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -3770,7 +4354,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "67 \u00b7 Rainbow Falls (Smokies)",
+  "n": "85 \u00b7 Rainbow Falls (Smokies)",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -3788,7 +4372,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "68 \u00b7 Ramsey Cascades",
+  "n": "86 \u00b7 Ramsey Cascades",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Gatlinburg, Tennessee",
@@ -3806,7 +4390,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "69 \u00b7 Cascades Falls",
+  "n": "87 \u00b7 Cascades Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Pembroke, Virginia",
@@ -3824,7 +4408,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "70 \u00b7 Jockey's Ridge State Park",
+  "n": "88 \u00b7 Jockey's Ridge State Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Nags Head, North Carolina",
@@ -3857,7 +4441,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "71 \u00b7 Pineapple Fountain",
+  "n": "89 \u00b7 Pineapple Fountain",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Charleston, South Carolina",
@@ -3875,7 +4459,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "72 \u00b7 Rock Springs",
+  "n": "90 \u00b7 Rock Springs",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Apopka, Florida",
@@ -3893,7 +4477,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "73 \u00b7 Linville Falls",
+  "n": "91 \u00b7 Linville Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Linville, North Carolina",
@@ -3911,7 +4495,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "74 \u00b7 Looking Glass Falls",
+  "n": "92 \u00b7 Looking Glass Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Brevard, North Carolina",
@@ -3929,7 +4513,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "75 \u00b7 Sunset Rock",
+  "n": "93 \u00b7 Sunset Rock",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Lookout Mountain, Tennessee",
@@ -3947,7 +4531,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "76 \u00b7 Mammoth Cave National Park",
+  "n": "94 \u00b7 Mammoth Cave National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Mammoth Cave National Park, Kentucky",
@@ -3980,7 +4564,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "77 \u00b7 Dixon Cave, Green River Bluffs & River Styx Spring Loop",
+  "n": "95 \u00b7 Dixon Cave, Green River Bluffs & River Styx Spring Loop",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Mammoth Cave National Park, Kentucky",
@@ -3998,7 +4582,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "78 \u00b7 Massanutten Scenic Chairlift",
+  "n": "96 \u00b7 Massanutten Scenic Chairlift",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Massanutten, Virginia",
@@ -4024,7 +4608,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "79 \u00b7 Spruce Knob",
+  "n": "97 \u00b7 Spruce Knob",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Circleville, West Virginia",
@@ -4042,7 +4626,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "80 \u00b7 Mount Mitchell",
+  "n": "98 \u00b7 Mount Mitchell",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Burnsville, North Carolina",
@@ -4060,7 +4644,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "81 \u00b7 Natural Bridge",
+  "n": "99 \u00b7 Natural Bridge",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Natural Bridge, Virginia",
@@ -4086,7 +4670,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "82 \u00b7 NRocks Via Ferrata",
+  "n": "100 \u00b7 NRocks Via Ferrata",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Circleville, West Virginia",
@@ -4126,7 +4710,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "83 \u00b7 Wolf Creek Falls",
+  "n": "101 \u00b7 Wolf Creek Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, West Virginia",
@@ -4144,7 +4728,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "84 \u00b7 New River Gorge Bridge Walk",
+  "n": "102 \u00b7 New River Gorge Bridge Walk",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, West Virginia",
@@ -4194,11 +4778,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Activity / Must-do \u2014 the catwalk beneath the bridge",
     "rec": "The must-do activity in their New River Gorge highlights: the Bridge Walk along the catwalk beneath the New River Gorge Bridge."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cy8WM3Pu-o_/",
+    "reel_title": "New River Gorge Bridge Walk \u2014 851 feet up",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Tour / Catwalk 851 feet above the New River \u2014 book ahead",
+    "rec": "'Another MUST DO if you are in New River Gorge National Park is the Bridge Walk. The Bridge Walk tour gives you these stunning views of the New River from 851 feet above. This bridge is currently the longest single-span steel arch bridge in the United States and the third highest bridge in the country... Make sure you plan in advance though because spots can be limited at times.'"
    }
   ]
  },
  {
-  "n": "85 \u00b7 Endless Wall Trail",
+  "n": "103 \u00b7 Endless Wall Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, West Virginia",
@@ -4318,11 +4909,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hike / Must-do New River Gorge hike",
     "rec": "One of the two must-do hikes in their New River Gorge highlights: the Endless Wall Trail."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cyo3omPOShU/",
+    "reel_title": "National Park #8 \u2014 New River Gorge & the Endless Wall Trail",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / Easy 3-mile loop above the rapids",
+    "rec": "'All of these pictures are from the Endless Wall Trail which is a relatively easy 3 mile loop that gives you breathtaking views of rugged cliffs overlooking the whitewater rapids of the New River.' Visited October 15\u201316, with peak foliage expected toward the end of the month."
    }
   ]
  },
  {
-  "n": "86 \u00b7 Kaymoor Miners Trail",
+  "n": "104 \u00b7 Kaymoor Miners Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, West Virginia",
@@ -4340,7 +4938,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "87 \u00b7 Long Point Trail",
+  "n": "105 \u00b7 Long Point Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, West Virginia",
@@ -4390,11 +4988,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hike / Must-do New River Gorge hike",
     "rec": "One of the two must-do hikes in their New River Gorge highlights: the Long Point Trail."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cy4mIklOc0j/",
+    "reel_title": "Long Point Trail \u2014 best bridge vantage in New River Gorge",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / Easy 3 miles to the best bridge vantage",
+    "rec": "'Do not visit New River Gorge National Park without hiking this easy 3 mile trail! It gives you the best vantage point of the famous bridge this park is known for.' Their photo was taken October 18, just before expected peak foliage."
    }
   ]
  },
  {
-  "n": "88 \u00b7 New River Gorge Bridge",
+  "n": "106 \u00b7 New River Gorge Bridge",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Fayetteville, West Virginia",
@@ -4434,7 +5039,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "89 \u00b7 Grandview",
+  "n": "107 \u00b7 Grandview",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Beckley, West Virginia",
@@ -4474,7 +5079,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "90 \u00b7 New River Gorge National Park and Preserve",
+  "n": "108 \u00b7 New River Gorge National Park and Preserve",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Oak Hill, West Virginia",
@@ -4552,11 +5157,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "National Park / In their 14-park ranking",
     "rec": "Appears in their ranking of the 14 national parks visited by spring 2024 (its exact slot isn't recoverable from the video)."
+   },
+   {
+    "reel": "https://www.instagram.com/p/Cyo3omPOShU/",
+    "reel_title": "National Park #8 \u2014 New River Gorge & the Endless Wall Trail",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "National Park / Their National Park #8 together",
+    "rec": "'We made it to National Park #8 together! New River Gorge National Park is the newest US National Park, but do not underestimate its beauty.'"
    }
   ]
  },
  {
-  "n": "91 \u00b7 Canyon Rim Overlook Boardwalk",
+  "n": "109 \u00b7 Canyon Rim Overlook Boardwalk",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Lansing, West Virginia",
@@ -4596,7 +5208,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "92 \u00b7 Ozone Falls",
+  "n": "110 \u00b7 Ozone Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Crab Orchard, Tennessee",
@@ -4614,7 +5226,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "93 \u00b7 Beckham Creek Cave Lodge",
+  "n": "111 \u00b7 Beckham Creek Cave Lodge",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Parthenon, Arkansas",
@@ -4632,7 +5244,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "94 \u00b7 Oregon Inlet Life Saving Station",
+  "n": "112 \u00b7 Oregon Inlet Life Saving Station",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Rodanthe, North Carolina",
@@ -4658,7 +5270,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "95 \u00b7 Pea Island National Wildlife Refuge",
+  "n": "113 \u00b7 Pea Island National Wildlife Refuge",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Rodanthe, North Carolina",
@@ -4691,7 +5303,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "96 \u00b7 Snooper's Rock",
+  "n": "114 \u00b7 Snooper's Rock",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Chattanooga, Tennessee",
@@ -4709,7 +5321,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "97 \u00b7 Rainbow Row",
+  "n": "115 \u00b7 Rainbow Row",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Charleston, South Carolina",
@@ -4727,7 +5339,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "98 \u00b7 Rainbow Springs State Park",
+  "n": "116 \u00b7 Rainbow Springs State Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Dunnellon, Florida",
@@ -4745,7 +5357,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "99 \u00b7 Princess Arch",
+  "n": "117 \u00b7 Princess Arch",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Slade, Kentucky",
@@ -4763,7 +5375,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "100 \u00b7 Ruby Falls",
+  "n": "118 \u00b7 Ruby Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Chattanooga, Tennessee",
@@ -4789,7 +5401,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "101 \u00b7 Sandstone Falls",
+  "n": "119 \u00b7 Sandstone Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Hinton, West Virginia",
@@ -4836,7 +5448,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "102 \u00b7 Seneca Rocks",
+  "n": "120 \u00b7 Sassafras Mountain",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Sunset, South Carolina",
+  "site": "Sassafras Mountain",
+  "lat": 35.06517,
+  "lng": -82.77721,
+  "q": "Sassafras Mountain, Sassafras Mountain, Sunset, South Carolina",
+  "best": "Summit / Sunset at South Carolina's highest point",
+  "rec": "The finale of their South Carolina mountain bucket list: 'Chase a sunset at the highest point in South Carolina (Sassafras's Mountain)' \u2014 3,554 feet, with an observation tower on the summit straddling the NC line.",
+  "reel": "https://www.instagram.com/p/C0FUD26uoGP/",
+  "reel_title": "South Carolina mountain bucket list",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "121 \u00b7 Seneca Rocks",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Seneca Rocks, West Virginia",
@@ -4872,11 +5502,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hike / Seneca Rocks Trail in fall \u2014 rewarded with a cloud inversion",
     "rec": "Their Seneca Rocks Trail story: setting out in mid-October rain and nearly turning around, then the weather cleared at the top to reveal a cloud inversion across the valley. 3.6 miles, moderate; best fall color mid-to-late October, and start early or go on a weekday \u2014 the trail is incredibly popular."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CyZpXZEuYwG/",
+    "reel_title": "Seneca Rocks \u2014 keep hiking through the fog",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / The fog-and-rain hike that paid off",
+    "rec": "'This is your reminder that even when the weather looks dreary, don't be afraid to go outside and explore.' They nearly turned around in the fog and light rain on the Seneca Rocks hike, kept going for the journey's sake, and got a view at the top anyway."
    }
   ]
  },
  {
-  "n": "103 \u00b7 Bearfence Mountain Trail",
+  "n": "122 \u00b7 Bearfence Mountain Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -4951,7 +5588,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "104 \u00b7 Blackrock Summit",
+  "n": "123 \u00b7 Blackrock Summit",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -4994,11 +5631,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Hike / Blackrock Summit in fall \u2014 climb the rock pile",
     "rec": "Their Blackrock Summit post (photos from October 17, 2022): a 1.1-mile easy round trip, great for all ages \u2014 and climb the rock pile at the top, which they highly recommend. Mid-to-late October for the best fall foliage. The swipe teases an animal surprise at the summit."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CycG1bUuRr4/",
+    "reel_title": "Blackrock Summit \u2014 easy 1-mile loop in Shenandoah",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Hike / Easy 1-mile loop, giant rock pile, all ages",
+    "rec": "'Blackrock Summit: Easy 1 mile loop in Shenandoah National Park with a giant rock pile and sweeping panoramic views at the summit. This is a great option for all ages and experience levels because the views are amazing whether you decide to climb the rock pile or not.'"
    }
   ]
  },
  {
-  "n": "105 \u00b7 Old Rag",
+  "n": "124 \u00b7 Old Rag",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5122,7 +5766,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "106 \u00b7 Stony Man",
+  "n": "125 \u00b7 Stony Man",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5190,7 +5834,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "107 \u00b7 Upper Hawksbill Trail",
+  "n": "126 \u00b7 Upper Hawksbill Trail",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5286,7 +5930,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "108 \u00b7 Mary's Rock",
+  "n": "127 \u00b7 Mary's Rock",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5304,7 +5948,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "109 \u00b7 Whiteoak Canyon",
+  "n": "128 \u00b7 Whiteoak Canyon",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5322,7 +5966,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "110 \u00b7 Buck Hollow Overlook",
+  "n": "129 \u00b7 Buck Hollow Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5355,7 +5999,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "111 \u00b7 Hazel Mountain Overlook",
+  "n": "130 \u00b7 Hazel Mountain Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5402,7 +6046,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "112 \u00b7 Tunnel Parking Overlook",
+  "n": "131 \u00b7 Tunnel Parking Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5435,7 +6079,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "113 \u00b7 Skyline Drive",
+  "n": "132 \u00b7 Skyline Drive",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5513,11 +6157,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "Scenic drive / 75+ overlooks \u2014 Shenandoah's views with no hiking required",
     "rec": "Their case for Shenandoah as the most accessible national park: Skyline Drive runs the length of the park with over 75 overlooks you can simply drive to \u2014 every photo in this fall set was taken without hiking."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CyG4w8YuRV5/",
+    "reel_title": "Fall in the Blue Ridge Mountains is coming \u2014 Skyline Drive",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "Scenic drive / 'Fall in the Blue Ridge Mountains is coming'",
+    "rec": "'Fall in the Blue Ridge Mountains is coming \u2014 Skyline Drive, Shenandoah National Park (from mid October 2022)': a preview frame of layered fall ridges from the drive."
    }
   ]
  },
  {
-  "n": "114 \u00b7 Jewell Hollow Overlook",
+  "n": "133 \u00b7 Jewell Hollow Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5535,7 +6186,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "115 \u00b7 Shenandoah National Park",
+  "n": "134 \u00b7 Shenandoah National Park",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Luray, Virginia",
@@ -5648,11 +6299,18 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
     "creator": "@kelleyandcarlsadventures",
     "best": "National Park / In their 14-park ranking",
     "rec": "Appears in their ranking of the 14 national parks visited by spring 2024 (its exact slot isn't recoverable from the video)."
+   },
+   {
+    "reel": "https://www.instagram.com/p/CyzBqFPOMhw/",
+    "reel_title": "Shenandoah in the fall \u2014 beauty along the whole trail",
+    "creator": "@kelleyandcarlsadventures",
+    "best": "National Park / 'Just STUNNING in the fall'",
+    "rec": "'One thing we love about fall is how you can find beauty along the entire hiking trail... Shenandoah National Park is just STUNNING in the fall.'"
    }
   ]
  },
  {
-  "n": "116 \u00b7 Indian Run Overlook",
+  "n": "135 \u00b7 Indian Run Overlook",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5670,7 +6328,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "117 \u00b7 Dark Hollow Falls",
+  "n": "136 \u00b7 Dark Hollow Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Luray, Virginia",
@@ -5787,7 +6445,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "118 \u00b7 Overall Run Falls",
+  "n": "137 \u00b7 Overall Run Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Luray, Virginia",
@@ -5805,7 +6463,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "119 \u00b7 Rose River Falls",
+  "n": "138 \u00b7 Rose River Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5831,7 +6489,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "120 \u00b7 South River Falls",
+  "n": "139 \u00b7 South River Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Shenandoah National Park, Virginia",
@@ -5878,7 +6536,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "121 \u00b7 Smith Mountain Lake",
+  "n": "140 \u00b7 Smith Mountain Lake",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Huddleston, Virginia",
@@ -5896,7 +6554,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "122 \u00b7 Greeter Falls",
+  "n": "141 \u00b7 Greeter Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Altamont, Tennessee",
@@ -5922,7 +6580,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "123 \u00b7 Sweethaven Lavender",
+  "n": "142 \u00b7 Sweethaven Lavender",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Williamsburg, Virginia",
@@ -5940,7 +6598,25 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "124 \u00b7 Tidal Basin",
+  "n": "143 \u00b7 Table Rock State Park",
+  "r": "southeast",
+  "rlabel": "U.S. Territories",
+  "loc": "Pickens, South Carolina",
+  "site": "Table Rock State Park",
+  "lat": 35.02073,
+  "lng": -82.69749,
+  "q": "Table Rock State Park, Table Rock State Park, Pickens, South Carolina",
+  "best": "State Park / Kayaking lake on their SC mountain bucket list",
+  "rec": "'Kayak on a lake (Table Rock State Park, Devils Fork State Park)' \u2014 the park at the edge of the Blue Ridge Escarpment, its lakes sitting below Table Rock and Pinnacle Mountain.",
+  "reel": "https://www.instagram.com/p/C0FUD26uoGP/",
+  "reel_title": "South Carolina mountain bucket list",
+  "creator": "@kelleyandcarlsadventures",
+  "rank": null,
+  "at": "",
+  "also": []
+ },
+ {
+  "n": "144 \u00b7 Tidal Basin",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Washington, District of Columbia",
@@ -5958,7 +6634,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "125 \u00b7 Upper Whitewater Falls",
+  "n": "145 \u00b7 Upper Whitewater Falls",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Sapphire, North Carolina",
@@ -5976,7 +6652,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "126 \u00b7 Walls of Jericho",
+  "n": "146 \u00b7 Walls of Jericho",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Winchester, Tennessee",
@@ -5994,7 +6670,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   "also": []
  },
  {
-  "n": "127 \u00b7 White Point Garden",
+  "n": "147 \u00b7 White Point Garden",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Charleston, South Carolina",
@@ -6020,7 +6696,7 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
   ]
  },
  {
-  "n": "128 \u00b7 Wright Brothers National Memorial",
+  "n": "148 \u00b7 Wright Brothers National Memorial",
   "r": "southeast",
   "rlabel": "U.S. Territories",
   "loc": "Kill Devil Hills, North Carolina",
@@ -32118,5 +32794,5 @@ var COLORS={"northeast": "#7b1fa2", "southeast": "#1e8e3e", "midwest": "#f9a825"
 ];
 var map=L.map("map"); L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
 var bounds=[]; STOPS.forEach(function(s){var icon=L.divIcon({className:"",html:'<div class="pin" style="background:'+COLORS[s.r]+'"></div>',iconSize:[8,8],iconAnchor:[4,4]}); var also=""; (s.also||[]).forEach(function(a){also+="<br>🎬 Also: <a href='"+a.reel+"' target='_blank' rel='noopener'>"+a.reel_title+"</a> by "+a.creator+"<br><b>Best for "+a.best+":</b> "+a.rec;}); var popup="<b>"+s.n+"</b><br>"+s.site+"<br>"+s.rlabel+" · "+s.loc+"<br><b>Best for "+s.best+":</b> "+s.rec+'<br><a href="https://www.google.com/maps/search/?api=1&query='+s.q+'" target="_blank" rel="noopener">Open in Google Maps</a>'+(s.at?'<br>🥾 <a href="'+s.at+'" target="_blank" rel="noopener">AllTrails trail page</a>':"")+'<br>🎬 <a href="'+s.reel+'" target="_blank" rel="noopener">'+s.reel_title+"</a> by "+s.creator+" (#"+s.rank+")"+also; L.marker([s.lat,s.lng],{icon:icon}).addTo(map).bindPopup(popup); bounds.push([s.lat,s.lng]);});
-map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 69<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 128<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 78<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 161<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 94<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 119<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 60<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 37<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 8<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
+map.fitBounds(bounds,{padding:[25,25]}); var legend=L.control({position:"bottomright"}); legend.onAdd=function(){var div=L.DomUtil.create("div","legend"); div.innerHTML="<span class=\"chip\" style=\"background:#7b1fa2\"></span>Northeast \u00b7 71<br><span class=\"chip\" style=\"background:#1e8e3e\"></span>Southeast \u00b7 148<br><span class=\"chip\" style=\"background:#f9a825\"></span>Midwest \u00b7 78<br><span class=\"chip\" style=\"background:#e07b00\"></span>Southwest \u00b7 161<br><span class=\"chip\" style=\"background:#795548\"></span>Mountain West \u00b7 94<br><span class=\"chip\" style=\"background:#1d6fb8\"></span>West \u00b7 119<br><span class=\"chip\" style=\"background:#00838f\"></span>Pacific Northwest \u00b7 60<br><span class=\"chip\" style=\"background:#3949ab\"></span>Alaska \u00b7 37<br><span class=\"chip\" style=\"background:#d81b60\"></span>Hawaii \u00b7 8<br><span class=\"chip\" style=\"background:#333\"></span>U.S. Territories \u00b7 3"; return div;}; legend.addTo(map);
 </script></body></html>
