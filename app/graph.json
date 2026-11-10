@@ -20023,6 +20023,30 @@
    }
   },
   {
+   "id": "reel:DfkU8vBxOYT",
+   "type": "Reel",
+   "properties": {
+    "name": "This is NOT China — 25 waterfalls near Niagara",
+    "url": "https://www.instagram.com/reel/DfkU8vBxOYT/",
+    "title": "This is NOT China — 25 waterfalls near Niagara",
+    "creator": "@chasethewaterfalls",
+    "theme": "New York waterfall road trip — Watkins Glen & the Finger Lakes",
+    "places_count": 6,
+    "recommendation_summary": "A one-weekend Finger Lakes waterfall run: 'I counted 25 waterfalls on this trip. 19 of them are in ONE park. Watkins Glen.' Named in the caption: Watkins Glen, Ithaca Falls, Eagle Cliff Falls, Taughannock Falls and Letchworth; the footage also shows Lucifer Falls at Robert H. Treman State Park. Sources attach to the three existing pins (Watkins Glen State Park, Taughannock Falls, Letchworth State Park); new pins for Ithaca Falls, Eagle Cliff Falls and Lucifer Falls. The full route and parking for all 25 falls is offered via a 'comment PLAN' DM and is not in the post itself.",
+    "posted": "2026-11-10",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "creator:chasethewaterfalls",
+   "type": "Creator",
+   "properties": {
+    "name": "@chasethewaterfalls",
+    "handle": "@chasethewaterfalls",
+    "display_name": "Sandy | Nature Escapes"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -44340,6 +44364,84 @@
    "properties": {
     "name": "Museum / Free river museum at the Melvin Price Locks and Dam"
    }
+  },
+  {
+   "id": "place:ithaca-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Ithaca Falls",
+    "place_id": "ithaca-falls-ny",
+    "site": "Ithaca Falls Natural Area",
+    "city": "Ithaca",
+    "state": "New York",
+    "state_code": "NY",
+    "region": "Northeast",
+    "country": "USA",
+    "lat": 42.452851,
+    "lng": -76.491607,
+    "google_maps_query": "Ithaca Falls, Ithaca Falls Natural Area, Ithaca, New York",
+    "best_for": "Waterfall / 150-foot falls in the middle of Ithaca",
+    "note": "Coordinates: Wikipedia / USGS GNIS (nyfalls.com agrees)."
+   }
+  },
+  {
+   "id": "site:ithaca-falls-natural-area",
+   "type": "Site",
+   "properties": {
+    "name": "Ithaca Falls Natural Area"
+   }
+  },
+  {
+   "id": "place:eagle-cliff-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Eagle Cliff Falls",
+    "place_id": "eagle-cliff-falls-ny",
+    "site": "Havana Glen Park",
+    "city": "Montour Falls",
+    "state": "New York",
+    "state_code": "NY",
+    "region": "Northeast",
+    "country": "USA",
+    "lat": 42.334906,
+    "lng": -76.82717,
+    "google_maps_query": "Eagle Cliff Falls, Havana Glen Park, Montour Falls, New York",
+    "best_for": "Waterfall / Swimming-hole falls near Watkins Glen",
+    "note": "Coordinates: Bobbieswaterfalls falls point; nyfalls.com and the Town of Montour place record agree within ~150 m."
+   }
+  },
+  {
+   "id": "site:havana-glen-park",
+   "type": "Site",
+   "properties": {
+    "name": "Havana Glen Park"
+   }
+  },
+  {
+   "id": "place:lucifer-falls-ny",
+   "type": "Place",
+   "properties": {
+    "name": "Lucifer Falls",
+    "place_id": "lucifer-falls-ny",
+    "site": "Robert H. Treman State Park",
+    "city": "Ithaca",
+    "state": "New York",
+    "state_code": "NY",
+    "region": "Northeast",
+    "country": "USA",
+    "lat": 42.40051,
+    "lng": -76.58422,
+    "google_maps_query": "Lucifer Falls, Robert H. Treman State Park, Ithaca, New York",
+    "best_for": "Waterfall / The tiered giant of Enfield Glen",
+    "note": "Coordinates: Bobbieswaterfalls falls point for Lucifer Falls (Enfield Glen)."
+   }
+  },
+  {
+   "id": "site:robert-h-treman-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Robert H. Treman State Park"
+   }
   }
  ],
  "edges": [
@@ -56556,6 +56658,18 @@
   {
    "from": "reel:DeXqNQqOWsL",
    "to": "theme:great-river-road-fall-road-trip-itinerary-alton-to-grafton",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkU8vBxOYT",
+   "to": "creator:chasethewaterfalls",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkU8vBxOYT",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -78973,6 +79087,19 @@
    "properties": {}
   },
   {
+   "from": "place:watkins-glen-state-park-ny",
+   "to": "reel:DfkU8vBxOYT",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall gorge / The reel's headline park — 19 waterfalls in one park",
+    "recommendation": "'I counted 25 waterfalls on this trip. 19 of them are in ONE park. Watkins Glen. Look it up.' The reel opens inside the Watkins Glen gorge — narrow stone-walled narrows, cascading streams and visitors on the paved Gorge Trail — under the hook 'This is NOT China' and on-screen text '25 hidden waterfalls in ONE DAY.'",
+    "creator": "@chasethewaterfalls",
+    "reel_title": "This is NOT China — 25 waterfalls near Niagara",
+    "reel_theme": "New York waterfall road trip — Watkins Glen & the Finger Lakes"
+   }
+  },
+  {
    "from": "place:baxter-state-park-me",
    "to": "state:united-states-maine",
    "type": "LOCATED_IN",
@@ -79062,6 +79189,25 @@
   {
    "from": "place:letchworth-state-park-ny",
    "to": "theme:top-state-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:letchworth-state-park-ny",
+   "to": "reel:DfkU8vBxOYT",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "State park / Shown in their NY waterfall road-trip reel",
+    "recommendation": "Letchworth is named in the caption and shown in the reel — the big gorge and its bridge, 'New York's Grand Canyon' — as one of the five named stops in their one-weekend Finger Lakes waterfall run (25 waterfalls counted across the trip).",
+    "creator": "@chasethewaterfalls",
+    "reel_title": "This is NOT China — 25 waterfalls near Niagara",
+    "reel_theme": "New York waterfall road trip — Watkins Glen & the Finger Lakes"
+   }
+  },
+  {
+   "from": "place:letchworth-state-park-ny",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -80437,6 +80583,19 @@
    "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:taughannock-falls-ny",
+   "to": "reel:DfkU8vBxOYT",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Featured in their NY waterfall road-trip reel",
+    "recommendation": "Taughannock Falls is named in the caption and shown in the reel, billed as 'three stories taller than Niagara!' — the 215-foot drop is one of the five named stops on their one-weekend Finger Lakes waterfall run.",
+    "creator": "@chasethewaterfalls",
+    "reel_title": "This is NOT China — 25 waterfalls near Niagara",
+    "reel_theme": "New York waterfall road trip — Watkins Glen & the Finger Lakes"
+   }
   },
   {
    "from": "place:upper-whitewater-falls-nc",
@@ -126994,6 +127153,99 @@
   {
    "from": "place:national-great-rivers-museum-il",
    "to": "theme:museum-free-river-museum-at-the-melvin-price-locks-and-dam",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ithaca-falls-ny",
+   "to": "state:usa-ny",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ithaca-falls-ny",
+   "to": "site:ithaca-falls-natural-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ithaca-falls-ny",
+   "to": "reel:DfkU8vBxOYT",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / 150-foot falls in the middle of Ithaca",
+    "recommendation": "Named in the caption and shown wide in the reel: Ithaca Falls is a roughly 150-foot cascade on Fall Creek right in the city of Ithaca, just north of downtown and near Cornell — one of the five named stops on their one-weekend Finger Lakes waterfall run.",
+    "creator": "@chasethewaterfalls",
+    "reel_title": "This is NOT China — 25 waterfalls near Niagara",
+    "reel_theme": "New York waterfall road trip — Watkins Glen & the Finger Lakes"
+   }
+  },
+  {
+   "from": "place:ithaca-falls-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-cliff-falls-ny",
+   "to": "state:usa-ny",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-cliff-falls-ny",
+   "to": "site:havana-glen-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:eagle-cliff-falls-ny",
+   "to": "reel:DfkU8vBxOYT",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Swimming-hole falls near Watkins Glen",
+    "recommendation": "Named in the caption ('Eagle Cliff Falls') and shown as the reel's 'hidden falls near Watkins Glen' swimming clip: a 41-foot plunge into a nearly enclosed rock-amphitheater pool on McClure Creek in Havana Glen Park, Montour Falls, about 10 minutes from Watkins Glen. The park is seasonal (roughly mid-May to mid-October).",
+    "creator": "@chasethewaterfalls",
+    "reel_title": "This is NOT China — 25 waterfalls near Niagara",
+    "reel_theme": "New York waterfall road trip — Watkins Glen & the Finger Lakes"
+   }
+  },
+  {
+   "from": "place:eagle-cliff-falls-ny",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lucifer-falls-ny",
+   "to": "state:usa-ny",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:lucifer-falls-ny",
+   "to": "site:robert-h-treman-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:lucifer-falls-ny",
+   "to": "reel:DfkU8vBxOYT",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / The tiered giant of Enfield Glen",
+    "recommendation": "Shown in the reel's montage (not named in the caption): the tiered Lucifer Falls drops 115 feet down Enfield Creek in Robert H. Treman State Park, Ithaca — the centerpiece of the park's Gorge Trail, with stone staircases climbing the cliff beside it.",
+    "creator": "@chasethewaterfalls",
+    "reel_title": "This is NOT China — 25 waterfalls near Niagara",
+    "reel_theme": "New York waterfall road trip — Watkins Glen & the Finger Lakes"
+   }
+  },
+  {
+   "from": "place:lucifer-falls-ny",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }
