@@ -10905,6 +10905,905 @@
    "places_count": 2,
    "recommendation_summary": "Zabriskie Point: Death Valley's most iconic view, golden badlands above Golden Canyon. Attached as sources on two pins.",
    "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DNESzUAR2uM/",
+   "title": "Grinnell Glacier Trail — turquoise water, epic mountains",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Grinnell Glacier Trail, Glacier National Park",
+   "posted": "2025-08-07",
+   "added": "2026-11-10",
+   "place_ids": [
+    "grinnell-glacier-mt"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Grinnell Glacier Trail feature: about 10 miles round trip and 2,070 feet of gain to the glacier viewpoint, with 2025's Many Glacier construction closure and reservation-only hiker shuttle noted. Attached as a source on the Grinnell Glacier pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DNBVyKVs3IT/",
+   "title": "Highline Trail — Glacier's can't-miss hike",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Highline Trail, Glacier National Park",
+   "posted": "2025-08-06",
+   "added": "2026-11-10",
+   "place_ids": [
+    "highline-trail-mt"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Highline Trail feature: their recommended Logan Pass to the Loop point-to-point with a shuttle back. Attached as a source on the Highline Trail pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DM-xSBcsXtK/",
+   "title": "Hidden Lake, the Highline and the Garden Wall — an 18-mile Glacier day",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Glacier National Park hiking day",
+   "posted": "2025-08-05",
+   "added": "2026-11-10",
+   "place_ids": [
+    "hidden-lake-overlook-mt",
+    "highline-trail-mt",
+    "garden-wall-mt"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "An accidental 18-mile Glacier day: the Hidden Lake Overlook Trail, the Highline to the Loop, and a spontaneous Garden Wall climb rewarded with a viewpoint and mountain goats. Attached as sources on three pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DM8L8BlM8JT/",
+   "title": "Going-to-the-Sun Road — it lives up to the hype",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Going-to-the-Sun Road scenic drive",
+   "posted": "2025-08-04",
+   "added": "2026-11-10",
+   "place_ids": [
+    "jackson-glacier-overlook-mt",
+    "going-to-the-sun-road-mt",
+    "lake-mcdonald-mt",
+    "avalanche-lake-mt",
+    "trail-of-the-cedars-mt",
+    "hidden-lake-overlook-mt",
+    "wild-goose-island-lookout-mt"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Going-to-the-Sun Road feature with its can't-miss stop list. Created the Jackson Glacier Overlook pin and attached as sources on six more pins; the Loop, Oberlin Bend, the Logan Pass Visitor Center and St. Mary Lake are named in the post but unpinned.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/DM2y7VQMuGm/",
+   "title": "Bucket list national park adventures, part 2",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bucket list park adventures (part 2)",
+   "posted": "2025-08-02",
+   "added": "2026-11-10",
+   "place_ids": [
+    "going-to-the-sun-road-mt",
+    "vernal-falls-ca",
+    "nevada-fall-ca",
+    "yellowstone-national-park-wy",
+    "santa-elena-canyon-tx",
+    "bryce-canyon-national-park-ut",
+    "inspiration-point-ut"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Bucket list national park adventures, part 2: drive Going-to-the-Sun Road, hike the Mist Trail to Vernal and Nevada falls, spot wildlife in Yellowstone, canoe Santa Elena Canyon, and catch sunrise at Bryce's Inspiration Point. Attached as sources on seven pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DM0YcYiMWaZ/",
+   "title": "Wyoming deserves more love",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Wyoming parks montage",
+   "posted": "2025-08-01",
+   "added": "2026-11-10",
+   "place_ids": [
+    "yellowstone-national-park-wy",
+    "grand-teton-national-park-wy",
+    "grand-prismatic-spring-wy"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "Wyoming scenery montage ('somehow the least populated state is this beautiful'): Yellowstone and Grand Teton footage with an identifiable Grand Prismatic shot. Attached as sources on the two park pins and Grand Prismatic Spring.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMyBDi9xhmf/",
+   "title": "Bucket list national park adventures, part 1",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bucket list park adventures (part 1)",
+   "posted": "2025-07-31",
+   "added": "2026-11-10",
+   "place_ids": [
+    "grand-teton-national-park-wy",
+    "schwabacher-landing-wy",
+    "blacktail-ponds-overlook-wy",
+    "mormon-row-wy",
+    "oxbow-bend-wy",
+    "sequoia-national-park-ca",
+    "congress-trail-ca",
+    "great-sand-dunes-national-park-co",
+    "great-sand-dunes-oasis-co",
+    "shenandoah-national-park-va",
+    "skyline-drive-va",
+    "angels-landing-ut"
+   ],
+   "places_count": 12,
+   "recommendation_summary": "Bucket list national park adventures, part 1: Grand Teton sunrise viewpoints, Sequoia's Congress Trail in the snow, Great Sand Dunes sandboarding, Shenandoah's Skyline Drive in peak fall, and Angels Landing. Attached as sources on twelve pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMvJSKosIei/",
+   "title": "One day in Yellowstone — and yes, Old Faithful is overrated",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Yellowstone one-day itinerary",
+   "posted": "2025-07-30",
+   "added": "2026-11-10",
+   "place_ids": [
+    "yellowstone-national-park-wy",
+    "artist-point-wy",
+    "grand-prismatic-spring-wy",
+    "fairy-falls-wy",
+    "old-faithful-wy",
+    "morning-glory-pool-wy",
+    "west-thumb-geyser-basin-wy",
+    "hayden-valley-wy"
+   ],
+   "places_count": 8,
+   "recommendation_summary": "One day in Yellowstone, with the hot take that Old Faithful is the park's least impressive sight: Artist Point, Grand Prismatic and its overlook (Fairy Falls as an add-on), the Upper Geyser Basin, West Thumb, and golden-hour wildlife in Hayden Valley. Attached as sources on eight pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMsvMB1s3c8/",
+   "title": "The best areas to spot wildlife in Yellowstone",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Yellowstone wildlife viewing",
+   "posted": "2025-07-29",
+   "added": "2026-11-10",
+   "place_ids": [
+    "yellowstone-national-park-wy",
+    "hayden-valley-wy",
+    "lamar-valley-wy"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "Yellowstone wildlife viewing guide: Hayden Valley and Lamar Valley are the best areas, with distance rules for bears, wolves, bison and elk. Attached as sources on three pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMqPE6fxZP2/",
+   "title": "3 national parks, 1 epic road trip — the Dakotas",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Dakotas national parks road trip",
+   "posted": "2025-07-28",
+   "added": "2026-11-10",
+   "place_ids": [
+    "theodore-roosevelt-national-park-nd",
+    "wind-canyon-trail-nd",
+    "boicourt-overlook-nd",
+    "buck-hill-nd",
+    "painted-canyon-nd",
+    "oxbow-overlook-nd",
+    "river-bend-overlook-nd",
+    "caprock-coulee-trail-nd",
+    "badlands-national-park-sd",
+    "big-badlands-overlook-sd",
+    "white-river-valley-overlook-sd",
+    "bigfoot-pass-overlook-sd",
+    "panorama-point-sd",
+    "burns-basin-overlook-sd",
+    "pinnacles-overlook-sd",
+    "hay-butte-overlook-sd",
+    "door-trail-sd",
+    "window-trail-sd",
+    "notch-trail-sd",
+    "cliff-shelf-trail-sd",
+    "saddle-pass-sd",
+    "mount-rushmore-sd",
+    "custer-state-park-sd",
+    "wildlife-loop-road-sd",
+    "needles-highway-sd",
+    "sylvan-lake-sd",
+    "cathedral-spires-sd",
+    "wind-cave-national-park-sd",
+    "rankin-ridge-trail-sd"
+   ],
+   "places_count": 29,
+   "recommendation_summary": "Dakotas road trip: Theodore Roosevelt (both units' favorites), Badlands overlooks and hikes, Mount Rushmore at dawn, Custer State Park's drives and lakes, and Wind Cave's tours and Rankin Ridge. Attached as sources on twenty-nine pins; Prairie Dog Metropolis is named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMk7xstMySh/",
+   "title": "Delta Lake — how is this place even real?",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Delta Lake, Grand Teton",
+   "posted": "2025-07-26",
+   "added": "2026-11-10",
+   "place_ids": [
+    "delta-lake-wy"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Delta Lake feature with its safety warnings: 8 miles, 2,300 feet of gain, and an unmaintained, slippery final mile. Attached as a source on the Delta Lake pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMiW3FxMiAi/",
+   "title": "Steal our Grand Teton guide",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Grand Teton National Park guide",
+   "posted": "2025-07-25",
+   "added": "2026-11-10",
+   "place_ids": [
+    "grand-teton-national-park-wy",
+    "schwabacher-landing-wy",
+    "blacktail-ponds-overlook-wy",
+    "mormon-row-wy",
+    "oxbow-bend-wy",
+    "snake-river-overlook-wy",
+    "delta-lake-wy",
+    "cascade-canyon-wy",
+    "taggart-lake-wy"
+   ],
+   "places_count": 9,
+   "recommendation_summary": "Grand Teton guide: five favorite viewpoints and four favorite hikes, Jackson as the base town. Attached as sources on nine pins; Surprise and Amphitheater lakes are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMf3GmGsK2_/",
+   "title": "A magical sunrise at Schwabacher Landing",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Schwabacher Landing sunrise, Grand Teton",
+   "posted": "2025-07-24",
+   "added": "2026-11-10",
+   "place_ids": [
+    "schwabacher-landing-wy"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Schwabacher Landing sunrise: Teton alpenglow reflections and a moose cow and calf, filmed on zoom. Attached as a source on the Schwabacher Landing pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMatEM1susR/",
+   "title": "South Dakota is more than just Mount Rushmore",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "South Dakota must-see spots",
+   "posted": "2025-07-22",
+   "added": "2026-11-10",
+   "place_ids": [
+    "badlands-national-park-sd",
+    "custer-state-park-sd",
+    "wind-cave-national-park-sd",
+    "mount-rushmore-sd"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "'South Dakota is more than just Mount Rushmore': Badlands, Custer State Park, Wind Cave and Mount Rushmore. Attached as sources on four pins; Black Hills National Forest is named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMVvHKFxrUu/",
+   "title": "Wind Cave — park #31 (and our cave tour was cancelled)",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Wind Cave National Park visit",
+   "posted": "2025-07-20",
+   "added": "2026-11-10",
+   "place_ids": [
+    "wind-cave-national-park-sd",
+    "rankin-ridge-trail-sd"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Wind Cave visit (park #31): their cave tour was cancelled over elevator problems, so they made the most of the surface — Rankin Ridge and bison, prairie dogs and pronghorns. Attached as sources on two pins; Jewel Cave is named as a nearby recommendation but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMS3zlXs-_H/",
+   "title": "Bucket list USA roads, part 3",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bucket list USA roads (part 3)",
+   "posted": "2025-07-19",
+   "added": "2026-11-10",
+   "place_ids": [
+    "theodore-roosevelt-national-park-nd",
+    "white-sands-national-park-nm",
+    "black-canyon-of-the-gunnison-national-park-co",
+    "cades-cove-tn",
+    "factory-butte-ut",
+    "generals-highway-ca"
+   ],
+   "places_count": 6,
+   "recommendation_summary": "Bucket list USA roads, part 3: Highway 145 (CO), the Overseas Highway (FL), Theodore Roosevelt's Scenic Drive, White Sands' Dunes Drive, Black Canyon's East Portal Road, the Cades Cove Loop, Factory Butte Road and the Generals Highway. Attached as sources on six pins; Highway 145 and the Overseas Highway are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMQUxwostga/",
+   "title": "Cascade Falls, Ouray — Colorado is built different",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Cascade Falls, Ouray, Colorado",
+   "posted": "2025-07-18",
+   "added": "2026-11-10",
+   "place_ids": [
+    "cascade-falls-co",
+    "million-dollar-highway-co",
+    "ice-lake-basin-co",
+    "yankee-boy-basin-co"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "Cascade Falls feature: Ouray's no-hike waterfall, plus more San Juan recommendations. Created the Cascade Falls pin and attached as sources on the Million Dollar Highway, Ice Lake Basin and Yankee Boy Basin pins; Telluride and Molas Pass are named in the post but unpinned.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMLQQLZM30J/",
+   "title": "Theodore Roosevelt — never thought North Dakota could look like this",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Theodore Roosevelt National Park guide",
+   "posted": "2025-07-16",
+   "added": "2026-11-10",
+   "place_ids": [
+    "theodore-roosevelt-national-park-nd",
+    "wind-canyon-trail-nd",
+    "boicourt-overlook-nd",
+    "buck-hill-nd",
+    "painted-canyon-nd",
+    "oxbow-overlook-nd",
+    "river-bend-overlook-nd",
+    "caprock-coulee-trail-nd"
+   ],
+   "places_count": 8,
+   "recommendation_summary": "Theodore Roosevelt guide (park #30): both units' favorites and the park's uncrowded badlands and wildlife. Attached as sources on eight pins; Prairie Dog Metropolis and the Elkhorn Ranch Unit are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMIrdc5MoRp/",
+   "title": "Bucket list USA roads, part 2",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bucket list USA roads (part 2)",
+   "posted": "2025-07-15",
+   "added": "2026-11-10",
+   "place_ids": [
+    "trail-ridge-road-co",
+    "skyline-drive-va",
+    "capitol-reef-national-park-ut",
+    "yosemite-national-park-ca",
+    "yankee-boy-basin-co",
+    "yellowstone-national-park-wy",
+    "wheeler-peak-nv"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Bucket list USA roads, part 2: Trail Ridge Road, Skyline Drive, Temple of the Moon Road, Yosemite's Southside Drive, Yankee Boy Basin Road, Yellowstone's Grand Loop Road and Wheeler Peak Scenic Drive. Attached as sources on seven pins; CA-88 near Carson Pass is named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMGGsRJsdCu/",
+   "title": "Bucket list USA roads, part 1",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bucket list USA roads (part 1)",
+   "posted": "2025-07-14",
+   "added": "2026-11-10",
+   "place_ids": [
+    "going-to-the-sun-road-mt",
+    "zion-mount-carmel-tunnel-ut",
+    "blue-ridge-parkway-nc",
+    "million-dollar-highway-co",
+    "forrest-gump-point-ut",
+    "badlands-loop-road-sd",
+    "grand-teton-national-park-wy",
+    "ross-maxwell-scenic-drive-tx"
+   ],
+   "places_count": 8,
+   "recommendation_summary": "Bucket list USA roads, part 1: Going-to-the-Sun Road, the Zion-Mount Carmel Highway, the Blue Ridge Parkway, the Million Dollar Highway, Highway 163, the Badlands Loop Road, Teton Park Road and the Ross Maxwell Scenic Drive. Attached as sources on eight pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DMA0iOUxGgZ/",
+   "title": "Walking on Fox Glacier, New Zealand",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Fox Glacier, New Zealand (foreign)",
+   "posted": "2025-07-12",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "FOREIGN — held out under the USA-only rule: a heli-hike on Fox Glacier, New Zealand, booked through @foxglacierguiding.nz. Kept as a reel record only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DL7uXBIsEpK/",
+   "title": "The oldest living things in the world — bristlecone pines",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bristlecone Pine Trail, Great Basin",
+   "posted": "2025-07-10",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bristlecone-and-alpine-lakes-trail-nv",
+    "great-basin-national-park-nv"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Bristlecone pine feature: the ancient grove on Great Basin's Bristlecone Pine Trail — trees nearly 5,000 years old. Attached as sources on the trail and park pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DL5GK8bs2ij/",
+   "title": "Grand Wash + Cassidy Arch — Capitol Reef's underrated combo",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Grand Wash and Cassidy Arch, Capitol Reef",
+   "posted": "2025-07-09",
+   "added": "2026-11-10",
+   "place_ids": [
+    "grand-wash-ut",
+    "cassidy-arch-ut"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Capitol Reef's underrated combo hike: the Grand Wash and Cassidy Arch trails together for about 9 golden-hour miles. Attached as sources on both trail pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DL3XBttsKz5/",
+   "title": "32 national parks down, 31 to go",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Milestone post (no places)",
+   "posted": "2025-07-08",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Milestone post — 32 US national parks down, 31 to go — with no specific stops to pin; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DL0AVq9sXxU/",
+   "title": "Canoeing Lake Louise, Banff, Canada",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Lake Louise, Canada (foreign)",
+   "posted": "2025-07-07",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "FOREIGN — held out under the USA-only rule: canoeing Lake Louise in Banff National Park, Canada. Kept as a reel record only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLr-gxmuHNe/",
+   "title": "NROCKS via ferrata — an East Coast bucket list adventure",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "NROCKS via ferrata, West Virginia",
+   "posted": "2025-07-04",
+   "added": "2026-11-10",
+   "place_ids": [
+    "nrocks-via-ferrata-wv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "NROCKS via ferrata feature: the longest via ferrata east of the Mississippi, in Circleville, West Virginia. Attached as a source on the NROCKS pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLqRQC3yi74/",
+   "title": "Rocky Mountain National Park mini guide",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Rocky Mountain National Park guide",
+   "posted": "2025-07-03",
+   "added": "2026-11-10",
+   "place_ids": [
+    "rocky-mountain-national-park-co",
+    "trail-ridge-road-co",
+    "bear-lake-co",
+    "emerald-lake-co",
+    "lake-haiyaha-trail-co",
+    "sprague-lake-co",
+    "sky-pond-co",
+    "chasm-lake-co"
+   ],
+   "places_count": 8,
+   "recommendation_summary": "Rocky Mountain mini guide: Trail Ridge Road, the Bear Lake corridor must-sees and the best hikes. Attached as sources on eight pins; Nymph and Dream lakes are carried by the Emerald Lake chain source, and Tombstone Ridge (Ute Trail), the Alpine Ridge Trail and Moraine Park are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLnOlVNMvXf/",
+   "title": "Big Bend might be the most diverse national park",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Big Bend National Park guide",
+   "posted": "2025-07-02",
+   "added": "2026-11-10",
+   "place_ids": [
+    "big-bend-national-park-tx",
+    "lost-mine-trail-tx",
+    "balanced-rock-tx",
+    "the-window-trail-tx",
+    "santa-elena-canyon-tx",
+    "emory-peak-tx"
+   ],
+   "places_count": 6,
+   "recommendation_summary": "Big Bend mini guide arguing it is America's most diverse park, with recommended easy-moderate and hard hikes. Attached as sources on six pins; Boquillas Canyon and the South Rim are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLkpkcCM4HF/",
+   "title": "We brought our drone to Mars — Hanksville, Utah",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Hanksville, Utah — Mars landscapes",
+   "posted": "2025-07-01",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bentonite-hills-ut",
+    "moonscape-overlook-ut",
+    "factory-butte-ut"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "Hanksville 'Mars' post: the Bentonite Hills, Moonscape Overlook and Factory Butte — 4WD required, no cell service, download offline maps. Attached as sources on three pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLiEAw9MdrY/",
+   "title": "Sandboarding the tallest dunes in North America",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Great Sand Dunes sandboarding",
+   "posted": "2025-06-30",
+   "added": "2026-11-10",
+   "place_ids": [
+    "great-sand-dunes-national-park-co",
+    "great-sand-dunes-oasis-co",
+    "high-dune-co"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "Great Sand Dunes sandboarding post, with rentals from Great Sand Dunes Oasis. Attached as sources on three pins; Medano Creek, Star Dune and the Dunes Overlook Trail are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLc0UnEsTmo/",
+   "title": "3 national parks, 1 epic Colorado road trip",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Southern Colorado road trip",
+   "posted": "2025-06-28",
+   "added": "2026-11-10",
+   "place_ids": [
+    "mesa-verde-national-park-co",
+    "cliff-palace-co",
+    "balcony-house-co",
+    "spruce-tree-house-co",
+    "million-dollar-highway-co",
+    "black-canyon-of-the-gunnison-national-park-co",
+    "dragon-point-co",
+    "painted-wall-overlook-co",
+    "tomichi-point-co",
+    "snodgrass-trail-co",
+    "great-sand-dunes-national-park-co"
+   ],
+   "places_count": 11,
+   "recommendation_summary": "Southern Colorado road trip: Mesa Verde, the San Juan Mountains and Million Dollar Highway, Black Canyon of the Gunnison, Crested Butte wildflowers, and Great Sand Dunes — five stops they squeezed into 3 days but recommend 5–7 for. Attached as sources on eleven pins; Park Point Overlook, Cedar Point, Sunset View, East Portal Road, the Lower Loop and Medano Creek are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLaSNbxMG6A/",
+   "title": "Angels Landing — one of the most dangerous hikes in the US",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Angels Landing, Zion",
+   "posted": "2025-06-27",
+   "added": "2026-11-10",
+   "place_ids": [
+    "angels-landing-ut"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Angels Landing feature with the full safety briefing: permits, exposure, weather and timing. Attached as a source on the Angels Landing pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLX4VTCxmSu/",
+   "title": "Would you dare to drive the Million Dollar Highway?",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Million Dollar Highway, Colorado",
+   "posted": "2025-06-26",
+   "added": "2026-11-10",
+   "place_ids": [
+    "million-dollar-highway-co"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Million Dollar Highway feature: 'Would you dare?' Attached as a source on the Million Dollar Highway pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLSnr4eMW4j/",
+   "title": "Black Canyon — the steepest canyon in the USA",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Black Canyon of the Gunnison guide",
+   "posted": "2025-06-24",
+   "added": "2026-11-10",
+   "place_ids": [
+    "black-canyon-of-the-gunnison-national-park-co",
+    "painted-wall-overlook-co",
+    "dragon-point-co",
+    "tomichi-point-co",
+    "warner-point-co"
+   ],
+   "places_count": 5,
+   "recommendation_summary": "Black Canyon of the Gunnison guide (park #28): favorite overlooks and hikes to consider. Attached as sources on five pins; Cedar Point, Sunset View, High Point, East Portal Road, the Oak Flat Loop, the Gunnison Route and Chasm View are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLQDlKQM9sS/",
+   "title": "It's just not the same on the East Coast",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "East Coast vs West landscapes montage",
+   "posted": "2025-06-23",
+   "added": "2026-11-10",
+   "place_ids": [
+    "yosemite-national-park-ca",
+    "grand-canyon-national-park-az",
+    "bryce-canyon-national-park-ut",
+    "zion-national-park-ut"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "East Coast vs West montage: Western footage identified as Yosemite, the Grand Canyon, Bryce Canyon and Zion. Attached as sources on the four park pins; redwood forest footage appears but the specific park is not confirmed, so it is not pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLK6Md2snzf/",
+   "title": "The most underrated national parks",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Underrated national parks list",
+   "posted": "2025-06-21",
+   "added": "2026-11-10",
+   "place_ids": [
+    "white-sands-national-park-nm",
+    "black-canyon-of-the-gunnison-national-park-co",
+    "channel-islands-national-park-ca",
+    "great-basin-national-park-nv",
+    "capitol-reef-national-park-ut",
+    "shenandoah-national-park-va"
+   ],
+   "places_count": 6,
+   "recommendation_summary": "The most underrated national parks: White Sands, Black Canyon of the Gunnison, Channel Islands, Great Basin, Capitol Reef and Shenandoah. Attached as sources on the six park pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLIO9QSsYEF/",
+   "title": "You've heard of the Grand Canyon — but have you heard of the Black Canyon?",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Black Canyon of the Gunnison at sunset",
+   "posted": "2025-06-20",
+   "added": "2026-11-10",
+   "place_ids": [
+    "black-canyon-of-the-gunnison-national-park-co"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Black Canyon sunset pitch: the Grand Canyon's underrated sibling at golden hour. Attached as a source on the Black Canyon park pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLFy4MoMNFF/",
+   "title": "Great Basin — plus it's only 4 hours from Las Vegas",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Great Basin National Park guide",
+   "posted": "2025-06-19",
+   "added": "2026-11-10",
+   "place_ids": [
+    "great-basin-national-park-nv",
+    "bristlecone-and-alpine-lakes-trail-nv",
+    "wheeler-peak-nv",
+    "lehman-caves-nv"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "Great Basin guide: a hidden gem 4 hours from Las Vegas, shot in mid-September fall color. Attached as sources on the park, Bristlecone & Alpine Lakes, Wheeler Peak and Lehman Caves pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLDLHxeMDX8/",
+   "title": "The most beautiful roadside view in Colorado (an unnamed San Juan spot)",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "San Juan Mountains roadside view (unnamed)",
+   "posted": "2025-06-18",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "An unnamed San Juan Mountains roadside overlook at alpenglow — the caption stresses the spot is not on the Million Dollar Highway and never names it, so nothing is pinned; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLAn4oEsmaM/",
+   "title": "Mesa Verde — a truly unique national park experience",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Mesa Verde National Park visit",
+   "posted": "2025-06-17",
+   "added": "2026-11-10",
+   "place_ids": [
+    "mesa-verde-national-park-co",
+    "cliff-palace-co",
+    "balcony-house-co"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "Mesa Verde visit (park #27): the Cliff Palace and Balcony House tours, both loved. Attached as sources on the park and both dwelling pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DK-BjFXssjt/",
+   "title": "Vernal Falls on the Mist Trail at golden hour",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Vernal Falls, Mist Trail, Yosemite",
+   "posted": "2025-06-16",
+   "added": "2026-11-10",
+   "place_ids": [
+    "nevada-fall-ca",
+    "vernal-falls-ca"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Vernal Falls on the Mist Trail at golden hour, with the continuation to Nevada Fall detailed. Created the Nevada Fall pin and attached as a source on the Vernal Falls pin.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/DK7kLLRvViJ/",
+   "title": "E-bikes are a game-changer in Zion",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "E-biking Zion Canyon",
+   "posted": "2025-06-15",
+   "added": "2026-11-10",
+   "place_ids": [
+    "zion-national-park-ut",
+    "zion-canyon-ut"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Zion e-bike pitch: ditch the shuttle lines and ride the canyon. Attached as sources on the Zion park and Zion Canyon pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DK2c_knRFra/",
+   "title": "Add these hikes to your bucket list",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bucket list hikes (world)",
+   "posted": "2025-06-13",
+   "added": "2026-11-10",
+   "place_ids": [
+    "angels-landing-ut"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "World bucket list hikes: Angels Landing is the US entry and is attached as a source; the other two hikes — Roys Peak (New Zealand) and Lake Oeschinen (Switzerland) — are foreign and excluded under the USA-only rule.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DKxJnfLMSBp/",
+   "title": "26 of 63 parks — and our free checklist",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Checklist promotion (no places)",
+   "posted": "2025-06-11",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Checklist promotion post — 26 of 63 parks in four years since their Moab honeymoon — with no specific stops to pin; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DKulx82sRQA/",
+   "title": "Channel Islands — only one hour from LA",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Channel Islands National Park guide",
+   "posted": "2025-06-10",
+   "added": "2026-11-10",
+   "place_ids": [
+    "channel-islands-national-park-ca",
+    "potato-harbor-ca",
+    "inspiration-point-anacapa-ca",
+    "east-anacapa-island-trail-ca"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "Channel Islands guide: Santa Cruz (Potato Harbor Trail, kayaking, island foxes) and Anacapa (East Anacapa Island Trail to Inspiration Point) over two days. Attached as sources on four pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DKsAROCMfEX/",
+   "title": "Bryce Canyon mini guide — the land of hoodoos",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bryce Canyon one-day guide",
+   "posted": "2025-06-09",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bryce-canyon-national-park-ut",
+    "inspiration-point-ut",
+    "navajo-loop-and-queens-garden-trail-ut",
+    "rainbow-point-ut",
+    "natural-bridge-ut",
+    "mossy-cave-ut",
+    "sunrise-point-bryce-canyon-ut"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Bryce Canyon mini guide and one-day itinerary: sunrise at Inspiration Point, Navajo Loop and Queen's Garden, the Bryce Canyon Road overlooks, and sunset at Sunrise Point. Attached as sources on seven pins; Yovimpa Point, Black Birch Canyon, Ponderosa Canyon, Agua Canyon, Farview Point and Swamp Canyon are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DKm442aspPY/",
+   "title": "5+ national park trips a year (humor)",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Travel humor (no places)",
+   "posted": "2025-06-07",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Travel humor post — no places to pin; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DKkMIoPMfRh/",
+   "title": "The ultimate Outer Banks weekend guide",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Outer Banks, North Carolina guide",
+   "posted": "2025-06-06",
+   "added": "2026-11-10",
+   "place_ids": [
+    "jockeys-ridge-state-park-nc",
+    "wright-brothers-national-memorial-nc",
+    "cape-hatteras-lighthouse-nc",
+    "bodie-island-lighthouse-nc"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "Outer Banks weekend guide: Jockey's Ridge sunset, Bodie Island Lighthouse, Oregon Inlet, Pea Island and the Wright Brothers Memorial. Created the Jockey's Ridge State Park, Wright Brothers National Memorial and Cape Hatteras Lighthouse pins and attached as a source on the Bodie Island Lighthouse pin; Coquina Beach, the Oregon Inlet Life Saving Station and Pea Island National Wildlife Refuge are named in the post but unpinned.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/DKfHju0sBGd/",
+   "title": "Trail Ridge Road — one of the most beautiful drives in the US",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Trail Ridge Road, Rocky Mountain",
+   "posted": "2025-06-04",
+   "added": "2026-11-10",
+   "place_ids": [
+    "trail-ridge-road-co"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Trail Ridge Road feature: the highest continuous paved road in the US and its must-see stops. Attached as a source on the Trail Ridge Road pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DKcZwUhtlGQ/",
+   "title": "Download our free US National Park guide",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Guide promotion (no places)",
+   "posted": "2025-06-03",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Free national park guide promotion post — no specific stops to pin; kept as a reel record only.",
+   "duplicate_place": true
   }
  ]
 }
