@@ -6390,6 +6390,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/mooney-falls-from-supai)
   - Coordinates are OpenStreetMap's Mooney Falls waterfall point on Havasu Creek, about a mile below Havasu Falls.
   - 🎬 Source: [Hikes to do before your knees give out — Ep. 5: Mooney Falls](https://www.instagram.com/reel/DfgKTARNl92/) by @lafftravel (#None in that reel)
+  - 🎬 Also recommended by: [Mooney Falls — the hike that ruined all other hikes](https://www.instagram.com/reel/DfkY9ippjQe/) by @stumblinguponserendipity
+    - **Best for:** Waterfall / The hike that 'ruined all other hikes' — 'Unfortunately this hike ruined all other hikes for me…' Mooney Falls at the Havasupai Reservation, just past the campground down a side canyon of the Grand Canyon. A $455 backpacking permit is required (they sell out fast, months in advance), and to reach the bottom you climb down chains and ladders on the cliff face.
 
 ### Hell Hole Canyon
 
@@ -14361,6 +14363,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A card-trick/magic reel, not a travel recommendation. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.
 - **[Sahale Arm — worth every single step](https://www.instagram.com/p/DfcbSbyGxpx/)** — @morgan_smile · 1 places · Theme: Sahale Arm, North Cascades
   - What the reel recommends: A photo carousel from Sahale Arm in North Cascades National Park (tagged location: Cascade Pass/Sahale Arm). 'Some places are worth every single step... I love a good physical challenge, but it's the mental reset that keeps me coming back to the mountains.' Attached as a source on the existing Sahale Arm Trail pin; no new pin.
+- **[Mooney Falls — the hike that ruined all other hikes](https://www.instagram.com/reel/DfkY9ippjQe/)** — @stumblinguponserendipity · 1 places · Theme: Mooney Falls, Havasupai
+  - What the reel recommends: A single-place reel: Mooney Falls at the Havasupai Reservation, Arizona — 'unfortunately this hike ruined all other hikes for me.' Notes the $455 backpacking permit (sells out months in advance) and the chains-and-ladders descent to the base of the falls. Attached as a source on the existing Mooney Falls pin; no new pin.
 
 ## How this page is updated {#how-this-page-is-updated}
 
