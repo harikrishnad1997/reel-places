@@ -9344,7 +9344,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 4,
    "source_reel_theme": "Best Northeast state parks ranking",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Hiking / Gorge Trail — 800 stone steps and 19 waterfalls",
+     "recommendation": "Codie & Drew call Watkins Glen's Gorge Trail one of the most incredible gorge hikes in New York: more than 800 stone steps past towering rock walls and 19 waterfalls, over stone bridges and through tunnels, including walking behind the falls at Cavern Cascade — filmed in peak fall color.",
+     "source_creator": "@codiendrew",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfSJ024hYiD/",
+     "source_reel_theme": "Watkins Glen State Park gorge hike",
+     "source_title": "We climbed 800 stone steps at Watkins Glen — America's most beautiful state park"
+    }
+   ]
   },
   {
    "id": "baxter-state-park-me",
@@ -29382,6 +29392,6 @@
    "note": "Coordinates from the NPS place record for Wild Goose Island Overlook."
   }
  ],
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "version": 1
 }
