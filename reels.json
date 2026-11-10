@@ -17981,6 +17981,23 @@
    "places_count": 1,
    "recommendation_summary": "A single-place reel: Mooney Falls at the Havasupai Reservation, Arizona — 'unfortunately this hike ruined all other hikes for me.' Notes the $455 backpacking permit (sells out months in advance) and the chains-and-ladders descent to the base of the falls. Attached as a source on the existing Mooney Falls pin; no new pin.",
    "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfkZC-8tHEw/",
+   "title": "Lake Superior winter bucket list",
+   "creator": "@maddymarq",
+   "creator_name": "Maddy ✨ Midwest Adventure",
+   "theme": "Lake Superior winter bucket list",
+   "posted": "2026-11-10",
+   "added": "2026-11-10",
+   "place_ids": [
+    "artist-point-grand-marais-mn",
+    "apostle-islands-ice-caves-wi",
+    "keweenaw-peninsula-mi"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "Her personal Lake Superior winter bucket list — three things she plans every year: (1) sunrise at Artist Point in Grand Marais, Minnesota, over the frozen lake at 20 below zero or colder; (2) the Apostle Islands ice caves — kayak the mainland sea caves in summer, or walk across the frozen lake when the Park Service opens foot access; (3) Michigan's Keweenaw Peninsula for skiing, frozen waterfalls and sauna. All three are new pins (places identified from the reel's narration; the caption itself names no places).",
+   "duplicate_place": false
   }
  ]
 }
