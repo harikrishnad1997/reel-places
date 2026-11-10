@@ -19758,6 +19758,249 @@
    }
   },
   {
+   "id": "reel:CfWjMXpNgHN",
+   "type": "Reel",
+   "properties": {
+    "name": "Moab is like no other place in the world",
+    "url": "https://www.instagram.com/reel/CfWjMXpNgHN/",
+    "title": "Moab is like no other place in the world",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Moab highlights",
+    "places_count": 2,
+    "recommendation_summary": "'Moab is like no other place in the world.' — a highlight carousel attached to the Arches park and Delicate Arch pins: Delicate Arch, the North Window and the Courthouse Towers in Arches National Park, with red-desert and canyon golden-hour frames (the canyon overlooks are not individually identifiable).",
+    "posted": "2022-06-28",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:moab-highlights",
+   "type": "Theme",
+   "properties": {
+    "name": "Moab highlights"
+   }
+  },
+  {
+   "id": "reel:CfILbqGr_vr",
+   "type": "Reel",
+   "properties": {
+    "name": "Keys View — Joshua Tree's sunset spot",
+    "url": "https://www.instagram.com/reel/CfILbqGr_vr/",
+    "title": "Keys View — Joshua Tree's sunset spot",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Keys View sunset recommendation",
+    "places_count": 1,
+    "recommendation_summary": "Joshua Tree sunset post, attached to the Keys View pin: 'If you spend any time in Joshua Tree National Park, Keys View is a great place to watch the sun set over the hills' — with daytime boulder and trail frames.",
+    "posted": "2022-06-22",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:CfCIScDOdAG",
+   "type": "Reel",
+   "properties": {
+    "name": "Skogafoss — even more magical in person",
+    "url": "https://www.instagram.com/reel/CfCIScDOdAG/",
+    "title": "Skogafoss — even more magical in person",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Skogafoss (foreign, held out)",
+    "places_count": 0,
+    "recommendation_summary": "Excluded under the USA-only rule: Iceland — 'Skogafoss was even more magical in person than we could have ever imagined.' Kept as a reel entry only.",
+    "posted": "2022-06-20",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:skogafoss-foreign-held-out",
+   "type": "Theme",
+   "properties": {
+    "name": "Skogafoss (foreign, held out)"
+   }
+  },
+  {
+   "id": "reel:Ce6Gp9JJL0e",
+   "type": "Reel",
+   "properties": {
+    "name": "Sunset somewhere in Virginia Beach",
+    "url": "https://www.instagram.com/reel/Ce6Gp9JJL0e/",
+    "title": "Sunset somewhere in Virginia Beach",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Virginia Beach sunset (no specific place)",
+    "places_count": 0,
+    "recommendation_summary": "'Sunset somewhere in Virginia Beach' — no specific place is named ('somewhere'), so nothing is pinned from it.",
+    "posted": "2022-06-17",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:Ce0_f6oJ9qy",
+   "type": "Reel",
+   "properties": {
+    "name": "Bodie Island Lighthouse — Outer Banks, NC",
+    "url": "https://www.instagram.com/reel/Ce0_f6oJ9qy/",
+    "title": "Bodie Island Lighthouse — Outer Banks, NC",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Bodie Island Lighthouse feature",
+    "places_count": 1,
+    "recommendation_summary": "Bodie Island Lighthouse, attached to the existing pin: a photography-focused visit to the light station on the Outer Banks — day and night frames, the keeper's house and grounds, opening on their camera settings.",
+    "posted": "2022-06-15",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:Cedg2urpzAY",
+   "type": "Reel",
+   "properties": {
+    "name": "What's your favorite spot in NYC?",
+    "url": "https://www.instagram.com/reel/Cedg2urpzAY/",
+    "title": "What's your favorite spot in NYC?",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "NYC landmarks montage (June edit)",
+    "places_count": 4,
+    "recommendation_summary": "The June 2022 edit of their 'What's your favorite spot in NYC?' montage, attached to the Statue of Liberty, St. Patrick's Cathedral, Brooklyn Bridge and Manhattan Bridge pins. The 9/11 Memorial, One World Trade Center, Grand Central Terminal, Times Square and the Empire State Building also feature and are named here only. (A different, September 2022 edit of the same montage is batch 15's CiS9DJ3Mdrd.)",
+    "posted": "2022-06-06",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:nyc-landmarks-montage-june-edit",
+   "type": "Theme",
+   "properties": {
+    "name": "NYC landmarks montage (June edit)"
+   }
+  },
+  {
+   "id": "reel:CdQguRSvsb7",
+   "type": "Reel",
+   "properties": {
+    "name": "Harpa — Reykjavik, Iceland",
+    "url": "https://www.instagram.com/reel/CdQguRSvsb7/",
+    "title": "Harpa — Reykjavik, Iceland",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Harpa concert hall (foreign, held out)",
+    "places_count": 0,
+    "recommendation_summary": "Excluded under the USA-only rule: Iceland — the architectural details of Harpa, Reykjavik's concert hall and conference centre, whose colored glass facade is inspired by Iceland's basalt landscape. Kept as a reel entry only.",
+    "posted": "2022-05-07",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:harpa-concert-hall-foreign-held-out",
+   "type": "Theme",
+   "properties": {
+    "name": "Harpa concert hall (foreign, held out)"
+   }
+  },
+  {
+   "id": "reel:CdLllvkp5jC",
+   "type": "Reel",
+   "properties": {
+    "name": "Norfolk Botanical Garden — Spring 2022",
+    "url": "https://www.instagram.com/reel/CdLllvkp5jC/",
+    "title": "Norfolk Botanical Garden — Spring 2022",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Norfolk Botanical Garden in spring",
+    "places_count": 1,
+    "recommendation_summary": "Norfolk Botanical Garden in spring 2022, attached to the existing garden pin: cornflowers, azaleas, the reflecting pool, flower-lined paths and roses.",
+    "posted": "2022-05-05",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:norfolk-botanical-garden-in-spring",
+   "type": "Theme",
+   "properties": {
+    "name": "Norfolk Botanical Garden in spring"
+   }
+  },
+  {
+   "id": "reel:CcYjsK7rtU3",
+   "type": "Reel",
+   "properties": {
+    "name": "Tulips at Burnside Farms",
+    "url": "https://www.instagram.com/reel/CcYjsK7rtU3/",
+    "title": "Tulips at Burnside Farms",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Burnside Farms tulip fields",
+    "places_count": 1,
+    "recommendation_summary": "'Tulips at Burnside Farms' — a new pin for the Nokesville, VA flower farm: expansive tulip fields in neat, colorful rows under a stormy April sky, from a frilly parrot tulip close-up to dense red rows on the horizon.",
+    "posted": "2022-04-15",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:burnside-farms-tulip-fields",
+   "type": "Theme",
+   "properties": {
+    "name": "Burnside Farms tulip fields"
+   }
+  },
+  {
+   "id": "reel:CcQiasWLmXj",
+   "type": "Reel",
+   "properties": {
+    "name": "Mesquite Flat Dunes — Death Valley",
+    "url": "https://www.instagram.com/reel/CcQiasWLmXj/",
+    "title": "Mesquite Flat Dunes — Death Valley",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Mesquite Flat Sand Dunes portraits",
+    "places_count": 1,
+    "recommendation_summary": "Mesquite Flat Dunes, attached to the existing pin: a couples portrait session in the dunes at golden hour, wide dune landscapes alternating with portraits on the rippled sand.",
+    "posted": "2022-04-12",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:mesquite-flat-sand-dunes-portraits",
+   "type": "Theme",
+   "properties": {
+    "name": "Mesquite Flat Sand Dunes portraits"
+   }
+  },
+  {
+   "id": "reel:Cb-NBlmuX9a",
+   "type": "Reel",
+   "properties": {
+    "name": "Death Valley National Park",
+    "url": "https://www.instagram.com/reel/Cb-NBlmuX9a/",
+    "title": "Death Valley National Park",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Death Valley highlights carousel",
+    "places_count": 4,
+    "recommendation_summary": "Their Death Valley highlights carousel, attached to the park, Mesquite Flat Dunes, Badwater Basin and Zabriskie Point pins: dunes by day and dusk, the Badwater sign and salt polygons, badlands viewpoints, sunset, and a star-filled night sky.",
+    "posted": "2022-04-05",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:death-valley-highlights-carousel",
+   "type": "Theme",
+   "properties": {
+    "name": "Death Valley highlights carousel"
+   }
+  },
+  {
+   "id": "reel:Cbux64YNaxy",
+   "type": "Reel",
+   "properties": {
+    "name": "Joshua Tree National Park",
+    "url": "https://www.instagram.com/reel/Cbux64YNaxy/",
+    "title": "Joshua Tree National Park",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Joshua Tree NP feature",
+    "places_count": 1,
+    "recommendation_summary": "'Joshua Tree National Park' — an early park feature post captioned with the park name only, attached to the Joshua Tree park pin.",
+    "posted": "2022-03-30",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:joshua-tree-np-feature",
+   "type": "Theme",
+   "properties": {
+    "name": "Joshua Tree NP feature"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -20550,6 +20793,13 @@
    "type": "Theme",
    "properties": {
     "name": "National Park / In their 14-park ranking"
+   }
+  },
+  {
+   "id": "theme:national-park-their-park-highlights-carousel",
+   "type": "Theme",
+   "properties": {
+    "name": "National Park / Their park highlights carousel"
    }
   },
   {
@@ -21726,6 +21976,13 @@
    }
   },
   {
+   "id": "theme:landmark-featured-in-their-moab-carousel",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / Featured in their Moab carousel"
+   }
+  },
+  {
    "id": "place:high-dune-co",
    "type": "Place",
    "properties": {
@@ -22394,6 +22651,13 @@
    "type": "Theme",
    "properties": {
     "name": "National park / Mini guide"
+   }
+  },
+  {
+   "id": "theme:national-park-their-joshua-tree-feature-post",
+   "type": "Theme",
+   "properties": {
+    "name": "National Park / Their Joshua Tree feature post"
    }
   },
   {
@@ -25383,6 +25647,13 @@
    "type": "Theme",
    "properties": {
     "name": "National park / Moab day 1"
+   }
+  },
+  {
+   "id": "theme:national-park-their-moab-is-like-no-other-place-carousel",
+   "type": "Theme",
+   "properties": {
+    "name": "National Park / Their 'Moab is like no other place' carousel"
    }
   },
   {
@@ -34895,6 +35166,20 @@
    }
   },
   {
+   "id": "theme:dunes-their-golden-hour-portrait-session",
+   "type": "Theme",
+   "properties": {
+    "name": "Dunes / Their golden-hour portrait session"
+   }
+  },
+  {
+   "id": "theme:dunes-the-opening-frames-of-their-death-valley-carousel",
+   "type": "Theme",
+   "properties": {
+    "name": "Dunes / The opening frames of their Death Valley carousel"
+   }
+  },
+  {
    "id": "place:half-dome-ca",
    "type": "Place",
    "properties": {
@@ -38499,6 +38784,13 @@
    }
   },
   {
+   "id": "theme:landmark-in-their-death-valley-carousel-at-the-sign-and-on-the-salt",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / In their Death Valley carousel — at the sign and on the salt"
+   }
+  },
+  {
    "id": "place:ubehebe-crater-ca",
    "type": "Place",
    "properties": {
@@ -40787,6 +41079,13 @@
    }
   },
   {
+   "id": "theme:lighthouse-a-photographer-s-visit-day-and-night",
+   "type": "Theme",
+   "properties": {
+    "name": "Lighthouse / A photographer's visit, day and night"
+   }
+  },
+  {
    "id": "place:cowles-bog-trail-in",
    "type": "Place",
    "properties": {
@@ -42036,6 +42335,13 @@
    }
   },
   {
+   "id": "theme:landmark-opener-of-their-june-nyc-montage",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / Opener of their June NYC montage"
+   }
+  },
+  {
    "id": "place:little-island-ny",
    "type": "Place",
    "properties": {
@@ -42113,6 +42419,13 @@
    "type": "Theme",
    "properties": {
     "name": "Landmark / In their NYC favorites montage"
+   }
+  },
+  {
+   "id": "theme:landmark-in-their-june-nyc-montage",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / In their June NYC montage"
    }
   },
   {
@@ -42403,6 +42716,13 @@
    "type": "Theme",
    "properties": {
     "name": "Landmark / Photo 3 of NYC in Black & White"
+   }
+  },
+  {
+   "id": "theme:landmark-in-the-closing-split-frame-of-their-june-nyc-montage",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / In the closing split frame of their June NYC montage"
    }
   },
   {
@@ -43164,6 +43484,13 @@
    }
   },
   {
+   "id": "theme:garden-their-spring-2022-visit",
+   "type": "Theme",
+   "properties": {
+    "name": "Garden / Their spring 2022 visit"
+   }
+  },
+  {
    "id": "place:roaring-fork-motor-nature-trail-tn",
    "type": "Place",
    "properties": {
@@ -43686,6 +44013,39 @@
    "type": "Theme",
    "properties": {
     "name": "Arts District / The 5th annual ViBe Mural Festival"
+   }
+  },
+  {
+   "id": "place:burnside-farms-va",
+   "type": "Place",
+   "properties": {
+    "name": "Burnside Farms",
+    "place_id": "burnside-farms-va",
+    "site": "Burnside Farms",
+    "city": "Nokesville",
+    "state": "Virginia",
+    "state_code": "VA",
+    "region": "Southeast",
+    "country": "USA",
+    "lat": 38.716976,
+    "lng": -77.579235,
+    "google_maps_query": "Burnside Farms, Burnside Farms, Nokesville, Virginia",
+    "best_for": "Flower farm / Tulip fields at the Festival of Spring",
+    "note": "Coordinates: the farm's own place record, 11008 Kettle Run Rd, Nokesville, VA."
+   }
+  },
+  {
+   "id": "site:burnside-farms",
+   "type": "Site",
+   "properties": {
+    "name": "Burnside Farms"
+   }
+  },
+  {
+   "id": "theme:flower-farm-tulip-fields-at-the-festival-of-spring",
+   "type": "Theme",
+   "properties": {
+    "name": "Flower farm / Tulip fields at the Festival of Spring"
    }
   }
  ],
@@ -55745,6 +56105,156 @@
    "properties": {}
   },
   {
+   "from": "reel:CfWjMXpNgHN",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:CfWjMXpNgHN",
+   "to": "theme:moab-highlights",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:CfILbqGr_vr",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:CfILbqGr_vr",
+   "to": "theme:sunset",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:CfILbqGr_vr",
+   "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:CfCIScDOdAG",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:CfCIScDOdAG",
+   "to": "theme:skogafoss-foreign-held-out",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ce6Gp9JJL0e",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ce6Gp9JJL0e",
+   "to": "theme:sunset",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ce0_f6oJ9qy",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Ce0_f6oJ9qy",
+   "to": "theme:bodie-island-lighthouse-feature",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Cedg2urpzAY",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Cedg2urpzAY",
+   "to": "theme:nyc-landmarks-montage-june-edit",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:CdQguRSvsb7",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:CdQguRSvsb7",
+   "to": "theme:harpa-concert-hall-foreign-held-out",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:CdLllvkp5jC",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:CdLllvkp5jC",
+   "to": "theme:norfolk-botanical-garden-in-spring",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:CcYjsK7rtU3",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:CcYjsK7rtU3",
+   "to": "theme:burnside-farms-tulip-fields",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:CcQiasWLmXj",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:CcQiasWLmXj",
+   "to": "theme:mesquite-flat-sand-dunes-portraits",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Cb-NBlmuX9a",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Cb-NBlmuX9a",
+   "to": "theme:death-valley-highlights-carousel",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Cbux64YNaxy",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Cbux64YNaxy",
+   "to": "theme:joshua-tree-np-feature",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -56107,6 +56617,19 @@
    "to": "theme:winter-visit",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:zabriskie-point-death-valley-ca",
+   "to": "reel:Cb-NBlmuX9a",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint / The badlands frames of their Death Valley carousel",
+    "recommendation": "The eroded badlands viewpoint frames in their Death Valley highlights carousel are Zabriskie Point and its neighboring viewpoints, shot in bright sun before the sunset and night-sky frames.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Death Valley National Park",
+    "reel_theme": "Death Valley highlights carousel"
+   }
   },
   {
    "from": "place:canyon-overlook-zion-ut",
@@ -58780,6 +59303,25 @@
   {
    "from": "place:death-valley-national-park-ca",
    "to": "theme:national-park-in-their-14-park-ranking",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:death-valley-national-park-ca",
+   "to": "reel:Cb-NBlmuX9a",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National Park / Their park highlights carousel",
+    "recommendation": "'Death Valley National Park' — their day-to-night highlights carousel: golden dunes, Badwater Basin, the eroded badlands viewpoints, sunset, and a star-filled night sky over the desert.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Death Valley National Park",
+    "reel_theme": "Death Valley highlights carousel"
+   }
+  },
+  {
+   "from": "place:death-valley-national-park-ca",
+   "to": "theme:national-park-their-park-highlights-carousel",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -62795,6 +63337,25 @@
    }
   },
   {
+   "from": "place:delicate-arch-ut",
+   "to": "reel:CfWjMXpNgHN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / Featured in their Moab carousel",
+    "recommendation": "Delicate Arch — standing alone on its slickrock ridge — is one of the hero frames of their 'Moab is like no other place in the world' carousel.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Moab is like no other place in the world",
+    "reel_theme": "Moab highlights"
+   }
+  },
+  {
+   "from": "place:delicate-arch-ut",
+   "to": "theme:landmark-featured-in-their-moab-carousel",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:high-dune-co",
    "to": "state:united-states-co",
    "type": "LOCATED_IN",
@@ -65761,6 +66322,25 @@
   {
    "from": "place:joshua-tree-national-park-ca",
    "to": "theme:national-park-in-their-14-park-ranking",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:joshua-tree-national-park-ca",
+   "to": "reel:Cbux64YNaxy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National Park / Their Joshua Tree feature post",
+    "recommendation": "'Joshua Tree National Park' — one of their earliest park feature posts (March 2022), captioned with the park name only.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Joshua Tree National Park",
+    "reel_theme": "Joshua Tree NP feature"
+   }
+  },
+  {
+   "from": "place:joshua-tree-national-park-ca",
+   "to": "theme:national-park-their-joshua-tree-feature-post",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -76832,6 +77412,25 @@
   {
    "from": "place:arches-national-park-ut",
    "to": "theme:national-park-in-their-14-park-ranking",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "reel:CfWjMXpNgHN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National Park / Their 'Moab is like no other place' carousel",
+    "recommendation": "'Moab is like no other place in the world.' — their Moab highlight carousel is mostly Arches National Park: Delicate Arch on its slickrock ridge, the North Window, and the Courthouse Towers fins, closing with golden-hour canyon views.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Moab is like no other place in the world",
+    "reel_theme": "Moab highlights"
+   }
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "theme:national-park-their-moab-is-like-no-other-place-carousel",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -101553,6 +102152,44 @@
    "properties": {}
   },
   {
+   "from": "place:mesquite-flat-sand-dunes-ca",
+   "to": "reel:CcQiasWLmXj",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Dunes / Their golden-hour portrait session",
+    "recommendation": "'Mesquite Flat Dunes, Death Valley National Park.' — a couples portrait session among the dunes at golden hour, footprints trailing across the rippled sand.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Mesquite Flat Dunes — Death Valley",
+    "reel_theme": "Mesquite Flat Sand Dunes portraits"
+   }
+  },
+  {
+   "from": "place:mesquite-flat-sand-dunes-ca",
+   "to": "theme:dunes-their-golden-hour-portrait-session",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mesquite-flat-sand-dunes-ca",
+   "to": "reel:Cb-NBlmuX9a",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Dunes / The opening frames of their Death Valley carousel",
+    "recommendation": "Their Death Valley highlights carousel opens on the park's golden sand dunes (the Mesquite Flat Dunes), by day and again in dusk shadow.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Death Valley National Park",
+    "reel_theme": "Death Valley highlights carousel"
+   }
+  },
+  {
+   "from": "place:mesquite-flat-sand-dunes-ca",
+   "to": "theme:dunes-the-opening-frames-of-their-death-valley-carousel",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:half-dome-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -114406,6 +115043,19 @@
    "properties": {}
   },
   {
+   "from": "place:keys-view-ca",
+   "to": "reel:CfILbqGr_vr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint / Their Joshua Tree sunset pick",
+    "recommendation": "'If you spend any time in Joshua Tree National Park, Keys View is a great place to watch the sun set over the hills.'",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Keys View — Joshua Tree's sunset spot",
+    "reel_theme": "Keys View sunset recommendation"
+   }
+  },
+  {
    "from": "place:skull-rock-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -114942,6 +115592,25 @@
     "reel_title": "Badwater Basin — next must-see in Death Valley",
     "reel_theme": "Badwater Basin teaser"
    }
+  },
+  {
+   "from": "place:badwater-basin-ca",
+   "to": "reel:Cb-NBlmuX9a",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / In their Death Valley carousel — at the sign and on the salt",
+    "recommendation": "Badwater Basin features in their Death Valley carousel: Kelley leaning on the '282 feet below sea level' sign, the white salt-polygon crust, and the boardwalk over the flats.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Death Valley National Park",
+    "reel_theme": "Death Valley highlights carousel"
+   }
+  },
+  {
+   "from": "place:badwater-basin-ca",
+   "to": "theme:landmark-in-their-death-valley-carousel-at-the-sign-and-on-the-salt",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:ubehebe-crater-ca",
@@ -120921,6 +121590,25 @@
    "properties": {}
   },
   {
+   "from": "place:bodie-island-lighthouse-nc",
+   "to": "reel:Ce0_f6oJ9qy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Lighthouse / A photographer's visit, day and night",
+    "recommendation": "'Bodie Island Light House • Outer Banks, NC' — a photography-focused visit: the black-and-white banded tower, keeper's house and grounds in bright sun, then lit up after dark (the reel opens on their camera settings).",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Bodie Island Lighthouse — Outer Banks, NC",
+    "reel_theme": "Bodie Island Lighthouse feature"
+   }
+  },
+  {
+   "from": "place:bodie-island-lighthouse-nc",
+   "to": "theme:lighthouse-a-photographer-s-visit-day-and-night",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:cowles-bog-trail-in",
    "to": "state:usa-in",
    "type": "LOCATED_IN",
@@ -123106,6 +123794,25 @@
    "properties": {}
   },
   {
+   "from": "place:statue-of-liberty-ny",
+   "to": "reel:Cedg2urpzAY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / Opener of their June NYC montage",
+    "recommendation": "'What's your favorite spot in NYC?' (June 2022 edit) opens on the Statue of Liberty from the water — the same question as their September 2022 version of the montage.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "What's your favorite spot in NYC?",
+    "reel_theme": "NYC landmarks montage (June edit)"
+   }
+  },
+  {
+   "from": "place:statue-of-liberty-ny",
+   "to": "theme:landmark-opener-of-their-june-nyc-montage",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:little-island-ny",
    "to": "state:usa-ny",
    "type": "LOCATED_IN",
@@ -123221,6 +123928,25 @@
   {
    "from": "place:st-patricks-cathedral-ny",
    "to": "theme:landmark-in-their-nyc-favorites-montage",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:st-patricks-cathedral-ny",
+   "to": "reel:Cedg2urpzAY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / In their June NYC montage",
+    "recommendation": "St. Patrick's Cathedral — its Gothic vaults and golden altar — features in their June 2022 'What's your favorite spot in NYC?' montage.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "What's your favorite spot in NYC?",
+    "reel_theme": "NYC landmarks montage (June edit)"
+   }
+  },
+  {
+   "from": "place:st-patricks-cathedral-ny",
+   "to": "theme:landmark-in-their-june-nyc-montage",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -123519,6 +124245,25 @@
   {
    "from": "place:brooklyn-bridge-ny",
    "to": "theme:landmark-photo-3-of-nyc-in-black-white",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:brooklyn-bridge-ny",
+   "to": "reel:Cedg2urpzAY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / In the closing split frame of their June NYC montage",
+    "recommendation": "The Brooklyn Bridge appears in black and white in the closing split frame of their June 2022 NYC montage (alongside a Midtown dusk view and the Manhattan Bridge). The 9/11 Memorial, One World Trade Center, Grand Central Terminal, Times Square and the Empire State Building also feature — named in the reel summary only.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "What's your favorite spot in NYC?",
+    "reel_theme": "NYC landmarks montage (June edit)"
+   }
+  },
+  {
+   "from": "place:brooklyn-bridge-ny",
+   "to": "theme:landmark-in-the-closing-split-frame-of-their-june-nyc-montage",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -124754,6 +125499,25 @@
    "properties": {}
   },
   {
+   "from": "place:norfolk-botanical-garden-va",
+   "to": "reel:CdLllvkp5jC",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Garden / Their spring 2022 visit",
+    "recommendation": "'Norfolk Botanical Gardens • Spring 2022' — purple cornflowers, vivid red azaleas, the reflecting pool, flower-lined brick paths and peach-pink roses.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Norfolk Botanical Garden — Spring 2022",
+    "reel_theme": "Norfolk Botanical Garden in spring"
+   }
+  },
+  {
+   "from": "place:norfolk-botanical-garden-va",
+   "to": "theme:garden-their-spring-2022-visit",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:roaring-fork-motor-nature-trail-tn",
    "to": "state:usa-tn",
    "type": "LOCATED_IN",
@@ -125551,6 +126315,25 @@
    "properties": {}
   },
   {
+   "from": "place:manhattan-bridge-ny",
+   "to": "reel:Cedg2urpzAY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / In the closing split frame of their June NYC montage",
+    "recommendation": "The Manhattan Bridge, framed by buildings in black and white, closes their June 2022 NYC montage's split frame (alongside the Brooklyn Bridge).",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "What's your favorite spot in NYC?",
+    "reel_theme": "NYC landmarks montage (June edit)"
+   }
+  },
+  {
+   "from": "place:manhattan-bridge-ny",
+   "to": "theme:landmark-in-the-closing-split-frame-of-their-june-nyc-montage",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:vibe-creative-district-va",
    "to": "state:usa-va",
    "type": "LOCATED_IN",
@@ -125578,6 +126361,37 @@
   {
    "from": "place:vibe-creative-district-va",
    "to": "theme:arts-district-the-5th-annual-vibe-mural-festival",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:burnside-farms-va",
+   "to": "state:usa-va",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:burnside-farms-va",
+   "to": "site:burnside-farms",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:burnside-farms-va",
+   "to": "reel:CcYjsK7rtU3",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Flower farm / Tulip fields at the Festival of Spring",
+    "recommendation": "'Tulips at Burnside Farms' — their spring visit to the pick-your-own tulip fields in Nokesville: neat rows of yellow, red, pink and purple tulips under a dramatic, stormy sky. The farm's Festival of Spring plants more than 2.5 million tulips and daffodils across 15+ acres.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Tulips at Burnside Farms",
+    "reel_theme": "Burnside Farms tulip fields"
+   }
+  },
+  {
+   "from": "place:burnside-farms-va",
+   "to": "theme:flower-farm-tulip-fields-at-the-festival-of-spring",
    "type": "BEST_FOR",
    "properties": {}
   }
