@@ -14171,6 +14171,799 @@
    "places_count": 0,
    "recommendation_summary": "No places: a New Year greeting ('Goodbye 2023 — here's to more sunrises & sunsets in 2024').",
    "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C867s1zx1oU/",
+   "title": "São Miguel overlooks — Azores volcanic viewpoints",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores São Miguel overlooks (foreign)",
+   "posted": "2024-07-02",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: São Miguel, Azores (Portugal) — Lagoa do Fogo, Lagoa das Sete Cidades, Furnas Lake and the Ponta da Ferraria hot springs, admired for few tourists and no lines. Kept as a reel entry only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C81xoQzxolJ/",
+   "title": "How to reach Moraine Lake now — Banff shuttle guide",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Moraine Lake access guide (foreign)",
+   "posted": "2024-06-30",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: Moraine Lake, Banff National Park (Canada) — no private vehicles and no parking; Parks Canada shuttles and Roam Transit's Lake Connector from the Lake Louise Park and Ride, or a tour; the post's creator adds in comments that private shuttle companies also work well.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8zQ7unssxy/",
+   "title": "Splurging on a Jeep Wrangler rental",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Jeep rental splurge (no place)",
+   "posted": "2024-06-29",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "A splurge post: they rented a Jeep Wrangler to 'match the vibes' — the montage's Joshua Tree, Yosemite, Sequoia, Reyes Point (Point Reyes) and White Sands backdrops are named here only; the recommendation is the Jeep, not the places, so nothing is pinned from it.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8woQ6tR-Nt/",
+   "title": "Sweethaven Lavender — u-pick lavender near Williamsburg",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Sweethaven Lavender Farm feature",
+   "posted": "2024-06-28",
+   "added": "2026-11-10",
+   "place_ids": [
+    "sweethaven-lavender-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Sweethaven Lavender near Williamsburg, Virginia — a new pin: a u-pick lavender farm with lavender lemonade and lavender cotton candy, caught in the final days of its 2024 season.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8uXFHOMjiw/",
+   "title": "Our top 4 Outer Banks lighthouses",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Outer Banks lighthouse rankings",
+   "posted": "2024-06-27",
+   "added": "2026-11-10",
+   "place_ids": [
+    "currituck-beach-lighthouse-nc",
+    "cape-hatteras-lighthouse-nc",
+    "cape-lookout-lighthouse-nc",
+    "bodie-island-lighthouse-nc"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "Their top-four Outer Banks lighthouses: Bodie Island #1, Cape Lookout #2, Cape Hatteras #3, and Currituck Beach #4 (a new pin) — with Roanoke Marshes and Ocracoke Island named as the other two of the six OBX lights. The caption's 'Burton, NC' is a typo for Buxton.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8r3noVs_9A/",
+   "title": "Smith Mountain Lake — Virginia summer getaway",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Smith Mountain Lake feature",
+   "posted": "2024-06-26",
+   "added": "2026-11-10",
+   "place_ids": [
+    "smith-mountain-lake-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Smith Mountain Lake, Virginia — a new pin: their annual summer ritual of a weekend on the water with friends, by boat or dock.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8o8NmqMj0j/",
+   "title": "Natural Bridge State Park — Jefferson's arch",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Natural Bridge State Park guide",
+   "posted": "2024-06-25",
+   "added": "2026-11-10",
+   "place_ids": [
+    "natural-bridge-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Natural Bridge State Park guide: the 200-foot limestone arch Thomas Jefferson bought in 1774, attached to the existing Natural Bridge pin with the Lace Falls (Cedar Creek Trail) and Skyline Trail tips.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8nRRl2MnoP/",
+   "title": "20-Minute Cliffs Overlook — low-effort Blue Ridge sunset",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "20-Minute Cliffs Overlook sunset",
+   "posted": "2024-06-24",
+   "added": "2026-11-10",
+   "place_ids": [
+    "twenty-minute-cliffs-overlook-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "20-Minute Cliffs Overlook on the Blue Ridge Parkway: 'the perfect low effort sunset spot' — attached to the existing overlook pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8kEWvfs9kp/",
+   "title": "The 'so where are you going next' couple",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Travel couple reputation (no place)",
+   "posted": "2024-06-23",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "A reputation joke: 'That couple that's always talking about traveling' — 'Oh, so where are you going next?' Their answer: everywhere. No place named; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8hg3XsMcus/",
+   "title": "Landing a drone over water",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Drone humor (no place)",
+   "posted": "2024-06-22",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Drone humor over an unnamed lake ('tell me you own a drone without telling me you own a drone') — the lake is never named, so nothing is pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8eoBTzsF1r/",
+   "title": "6 tips for cheaper flights",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Cheap flights tips (no place)",
+   "posted": "2024-06-21",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Six tips for cheaper flights — Google Flights alerts, round-trip vs one-way comparisons, clearing cookies/incognito, mixing airlines, avoiding peak season and staying flexible. No place named; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8cXxCLMxYP/",
+   "title": "Places we have been — Iceland, Azores, Rockies, Bahamas, California",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Favorite destinations list",
+   "posted": "2024-06-20",
+   "added": "2026-11-10",
+   "place_ids": [
+    "yosemite-national-park-ca",
+    "sequoia-national-park-ca",
+    "channel-islands-national-park-ca",
+    "lassen-volcanic-national-park-ca",
+    "pinnacles-national-park-ca",
+    "death-valley-national-park-ca",
+    "joshua-tree-national-park-ca"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Their favorite-places list: Iceland, the Azores, the Canadian Rockies (Waterton & Yoho especially) and the Bahamas are foreign and excluded; the California leg is attached as sources to the Yosemite, Sequoia, Channel Islands, Lassen Volcanic, Pinnacles, Death Valley and Joshua Tree park pins (best-time notes included). Kings Canyon is named with Sequoia but has no park pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8Zy7MmsDJn/",
+   "title": "Take a moment to unwind at the beach",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Beach unwind moment (no place)",
+   "posted": "2024-06-19",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "A quiet beach moment: 'Take a moment to unwind and enjoy being where you are right now' — waves, sunset and footprints at an unnamed beach. Nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8XUe3nRDiP/",
+   "title": "Choose one road trip — 10 options",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Road trip choice list",
+   "posted": "2024-06-18",
+   "added": "2026-11-10",
+   "place_ids": [
+    "sequoia-national-park-ca",
+    "arches-national-park-ut",
+    "great-smoky-mountains-national-park-tn",
+    "yosemite-national-park-ca",
+    "white-sands-national-park-nm",
+    "blue-ridge-parkway-nc",
+    "joshua-tree-national-park-ca",
+    "big-bend-national-park-tx"
+   ],
+   "places_count": 8,
+   "recommendation_summary": "'If you could only pick ONE road trip… which would you choose?' — attached as sources to the Sequoia (California), Arches (Mighty Five), Great Smoky Mountains, Yosemite, White Sands, Blue Ridge Parkway, Joshua Tree and Big Bend pins. The Canadian Rockies/Moraine Lake option is foreign and Bear Lake (Utah/Idaho) is not pinned; both are named here only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8UV9xzsIJg/",
+   "title": "2 Moab local gems beyond the national parks",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Moab local gems guide",
+   "posted": "2024-06-17",
+   "added": "2026-11-10",
+   "place_ids": [
+    "dead-horse-point-state-park-ut",
+    "corona-arch-ut"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Two Moab local gems beyond Arches and Canyonlands: Dead Horse Point State Park ('basically the best view of Canyonlands') and Corona Arch (2.3-mile moderate hike) — both attached to existing pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8R9Mmcs_bo/",
+   "title": "Charleston must-sees — the perfect weekend getaway",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Charleston must-sees list",
+   "posted": "2024-06-16",
+   "added": "2026-11-10",
+   "place_ids": [
+    "pineapple-fountain-sc",
+    "rainbow-row-sc",
+    "angel-oak-tree-sc",
+    "boone-hall-plantation-sc",
+    "cypress-gardens-sc",
+    "white-point-garden-sc"
+   ],
+   "places_count": 6,
+   "recommendation_summary": "Charleston must-sees: five new pins (Pineapple Fountain at sunrise, Rainbow Row, Angel Oak Tree, Boone Hall Plantation & Gardens, Cypress Gardens) plus the existing White Point Garden pin as a source; the historic mansions along East Battery Street are named here only.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8PpQg1xBO-/",
+   "title": "Trip taker vs vacationer",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Travel style humor (no place)",
+   "posted": "2024-06-15",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "'Are you a trip taker or a vacationer?' — the two travel styles contrasted (itineraries vs rest). No place named; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8Mm8DJv1W8/",
+   "title": "The Azores are so majestic — São Miguel travel notes",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores travel notes (foreign)",
+   "posted": "2024-06-14",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — 'born from volcanic eruptions and molded by the ocean', with São Miguel and Pico Island named.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8KVlUUxAaY/",
+   "title": "The Azores — Hawaii of Europe island hopping",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores island hopping intro (foreign)",
+   "posted": "2024-06-13",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — 'Not many people have heard about these amazing islands', marketed as the 'Hawaii of Europe', with island hopping among São Miguel, Pico, Faial and São Jorge.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8H3_06xQ5a/",
+   "title": "Sunrise textures at Mesquite Flat Sand Dunes",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Death Valley Mesquite Flat sunrise",
+   "posted": "2024-06-12",
+   "added": "2026-11-10",
+   "place_ids": [
+    "mesquite-flat-sand-dunes-ca"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Mesquite Flat Sand Dunes at sunrise: 'Nature paints the most beautiful canvas' — attached to the existing Mesquite Flat pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8FNHJhsotV/",
+   "title": "Travel credit card benefits we use",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Travel credit cards (no place)",
+   "posted": "2024-06-11",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "The travel credit cards they actually use, with a Marriott-status anecdote — the Azores backdrop is incidental. No US place recommended; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8CvbpkxITX/",
+   "title": "Top 5 most beautiful places in Iceland",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Iceland top places (foreign)",
+   "posted": "2024-06-10",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: their top 5 most beautiful places in Iceland — Reynisfjara black sand beach, Jökulsárlón glacier lagoon, Kirkjufell, Skógafoss and Stuðlagil Canyon.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C8AN8AtRh34/",
+   "title": "Ultimate summer bucket list — 12 ideas",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Summer bucket list (no place)",
+   "posted": "2024-06-09",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Their ultimate summer bucket list — 12 generic activities (sunrise hike, stargazing night, water-park day and more) at unnamed places. Nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C79bnXXskvJ/",
+   "title": "Our crazy 3-day California road trip — snowstorm reroute",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "California road trip reroute itinerary",
+   "posted": "2024-06-08",
+   "added": "2026-11-10",
+   "place_ids": [
+    "alabama-hills-ca",
+    "sequoia-national-park-ca",
+    "big-trees-trail-ca",
+    "congress-trail-ca",
+    "yosemite-national-park-ca",
+    "tunnel-view-ca",
+    "bridalveil-fall-ca",
+    "cooks-meadow-loop-ca",
+    "lower-yosemite-fall-ca",
+    "vernal-falls-ca"
+   ],
+   "places_count": 10,
+   "recommendation_summary": "'Our crazy 3 day road trip through California': Day 1 Alabama Hills (then Mono Lake); a snowstorm rerouted them 2+ hours south to an all-snow Sequoia ('white covered magic', Big Trees + Congress Trail); Day 2 Yosemite (Tunnel View, Bridalveil Fall, Cooks Meadow, Lower Yosemite Falls, Mist Trail/Vernal Falls); Day 3 Mammoth Lakes, Convict Lake and Lake Tahoe. Attached to ten existing pins; Mono Lake, Mammoth Lakes, Convict Lake and Lake Tahoe are named here only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C76vDvbMgAM/",
+   "title": "Favorite beaches in Virginia & North Carolina",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "VA & NC favorite beaches list",
+   "posted": "2024-06-07",
+   "added": "2026-11-10",
+   "place_ids": [
+    "pea-island-national-wildlife-refuge-nc",
+    "cape-lookout-lighthouse-nc"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Their favorite beaches in Virginia & North Carolina: a six-look carousel — Sandbridge and Chick's Beach (Virginia Beach), East Beach (Norfolk), Cape Charles, and South Nags Head are named in text only; the two pinned stops (Pea Island and Shackleford Banks/Cape Lookout) are attached as sources.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C74dQRSxX1e/",
+   "title": "7-day Canadian Rockies itinerary — beyond Banff",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Canadian Rockies itinerary (foreign)",
+   "posted": "2024-06-06",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: a 7-day Canadian Rockies itinerary beyond Banff (Canada) — Yoho, Kootenay, Jasper, Mount Robson and Wells Gray, with Lake Louise, Emerald Lake, Takakkaw Falls, Marble Canyon, Maligne Lake and the Icefields Parkway named.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C71UMwXx1mh/",
+   "title": "Bear encounter on the Lower Yosemite Falls trail",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Yosemite bear encounter",
+   "posted": "2024-06-05",
+   "added": "2026-11-10",
+   "place_ids": [
+    "lower-yosemite-fall-ca"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'POV: You encountered a bear while hiking' — a bear on the Lower Yosemite Falls trail, filmed with Kelley's good camera; attached to the Lower Yosemite Fall pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C7y58bKslmi/",
+   "title": "How we maximize our PTO",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "PTO maximization tips (no place)",
+   "posted": "2024-06-04",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "How they maximize their PTO to travel more (holiday stacking and remote days). No place named; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C7wszh5skF4/",
+   "title": "5 places near Banff everybody should visit",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Banff area top 5 (foreign)",
+   "posted": "2024-06-03",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: five places near Banff everybody should visit (Canada) — Johnston Canyon, Lake Louise, Emerald Lake (Yoho), Moraine Lake and Lake Minnewanka.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C7t_PjdMJm_/",
+   "title": "Vernal Falls via the Mist Trail at golden hour",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Yosemite Vernal Falls Mist Trail",
+   "posted": "2024-06-02",
+   "added": "2026-11-10",
+   "place_ids": [
+    "vernal-falls-ca"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'The curtain of Vernal Falls, Yosemite National Park at golden hour' — a single waterfall shot, attached to the Vernal Fall pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C7rIgsBMkYi/",
+   "title": "Stuðlagil Canyon — expectation vs reality",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Iceland Stuðlagil Canyon (foreign)",
+   "posted": "2024-06-01",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: Stuðlagil Canyon, Iceland — expectation vs reality (the basalt canyon in orange low water), 'still a great place to visit especially if it's your first time'.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C7o65wNs_IG/",
+   "title": "Why May is called May — unpredictable weather",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "May weather humor (no place)",
+   "posted": "2024-05-31",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "May-weather humor: 'May the weather change faster than you can say May' — a montage of unnamed coasts, canyons and waterfalls. Nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C7b6bO-O7EV/",
+   "title": "Alabama Hills — add life to your days",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Alabama Hills quote + guide",
+   "posted": "2024-05-26",
+   "added": "2026-11-10",
+   "place_ids": [
+    "alabama-hills-ca",
+    "mobius-arch-ca"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Alabama Hills: the Roy Rogers quote ('Don't add years to your life…') over Lone Pine footage, with a guide covering Movie Road, the Mobius Arch Loop (0.6 mi), Tuttle Creek and Lone Pine campgrounds and the Lone Pine Movie Museum — attached to the Alabama Hills and Mobius Arch pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C7RTmPoMPfa/",
+   "title": "Forget your phone at Secret Cove, Lake Tahoe",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Secret Cove digital detox",
+   "posted": "2024-05-22",
+   "added": "2026-11-10",
+   "place_ids": [
+    "secret-cove-nv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'Yes Lake Tahoe is THAT blue. Forget your phone. Relax and digital detox.' — Secret Cove, Lake Tahoe, attached to the existing Secret Cove pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C7J4uT8uiJP/",
+   "title": "The ultimate Outer Banks weekend itinerary",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Outer Banks weekend itinerary",
+   "posted": "2024-05-19",
+   "added": "2026-11-10",
+   "place_ids": [
+    "jockeys-ridge-state-park-nc",
+    "bodie-island-lighthouse-nc",
+    "oregon-inlet-life-saving-station-nc",
+    "pea-island-national-wildlife-refuge-nc",
+    "wright-brothers-national-memorial-nc",
+    "cape-hatteras-lighthouse-nc"
+   ],
+   "places_count": 6,
+   "recommendation_summary": "The ultimate Outer Banks weekend itinerary: Day 1 in Nags Head (Jockey's Ridge area eats: Duck Donuts, Mama Kwan's, Fish Heads); Day 2 sunrise at Jockey's Ridge, Bodie Island Lighthouse, a Pea Island beach (Surfin' Spoon, Front Porch Cafe); Day 3 Wright Brothers Memorial then Cape Hatteras Lighthouse (Blue Moon for dinner). Attached to six existing pins; the restaurants are named here only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C684ZUlsoqN/",
+   "title": "NM & TX national parks — must-sees overview",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "New Mexico & Texas parks overview",
+   "posted": "2024-05-14",
+   "added": "2026-11-10",
+   "place_ids": [
+    "white-sands-national-park-nm",
+    "alkali-flat-trail-nm",
+    "white-sands-backcountry-trail-nm",
+    "interdune-boardwalk-nm",
+    "dune-life-nature-trail-nm",
+    "carlsbad-caverns-national-park-nm",
+    "natural-entrance-trail-nm",
+    "big-room-nm",
+    "guadalupe-mountains-national-park-tx",
+    "mckittrick-canyon-tx",
+    "devils-hall-trail-tx",
+    "guadalupe-peak-tx",
+    "el-capitan-guadalupe-tx",
+    "salt-basin-dunes-tx",
+    "big-bend-national-park-tx",
+    "santa-elena-canyon-tx",
+    "lost-mine-trail-tx",
+    "balanced-rock-tx"
+   ],
+   "places_count": 18,
+   "recommendation_summary": "Must-sees overview across the four New Mexico & Texas parks — White Sands (Alkali Flat, Backcountry, Interdune Boardwalk, Dune Life), Carlsbad Caverns (Natural Entrance, Big Room), Guadalupe Mountains (McKittrick Canyon, Devils Hall, Guadalupe Peak, El Capitan, Salt Basin Dunes) and Big Bend (Santa Elena Canyon, Lost Mine, Balanced Rock) — attached to all eighteen pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C6v0U_EuoIW/",
+   "title": "Snow pivot to Sequoia National Park",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Sequoia snow visit",
+   "posted": "2024-05-09",
+   "added": "2026-11-10",
+   "place_ids": [
+    "sequoia-national-park-ca"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'When spontaneity takes you to a place where the only color is white. Sequoia National Park, we can never get enough of you.' — attached to the Sequoia park pin (a separate post from the road-trip reroute reel).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C6OZswSOdJ1/",
+   "title": "Ranking the 14 national parks we've visited",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "National park rankings (14 parks)",
+   "posted": "2024-04-26",
+   "added": "2026-11-10",
+   "place_ids": [
+    "congaree-national-park-sc",
+    "acadia-national-park-me",
+    "shenandoah-national-park-va",
+    "canyonlands-national-park-ut",
+    "carlsbad-caverns-national-park-nm",
+    "new-river-gorge-national-park-and-preserve-wv",
+    "joshua-tree-national-park-ca",
+    "great-smoky-mountains-national-park-tn",
+    "channel-islands-national-park-ca",
+    "arches-national-park-ut",
+    "white-sands-national-park-nm",
+    "death-valley-national-park-ca",
+    "big-bend-national-park-tx"
+   ],
+   "places_count": 13,
+   "recommendation_summary": "Their ranking of the 14 national parks visited by National Park Week 2024, filmed at the Big Bend entrance sign: the two recoverable slots are Congaree #14 (last) and Big Bend #1 (top); thirteen named parks are attached as sources (the 14th park is never named in the video).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C6KQGZAPcgQ/",
+   "title": "Sand sledding at White Sands with an Insta360",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "White Sands Insta360 sledding",
+   "posted": "2024-04-24",
+   "added": "2026-11-10",
+   "place_ids": [
+    "white-sands-national-park-nm"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'Sand sledding at White Sands, but with an Insta360' — a 360 fisheye POV down the gypsum dunes; the caption doesn't name the park but the footage is White Sands. Attached to the park pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C6EjwuWR-1s/",
+   "title": "Earth Day sustainability tips",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Earth Day tips (no place)",
+   "posted": "2024-04-22",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Earth Day sustainability tips with an unnamed beach/mountain montage (carry reusables, avoid single-use plastic, respect wildlife). Nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C580TB3OebX/",
+   "title": "Ultimate guide to NYC's most picturesque locations",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "NYC picturesque locations guide",
+   "posted": "2024-04-19",
+   "added": "2026-11-10",
+   "place_ids": [
+    "brooklyn-bridge-ny",
+    "central-park-ny",
+    "rockefeller-center-ny",
+    "edge-nyc-ny",
+    "summit-one-vanderbilt-ny",
+    "statue-of-liberty-ny",
+    "little-island-ny"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "'The Ultimate Guide to New York City's Most Picturesque Locations': new pins for the Brooklyn Bridge (the Bridges chapter, with DUMBO and Brooklyn Heights Promenade named) and Central Park (the Parks chapter, with Little Island and Gantry Plaza named), plus sources on Rockefeller Center (Top of the Rock), Edge, SUMMIT One Vanderbilt, the Statue of Liberty and Little Island; the Museums chapter (Met, AMNH, MoMA) is named here only.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/C5x76CTLSgY/",
+   "title": "White Sands — a photographer's paradise guide",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "White Sands photography guide",
+   "posted": "2024-04-15",
+   "added": "2026-11-10",
+   "place_ids": [
+    "white-sands-national-park-nm",
+    "alkali-flat-trail-nm",
+    "white-sands-backcountry-trail-nm"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "'White Sands National Park is a photographer's paradise' — their photographer's guide (ripples and patterns, sunrise/sunset light), naming the Alkali Flat and Backcountry Camping Loop trails as locations; attached to the three White Sands pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C5io_1HuvQ-/",
+   "title": "Redhead emojis are so minimal",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Redhead emoji post (no place)",
+   "posted": "2024-04-09",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "A redhead-emoji appreciation post over an unnamed summit view. Nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C5WK863uy0z/",
+   "title": "I would climb any mountain with you — hiking buddy montage",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Texas trails hiking montage",
+   "posted": "2024-04-04",
+   "added": "2026-11-10",
+   "place_ids": [
+    "lost-mine-trail-tx",
+    "balanced-rock-tx",
+    "devils-hall-trail-tx",
+    "mckittrick-canyon-tx"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "'I would climb any mountain with you…' — a hiking-buddy montage across ~17 miles of Texas trails: the Lost Mine Trail, Balanced Rock, Devils Hall and McKittrick Canyon, attached as sources.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C5OfNZMxW0k/",
+   "title": "Introduce yourself — Kelley & Carl community post",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Introduction post (no place)",
+   "posted": "2024-04-01",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "An introduction post for new followers ('Hi, we're Kelley & Carl', Washington DC / Richmond VA). No place named; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C4tB6MbRCq6/",
+   "title": "Guadalupe Mountains — an underrated national park",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Guadalupe Mountains guide",
+   "posted": "2024-03-19",
+   "added": "2026-11-10",
+   "place_ids": [
+    "guadalupe-mountains-national-park-tx",
+    "guadalupe-peak-tx",
+    "mckittrick-canyon-tx",
+    "devils-hall-trail-tx",
+    "salt-basin-dunes-tx"
+   ],
+   "places_count": 5,
+   "recommendation_summary": "Guadalupe Mountains guide: 'one of the most underrated national parks' — two areas (Pine Springs, McKittrick Canyon), the four named hikes, lodging in Van Horn/Whites City or the Pine Springs Campground, 1.5–2.5 hours from El Paso, fall colors in McKittrick. Attached to the park pin and all four hike pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C4bICjyR2va/",
+   "title": "Cherry blossoms at DC's Tidal Basin — peak bloom guide",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Tidal Basin cherry blossom guide",
+   "posted": "2024-03-12",
+   "added": "2026-11-10",
+   "place_ids": [
+    "tidal-basin-dc"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Cherry blossoms at DC's Tidal Basin — a new pin: NPS peak bloom expected March 23–26, 2024 (bloom period up to 14 days); from their own peak-bloom Sunday the year before — arrive shortly after sunrise, go on a weekday, expect crowds by 9–10 am, and take transit because parking is very limited.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/C4GhUQNuT1d/",
+   "title": "1 week, 4 national parks — NM & TX recap",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Four parks one week recap",
+   "posted": "2024-03-04",
+   "added": "2026-11-10",
+   "place_ids": [
+    "white-sands-national-park-nm",
+    "guadalupe-mountains-national-park-tx",
+    "carlsbad-caverns-national-park-nm",
+    "big-bend-national-park-tx"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "'1 Week. 4 National Parks. Over 1600 Miles Driven. 3 Sunrises. 2 Sunsets. 1000 Photos' — the recap of their March 2024 New Mexico & Texas week, attached to the White Sands, Guadalupe Mountains, Carlsbad Caverns and Big Bend park pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C35NctUuPAO/",
+   "title": "Birthday sand sledding at White Sands",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "White Sands birthday sledding",
+   "posted": "2024-02-28",
+   "added": "2026-11-10",
+   "place_ids": [
+    "white-sands-national-park-nm"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Kelley's 29th birthday sand-sledding at White Sands, banner and all — attached to the park pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/reel/C30EeJ7Oid9/",
+   "title": "Sand dunes, sunsets, mountains, and each other",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "White Sands sunset (unnamed in caption)",
+   "posted": "2024-02-26",
+   "added": "2026-11-10",
+   "place_ids": [
+    "white-sands-national-park-nm"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'Sand dunes, sunsets, mountains, and each other. What more could you ask for?' — the caption never names the place ('any guesses?'); the creator confirms in the comments that it's White Sands. Attached to the park pin.",
+   "duplicate_place": true
   }
  ]
 }
