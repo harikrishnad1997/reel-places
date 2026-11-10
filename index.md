@@ -35,7 +35,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Map — all places, color-coded by region {#map}
 
-🟣 **Northeast** 🟢 **Southeast** 🟡 **Midwest** 🟠 **Southwest**  **Mountain West** 🔵 **West** 🩵 **Pacific Northwest** 🔷 **Alaska** 🌺 **Hawaii**  **U.S. Territories**. Pins are numbered within each region — tap a pin for the place, what the reel recommended it for, and links to Google Maps and the source reel. [Open the map full-screen](map.html)
+🟣 **Northeast** 🟢 **Southeast** 🟡 **Midwest** 🟠 **Southwest**  **Mountain West** 🔵 **West** 🩵 **Pacific Northwest** 🔷 **Alaska** 🌺 **Hawaii**  **U.S. Territories**. Pins are coloured by region — tap a pin for the place, what the reel recommended it for, and links to Google Maps and the source reel. [Open the map full-screen](map.html)
 
 <iframe src="map.html" width="100%" height="520" style="border:1px solid #ccc; border-radius:8px;" loading="lazy" title="Reel places map"></iframe>
 
