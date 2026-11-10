@@ -13,12 +13,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 53 places](#northeast)
-- [Southeast Region — 90 places](#southeast)
-- [Midwest Region — 71 places](#midwest)
-- [Southwest Region — 152 places](#southwest)
-- [Mountain West Region — 86 places](#mountain-west)
-- [West Region — 108 places](#west)
-- [Pacific Northwest Region — 59 places](#pacific-northwest)
+- [Southeast Region — 100 places](#southeast)
+- [Midwest Region — 72 places](#midwest)
+- [Southwest Region — 154 places](#southwest)
+- [Mountain West Region — 90 places](#mountain-west)
+- [West Region — 111 places](#west)
+- [Pacific Northwest Region — 60 places](#pacific-northwest)
 - [Alaska Region — 37 places](#alaska)
 - [Hawaii Region — 8 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 53 · Southeast 90 · Midwest 71 · Southwest 152 · Mountain West 86 · West 108 · Pacific Northwest 59 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 667**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 53 · Southeast 100 · Midwest 72 · Southwest 154 · Mountain West 90 · West 111 · Pacific Northwest 60 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 688**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -67,6 +67,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Sunrise — Dave & Joce's favorite Acadia sunrise spot — 'another unreal sunrise spot' besides Cadillac Mountain: the Beehive Trail, the park's famous iron-rung climb above Sand Beach.
   - 🎬 Also recommended by: [Our favorite hike in each of the 10 most-visited national parks](https://www.instagram.com/p/DY2zUn7Eqe7/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite hike in Acadia — The Beehive Loop Trail is Kelley & Carl's favorite hike in Acadia National Park — a 1.5-mile loop with 500 feet of gain, iron rungs and some rock scrambling.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in Acadia (#7 most visited) — The Beehive Loop Trail (1.5-mile loop, 500 ft, with rock scrambling and ladders) is Kelley & Carl's favorite hike in Acadia, #7 in their most-visited-parks countdown.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — The Beehive Loop Trail (1.4 miles, 488 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
 - **3. [Cadillac Mountain](https://www.google.com/maps/search/?api=1&query=Cadillac+Mountain+Acadia+National+Park+ME)** — Acadia National Park, Bar Harbor
   - **Best for:** Sunrise — Dave & Joce's pick for one of the most iconic sunrises in the U.S.: Cadillac Mountain, famous for being one of the first places in the country to see the sunrise during parts of the year. If you're driving up, vehicle reservations are required during the reservation season — or you can hike to the top.
   - Coordinates verified against OpenStreetMap.
@@ -408,6 +412,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / Fall hikes list — steep 4 mi, 1,771 ft — On Kelley & Carl's fall-hikes list: Mount Monadnock in southern New Hampshire — a steep 4-mile round-trip hard hike with 1,771 ft of elevation gain.
   - 🎬 Also recommended by: [US state parks that really pack a punch](https://www.instagram.com/p/DWEtOPtDt6X/) by @kelleyandcarlsadventures
     - **Best for:** State park / Favorite state parks list — Monadnock State Park is one of Kelley & Carl's all-time favorite US state parks — the Mount Monadnock summit rewards you with 360-degree views, and sunrise here is incredible.
+  - 🎬 Also recommended by: [10 places in the USA for nature lovers (that aren't national parks)](https://www.instagram.com/p/DRcsZtCCbBU/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Nature places that aren't national parks — Monadnock State Park is one of Kelley & Carl's 10 places in the USA for nature lovers that aren't national parks.
 
 ### Moss Glen Falls (Granville)
 
@@ -614,7 +620,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Southeast Region {#southeast}
 
-**90 places · Arkansas, Florida, Georgia, Kentucky, North Carolina, South Carolina, Tennessee, Virginia, West Virginia**
+**100 places · Arkansas, Florida, Georgia, Kentucky, North Carolina, South Carolina, Tennessee, Virginia, West Virginia**
 
 ### Amicalola Falls State Park
 
@@ -638,20 +644,31 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Landmark / One of the most photographed spots in West Virginia — a working grist mill on Glade Creek — A Day 4 stop on Kelley & Carl's West Virginia itinerary: Babcock State Park's Glade Creek Grist Mill, a fully working mill assembled from parts of three historic West Virginia mills, perched over the boulders of Glade Creek — one of the most photographed scenes in the state.
   - Coordinates from the WV State Parks place record for the Glade Creek Grist Mill.
   - 🎬 Source: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Landmark / East Coast fall trip — the grist mill stop — Kelley & Carl stop at the grist mill at Babcock State Park, near New River Gorge, on their East Coast fall road trip.
 
 ### Biscayne National Park
 
 #### Florida
 
+##### Island
+
+- **3. [Boca Chita Key](https://www.google.com/maps/search/?api=1&query=Boca+Chita+Key+Biscayne+National+Park+FL)** — Biscayne National Park, Miami
+  - **Best for:** Island / Historic key with the park's iconic lighthouse — Boca Chita Key, with its iconic 1930s lighthouse, is the Biscayne highlight of Kelley & Carl's Florida parks road trip — reached by boat tour from Miami, in the park they pair with a snorkel tour of the largest coral reef tract in the US.
+  - Coordinates from Wikipedia (Boca Chita Key Historic District).
+  - 🎬 Source: [Florida's 3 national parks — one epic road trip](https://www.instagram.com/p/DUEEUB4Ccnd/) by @kelleyandcarlsadventures (#None in that reel)
+
 ##### Winter visit
 
-- **3. [Biscayne National Park](https://www.google.com/maps/search/?api=1&query=Biscayne+National+Park+FL)** — Biscayne National Park, Miami
+- **4. [Biscayne National Park](https://www.google.com/maps/search/?api=1&query=Biscayne+National+Park+FL)** — Biscayne National Park, Miami
   - **Best for:** Winter visit — Listed jointly at #5 for winter with Everglades, shown with paddleboarding in sunny mangrove waters and the Biscayne lighthouse at dusk.
   - 🎬 Source: [My Top 5 Winter National Parks](https://www.instagram.com/reel/DeiJu-bBcEn/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
     - **Best for:** Snorkeling / Favorite Biscayne activity, underrated list — Taking a snorkel tour is Kelley & Carl's favorite Biscayne activity in their underrated-parks list.
   - 🎬 Also recommended by: [Florida's 3 national parks road trip](https://www.instagram.com/reel/DX4uUHkJrkd/) by @kelleyandcarlsadventures
     - **Best for:** Snorkeling / Florida parks road trip stop — Biscayne — 95% water off Miami, guarding the largest coral reef tract in the USA — opens Kelley & Carl's Florida parks road trip; take a snorkel tour to see the underwater metropolis.
+  - 🎬 Also recommended by: [Florida's 3 national parks — one epic road trip](https://www.instagram.com/p/DUEEUB4Ccnd/) by @kelleyandcarlsadventures
+    - **Best for:** Snorkeling / Florida parks road trip, reef park off Miami — Biscayne — 95% water off Miami, guarding the largest coral reef tract in the USA — opens Kelley & Carl's Florida parks road trip; they recommend a snorkel tour to see the underwater metropolis, plus Boca Chita Key (added as a new pin).
 
 ### Blackwater Falls State Park
 
@@ -659,7 +676,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **4. [Blackwater Falls](https://www.google.com/maps/search/?api=1&query=Blackwater+Falls+WV)** — Blackwater Falls State Park, Davis
+- **5. [Blackwater Falls](https://www.google.com/maps/search/?api=1&query=Blackwater+Falls+WV)** — Blackwater Falls State Park, Davis
   - **Best for:** Waterfall — Ranked #7 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/west-virginia/blackwater-falls--2)
   - Coordinates verified against OpenStreetMap.
@@ -668,10 +685,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** State park / Favorite state parks list — Blackwater Falls State Park is one of Kelley & Carl's all-time favorite US state parks — easily accessible, truly incredible waterfalls, stunning all year but especially in the fall.
   - 🎬 Also recommended by: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / West Virginia itinerary Day 1 must-see — Blackwater Falls is a Day 1 must-see in Kelley & Carl's 5-day West Virginia itinerary.
-- **5. [Elakala Falls](https://www.google.com/maps/search/?api=1&query=Elakala+Falls+Blackwater+Falls+State+Park+WV)** — Blackwater Falls State Park, Davis
+- **6. [Elakala Falls](https://www.google.com/maps/search/?api=1&query=Elakala+Falls+Blackwater+Falls+State+Park+WV)** — Blackwater Falls State Park, Davis
   - **Best for:** Waterfall / Four cascades on Shays Run beside the park lodge — A Day 1 must-see in Kelley & Carl's West Virginia itinerary: Elakala Falls, a series of four waterfalls on Shays Run in Blackwater Falls State Park, reached by a short trail from the lodge — the first falls drops beneath a wooden footbridge.
   - Coordinates from OpenStreetMap data via byway.world; WV Tourism lists 39.106964, -79.498736.
   - 🎬 Source: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / East Coast fall hikes top 10 — Elakala Falls (0.4-mile hike in Blackwater Falls State Park) is one of Kelley & Carl's top 10 East Coast fall hikes.
 
 ### Blue Ridge Parkway
 
@@ -679,31 +698,58 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **6. [Craggy Pinnacle](https://www.google.com/maps/search/?api=1&query=Craggy+Pinnacle+Blue+Ridge+Parkway+NC)** — Blue Ridge Parkway, Asheville
+- **7. [Craggy Pinnacle](https://www.google.com/maps/search/?api=1&query=Craggy+Pinnacle+Blue+Ridge+Parkway+NC)** — Blue Ridge Parkway, Asheville
   - **Best for:** Hike / Short summit walk in the Craggy Gardens rhododendron balds — From Kelley & Carl's fall-hikes list: a 'short & sweet hike on the Blue Ridge Parkway near Asheville' — about 1 mile round trip with 249 ft of gain to the Craggy Pinnacle summit in the Craggy Gardens area.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/craggy-pinnacle)
   - Pin is the OSM Craggy Pinnacle summit point (Parkway milepost ~364).
   - 🎬 Source: [Save these bucket list hikes for later — fall hikes](https://www.instagram.com/p/DdUMH5RFlvW/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall hikes top 10 — Craggy Pinnacle (1.4 miles, 500 ft, on the Blue Ridge Parkway) is one of Kelley & Carl's top 10 East Coast fall hikes.
+
+##### Viewpoint
+
+- **8. [Linn Cove Viaduct](https://www.google.com/maps/search/?api=1&query=Linn+Cove+Viaduct+Blue+Ridge+Parkway+NC)** — Blue Ridge Parkway, Linville
+  - **Best for:** Viewpoint / The Parkway's famous S-curve bridge around Grandfather Mountain — One of Kelley & Carl's top 10 East Coast fall overlooks: the Linn Cove Viaduct, the Blue Ridge Parkway's iconic elevated S-curve hugging Grandfather Mountain — especially in fall color.
+  - Coordinates from Wikipedia for the Linn Cove Viaduct.
+  - 🎬 Source: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures (#None in that reel)
+- **9. [Waterrock Knob](https://www.google.com/maps/search/?api=1&query=Waterrock+Knob+Blue+Ridge+Parkway+NC)** — Blue Ridge Parkway, Sylva
+  - **Best for:** Viewpoint / One of the Parkway's highest stops, at milepost 451.2 — One of Kelley & Carl's top 10 East Coast fall overlooks: Waterrock Knob at Blue Ridge Parkway milepost 451.2 — the Parkway's highest visitor center, with a short steep trail to a 6,292-foot summit.
+  - Coordinates from the NPS passport-stamp locator for the Waterrock Knob Visitor Center (MP 451.2).
+  - 🎬 Source: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures (#None in that reel)
 
 #### Virginia
 
 ##### Hike
 
-- **7. [Humpback Rocks](https://www.google.com/maps/search/?api=1&query=Humpback+Rocks+Blue+Ridge+Parkway+VA)** — Blue Ridge Parkway, Waynesboro
+- **10. [Humpback Rocks](https://www.google.com/maps/search/?api=1&query=Humpback+Rocks+Blue+Ridge+Parkway+VA)** — Blue Ridge Parkway, Waynesboro
   - **Best for:** Hike / Steep climb to a rocky outcrop at the Parkway's north end — Named in Kelley & Carl's Virginia fall itinerary as a popular hike in the Blue Ridge Parkway area near Humpback Gap (milepost 6) — a steep climb to a rocky summit with Shenandoah Valley and Rockfish Valley views.
   - Pin is the OSM Humpback Rocks summit point.
   - 🎬 Source: [Virginia in the fall — Shenandoah Valley & Shenandoah National Park](https://www.instagram.com/p/DepVI1niWaG/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Virginia fall foliage — current conditions and tips](https://www.instagram.com/p/Dert1M9JVgX/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Popular Blue Ridge Parkway hike — On Kelley & Carl's Virginia fall road trip: Humpback Rocks is a pretty popular hike in the area, off the Blue Ridge Parkway.
 
+##### Hiking
+
+- **11. [Sharp Top Trail](https://www.google.com/maps/search/?api=1&query=Sharp+Top+Trail+Blue+Ridge+Parkway+VA)** — Blue Ridge Parkway, Bedford
+  - **Best for:** Hiking / Steep summit climb to a 360-degree view at Peaks of Otter — Kelley & Carl's favorite hike on Day 5 of their East Coast fall road trip: Sharp Top at Peaks of Otter on the Blue Ridge Parkway — a steep 3.1-mile round trip with about 1,259 feet of gain to a 360-degree summit view.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/sharp-top-trail)
+  - Trailhead coordinates from Stav is Lost's Sharp Top Mountain guide.
+  - 🎬 Source: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall hikes top 10 — Sharp Top (3.5 miles, 1,450 ft, at Peaks of Otter) is one of Kelley & Carl's top 10 East Coast fall hikes (the pin's primary source is their East Coast fall road trip).
+
 ##### Viewpoint
 
-- **8. [Twenty Minute Cliff Overlook](https://www.google.com/maps/search/?api=1&query=Twenty+Minute+Cliff+Overlook+Blue+Ridge+Parkway+VA)** — Blue Ridge Parkway, Montebello
+- **12. [Twenty Minute Cliff Overlook](https://www.google.com/maps/search/?api=1&query=Twenty+Minute+Cliff+Overlook+Blue+Ridge+Parkway+VA)** — Blue Ridge Parkway, Montebello
   - **Best for:** Viewpoint / Kelley & Carl's favorite Blue Ridge Parkway overlook in this part of Virginia — From Kelley & Carl's Virginia fall itinerary: 'Blue Ridge Parkway: all time favorite overlook in this area of VA is 20 Minute Cliffs Overlook' (milepost 19) — named for how the evening light lingers on the cliff face.
   - Pin is the published place-record point for the 20-Minute Cliff Overlook at Blue Ridge Parkway milepost 19.
   - 🎬 Source: [Virginia in the fall — Shenandoah Valley & Shenandoah National Park](https://www.instagram.com/p/DepVI1niWaG/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Virginia fall foliage — current conditions and tips](https://www.instagram.com/p/Dert1M9JVgX/) by @kelleyandcarlsadventures
     - **Best for:** Overlook / Favorite Blue Ridge Parkway overlook in the area — On Kelley & Carl's Virginia fall road trip: the Twenty Minute Cliffs Overlook is their all-time favorite Blue Ridge Parkway overlook in this part of Virginia.
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / East Coast fall trip — Day 5 must-see overlook — The 20-Minute Cliff Overlook, 'beautiful at sunset', is the must-see overlook on Day 5 of Kelley & Carl's East Coast fall road trip, driving the Blue Ridge Parkway.
+  - 🎬 Also recommended by: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / East Coast fall overlooks top 10 — The 20-Minute Cliff Overlook on the Blue Ridge Parkway is one of Kelley & Carl's top 10 East Coast fall overlooks.
 
 ### Buffalo National River (Ponca Wilderness)
 
@@ -711,7 +757,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Narrow ledge trail on a 550-ft bluff over the Buffalo River
 
-- **9. [Goat Trail to Big Bluff](https://www.google.com/maps/search/?api=1&query=Centerpoint+Trailhead+Ponca+Arkansas)** — Buffalo National River (Ponca Wilderness), Ponca
+- **13. [Goat Trail to Big Bluff](https://www.google.com/maps/search/?api=1&query=Centerpoint+Trailhead+Ponca+Arkansas)** — Buffalo National River (Ponca Wilderness), Ponca
   - **Best for:** Hike · Narrow ledge trail on a 550-ft bluff over the Buffalo River — A strenuous 6-mile round trip in the Ponca Wilderness: follow the Centerpoint Trail down from Highway 43, then take the Goat Trail spur — a narrow ledge carved across the face of Big Bluff, at 550 feet one of the tallest sheer bluffs between the Rockies and the Appalachians — for the huge view over the Buffalo River. Rugged, rocky, and a real climb back out; the reel's trail warning is plenty of horse poop along the way. Not for kids or anyone afraid of heights.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arkansas/goat-trail-to-big-bluff)
   - Pin is the Centerpoint Trailhead on AR-43 north of Ponca (the hike's start); Big Bluff is about 3 trail-miles in.
@@ -719,7 +765,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **10. [Hemmed-In Hollow Falls](https://www.google.com/maps/search/?api=1&query=Hemmed-in-Hollow+Falls+Arkansas)** — Buffalo National River (Ponca Wilderness), Compton
+- **14. [Hemmed-In Hollow Falls](https://www.google.com/maps/search/?api=1&query=Hemmed-in-Hollow+Falls+Arkansas)** — Buffalo National River (Ponca Wilderness), Compton
   - **Best for:** Waterfall / Hike · Tallest waterfall between the Rockies and Appalachians — A nearly 210-foot waterfall hidden in the Ponca Wilderness of Buffalo National River — the tallest waterfall between the Rocky and Appalachian Mountains. The journey is part of it: a steep, rugged hike drops nearly 1,400 feet into the hollow, and you climb every bit of it back out. Key catch from the reel: it's rain-fed, so it can be a powerful cascade after significant rainfall or barely a trickle in dry periods — go after rain (late winter through spring is peak flow).
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arkansas/hemmed-in-hollow-trail)
   - 🎬 Source: [Arkansas is keeping too many secrets — a nearly 210-foot waterfall](https://www.instagram.com/reel/DczeYNly63D/) by @heyarkansas (#None in that reel)
@@ -730,7 +776,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **11. [Burgess Falls](https://www.google.com/maps/search/?api=1&query=Burgess+Falls+TN)** — Burgess Falls State Park, Sparta
+- **15. [Burgess Falls](https://www.google.com/maps/search/?api=1&query=Burgess+Falls+TN)** — Burgess Falls State Park, Sparta
   - **Best for:** Waterfall — Ranked #10 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/burgess-falls-trail)
   - Coordinates verified against OpenStreetMap.
@@ -742,7 +788,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Orchard
 
-- **12. [Carter Mountain Orchard](https://www.google.com/maps/search/?api=1&query=Carter+Mountain+Orchard+Carter+Mountain+Orchard+VA)** — Carter Mountain Orchard, Charlottesville
+- **16. [Carter Mountain Orchard](https://www.google.com/maps/search/?api=1&query=Carter+Mountain+Orchard+Carter+Mountain+Orchard+VA)** — Carter Mountain Orchard, Charlottesville
   - **Best for:** Orchard / Pick-your-own apples and cider donuts above Charlottesville — A stop on Kelley & Carl's Virginia fall itinerary: pick apples and eat apple cider donuts (and other apple products) at Carter Mountain Orchard above Charlottesville. Open daily 9 AM-6 PM in October; tickets required on weekends.
   - Pin is the OSM Carter Mountain Orchard point south of Charlottesville.
   - 🎬 Source: [Virginia in the fall — Shenandoah Valley & Shenandoah National Park](https://www.instagram.com/p/DepVI1niWaG/) by @kelleyandcarlsadventures (#None in that reel)
@@ -755,7 +801,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **13. [Catawba Falls](https://www.google.com/maps/search/?api=1&query=Catawba+Falls+NC)** — Catawba Falls, Old Fort
+- **17. [Catawba Falls](https://www.google.com/maps/search/?api=1&query=Catawba+Falls+NC)** — Catawba Falls, Old Fort
   - **Best for:** Waterfall — Ranked #16 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/catawba-falls-trail)
   - Coordinates verified against OpenStreetMap.
@@ -769,7 +815,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **14. [Cathedral Falls](https://www.google.com/maps/search/?api=1&query=Cathedral+Falls+WV)** — Cathedral Falls, Gauley Bridge
+- **18. [Cathedral Falls](https://www.google.com/maps/search/?api=1&query=Cathedral+Falls+WV)** — Cathedral Falls, Gauley Bridge
   - **Best for:** Waterfall — Ranked #28 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/west-virginia/cathedral-falls)
   - Coordinates verified against OpenStreetMap.
@@ -781,11 +827,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **15. [Mingo Falls](https://www.google.com/maps/search/?api=1&query=Mingo+Falls+Cherokee+Indian+Reservation+NC)** — Cherokee Indian Reservation, Cherokee
+- **19. [Mingo Falls](https://www.google.com/maps/search/?api=1&query=Mingo+Falls+Cherokee+Indian+Reservation+NC)** — Cherokee Indian Reservation, Cherokee
   - **Best for:** Waterfall / 120-foot waterfall on the Qualla Boundary near the Smokies — From Kelley & Carl's fall-hikes list: Mingo Falls, close to Great Smoky Mountains National Park on the Cherokee Indian Reservation — a short 0.3-mile hike that requires climbing about 100 stairs (their checklist count; the staircase is ~161 steps) to one of the tallest waterfalls in the southern Appalachians.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/mingo-falls-trail)
   - Pin is the OSM Mingo Falls point on Big Cove Road, Cherokee, NC.
   - 🎬 Source: [Save these bucket list hikes for later — fall hikes](https://www.instagram.com/p/DdUMH5RFlvW/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / East Coast fall hikes top 10 — Mingo Falls (0.3-mile hike to a 120-ft waterfall) is one of Kelley & Carl's top 10 East Coast fall hikes.
 
 ### Congaree National Park
 
@@ -793,7 +841,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **16. [Boardwalk Loop](https://www.google.com/maps/search/?api=1&query=Boardwalk+Loop+Congaree+National+Park+SC)** — Congaree National Park, Hopkins
+- **20. [Boardwalk Loop](https://www.google.com/maps/search/?api=1&query=Boardwalk+Loop+Congaree+National+Park+SC)** — Congaree National Park, Hopkins
   - **Best for:** Hike / Giant trees · Elevated boardwalk through towering floodplain forest — Ranked #6 of the carousel's 10 hikes among giant trees: explore towering floodplain forest on a 2.6-mile boardwalk in Congaree National Park, South Carolina. (Kelley & Carl's National Park Checklist lists the same Boardwalk Loop: 2.3 miles, 15 ft gain, rated easy.)
   - Pin is the NPS-published Harry Hampton Visitor Center point — the Boardwalk Loop starts at the visitor center.
   - 🎬 Source: [10 hikes among giant trees across the USA](https://www.instagram.com/p/DfgBZshmdho/) by @nationalparksguide (#6 in that reel)
@@ -801,17 +849,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / Day 9 of their East Coast fall road trip (Congaree) — The Day 9 hike of Kelley & Carl's 9-day East Coast fall road trip: Congaree's Boardwalk Loop, paired with canoeing South Cedar Creek.
   - 🎬 Also recommended by: [Congaree — visiting 'one of the worst US national parks'](https://www.instagram.com/p/DeKRNJePiMR/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Recommended in their Congaree mini guide — Kelley & Carl recommend the Boardwalk Trail and the Weston Lake Loop for the most immersive Congaree experience.
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall trip, Congaree pick — The Boardwalk Loop is the land-side highlight of Kelley & Carl's East Coast fall road trip stop at Congaree (Days 10–11; they also recommend canoeing/kayaking).
 
 ##### Hiking
 
-- **17. [Weston Lake Loop Trail](https://www.google.com/maps/search/?api=1&query=Weston+Lake+Loop+Trail+Congaree+National+Park+SC)** — Congaree National Park, Hopkins
+- **21. [Weston Lake Loop Trail](https://www.google.com/maps/search/?api=1&query=Weston+Lake+Loop+Trail+Congaree+National+Park+SC)** — Congaree National Park, Hopkins
   - **Best for:** Hiking / Boardwalk and oxbow-lake loop — In their Congaree mini guide, Kelley & Carl recommend walking the Boardwalk Trail and the Weston Lake Loop for the most immersive experience of the park's old-growth bottomland forest.
   - Pin is at Weston Lake, the oxbow lake the loop circles.
   - 🎬 Source: [Congaree — visiting 'one of the worst US national parks'](https://www.instagram.com/p/DeKRNJePiMR/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### National park
 
-- **18. [Congaree National Park](https://www.google.com/maps/search/?api=1&query=Congaree+National+Park+Congaree+National+Park+SC)** — Congaree National Park, Hopkins
+- **22. [Congaree National Park](https://www.google.com/maps/search/?api=1&query=Congaree+National+Park+Congaree+National+Park+SC)** — Congaree National Park, Hopkins
   - **Best for:** National park / Old-growth bottomland hardwood floodplain forest — Day 9 of Kelley & Carl's 9-day East Coast fall road trip: the Boardwalk Loop (separate pin) and canoeing South Cedar Creek. Congaree is also on their list of parks you can see in one day.
   - Pin is the NPS-published Harry Hampton Visitor Center point — the same point as the Boardwalk Loop trailhead pin.
   - 🎬 Source: [9-day East Coast national park fall road trip](https://www.instagram.com/p/DdzVE55CTgz/) by @kelleyandcarlsadventures (#None in that reel)
@@ -824,7 +874,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **19. [Corkscrew Boardwalk](https://www.google.com/maps/search/?api=1&query=Corkscrew+Boardwalk+Corkscrew+Swamp+Sanctuary+FL)** — Corkscrew Swamp Sanctuary, Naples
+- **23. [Corkscrew Boardwalk](https://www.google.com/maps/search/?api=1&query=Corkscrew+Boardwalk+Corkscrew+Swamp+Sanctuary+FL)** — Corkscrew Swamp Sanctuary, Naples
   - **Best for:** Hike / Giant trees · Boardwalk through ancient bald cypress (admission required) — Ranked #9 of the carousel's 10 hikes among giant trees: walk 2.25 miles through wetlands and ancient bald cypress at Corkscrew Swamp Sanctuary, Florida. Admission required.
   - Pin is the OSM Corkscrew Swamp Sanctuary point; the boardwalk loops from the sanctuary visitor center.
   - 🎬 Source: [10 hikes among giant trees across the USA](https://www.instagram.com/p/DfgBZshmdho/) by @nationalparksguide (#9 in that reel)
@@ -835,7 +885,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **20. [Crabtree Falls (Virginia)](https://www.google.com/maps/search/?api=1&query=Crabtree+Falls+VA)** — Crabtree Falls, Montebello
+- **24. [Crabtree Falls (Virginia)](https://www.google.com/maps/search/?api=1&query=Crabtree+Falls+VA)** — Crabtree Falls, Montebello
   - **Best for:** Waterfall — Ranked #15 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/crabtree-falls)
   - Coordinates verified against OpenStreetMap.
@@ -847,7 +897,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **21. [Crabtree Falls (North Carolina)](https://www.google.com/maps/search/?api=1&query=Crabtree+Falls+Little+Switzerland+NC)** — Crabtree Falls (Blue Ridge Parkway), Little Switzerland
+- **25. [Crabtree Falls (North Carolina)](https://www.google.com/maps/search/?api=1&query=Crabtree+Falls+Little+Switzerland+NC)** — Crabtree Falls (Blue Ridge Parkway), Little Switzerland
   - **Best for:** Waterfall — Ranked #29 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/crabtree-falls-trail)
   - Coordinates verified against OpenStreetMap.
@@ -859,7 +909,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **22. [Cumberland Falls](https://www.google.com/maps/search/?api=1&query=Cumberland+Falls+KY)** — Cumberland Falls State Resort Park, Corbin
+- **26. [Cumberland Falls](https://www.google.com/maps/search/?api=1&query=Cumberland+Falls+KY)** — Cumberland Falls State Resort Park, Corbin
   - **Best for:** Waterfall — Ranked #2 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/kentucky/cumberland-falls-trails-4-and-6)
   - Coordinates verified against OpenStreetMap.
@@ -871,7 +921,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **23. [Cummins Falls](https://www.google.com/maps/search/?api=1&query=Cummins+Falls+TN)** — Cummins Falls State Park, Cookeville
+- **27. [Cummins Falls](https://www.google.com/maps/search/?api=1&query=Cummins+Falls+TN)** — Cummins Falls State Park, Cookeville
   - **Best for:** Waterfall — Ranked #20 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/cummins-falls-base-route-via-falls-overlook-trail-and-blackburn-fork)
   - Coordinates verified against OpenStreetMap.
@@ -883,7 +933,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Swimming
 
-- **24. [Devil's Den Prehistoric Spring](https://www.google.com/maps/search/?api=1&query=Devil's+Den+Spring+Williston+Florida)** — Devil's Den Spring (private), Williston
+- **28. [Devil's Den Prehistoric Spring](https://www.google.com/maps/search/?api=1&query=Devil's+Den+Spring+Williston+Florida)** — Devil's Den Spring (private), Williston
   - **Best for:** Swimming / Snorkel & dive · Underground spring inside a dry cave — Episode 1 of Jete's American Bucket List: Devil's Den in Williston, Florida (5390 NE 180th Ave) — you can swim inside the earth. It's an underground spring in a dry cave, over 100 feet across, reached only by descending a staircase into the sinkhole; it got its name because people once saw 'smoke' (winter steam) rising from the hole and thought it was where the devil lives. The water is 72°F year-round and you can snorkel or scuba dive — the reel's headline price was $30. Animal fossils from millions of years ago (Pleistocene finds, now at the UF Museum of Natural History) have been found down there.
   - Coordinates are the published Devil's Den Cave point (Wikipedia); the business's own listing puts it at the same spot (±0.001°). The Dyrt's printed coordinates (29.439, -82.530) are wrong and were rejected.
   - 🎬 Source: [Devil's Den, Florida — swim inside the earth for $30 (American Bucket List ep. 1)](https://www.instagram.com/reel/DdPj29cM2c6/) by @showmelovejete (#None in that reel)
@@ -894,7 +944,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Swimming hole
 
-- **25. [Devil's Bathtub](https://www.google.com/maps/search/?api=1&query=Devil's+Bathtub+Virginia)** — Devil's Fork Loop Trail / Jefferson National Forest, Fort Blackmore
+- **29. [Devil's Bathtub](https://www.google.com/maps/search/?api=1&query=Devil's+Bathtub+Virginia)** — Devil's Fork Loop Trail / Jefferson National Forest, Fort Blackmore
   - **Best for:** Swimming hole / Hike · Emerald rock pool down 13 creek crossings — 13 creek crossings to reach a bathtub the creek carved for itself: Devil's Bathtub near Fort Blackmore, VA (Scott County, ~30 min from Natural Tunnel) — emerald water swirling through a smooth rock pool, and the name is backed by ~65°F water even in July. The reel's practical card: the Devil's Fork Trail is ~4 mi round trip with 13 unbridged crossings (or a 7-mi no-crossing route), budget 3–5 hours and 3 PM as the last start; don't go if the water is above your knees — the holler flash floods; free lot at 312 High Knob SC, Dungannon VA (no roadside parking — towed); go weekdays or early. Swimming season is over by fall — the hike is the experience then.
   - Pin is the OSM attraction point for Devil's Bathtub itself.
   - 🎬 Source: [Devil's Bathtub, Virginia — 13 creek crossings to a rock-carved bathtub](https://www.instagram.com/reel/DfcrkQtt1Vn/) by @xirxaddy (#None in that reel)
@@ -905,10 +955,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **26. [Bear Rocks Preserve](https://www.google.com/maps/search/?api=1&query=Bear+Rocks+Preserve+Dolly+Sods+Wilderness+/+Monongahela+National+Forest+WV)** — Dolly Sods Wilderness / Monongahela National Forest, Davis
+- **30. [Bear Rocks Preserve](https://www.google.com/maps/search/?api=1&query=Bear+Rocks+Preserve+Dolly+Sods+Wilderness+/+Monongahela+National+Forest+WV)** — Dolly Sods Wilderness / Monongahela National Forest, Davis
   - **Best for:** Viewpoint / Sunrise over the Allegheny Front from wind-carved sandstone boulders — Kelley & Carl start Day 2 of their West Virginia itinerary with sunrise at Bear Rocks Preserve, the Dolly Sods Wilderness overlook where weathered sandstone boulders frame a vast view east over the Allegheny Front — one of the most famous sunrise spots in the state.
   - Coordinates from Wikipedia/Mapcarta for Bear Rocks Preserve.
   - 🎬 Source: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 places in the USA for nature lovers (that aren't national parks)](https://www.instagram.com/p/DRcsZtCCbBU/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Nature places that aren't national parks — Bear Rocks Preserve is one of Kelley & Carl's 10 places in the USA for nature lovers that aren't national parks.
 
 ### Dry Falls
 
@@ -916,7 +968,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **27. [Dry Falls](https://www.google.com/maps/search/?api=1&query=Dry+Falls+Highlands+NC)** — Dry Falls, Highlands
+- **31. [Dry Falls](https://www.google.com/maps/search/?api=1&query=Dry+Falls+Highlands+NC)** — Dry Falls, Highlands
   - **Best for:** Waterfall — Ranked #9 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/dry-falls-trail)
   - Coordinates verified against OpenStreetMap.
@@ -928,15 +980,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Historic site
 
-- **28. [Fort Jefferson](https://www.google.com/maps/search/?api=1&query=Fort+Jefferson+Dry+Tortugas+National+Park+FL)** — Dry Tortugas National Park, Monroe
+- **32. [Fort Jefferson](https://www.google.com/maps/search/?api=1&query=Fort+Jefferson+Dry+Tortugas+National+Park+FL)** — Dry Tortugas National Park, Monroe
   - **Best for:** Historic site / A sea fortress 70 miles from Key West — On Kelley & Carl's 16 bucket-list hikes list for Dry Tortugas: Fort Jefferson, the giant hexagonal brick fortress on Garden Key — the largest brick masonry structure in the Americas, reached by ferry or seaplane from Key West and ringed by snorkeling water.
   - 🎬 Source: [16 national park hikes that belong on your bucket list](https://www.instagram.com/p/DV_iymmjj6H/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Florida's 3 national parks road trip](https://www.instagram.com/reel/DX4uUHkJrkd/) by @kelleyandcarlsadventures
     - **Best for:** Landmark / Florida parks road trip stop — Fort Jefferson, the largest masonry structure in the Western Hemisphere, anchors the Dry Tortugas stop on Kelley & Carl's Florida parks road trip.
+  - 🎬 Also recommended by: [Florida's 3 national parks — one epic road trip](https://www.instagram.com/p/DUEEUB4Ccnd/) by @kelleyandcarlsadventures
+    - **Best for:** Landmark / Florida parks road trip stop — Fort Jefferson — hike the fort trail, check the moat walls, walk to Bush Key beach and snorkel — anchors the Dry Tortugas stop on Kelley & Carl's Florida parks road trip.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 3 — the fort walk — The Fort Jefferson Trail (0.7 easy miles walking on the fort; boat or seaplane required) is one of the ten epic hikes in Part 3 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Easiest hikes with epic views — The Fort Jefferson Trail (0.7 easy miles on the fort; boat or seaplane required) is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Snorkeling / Best-water parks, Dry Tortugas feature — Fort Jefferson and snorkeling anchor the Dry Tortugas section of Kelley & Carl's best-water parks feature.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Dry Tortugas favorite — The Fort Jefferson Trail — and walking the moat wall and snorkeling — are Kelley & Carl's favorite things at Dry Tortugas, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 3 — The Fort Jefferson Trail (0.4 miles, 0 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
 
 ##### Winter visit
 
-- **29. [Dry Tortugas National Park](https://www.google.com/maps/search/?api=1&query=Dry+Tortugas+National+Park+FL)** — Dry Tortugas National Park, Monroe
+- **33. [Dry Tortugas National Park](https://www.google.com/maps/search/?api=1&query=Dry+Tortugas+National+Park+FL)** — Dry Tortugas National Park, Monroe
   - **Best for:** Winter visit — Ranked #2 for winter, highlighting Fort Jefferson, underwater fish schools, turquoise coves and nesting frigatebirds.
   - 🎬 Source: [My Top 5 Winter National Parks](https://www.instagram.com/reel/DeiJu-bBcEn/) by @amorywild (#2 in that reel)
   - 🎬 Also recommended by: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild
@@ -950,15 +1014,33 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **30. [Anhinga Trail](https://www.google.com/maps/search/?api=1&query=Anhinga+Trail+Everglades+National+Park+FL)** — Everglades National Park, Homestead
+- **34. [Anhinga Trail](https://www.google.com/maps/search/?api=1&query=Anhinga+Trail+Everglades+National+Park+FL)** — Everglades National Park, Homestead
   - **Best for:** Hiking / Boardwalk over a slough packed with alligators, herons and anhingas — One of Kelley & Carl's favorite Everglades hikes on their Florida parks road trip: the Anhinga Trail at Royal Palm, a short boardwalk-and-pavement loop over a freshwater slough where alligators, turtles, herons and anhingas are almost guaranteed.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/florida/anhinga-trail)
   - Coordinates from Wikipedia (25.38167, -80.60972); the Florida Hikes trailhead listing agrees.
   - 🎬 Source: [Florida's 3 national parks road trip](https://www.instagram.com/reel/DX4uUHkJrkd/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Florida's 3 national parks — one epic road trip](https://www.instagram.com/p/DUEEUB4Ccnd/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Florida parks road trip favorite trail — The Anhinga Trail is one of Kelley & Carl's favorite Everglades hikes on their Florida parks road trip, alongside Mahogany Hammock and Pa-Hay-Okee (both added as new pins).
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 2 — The Anhinga Trail (0.8 easy miles — watch for alligators) is one of the ten epic hikes in Part 2 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Boardwalk / Epic national park hikes, Part 2 — The Anhinga Trail (0.8 miles, 0 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
+- **35. [Mahogany Hammock Trail](https://www.google.com/maps/search/?api=1&query=Mahogany+Hammock+Trail+Everglades+National+Park+FL)** — Everglades National Park, Homestead
+  - **Best for:** Hiking / Boardwalk through a tropical hardwood hammock — One of Kelley & Carl's favorite Everglades trails on their Florida parks road trip: the Mahogany Hammock boardwalk, a short loop through a dense tropical hardwood hammock — home to the largest living mahogany tree in the US.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/florida/mahogany-hammock-trail)
+  - Trailhead coordinates from Florida Hikes; Mapcarta agrees.
+  - 🎬 Source: [Florida's 3 national parks — one epic road trip](https://www.instagram.com/p/DUEEUB4Ccnd/) by @kelleyandcarlsadventures (#None in that reel)
+
+##### Viewpoint
+
+- **36. [Pa-Hay-Okee Overlook](https://www.google.com/maps/search/?api=1&query=Pa-Hay-Okee+Overlook+Everglades+National+Park+FL)** — Everglades National Park, Homestead
+  - **Best for:** Viewpoint / Boardwalk and tower over the river of grass — One of Kelley & Carl's favorite Everglades stops on their Florida parks road trip: the Pa-Hay-Okee Overlook, where a short boardwalk climbs to a lookout tower over an endless sawgrass prairie — the river of grass.
+  - Coordinates from the GeoNames record for the Pa-Hay-Okee Lookout Tower.
+  - 🎬 Source: [Florida's 3 national parks — one epic road trip](https://www.instagram.com/p/DUEEUB4Ccnd/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Wildlife
 
-- **31. [Shark Valley](https://www.google.com/maps/search/?api=1&query=Shark+Valley+Everglades+National+Park+FL)** — Everglades National Park, Miami area
+- **37. [Shark Valley](https://www.google.com/maps/search/?api=1&query=Shark+Valley+Everglades+National+Park+FL)** — Everglades National Park, Miami area
   - **Best for:** Wildlife / Must-see spot — The reel recommends Shark Valley as a can't-miss Everglades destination about 15 miles from Miami, with a 15-mile loop road best explored by bike or on foot, wildlife including alligators and wading birds, and a spiral observation tower over the sawgrass prairie.
   - 🎬 Source: [Favorite spot in the Everglades](https://www.instagram.com/reel/DfProEQAaZY/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Biking with alligators at Shark Valley](https://www.instagram.com/p/Dfh2Od4pYxO/) by @kelleyandcarlsadventures
@@ -967,10 +1049,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Wildlife / Florida parks road trip stop — Shark Valley — bike or tram the loop among the alligators — is a must in Kelley & Carl's Florida parks road trip through the Everglades.
   - 🎬 Also recommended by: [Biking Shark Valley with 100+ alligators](https://www.instagram.com/reel/DV6UIDGxUVr/) by @kelleyandcarlsadventures
     - **Best for:** Wildlife / Biking the loop with 100+ alligators — Kelley & Carl biked Shark Valley's 15-mile loop to the observation tower and counted over 100 alligators — babies to giants — along the way. Bike rentals and tram tours are available at the visitor center.
+  - 🎬 Also recommended by: [Florida's 3 national parks — one epic road trip](https://www.instagram.com/p/DUEEUB4Ccnd/) by @kelleyandcarlsadventures
+    - **Best for:** Wildlife / Florida parks road trip stop — Shark Valley — bike or tram the loop among the alligators — is a favorite Everglades activity in Kelley & Carl's Florida parks road trip.
 
 ##### Winter visit
 
-- **32. [Everglades National Park](https://www.google.com/maps/search/?api=1&query=Everglades+National+Park+FL)** — Everglades National Park, Homestead
+- **38. [Everglades National Park](https://www.google.com/maps/search/?api=1&query=Everglades+National+Park+FL)** — Everglades National Park, Homestead
   - **Best for:** Winter visit — Listed jointly at #5 for winter with Biscayne, shown with alligators, a boardwalk tower and sunny wildlife viewing.
   - 🎬 Source: [My Top 5 Winter National Parks](https://www.instagram.com/reel/DeiJu-bBcEn/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [Wildlife — Everglades National Park](https://www.instagram.com/reel/Ddot1ynPIHd/) by @amorywild
@@ -984,7 +1068,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **33. [Falling Spring Falls](https://www.google.com/maps/search/?api=1&query=Falling+Spring+Falls+VA)** — Falling Spring Falls, Covington
+- **39. [Falling Spring Falls](https://www.google.com/maps/search/?api=1&query=Falling+Spring+Falls+VA)** — Falling Spring Falls, Covington
   - **Best for:** Waterfall — Ranked #32 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#32 in that reel)
@@ -995,7 +1079,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Lodging
 
-- **34. [Hill Hall Hotel](https://www.google.com/maps/search/?api=1&query=Hill+Hall+Hotel+Fayetteville+WV)** — Fayetteville, Fayetteville
+- **40. [Hill Hall Hotel](https://www.google.com/maps/search/?api=1&query=Hill+Hall+Hotel+Fayetteville+WV)** — Fayetteville, Fayetteville
   - **Best for:** Lodging / Boutique hotel in a former school — Out of all the places Kelley & Carl have stayed while visiting New River Gorge National Park, this is their favorite: the Hill Hall Hotel, Fayetteville's former high school and middle school turned boutique hotel, just 7 minutes from the Canyon Rim Visitor Center — with Patsy's restaurant and bar, a courtyard fire pit, a cozy lounge and a 24-hour pantry, all nodding to its school days.
   - 135 High Street, Fayetteville; coordinates from the hotel's place listing (38.053438, -81.10754).
   - 🎬 Source: [Our favorite stay near New River Gorge — Hill Hall Hotel](https://www.instagram.com/p/DfNU2vcJFam/) by @kelleyandcarlsadventures (#None in that reel)
@@ -1006,7 +1090,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **35. [Big Schloss](https://www.google.com/maps/search/?api=1&query=Big+Schloss+George+Washington+National+Forest+VA)** — George Washington National Forest, Woodstock
+- **41. [Big Schloss](https://www.google.com/maps/search/?api=1&query=Big+Schloss+George+Washington+National+Forest+VA)** — George Washington National Forest, Woodstock
   - **Best for:** Hiking / Sunset summit — castle-like rock outcrop — Aleah + Seth's favorite sunset hike about two hours from Washington, DC: Big Schloss ('Big Castle' in German) via the Wolf Gap Trail — 4.3 miles round trip, 1,046 feet of gain, moderate — climbing Great North Mountain to a castle-like sandstone summit (2,964 ft) on the Virginia/West Virginia line. Their post-hike stop: the Woodstock Brewhouse in Woodstock for beer and nachos.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/west-virginia/big-schloss-via-wolf-gap-trail)
   - Summit coordinates from Wikipedia (38.94056, -78.66583); the USFS place record (38.941389, -78.666096) agrees. The summit sits on the VA/WV state line in George Washington National Forest; the trailhead is Wolf Gap Recreation Area.
@@ -1018,21 +1102,34 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Wild ponies
 
-- **36. [Grayson Highlands State Park](https://www.google.com/maps/search/?api=1&query=Grayson+Highlands+State+Park+Grayson+Highlands+State+Park+VA)** — Grayson Highlands State Park, Grayson Highlands State Park
+- **42. [Grayson Highlands State Park](https://www.google.com/maps/search/?api=1&query=Grayson+Highlands+State+Park+Grayson+Highlands+State+Park+VA)** — Grayson Highlands State Park, Grayson Highlands State Park
   - **Best for:** Wild ponies / Wildlife — Caption and on-screen text place a POV wild-pony watch in Grayson Highlands. Ponies graze on a rocky, windswept ridge above layered blue mountains and morning mist, with scattered evergreens and fence posts across the open highland.
   - 🎬 Source: [Wildlife / Scenic landscape — Grayson Highlands State Park](https://www.instagram.com/reel/DdXqhfIPYDU/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Wildlife / Scenic landscape — Grayson Highlands State Park](https://www.instagram.com/reel/Ddcu9EaOHnT/) by @amorywild
     - **Best for:** Wild ponies / Wildlife — Caption names Grayson Highlands for its wild ponies. In a sunny mountain meadow, a large gray horse with a dark face and long blonde mane stands calmly near the trail; on-screen text jokes, 'They said "wild ponies" but I wasn't expecting this guy...'
   - 🎬 Also recommended by: [US state parks that really pack a punch](https://www.instagram.com/p/DWEtOPtDt6X/) by @kelleyandcarlsadventures
     - **Best for:** State park / Favorite state parks list — Grayson Highlands State Park is one of Kelley & Carl's all-time favorite US state parks — wild horses roam the park; they hiked Wilburn Ridge via the Appalachian Trail and loved it.
+  - 🎬 Also recommended by: [10 places in the USA for nature lovers (that aren't national parks)](https://www.instagram.com/p/DRcsZtCCbBU/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Nature places that aren't national parks — Grayson Highlands State Park, with its grazing wild ponies, is one of Kelley & Carl's 10 places in the USA for nature lovers that aren't national parks.
 
 ### Great Smoky Mountains National Park
+
+#### North Carolina
+
+##### Sunset
+
+- **43. [Charles A. Webb Overlook](https://www.google.com/maps/search/?api=1&query=Charles+A.+Webb+Overlook+Great+Smoky+Mountains+National+Park+NC)** — Great Smoky Mountains National Park, Cherokee
+  - **Best for:** Sunset / Favorite Smokies sunset overlook — layered ridges to Kuwohi — Kelley & Carl's favorite sunset overlook in Great Smoky Mountains National Park: the Charles A. Webb Overlook on Newfound Gap Road — 'we love the mountain layers here'; peak fall colors usually come mid-to-late October.
+  - Coordinates from the recorded place point for the overlook on US-441.
+  - 🎬 Source: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / East Coast fall overlooks top 10 — The Charles A Webb Overlook in the Smokies is one of Kelley & Carl's top 10 East Coast fall overlooks (the pin's primary source is their sunset-spots list).
 
 #### Tennessee
 
 ##### Hike
 
-- **37. [Mt. Le Conte](https://www.google.com/maps/search/?api=1&query=Mt.+Le+Conte+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Great Smoky Mountains National Park
+- **44. [Mt. Le Conte](https://www.google.com/maps/search/?api=1&query=Mt.+Le+Conte+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Great Smoky Mountains National Park
   - **Best for:** Hike / Summit — Caption names Mt Le Conte, Great Smoky Mountains National Park. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/mount-leconte-via-trillium-gap)
   - 🎬 Source: [Summit hike — Mt. Le Conte](https://www.instagram.com/reel/DGA9Wbzu2VA/) by @amorywild (#None in that reel)
@@ -1045,7 +1142,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **38. [Alum Cave Trail](https://www.google.com/maps/search/?api=1&query=Alum+Cave+Trail+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- **45. [Alum Cave Trail](https://www.google.com/maps/search/?api=1&query=Alum+Cave+Trail+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** Sunrise — Ranked #4 for sunrise in the reel. Layered forested ridges illuminated by soft sunrise light.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/alum-cave-trail-to-mount-leconte)
   - Trailhead on Newfound Gap Road (US-441). Trail passes Arch Rock and its own Inspiration Point on the way to Alum Cave Bluffs and Mount Le Conte.
@@ -1058,10 +1155,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / Toughest climbs list — to LeConte and Myrtle Point, 12 mi, 3,100+ ft — On Kelley & Carl's toughest-climbs list: Myrtle Point & Mount LeConte via the Alum Cave Trail — 12 miles, over 3,100 ft of gain; visit in May/June for wildflowers.
   - 🎬 Also recommended by: [Our favorite hike in each of the 10 most-visited national parks](https://www.instagram.com/p/DY2zUn7Eqe7/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite hike in the Smokies — The Alum Cave Trail to Mount LeConte is Kelley & Carl's favorite hike in Great Smoky Mountains National Park — 11 miles round trip, 3,080 feet of gain.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in the Smokies (#1 most visited) — The Alum Cave Trail to Mount LeConte (11 miles RT, 3,080 ft) is Kelley & Carl's favorite hike in Great Smoky Mountains, the #1 most visited park in their countdown.
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall trip, Smokies pick — The Alum Cave Trail (toward Mount LeConte) is one of the Smokies hikes in Kelley & Carl's East Coast fall road trip (Days 8–9).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — The Alum Cave Trail (5 miles to the cave bluffs, 1,200 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
 
 ##### Sunset
 
-- **39. [Kuwohi](https://www.google.com/maps/search/?api=1&query=Kuwohi+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Newfound Gap area
+- **46. [Kuwohi](https://www.google.com/maps/search/?api=1&query=Kuwohi+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Newfound Gap area
   - **Best for:** Sunset / View — Caption names Kuwohi in Great Smoky Mountains National Park at sunset. He says he does not like crowds but this view was worth it, with panoramic blue mountain ranges under an orange and pink sky from a busy viewpoint.
   - The summit straddles the Tennessee/North Carolina line in the Smokies; it is listed under Tennessee, as in the source post.
   - 🎬 Source: [Sunset viewpoint — Kuwohi](https://www.instagram.com/reel/De4PHHjPzGT/) by @amorywild (#None in that reel)
@@ -1070,7 +1173,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top national park (East)
 
-- **40. [Great Smoky Mountains National Park](https://www.google.com/maps/search/?api=1&query=Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- **47. [Great Smoky Mountains National Park](https://www.google.com/maps/search/?api=1&query=Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** Top national park (East) — Ranked #1 in the East, praised for its popularity and scenery, with layered mountain ranges, a large waterfall, misty peaks and a black bear in a stream.
   - 🎬 Source: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild (#1 in that reel)
   - 🎬 Also recommended by: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild
@@ -1080,15 +1183,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **41. [Cades Cove](https://www.google.com/maps/search/?api=1&query=Cades+Cove+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Townsend
+- **48. [Cades Cove](https://www.google.com/maps/search/?api=1&query=Cades+Cove+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Townsend
   - **Best for:** View / Scenic valley — On-screen text and caption name Cades Cove in Great Smoky Mountains National Park. The video glides over the cove's open fields and wooden fences toward forested, cloud-shrouded mountains in a quiet, overcast scene.
   - 🎬 Source: [Scenic viewpoint — Cades Cove](https://www.instagram.com/reel/DGVmKctIIzr/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [9-day East Coast national park fall road trip](https://www.instagram.com/p/DdzVE55CTgz/) by @kelleyandcarlsadventures
     - **Best for:** Scenic drive / Days 6-8 of their East Coast fall road trip (Smokies) — A named stop for the Great Smoky Mountains days (6-8) of Kelley & Carl's 9-day East Coast fall road trip: the Cades Cove Loop, alongside Newfound Gap Road, Alum Cave Trail and Laurel Falls.
-- **42. [Mount Cammerer Fire Tower](https://www.google.com/maps/search/?api=1&query=Mount+Cammerer+Fire+Tower+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Great Smoky Mountains National Park
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / East Coast fall trip, Smokies pick — The Cades Cove Loop is one of the scenic drives in Kelley & Carl's East Coast fall road trip coverage of the Smokies.
+- **49. [Mount Cammerer Fire Tower](https://www.google.com/maps/search/?api=1&query=Mount+Cammerer+Fire+Tower+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Great Smoky Mountains National Park
   - **Best for:** View — Captioned 'Double rainbow at Mount Cammerer fire tower in Great Smoky Mountain National Park.' No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - 🎬 Source: [Fire tower view — Mount Cammerer Fire Tower](https://www.instagram.com/reel/DF_OsTTyyi0/) by @amorywild (#None in that reel)
-- **43. [Myrtle Point](https://www.google.com/maps/search/?api=1&query=Myrtle+Point+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- **50. [Myrtle Point](https://www.google.com/maps/search/?api=1&query=Myrtle+Point+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** View — Caption names Myrtle Point, and he identifies it in the video as one of his favorite viewpoints in Great Smoky Mountains National Park, with layers of forest-covered ridges fading into blue haze.
   - 🎬 Source: [Favorite viewpoint](https://www.instagram.com/reel/Deuf1XjvQ4O/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Hikes](https://www.instagram.com/reel/Ddpitf0BMb-/) by @amorywild
@@ -1102,22 +1207,22 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **44. [Abrams Falls](https://www.google.com/maps/search/?api=1&query=Abrams+Falls+TN)** — Great Smoky Mountains National Park, Townsend
+- **51. [Abrams Falls](https://www.google.com/maps/search/?api=1&query=Abrams+Falls+TN)** — Great Smoky Mountains National Park, Townsend
   - **Best for:** Waterfall — Ranked #38 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/abrams-falls-trail)
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#38 in that reel)
-- **45. [Grotto Falls](https://www.google.com/maps/search/?api=1&query=Grotto+Falls+Gatlinburg+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- **52. [Grotto Falls](https://www.google.com/maps/search/?api=1&query=Grotto+Falls+Gatlinburg+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** Waterfall — Ranked #31 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/grotto-falls-trail)
   - Pin is the Grotto Falls trailhead parking on the Roaring Fork Motor Nature Trail (OpenStreetMap); the falls are a short walk up the Trillium Gap Trail.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#31 in that reel)
-- **46. [Rainbow Falls (Smokies)](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Gatlinburg+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- **53. [Rainbow Falls (Smokies)](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Gatlinburg+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** Waterfall — Ranked #23 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/rainbow-falls-trail)
   - Coordinates from waterfallhikes.com (USGS-based data); the falls are not a named feature in OpenStreetMap. The 80-ft falls are the tallest single-drop waterfall in the Smokies.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#23 in that reel)
-- **47. [Ramsey Cascades](https://www.google.com/maps/search/?api=1&query=Ramsey+Cascades+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
+- **54. [Ramsey Cascades](https://www.google.com/maps/search/?api=1&query=Ramsey+Cascades+Great+Smoky+Mountains+National+Park+TN)** — Great Smoky Mountains National Park, Gatlinburg
   - **Best for:** Waterfall — Ranked #5 waterfall, shown as water flowing over dark rocks in the forest in the Smokies.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/ramsey-cascades-trail)
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#5 in that reel)
@@ -1128,7 +1233,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **48. [Cascades Falls](https://www.google.com/maps/search/?api=1&query=Cascades+Falls+Pembroke+VA)** — Jefferson National Forest, Pembroke
+- **55. [Cascades Falls](https://www.google.com/maps/search/?api=1&query=Cascades+Falls+Pembroke+VA)** — Jefferson National Forest, Pembroke
   - **Best for:** Waterfall / 66-foot waterfall at the end of a creekside climb — One of the best hikes in Virginia, and the waterfall is incredible: Cascades Falls in Pembroke, Virginia — she hiked it with her 8-year-old. It's 2 miles out and 2 miles back plus lots of elevation gain — a hard hike for beginners, but doable with kids (not recommended for kids under 6). About 4 hours from northern Virginia and 3 hours from Richmond. Her tips for solo moms and solo adventurers: bring way more water than you think you'll need and be prepared to take many breaks. (The falls themselves are a 66-foot cascade on Little Stony Creek, reached by the Cascades National Recreation Trail — US Forest Service.)
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/cascades-falls-trail)
   - Pin is the falls themselves on Little Stony Creek (published waterfall GPS; trail guides and the Forest Service agree). The Cascades Day Use Area trailhead/parking is ~1.5 mi southwest at 37.35301, -80.59984 (2068 Cascade Dr, $3/car day-use fee).
@@ -1140,7 +1245,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **49. [Linville Falls](https://www.google.com/maps/search/?api=1&query=Linville+Falls+NC)** — Linville Falls, Linville
+- **56. [Linville Falls](https://www.google.com/maps/search/?api=1&query=Linville+Falls+NC)** — Linville Falls, Linville
   - **Best for:** Waterfall — Ranked #8 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/linville-falls-trail)
   - Coordinates verified against OpenStreetMap.
@@ -1152,7 +1257,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **50. [Looking Glass Falls](https://www.google.com/maps/search/?api=1&query=Looking+Glass+Falls+NC)** — Looking Glass Falls (Pisgah National Forest), Brevard
+- **57. [Looking Glass Falls](https://www.google.com/maps/search/?api=1&query=Looking+Glass+Falls+NC)** — Looking Glass Falls (Pisgah National Forest), Brevard
   - **Best for:** Waterfall — Ranked #11 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/looking-glass-waterfalls)
   - Coordinates verified against OpenStreetMap.
@@ -1164,7 +1269,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **51. [Sunset Rock](https://www.google.com/maps/search/?api=1&query=Sunset+Rock+Lookout+Mountain+TN)** — Lookout Mountain, Lookout Mountain
+- **58. [Sunset Rock](https://www.google.com/maps/search/?api=1&query=Sunset+Rock+Lookout+Mountain+TN)** — Lookout Mountain, Lookout Mountain
   - **Best for:** Sunset / View — Caption names Sunset Rock, Chattanooga, TN, tagged #sunset and #mountains; the tagged location is Sunset Rock. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - 🎬 Source: [Sunset viewpoint — Sunset Rock](https://www.instagram.com/reel/DGLkNTrpHLu/) by @amorywild (#None in that reel)
 
@@ -1174,7 +1279,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Cave
 
-- **52. [Mammoth Cave National Park](https://www.google.com/maps/search/?api=1&query=Mammoth+Cave+National+Park+Mammoth+Cave+National+Park+KY)** — Mammoth Cave National Park, Mammoth Cave National Park
+- **59. [Mammoth Cave National Park](https://www.google.com/maps/search/?api=1&query=Mammoth+Cave+National+Park+Mammoth+Cave+National+Park+KY)** — Mammoth Cave National Park, Mammoth Cave National Park
   - **Best for:** Cave / Hike — Captioned 'I wanna go in there…' and hashtagged #mammothcavenationalpark — the cave entrance at Mammoth Cave National Park; no specific tour or entrance is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - Park-level pin is the park's Nominatim point by the visitor centre.
   - 🎬 Source: [Cave — Mammoth Cave National Park](https://www.instagram.com/reel/DF-n5DkJxuk/) by @amorywild (#None in that reel)
@@ -1185,7 +1290,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **53. [Dixon Cave, Green River Bluffs & River Styx Spring Loop](https://www.google.com/maps/search/?api=1&query=Dixon+Cave,+Green+River+Bluffs+&+River+Styx+Spring+Loop+Mammoth+Cave+National+Park+KY)** — Mammoth Cave National Park, Mammoth Cave National Park
+- **60. [Dixon Cave, Green River Bluffs & River Styx Spring Loop](https://www.google.com/maps/search/?api=1&query=Dixon+Cave,+Green+River+Bluffs+&+River+Styx+Spring+Loop+Mammoth+Cave+National+Park+KY)** — Mammoth Cave National Park, Mammoth Cave National Park
   - **Best for:** Hiking / Above-ground cave-country loop — Kelley & Carl's favorite above-ground hike at Mammoth Cave — the Dixon Cave, Green River Bluffs and River Styx Spring Loop gives 'the best bang for your buck.' For a longer day they suggest extending it with Echo River Springs, the Sinkhole Trail and the Heritage Trail; the short Heritage Trail alone is their pick for a quick leg-stretch.
   - 🎬 Source: [Mammoth Cave — the world's longest cave system](https://www.instagram.com/p/DfffhovJnwr/) by @kelleyandcarlsadventures (#None in that reel)
 
@@ -1195,7 +1300,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **54. [Massanutten Scenic Chairlift](https://www.google.com/maps/search/?api=1&query=Massanutten+Scenic+Chairlift+Massanutten+Resort+VA)** — Massanutten Resort, Massanutten
+- **61. [Massanutten Scenic Chairlift](https://www.google.com/maps/search/?api=1&query=Massanutten+Scenic+Chairlift+Massanutten+Resort+VA)** — Massanutten Resort, Massanutten
   - **Best for:** Viewpoint / Scenic chairlift rides over the Shenandoah Valley — A non-hiking stop on Kelley & Carl's Virginia fall itinerary: the Massanutten Scenic Chairlift at Massanutten Resort — open Friday through Sunday, 10 AM-4:30 PM in fall — for valley views without the climb.
   - Pin is the OSM Massanutten Resort point; the scenic chairlift runs from the resort's ski lodge area.
   - 🎬 Source: [Virginia in the fall — Shenandoah Valley & Shenandoah National Park](https://www.instagram.com/p/DepVI1niWaG/) by @kelleyandcarlsadventures (#None in that reel)
@@ -1208,7 +1313,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **55. [Spruce Knob](https://www.google.com/maps/search/?api=1&query=Spruce+Knob+Monongahela+National+Forest+WV)** — Monongahela National Forest, Circleville
+- **62. [Spruce Knob](https://www.google.com/maps/search/?api=1&query=Spruce+Knob+Monongahela+National+Forest+WV)** — Monongahela National Forest, Circleville
   - **Best for:** Viewpoint / Highest point in West Virginia (4,863 ft) — Day 2 of Kelley & Carl's West Virginia itinerary drives up to Spruce Knob, the highest point in West Virginia at 4,863 feet — a paved road to a summit observation tower above a windswept spruce forest, with views across the Alleghenies.
   - Coordinates from the USFS Spruce Knob place record; Wikipedia agrees (38.69972, -79.53278).
   - 🎬 Source: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures (#None in that reel)
@@ -1219,7 +1324,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Summit · Highest peak in the eastern US (6,684 ft)
 
-- **56. [Mount Mitchell](https://www.google.com/maps/search/?api=1&query=Mount+Mitchell+State+Park+NC)** — Mount Mitchell State Park, Burnsville
+- **63. [Mount Mitchell](https://www.google.com/maps/search/?api=1&query=Mount+Mitchell+State+Park+NC)** — Mount Mitchell State Park, Burnsville
   - **Best for:** Summit · Highest peak in the eastern US (6,684 ft) — At 6,684 feet, Mount Mitchell is the highest peak in the eastern United States — the highest point east of the Mississippi. The reel puts it on the North Carolina bucket list for the sweeping Blue Ridge Mountain views that make the drive up (off the Blue Ridge Parkway, near Asheville) worth it.
   - Pin is the summit (Nominatim peak point).
   - 🎬 Source: [The highest point east of the Mississippi](https://www.instagram.com/reel/DcrlGvTzOIc/) by @travelguidesasheville (#None in that reel)
@@ -1230,7 +1335,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Adventure
 
-- **57. [NRocks Via Ferrata](https://www.google.com/maps/search/?api=1&query=NRocks+Via+Ferrata+Nelson+Rocks+WV)** — Nelson Rocks, Circleville
+- **64. [NRocks Via Ferrata](https://www.google.com/maps/search/?api=1&query=NRocks+Via+Ferrata+Nelson+Rocks+WV)** — Nelson Rocks, Circleville
   - **Best for:** Adventure / Via ferrata on twin sandstone fins — Kelley & Carl call the NRocks via ferrata at Circleville an East Coast bucket-list adventure: one of the only via ferratas on the East Coast and the longest east of the Mississippi — over 1,000 feet of climbing on cables and rungs across twin sandstone fins and a suspension bridge, clipped in the whole way.
   - Pin is the Nelson Rocks summit point from OpenStreetMap.
   - 🎬 Source: [NRocks via ferrata — an East Coast bucket list adventure](https://www.instagram.com/p/DfK-FAfpLM7/) by @kelleyandcarlsadventures (#None in that reel)
@@ -1245,7 +1350,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **58. [Wolf Creek Falls](https://www.google.com/maps/search/?api=1&query=Wolf+Creek+Falls+New+River+Gorge+WV)** — New River Gorge National Park, Fayetteville
+- **65. [Wolf Creek Falls](https://www.google.com/maps/search/?api=1&query=Wolf+Creek+Falls+New+River+Gorge+WV)** — New River Gorge National Park, Fayetteville
   - **Best for:** Waterfall — Amory's #5 unique national park waterfall: Wolf Creek Falls in New River Gorge — a wide, moss-covered cascade where water seeps and sheets over rocks beside the hiking trail.
   - Approximate pin — it sits on Wolf Creek by Fayette Station Road (the USGS place-name point for the creek); the falls itself is not a separately mapped feature.
   - 🎬 Source: [Top 5 Unique National Park Waterfalls](https://www.instagram.com/reel/DfS6lozBjPr/) by @amorywild (#5 in that reel)
@@ -1256,14 +1361,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Adventure
 
-- **59. [New River Gorge Bridge Walk](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+Bridge+Walk+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
+- **66. [New River Gorge Bridge Walk](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+Bridge+Walk+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
   - **Best for:** Adventure / Guided catwalk walk 876 ft above the New River, under the bridge deck — Day 4 of Kelley & Carl's West Virginia itinerary: the Bridge Walk, a guided walk along the 2-foot-wide catwalk beneath the New River Gorge Bridge — 3,030 feet across and 876 feet above the river, harnessed to a safety cable the whole way.
   - Coordinates are the New River Gorge Bridge's (Wikipedia).
   - 🎬 Source: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Adventure / Underrated parks — New River Gorge favorite — The BridgeWalk is one of Kelley & Carl's favorite spots in New River Gorge, in their most-underrated-parks list.
 
 ##### Hike
 
-- **60. [Endless Wall Trail](https://www.google.com/maps/search/?api=1&query=Endless+Wall+Trail+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
+- **67. [Endless Wall Trail](https://www.google.com/maps/search/?api=1&query=Endless+Wall+Trail+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
   - **Best for:** Hike / Cliff-edge trail along the gorge rim, past Diamond Point — From Kelley & Carl's fall-hikes list: 'one of our favorite trails in New River Gorge National Park that zig zags along the cliff edges on the gorge' — about 5.4 miles round trip (the Fern Creek-Nuttallburg out-and-back) with 508 ft of gain. Also on their most-rewarding and perfect-hikes lists.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/west-virginia/endless-wall)
   - Pin is the OSM Endless Wall Trail path point near the Fern Creek trailhead.
@@ -1282,23 +1389,37 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Perfect hike — Endless Wall is one of Kelley & Carl's 'perfect' hikes — their favorite trail in New River Gorge, zig-zagging along the cliff edges for about 5.3 miles round trip with 538 feet of gain.
   - 🎬 Also recommended by: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / West Virginia itinerary Day 3 hike — The Endless Wall Trail (3.2 easy miles) is a Day 3 hike in Kelley & Carl's 5-day West Virginia itinerary.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 2 — fall color — The Endless Wall Trail (5.3 moderate miles, 538 ft; peak fall foliage mid-late October) is one of the ten epic hikes in Part 2 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — 'our favorite trail in New River Gorge' — The Endless Wall (about 5.3 miles RT, 538 ft) is Kelley & Carl's favorite trail in New River Gorge and one of their 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — New River Gorge favorite — The Endless Wall Trail is one of Kelley & Carl's favorite spots in New River Gorge, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall trip, New River Gorge pick — The Endless Wall Trail is part of Kelley & Carl's East Coast fall road trip coverage of New River Gorge (Days 6–7).
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall hikes top 10 — The Endless Wall Trail (2.4 miles, 360 ft) is one of Kelley & Carl's top 10 East Coast fall hikes.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 2 — The Endless Wall Trail (2.4 miles, 350 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
 
 ##### Hiking
 
-- **61. [Kaymoor Miners Trail](https://www.google.com/maps/search/?api=1&query=Kaymoor+Miners+Trail+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
+- **68. [Kaymoor Miners Trail](https://www.google.com/maps/search/?api=1&query=Kaymoor+Miners+Trail+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
   - **Best for:** Hiking / Mine ruins and an 821-step staircase — One of Kelley & Carl's three favorite New River Gorge hikes — the Kaymoor Miners Trail, descending past the old mine site and its famous staircase to the ruins of the Kaymoor coal camp at river level.
   - 🎬 Source: [New River Gorge — one of the wildest national parks](https://www.instagram.com/p/DfID97CJ5o8/) by @kelleyandcarlsadventures (#None in that reel)
-- **62. [Long Point Trail](https://www.google.com/maps/search/?api=1&query=Long+Point+Trail+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
+- **69. [Long Point Trail](https://www.google.com/maps/search/?api=1&query=Long+Point+Trail+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
   - **Best for:** Hiking / The classic bridge viewpoint — One of Kelley & Carl's three favorite New River Gorge hikes — the Long Point Trail, an easy walk out to a rock point staring straight at the New River Gorge Bridge.
   - 🎬 Source: [New River Gorge — one of the wildest national parks](https://www.instagram.com/p/DfID97CJ5o8/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / New River Gorge favorite, underrated parks list — The Long Point Trail is one of Kelley & Carl's favorite spots in underrated New River Gorge National Park.
   - 🎬 Also recommended by: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / West Virginia itinerary Day 4 hike — The Long Point Trail (3 easy miles) is a Day 4 hike in Kelley & Carl's 5-day West Virginia itinerary.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — New River Gorge favorite — The Long Point Trail is one of Kelley & Carl's favorite spots in New River Gorge, in their most-underrated-parks list.
 
 ##### Landmark
 
-- **63. [New River Gorge Bridge](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+Bridge+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
+- **70. [New River Gorge Bridge](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+Bridge+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Fayetteville
   - **Best for:** Landmark / Bridge Day — BASE jumping off the 876-ft bridge — Kelley & Carl's Bridge Day feature: once a year, on the third Saturday of October, West Virginia's largest single-day festival closes the 876-foot New River Gorge Bridge so BASE jumpers can leap — and be catapulted — off it, with rappelling, catwalk walks, a 5K, food trucks and local art; you can also watch the jumpers from riverside Fayette Station Road.
   - 🎬 Source: [Bridge Day at New River Gorge](https://www.instagram.com/p/DfFZoWYPH05/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [New River Gorge — one of the wildest national parks](https://www.instagram.com/p/DfID97CJ5o8/) by @kelleyandcarlsadventures
@@ -1310,15 +1431,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **64. [Grandview](https://www.google.com/maps/search/?api=1&query=Grandview+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Beckley
+- **71. [Grandview](https://www.google.com/maps/search/?api=1&query=Grandview+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Beckley
   - **Best for:** Overlook / The gorge's grandest rim view — Grandview is one of Kelley & Carl's favorite New River Gorge spots — the park's namesake overlook, 1,400 feet above the river, with the Main Overlook rim view and trails like Turkey Spur and Castle Rock.
   - 🎬 Source: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / West Virginia itinerary Day 5 overlook — Grandview's Main Overlook is a Day 5 stop in Kelley & Carl's 5-day West Virginia itinerary.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Underrated parks — New River Gorge favorite — Grandview is one of Kelley & Carl's favorite spots in New River Gorge, in their most-underrated-parks list.
 
 ##### Underrated park
 
-- **65. [New River Gorge National Park and Preserve](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+National+Park+and+Preserve+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Oak Hill
+- **72. [New River Gorge National Park and Preserve](https://www.google.com/maps/search/?api=1&query=New+River+Gorge+National+Park+and+Preserve+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Oak Hill
   - **Best for:** Underrated park — His #5 in '5 Most Underrated National Parks' (of the 63 he has visited): autumn-colored forests, the large steel arch bridge spanning the gorge, the river below, and a mossy waterfall.
   - Park-level pin is the park's Nominatim point in its southern district.
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#5 in that reel)
@@ -1326,13 +1449,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / 'One of the wildest national parks we've visited' — Kelley & Carl's New River Gorge activities guide calls it one of the wildest national parks they've visited — something for everyone across nearly 100 miles of trails: Bridge Day BASE jumping (third Saturday of October, off the 876-foot bridge), favorite hikes Long Point, Endless Wall and Kaymoor Miners, the Bridge Walk catwalk tour, whitewater rafting from Class I-III up to III-IV, 1,600+ climbing routes, trail races up to a 100-mile ultra, and the Arrowhead mountain-bike trails.
   - 🎬 Also recommended by: [Bridge Day at New River Gorge](https://www.instagram.com/p/DfFZoWYPH05/) by @kelleyandcarlsadventures
     - **Best for:** National park / Bridge Day festival — Kelley & Carl's Bridge Day feature is set in New River Gorge: the bridge closes to traffic on the third Saturday of October for West Virginia's largest single-day festival, one of the world's largest extreme sports events.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — New River Gorge is one of the 17 national parks Kelley & Carl rated from their 2025 travels.
 
 ##### Viewpoint
 
-- **66. [Canyon Rim Overlook Boardwalk](https://www.google.com/maps/search/?api=1&query=Canyon+Rim+Overlook+Boardwalk+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Lansing
+- **73. [Canyon Rim Overlook Boardwalk](https://www.google.com/maps/search/?api=1&query=Canyon+Rim+Overlook+Boardwalk+New+River+Gorge+National+Park+and+Preserve+WV)** — New River Gorge National Park and Preserve, Lansing
   - **Best for:** Viewpoint / Boardwalk overlook of the New River Gorge Bridge — On Day 3 of Kelley & Carl's West Virginia itinerary, the Canyon Rim Overlook Boardwalk at the Canyon Rim Visitor Center descends by boardwalk and stairs to a lower viewpoint staring straight at the New River Gorge Bridge, 876 feet above the river.
   - Coordinates for the boardwalk's lower viewpoint (annestravels.net GPS); the NPS Canyon Rim Visitor Center sits just east at 38.070087, -81.07588.
   - 🎬 Source: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Underrated parks — New River Gorge favorite — The New River Gorge Bridge Overlook (the Canyon Rim boardwalk) is one of Kelley & Carl's favorite spots in New River Gorge, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / East Coast fall overlooks top 10 — the bridge view — The New River Gorge Bridge Overlook (the Canyon Rim boardwalk) is one of Kelley & Carl's top 10 East Coast fall overlooks.
 
 ### Ozone Falls State Natural Area
 
@@ -1340,7 +1469,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **67. [Ozone Falls](https://www.google.com/maps/search/?api=1&query=Ozone+Falls+TN)** — Ozone Falls State Natural Area, Crab Orchard
+- **74. [Ozone Falls](https://www.google.com/maps/search/?api=1&query=Ozone+Falls+TN)** — Ozone Falls State Natural Area, Crab Orchard
   - **Best for:** Waterfall — Ranked #24 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/ozone-falls-state-natural-area)
   - Coordinates verified against OpenStreetMap.
@@ -1352,7 +1481,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stay
 
-- **68. [Beckham Creek Cave Lodge](https://www.google.com/maps/search/?api=1&query=Beckham+Creek+Cave+Lodge+Parthenon+AR)** — Parthenon, Parthenon
+- **75. [Beckham Creek Cave Lodge](https://www.google.com/maps/search/?api=1&query=Beckham+Creek+Cave+Lodge+Parthenon+AR)** — Parthenon, Parthenon
   - **Best for:** Stay / Unique stay · Sleep inside a living cave in the Ozarks — Would you stay the night in this cave? Buried in the Ozark Mountains, Beckham Creek Cave Lodge (@beckhamcave) in Parthenon, Arkansas was once a private Cold War fallout shelter and has since been converted into one of the most beautiful and unique homes in the world. The 5,800 sq ft cave has 4 bedrooms, each with its own bathroom, and comfortably sleeps up to 12 guests — for less than $300 a person per night with a group. It was featured on Netflix's “World's Most Amazing Vacation Rentals,” and they offer cave tours you can take without staying the night.
   - Pin is the lodge's published point (1110 NC 8641, Parthenon, AR 72666) — the business listing, the Newton County Chamber's map embed, and showcaves.com all agree within ~150 ft.
   - 🎬 Source: [Would you stay the night in this cave? Beckham Creek Cave Lodge](https://www.instagram.com/reel/DbGeLXjP-qE/) by @wanderlusttravelcouple (#None in that reel)
@@ -1363,7 +1492,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **69. [Snooper's Rock](https://www.google.com/maps/search/?api=1&query=Snooper's+Rock+Chattanooga+TN)** — Prentice Cooper State Forest, Chattanooga
+- **76. [Snooper's Rock](https://www.google.com/maps/search/?api=1&query=Snooper's+Rock+Chattanooga+TN)** — Prentice Cooper State Forest, Chattanooga
   - **Best for:** Sunrise / View — Caption names Snooper's Rock, Chattanooga, TN. The video shows sunrise from the overlook: a sea of fog filling the valleys below, the sun emerging and turning the fog into a shimmering golden blanket — a tranquil, static sunrise scene with gentle piano music.
   - Pin is the Snoopers Rock kiosk/trailhead point; the overlook is a short walk from it.
   - 🎬 Source: [Sunrise viewpoint — Snooper's Rock](https://www.instagram.com/reel/DF_MIxuShFQ/) by @amorywild (#None in that reel)
@@ -1374,7 +1503,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Spring swimming · Kayak a crystal-clear 72°F river
 
-- **70. [Rainbow Springs State Park](https://www.google.com/maps/search/?api=1&query=Rainbow+Springs+State+Park+FL)** — Rainbow Springs State Park, Dunnellon
+- **77. [Rainbow Springs State Park](https://www.google.com/maps/search/?api=1&query=Rainbow+Springs+State+Park+FL)** — Rainbow Springs State Park, Dunnellon
   - **Best for:** Spring swimming · Kayak a crystal-clear 72°F river — One of the oldest and most beautiful spring-fed rivers in Florida: crystal-clear water at 72°F year-round, surrounded by lush greenery that feels like a tropical jungle. It's Florida's 4th-largest spring; the headspring area was a privately owned theme park in the 1930s. Kayak, paddleboard, swim in the designated area, or walk the garden trails to see waterfalls — real ones, in Florida. Open daily 8 AM to sunset, $2 entry (tubing and kayak rentals extra). Pro tip from the reel: come early morning or late afternoon to beat the crowds, and bring your own snorkel gear to spot fish and turtles.
   - 🎬 Source: [Rainbow Springs — Florida's crystal-clear spring river](https://www.instagram.com/reel/Dc7ZhgwRA9P/) by @americantravelarchives (#None in that reel)
 
@@ -1384,7 +1513,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **71. [Princess Arch](https://www.google.com/maps/search/?api=1&query=Princess+Arch+Red+River+Gorge+Kentucky)** — Red River Gorge Geological Area, Slade
+- **78. [Princess Arch](https://www.google.com/maps/search/?api=1&query=Princess+Arch+Red+River+Gorge+Kentucky)** — Red River Gorge Geological Area, Slade
   - **Best for:** Hike — A 1/4-mile walk on Princess Arch Trail (#233) to Princess Arch, a natural sandstone arch in Red River Gorge — the reel hikes it at peak fall color, with a sandstone ledge overlook above a valley of red and gold trees on the way.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/kentucky/princess-arch-trail)
   - Coordinates from OpenStreetMap's named Princess Arch point on Trail #233 (Wolfe County side of the gorge). Red River Gorge is in Daniel Boone National Forest; the creator's caption points to her series of 5+ Red River Gorge videos.
@@ -1396,7 +1525,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **72. [Ruby Falls](https://www.google.com/maps/search/?api=1&query=Ruby+Falls+Chattanooga+TN)** — Ruby Falls (Lookout Mountain), Chattanooga
+- **79. [Ruby Falls](https://www.google.com/maps/search/?api=1&query=Ruby+Falls+Chattanooga+TN)** — Ruby Falls (Lookout Mountain), Chattanooga
   - **Best for:** Waterfall — Ranked #18 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/ruby-falls)
   - Coordinates verified against OpenStreetMap.
@@ -1410,7 +1539,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **73. [Sandstone Falls](https://www.google.com/maps/search/?api=1&query=Sandstone+Falls+WV)** — Sandstone Falls (New River Gorge), Hinton
+- **80. [Sandstone Falls](https://www.google.com/maps/search/?api=1&query=Sandstone+Falls+WV)** — Sandstone Falls (New River Gorge), Hinton
   - **Best for:** Waterfall — Ranked #19 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/west-virginia/sandstone-falls-boardwalk)
   - Coordinates verified against OpenStreetMap.
@@ -1419,6 +1548,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / New River Gorge favorite, underrated parks list — Sandstone Falls is one of Kelley & Carl's favorite spots in underrated New River Gorge National Park.
   - 🎬 Also recommended by: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / West Virginia itinerary Day 5 stop — Sandstone Falls is a Day 5 stop in Kelley & Carl's 5-day West Virginia itinerary.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Underrated parks — New River Gorge favorite — Sandstone Falls is one of Kelley & Carl's favorite spots in New River Gorge, in their most-underrated-parks list.
 
 ### Seneca Rocks National Recreation Area
 
@@ -1426,13 +1557,15 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **74. [Seneca Rocks](https://www.google.com/maps/search/?api=1&query=Seneca+Rocks+Seneca+Rocks+National+Recreation+Area+WV)** — Seneca Rocks National Recreation Area, Seneca Rocks
+- **81. [Seneca Rocks](https://www.google.com/maps/search/?api=1&query=Seneca+Rocks+Seneca+Rocks+National+Recreation+Area+WV)** — Seneca Rocks National Recreation Area, Seneca Rocks
   - **Best for:** Hike / Tuscarora sandstone fins with an observation platform on top — From Kelley & Carl's fall-hikes list: 'a bucket list West Virginia hike with crazy rock faces' — about 3.7 miles round trip with 849 ft of gain up the Seneca Rocks Trail to the observation platform between the fins.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/west-virginia/seneca-rocks)
   - Pin is the OSM Seneca Rocks point (the fins themselves).
   - 🎬 Source: [Save these bucket list hikes for later — fall hikes](https://www.instagram.com/p/DdUMH5RFlvW/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [5 days in West Virginia — the Almost Heaven itinerary](https://www.instagram.com/reel/DXE_Jb5J_J3/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / West Virginia itinerary Day 1 hike — Seneca Rocks (3.6 moderate miles) is a Day 1 hike in Kelley & Carl's 5-day West Virginia itinerary.
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall hikes top 10 — Seneca Rocks (3 miles, 800 ft, Monongahela National Forest) is one of Kelley & Carl's top 10 East Coast fall hikes.
 
 ### Shenandoah National Park
 
@@ -1440,7 +1573,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **75. [Bearfence Mountain Trail](https://www.google.com/maps/search/?api=1&query=Bearfence+Mountain+Trail+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+- **82. [Bearfence Mountain Trail](https://www.google.com/maps/search/?api=1&query=Bearfence+Mountain+Trail+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Hike / Short rock-scramble summit with a 360-degree view — From Kelley & Carl's Virginia fall itinerary: a moderate 1.1-mile hike with some rock scrambling. Their fall-hikes list: 1.1 miles round trip, 239 ft of gain — and breathtaking at sunrise, which is also their Shenandoah photography pick.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/bearfence-mountain-trail)
   - Pin is the OSM Bearfence Mountain summit point.
@@ -1455,12 +1588,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Sunrise / Best sunrise spots — Bearfence Mountain is one of Kelley & Carl's best national park sunrise spots — about half a mile to the viewpoint, with a short rock scramble over steep drop-offs.
   - 🎬 Also recommended by: [The most magical national parks — our favorite activity in each](https://www.instagram.com/p/DXCbuCRFjhW/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite Shenandoah hike, magical parks — The Bearfence Mountain Trail is one of Kelley & Carl's favorite Shenandoah hikes in their magical-parks list.
-- **76. [Blackrock Summit](https://www.google.com/maps/search/?api=1&query=Blackrock+Summit+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — short scramble — Bearfence Mountain (about half a mile with a short rock-scramble section) at sunrise is one of Kelley & Carl's 10 best national park sunrise spots.
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall trip, Shenandoah pick — The Bearfence Trail is one of the Shenandoah hikes Kelley & Carl highlight on their East Coast fall road trip.
+- **83. [Blackrock Summit](https://www.google.com/maps/search/?api=1&query=Blackrock+Summit+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Hike / Easy walk to a boulder-field summit in Shenandoah's South District — From Kelley & Carl's Virginia fall itinerary: an easy 1.2-mile hike to Blackrock Summit — a short Appalachian Trail walk to a sea of quartzite boulders with wide views.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/blackrock-summit-via-trayfoot-mountain-and-appalachian-trail)
   - Pin is the OSM Blackrock Summit trailhead point on Skyline Drive.
   - 🎬 Source: [Virginia in the fall — Shenandoah Valley & Shenandoah National Park](https://www.instagram.com/p/DepVI1niWaG/) by @kelleyandcarlsadventures (#None in that reel)
-- **77. [Old Rag](https://www.google.com/maps/search/?api=1&query=Old+Rag+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall hikes top 10 — Blackrock Summit (1-mile loop, 175 ft, high in Shenandoah) is one of Kelley & Carl's top 10 East Coast fall hikes.
+- **84. [Old Rag](https://www.google.com/maps/search/?api=1&query=Old+Rag+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Hike / Adrenaline — His #3 adrenaline hike: hikers squeezing through tight boulder chimneys and scrambling over granite slabs to reach expansive mountain vistas.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/old-rag-mountain-loop-trail)
   - 🎬 Source: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild (#3 in that reel)
@@ -1478,7 +1617,15 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Spring parks — Shenandoah — Old Rag is a Shenandoah hike in Kelley & Carl's best spring parks list — wildflowers, lush green and fuller waterfalls from snowmelt.
   - 🎬 Also recommended by: [10 of the hardest US national park day hikes](https://www.instagram.com/p/DU8qzKxidnT/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Hardest day hikes — Old Rag Mountain is one of Kelley & Carl's 10 hardest US national park day hikes — a 10-mile loop with over 2,600 feet of gain, difficult rock scrambling and steep climbing; permit required most of the year.
-- **78. [Stony Man](https://www.google.com/maps/search/?api=1&query=Stony+Man+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — rock scramble — Old Rag Mountain (10-mile loop, over 2,600 ft; difficult rock scrambling, permit required most of the year) is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall trip, Shenandoah pick — Old Rag Mountain is one of the Shenandoah hikes Kelley & Carl highlight on their East Coast fall road trip (Days 2–4 in the park).
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall hikes top 10 — Old Rag (9.5-mile loop, 2,625 ft, with a fun rock scramble; timed entry applies) is one of Kelley & Carl's top 10 East Coast fall hikes.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — Old Rag Mountain (9.2 miles, 2,400 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
+- **85. [Stony Man](https://www.google.com/maps/search/?api=1&query=Stony+Man+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Hike / Shenandoah's second-highest summit, big Shenandoah Valley views — From Kelley & Carl's Virginia fall itinerary: a moderate 1.5-mile hike to Stony Man's summit. Their fall-hikes list adds the numbers — 1.5-mile loop, 318 ft of gain, panoramic views over the Shenandoah Valley. Also a Day 1-3 hike on their East Coast fall road trip.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/stony-man-via-appalachian-trail)
   - Pin is the USGS-published Stony Man summit point (Skyline Drive mile 41.7 area).
@@ -1489,7 +1636,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / Fall hikes list — 1.5 mi, 318 ft — On Kelley & Carl's fall-hikes list: Stony Man — about 1.5 miles round trip with 318 ft of elevation gain.
   - 🎬 Also recommended by: [The most magical national parks — our favorite activity in each](https://www.instagram.com/p/DXCbuCRFjhW/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite Shenandoah hike, magical parks — Stony Man is one of Kelley & Carl's favorite Shenandoah hikes in their magical-parks list.
-- **79. [Upper Hawksbill Trail](https://www.google.com/maps/search/?api=1&query=Upper+Hawksbill+Trail+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / East Coast fall hikes top 10 — Stony Man (1.6-mile loop, 340 ft, on the Appalachian Trail) is one of Kelley & Carl's top 10 East Coast fall hikes.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — Stony Man (1.6 miles, 400 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
+- **86. [Upper Hawksbill Trail](https://www.google.com/maps/search/?api=1&query=Upper+Hawksbill+Trail+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Hike / Summit — Caption names the Upper Hawksbill Trail, Shenandoah National Park. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/upper-hawksbill-trail)
   - Pin is Hawksbill summit, the Upper Hawksbill Trail's destination and the park's highest point.
@@ -1510,38 +1661,75 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Highest point in Shenandoah — On Kelley & Carl's Virginia fall road trip: Hawksbill Summit takes you to the highest point in Shenandoah — but it is pretty steep.
   - 🎬 Also recommended by: [The most magical national parks — our favorite activity in each](https://www.instagram.com/p/DXCbuCRFjhW/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite Shenandoah hike, magical parks — The Hawksbill Loop is one of Kelley & Carl's favorite Shenandoah hikes in their magical-parks list.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 2 — Shenandoah's tallest peak — Hawkbill Summit (1.6 moderate miles, 666 ft — the tallest peak in Shenandoah) is one of the ten epic hikes in Part 2 of Kelley & Carl's series (January 2026 version; this hike is what distinguishes it from the August 2025 Part 2).
 
 ##### Overlook
 
-- **80. [Buck Hollow Overlook](https://www.google.com/maps/search/?api=1&query=Buck+Hollow+Overlook+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+- **87. [Buck Hollow Overlook](https://www.google.com/maps/search/?api=1&query=Buck+Hollow+Overlook+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Overlook / Skyline Drive sunrise — One of Kelley & Carl's three favorite Shenandoah sunrise overlooks, from their Virginia fall road trip — Buck Hollow Overlook, facing east over the Piedmont.
   - 🎬 Source: [Virginia fall foliage — current conditions and tips](https://www.instagram.com/p/Dert1M9JVgX/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [National park sunrise spots worth the early alarm](https://www.instagram.com/p/DXHpQOqlmN9/) by @kelleyandcarlsadventures
     - **Best for:** Sunrise / Best sunrise spots — Buck Hollow Overlook is one of Kelley & Carl's nearby Shenandoah sunrise suggestions (with Hazel Mountain and Tunnel Parking).
-- **81. [Hazel Mountain Overlook](https://www.google.com/maps/search/?api=1&query=Hazel+Mountain+Overlook+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - 🎬 Also recommended by: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / East Coast fall overlooks top 10 — Buck Hollow Overlook in Shenandoah is one of Kelley & Carl's top 10 East Coast fall overlooks.
+- **88. [Hazel Mountain Overlook](https://www.google.com/maps/search/?api=1&query=Hazel+Mountain+Overlook+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Overlook / Skyline Drive sunrise — One of Kelley & Carl's three favorite Shenandoah sunrise overlooks, from their Virginia fall road trip — Hazel Mountain Overlook on Skyline Drive.
   - 🎬 Source: [Virginia fall foliage — current conditions and tips](https://www.instagram.com/p/Dert1M9JVgX/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [National park sunrise spots worth the early alarm](https://www.instagram.com/p/DXHpQOqlmN9/) by @kelleyandcarlsadventures
     - **Best for:** Sunrise / Best sunrise spots — Hazel Mountain Overlook is one of Kelley & Carl's best national park sunrise spots in Shenandoah.
-- **82. [Tunnel Parking Overlook](https://www.google.com/maps/search/?api=1&query=Tunnel+Parking+Overlook+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — fall color — Hazel Mountain Overlook at sunrise is one of Kelley & Carl's 10 best national park sunrise spots (they also name Tunnel Parking and Buck Hollow overlooks nearby).
+  - 🎬 Also recommended by: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / East Coast fall overlooks top 10 — Hazel Mountain Overlook in Shenandoah is one of Kelley & Carl's top 10 East Coast fall overlooks.
+  - 🎬 Also recommended by: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best overlooks, no hiking — Hazel Mountain Overlook is one of Kelley & Carl's 10 best national park overlooks with no hiking required.
+- **89. [Tunnel Parking Overlook](https://www.google.com/maps/search/?api=1&query=Tunnel+Parking+Overlook+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Overlook / Skyline Drive sunrise by Marys Rock Tunnel — One of Kelley & Carl's three favorite Shenandoah sunrise overlooks, from their Virginia fall road trip — the Tunnel Parking Overlook by the Marys Rock Tunnel.
   - 🎬 Source: [Virginia fall foliage — current conditions and tips](https://www.instagram.com/p/Dert1M9JVgX/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [National park sunrise spots worth the early alarm](https://www.instagram.com/p/DXHpQOqlmN9/) by @kelleyandcarlsadventures
     - **Best for:** Sunrise / Best sunrise spots — Tunnel Parking Overlook is one of Kelley & Carl's nearby Shenandoah sunrise suggestions (with Hazel Mountain and Buck Hollow).
+  - 🎬 Also recommended by: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / East Coast fall overlooks top 10 — Tunnel Parking Overlook in Shenandoah is one of Kelley & Carl's top 10 East Coast fall overlooks.
+
+##### Scenic drive
+
+- **90. [Skyline Drive](https://www.google.com/maps/search/?api=1&query=Skyline+Drive+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - **Best for:** Scenic drive / 105 miles and 75 overlooks along the Blue Ridge crest — One of the most beautiful national park roads in Kelley & Carl's list — and, they say, one of the most beautiful drives on the East Coast in the fall: 105 miles along the Blue Ridge crest in Shenandoah, with 75 overlooks and hikes at every turn.
+  - Coordinates from Wikipedia for Skyline Drive.
+  - 🎬 Source: [10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / East Coast fall trip — Days 2–4 — Driving Skyline Drive — up to 75 overlooks — is the backbone of the Shenandoah days on Kelley & Carl's East Coast fall road trip (the pin's primary source is their beautiful-roads list).
+
+##### Sunset
+
+- **91. [Jewell Hollow Overlook](https://www.google.com/maps/search/?api=1&query=Jewell+Hollow+Overlook+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - **Best for:** Sunset / West-facing Skyline Drive overlook at milepost 36.4 — One of Kelley & Carl's top 10 East Coast fall overlooks: Jewell Hollow Overlook at Skyline Drive milepost 36.4 in Shenandoah — a west-facing, stone-walled overlook made for sunset over the Page Valley.
+  - Coordinates from the NPS place record for Jewell Hollow Overlook.
+  - 🎬 Source: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Top national park (East)
 
-- **83. [Shenandoah National Park](https://www.google.com/maps/search/?api=1&query=Shenandoah+National+Park+VA)** — Shenandoah National Park, Luray
+- **92. [Shenandoah National Park](https://www.google.com/maps/search/?api=1&query=Shenandoah+National+Park+VA)** — Shenandoah National Park, Luray
   - **Best for:** Top national park (East) — Ranked #4 in the East, highlighted for mountain vistas along Skyline Drive at sunset, green ridges and a waterfall over mossy rocks.
   - 🎬 Source: [My Top 5 National Parks in the EAST](https://www.instagram.com/reel/DenDeSLBwwP/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [Top 5 National Parks for Sunrises/Sets](https://www.instagram.com/reel/Dd1VBxKPvQU/) by @amorywild
     - **Best for:** Sunrise / Sunset — His #4: Shenandoah, which he calls 'made for viewing sunrises and sunsets' via Skyline Drive, with golden ridges and sunrise over distant valleys.
   - 🎬 Also recommended by: [Hiking — Shenandoah National Park](https://www.instagram.com/reel/DdT8_tnRt5F/) by @amorywild
     - **Best for:** Rock scramble / Hike — Caption tags Shenandoah and on-screen text says, 'POV you did the toughest hike in Shenandoah...' The hiker squeezes and climbs through a narrow, steep granite-boulder passage and stone steps before reaching expansive green summit views. The specific trail is not named.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Shenandoah is one of the 17 national parks Kelley & Carl rated from their 2025 travels — they noted its limited parking.
+
+##### Viewpoint
+
+- **93. [Indian Run Overlook](https://www.google.com/maps/search/?api=1&query=Indian+Run+Overlook+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+  - **Best for:** Viewpoint / East-facing Skyline Drive overlook at milepost 10.8 — One of Kelley & Carl's top 10 East Coast fall overlooks: Indian Run Overlook at Skyline Drive milepost 10.8 in Shenandoah, an east-facing pullout just south of Compton Gap.
+  - Coordinates from the recorded place point for Indian Run Overlook.
+  - 🎬 Source: [10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Waterfall
 
-- **84. [Dark Hollow Falls](https://www.google.com/maps/search/?api=1&query=Dark+Hollow+Falls+VA)** — Shenandoah National Park, Luray
+- **94. [Dark Hollow Falls](https://www.google.com/maps/search/?api=1&query=Dark+Hollow+Falls+VA)** — Shenandoah National Park, Luray
   - **Best for:** Waterfall — Ranked #33 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/dark-hollow-falls-trail)
   - Coordinates verified against OpenStreetMap.
@@ -1558,25 +1746,33 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite Shenandoah hike, magical parks — The Dark Hollow Falls Trail is one of Kelley & Carl's favorite Shenandoah hikes in their magical-parks list.
   - 🎬 Also recommended by: [10 of the best US national park waterfalls](https://www.instagram.com/p/DUtMORqCcH3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Best waterfalls list — Dark Hollow Falls is on Kelley & Carl's 10 best national park waterfalls list — 1.6 miles round trip, 583 feet of gain; visit mid-to-late October for fall foliage.
-- **85. [Overall Run Falls](https://www.google.com/maps/search/?api=1&query=Overall+Run+Falls+VA)** — Shenandoah National Park, Luray
+  - 🎬 Also recommended by: [10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / East Coast fall hikes top 10 — Dark Hollow Falls (1.4 miles, 440 ft — 'an amazing waterfall with the leaves changing colors') is one of Kelley & Carl's top 10 East Coast fall hikes.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Dark Hollow Falls (70 ft, via the 1.4-mile trail) is one of Kelley & Carl's top 11 national park waterfalls.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Epic national park hikes, Part 1 — Dark Hollow Falls (1.4 miles, 440 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
+- **95. [Overall Run Falls](https://www.google.com/maps/search/?api=1&query=Overall+Run+Falls+VA)** — Shenandoah National Park, Luray
   - **Best for:** Waterfall — Ranked #39 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/overall-run-falls-via-tuscarora-overall-run-trail)
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)](https://www.instagram.com/p/Der2jZzGNin/) by @discovery_matt (#39 in that reel)
-- **86. [Rose River Falls](https://www.google.com/maps/search/?api=1&query=Rose+River+Falls+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+- **96. [Rose River Falls](https://www.google.com/maps/search/?api=1&query=Rose+River+Falls+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Waterfall / 67-foot cascade on the Rose River loop — From Kelley & Carl's Virginia fall itinerary: a moderate 2.5-mile hike to Rose River Falls — the Rose River Loop drops past the 67-ft falls and a string of cascades and pools.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/rose-river-trail)
   - Pin is the OSM Rose River Falls point.
   - 🎬 Source: [Virginia in the fall — Shenandoah Valley & Shenandoah National Park](https://www.instagram.com/p/DepVI1niWaG/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Rose River Falls in the fall](https://www.instagram.com/p/De4vuhcJiN9/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / 'A National Park hike you NEED to do this fall' — Kelley & Carl's Rose River Falls feature: a 2.5-mile out-and-back, moderate, with 666 feet of elevation change down to a beautiful 67-foot waterfall — combinable with Dark Hollow Falls into a 5.5-mile loop. Peak fall foliage in Shenandoah usually lands mid-to-late October; their footage is from October 13.
-- **87. [South River Falls](https://www.google.com/maps/search/?api=1&query=South+River+Falls+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
+- **97. [South River Falls](https://www.google.com/maps/search/?api=1&query=South+River+Falls+Shenandoah+National+Park+VA)** — Shenandoah National Park, Shenandoah National Park
   - **Best for:** Waterfall / One of Shenandoah's tallest waterfalls, in the South District — From Kelley & Carl's Virginia fall itinerary: a moderate 4.4-mile hike to South River Falls — at 83 ft one of the tallest waterfalls in Shenandoah National Park.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/virginia/south-river-falls-trail-and-south-river-fire-road-loop)
   - Pin is the OSM South River Falls point.
   - 🎬 Source: [Virginia in the fall — Shenandoah Valley & Shenandoah National Park](https://www.instagram.com/p/DepVI1niWaG/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Waterfalls you have to see at least once](https://www.instagram.com/p/DXM0Y3YlqlW/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Must-see waterfalls list — South River Falls is on Kelley & Carl's must-see waterfalls list — a 5-mile hike with 1,200 feet of gain.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Epic national park hikes, Part 5 — South River Falls (4.6 miles, 1,300 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
 
 ### South Cumberland State Park (Savage Gulf)
 
@@ -1584,7 +1780,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **88. [Greeter Falls](https://www.google.com/maps/search/?api=1&query=Greeter+Falls+Altamont+TN)** — South Cumberland State Park (Savage Gulf), Altamont
+- **98. [Greeter Falls](https://www.google.com/maps/search/?api=1&query=Greeter+Falls+Altamont+TN)** — South Cumberland State Park (Savage Gulf), Altamont
   - **Best for:** Waterfall / Hike — Caption names Greeter Falls, TN, with a waterfall hashtag; the tagged location is Greeter Falls. The park/area (South Cumberland State Park's Savage Gulf, Grundy County) is inferred from the falls' location. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/greeter-falls-loop)
   - 🎬 Source: [Waterfall — Greeter Falls](https://www.instagram.com/reel/DGYIRahuJhb/) by @amorywild (#None in that reel)
@@ -1597,7 +1793,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **89. [Upper Whitewater Falls](https://www.google.com/maps/search/?api=1&query=Upper+Whitewater+Falls+NC)** — Upper Whitewater Falls, Sapphire
+- **99. [Upper Whitewater Falls](https://www.google.com/maps/search/?api=1&query=Upper+Whitewater+Falls+NC)** — Upper Whitewater Falls, Sapphire
   - **Best for:** Waterfall — Ranked #5 in @discovery_matt's 'The 40 Best Waterfalls in the Eastern U.S.' (2026 edition) — one of his editorial picks for the East's best waterfalls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/north-carolina/upper-whitewater-falls-trail--2)
   - Coordinates verified against OpenStreetMap.
@@ -1609,7 +1805,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **90. [Walls of Jericho](https://www.google.com/maps/search/?api=1&query=Walls+of+Jericho+TN)** — Walls of Jericho (Alabama–Tennessee state line), Winchester
+- **100. [Walls of Jericho](https://www.google.com/maps/search/?api=1&query=Walls+of+Jericho+TN)** — Walls of Jericho (Alabama–Tennessee state line), Winchester
   - **Best for:** Hike / Waterfall — Caption names the Walls of Jericho Hike on the Alabama/Tennessee border, with hiking and waterfall hashtags; tagged location is Walls of Jericho. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/tennessee/walls-of-jericho-trail-head)
   - The canyon straddles the Alabama–Tennessee line. Nominatim places the Walls of Jericho cliff feature in Franklin County, Tennessee, just across the line from the Alabama trailheads; filed under Tennessee (Southeast region either way).
@@ -1617,7 +1813,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**71 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, North Dakota, Ohio, South Dakota, Wisconsin**
+**72 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, North Dakota, Ohio, South Dakota, Wisconsin**
 
 ### Adler Planetarium
 
@@ -1640,6 +1836,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Badlands favorite, underrated parks list — The Cliff Shelf Trail is one of Kelley & Carl's favorite spots in underrated Badlands National Park.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Badlands favorite — The Cliff Shelf Trail is one of Kelley & Carl's favorite spots in Badlands, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — The Cliff Shelf Trail (0.5 miles, 200 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
 - **3. [Door Trail](https://www.google.com/maps/search/?api=1&query=Door+Trail+Badlands+National+Park+SD)** — Badlands National Park, Interior
   - **Best for:** Hiking / Boardwalk through a break in the Badlands Wall — One of Kelley & Carl's favorite Badlands hikes on their Dakotas road trip — the Door Trail, a boardwalk through a breach in the Badlands Wall into a maze of eroded spires.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/south-dakota/the-door-trail)
@@ -1650,6 +1850,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Badlands highlight, Great American West trip — The Door Trail is a Badlands highlight on Kelley & Carl's 6-park Great American West road trip.
   - 🎬 Also recommended by: [6 national parks that feel like another planet](https://www.instagram.com/p/DWO7udFjvUc/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Otherworldly parks, Badlands — The Door Trail is a listed hike in otherworldly Badlands in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Badlands favorite — The Door Trail is one of Kelley & Carl's favorite spots in Badlands, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [5 of the most otherworldly national parks](https://www.instagram.com/p/DQmiUXoCfc0/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Otherworldly parks — Badlands feature — The Door Trail is a featured Badlands hike in Kelley & Carl's most-otherworldly-parks list.
 - **4. [Notch Trail](https://www.google.com/maps/search/?api=1&query=Notch+Trail+Badlands+National+Park+SD)** — Badlands National Park, Interior
   - **Best for:** Hiking / Ladder climb to a notch in the Wall — One of Kelley & Carl's favorite Badlands hikes on their Dakotas road trip — the Notch Trail, with its log-ladder climb and drop-off views back over the White River valley.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/south-dakota/notch-trail)
@@ -1660,6 +1864,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Badlands highlight, Great American West trip — The Notch Trail is a Badlands highlight on Kelley & Carl's 6-park Great American West road trip.
   - 🎬 Also recommended by: [6 national parks that feel like another planet](https://www.instagram.com/p/DWO7udFjvUc/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Otherworldly parks, Badlands — The Notch Trail is a listed hike in otherworldly Badlands in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Badlands favorite — The Notch Trail is one of Kelley & Carl's favorite spots in Badlands, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [5 of the most otherworldly national parks](https://www.instagram.com/p/DQmiUXoCfc0/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Otherworldly parks — Badlands feature — The Notch Trail is a featured Badlands hike in Kelley & Carl's most-otherworldly-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 1 — The Notch Trail (1.5 miles, 150 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
 - **5. [Window Trail](https://www.google.com/maps/search/?api=1&query=Window+Trail+Badlands+National+Park+SD)** — Badlands National Park, Interior
   - **Best for:** Hiking / Short boardwalk to a Wall window view — One of Kelley & Carl's favorite Badlands hikes on their Dakotas road trip — the Window Trail, a few hundred feet of boardwalk to a natural window framing the prairie beyond the Wall.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
@@ -1697,9 +1907,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Badlands favorite, underrated parks list — The White River Valley Overlook is one of Kelley & Carl's favorite spots in underrated Badlands National Park.
 
+##### Scenic drive
+
+- **12. [Badlands Loop Road (South Dakota Highway 240)](https://www.google.com/maps/search/?api=1&query=Badlands+Loop+Road+(South+Dakota+Highway+240)+Badlands+National+Park+SD)** — Badlands National Park, Interior
+  - **Best for:** Scenic drive / The loop road past the park's overlooks and short hikes — One of the most beautiful national park roads in Kelley & Carl's list: South Dakota 240, the Badlands Loop Road — 'an absolutely stunning road through the otherworldly badlands with so many overlooks and short hikes'.
+  - Pin at Cedar Pass, on the Loop Road; coordinates from NPS structured data for Cedar Pass Campground on SD Hwy 240.
+  - 🎬 Source: [10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/) by @kelleyandcarlsadventures (#None in that reel)
+
 ##### Sunset
 
-- **12. [Badlands National Park](https://www.google.com/maps/search/?api=1&query=Badlands+National+Park+SD)** — Badlands National Park, Interior
+- **13. [Badlands National Park](https://www.google.com/maps/search/?api=1&query=Badlands+National+Park+SD)** — Badlands National Park, Interior
   - **Best for:** Sunset — Tagged and captioned as Badlands at sunset. The video is a first-person panorama over eroded cliffs, buttes and prairie valleys as the sky turns orange, pink and yellow.
   - 🎬 Source: [Sunset — Badlands National Park](https://www.instagram.com/reel/DfLCfQtO7rm/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Top 5 National Parks for Sunrises/Sets](https://www.instagram.com/reel/Dd1VBxKPvQU/) by @amorywild
@@ -1712,7 +1929,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Road trip / Great American West trip park — Badlands — overlooks, the Door and Notch trails, and wildlife — is one of the six parks on Kelley & Carl's Great American West road trip.
   - 🎬 Also recommended by: [The Great American West road trip — 6 parks, 18 days](https://www.instagram.com/reel/DXg10pqj5IT/) by @kelleyandcarlsadventures
     - **Best for:** Road trip / Great American West road trip park — Badlands is one of the six parks on Kelley & Carl's Great American West road trip — at least 18 days for the whole loop, best July–September.
-- **13. [Saddle Pass](https://www.google.com/maps/search/?api=1&query=Saddle+Pass+Trailhead+Badlands)** — Badlands National Park, Interior
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Badlands is one of the 17 national parks Kelley & Carl rated from their 2025 travels.
+  - 🎬 Also recommended by: [6 national parks, 1 epic road trip — Dakotas, Wyoming & Montana](https://www.instagram.com/p/DNd1E4ZRizG/) by @kelleyandcarlsadventures
+    - **Best for:** Road trip / Best park-to-park route — Day 3 — Badlands is Day 3 on Kelley & Carl's 'best park-to-park road trip' through the northern parks.
+- **14. [Saddle Pass](https://www.google.com/maps/search/?api=1&query=Saddle+Pass+Trailhead+Badlands)** — Badlands National Park, Interior
   - **Best for:** Sunset / Hike · Eroded badlands formations in orange light — Sunset #5 in Amory's countdown: Saddle Pass in Badlands National Park — a short, steep climb from the trailhead on Sage Creek Rim Road up through a break in the Badlands Wall, where the eroded spires and pinnacles light up orange at sunset.
   - Pin is the Saddle Pass Trailhead (published trailhead point); the pass overlook is a short climb up the trail.
   - 🎬 Source: [5 National Park Sunsets That Blew My Mind](https://www.instagram.com/reel/DfarEsNMIc4/) by @amorywild (#5 in that reel)
@@ -1720,10 +1941,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite Badlands hike — Saddle Pass is one of Kelley & Carl's five favorite Badlands hikes on their Dakotas road trip.
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Badlands favorite, underrated parks list — The Saddle Pass Trail is one of Kelley & Carl's favorite spots in underrated Badlands National Park.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 3 — short but steep — Saddle Pass (0.6 hard miles, 219 ft — short but steep, slippery, full sun) is one of the ten epic hikes in Part 3 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Badlands favorite — Saddle Pass is one of Kelley & Carl's favorite spots in Badlands, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 3 — Saddle Pass (0.7 miles, 250 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
 
 ##### Viewpoint
 
-- **14. [Hay Butte Overlook](https://www.google.com/maps/search/?api=1&query=Hay+Butte+Overlook+Badlands+National+Park+SD)** — Badlands National Park, Interior
+- **15. [Hay Butte Overlook](https://www.google.com/maps/search/?api=1&query=Hay+Butte+Overlook+Badlands+National+Park+SD)** — Badlands National Park, Interior
   - **Best for:** Viewpoint / Golden-hour overlook on the Badlands Loop Road — Kelley & Carl's Badlands photography pick: golden hour and sunset at Hay Butte Overlook — 'or most other overlooks in the park honestly'. Hay Butte rises over the Sage Creek / Roberts Prairie Dog Town side of the park.
   - Pin is the OSM Hay Butte summit point west of the Badlands Loop Road; the overlook pull-off sits below it on Sage Creek Rim Road.
   - 🎬 Source: [These are the parks for photography magic — favorite photo spots](https://www.instagram.com/p/Daf9Vw_lgXD/) by @kelleyandcarlsadventures (#None in that reel)
@@ -1736,7 +1963,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Northern lights over Lake Michigan
 
-- **15. [Beaver Island](https://www.google.com/maps/search/?api=1&query=Beaver+Island+Michigan)** — Beaver Island, Beaver Island
+- **16. [Beaver Island](https://www.google.com/maps/search/?api=1&query=Beaver+Island+Michigan)** — Beaver Island, Beaver Island
   - **Best for:** Stargazing · Northern lights over Lake Michigan — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. The Lake Michigan island is featured for northern lights — a ferry ride from Charlevoix puts you under genuinely dark island skies.
   - 🎬 Source: [20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/) by @midwestlivingmag (#None in that reel)
 
@@ -1746,7 +1973,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Night sky over Lake Michigan by the dunes
 
-- **16. [Beverly Shores](https://www.google.com/maps/search/?api=1&query=Beverly+Shores+Indiana)** — Beverly Shores (Indiana Dunes), Beverly Shores
+- **17. [Beverly Shores](https://www.google.com/maps/search/?api=1&query=Beverly+Shores+Indiana)** — Beverly Shores (Indiana Dunes), Beverly Shores
   - **Best for:** Stargazing · Night sky over Lake Michigan by the dunes — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. Featured at dusk with the Chicago skyline across the lake — the Indiana Dunes town is an International Dark Sky Community, so the stars come out once the sun drops.
   - 🎬 Source: [20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/) by @midwestlivingmag (#None in that reel)
 
@@ -1756,7 +1983,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Suspension bridge
 
-- **17. [SkyBridge Michigan](https://www.google.com/maps/search/?api=1&query=SkyBridge+Michigan+Boyne+Mountain)** — Boyne Mountain Resort, Boyne Falls
+- **18. [SkyBridge Michigan](https://www.google.com/maps/search/?api=1&query=SkyBridge+Michigan+Boyne+Mountain)** — Boyne Mountain Resort, Boyne Falls
   - **Best for:** Suspension bridge / Viewpoint · World's longest timber-towered suspension bridge — The reel's SkyBridge stop: SkyBridge Michigan at Boyne Mountain — the world's longest timber-towered suspension bridge, 1,200 feet across the valley between McLouth and Disciples Ridge peaks, ~118 feet above the forest floor. In the reel he's on the bridge wearing a cap and black jacket, overlooking a valley of fall colors; you ride a scenic chairlift to the top to cross it.
   - Pin is Boyne Mountain summit (OSM peak point); the bridge spans the mountaintop between McLouth and Disciples Ridge peaks at the resort (1 Boyne Mountain Rd, Boyne Falls).
   - 🎬 Source: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham (#None in that reel)
@@ -1767,7 +1994,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Cave tour · Underground formations near Madison
 
-- **18. [Cave of the Mounds](https://www.google.com/maps/search/?api=1&query=Cave+of+the+Mounds+WI)** — Cave of the Mounds National Natural Landmark, Blue Mounds
+- **19. [Cave of the Mounds](https://www.google.com/maps/search/?api=1&query=Cave+of+the+Mounds+WI)** — Cave of the Mounds National Natural Landmark, Blue Mounds
   - **Best for:** Cave tour · Underground formations near Madison — A whole underground world near Madison: colorful rock formations, sparkling crystals and winding passages on guided tours offered year-round. The cave holds a steady 50°F, so bring a light jacket; it's a great family-friendly stop even on a rainy day, and the grounds above ground are worth exploring too.
   - 🎬 Source: [A cave in Wisconsin? One of the coolest surprises near Madison](https://www.instagram.com/reel/DfXqS2uCIoi/) by @alunderfullife (#None in that reel)
 
@@ -1777,7 +2004,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Cave
 
-- **19. [Cave-in-Rock](https://www.google.com/maps/search/?api=1&query=Cave-in-Rock+Cave-in-Rock+State+Park+IL)** — Cave-in-Rock State Park, Cave-in-Rock
+- **20. [Cave-in-Rock](https://www.google.com/maps/search/?api=1&query=Cave-in-Rock+Cave-in-Rock+State+Park+IL)** — Cave-in-Rock State Park, Cave-in-Rock
   - **Best for:** Cave / River view — Caption names Cave in Rock, IL. The camera moves from deep inside a dark, rough rock cave along a narrow stone path toward a large arched opening framing bright water and a distant tree-lined shore, with a visitor silhouetted at the cave mouth.
   - 🎬 Source: [Cave scenery — Cave-in-Rock](https://www.instagram.com/reel/DdP6Of2Jojg/) by @amorywild (#None in that reel)
 
@@ -1787,13 +2014,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Park
 
-- **20. [Bedford Reservation](https://www.google.com/maps/search/?api=1&query=Bedford+Reservation+Ohio)** — Cleveland Metroparks (Bedford Reservation), Bedford
+- **21. [Bedford Reservation](https://www.google.com/maps/search/?api=1&query=Bedford+Reservation+Ohio)** — Cleveland Metroparks (Bedford Reservation), Bedford
   - **Best for:** Park / Hike · Gorge, waterfalls and fall color — One of the Cleveland Metroparks highlights in the reel — the system has 300+ miles of hiking trails, and the reel's practical tip is to download offline maps first, because cell service is almost nonexistent in some of these preserves even this close to the city. Bedford Reservation is the reel's autumn showpiece — wooden overlooks and trails above the Tinkers Creek gorge in peak fall color.
   - 🎬 Source: [Cleveland, Ohio looks like this?! Cleveland Metroparks highlights](https://www.instagram.com/reel/DfXMNFOBqaU/) by @hikingwithhykes (#None in that reel)
 
 ##### Scenic gorge · One of Ohio's deepest gorges
 
-- **21. [Tinkers Creek Gorge](https://www.google.com/maps/search/?api=1&query=Tinkers+Creek+Gorge+Ohio)** — Cleveland Metroparks (Bedford Reservation), Bedford
+- **22. [Tinkers Creek Gorge](https://www.google.com/maps/search/?api=1&query=Tinkers+Creek+Gorge+Ohio)** — Cleveland Metroparks (Bedford Reservation), Bedford
   - **Best for:** Scenic gorge · One of Ohio's deepest gorges — One of the Cleveland Metroparks highlights in the reel — the system has 300+ miles of hiking trails, and the reel's practical tip is to download offline maps first, because cell service is almost nonexistent in some of these preserves even this close to the city. The reel calls out Tinkers Creek itself — the stream that carved one of Ohio's deepest gorges through Bedford Reservation, with waterfalls, hemlock forest and gorge-rim views.
   - Pin is on Tinkers Creek within the gorge reach of Bedford Reservation.
   - 🎬 Source: [Cleveland, Ohio looks like this?! Cleveland Metroparks highlights](https://www.instagram.com/reel/DfXMNFOBqaU/) by @hikingwithhykes (#None in that reel)
@@ -1804,13 +2031,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **22. [Fort Hill Stairs](https://www.google.com/maps/search/?api=1&query=Fort+Hill+Stairs+Rocky+River+Reservation)** — Cleveland Metroparks (Rocky River Reservation), North Olmsted
+- **23. [Fort Hill Stairs](https://www.google.com/maps/search/?api=1&query=Fort+Hill+Stairs+Rocky+River+Reservation)** — Cleveland Metroparks (Rocky River Reservation), North Olmsted
   - **Best for:** Hike / Viewpoint · Stair climb to a hilltop earthwork — One of the Cleveland Metroparks highlights in the reel — the system has 300+ miles of hiking trails, and the reel's practical tip is to download offline maps first, because cell service is almost nonexistent in some of these preserves even this close to the city. The reel features the Fort Hill stairs — the long stair climb up to the Fort Hill earthwork above the Rocky River valley, with forest and river views at sunset.
   - 🎬 Source: [Cleveland, Ohio looks like this?! Cleveland Metroparks highlights](https://www.instagram.com/reel/DfXMNFOBqaU/) by @hikingwithhykes (#None in that reel)
 
 ##### Waterfall · Rocky River cascades below the overlook
 
-- **23. [Berea Falls](https://www.google.com/maps/search/?api=1&query=Berea+Falls+Ohio)** — Cleveland Metroparks (Rocky River Reservation), Berea
+- **24. [Berea Falls](https://www.google.com/maps/search/?api=1&query=Berea+Falls+Ohio)** — Cleveland Metroparks (Rocky River Reservation), Berea
   - **Best for:** Waterfall · Rocky River cascades below the overlook — One of the Cleveland Metroparks highlights in the reel — the system has 300+ miles of hiking trails, and the reel's practical tip is to download offline maps first, because cell service is almost nonexistent in some of these preserves even this close to the city. Berea Falls is the waterfall stop: the East Branch of the Rocky River dropping over rocky ledges, seen from the overlook in the reel's footage.
   - 🎬 Source: [Cleveland, Ohio looks like this?! Cleveland Metroparks highlights](https://www.instagram.com/reel/DfXMNFOBqaU/) by @hikingwithhykes (#None in that reel)
 
@@ -1820,7 +2047,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Playground park · Huge themed playgrounds
 
-- **24. [Cosmo Park](https://www.google.com/maps/search/?api=1&query=Cosmo+Park+Columbia+MO)** — Cosmo Park, Columbia
+- **25. [Cosmo Park](https://www.google.com/maps/search/?api=1&query=Cosmo+Park+Columbia+MO)** — Cosmo Park, Columbia
   - **Best for:** Playground park · Huge themed playgrounds — Columbia's big playground stop (1615 Business Loop 70 W): multiple huge playgrounds with unique features and fun themes — don't miss the classic rocket climber and racing slides. The reel's tip: make a left at the roundabout when entering the park for the playgrounds.
   - 🎬 Source: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily (#None in that reel)
 
@@ -1830,7 +2057,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Bucket-list hike, #10 of 12
 
-- **25. [Cathedral Spires](https://www.google.com/maps/search/?api=1&query=Cathedral+Spires+Trail+Custer+State+Park)** — Custer State Park, Custer
+- **26. [Cathedral Spires](https://www.google.com/maps/search/?api=1&query=Cathedral+Spires+Trail+Custer+State+Park)** — Custer State Park, Custer
   - **Best for:** Hike · Bucket-list hike, #10 of 12 — Ranked #10 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Cathedral Spires, the granite spires on the Cathedral Spires Trail in Custer State Park, South Dakota.
   - 🎬 Source: [12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/) by @theadventurepostcard (#10 in that reel)
   - 🎬 Also recommended by: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures
@@ -1838,13 +2065,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Lake
 
-- **26. [Sylvan Lake](https://www.google.com/maps/search/?api=1&query=Sylvan+Lake+Custer+State+Park+SD)** — Custer State Park, Custer
+- **27. [Sylvan Lake](https://www.google.com/maps/search/?api=1&query=Sylvan+Lake+Custer+State+Park+SD)** — Custer State Park, Custer
   - **Best for:** Lake / Granite-ringed lake by the Needles Highway — A must-see on the Custer State Park leg of Kelley & Carl's Dakotas road trip — Sylvan Lake, the jewel-box lake ringed by granite spires at the east end of the Needles Highway.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Road trip stop
 
-- **27. [Custer State Park](https://www.google.com/maps/search/?api=1&query=Custer+State+Park+SD)** — Custer State Park, Custer
+- **28. [Custer State Park](https://www.google.com/maps/search/?api=1&query=Custer+State+Park+SD)** — Custer State Park, Custer
   - **Best for:** Road trip stop — Stop 5 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Mount Rushmore — wildlife-loop country in the Black Hills.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#5 in that reel)
@@ -1855,10 +2082,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **28. [Needles Highway](https://www.google.com/maps/search/?api=1&query=Needles+Highway+Custer+State+Park+SD)** — Custer State Park, Custer
+- **29. [Needles Highway](https://www.google.com/maps/search/?api=1&query=Needles+Highway+Custer+State+Park+SD)** — Custer State Park, Custer
   - **Best for:** Scenic drive / Tunnels and granite spires — One of Kelley & Carl's two best Custer State Park drives on their Dakotas road trip — the Needles Highway (SD-87), threading one-lane tunnels between granite needle spires.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
-- **29. [Wildlife Loop Road](https://www.google.com/maps/search/?api=1&query=Wildlife+Loop+Road+Custer+State+Park+SD)** — Custer State Park, Custer
+- **30. [Wildlife Loop Road](https://www.google.com/maps/search/?api=1&query=Wildlife+Loop+Road+Custer+State+Park+SD)** — Custer State Park, Custer
   - **Best for:** Scenic drive / Bison and burros on the open prairie — One of Kelley & Carl's two best Custer State Park drives on their Dakotas road trip — the 18-mile Wildlife Loop Road through the park's southern prairie, where the bison herd, pronghorn and begging burros roam.
   - Pin is placed at the Wildlife Station Visitor Center on Wildlife Loop Road; coordinates from the South Dakota GFP place listing (43.667275, -103.363246).
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
@@ -1869,7 +2096,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive · One-lane tunnel carved through granite
 
-- **30. [Needles Eye Tunnel](https://www.google.com/maps/search/?api=1&query=Needles+Eye+Tunnel+South+Dakota)** — Custer State Park (Needles Highway), Custer
+- **31. [Needles Eye Tunnel](https://www.google.com/maps/search/?api=1&query=Needles+Eye+Tunnel+South+Dakota)** — Custer State Park (Needles Highway), Custer
   - **Best for:** Scenic drive · One-lane tunnel carved through granite — The Needles Highway through Custer State Park winds between towering granite spires until the road tightens and passes through the Needles Eye Tunnel — a one-lane tunnel hand-carved through solid granite in the 1920s, one of the most photographed drives in the Black Hills. Know before you go: the tunnel is about 8'4" wide and 12' tall, one vehicle at a time, and RVs/trailers should avoid the route; drive it early morning or late afternoon for fewer cars and better light, and watch for bison, pronghorn and prairie dogs nearby.
   - 🎬 Source: [This state park drive feels unreal the first time you see it](https://www.instagram.com/reel/DfW_ZwsAprR/) by @coupleofpatels (#None in that reel)
 
@@ -1879,19 +2106,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### National park
 
-- **31. [Cuyahoga Valley National Park](https://www.google.com/maps/search/?api=1&query=Cuyahoga+Valley+National+Park+Cuyahoga+Valley+National+Park+OH)** — Cuyahoga Valley National Park, Peninsula
+- **32. [Cuyahoga Valley National Park](https://www.google.com/maps/search/?api=1&query=Cuyahoga+Valley+National+Park+Cuyahoga+Valley+National+Park+OH)** — Cuyahoga Valley National Park, Peninsula
   - **Best for:** National park / River valley, waterfalls and the Cuyahoga Valley Scenic Railroad — On Kelley & Carl's list of national parks you can literally see in one day — the Ohio park between Cleveland and Akron, with Brandywine Falls, the Ledges and the scenic railroad.
   - Pin is the NPS-published Boston Mill Visitor Center point.
   - 🎬 Source: [US National Parks you can literally see in one day](https://www.instagram.com/p/DeCjWOYFszM/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Cuyahoga Valley is one of the 17 national parks Kelley & Carl rated from their 2025 travels.
 
 ##### Waterfall
 
-- **32. [Brandywine Falls](https://www.google.com/maps/search/?api=1&query=Brandywine+Falls+Cuyahoga+Valley+National+Park+OH)** — Cuyahoga Valley National Park, Peninsula
+- **33. [Brandywine Falls](https://www.google.com/maps/search/?api=1&query=Brandywine+Falls+Cuyahoga+Valley+National+Park+OH)** — Cuyahoga Valley National Park, Peninsula
   - **Best for:** Waterfall / 65-foot bridal-veil falls on a boardwalk — On Kelley & Carl's must-see national park waterfalls list: Brandywine Falls in Cuyahoga Valley — a 65-foot bridal-veil cascade reached by an easy 0.4-mile boardwalk, and their favorite viewpoint in the whole park.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/ohio/brandywine-falls-loop)
   - 🎬 Source: [Waterfalls you have to see at least once](https://www.instagram.com/p/DXM0Y3YlqlW/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [10 of the best US national park waterfalls](https://www.instagram.com/p/DUtMORqCcH3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Best waterfalls list — Brandywine Falls is on Kelley & Carl's 10 best national park waterfalls list — an easy 0.4-mile boardwalk and their favorite viewpoint of Cuyahoga Valley (the pin's primary source is their must-see waterfalls list).
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Easiest hikes with epic views — Brandywine Falls (0.4 easy boardwalk miles, 16 ft) is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Brandywine Falls (65 ft, via the 1.5-mile trail and boardwalk) is one of Kelley & Carl's top 11 national park waterfalls.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Epic national park hikes, Part 2 — Brandywine Falls (1.4 miles, 150 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
 
 ### Franklin Creek State Natural Area
 
@@ -1899,7 +2134,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **33. [Whipple's Cave](https://www.google.com/maps/search/?api=1&query=Whipple's+Cave+Franklin+Creek+State+Natural+Area+IL)** — Franklin Creek State Natural Area, Franklin Grove
+- **34. [Whipple's Cave](https://www.google.com/maps/search/?api=1&query=Whipple's+Cave+Franklin+Creek+State+Natural+Area+IL)** — Franklin Creek State Natural Area, Franklin Grove
   - **Best for:** Hike — A cave hiding in the Illinois woods: Whipple's Cave in Franklin Creek State Natural Area, reached via the Pioneer Pass Trail from the Mill Springs Day Use Area — 2.9 miles out and back with 226 ft of gain through wooded scenery, rocky terrain and creek crossings. Know before you go: be prepared for deep creek crossings, and other trails in the area also lead to the cave.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Whipple's Cave — a cave hiding in the Illinois woods](https://www.instagram.com/reel/DfSiIY5sLzM/) by @our.adventure.tails (#1 in that reel)
@@ -1910,7 +2145,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Designated international dark sky park
 
-- **34. [Headlands International Dark Sky Park](https://www.google.com/maps/search/?api=1&query=Headlands+International+Dark+Sky+Park)** — Headlands International Dark Sky Park, Mackinaw City
+- **35. [Headlands International Dark Sky Park](https://www.google.com/maps/search/?api=1&query=Headlands+International+Dark+Sky+Park)** — Headlands International Dark Sky Park, Mackinaw City
   - **Best for:** Stargazing · Designated international dark sky park — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. One of the first International Dark Sky Parks in the US, on the Straits of Mackinac west of Mackinaw City — shown under a star-filled sky.
   - 🎬 Source: [20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/) by @midwestlivingmag (#None in that reel)
 
@@ -1920,10 +2155,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### National park
 
-- **35. [Indiana Dunes National Park](https://www.google.com/maps/search/?api=1&query=Indiana+Dunes+National+Park+Indiana+Dunes+National+Park+IN)** — Indiana Dunes National Park, Porter
+- **36. [Indiana Dunes National Park](https://www.google.com/maps/search/?api=1&query=Indiana+Dunes+National+Park+Indiana+Dunes+National+Park+IN)** — Indiana Dunes National Park, Porter
   - **Best for:** National park / Lake Michigan dunes and beaches — On Kelley & Carl's list of national parks you can literally see in one day — Lake Michigan shoreline, towering dunes and beaches an hour from Chicago.
   - Pin is the Indiana Dunes Visitor Center point (1215 N IN-49, Porter).
   - 🎬 Source: [US National Parks you can literally see in one day](https://www.instagram.com/p/DeCjWOYFszM/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Indiana Dunes is one of the 17 national parks Kelley & Carl rated from their 2025 travels — they noted the industrial intrusions on its lakeshore setting.
 
 ### Isle Royale National Park
 
@@ -1931,7 +2168,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Solitude
 
-- **36. [Isle Royale National Park](https://www.google.com/maps/search/?api=1&query=Isle+Royale+National+Park+MI)** — Isle Royale National Park, Rock Harbor
+- **37. [Isle Royale National Park](https://www.google.com/maps/search/?api=1&query=Isle+Royale+National+Park+MI)** — Isle Royale National Park, Rock Harbor
   - **Best for:** Solitude — Ranked #3 for solitude, a remote island of forests and lakes reached only by boat or seaplane, with wolf howls at night.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#3 in that reel)
 
@@ -1941,7 +2178,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Swimming
 
-- **37. [Johnson's Shut-Ins State Park](https://www.google.com/maps/search/?api=1&query=Johnson%27s+Shut-Ins+State+Park+Missouri)** — Johnson's Shut-Ins State Park, Middle Brook
+- **38. [Johnson's Shut-Ins State Park](https://www.google.com/maps/search/?api=1&query=Johnson%27s+Shut-Ins+State+Park+Missouri)** — Johnson's Shut-Ins State Park, Middle Brook
   - **Best for:** Swimming — One of the most unique swims in the Midwest: hundreds of natural pools and chutes the Black River carved into billion-year-old volcanic rock — 'nature's own waterpark,' about 2 hours south of St. Louis. The reel's tips: go early in summer (it gets busy), wear water shoes for the slippery rock, and mind the stronger currents with kids.
   - Pin sits at the main shut-ins day-use area (OpenStreetMap point for the swimming area's supply store) rather than the park boundary centroid. The 'shut-ins' are narrow channels where the river squeezes through erosion-resistant rhyolite.
   - 🎬 Source: [Johnson's Shut-Ins State Park — nature's waterpark in Missouri](https://www.instagram.com/reel/DfUarsMgzMy/) by @coupleofpatels (#None in that reel)
@@ -1952,7 +2189,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Bike ride · Rail-trail along the Missouri River bluffs
 
-- **38. [Katy Trail at Rocheport](https://www.google.com/maps/search/?api=1&query=Katy+Trail+Rocheport+MO)** — Katy Trail State Park, Rocheport
+- **39. [Katy Trail at Rocheport](https://www.google.com/maps/search/?api=1&query=Katy+Trail+Rocheport+MO)** — Katy Trail State Park, Rocheport
   - **Best for:** Bike ride · Rail-trail along the Missouri River bluffs — The reel's ride: the Katy Trail through Rocheport, right along the Missouri River, with fall colors lighting up the river bluffs — slow, scenic riding through Katy Trail State Park. (The full Katy Trail runs 240 miles across Missouri; this pin is its Rocheport stretch.)
   - 🎬 Source: [One of the prettiest fall bike rides in all of Missouri](https://www.instagram.com/reel/DfXpx4QxQFZ/) by @everydayoutdoorfamily (#None in that reel)
   - 🎬 Also recommended by: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily
@@ -1964,7 +2201,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **39. [Mount Rushmore](https://www.google.com/maps/search/?api=1&query=Mount+Rushmore+National+Memorial+SD)** — Mount Rushmore National Memorial, Keystone
+- **40. [Mount Rushmore](https://www.google.com/maps/search/?api=1&query=Mount+Rushmore+National+Memorial+SD)** — Mount Rushmore National Memorial, Keystone
   - **Best for:** Road trip stop — Stop 6 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Custer State Park before the Day 9 flight out of Rapid City.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#6 in that reel)
@@ -1977,7 +2214,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Dark sky park on Door County's quiet side
 
-- **40. [Newport State Park](https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Wisconsin)** — Newport State Park, Ellison Bay
+- **41. [Newport State Park](https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Wisconsin)** — Newport State Park, Ellison Bay
   - **Best for:** Stargazing · Dark sky park on Door County's quiet side — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. Door County's wilderness park on the Lake Michigan side — a designated dark sky park shown over a calm lake at night.
   - 🎬 Source: [20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/) by @midwestlivingmag (#None in that reel)
 
@@ -1987,7 +2224,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **41. [Palisade Head](https://www.google.com/maps/search/?api=1&query=Palisade+Head+Silver+Bay+MN)** — Palisade Head, Silver Bay
+- **42. [Palisade Head](https://www.google.com/maps/search/?api=1&query=Palisade+Head+Silver+Bay+MN)** — Palisade Head, Silver Bay
   - **Best for:** Viewpoint — One of John Walberg's all-time favorite views on Minnesota's North Shore: standing on top of Palisade Head looking out over the endless blue of Lake Superior — towering cliffs, huge views, and fresh air. His verdict: a place he'll never get tired of visiting, and a must for any North Shore trip's bucket list.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of my all-time favorite views on Minnesota's North Shore — Palisade Head](https://www.instagram.com/reel/DfP15Ujq6wb/) by @john_walberg (#1 in that reel)
@@ -1998,7 +2235,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Spring · Self-propelled raft over turquoise water
 
-- **42. [Kitch-iti-kipi](https://www.google.com/maps/search/?api=1&query=Kitch-iti-kipi+Michigan)** — Palms Book State Park, Manistique
+- **43. [Kitch-iti-kipi](https://www.google.com/maps/search/?api=1&query=Kitch-iti-kipi+Michigan)** — Palms Book State Park, Manistique
   - **Best for:** Spring · Self-propelled raft over turquoise water — Michigan's largest freshwater spring, inside Palms Book State Park: turquoise water so crystal clear you can see straight to the bottom, at a constant 45°F, viewed from a self-propelled wooden observation raft you crank across the spring yourself. Open year-round; a Michigan Recreation Passport (state park pass) is required. No swimming or fishing, but it's pet friendly and ADA accessible.
   - 🎬 Source: [Kitch-iti-kipi — Michigan's crystal-clear Big Spring](https://www.instagram.com/reel/DcmIo5lJNCT/) by @missnortherner (#None in that reel)
   - 🎬 Also recommended by: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham
@@ -2010,7 +2247,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Fall colors
 
-- **43. [Eagle Tower](https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
+- **44. [Eagle Tower](https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
   - **Best for:** Fall colors / View — The reel's headline stop: add Peninsula State Park in Door County to a Wisconsin trip for Eagle Tower, reached by a long wooden elevated walkway through autumn trees to panoramic views over Green Bay and the surrounding islands — at their best in fall color. Parking, restrooms and park information are right at the tower area.
   - The reel says the views overlook Lake Michigan; the tower actually faces Green Bay (the bay between the Door Peninsula and mainland Wisconsin), with Horseshoe Island in view. Caption puts the park about a 5-hour drive from Chicago. The rebuilt tower (opened 2021) is reached by 95-100 stairs or an 850-foot accessible canopy ramp; Wisconsin DNR lists it open May 1-Oct 31.
   - 🎬 Source: [Fall colors — Eagle Tower, Peninsula State Park](https://www.instagram.com/reel/DfQ6dEHt8NU/) by @asia_in_chicago (#1 in that reel)
@@ -2019,7 +2256,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **44. [Eagle Trail](https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
+- **45. [Eagle Trail](https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
   - **Best for:** Hike — Shown in the reel right after the tower: the trailhead sign marked 'Difficult Trail' for the park's Eagle Trail, a loop the narrator points viewers to for more scenic overlooks beyond Eagle Tower.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/eagle-trail--2)
   - Pin is the Eagle Trail trailhead just west of the Eagle Tower parking area (Trailforks trailhead coordinates); DNR lists access at Eagle Terrace, Eagle Panorama or the Tower. DNR rates this 2.0-mile loop 'more difficult', with steep, rocky sections under 150-foot cliffs along Eagle Harbor.
@@ -2033,7 +2270,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **45. [Brady's Bluff](https://www.google.com/maps/search/?api=1&query=Bradys+Bluff+Perrot+State+Park+WI)** — Perrot State Park, Trempealeau
+- **46. [Brady's Bluff](https://www.google.com/maps/search/?api=1&query=Bradys+Bluff+Perrot+State+Park+WI)** — Perrot State Park, Trempealeau
   - **Best for:** Viewpoint / Mississippi River bluff overlook with a CCC stone shelter — The Midwest Guide's '11/10 bench in Wisconsin': the reel opens on the weathered wooden bench set into the stacked-stone wall of the CCC-built shelter at the top of Brady's Bluff, then pans across the Mississippi River valley in full fall color. The creator never named the spot ('Where am I?!') — commenters identified it as Perrot State Park's Brady's Bluff, the park's highest point, rising nearly 460 feet above the river with views to Trempealeau Mountain and Trempealeau Bay.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/bradys-bluff-and-riverview-trail-loop)
   - Coordinates are the OpenStreetMap/Mapcarta summit point (USGS GNIS summit: 44.02024, -91.48320). The reel does not name the location; the identification is from the post's comments plus the matching CCC stone shelter, flagstone patio and river-valley panorama at the Brady's Bluff summit.
@@ -2045,7 +2282,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · 10-mile loop past two falls to Chapel Rock
 
-- **46. [Chapel Loop Trail](https://www.google.com/maps/search/?api=1&query=Chapel+Loop+Trail+Pictured+Rocks+MI)** — Pictured Rocks National Lakeshore, Munising
+- **47. [Chapel Loop Trail](https://www.google.com/maps/search/?api=1&query=Chapel+Loop+Trail+Pictured+Rocks+MI)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Hike · 10-mile loop past two falls to Chapel Rock — The reel's Michigan pick at 10 miles: the Chapel Loop in Pictured Rocks, past Mosquito Falls and Chapel Falls to Chapel Rock and the Lake Superior shoreline beaches.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/michigan/mosquito-falls-and-chapel-falls-via-chapel-loop)
   - Pin is Chapel Rock, on the loop's lakeshore section.
@@ -2053,10 +2290,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **47. [Chapel Falls](https://www.google.com/maps/search/?api=1&query=Chapel+Falls+Pictured+Rocks)** — Pictured Rocks National Lakeshore, Munising
+- **48. [Chapel Falls](https://www.google.com/maps/search/?api=1&query=Chapel+Falls+Pictured+Rocks)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Waterfall / Hike · Cascading falls on the Chapel Loop — The reel opens at Chapel Falls — a cascading waterfall in the forest on the Chapel Loop in Pictured Rocks: Chapel Creek drops about 60 feet over sandstone ledges on its way to Chapel Lake. (The loop's other pin, Chapel Rock, is on the lakeshore section of the same trail.)
   - 🎬 Source: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham (#None in that reel)
-- **48. [Miners Falls](https://www.google.com/maps/search/?api=1&query=Miners+Falls+Michigan)** — Pictured Rocks National Lakeshore, Munising
+- **49. [Miners Falls](https://www.google.com/maps/search/?api=1&query=Miners+Falls+Michigan)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Waterfall / Hike · Powerful 50-foot falls you can stand beside — The reel's finale: Miners Falls in Pictured Rocks — a powerful ~50-foot waterfall where the Miners River plunges over a sandstone outcrop; he stands close to the falls on the wet rocks giving a thumbs-up. A short gravel trail from the Miners Castle area parking leads to viewing platforms above and beside the drop.
   - 🎬 Source: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham (#None in that reel)
 
@@ -2066,7 +2303,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Towering rock pinnacles and fossil hunting
 
-- **49. [Pinnacles Youth Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+Youth+Park+Missouri)** — Pinnacles Youth Park, Sturgeon
+- **50. [Pinnacles Youth Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+Youth+Park+Missouri)** — Pinnacles Youth Park, Sturgeon
   - **Best for:** Hike · Towering rock pinnacles and fossil hunting — One of the most unique places in Missouri: a privately owned park north of Columbia (850 E. Pinnacles Rd, Sturgeon) that's open for public day use and feels like a rugged hike out west. Lower trails run along the creek to a shelter bluff for all ages; the real adventure is crossing the creek and taking the narrow, rocky path over the top of the towering rock formations. The spot is full of fossils — look in the creek and across the rocks for thousands of crinoids. Free (donation box at the kiosk); vault restroom; no alcohol, glass or drones. The reel's warnings: the upper ledge trails are not for young kids or anyone afraid of heights, don't cross the creek when the water is high, and expect wet feet even in summer.
   - 🎬 Source: [This is Missouri?! Pinnacles Youth Park](https://www.instagram.com/reel/DfYsfYBOaqy/) by @midwestnomadfamily (#None in that reel)
   - 🎬 Also recommended by: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily
@@ -2078,7 +2315,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **50. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
+- **51. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
   - **Best for:** Viewpoint — Andrew's take: 'Some places make you stop and appreciate just how beautiful the world really is.' Lake of the Clouds, tucked in the heart of Michigan's Porcupine Mountains Wilderness State Park, is one of those places that never fails to impress — his photos catch it in full fall color.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Lake of the Clouds — Porcupine Mountains, Michigan](https://www.instagram.com/p/DeSzUHXjWNr/) by @andrew_krzesinski (#1 in that reel)
@@ -2089,13 +2326,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Café stop · Mid-ride café and bike shop in town
 
-- **51. [Meriwether Café and Bike Shop](https://www.google.com/maps/search/?api=1&query=Meriwether+Cafe+Rocheport+MO)** — Rocheport, Rocheport
+- **52. [Meriwether Café and Bike Shop](https://www.google.com/maps/search/?api=1&query=Meriwether+Cafe+Rocheport+MO)** — Rocheport, Rocheport
   - **Best for:** Café stop · Mid-ride café and bike shop in town — The reel's mid-ride stop in the middle of Rocheport: a café and bike shop — the pause that makes the day feel like exactly what fall in a small Missouri town should feel like.
   - 🎬 Source: [One of the prettiest fall bike rides in all of Missouri](https://www.instagram.com/reel/DfXpx4QxQFZ/) by @everydayoutdoorfamily (#None in that reel)
 
 ##### Small town · Prettiest fall day-trip town on the Missouri River
 
-- **52. [Rocheport](https://www.google.com/maps/search/?api=1&query=Rocheport+MO)** — Rocheport, Rocheport
+- **53. [Rocheport](https://www.google.com/maps/search/?api=1&query=Rocheport+MO)** — Rocheport, Rocheport
   - **Best for:** Small town · Prettiest fall day-trip town on the Missouri River — The reel's pick for the perfect Missouri fall day trip: a small river town on the Missouri River bluffs — wander the town, see the bluffs at peak fall foliage, and use it as the base for a Katy Trail ride.
   - 🎬 Source: [One of the prettiest fall bike rides in all of Missouri](https://www.instagram.com/reel/DfXpx4QxQFZ/) by @everydayoutdoorfamily (#None in that reel)
   - 🎬 Also recommended by: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily
@@ -2107,7 +2344,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **53. [Rock Bridge Memorial State Park](https://www.google.com/maps/search/?api=1&query=Rock+Bridge+Memorial+State+Park)** — Rock Bridge Memorial State Park, Columbia
+- **54. [Rock Bridge Memorial State Park](https://www.google.com/maps/search/?api=1&query=Rock+Bridge+Memorial+State+Park)** — Rock Bridge Memorial State Park, Columbia
   - **Best for:** Hike / Cave · Natural rock bridge and Devil's Icebox cave — The day trip's start (5901 South Highway 163, Columbia): a beautiful state park with amazing fall colors, multiple caves, and a natural rock arch. Take the short Devil's Icebox trail along a boardwalk and steps to see the rock bridge and cave entrances.
   - 🎬 Source: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily (#None in that reel)
 
@@ -2117,7 +2354,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Milky Way over the tallgrass prairie
 
-- **54. [Tallgrass Prairie National Preserve](https://www.google.com/maps/search/?api=1&query=Tallgrass+Prairie+National+Preserve)** — Tallgrass Prairie National Preserve, Strong City
+- **55. [Tallgrass Prairie National Preserve](https://www.google.com/maps/search/?api=1&query=Tallgrass+Prairie+National+Preserve)** — Tallgrass Prairie National Preserve, Strong City
   - **Best for:** Stargazing · Milky Way over the tallgrass prairie — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. The preserve is shown under the Milky Way — some of the darkest skies in Kansas over the last stand of tallgrass prairie.
   - 🎬 Source: [20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/) by @midwestlivingmag (#None in that reel)
 
@@ -2127,51 +2364,73 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **55. [Boicourt Overlook](https://www.google.com/maps/search/?api=1&query=Boicourt+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **56. [Boicourt Overlook](https://www.google.com/maps/search/?api=1&query=Boicourt+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / South Unit overlook trail — A South Unit favorite on Kelley & Carl's Dakotas road trip — the short Boicourt Overlook Trail to one of the South Unit's best badlands views.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Theodore Roosevelt favorite, underrated parks list — The Boicourt Overlook Trail is one of Kelley & Carl's favorite spots in underrated Theodore Roosevelt National Park.
-- **56. [Buck Hill](https://www.google.com/maps/search/?api=1&query=Buck+Hill+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Theodore Roosevelt favorite — The Boicourt Overlook Trail is one of Kelley & Carl's favorite spots in Theodore Roosevelt, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — The Boicourt Overlook Trail (0.8 miles, 50 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
+- **57. [Buck Hill](https://www.google.com/maps/search/?api=1&query=Buck+Hill+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Short climb to a South Unit high point — A South Unit favorite on Kelley & Carl's Dakotas road trip — the Buck Hill Trail, a quick climb to one of the highest spots in the South Unit.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Theodore Roosevelt favorite, underrated parks list — The Buck Hill Trail is one of Kelley & Carl's favorite spots in underrated Theodore Roosevelt National Park.
-- **57. [Caprock Coulee Trail](https://www.google.com/maps/search/?api=1&query=Caprock+Coulee+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Theodore Roosevelt favorite — Buck Hill is one of Kelley & Carl's favorite spots in Theodore Roosevelt, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 1 — Buck Hill (0.4 miles, 150 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
+- **58. [Caprock Coulee Trail](https://www.google.com/maps/search/?api=1&query=Caprock+Coulee+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / North Unit badlands loop past River Bend — A North Unit favorite on Kelley & Carl's Dakotas road trip — the Caprock Coulee Trail, usually called the best hike in the North Unit, looping past the River Bend Overlook along the badlands rim.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Theodore Roosevelt favorite, underrated parks list — The Caprock Coulee Trail is one of Kelley & Carl's favorite spots in underrated Theodore Roosevelt National Park.
-- **58. [Painted Canyon](https://www.google.com/maps/search/?api=1&query=Painted+Canyon+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Theodore Roosevelt favorite — The Caprock Coulee Trail is one of Kelley & Carl's favorite spots in Theodore Roosevelt, in their most-underrated-parks list.
+- **59. [Painted Canyon](https://www.google.com/maps/search/?api=1&query=Painted+Canyon+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Colorful badlands at the I-94 rest area — A South Unit favorite on Kelley & Carl's Dakotas road trip — Painted Canyon, the striped badlands amphitheater at the interstate rest area, with a trail dropping into the formations.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Theodore Roosevelt favorite, underrated parks list — Painted Canyon is one of Kelley & Carl's favorite spots in underrated Theodore Roosevelt National Park.
-- **59. [Wind Canyon Trail](https://www.google.com/maps/search/?api=1&query=Wind+Canyon+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Underrated parks — Theodore Roosevelt favorite — Painted Canyon is one of Kelley & Carl's favorite spots in Theodore Roosevelt, in their most-underrated-parks list.
+- **60. [Wind Canyon Trail](https://www.google.com/maps/search/?api=1&query=Wind+Canyon+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Sunset hike over the Little Missouri River — A South Unit favorite on Kelley & Carl's Dakotas road trip — the Wind Canyon Trail, which they single out specifically at sunset for its view over the Little Missouri River.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Theodore Roosevelt favorite, underrated parks list — The Wind Canyon Trail is one of Kelley & Carl's favorite spots in underrated Theodore Roosevelt National Park.
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
     - **Best for:** Sunset / Favorite Theodore Roosevelt activity, underrated list — Sunset at the Wind Canyon Trail — on a golden-hour wildlife drive of the North and South Units — is Kelley & Carl's favorite Theodore Roosevelt activity in their underrated-parks list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Theodore Roosevelt favorite — The Wind Canyon Trail is one of Kelley & Carl's favorite spots in Theodore Roosevelt, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / Epic sunset spots — 'absolute perfection' — The Wind Canyon Trail (an easy 0.5-mile hike) at sunset is 'absolute perfection' — one of Kelley & Carl's 10 epic national park sunset spots.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — The Wind Canyon Trail (1 mile, 50 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
 
 ##### Overlook
 
-- **60. [Oxbow Overlook](https://www.google.com/maps/search/?api=1&query=Oxbow+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **61. [Oxbow Overlook](https://www.google.com/maps/search/?api=1&query=Oxbow+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Overlook / End of the North Unit scenic drive — A North Unit favorite on Kelley & Carl's Dakotas road trip — Oxbow Overlook, the panorama at the end of the 14-mile scenic drive where the Little Missouri makes its hard turn east.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Theodore Roosevelt favorite, underrated parks list — The Oxbow Overlook is one of Kelley & Carl's favorite spots in underrated Theodore Roosevelt National Park.
-- **61. [River Bend Overlook](https://www.google.com/maps/search/?api=1&query=River+Bend+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Underrated parks — Theodore Roosevelt favorite — Oxbow Overlook is one of Kelley & Carl's favorite spots in Theodore Roosevelt, in their most-underrated-parks list.
+- **62. [River Bend Overlook](https://www.google.com/maps/search/?api=1&query=River+Bend+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Overlook / CCC stone shelter above the Little Missouri — A North Unit favorite on Kelley & Carl's Dakotas road trip — the River Bend Overlook Trail, a short walk to the 1937 CCC stone shelter on a butte edge, maybe the most photographed view in the park.
   - Coordinates from Snoflo's River Bend Overlook point-of-interest listing (47.6102, -103.3779); OpenStreetMap has no feature for it.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Theodore Roosevelt favorite, underrated parks list — The River Bend Overlook is one of Kelley & Carl's favorite spots in underrated Theodore Roosevelt National Park.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Underrated parks — Theodore Roosevelt favorite — River Bend Overlook is one of Kelley & Carl's favorite spots in Theodore Roosevelt, in their most-underrated-parks list.
 
 ##### Underrated park
 
-- **62. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **63. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Underrated park — His #2 underrated park: badlands terrain, bison crossing a road, wild horses at sunset, prairie dogs, and a river sunset view.
   - Park-level pin is the park's Nominatim point in the South Unit.
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#2 in that reel)
@@ -2189,6 +2448,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Road trip / Great American West trip park — Theodore Roosevelt — North and South Unit favorites, bison and wild horses — is one of the six parks on Kelley & Carl's Great American West road trip.
   - 🎬 Also recommended by: [The Great American West road trip — 6 parks, 18 days](https://www.instagram.com/reel/DXg10pqj5IT/) by @kelleyandcarlsadventures
     - **Best for:** Road trip / Great American West road trip park — Theodore Roosevelt is one of the six parks on Kelley & Carl's Great American West road trip — at least 18 days for the whole loop, best July–September.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Theodore Roosevelt is one of the 17 national parks Kelley & Carl rated from their 2025 travels.
+  - 🎬 Also recommended by: [6 national parks, 1 epic road trip — Dakotas, Wyoming & Montana](https://www.instagram.com/p/DNd1E4ZRizG/) by @kelleyandcarlsadventures
+    - **Best for:** Road trip / Best park-to-park route — Day 2 — Theodore Roosevelt is Day 2 (plus Day 3 morning) on Kelley & Carl's 'best park-to-park road trip' — 6 parks in 8 days from Minneapolis.
+  - 🎬 Also recommended by: [Wildlife of the Dakotas, Wyoming and Montana](https://www.instagram.com/p/DNLdiJmx4h9/) by @kelleyandcarlsadventures
+    - **Best for:** Wildlife / Wildlife in the parks — bison, prairie dogs, horses — Theodore Roosevelt is one of the 4 parks Kelley & Carl name as the best for wildlife — bison, prairie dogs and wild horses in the North Dakota badlands.
 
 ### Torch Lake
 
@@ -2196,7 +2461,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Fall colors
 
-- **63. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
+- **64. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
   - **Best for:** Fall colors — The 'Caribbean of the Midwest' in autumn: Torch Lake's turquoise, crystal-clear water and shallow sandbars ringed by peak fall color — the reel's drone shots show deep blue open water against shores of red and gold. The caption pitches the area's wineries and orchards as a perfect Michigan fall road trip.
   - Pin is OpenStreetMap's point for the long Torch Lake near Traverse City (Antrim County) — not the smaller Torch Lake in the Keweenaw Peninsula.
   - 🎬 Source: [Torch Lake in Fall feels like the movies](https://www.instagram.com/reel/DfUu09yRN3C/) by @marco.horizons (#None in that reel)
@@ -2207,7 +2472,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Lake country · Misty dawn lakes in the North Woods
 
-- **64. [Voyageurs National Park](https://www.google.com/maps/search/?api=1&query=Voyageurs+National+Park)** — Voyageurs National Park, International Falls
+- **65. [Voyageurs National Park](https://www.google.com/maps/search/?api=1&query=Voyageurs+National+Park)** — Voyageurs National Park, International Falls
   - **Best for:** Lake country · Misty dawn lakes in the North Woods — One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Mist rising over a calm lake at dawn — Minnesota's water-based national park, a maze of island lakes on the Canadian border explored by boat and houseboat.
   - 🎬 Source: [Places in the USA you need to visit before you die](https://www.instagram.com/reel/Dfc7s0XMtxX/) by @tedsalwaystraveling (#None in that reel)
 
@@ -2217,7 +2482,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · Small wooded falls on a short boardwalk walk
 
-- **65. [Wagner Falls](https://www.google.com/maps/search/?api=1&query=Wagner+Falls+Michigan)** — Wagner Falls Scenic Site, Munising
+- **66. [Wagner Falls](https://www.google.com/maps/search/?api=1&query=Wagner+Falls+Michigan)** — Wagner Falls Scenic Site, Munising
   - **Best for:** Waterfall · Small wooded falls on a short boardwalk walk — One of the reel's Michigan fall stops: Wagner Falls, a smaller wooded waterfall just south of Munising, reached by a short boardwalk trail through the pines — Wagner Creek cascades over rock shelves in a hemlock-shaded gorge.
   - 🎬 Source: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham (#None in that reel)
 
@@ -2227,7 +2492,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Small town · Historic downtown, shops and fall orchards
 
-- **66. [Weston](https://www.google.com/maps/search/?api=1&query=Weston+Missouri)** — Weston, Weston
+- **67. [Weston](https://www.google.com/maps/search/?api=1&query=Weston+Missouri)** — Weston, Weston
   - **Best for:** Small town · Historic downtown, shops and fall orchards — The reel's second stop: downtown Weston, with adorable local shops, boutiques and historic streets — plus nearby orchards, seasonal farm activities, and fall events to round out the day trip.
   - 🎬 Source: [A fall day trip 40 minutes from Kansas City: Weston Bend + Weston, MO](https://www.instagram.com/reel/De5xjn8S4vF/) by @throughourlinds (#None in that reel)
 
@@ -2237,7 +2502,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic overlook · Fall hiking above the Missouri River
 
-- **67. [Weston Bend State Park](https://www.google.com/maps/search/?api=1&query=Weston+Bend+State+Park+MO)** — Weston Bend State Park, Weston
+- **68. [Weston Bend State Park](https://www.google.com/maps/search/?api=1&query=Weston+Bend+State+Park+MO)** — Weston Bend State Park, Weston
   - **Best for:** Scenic overlook · Fall hiking above the Missouri River — The reel's day-trip anchor, 40 minutes from Kansas City: start at the scenic overlook for sweeping views of the Missouri River valley and fall foliage, then walk the wooded bluff trails (paved and natural-surface options). There's a campground too — the creators camped here and recommend it for turning the day trip into a weekend.
   - 🎬 Source: [A fall day trip 40 minutes from Kansas City: Weston Bend + Weston, MO](https://www.instagram.com/reel/De5xjn8S4vF/) by @throughourlinds (#None in that reel)
 
@@ -2247,16 +2512,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **68. [Rankin Ridge Interpretive Trail](https://www.google.com/maps/search/?api=1&query=Rankin+Ridge+Interpretive+Trail+Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **69. [Rankin Ridge Interpretive Trail](https://www.google.com/maps/search/?api=1&query=Rankin+Ridge+Interpretive+Trail+Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Hiking / Highest point in the park, fire tower loop — Kelley & Carl's above-ground must-do at Wind Cave on their Dakotas road trip — the Rankin Ridge Interpretive Trail, a 1-mile loop to the park's highest point (5,013 ft) and its fire tower, with 360-degree Black Hills views.
   - Trailhead coordinates (43.6228, -103.4859) from Hikespeak's Rankin Ridge Trail guide; OpenStreetMap has no feature for it.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [6 national parks, 1 epic road trip — the Great American West](https://www.instagram.com/p/DXcU5ytlvtf/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Wind Cave highlight, Great American West trip — The Rankin Ridge Trail is a Wind Cave highlight on Kelley & Carl's 6-park Great American West road trip.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — The Rankin Ridge Trail (1 mile, 200 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
 
 ##### Road trip stop
 
-- **69. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **70. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Road trip stop — Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 — book a timed cave tour in advance, per her tip.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#4 in that reel)
@@ -2266,6 +2533,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Cave tour / Great American West trip park — Wind Cave — cave tours and the Rankin Ridge hike — is one of the six parks on Kelley & Carl's Great American West road trip.
   - 🎬 Also recommended by: [The Great American West road trip — 6 parks, 18 days](https://www.instagram.com/reel/DXg10pqj5IT/) by @kelleyandcarlsadventures
     - **Best for:** Road trip / Great American West road trip park — Wind Cave is one of the six parks on Kelley & Carl's Great American West road trip — at least 18 days for the whole loop, best July–September.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — 3/10 — Kelley & Carl rate Wind Cave just 3/10 among the parks they visited in 2025 — a broken elevator limited their visit.
+  - 🎬 Also recommended by: [6 national parks, 1 epic road trip — Dakotas, Wyoming & Montana](https://www.instagram.com/p/DNd1E4ZRizG/) by @kelleyandcarlsadventures
+    - **Best for:** Road trip / Best park-to-park route — Day 4 — Wind Cave is Day 4 on Kelley & Carl's 'best park-to-park road trip' (they suggest Black Hills and Custer State Park stops, not pinned).
 
 ### Wyalusing State Park
 
@@ -2273,14 +2544,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Caves
 
-- **70. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
+- **71. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Caves / Stargazing — 'This state park surprised us': 14+ miles of trails with caves to explore, an astronomy center that's perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.
   - Pin is OpenStreetMap's Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.
   - 🎬 Source: [This state park surprised us — Wyalusing State Park, Wisconsin](https://www.instagram.com/reel/DfTBMuDhL7P/) by @thekateandcody (#None in that reel)
 
 ##### Hike
 
-- **71. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
+- **72. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Hike — The creators' favorite trail in the park: the Old Immigrant & Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/old-immigrant-trail-and-bluff-trail-loop)
   - Pin is OpenStreetMap's Old Immigrant Trail point within Wyalusing State Park.
@@ -2288,7 +2559,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Southwest Region {#southwest}
 
-**152 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
+**154 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
 
 ### Arches National Park
 
@@ -2314,6 +2585,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Rated 8/10, Utah ratings — Rated 8/10 in Kelley & Carl's Utah hike ratings: the Delicate Arch Trail in Arches.
   - 🎬 Also recommended by: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Utah road trip favorite, Arches — Delicate Arch is a favorite on Kelley & Carl's ultimate Utah road trip.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 8/10 — Kelley & Carl rate Delicate Arch 8/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest guide, Arches — Delicate Arch is a headline stop in Kelley & Carl's Southwest guide to Arches.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — The Delicate Arch Trail (3.2 miles, 629 ft — 'the most iconic arch in Utah and the entire world!') is one of the 10 best Southwest hikes in Kelley & Carl's list.
 - **2. [Devil's Garden](https://www.google.com/maps/search/?api=1&query=Devil's+Garden+Arches+National+Park+UT)** — Arches National Park, Moab
   - **Best for:** Hike — Ranked #1 unique hike, showcasing large natural arches including Landscape Arch and red rock formations.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/devils-garden-loop-trail-with-7-arches)
@@ -2328,6 +2605,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Rated 7/10, Utah ratings — Rated 7/10 in Kelley & Carl's Utah hike ratings: the Windows & Turret Arch Trail in Arches.
   - 🎬 Also recommended by: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Utah road trip favorite, Arches — Windows and Turret Arch are favorites on Kelley & Carl's ultimate Utah road trip.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 6/10 — Kelley & Carl rate the Windows Loop & Turret Arch 6/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest guide, Arches — The Windows Section is a headline stop in Kelley & Carl's Southwest guide to Arches.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — The Windows Loop & Turret Arch (1.1-mile easy loop, 134 ft) is one of the 10 best Southwest hikes in Kelley & Carl's list.
 
 ##### Stargazing
 
@@ -2375,6 +2658,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Adventure / Favorite Big Bend activity, underrated list — Canoeing Santa Elena Canyon is one of Kelley & Carl's favorite Big Bend activities in their underrated-parks list.
   - 🎬 Also recommended by: [The best national parks to visit in spring](https://www.instagram.com/p/DVWWaIYjmiW/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Spring parks — Big Bend — Santa Elena Canyon is a Big Bend highlight in Kelley & Carl's best spring parks list — comfortable temperatures and wildflowers.
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / NM & TX road trip, Big Bend must-see — Santa Elena Canyon is a must-see on Kelley & Carl's New Mexico & Texas winter road trip stop at Big Bend (they also list canoe trips and stargazing).
 
 ##### Featured spot (guessing game)
 
@@ -2389,6 +2674,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Hike — Ranked #4, with expansive 360-degree mountain vistas from a rocky summit.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/texas/emory-peak-trail)
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#4 in that reel)
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Summit hike / NM & TX road trip, Big Bend pick — Emory Peak is a featured Big Bend hike on Kelley & Carl's New Mexico & Texas winter road trip.
 
 ##### Hiking
 
@@ -2406,6 +2693,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Big Bend favorite, underrated parks list — The Lost Mine Trail is one of Kelley & Carl's favorite spots in underrated Big Bend National Park.
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite Big Bend activity, underrated list — Hiking the Lost Mine Trail is one of Kelley & Carl's favorite Big Bend activities in their underrated-parks list.
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / NM & TX road trip, Big Bend pick — The Lost Mine Trail is a featured Big Bend hike on Kelley & Carl's New Mexico & Texas winter road trip — they note its small lot was the only parking difficulty of the trip, in the morning.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — The Lost Mine Trail (4.8 miles, 1,100 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
 
 ##### Hot spring
 
@@ -2422,10 +2713,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Source: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Our all-time favorite national park roads](https://www.instagram.com/reel/DYIHd2WpJ4p/) by @kelleyandcarlsadventures
     - **Best for:** Scenic drive / All-time favorite national park road — The Ross Maxwell Scenic Drive is one of Kelley & Carl's all-time favorite national park roads.
+  - 🎬 Also recommended by: [10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Most beautiful national park roads — The Ross Maxwell Scenic Drive — 'the perfect mix of desert and mountain; drive during golden hour' — is one of the 10 most beautiful national park roads in Kelley & Carl's list.
+
+##### Sunset
+
+- **13. [Sotol Vista Overlook](https://www.google.com/maps/search/?api=1&query=Sotol+Vista+Overlook+Big+Bend+National+Park+TX)** — Big Bend National Park, Big Bend National Park
+  - **Best for:** Sunset / High panorama over western Big Bend from Ross Maxwell Drive — One of Kelley & Carl's epic national park sunset spots: Sotol Vista Overlook, right off the Ross Maxwell Scenic Drive in Big Bend, with the whole western side of the park — and Santa Elena Canyon in the distance — spread out below.
+  - Coordinates from the NPS place record for Sotol Vista Overlook.
+  - 🎬 Source: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Top national park
 
-- **13. [Big Bend National Park](https://www.google.com/maps/search/?api=1&query=Big+Bend+National+Park+TX)** — Big Bend National Park, Terlingua
+- **14. [Big Bend National Park](https://www.google.com/maps/search/?api=1&query=Big+Bend+National+Park+TX)** — Big Bend National Park, Terlingua
   - **Best for:** Top national park — Ranked #20 in his top national parks, shown with rocky canyons, Window Trail views and desert landscapes.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#20 in that reel)
   - 🎬 Also recommended by: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild
@@ -2434,6 +2734,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Stargazing — Ranked #3 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - 🎬 Also recommended by: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures
     - **Best for:** National park / New Mexico & Texas road trip stop — Stop 4 on Kelley & Carl's New Mexico & Texas road trip: must-sees are Santa Elena Canyon, the Lost Mine Trail and Balanced Rock (trail and rock pins added from this post), and you can canoe into Santa Elena Canyon on a tour.
+  - 🎬 Also recommended by: [5 desert national parks to visit this winter](https://www.instagram.com/p/DRU7AlWCXrx/) by @kelleyandcarlsadventures
+    - **Best for:** Winter visit / Desert parks for winter — Big Bend is one of Kelley & Carl's 5 desert parks to visit in winter — mild, dry days in the 60s and chilly nights, so bring warm layers for the evening.
 
 ### Big Bend Ranch State Park
 
@@ -2441,7 +2743,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Vast desert with minimal light pollution
 
-- **14. [Big Bend Ranch State Park](https://www.google.com/maps/search/?api=1&query=Big+Bend+Ranch+State+Park+TX)** — Big Bend Ranch State Park, Presidio
+- **15. [Big Bend Ranch State Park](https://www.google.com/maps/search/?api=1&query=Big+Bend+Ranch+State+Park+TX)** — Big Bend Ranch State Park, Presidio
   - **Best for:** Stargazing · Vast desert with minimal light pollution — The carousel's Texas pick: the sprawling state park west of Big Bend National Park, where vast desert landscapes and minimal light pollution create extraordinary stargazing.
   - 🎬 Source: [You haven't really seen the night sky until you've visited places like these](https://www.instagram.com/p/DfD2yGrmvkK/) by @earthpulse111 (#None in that reel)
 
@@ -2451,7 +2753,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **15. [Bisti Badlands](https://www.google.com/maps/search/?api=1&query=Bisti+De-Na-Zin+Wilderness+NM)** — Bisti/De-Na-Zin Wilderness, Farmington
+- **16. [Bisti Badlands](https://www.google.com/maps/search/?api=1&query=Bisti+De-Na-Zin+Wilderness+NM)** — Bisti/De-Na-Zin Wilderness, Farmington
   - **Best for:** Stargazing — One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#None in that reel)
@@ -2464,7 +2766,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **16. [Bonneville Salt Flats](https://www.google.com/maps/search/?api=1&query=Bonneville+Salt+Flats+UT)** — Bonneville Salt Flats, Wendover
+- **17. [Bonneville Salt Flats](https://www.google.com/maps/search/?api=1&query=Bonneville+Salt+Flats+UT)** — Bonneville Salt Flats, Wendover
   - **Best for:** Viewpoint — Ranked #8 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': endless white salt stretching to the horizon.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [9 Places in Utah That Look Unreal — None in a National Park](https://www.instagram.com/reel/DfKQdjWx1L3/) by @adventurefamilyvlog (#8 in that reel)
@@ -2475,7 +2777,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **17. [Fairyland Loop](https://www.google.com/maps/search/?api=1&query=Fairyland+Loop+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce
+- **18. [Fairyland Loop](https://www.google.com/maps/search/?api=1&query=Fairyland+Loop+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce
   - **Best for:** Hike — Ranked #4 unique hike, featuring orange-red hoodoos, snow on the trail and views through natural rock windows.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/fairyland-loop-trail)
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#4 in that reel)
@@ -2483,7 +2785,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite Bryce hike — The Bryce Canyon stop of Kelley & Carl's ultimate Southwest road trip names the Fairyland Loop Trail a favorite hike.
   - 🎬 Also recommended by: [6 national parks that feel like another planet](https://www.instagram.com/p/DWO7udFjvUc/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Otherworldly parks, Bryce — The Fairyland Loop is a listed hike in otherworldly Bryce Canyon in Kelley & Carl's list.
-- **18. [Mossy Cave](https://www.google.com/maps/search/?api=1&query=Mossy+Cave+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
+- **19. [Mossy Cave](https://www.google.com/maps/search/?api=1&query=Mossy+Cave+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
   - **Best for:** Hike / Short walk to a grotto and waterfall on the park's east side — Rated 5/10 in Kelley & Carl's honest ratings for Utah national park hikes: Mossy Cave is the short, family-friendly walk off UT-12 to a mossy grotto and the Water Canyon waterfall — the lowest-rated of their Utah picks, but the easiest stop in Bryce.
   - Pin is the OSM Mossy Cave trailhead point off UT-12.
   - 🎬 Source: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DeUfEqFlu1G/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2497,7 +2799,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Best waterfalls list (Tropic Ditch Falls) — Tropic Ditch Falls, along the short, easy 1-mile Mossy Cave Trail, is on Kelley & Carl's 10 best national park waterfalls list.
   - 🎬 Also recommended by: [Bryce Canyon in one day — highest concentration of hoodoos on Earth](https://www.instagram.com/reel/DWRfQKRpxeT/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Bryce one-day itinerary optional hike — Mossy Cave is the optional hike in Kelley & Carl's one-day Bryce Canyon itinerary.
-- **19. [Navajo Loop and Queen's Garden Trail](https://www.google.com/maps/search/?api=1&query=Navajo+Loop+and+Queens+Garden+Trail+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 5/10 — Kelley & Carl rate the Mossy Cave Trail 5/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — The Mossy Cave Trail (0.9 easy miles, 121 ft, with a hidden-gem waterfall) is one of the 10 best Southwest hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Tropic Ditch Falls — Tropic Ditch Falls (via the 0.9-mile Mossy Cave Trail — the falls is right next to the cave) is one of Kelley & Carl's top 11 national park waterfalls.
+- **20. [Navajo Loop and Queen's Garden Trail](https://www.google.com/maps/search/?api=1&query=Navajo+Loop+and+Queens+Garden+Trail+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
   - **Best for:** Hike / The classic Bryce amphitheater loop through Wall Street and the Queen's Garden — Rated a perfect 10/10 in Kelley & Carl's honest ratings for Utah national park hikes — the best hike in Bryce Canyon. Their photography post pairs it with sunrise at Inspiration Point: watch the hoodoos glow, then hike the loop immediately after.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/navajo-loop-and-queens-garden-trail)
   - Pin is the Sunset Point trailhead (Visit Utah's published trailhead GPS) — the Navajo Loop drops from Sunset Point and the Queen's Garden side returns via Sunrise Point.
@@ -2526,17 +2834,31 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Utah road trip favorite, Bryce — The Navajo Loop & Queens Garden is Kelley & Carl's favorite Bryce hike on their ultimate Utah road trip.
   - 🎬 Also recommended by: [Bryce Canyon in one day — highest concentration of hoodoos on Earth](https://www.instagram.com/reel/DWRfQKRpxeT/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Bryce one-day itinerary hike — The Navajo Loop & Queens Garden is the hike in Kelley & Carl's one-day Bryce Canyon itinerary, right after sunrise.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 10/10 — Kelley & Carl rate the Navajo Loop & Queen's Garden Trail a perfect 10/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest guide, Bryce Canyon — The Navajo Loop is the headline hike in Kelley & Carl's Southwest guide to Bryce Canyon.
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — The Navajo Loop & Queen's Garden Trail (3 miles RT, 652 ft) is one of Kelley & Carl's 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — The Navajo Loop & Queen's Garden Trail (3 moderate miles, 652 ft) is one of the 10 best Southwest hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 of the most otherworldly national parks](https://www.instagram.com/p/DQmiUXoCfc0/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Otherworldly parks — Bryce feature — The Navajo Loop & Queen's Garden headlines the Bryce Canyon section of Kelley & Carl's most-otherworldly-parks list.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip — 14 days](https://www.instagram.com/p/DP7GrBBiWBs/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest itinerary — Bryce slide pick — The Navajo Loop & Queen's Garden is the Bryce Canyon hike named in Kelley & Carl's 14-day Southwest itinerary (Day 9 in Bryce).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 1 — The Navajo Loop & Queen's Garden Trail (3 miles, 650 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
 
 ##### Hiking
 
-- **20. [Peekaboo Loop](https://www.google.com/maps/search/?api=1&query=Peekaboo+Loop+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
+- **21. [Peekaboo Loop](https://www.google.com/maps/search/?api=1&query=Peekaboo+Loop+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
   - **Best for:** Hiking / Bryce's hoodoo backcountry loop — On Kelley & Carl's otherworldly-parks list for Bryce Canyon: the Peekaboo Loop, a 5.5-mile roller-coaster through the densest hoodoo country in the park — the Wall of Windows and the Three Wise Men — from Bryce Point.
   - Coordinates are the Visit Utah Bryce Point trailhead GPS.
   - 🎬 Source: [6 national parks that feel like another planet](https://www.instagram.com/p/DWO7udFjvUc/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Sunrise
 
-- **21. [Sunrise Point](https://www.google.com/maps/search/?api=1&query=Sunrise+Point+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce Canyon City
+- **22. [Sunrise Point](https://www.google.com/maps/search/?api=1&query=Sunrise+Point+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Bryce Canyon City
   - **Best for:** Sunrise — Ranked #1 for sunrise in the reel, its top pick. Snow-dusted hoodoos bathed in intense golden-orange morning light.
   - Rim overlook at the north end of the Bryce Amphitheater, start of the Queens Garden Trail.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#1 in that reel)
@@ -2544,10 +2866,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Overlook / Favorite Bryce overlook — Sunrise Point is one of Kelley & Carl's favorite Bryce Canyon overlooks on their ultimate Southwest road trip, with Inspiration Point and Sunset Point.
   - 🎬 Also recommended by: [Bryce Canyon in one day — highest concentration of hoodoos on Earth](https://www.instagram.com/reel/DWRfQKRpxeT/) by @kelleyandcarlsadventures
     - **Best for:** Sunset / Bryce one-day itinerary golden hour — Golden hour at Sunrise Point closes Kelley & Carl's one-day Bryce Canyon itinerary.
+  - 🎬 Also recommended by: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / Epic sunset spots — golden hour glow — Sunrise Point — counter to its name, glowing at golden hour/sunset — is one of Kelley & Carl's 10 epic national park sunset spots.
 
 ##### Top national park
 
-- **22. [Bryce Canyon National Park](https://www.google.com/maps/search/?api=1&query=Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
+- **23. [Bryce Canyon National Park](https://www.google.com/maps/search/?api=1&query=Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
   - **Best for:** Top national park — Ranked #19, featuring orange hoodoos at sunset and snow-dusted formations.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#19 in that reel)
   - 🎬 Also recommended by: [Park scenery — Bryce Canyon National Park](https://www.instagram.com/reel/DGx4mhMJiZv/) by @amorywild
@@ -2563,7 +2887,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **23. [Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
+- **24. [Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point+Bryce+Canyon+National+Park+UT)** — Bryce Canyon National Park, Tropic
   - **Best for:** Viewpoint / Three-tier rim overlook over the Silent City hoodoos — First on Kelley & Carl's 'high reward with little effort' overlooks list: 'Probably our all time favorite national park sunrise ever. Seeing the glowing hoodoos here was pure magic!' Their photography post repeats the play: sunrise at Inspiration Point, then immediately hike the Navajo Loop.
   - Pin is the OSM Inspiration Point parking/overlook point on the Bryce rim.
   - 🎬 Source: [High reward with little effort — 10 of the best overlooks](https://www.instagram.com/p/Dd61E_2CYb7/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2581,6 +2905,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / No-hike Southwest view — Inspiration Point at Bryce Canyon is one of Kelley & Carl's best no-hike views in the Southwest.
   - 🎬 Also recommended by: [Bryce Canyon in one day — highest concentration of hoodoos on Earth](https://www.instagram.com/reel/DWRfQKRpxeT/) by @kelleyandcarlsadventures
     - **Best for:** Sunrise / Bryce one-day itinerary sunrise — Sunrise at Inspiration Point opens Kelley & Carl's one-day Bryce Canyon itinerary — the morning glow on the hoodoos will blow your mind.
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — park right at the overlook — Inspiration Point at sunrise — park right next to it, no hiking required — is one of Kelley & Carl's 10 best national park sunrise spots.
+  - 🎬 Also recommended by: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best overlooks, no hiking — Inspiration Point is one of Kelley & Carl's 10 best national park overlooks with no hiking required.
 
 ### Canyon de Chelly National Monument
 
@@ -2588,7 +2916,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **24. [White House Ruin Trail](https://www.google.com/maps/search/?api=1&query=White+House+Ruin+Trail+Canyon+de+Chelly+National+Monument+AZ)** — Canyon de Chelly National Monument, Chinle
+- **25. [White House Ruin Trail](https://www.google.com/maps/search/?api=1&query=White+House+Ruin+Trail+Canyon+de+Chelly+National+Monument+AZ)** — Canyon de Chelly National Monument, Chinle
   - **Best for:** Hiking / The canyon's only unguided floor trail — A highlight of Kelley & Carl's ultimate Arizona road trip: the White House Ruin Trail, the only trail into Canyon de Chelly visitors can hike without a guide — switchbacks and a tunnel down to the White House Ruin, an Ancestral Puebloan cliff dwelling on the canyon floor.
   - 🎬 Source: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Canyon de Chelly — 5,000 years of history](https://www.instagram.com/reel/DV1KdU3JaY6/) by @kelleyandcarlsadventures
@@ -2598,7 +2926,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **25. [Spider Rock](https://www.google.com/maps/search/?api=1&query=Spider+Rock+Canyon+de+Chelly+National+Monument+AZ)** — Canyon de Chelly National Monument, Chinle
+- **26. [Spider Rock](https://www.google.com/maps/search/?api=1&query=Spider+Rock+Canyon+de+Chelly+National+Monument+AZ)** — Canyon de Chelly National Monument, Chinle
   - **Best for:** Viewpoint / An 800-foot sandstone spire — A highlight of Kelley & Carl's ultimate Arizona road trip: Spider Rock, the twin-towered 800-foot spire rising from Canyon de Chelly's floor at the South Rim's end — Spider Woman's home in Diné (Navajo) tradition.
   - 🎬 Source: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Best no-hike views in the Southwest](https://www.instagram.com/p/DVl30XQjqkP/) by @kelleyandcarlsadventures
@@ -2614,13 +2942,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **26. [Joint Trail](https://www.google.com/maps/search/?api=1&query=Joint+Trail+Canyonlands+National+Park+UT)** — Canyonlands National Park, Needles District
+- **27. [Joint Trail](https://www.google.com/maps/search/?api=1&query=Joint+Trail+Canyonlands+National+Park+UT)** — Canyonlands National Park, Needles District
   - **Best for:** Hike — Ranked #2 unique hike, with hikers squeezing through extremely narrow slot canyons between tall sandstone walls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/joint-trail)
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#2 in that reel)
   - 🎬 Also recommended by: [Hiking — Joint Trail](https://www.instagram.com/reel/DdGt8sqhy8-/) by @amorywild
     - **Best for:** Slot canyon / Hike — Caption names Canyonlands' Joint Trail. The video follows a hiker deeper into an extremely narrow sandstone slot canyon, with vertical walls, sandy uneven ground, and only a sliver of sky above; on-screen text says, 'We went to every national park, and this hike still stands out...'
-- **27. [Mesa Arch](https://www.google.com/maps/search/?api=1&query=Mesa+Arch+Canyonlands+National+Park+UT)** — Canyonlands National Park, Moab
+- **28. [Mesa Arch](https://www.google.com/maps/search/?api=1&query=Mesa+Arch+Canyonlands+National+Park+UT)** — Canyonlands National Park, Moab
   - **Best for:** Hike / Cliff-edge arch famous for sunrise glowing through its span — Rated 6/10 in Kelley & Carl's honest ratings for Utah national park hikes: the short Mesa Arch trail in the Island in the Sky district — the arch frames the La Sal Mountains and glows orange from underneath at sunrise.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/mesa-arch)
   - Pin is the OSM Mesa Arch point (the arch itself, just past the trailhead).
@@ -2629,16 +2957,22 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Rated 6/10, Utah ratings — Rated 6/10 in Kelley & Carl's Utah hike ratings: the Mesa Arch Trail in Canyonlands.
   - 🎬 Also recommended by: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Utah road trip favorite, Canyonlands — Mesa Arch is a favorite stop on Kelley & Carl's ultimate Utah road trip.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 7/10 — Kelley & Carl rate Mesa Arch 7/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Southwest guide, Canyonlands — Mesa Arch is a headline stop in Kelley & Carl's Southwest guide to Canyonlands.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — sunrise — The Mesa Arch Trail (0.6 easy miles, 62 ft; stunning at sunrise, expect crowds) is one of the 10 best Southwest hikes in Kelley & Carl's list.
 
 ##### Solitude
 
-- **28. [Needles District](https://www.google.com/maps/search/?api=1&query=Needles+District+Canyonlands+National+Park+UT)** — Canyonlands National Park, Needles District
+- **29. [Needles District](https://www.google.com/maps/search/?api=1&query=Needles+District+Canyonlands+National+Park+UT)** — Canyonlands National Park, Needles District
   - **Best for:** Solitude — Ranked #2 for solitude, specifically the Needles District, praised for its red rock formations, narrow canyons and beautiful night skies.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#2 in that reel)
 
 ##### Underrated park
 
-- **29. [Canyonlands National Park](https://www.google.com/maps/search/?api=1&query=Canyonlands+National+Park+Canyonlands+National+Park+UT)** — Canyonlands National Park, Moab
+- **30. [Canyonlands National Park](https://www.google.com/maps/search/?api=1&query=Canyonlands+National+Park+Canyonlands+National+Park+UT)** — Canyonlands National Park, Moab
   - **Best for:** Underrated park — His #4 underrated park: vast red-rock desert vistas, layered canyons, and a person walking through narrow slot canyons.
   - Park-level pin is the park's Nominatim point in the Needles district.
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#4 in that reel)
@@ -2651,7 +2985,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **30. [Grand View Point](https://www.google.com/maps/search/?api=1&query=Grand+View+Point+Canyonlands+National+Park+UT)** — Canyonlands National Park, Moab
+- **31. [Grand View Point](https://www.google.com/maps/search/?api=1&query=Grand+View+Point+Canyonlands+National+Park+UT)** — Canyonlands National Park, Moab
   - **Best for:** Viewpoint / The Island in the Sky's grand finale — One of Kelley & Carl's best no-hike views in the Southwest: Grand View Point, the southern tip of Canyonlands' Island in the Sky mesa, where a short rim walk opens a panorama over the White Rim, Monument Basin and the Needles 2,000 feet below.
   - Coordinates from the NPS Grand View Point Overlook place record.
   - 🎬 Source: [Best no-hike views in the Southwest](https://www.instagram.com/p/DVl30XQjqkP/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2664,7 +2998,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **31. [Green River Overlook](https://www.google.com/maps/search/?api=1&query=Green+River+Overlook+Canyonlands+National+Park+(Island+in+the+Sky)+UT)** — Canyonlands National Park (Island in the Sky), Moab
+- **32. [Green River Overlook](https://www.google.com/maps/search/?api=1&query=Green+River+Overlook+Canyonlands+National+Park+(Island+in+the+Sky)+UT)** — Canyonlands National Park (Island in the Sky), Moab
   - **Best for:** Viewpoint / The Green River winding through its goosenecks, from the Island in the Sky rim — A Canyonlands must-see on Kelley & Carl's ultimate Utah road trip: the Green River Overlook, where the Green River bends through white-rimmed goosenecks far below the Island in the Sky mesa — especially dramatic at sunset.
   - Coordinates from the USGS GNIS record via TopoQuest.
   - 🎬 Source: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2675,7 +3009,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **32. [Cassidy Arch](https://www.google.com/maps/search/?api=1&query=Cassidy+Arch+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+- **33. [Cassidy Arch](https://www.google.com/maps/search/?api=1&query=Cassidy+Arch+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Hike — Ranked #1, a large natural red-rock arch spanning a deep canyon, shown with a lone figure standing on top of it.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/cassidy-arch-trail)
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#1 in that reel)
@@ -2697,7 +3031,15 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Capitol Reef feature hike — Kelley & Carl feature the Cassidy Arch Trail as Capitol Reef's underrated hike — 3.3 moderate miles round trip (they combined it with Grand Wash for about 8 miles), best at sunset, when they had it entirely to themselves.
   - 🎬 Also recommended by: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Utah road trip favorite, Capitol Reef — Cassidy Arch, combined with the Grand Wash, is a favorite on Kelley & Carl's ultimate Utah road trip.
-- **33. [Grand Wash Trail](https://www.google.com/maps/search/?api=1&query=Grand+Wash+Trail+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 10/10 — Kelley & Carl rate Cassidy Arch a perfect 10/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — The Cassidy Arch Trail (3.1 moderate miles, 685 ft) is one of the 10 best Southwest hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Capitol Reef favorite — Cassidy Arch is one of Kelley & Carl's favorite spots in Capitol Reef, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — Cassidy Arch (3.5 miles, 675 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
+- **34. [Grand Wash Trail](https://www.google.com/maps/search/?api=1&query=Grand+Wash+Trail+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Hike / Canyon-floor walk through the Narrows of the Grand Wash — Rated 6/10 in Kelley & Carl's honest ratings for Utah national park hikes: walk the flat canyon floor of the Grand Wash beneath towering Navajo sandstone — the AllTrails route linked here starts at this northeast (UT-24) trailhead; the wash also connects to the Cassidy Arch trailhead on the Scenic Drive side.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/grand-wash-trail-via-northeast-trailhead)
   - Pin is the published Grand Wash trailhead point on UT-24 (place record; Visit Utah's GPS agrees).
@@ -2716,7 +3058,15 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Capitol Reef feature, combined with Cassidy Arch — Kelley & Carl combined the Grand Wash with the Cassidy Arch Trail for an ~8-mile, 1,000-foot Capitol Reef day at sunset.
   - 🎬 Also recommended by: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Utah road trip favorite, Capitol Reef — The Grand Wash, combined with Cassidy Arch, is a favorite on Kelley & Carl's ultimate Utah road trip.
-- **34. [Hickman Bridge Trail](https://www.google.com/maps/search/?api=1&query=Hickman+Bridge+Trail+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 6/10 — Kelley & Carl rate the Grand Wash 6/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Easiest hikes with epic views — The Grand Wash Trail (4.7 easy miles RT, 341 ft) is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Capitol Reef favorite — The Grand Wash Trail is one of Kelley & Carl's favorite spots in Capitol Reef, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — The Grand Wash Trail (5 miles, 350 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
+- **35. [Hickman Bridge Trail](https://www.google.com/maps/search/?api=1&query=Hickman+Bridge+Trail+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Hike / Desert trail to a 133-foot natural bridge — Rated 7/10 in Kelley & Carl's honest ratings for Utah national park hikes: the Hickman Bridge Trail climbs from the Fremont River to a huge natural bridge — Capitol Reef's signature short hike.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/hickman-bridge-trail)
   - Pin is the OSM Hickman Bridge trailhead point off UT-24.
@@ -2733,16 +3083,30 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Otherworldly parks, Capitol Reef — The Hickman Bridge Trail is a recommended hike in otherworldly Capitol Reef in Kelley & Carl's list.
   - 🎬 Also recommended by: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Utah road trip favorite, Capitol Reef — Hickman Bridge is a favorite hike on Kelley & Carl's ultimate Utah road trip.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 7/10 — Kelley & Carl rate Hickman Bridge 7/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 3 — Hickman Bridge (1.7 moderate miles, 416 ft) is one of the ten epic hikes in Part 3 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest guide, Capitol Reef — Hickman Bridge is the headline hike in Kelley & Carl's Southwest guide to Capitol Reef.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — Hickman Bridge (1.7 moderate miles, 416 ft) is one of the 10 best Southwest hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Capitol Reef favorite — Hickman Bridge is one of Kelley & Carl's favorite spots in Capitol Reef, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [5 of the most otherworldly national parks](https://www.instagram.com/p/DQmiUXoCfc0/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Otherworldly parks — Capitol Reef feature — Hickman Bridge headlines the Capitol Reef section of Kelley & Carl's most-otherworldly-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 3 — Hickman Bridge (1.8 miles, 400 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
 
 ##### Overlook
 
-- **35. [Panorama Point](https://www.google.com/maps/search/?api=1&query=Panorama+Point+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+- **36. [Panorama Point](https://www.google.com/maps/search/?api=1&query=Panorama+Point+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Overlook / Waterpocket Fold viewpoint — A must-see on the Capitol Reef stop of Kelley & Carl's ultimate Southwest road trip — Panorama Point, the roadside overlook west of Fruita near the Goosenecks and Sunset Point.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Scenic drive
 
-- **36. [Cathedral Valley](https://www.google.com/maps/search/?api=1&query=Cathedral+Valley+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+- **37. [Cathedral Valley](https://www.google.com/maps/search/?api=1&query=Cathedral+Valley+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Scenic drive / Remote backcountry loop of monoliths and bentonite hills (4WD) — Kelley & Carl's photography-magic pick for Capitol Reef: explore Cathedral Valley — a remote valley of towering monoliths (Temple of the Sun and Moon) reached by a high-clearance 4WD loop. River ford and rough roads; check conditions at the visitor center.
   - Pin is the OSM Cathedral Valley locality point in Capitol Reef's remote north district.
   - 🎬 Source: [These are the parks for photography magic — favorite photo spots](https://www.instagram.com/p/Daf9Vw_lgXD/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2751,7 +3115,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Solitude
 
-- **37. [Capitol Reef National Park](https://www.google.com/maps/search/?api=1&query=Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+- **38. [Capitol Reef National Park](https://www.google.com/maps/search/?api=1&query=Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Solitude — Ranked #5 for solitude, with red rock and slot canyons and overlooks where he notes you might not see another person on longer trails.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog
@@ -2763,10 +3127,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **38. [Temple of the Sun and Moon](https://www.google.com/maps/search/?api=1&query=Temple+of+the+Sun+and+Moon+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
+- **39. [Temple of the Sun and Moon](https://www.google.com/maps/search/?api=1&query=Temple+of+the+Sun+and+Moon+Capitol+Reef+National+Park+UT)** — Capitol Reef National Park, Fruita
   - **Best for:** Viewpoint / Cathedral Valley's twin monoliths — One of Kelley & Carl's favorite Capitol Reef spots: the Temples of the Sun and Moon, two freestanding Entrada sandstone monoliths rising from the Cathedral Valley floor — best at sunrise, reached by the Cathedral Valley loop drive.
   - Coordinates are the Wikipedia point for the Temple of the Sun summit; the Temple of the Moon stands just south of it.
   - 🎬 Source: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Most beautiful national park roads — Temple of the Moon Road — The Temple of the Moon Road in Capitol Reef — high-clearance 4WD required to reach the Temple of the Sun and Temple of the Moon monoliths — is one of the 10 most beautiful national park roads in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Landmark / Underrated parks — Capitol Reef favorite — The Temple of the Sun & Moon is one of Kelley & Carl's favorite spots in Capitol Reef, in their most-underrated-parks list.
 
 ### Carlsbad Caverns National Park
 
@@ -2774,16 +3142,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Cave tour
 
-- **39. [Big Room](https://www.google.com/maps/search/?api=1&query=Big+Room+Carlsbad+Caverns+National+Park+NM)** — Carlsbad Caverns National Park, Carlsbad
+- **40. [Big Room](https://www.google.com/maps/search/?api=1&query=Big+Room+Carlsbad+Caverns+National+Park+NM)** — Carlsbad Caverns National Park, Carlsbad
   - **Best for:** Cave tour / One of the largest cave chambers in North America — A must-see on the Carlsbad Caverns stop of Kelley & Carl's New Mexico & Texas road trip — the self-guided Big Room tour around a chamber nearly 4,000 feet long, the greatest-hits loop of the cave.
   - Pin is at the Carlsbad Cavern natural entrance (surface point); the Big Room is the main self-guided chamber below.
   - 🎬 Source: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Cave tour / Carlsbad favorite, underrated parks list — The Big Room Trail is one of Kelley & Carl's favorite spots in underrated Carlsbad Caverns National Park (alongside the King's Palace ranger-led tour and the bat flight program).
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Cave walk / Epic hikes Part 3 — The Big Room Trail (an easy 1.25-mile self-guided walk through the cavern's largest room) is one of the ten epic hikes in Part 3 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Cave walk / NM & TX road trip, Carlsbad pick — The Big Room is a Carlsbad Caverns highlight on Kelley & Carl's New Mexico & Texas winter road trip.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Cave walk / Underrated parks — Carlsbad favorite — The Big Room is one of Kelley & Carl's favorite spots in Carlsbad Caverns, in their most-underrated-parks list (the King's Palace tour and bat flight program are also named).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Cave walk / Epic national park hikes, Part 3 — The Big Room Route (1.25 miles, 0 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
 
 ##### Hiking
 
-- **40. [Natural Entrance Trail](https://www.google.com/maps/search/?api=1&query=Natural+Entrance+Trail+Carlsbad+Caverns+National+Park+NM)** — Carlsbad Caverns National Park, Carlsbad
+- **41. [Natural Entrance Trail](https://www.google.com/maps/search/?api=1&query=Natural+Entrance+Trail+Carlsbad+Caverns+National+Park+NM)** — Carlsbad Caverns National Park, Carlsbad
   - **Best for:** Hiking / The descent into the cavern — A must-see on the Carlsbad Caverns stop of Kelley & Carl's New Mexico & Texas road trip — walk down the Natural Entrance Trail, switchbacking 750 feet into the earth past the bat colony's amphitheater, rather than taking the elevator.
   - Pin shares the Carlsbad Cavern natural entrance point from OpenStreetMap — the trail starts at the entrance.
   - 🎬 Source: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2791,10 +3167,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Carlsbad favorite, underrated parks list — The Natural Entrance Trail is one of Kelley & Carl's favorite spots in underrated Carlsbad Caverns National Park.
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite Carlsbad activity, underrated list — Walking the Natural Entrance Trail (and taking a ranger-led tour) is Kelley & Carl's favorite Carlsbad Caverns activity in their underrated-parks list.
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Cave tour / NM & TX road trip, Carlsbad pick — The Natural Entrance Trail is a Carlsbad Caverns highlight on Kelley & Carl's New Mexico & Texas winter road trip, alongside the Big Room, the King's Palace ranger-led tour and the bat flight program.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Cave tour / Underrated parks — Carlsbad favorite — The Natural Entrance Trail is one of Kelley & Carl's favorite spots in Carlsbad Caverns, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Cave tour / Epic national park hikes, Part 1 — The Natural Entrance Trail (1.25 miles, 0 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
 
 ##### National park
 
-- **41. [Carlsbad Caverns National Park](https://www.google.com/maps/search/?api=1&query=Carlsbad+Caverns+National+Park+Carlsbad+Caverns+National+Park+NM)** — Carlsbad Caverns National Park, Carlsbad
+- **42. [Carlsbad Caverns National Park](https://www.google.com/maps/search/?api=1&query=Carlsbad+Caverns+National+Park+Carlsbad+Caverns+National+Park+NM)** — Carlsbad Caverns National Park, Carlsbad
   - **Best for:** National park / Vast underground cave system — On Kelley & Carl's list of national parks you can literally see in one day — the Big Room trail covers the cave's greatest hits in a few hours. Their Southwest awards call Carlsbad Caverns 'Most Otherworldly'.
   - Pin is the NPS-published Carlsbad Caverns Visitor Center point.
   - 🎬 Source: [US National Parks you can literally see in one day](https://www.instagram.com/p/DeCjWOYFszM/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2807,7 +3189,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### State park
 
-- **42. [Cathedral Gorge State Park](https://www.google.com/maps/search/?api=1&query=Cathedral+Gorge+State+Park+Cathedral+Gorge+State+Park+NV)** — Cathedral Gorge State Park, Panaca
+- **43. [Cathedral Gorge State Park](https://www.google.com/maps/search/?api=1&query=Cathedral+Gorge+State+Park+Cathedral+Gorge+State+Park+NV)** — Cathedral Gorge State Park, Panaca
   - **Best for:** State park / Eroded clay spires and slot canyons — One of Kelley & Carl's favorite US state parks (and a stop in their Southwest guide): Cathedral Gorge near Panaca, Nevada — a narrow valley of bentonite clay carved into cathedral-like spires, slot canyons and the Moon Caves, with the Miller Point overlook above it all.
   - 🎬 Source: [US state parks that really pack a punch](https://www.instagram.com/p/DWEtOPtDt6X/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [9 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DWrPzV2Fk7n/) by @kelleyandcarlsadventures
@@ -2821,7 +3203,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **43. [Echo Canyon Loop](https://www.google.com/maps/search/?api=1&query=Echo+Canyon+Loop+Chiricahua+National+Park+AZ)** — Chiricahua National Park, Willcox
+- **44. [Echo Canyon Loop](https://www.google.com/maps/search/?api=1&query=Echo+Canyon+Loop+Chiricahua+National+Park+AZ)** — Chiricahua National Park, Willcox
   - **Best for:** Hiking / Loop through the grottoes and pinnacles — Kelley & Carl's favorite hike in America's newest national park — the Echo Canyon Loop, winding through the grottoes and balanced rocks of Chiricahua's rhyolite pinnacles.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/echo-canyon-loop--2)
   - Pin is the OpenStreetMap Echo Canyon point on the loop.
@@ -2837,7 +3219,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### National park
 
-- **44. [Chiricahua National Park](https://www.google.com/maps/search/?api=1&query=Chiricahua+National+Park+Chiricahua+National+Park+AZ)** — Chiricahua National Park, Willcox
+- **45. [Chiricahua National Park](https://www.google.com/maps/search/?api=1&query=Chiricahua+National+Park+Chiricahua+National+Park+AZ)** — Chiricahua National Park, Willcox
   - **Best for:** National park / Rhyolite hoodoo wonderland — America's newest national park — The star of Kelley & Carl's Arizona road-trip carousel: Chiricahua's redesignation from national monument to national park ('America's 64th national park'). Their named must-dos: the Big Loop, Echo Canyon Loop and its grottoes, Heart of Rocks, Inspiration Point, and the Bonita Canyon Drive.
   - Pin is the OSM Chiricahua National Park point in Bonita Canyon, near the visitor center and Faraway Ranch.
   - 🎬 Source: [This road trip has it all — Chiricahua, America's newest national park](https://www.instagram.com/p/De2cslmCUtk/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2848,7 +3230,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **45. [Massai Point](https://www.google.com/maps/search/?api=1&query=Massai+Point+Chiricahua+National+Park+AZ)** — Chiricahua National Park, Willcox
+- **46. [Massai Point](https://www.google.com/maps/search/?api=1&query=Massai+Point+Chiricahua+National+Park+AZ)** — Chiricahua National Park, Willcox
   - **Best for:** Overlook / End of Bonita Canyon Drive — Kelley & Carl's must-see Chiricahua overlook — Massai Point, at the end of Bonita Canyon Drive, 'particularly epic at sunrise/sunset' over a sea of rock spires.
   - 🎬 Source: [America's next national park — Chiricahua](https://www.instagram.com/p/DexFN1cJoPj/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures
@@ -2866,7 +3248,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Bucket-list hike, #12 of 12
 
-- **46. [Cathedral Rock](https://www.google.com/maps/search/?api=1&query=Cathedral+Rock+Trail+Sedona)** — Coconino National Forest (Red Rock), Sedona
+- **47. [Cathedral Rock](https://www.google.com/maps/search/?api=1&query=Cathedral+Rock+Trail+Sedona)** — Coconino National Forest (Red Rock), Sedona
   - **Best for:** Hike · Bucket-list hike, #12 of 12 — Ranked #12 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Cathedral Rock, the red-rock formation on the Cathedral Rock Trail in Sedona, Arizona.
   - 🎬 Source: [12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/) by @theadventurepostcard (#12 in that reel)
   - 🎬 Also recommended by: [US trails we have hiked that we consider to be perfect](https://www.instagram.com/p/Da-5x0XCU0Z/) by @kelleyandcarlsadventures
@@ -2886,7 +3268,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **47. [Bell Rock](https://www.google.com/maps/search/?api=1&query=Bell+Rock+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
+- **48. [Bell Rock](https://www.google.com/maps/search/?api=1&query=Bell+Rock+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
   - **Best for:** Hiking / Iconic red rock formation — One of Kelley & Carl's favorite Sedona hikes: the Bell Rock and Courthouse Butte loop beneath two of the town's most famous red rock formations.
   - Pin is the OSM Bell Rock summit point (the pass-1 trail point sat in a residential area and was replaced).
   - 🎬 Source: [Our favorite Southwest town — Sedona](https://www.instagram.com/p/DffCo6tPpBK/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2898,7 +3280,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Sedona favorite hike — Bell Rock, with the Courthouse Butte loop, is one of Kelley & Carl's favorite Sedona hikes.
   - 🎬 Also recommended by: [The perfect Arizona road trip — parks, Sedona and Page by van](https://www.instagram.com/reel/DVjPpvmjppj/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Arizona road trip, Sedona — Bell Rock, with the Courthouse loop, is a favorite hike on Kelley & Carl's Arizona road trip stop in Sedona.
-- **48. [Devil's Bridge](https://www.google.com/maps/search/?api=1&query=Devils+Bridge+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
+- **49. [Devil's Bridge](https://www.google.com/maps/search/?api=1&query=Devils+Bridge+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
   - **Best for:** Hiking / Largest natural sandstone arch in the Sedona area — On Kelley & Carl's list of favorite Sedona hikes — the out-and-back to Devil's Bridge, the biggest natural sandstone arch around Sedona and one of its most photographed spots.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/devils-bridge-trail)
   - Coordinates are the published Devil's Bridge location (the OSM point was the Dry Creek Vista trailhead parking, ~1 km west).
@@ -2909,7 +3291,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Sedona favorite hike — Devil's Bridge is one of Kelley & Carl's favorite Sedona hikes.
   - 🎬 Also recommended by: [The perfect Arizona road trip — parks, Sedona and Page by van](https://www.instagram.com/reel/DVjPpvmjppj/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Arizona road trip, Sedona — Devil's Bridge is a favorite hike on Kelley & Carl's Arizona road trip stop in Sedona.
-- **49. [Doe Mountain](https://www.google.com/maps/search/?api=1&query=Doe+Mountain+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
+- **50. [Doe Mountain](https://www.google.com/maps/search/?api=1&query=Doe+Mountain+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
   - **Best for:** Hiking / Mesa-top panorama over Sedona — One of Kelley & Carl's favorite Sedona hikes — a short climb to a flat mesa top with 360-degree views over the red rocks.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/doe-mountain-trail)
   - 🎬 Source: [Our favorite Southwest town — Sedona](https://www.instagram.com/p/DffCo6tPpBK/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2919,21 +3301,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Sedona favorite hike — Doe Mountain is one of Kelley & Carl's favorite Sedona hikes.
   - 🎬 Also recommended by: [The perfect Arizona road trip — parks, Sedona and Page by van](https://www.instagram.com/reel/DVjPpvmjppj/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Arizona road trip, Sedona — Doe Mountain is a favorite hike on Kelley & Carl's Arizona road trip stop in Sedona.
-- **50. [Secret Slickrock Trail](https://www.google.com/maps/search/?api=1&query=Secret+Slickrock+Trail+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
+- **51. [Secret Slickrock Trail](https://www.google.com/maps/search/?api=1&query=Secret+Slickrock+Trail+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
   - **Best for:** Hiking / Cathedral Rock reflected in slickrock pools — Rated 7/10 in Kelley & Carl's Arizona hike ratings: the Secret Slickrock Trail, a short walk above Crescent Moon Ranch to a slickrock plateau where seasonal pools mirror Cathedral Rock — one of Sedona's classic sunset photo spots.
   - Coordinates are the Trailforks trailhead point on Chavez Ranch Road.
   - 🎬 Source: [Honest ratings for Arizona hikes](https://www.instagram.com/p/DV3uElTDj4r/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Arizona road trip, Sedona — Secret Slickrock is one of Kelley & Carl's favorite Sedona hikes on their ultimate Arizona road trip (the pin's primary source is their Arizona hike ratings).
-- **51. [Seven Sacred Pools](https://www.google.com/maps/search/?api=1&query=Seven+Sacred+Pools+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
+- **52. [Seven Sacred Pools](https://www.google.com/maps/search/?api=1&query=Seven+Sacred+Pools+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
   - **Best for:** Hiking / Desert pools on the Soldier Pass Trail — One of Kelley & Carl's favorite Sedona hikes — the chain of natural pools along the Soldier Pass Trail.
   - 🎬 Source: [Our favorite Southwest town — Sedona](https://www.instagram.com/p/DffCo6tPpBK/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Sedona — our all-time favorite Southwest town](https://www.instagram.com/reel/DVoSfHRER9A/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Sedona favorite hike — The Seven Sacred Pools are among Kelley & Carl's favorite Sedona hikes.
-- **52. [Soldier Pass Trail](https://www.google.com/maps/search/?api=1&query=Soldier+Pass+Trail+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
+- **53. [Soldier Pass Trail](https://www.google.com/maps/search/?api=1&query=Soldier+Pass+Trail+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
   - **Best for:** Hiking / Sinkhole, sacred pools and Brins Mesa — One of Kelley & Carl's favorite Sedona hikes on their ultimate Arizona road trip: the Soldier Pass Trail, past the Devil's Kitchen sinkhole and the Seven Sacred Pools, climbing toward Brins Mesa and the Soldier Pass Cave.
   - 🎬 Source: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures (#None in that reel)
-- **53. [Vultee Arch](https://www.google.com/maps/search/?api=1&query=Vultee+Arch+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
+- **54. [Vultee Arch](https://www.google.com/maps/search/?api=1&query=Vultee+Arch+Coconino+National+Forest+(Red+Rock)+AZ)** — Coconino National Forest (Red Rock), Sedona
   - **Best for:** Hiking / Hidden sandstone arch in Sterling Canyon — Lily & Bryan call this hidden arch possibly the best hike in Sedona — it 'completely blew them away' and there were no crowds (their on-screen text jokes it 'ruined all other Arizona hikes'). The Vultee Arch Trail is 3.5 miles round trip with 547 ft of elevation gain through Sterling Canyon to the big natural arch, but the trailhead at the end of the rugged Dry Creek / Vultee Arch Road (Forest Road 152) strictly requires a 4x4 high-clearance vehicle.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/vultee-arch-trail--4)
   - Coordinates are OpenStreetMap's named Vultee Arch feature (natural arch, Coconino County), cross-checked against a published place record for Vultee Arch (34.941463, -111.768735) — agreement within ~10 m. The USFS Vultee Arch Trailhead record (34.937275, -111.79439) matches the OSM trailhead parking ~2.3 km west, confirming the geography.
@@ -2945,7 +3327,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **54. [Mount Lemmon (Catalina Highway)](https://www.google.com/maps/search/?api=1&query=Mount+Lemmon+(Catalina+Highway)+Coronado+National+Forest+AZ)** — Coronado National Forest, Tucson
+- **55. [Mount Lemmon (Catalina Highway)](https://www.google.com/maps/search/?api=1&query=Mount+Lemmon+(Catalina+Highway)+Coronado+National+Forest+AZ)** — Coronado National Forest, Tucson
   - **Best for:** Scenic drive / 27 miles from desert saguaros to snowy alpine pines — Kelley & Carl call the Catalina Highway up Mount Lemmon one of the most dramatic drives in the country: 27 paved miles climbing over 6,000 feet from Sonoran Desert saguaro forest through oak woodland to alpine pine at Summerhaven — home to one of the southernmost ski areas in the US. Their favorite overlook is Windy Point Vista; this pin sits there.
   - Pin point is Windy Point Vista, the reel's favorite overlook on the drive (USGS GNIS via TopoQuest: 32.36813, -110.71620; the USFS Windy Point record agrees). The Mount Lemmon summit (9,157 ft) is at 32.44296, -110.78848.
   - 🎬 Source: [Mount Lemmon — desert saguaros to snowy pines in 27 miles](https://www.instagram.com/reel/DVgrC_qkYWV/) by @kelleyandcarlsadventures (#None in that reel)
@@ -2960,7 +3342,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Bucket-list hike, #1 of 12
 
-- **55. [The Wave](https://www.google.com/maps/search/?api=1&query=The+Wave+Arizona)** — Coyote Buttes North (Vermilion Cliffs National Monument), Page
+- **56. [The Wave](https://www.google.com/maps/search/?api=1&query=The+Wave+Arizona)** — Coyote Buttes North (Vermilion Cliffs National Monument), Page
   - **Best for:** Hike · Bucket-list hike, #1 of 12 — Ranked #1 in the reel's countdown of 12 bucket-list hikes NOT in national parks: The Wave, the swirling red-and-white sandstone formation in Coyote Buttes North on the Arizona-Utah line. Access is by permit lottery only.
   - 🎬 Source: [12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/) by @theadventurepostcard (#1 in that reel)
 
@@ -2970,7 +3352,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **56. [Dead Horse Point State Park](https://www.google.com/maps/search/?api=1&query=Dead+Horse+Point+State+Park+UT)** — Dead Horse Point State Park, Moab
+- **57. [Dead Horse Point State Park](https://www.google.com/maps/search/?api=1&query=Dead+Horse+Point+State+Park+UT)** — Dead Horse Point State Park, Moab
   - **Best for:** Road trip stop — Stop #9 on @_wanderedsouls' Southwest winter road-trip route — shown overlooking vast canyons at twilight, next door to Canyonlands.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#9 in that reel)
@@ -2978,6 +3360,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** State park / Favorite state parks list — Dead Horse Point State Park is one of Kelley & Carl's all-time favorite US state parks — right next to Moab; they absolutely loved sunset here and have heard great things about sunrise.
   - 🎬 Also recommended by: [Best no-hike views in the Southwest](https://www.instagram.com/p/DVl30XQjqkP/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / No-hike Southwest view — Dead Horse Point State Park is one of Kelley & Carl's best no-hike views in the Southwest.
+  - 🎬 Also recommended by: [10 places in the USA for nature lovers (that aren't national parks)](https://www.instagram.com/p/DRcsZtCCbBU/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Nature places that aren't national parks — Dead Horse Point State Park is one of Kelley & Carl's 10 places in the USA for nature lovers that aren't national parks.
 
 ### Dry Fork Slot Canyons (Grand Staircase-Escalante)
 
@@ -2985,7 +3369,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Slot canyon
 
-- **57. [Spooky Gulch](https://www.google.com/maps/search/?api=1&query=Spooky+Gulch+Escalante+UT)** — Dry Fork Slot Canyons (Grand Staircase-Escalante), Escalante
+- **58. [Spooky Gulch](https://www.google.com/maps/search/?api=1&query=Spooky+Gulch+Escalante+UT)** — Dry Fork Slot Canyons (Grand Staircase-Escalante), Escalante
   - **Best for:** Slot canyon — Jackie's verdict: 'TOTALLY worth it.' Spooky Gulch is the ultra-narrow Dry Fork slot canyon — the trailhead even has a metal frame you must fit through to enter. Inside: twisty sandstone walls, fun downclimbs, a sketchy up-climb to a section she calls 'INTO THE ARCHES', and squeezes so tight she had to take her backpack off and turn sideways.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Spooky Canyon in Utah!](https://www.instagram.com/reel/DZ_sGCfPYpo/) by @jackie.travel.photos (#1 in that reel)
@@ -2996,7 +3380,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **58. [Lake Estes](https://www.google.com/maps/search/?api=1&query=Lake+Estes+Estes+Park+CO)** — , Estes Park
+- **59. [Lake Estes](https://www.google.com/maps/search/?api=1&query=Lake+Estes+Estes+Park+CO)** — , Estes Park
   - **Best for:** Sunset / View — Caption names Lake Estes, Estes Park, CO (tagged #sunrise). The video actually shows sunset over the lake — pink, orange and purple sky reflected in the rippling water, silhouetted treeline and mountains — then transitions through dusk to a clear daytime view of the snow-dusted peaks.
   - 🎬 Source: [Lake scenery — Lake Estes](https://www.instagram.com/reel/DF_OK-vS9g6/) by @amorywild (#None in that reel)
 
@@ -3006,7 +3390,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **59. [Factory Butte](https://www.google.com/maps/search/?api=1&query=Factory+Butte+UT)** — Factory Butte (Hanksville), Hanksville
+- **60. [Factory Butte](https://www.google.com/maps/search/?api=1&query=Factory+Butte+UT)** — Factory Butte (Hanksville), Hanksville
   - **Best for:** Stargazing — One of the 5 bonus destinations in Adventure Family Vlog's dark-sky carousel '10 Places in America Where the Night Sky Doesn't Look Real' — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#None in that reel)
@@ -3021,7 +3405,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **60. [Moonscape Overlook](https://www.google.com/maps/search/?api=1&query=Moonscape+Overlook+Factory+Butte+/+Skyline+Rim+UT)** — Factory Butte / Skyline Rim, Hanksville
+- **61. [Moonscape Overlook](https://www.google.com/maps/search/?api=1&query=Moonscape+Overlook+Factory+Butte+/+Skyline+Rim+UT)** — Factory Butte / Skyline Rim, Hanksville
   - **Best for:** Overlook / Lunar badlands viewpoint (dirt road, high clearance) — A must-see on the Hanksville stop of Kelley & Carl's ultimate Southwest road trip — the Moonscape Overlook (also called Skyline View), a cliff-edge view over the gray Blue Valley badlands by Factory Butte. The stop needs dirt-road driving; they flag high-clearance 4WD for the Hanksville area.
   - GPS coordinates as published in Moonscape Overlook visitor guides (38.4522, -110.8381); OpenStreetMap has no feature for it.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3034,7 +3418,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **61. [Forrest Gump Point](https://www.google.com/maps/search/?api=1&query=Forrest+Gump+Point+UT)** — Forrest Gump Point (US-163), Mexican Hat
+- **62. [Forrest Gump Point](https://www.google.com/maps/search/?api=1&query=Forrest+Gump+Point+UT)** — Forrest Gump Point (US-163), Mexican Hat
   - **Best for:** Road trip stop — Stop #10 on @_wanderedsouls' Southwest winter road-trip route — the iconic long, straight highway shot toward the Monument Valley buttes, made famous by Forrest Gump.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#10 in that reel)
@@ -3049,7 +3433,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **62. [Glen Canyon Dam Bridge & Overlook](https://www.google.com/maps/search/?api=1&query=Glen+Canyon+Dam+Page+AZ)** — Glen Canyon Dam, Page
+- **63. [Glen Canyon Dam Bridge & Overlook](https://www.google.com/maps/search/?api=1&query=Glen+Canyon+Dam+Page+AZ)** — Glen Canyon Dam, Page
   - **Best for:** Viewpoint — Day 3 stop 2: the Glen Canyon Dam and its bridge over the Colorado, with the overlook view across to Lake Powell.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend](https://www.instagram.com/reel/DfQ_wxVu4HX/) by @laurenbcardona (#2 in that reel)
@@ -3060,12 +3444,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **63. [Navajo Mountain Viewpoint](https://www.google.com/maps/search/?api=1&query=Navajo+Mountain+Viewpoint+Glen+Canyon+National+Recreation+Area+AZ)** — Glen Canyon National Recreation Area, Page
+- **64. [Navajo Mountain Viewpoint](https://www.google.com/maps/search/?api=1&query=Navajo+Mountain+Viewpoint+Glen+Canyon+National+Recreation+Area+AZ)** — Glen Canyon National Recreation Area, Page
   - **Best for:** Viewpoint / Lake Powell at golden hour — Kelley & Carl photographed Lake Powell from the Navajo Mountain Viewpoint at golden hour for their most-beautiful-lakes list — a Page-area overlook framing the lake against Navajo Mountain. Boats and kayaks rent at Antelope Point, Wahweap and Stateline marinas.
   - Coordinates from the Navajo Mountain Viewpoint place record (Page, AZ).
   - 🎬 Source: [10 of the most beautiful lakes in the USA](https://www.instagram.com/p/DYfIFKKllS9/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Best no-hike views in the Southwest](https://www.instagram.com/p/DVl30XQjqkP/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / No-hike Southwest view — The Navajo Mountain Viewpoint at Glen Canyon is one of Kelley & Carl's best no-hike views in the Southwest (the pin's primary source is their most beautiful lakes list).
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Lake Powell — Lake Powell, photographed from the Navajo Mountain Viewpoint at golden hour, is one of Kelley & Carl's 10 most beautiful lakes in the USA — they list boat/kayak rentals at Antelope Point, Wahweap and Stateline marinas.
 
 ### Goblin Valley State Park
 
@@ -3073,7 +3459,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **64. [Goblin Valley State Park](https://www.google.com/maps/search/?api=1&query=Goblin+Valley+State+Park+UT)** — Goblin Valley State Park, Green River
+- **65. [Goblin Valley State Park](https://www.google.com/maps/search/?api=1&query=Goblin+Valley+State+Park+UT)** — Goblin Valley State Park, Green River
   - **Best for:** Road trip stop — Stop #6 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops) — a valley of hoodoo 'goblins' between Hanksville and Arches.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#6 in that reel)
@@ -3084,7 +3470,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **65. [South Kaibab and Bright Angel Trails (Phantom Ranch)](https://www.google.com/maps/search/?api=1&query=South+Kaibab+and+Bright+Angel+Trails+(Phantom+Ranch)+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **66. [South Kaibab and Bright Angel Trails (Phantom Ranch)](https://www.google.com/maps/search/?api=1&query=South+Kaibab+and+Bright+Angel+Trails+(Phantom+Ranch)+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Hike — Ranked #1, illustrated with sunrise views over the red-rock canyon, the rim trail and the Colorado River below.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/south-kaibab-phantom-ranch-and-bright-angel-trail-loop)
   - Pin is the South Kaibab Trailhead. Phantom Ranch, at the bottom of the route, is at 36.1044, -112.0953.
@@ -3143,37 +3529,53 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Grand Canyon must-do day hike — Kelley & Carl's one thing you have to do in the Grand Canyon: the South Kaibab Trail to Cedar Ridge — 3.5 miles round trip and about 1,200 feet, with Ooh Aah Point and Skeleton Point as shorter and longer options. Shuttle-only trailhead; go early.
   - 🎬 Also recommended by: [The perfect Arizona road trip — parks, Sedona and Page by van](https://www.instagram.com/reel/DVjPpvmjppj/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Arizona road trip, Grand Canyon — The South Kaibab Trail is a must-see on Kelley & Carl's Arizona road trip stop at the Grand Canyon.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest guide, Grand Canyon — South Kaibab and Bright Angel are the headline Grand Canyon hikes in Kelley & Carl's Southwest guide (7 parks, one epic road trip).
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — The South Kaibab Trail — Ooh Aah Point, Cedar Ridge or Skeleton Point turnarounds — is one of Kelley & Carl's 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — The South Kaibab Trail — Ooh Aah Point, Cedar Ridge or Skeleton Point — is one of the 10 best Southwest hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in the Grand Canyon (#3 most visited) — The South Kaibab Trail is Kelley & Carl's favorite hike in the Grand Canyon, #3 in their most-visited-parks countdown.
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — Phantom Ranch and back — The South Kaibab to Phantom Ranch and back (over 14 miles, almost 5,000 ft, full sun — 'you can shorten this one though') is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 of the most otherworldly national parks](https://www.instagram.com/p/DQmiUXoCfc0/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Otherworldly parks — Grand Canyon feature — South Kaibab and Bright Angel headline the Grand Canyon section of Kelley & Carl's most-otherworldly-parks list.
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — golden glow in the canyon — The South Kaibab Trail at sunrise — turn around at Ooh Aah Point, Cedar Ridge or Skeleton Point — is one of Kelley & Carl's 10 best national park sunrise spots.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — The South Kaibab Trail (1.8 to 14 miles, 600 to 4,800 ft depending on turnaround) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
 
 ##### Overlook
 
-- **66. [Desert View Watchtower](https://www.google.com/maps/search/?api=1&query=Desert+View+Watchtower+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **67. [Desert View Watchtower](https://www.google.com/maps/search/?api=1&query=Desert+View+Watchtower+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Overlook / Historic stone watchtower — One of Kelley & Carl's favorite Grand Canyon stops on their ultimate Southwest road trip — Mary Colter's 1932 Desert View Watchtower at the east entrance, with murals inside and a wide bend of the Colorado River below.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Arizona road trip, Grand Canyon — The Desert View Watchtower is on Kelley & Carl's Grand Canyon must-see list for their ultimate Arizona road trip.
   - 🎬 Also recommended by: [The perfect Arizona road trip — parks, Sedona and Page by van](https://www.instagram.com/reel/DVjPpvmjppj/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Arizona road trip, Grand Canyon — The Desert View Watchtower is a must-see on Kelley & Carl's Arizona road trip stop at the Grand Canyon.
-- **67. [Maricopa Point](https://www.google.com/maps/search/?api=1&query=Maricopa+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **68. [Maricopa Point](https://www.google.com/maps/search/?api=1&query=Maricopa+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Overlook / South Rim viewpoint — One of Kelley & Carl's favorite Grand Canyon overlooks on their ultimate Southwest road trip — Maricopa Point on Hermit Road, a short walk or shuttle ride from the village.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
-- **68. [Mather Point](https://www.google.com/maps/search/?api=1&query=Mather+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **69. [Mather Point](https://www.google.com/maps/search/?api=1&query=Mather+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Overlook / South Rim viewpoint by the visitor center — One of Kelley & Carl's favorite Grand Canyon overlooks on their ultimate Southwest road trip — Mather Point, the classic first view of the canyon next to the main visitor center.
   - Pin is the Mather Point viewpoint itself (the raw OSM hit was the nearby shuttle bus stop).
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Arizona road trip, Grand Canyon — Mather Point is on Kelley & Carl's Grand Canyon must-see list for their ultimate Arizona road trip.
-- **69. [Moran Point](https://www.google.com/maps/search/?api=1&query=Moran+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **70. [Moran Point](https://www.google.com/maps/search/?api=1&query=Moran+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Overlook / South Rim viewpoint — One of Kelley & Carl's favorite Grand Canyon overlooks on their ultimate Southwest road trip — Moran Point on Desert View Drive, named for landscape painter Thomas Moran.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Arizona road trip, Grand Canyon — Moran Point is on Kelley & Carl's Grand Canyon must-see list for their ultimate Arizona road trip.
-- **70. [Pima Point](https://www.google.com/maps/search/?api=1&query=Pima+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **71. [Pima Point](https://www.google.com/maps/search/?api=1&query=Pima+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Overlook / South Rim viewpoint — One of Kelley & Carl's favorite Grand Canyon overlooks on their ultimate Southwest road trip — Pima Point, near the end of Hermit Road, with one of the rim's best Colorado River views.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
-- **71. [Powell Point](https://www.google.com/maps/search/?api=1&query=Powell+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **72. [Powell Point](https://www.google.com/maps/search/?api=1&query=Powell+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Overlook / South Rim viewpoint — One of Kelley & Carl's favorite Grand Canyon overlooks on their ultimate Southwest road trip — Powell Point, on Hermit Road west of Grand Canyon Village.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
-- **72. [Yaki Point](https://www.google.com/maps/search/?api=1&query=Yaki+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **73. [Yaki Point](https://www.google.com/maps/search/?api=1&query=Yaki+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Overlook / South Rim viewpoint — One of Kelley & Carl's favorite Grand Canyon overlooks on their ultimate Southwest road trip (fly in and out of Las Vegas) — Yaki Point, by the South Kaibab trailhead at the east end of the South Rim.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures
@@ -3183,7 +3585,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **73. [Grand Canyon National Park](https://www.google.com/maps/search/?api=1&query=Grand+Canyon+National+Park+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon Village
+- **74. [Grand Canyon National Park](https://www.google.com/maps/search/?api=1&query=Grand+Canyon+National+Park+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon Village
   - **Best for:** Sunrise / Sunset — His #2: Grand Canyon, which he treats as self-explanatory because of its scale, with vast vistas and sunbeams breaking through clouds at sunrise.
   - Park-level pin is the park's Nominatim point in the park interior.
   - 🎬 Source: [Top 5 National Parks for Sunrises/Sets](https://www.instagram.com/reel/Dd1VBxKPvQU/) by @amorywild (#2 in that reel)
@@ -3195,10 +3597,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Road trip — Stop #13 on @_wanderedsouls' Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops of red rocks, hoodoos, arches and canyon views that 'look like they belong on another planet'). The route's finale — expansive canyon vistas.
   - 🎬 Also recommended by: [9 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DWrPzV2Fk7n/) by @kelleyandcarlsadventures
     - **Best for:** Road trip / 9-park Southwest trip park — Grand Canyon is one of the nine national parks in Kelley & Carl's Southwest guide and road trip.
+  - 🎬 Also recommended by: [5 desert national parks to visit this winter](https://www.instagram.com/p/DRU7AlWCXrx/) by @kelleyandcarlsadventures
+    - **Best for:** Winter visit / Desert parks for winter — The Grand Canyon is one of Kelley & Carl's 5 desert parks to visit in winter — a slower pace, the South Rim open year-round, highs in the 40s.
 
 ##### Sunset
 
-- **74. [Lipan Point](https://www.google.com/maps/search/?api=1&query=Lipan+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **75. [Lipan Point](https://www.google.com/maps/search/?api=1&query=Lipan+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Sunset — Captioned 'Sunset at Lipan Point' in Grand Canyon National Park. The video shows the sun on the horizon casting a shaft of golden light across the canyon as the camera pans over its layered walls.
   - 🎬 Source: [Sunset viewpoint — Lipan Point](https://www.instagram.com/reel/DGYHwrqOnXT/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild
@@ -3210,14 +3614,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **75. [Colorado River](https://www.google.com/maps/search/?api=1&query=Colorado+River+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **76. [Colorado River](https://www.google.com/maps/search/?api=1&query=Colorado+River+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** View / River — Filmed from the banks of the Colorado River at the bottom of the Grand Canyon: muddy river water rushing between towering layered red-brown cliffs, showing the canyon's scale from river level.
   - Pin is at Phantom Ranch, on the river's north bank at the bottom of the canyon — the river-level point the park's rim-to-river trails reach. Nominatim's Colorado River feature points for the county query sit near Page, AZ, outside Grand Canyon, and were rejected (same access-point approach as Batch 1's Wrangell-St. Elias pin).
   - 🎬 Source: [Scenic viewpoint — Colorado River (Grand Canyon)](https://www.instagram.com/reel/DGjtIqUtQ9J/) by @amorywild (#None in that reel)
 
 ##### Viewpoint
 
-- **76. [Hopi Point](https://www.google.com/maps/search/?api=1&query=Hopi+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+- **77. [Hopi Point](https://www.google.com/maps/search/?api=1&query=Hopi+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Viewpoint / Hermit Road overlook with the widest river view on the South Rim — On Kelley & Carl's 'high reward with little effort' overlooks list: a beautiful overlook of the canyon and a popular sunset spot for a reason — you need the park shuttle to get here. Their photography post also picks Hopi Point (or another rim overlook) for Grand Canyon sunset.
   - Pin is the OSM Hopi Point point on Hermit Road, Grand Canyon South Rim.
   - 🎬 Source: [High reward with little effort — 10 of the best overlooks](https://www.instagram.com/p/Dd61E_2CYb7/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3233,7 +3637,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / No-hike Southwest view — Hopi Point at Grand Canyon is one of Kelley & Carl's best no-hike views in the Southwest.
   - 🎬 Also recommended by: [The perfect Arizona road trip — parks, Sedona and Page by van](https://www.instagram.com/reel/DVjPpvmjppj/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Arizona road trip, Grand Canyon — Hopi Point is a must-see on Kelley & Carl's Arizona road trip stop at the Grand Canyon.
-- **77. [Mohave Point](https://www.google.com/maps/search/?api=1&query=Mohave+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
+  - 🎬 Also recommended by: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / Epic sunset spots — very popular — Hopi Point, facing west and 'absolutely stunning at sunset' (very popular; park shuttle most of the year), is one of Kelley & Carl's 10 epic national park sunset spots.
+  - 🎬 Also recommended by: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best overlooks, no hiking — Hopi Point is one of Kelley & Carl's 10 best national park overlooks with no hiking required.
+- **78. [Mohave Point](https://www.google.com/maps/search/?api=1&query=Mohave+Point+Grand+Canyon+National+Park+AZ)** — Grand Canyon National Park, Grand Canyon
   - **Best for:** Viewpoint / Hermit Road sunset point — On Kelley & Carl's Grand Canyon must-see list for their ultimate Arizona road trip: Mohave Point on Hermit Road, a jutting South Rim overlook with Colorado River views both ways — a favorite sunset stop on the shuttle route.
   - Coordinates from the NPS place record.
   - 🎬 Source: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3244,7 +3652,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **78. [Grand Staircase-Escalante National Monument](https://www.google.com/maps/search/?api=1&query=Grand+Staircase-Escalante+National+Monument+UT)** — Grand Staircase-Escalante National Monument, Escalante
+- **79. [Grand Staircase-Escalante National Monument](https://www.google.com/maps/search/?api=1&query=Grand+Staircase-Escalante+National+Monument+UT)** — Grand Staircase-Escalante National Monument, Escalante
   - **Best for:** Viewpoint — Ranked #1 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': endless slot canyons, waterfalls and otherworldly landscapes across a vast monument.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [9 Places in Utah That Look Unreal — None in a National Park](https://www.instagram.com/reel/DfKQdjWx1L3/) by @adventurefamilyvlog (#1 in that reel)
@@ -3257,15 +3665,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Cave tour
 
-- **79. [Lehman Caves](https://www.google.com/maps/search/?api=1&query=Lehman+Caves+Great+Basin+National+Park+NV)** — Great Basin National Park, Baker
+- **80. [Lehman Caves](https://www.google.com/maps/search/?api=1&query=Lehman+Caves+Great+Basin+National+Park+NV)** — Great Basin National Park, Baker
   - **Best for:** Cave tour / Great Basin's marble cave system — One of Kelley & Carl's favorite spots in underrated Great Basin National Park — the Lehman Caves, a richly decorated marble cave toured with rangers beneath the Snake Range.
   - 🎬 Source: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Great Basin National Park exceeded every expectation](https://www.instagram.com/reel/DYnNn2xp04x/) by @kelleyandcarlsadventures
     - **Best for:** Cave tour / Great Basin highlight — Lehman Caves is a highlight of Kelley & Carl's Great Basin guide — ranger-led tours only, and currently extremely limited, so book ahead.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Cave tour / Southwest guide, Great Basin — Lehman Caves is a headline stop in Kelley & Carl's Southwest guide to Great Basin.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Cave tour / Underrated parks — Great Basin favorite — Lehman Caves is one of Kelley & Carl's favorite spots in Great Basin, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip — 14 days](https://www.instagram.com/p/DP7GrBBiWBs/) by @kelleyandcarlsadventures
+    - **Best for:** Cave tour / Southwest itinerary — Great Basin slide pick — Lehman Caves is one of the Great Basin stops named in Kelley & Carl's 14-day Southwest itinerary (Days 12–13; skippable on the 10-day version).
 
 ##### Hiking
 
-- **80. [Bristlecone & Alpine Lakes Trail](https://www.google.com/maps/search/?api=1&query=Bristlecone+&+Alpine+Lakes+Trail+Great+Basin+National+Park+NV)** — Great Basin National Park, Baker
+- **81. [Bristlecone & Alpine Lakes Trail](https://www.google.com/maps/search/?api=1&query=Bristlecone+&+Alpine+Lakes+Trail+Great+Basin+National+Park+NV)** — Great Basin National Park, Baker
   - **Best for:** Hiking / Ancient bristlecone pines and alpine lakes — One of Kelley & Carl's favorite Great Basin hikes: the Bristlecone & Alpine Lakes Trail (with the Wheeler Peak Summit Trail) climbs from the end of Wheeler Peak Scenic Drive past Stella and Teresa Lakes to groves of bristlecone pines thousands of years old.
   - Coordinates are the published Summit Trailhead point at the end of Wheeler Peak Scenic Drive.
   - 🎬 Source: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3273,10 +3687,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite Great Basin activity, underrated list — Hiking the Alpine Lakes, Bristlecone and Glacier loop is Kelley & Carl's favorite Great Basin activity in their underrated-parks list (the pin's primary source is their earlier underrated-parks favorites post).
   - 🎬 Also recommended by: [Great Basin National Park exceeded every expectation](https://www.instagram.com/reel/DYnNn2xp04x/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Great Basin favorite hike — The Bristlecone & Alpine Lakes Loop is a favorite hike in Kelley & Carl's Great Basin guide: about 6 moderate miles past 5,000-year-old bristlecone pines and Stella and Teresa lakes.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 2 — The Bristlecone & Alpine Lakes Loop (6 moderate miles, 1,217 ft) is one of the ten epic hikes in Part 2 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Great Basin favorite — The Bristlecone & Alpine Lakes Trail is one of Kelley & Carl's favorite spots in Great Basin, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 2 — The Bristlecone & Alpine Lakes Loop (4.6 miles, 1,000 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
 
 ##### Stargazing
 
-- **81. [Great Basin National Park](https://www.google.com/maps/search/?api=1&query=Great+Basin+National+Park+NV)** — Great Basin National Park, Baker
+- **82. [Great Basin National Park](https://www.google.com/maps/search/?api=1&query=Great+Basin+National+Park+NV)** — Great Basin National Park, Baker
   - **Best for:** Stargazing — Ranked #6 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#6 in that reel)
@@ -3289,13 +3709,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Summit hike · Rocky 13,063-ft summit above the desert
 
-- **82. [Wheeler Peak](https://www.google.com/maps/search/?api=1&query=Wheeler+Peak+Great+Basin)** — Great Basin National Park, Baker
+- **83. [Wheeler Peak](https://www.google.com/maps/search/?api=1&query=Wheeler+Peak+Great+Basin)** — Great Basin National Park, Baker
   - **Best for:** Summit hike · Rocky 13,063-ft summit above the desert — One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Wheeler Peak in Great Basin National Park — the rocky 13,063-ft summit, Nevada's second-highest, climbed from the Wheeler Peak Scenic Drive.
   - 🎬 Source: [Top 10 hikes after visiting 62 of 63 national parks](https://www.instagram.com/reel/DdiQ92yODtN/) by @tedsalwaystraveling (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Great Basin favorite, underrated parks list — The Wheeler Peak Summit Trail is one of Kelley & Carl's favorite spots in underrated Great Basin National Park.
   - 🎬 Also recommended by: [Great Basin National Park exceeded every expectation](https://www.instagram.com/reel/DYnNn2xp04x/) by @kelleyandcarlsadventures
     - **Best for:** Summit hike / Great Basin favorite hike — The Wheeler Peak Trail (8.2 hard miles, 3,000+ feet of gain) to the highest point in Great Basin is a favorite in Kelley & Carl's park guide.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Summit hike / Southwest guide, Great Basin — Wheeler Peak is a headline hike in Kelley & Carl's Southwest guide to Great Basin.
+  - 🎬 Also recommended by: [10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Most beautiful national park roads — Wheeler Peak Scenic Drive — The Wheeler Peak Scenic Drive in Great Basin ('who knew Nevada could look like this?!', open May/June to October) is one of the 10 most beautiful national park roads in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Summit hike / Underrated parks — Great Basin favorite — The Wheeler Peak Summit Trail is one of Kelley & Carl's favorite spots in Great Basin, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip — 14 days](https://www.instagram.com/p/DP7GrBBiWBs/) by @kelleyandcarlsadventures
+    - **Best for:** Summit hike / Southwest itinerary — Great Basin slide pick — The Wheeler Peak hike is one of the Great Basin stops named in Kelley & Carl's 14-day Southwest itinerary.
 
 ### Great Salt Lake (North Arm)
 
@@ -3303,7 +3731,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **83. [Great Salt Lake — Pink Water](https://www.google.com/maps/search/?api=1&query=Spiral+Jetty+UT)** — Great Salt Lake (North Arm), Corinne
+- **84. [Great Salt Lake — Pink Water](https://www.google.com/maps/search/?api=1&query=Spiral+Jetty+UT)** — Great Salt Lake (North Arm), Corinne
   - **Best for:** Viewpoint — Ranked #6 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': the surreal pink-hued salt water of the lake's north arm — you have to see it to believe it. Pin at the Spiral Jetty, the classic pink-water viewpoint.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [9 Places in Utah That Look Unreal — None in a National Park](https://www.instagram.com/reel/DfKQdjWx1L3/) by @adventurefamilyvlog (#6 in that reel)
@@ -3314,7 +3742,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **84. [High Dune](https://www.google.com/maps/search/?api=1&query=High+Dune+Great+Sand+Dunes+National+Park+and+Preserve+CO)** — Great Sand Dunes National Park and Preserve, Alamosa
+- **85. [High Dune](https://www.google.com/maps/search/?api=1&query=High+Dune+Great+Sand+Dunes+National+Park+and+Preserve+CO)** — Great Sand Dunes National Park and Preserve, Alamosa
   - **Best for:** Hike — Ranked #2, climbing a massive sand dune with sweeping views of endless rippling dunes to distant mountains.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/high-dune-trail)
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#2 in that reel)
@@ -3335,7 +3763,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **85. [Devil's Hall](https://www.google.com/maps/search/?api=1&query=Devil's+Hall+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+- **86. [Devil's Hall](https://www.google.com/maps/search/?api=1&query=Devil's+Hall+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** Hike — Ranked #5, a narrow, steep-walled canyon with layered rock formations and boulder scrambling.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/texas/devils-hall)
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#5 in that reel)
@@ -3346,19 +3774,32 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **86. [McKittrick Canyon Trail](https://www.google.com/maps/search/?api=1&query=McKittrick+Canyon+Trail+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+- **87. [Devil's Hall Trail](https://www.google.com/maps/search/?api=1&query=Devils+Hall+Trail+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+  - **Best for:** Hiking / Narrow limestone hall at the head of Pine Springs Canyon — Part 2 of Kelley & Carl's epic-hikes series: the Devil's Hall Trail in Guadalupe Mountains — 3.8 miles round trip with 603 feet of gain, the back half bouldering up the Pine Springs Canyon wash to a narrow limestone hall with 50-foot walls.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/texas/devils-hall)
+  - Coordinates are a SERNEC collection record taken in Devil's Hall itself, about half a mile past the Devil's Staircase.
+  - 🎬 Source: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / NM & TX road trip, Guadalupe pick — The Devil's Hall Trail is a featured Guadalupe Mountains hike on Kelley & Carl's New Mexico & Texas winter road trip (the pin's primary source is their epic-hikes Part 2).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 2 — The Devil's Hall Trail (3.8 miles, 400 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series (the pin's primary source is the January 2026 re-run of Part 2).
+- **88. [McKittrick Canyon Trail](https://www.google.com/maps/search/?api=1&query=McKittrick+Canyon+Trail+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** Hiking / Desert canyon famous for fall color — A must-see on the Guadalupe Mountains stop of Kelley & Carl's New Mexico & Texas road trip — the McKittrick Canyon Trail, called the most beautiful spot in Texas, where maples turn red and gold each fall inside a desert canyon.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/texas/mckittrick-canyon-trail)
   - Pin is the McKittrick Canyon trailhead (an earlier geocode hit the canyon's stream miles away).
   - 🎬 Source: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures (#None in that reel)
-- **87. [Salt Basin Dunes](https://www.google.com/maps/search/?api=1&query=Salt+Basin+Dunes+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / NM & TX road trip, Guadalupe pick — The McKittrick Canyon Trail is a featured Guadalupe Mountains hike on Kelley & Carl's New Mexico & Texas winter road trip.
+- **89. [Salt Basin Dunes](https://www.google.com/maps/search/?api=1&query=Salt+Basin+Dunes+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** Hiking / Remote gypsum dunes on the park's west side — Kelley & Carl's Guadalupe Mountains tip on their New Mexico & Texas road trip: drive out to the remote western region of the park to watch sunset at the Salt Basin Dunes, a small white gypsum dune field few visitors ever see.
   - Pin is the Salt Basin Dunes trailhead.
   - 🎬 Source: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / Epic sunset spots — had it to themselves — The Salt Basin Dunes (3.3 miles, remote western Guadalupe Mountains, 4x4 recommended; gate closes at dusk) at sunset — 'we were literally the only ones on this trail' — is one of Kelley & Carl's 10 epic national park sunset spots.
 
 ##### National park
 
-- **88. [Guadalupe Mountains National Park](https://www.google.com/maps/search/?api=1&query=Guadalupe+Mountains+National+Park+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+- **90. [Guadalupe Mountains National Park](https://www.google.com/maps/search/?api=1&query=Guadalupe+Mountains+National+Park+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** National park / Highest peak in Texas and Permian reef geology — On Kelley & Carl's ultimate underrated-parks list — their favorite experiences here are the Guadalupe Peak Trail and Devils Hall Trail (the peak has its own pin). Their Southwest awards call Guadalupe Mountains 'Most Peaceful'.
   - Pin is the NPS-published Pine Springs Visitor Center point.
   - 🎬 Source: [The ultimate list of underrated US National Parks](https://www.instagram.com/p/Dc6Wq5TmzRX/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3367,13 +3808,15 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **89. [El Capitan](https://www.google.com/maps/search/?api=1&query=El+Capitan+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+- **91. [El Capitan](https://www.google.com/maps/search/?api=1&query=El+Capitan+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** Overlook / The park's signature limestone cliff — A must-see on the Guadalupe Mountains stop of Kelley & Carl's New Mexico & Texas road trip — the El Capitan viewpoints, taking in the sheer cliff that serves as the park's landmark from the highway.
   - 🎬 Source: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / NM & TX road trip, Guadalupe pick — El Capitan is a featured Guadalupe Mountains viewpoint on Kelley & Carl's New Mexico & Texas winter road trip.
 
 ##### View
 
-- **90. [Guadalupe Peak](https://www.google.com/maps/search/?api=1&query=Guadalupe+Peak+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
+- **92. [Guadalupe Peak](https://www.google.com/maps/search/?api=1&query=Guadalupe+Peak+Guadalupe+Mountains+National+Park+TX)** — Guadalupe Mountains National Park, Guadalupe Mountains
   - **Best for:** View — Ranked #5 for views, shown with its summit marker and sweeping desert mountain vistas.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [Epic USA hikes — how many have you done?](https://www.instagram.com/reel/DfVZYUEytWt/) by @ashleyemckee
@@ -3386,6 +3829,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Guadalupe Mountains must-see — The Guadalupe Peak Trail is a must-see on the Guadalupe Mountains stop of Kelley & Carl's New Mexico & Texas road trip.
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite Guadalupe activity, underrated list — Hiking the Guadalupe Peak Trail is one of Kelley & Carl's favorite Guadalupe Mountains activities in their underrated-parks list.
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Summit hike / NM & TX road trip, Guadalupe pick — The Guadalupe Peak Trail is a featured Guadalupe Mountains hike on Kelley & Carl's New Mexico & Texas winter road trip.
 
 ### Hanksville
 
@@ -3393,12 +3838,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **91. [Hanksville](https://www.google.com/maps/search/?api=1&query=Hanksville+UT)** — Hanksville, Hanksville
+- **93. [Hanksville](https://www.google.com/maps/search/?api=1&query=Hanksville+UT)** — Hanksville, Hanksville
   - **Best for:** Road trip stop — Stop #5 on @_wanderedsouls' Southwest winter road-trip route — the barren, otherworldly desert country around Hanksville is a stop in its own right between Capitol Reef and Goblin Valley.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#5 in that reel)
   - 🎬 Also recommended by: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures
     - **Best for:** Town / Stop 5 of the ultimate Southwest road trip — Hanksville is Stop 5 on Kelley & Carl's ultimate Southwest road trip — Factory Butte, the Moonscape Overlook and the Bentonite Hills, with high-clearance 4WD required.
+  - 🎬 Also recommended by: [10 places in the USA for nature lovers (that aren't national parks)](https://www.instagram.com/p/DRcsZtCCbBU/) by @kelleyandcarlsadventures
+    - **Best for:** Landscape / Nature places that aren't national parks — The Hanksville badlands are one of Kelley & Carl's 10 places in the USA for nature lovers that aren't national parks.
 
 ### Havasu Canyon (Havasupai)
 
@@ -3406,14 +3853,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **92. [Havasu Falls](https://www.google.com/maps/search/?api=1&query=Havasu+Falls+AZ)** — Havasu Canyon (Havasupai), Supai
+- **94. [Havasu Falls](https://www.google.com/maps/search/?api=1&query=Havasu+Falls+AZ)** — Havasu Canyon (Havasupai), Supai
   - **Best for:** Waterfall — Justine calls the Havasupai hike '1000% YES — the best experience of my life': the hike in, the waterfalls, and the unreal turquoise water (her toes, she admits, tell a different story). The reel asks whether the $455 permit was worth it and lets the view answer — Havasu Falls pouring over the red rock into its turquoise pool.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/havasu-falls-mooney-falls-and-beaver-falls)
   - Access is by Havasupai Tribe reservation/permit only. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [1000% YES! — Havasu Falls, the best experience of my life](https://www.instagram.com/reel/DfP-za3Modr/) by @justine_le_flahec (#1 in that reel)
   - 🎬 Also recommended by: [12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/) by @theadventurepostcard
     - **Best for:** Hike · Bucket-list hike, #11 of 12 — Ranked #11 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Havasu Falls in Havasu Canyon, Arizona.
-- **93. [Mooney Falls](https://www.google.com/maps/search/?api=1&query=Mooney+Falls+Havasupai+AZ)** — Havasu Canyon (Havasupai), Supai
+- **95. [Mooney Falls](https://www.google.com/maps/search/?api=1&query=Mooney+Falls+Havasupai+AZ)** — Havasu Canyon (Havasupai), Supai
   - **Best for:** Waterfall / Nearly 200-foot falls reached by a chain-and-ladder cliff descent — Episode 5 of Cassie Compton's (@lafftravel) 'hikes to do before your knees give out': Mooney Falls drops nearly 200 feet into the most ridiculously blue water she's ever seen — but reaching the base means climbing down a cliff on chains, ladders and footholds carved into the rock. It's part of the Havasupai backpacking trip (10 miles in with a 35-pound pack on her first-ever backpacking trip; she lost three toenails and would do it all again in a heartbeat). A Havasupai reservation and permit are required, and the descent is steep and slippery — definitely not for everyone, but unforgettable if you're comfortable with heights.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/mooney-falls-from-supai)
   - Coordinates are OpenStreetMap's Mooney Falls waterfall point on Havasu Creek, about a mile below Havasu Falls.
@@ -3425,7 +3872,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **94. [Kayenta Falls](https://www.google.com/maps/search/?api=1&query=Kayenta+Falls+Ivins+UT)** — Hell Hole Canyon, Ivins
+- **96. [Kayenta Falls](https://www.google.com/maps/search/?api=1&query=Kayenta+Falls+Ivins+UT)** — Hell Hole Canyon, Ivins
   - **Best for:** Waterfall — One of Southern Utah's rarest sights, per Mikey Loveridge: the 1,000-foot red-rock cliffs of Hell Hole Canyon near Ivins run bone dry most days, but after heavy rain three ephemeral waterfalls — Kayenta Falls — pour straight down the cliff faces in a vertical flash flood. He photographed the canyon completely dry on Nov 1, 2026, and in full flow the next day after the rain kept coming.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/hellhole-trail)
   - Pin is approximate: the ephemeral falls are not a mapped feature, so it sits on Kayenta Wash at the mouth of Hell Hole Canyon, just northwest of the Kayenta community in Ivins (OpenStreetMap). The falls flow only after heavy rain.
@@ -3437,7 +3884,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **95. [Highway 128 (Upper Colorado River Scenic Byway)](https://www.google.com/maps/search/?api=1&query=Highway+128+Moab+UT)** — Highway 128 — Colorado River Scenic Byway, Moab
+- **97. [Highway 128 (Upper Colorado River Scenic Byway)](https://www.google.com/maps/search/?api=1&query=Highway+128+Moab+UT)** — Highway 128 — Colorado River Scenic Byway, Moab
   - **Best for:** Scenic drive — Nate's bucket-list drive: Utah's Highway 128, the Upper Colorado River Scenic Byway out of Moab — the road runs right along the Colorado River between towering orange cliffs. His timing tip from the caption: start about an hour and a half before official sunset.
   - Pin sits at Fisher Towers, the best-known landmark along the SR-128 corridor (OpenStreetMap).
   - 🎬 Source: [Highway 128 — the Colorado River drive](https://www.instagram.com/reel/DeryBokR80O/) by @n8.sauer (#1 in that reel)
@@ -3448,7 +3895,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **96. [Horseshoe Bend](https://www.google.com/maps/search/?api=1&query=Horseshoe+Bend+Page+AZ)** — Horseshoe Bend, Page
+- **98. [Horseshoe Bend](https://www.google.com/maps/search/?api=1&query=Horseshoe+Bend+Page+AZ)** — Horseshoe Bend, Page
   - **Best for:** Viewpoint — Day 3 stop 4: Horseshoe Bend, the Colorado River's famous incised meander outside Page — the day's finale.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend](https://www.instagram.com/reel/DfQ_wxVu4HX/) by @laurenbcardona (#4 in that reel)
@@ -3465,7 +3912,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **97. [Kanab Sand Caves (Moqui Caverns)](https://www.google.com/maps/search/?api=1&query=Kanab+Sand+Caves+UT)** — Kanab Sand Caves, Kanab
+- **99. [Kanab Sand Caves (Moqui Caverns)](https://www.google.com/maps/search/?api=1&query=Kanab+Sand+Caves+UT)** — Kanab Sand Caves, Kanab
   - **Best for:** Hike — Giselle's Zion alternative #1: caves carved into Navajo sandstone in the 1970s to harvest sand for glassmaking — now a free, photogenic scramble right off Highway 89, about 1.2 miles round trip with parking by the highway. Her caution: the scramble up can get a little scary; don't be afraid to turn back.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/sand-caves--2)
   - Coordinates verified against OpenStreetMap.
@@ -3477,7 +3924,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **98. [Kanarra Falls](https://www.google.com/maps/search/?api=1&query=Kanarra+Falls+UT)** — Kanarra Falls (Kanarra Creek Canyon), Kanarraville
+- **100. [Kanarra Falls](https://www.google.com/maps/search/?api=1&query=Kanarra+Falls+UT)** — Kanarra Falls (Kanarra Creek Canyon), Kanarraville
   - **Best for:** Waterfall — Giselle's Zion alternative #4 — her favorite of the five: a permitted slot-canyon waterfall hike, about 3.8 miles out and back with creek crossings the whole way and a ladder climb in the canyon. Permits sell out 1–2 weeks ahead in summer, so book early — and rent the waders unless you want numb feet for an hour afterwards.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/kanarra-falls)
   - Coordinates verified against OpenStreetMap.
@@ -3489,7 +3936,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Bucket-list hike, #3 of 12
 
-- **99. [Kasha-Katuwe Tent Rocks](https://www.google.com/maps/search/?api=1&query=Kasha-Katuwe+Tent+Rocks+National+Monument)** — Kasha-Katuwe Tent Rocks National Monument, Cochiti Pueblo
+- **101. [Kasha-Katuwe Tent Rocks](https://www.google.com/maps/search/?api=1&query=Kasha-Katuwe+Tent+Rocks+National+Monument)** — Kasha-Katuwe Tent Rocks National Monument, Cochiti Pueblo
   - **Best for:** Hike · Bucket-list hike, #3 of 12 — Ranked #3 in the reel's countdown of 12 bucket-list hikes NOT in national parks: the cone-shaped tent rock formations of Kasha-Katuwe Tent Rocks National Monument, reached by a slot-canyon trail.
   - 🎬 Source: [12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/) by @theadventurepostcard (#3 in that reel)
 
@@ -3499,14 +3946,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach
 
-- **100. [Sand Harbor](https://www.google.com/maps/search/?api=1&query=Sand+Harbor+Lake+Tahoe+NV)** — Lake Tahoe, Incline Village
+- **102. [Sand Harbor](https://www.google.com/maps/search/?api=1&query=Sand+Harbor+Lake+Tahoe+NV)** — Lake Tahoe, Incline Village
   - **Best for:** Beach / Turquoise water and house-sized boulders — A Lake Tahoe must-see on Kelley & Carl's Reno-to-redwoods road trip — Sand Harbor, the state park beach of white sand, clear turquoise water and granite boulders.
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [10 of the most beautiful lakes in the USA](https://www.instagram.com/p/DYfIFKKllS9/) by @kelleyandcarlsadventures
     - **Best for:** Lake / Beautiful lakes list — Lake Tahoe — Sand Harbor Beach is one of Kelley & Carl's favorite Lake Tahoe spots on their most beautiful lakes list.
   - 🎬 Also recommended by: [US state parks that really pack a punch](https://www.instagram.com/p/DWEtOPtDt6X/) by @kelleyandcarlsadventures
     - **Best for:** State park / Favorite state parks list — Sand Harbor State Park is one of Kelley & Carl's all-time favorite US state parks — Lake Tahoe's clear turquoise water and unique boulders.
-- **101. [Secret Cove](https://www.google.com/maps/search/?api=1&query=Secret+Cove+Lake+Tahoe+NV)** — Lake Tahoe, Incline Village
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Lake Tahoe — Lake Tahoe is one of Kelley & Carl's 10 most beautiful lakes in the USA; Sand Harbor is among their favorite spots on the lake (with Secret Cove, Cave Rock, Emerald Bay and DL Bliss state parks).
+  - 🎬 Also recommended by: [10 places in the USA for nature lovers (that aren't national parks)](https://www.instagram.com/p/DRcsZtCCbBU/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Nature places that aren't national parks — Lake Tahoe — Lake Tahoe is one of Kelley & Carl's 10 places in the USA for nature lovers that aren't national parks; Sand Harbor is their pinned Tahoe spot.
+- **103. [Secret Cove](https://www.google.com/maps/search/?api=1&query=Secret+Cove+Lake+Tahoe+NV)** — Lake Tahoe, Incline Village
   - **Best for:** Beach / Secluded east-shore cove — A Lake Tahoe must-see on Kelley & Carl's Reno-to-redwoods road trip — Secret Cove, a tucked-away east-shore cove of impossibly blue water reached by a short trail from the highway.
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [10 of the most beautiful lakes in the USA](https://www.instagram.com/p/DYfIFKKllS9/) by @kelleyandcarlsadventures
@@ -3514,7 +3965,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Biking & walking
 
-- **102. [Tahoe East Shore Trail](https://www.google.com/maps/search/?api=1&query=Tahoe+East+Shore+Trail+Lake+Tahoe+NV)** — Lake Tahoe, Incline Village
+- **104. [Tahoe East Shore Trail](https://www.google.com/maps/search/?api=1&query=Tahoe+East+Shore+Trail+Lake+Tahoe+NV)** — Lake Tahoe, Incline Village
   - **Best for:** Biking & walking / Paved lakeside path past hidden coves — A Lake Tahoe must-see on Kelley & Carl's Reno-to-redwoods road trip — the Tahoe East Shore Trail, the paved path from Incline Village to Sand Harbor linking the east shore's beaches and coves.
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
 
@@ -3524,7 +3975,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **103. [Long Dong Silver](https://www.google.com/maps/search/?api=1&query=Long+Dong+Silver+UT)** — Long Dong Silver (Hanksville), Hanksville
+- **105. [Long Dong Silver](https://www.google.com/maps/search/?api=1&query=Long+Dong+Silver+UT)** — Long Dong Silver (Hanksville), Hanksville
   - **Best for:** Viewpoint — Ranked #2 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': a bizarre rock spire that looks like another planet, rising from the desert near Hanksville.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [9 Places in Utah That Look Unreal — None in a National Park](https://www.instagram.com/reel/DfKQdjWx1L3/) by @adventurefamilyvlog (#2 in that reel)
@@ -3535,7 +3986,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **104. [Marlboro Point](https://www.google.com/maps/search/?api=1&query=Marlboro+Point+Moab+UT)** — Marlboro Point, Moab
+- **106. [Marlboro Point](https://www.google.com/maps/search/?api=1&query=Marlboro+Point+Moab+UT)** — Marlboro Point, Moab
   - **Best for:** Viewpoint — Ranked #9 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': a hidden desert overlook with incredible canyon views, out in the Moab backcountry between Canyonlands and Dead Horse Point.
   - Coordinates from the Marlboro Point place record (Grand County, UT); reached by dirt roads off UT-313, high-clearance 4x4 for the last stretch.
   - 🎬 Source: [9 Places in Utah That Look Unreal — None in a National Park](https://www.instagram.com/reel/DfKQdjWx1L3/) by @adventurefamilyvlog (#9 in that reel)
@@ -3546,7 +3997,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · One of the darkest skies in America
 
-- **105. [Massacre Rim](https://www.google.com/maps/search/?api=1&query=Massacre+Rim+Nevada)** — Massacre Rim Wilderness Study Area, Cedarville
+- **107. [Massacre Rim](https://www.google.com/maps/search/?api=1&query=Massacre+Rim+Nevada)** — Massacre Rim Wilderness Study Area, Cedarville
   - **Best for:** Stargazing · One of the darkest skies in America — The carousel's Nevada pick: a wilderness study area so remote that the Milky Way stretches brilliantly across the sky on clear, moonless nights — among the darkest skies left in the United States.
   - 🎬 Source: [You haven't really seen the night sky until you've visited places like these](https://www.instagram.com/p/DfD2yGrmvkK/) by @earthpulse111 (#None in that reel)
 
@@ -3556,7 +4007,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **106. [Monument Valley](https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT)** — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
+- **108. [Monument Valley](https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT)** — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
   - **Best for:** Road trip stop — Stop #11 on @_wanderedsouls' Southwest winter road-trip route — the classic buttes, filmed from the road through the valley.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#11 in that reel)
@@ -3569,7 +4020,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **107. [Natural Bridges National Monument](https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT)** — Natural Bridges National Monument, Blanding
+- **109. [Natural Bridges National Monument](https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT)** — Natural Bridges National Monument, Blanding
   - **Best for:** Stargazing — Ranked #7 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#7 in that reel)
@@ -3580,7 +4031,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **108. [Navajo Bridge](https://www.google.com/maps/search/?api=1&query=Navajo+Bridge+AZ)** — Navajo Bridge (Marble Canyon), Marble Canyon
+- **110. [Navajo Bridge](https://www.google.com/maps/search/?api=1&query=Navajo+Bridge+AZ)** — Navajo Bridge (Marble Canyon), Marble Canyon
   - **Best for:** Viewpoint — Day 3 stop 1: the twin Navajo Bridges over the Colorado River at Marble Canyon — the historic 1929 span is now a pedestrian bridge with California condor sightings.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend](https://www.instagram.com/reel/DfQ_wxVu4HX/) by @laurenbcardona (#1 in that reel)
@@ -3591,7 +4042,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **109. [Page](https://www.google.com/maps/search/?api=1&query=Page+AZ)** — Page, Page
+- **111. [Page](https://www.google.com/maps/search/?api=1&query=Page+AZ)** — Page, Page
   - **Best for:** Road trip stop — Stop #12 on @_wanderedsouls' Southwest winter road-trip route — the reel's Page stop is Horseshoe Bend, the Colorado River's famous incised meander.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#12 in that reel)
@@ -3600,7 +4051,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Slot canyon
 
-- **110. [Antelope Canyon](https://www.google.com/maps/search/?api=1&query=Antelope+Canyon+Page+AZ)** — Page, Page
+- **112. [Antelope Canyon](https://www.google.com/maps/search/?api=1&query=Antelope+Canyon+Page+AZ)** — Page, Page
   - **Best for:** Slot canyon / Guided tour through sculpted sandstone — A point of interest on the Page stop of Kelley & Carl's ultimate Southwest road trip — the famous slot canyon, visited on a guided tour, alongside Horseshoe Bend and Lake Powell.
   - Pin is the Antelope Slot Canyon tour area east of Page, from OpenStreetMap.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3617,7 +4068,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **111. [Blue Mesa Trail](https://www.google.com/maps/search/?api=1&query=Blue+Mesa+Trail+Petrified+Forest+National+Park+AZ)** — Petrified Forest National Park, Holbrook
+- **113. [Blue Mesa Trail](https://www.google.com/maps/search/?api=1&query=Blue+Mesa+Trail+Petrified+Forest+National+Park+AZ)** — Petrified Forest National Park, Holbrook
   - **Best for:** Hiking / Blue bentonite badlands loop — Rated 8/10 in Kelley & Carl's Southwest hike ratings: the Blue Mesa Trail, a 1-mile loop descending among blue-purple bentonite badlands and petrified logs in Petrified Forest National Park.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/blue-mesa-trail)
   - Coordinates are the NPS Blue Mesa Trailhead place record.
@@ -3634,7 +4085,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Petrified Forest favorite hike — The Blue Mesa Trail is Kelley & Carl's favorite Petrified Forest hike — go right at the 8 AM opening to catch the badlands' layers and textures in low light.
   - 🎬 Also recommended by: [The perfect Arizona road trip — parks, Sedona and Page by van](https://www.instagram.com/reel/DVjPpvmjppj/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Arizona road trip, Petrified Forest — The Blue Mesa Trail is a must-see on Kelley & Carl's Arizona road trip stop at Petrified Forest.
-- **112. [Crystal Forest Trail](https://www.google.com/maps/search/?api=1&query=Crystal+Forest+Trail+Petrified+Forest+National+Park+AZ)** — Petrified Forest National Park, Holbrook
+- **114. [Crystal Forest Trail](https://www.google.com/maps/search/?api=1&query=Crystal+Forest+Trail+Petrified+Forest+National+Park+AZ)** — Petrified Forest National Park, Holbrook
   - **Best for:** Hiking / Petrified logs along an easy loop — Rated 6/10 in Kelley & Carl's Southwest hike ratings: the Crystal Forest Trail, an easy loop past some of Petrified Forest's most colorful quartz-filled petrified logs.
   - 🎬 Source: [Honest ratings for Southwest hikes](https://www.instagram.com/p/DYpcxw5FsaQ/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
@@ -3652,7 +4103,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### National park
 
-- **113. [Petrified Forest National Park](https://www.google.com/maps/search/?api=1&query=Petrified+Forest+National+Park+Petrified+Forest+National+Park+AZ)** — Petrified Forest National Park, Holbrook
+- **115. [Petrified Forest National Park](https://www.google.com/maps/search/?api=1&query=Petrified+Forest+National+Park+Petrified+Forest+National+Park+AZ)** — Petrified Forest National Park, Holbrook
   - **Best for:** National park / Petrified logs and Painted Desert badlands — Featured in Kelley & Carl's '8 most otherworldly US National Parks' — the carousel opens with the couple walking among its petrified logs and rainbow badlands. Their Southwest awards also call it 'Most Overlooked', and they rate it 6/10 among the parks they visited in 2026.
   - Pin is the NPS-published Painted Desert Visitor Center point (north entrance, off I-40).
   - 🎬 Source: [8 of the most otherworldly US National Parks](https://www.instagram.com/p/Da3ELfUlup8/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3661,7 +4112,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **114. [Kachina Point](https://www.google.com/maps/search/?api=1&query=Kachina+Point+Petrified+Forest+National+Park+AZ)** — Petrified Forest National Park, Holbrook
+- **116. [Kachina Point](https://www.google.com/maps/search/?api=1&query=Kachina+Point+Petrified+Forest+National+Park+AZ)** — Petrified Forest National Park, Holbrook
   - **Best for:** Viewpoint / Painted Desert overlook behind the Painted Desert Inn — One of Kelley & Carl's best no-hike views in the Southwest: Kachina Point, the Painted Desert overlook directly behind the historic Painted Desert Inn at Petrified Forest's north entrance — banded badlands to the horizon.
   - Coordinates from the NPS Painted Desert Inn place record — the inn sits at Kachina Point.
   - 🎬 Source: [Best no-hike views in the Southwest](https://www.instagram.com/p/DVl30XQjqkP/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3676,7 +4127,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **115. [Picacho Peak](https://www.google.com/maps/search/?api=1&query=Picacho+Peak+Picacho+Peak+State+Park+AZ)** — Picacho Peak State Park, Picacho
+- **117. [Picacho Peak](https://www.google.com/maps/search/?api=1&query=Picacho+Peak+Picacho+Peak+State+Park+AZ)** — Picacho Peak State Park, Picacho
   - **Best for:** Hiking / A desert spire between Phoenix and Tucson — One of Kelley & Carl's favorite US state parks: Picacho Peak State Park, where the Hunter Trail climbs cables up a 3,374-foot volcanic spire beside I-10 — known for spring wildflowers, saguaros and Civil War history (the westernmost battle, 1862).
   - Coordinates from Wikipedia (Picacho Peak State Park).
   - 🎬 Source: [US state parks that really pack a punch](https://www.instagram.com/p/DWEtOPtDt6X/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3687,7 +4138,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **116. [Potash Road](https://www.google.com/maps/search/?api=1&query=Potash+Road+Moab+UT)** — Potash Road (SR-279, Moab), Moab
+- **118. [Potash Road](https://www.google.com/maps/search/?api=1&query=Potash+Road+Moab+UT)** — Potash Road (SR-279, Moab), Moab
   - **Best for:** Scenic drive — Ranked #5 in Adventure Family Vlog's '9 Places in Utah That Look Unreal — and none are in a national park': a jaw-dropping scenic drive along the Colorado River near Moab.
   - Pin marks the Potash Road dinosaur tracks & petroglyphs stop on SR-279 (a documented roadside stop on the drive); coordinates from the place record for that stop. The road itself runs ~17 miles along the Colorado River from US-191.
   - 🎬 Source: [9 Places in Utah That Look Unreal — None in a National Park](https://www.instagram.com/reel/DfKQdjWx1L3/) by @adventurefamilyvlog (#5 in that reel)
@@ -3700,7 +4151,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Slot canyon
 
-- **117. [Red Slot Canyon (Red Hollow)](https://www.google.com/maps/search/?api=1&query=Red+Hollow+Slot+Canyon+Orderville+UT)** — Red Hollow Slot Canyon, Orderville
+- **119. [Red Slot Canyon (Red Hollow)](https://www.google.com/maps/search/?api=1&query=Red+Hollow+Slot+Canyon+Orderville+UT)** — Red Hollow Slot Canyon, Orderville
   - **Best for:** Slot canyon — Giselle's Zion alternative #2: a 1.2-mile round-trip slot canyon with glowing orange and pink walls. Park at the water facility at the end of Red Hollow Drive — and note the sandy road is popular with off-roaders, so it can be soft going.
   - The reel calls it 'Red Slot Canyon in Kanab' but its own access detail — park at the water facility at the end of Red Hollow Drive — identifies it as Red Hollow Slot Canyon near Orderville. Pin is the trailhead by the water tank; coordinates from two independent trail guides (37.2709, -112.6273), not OpenStreetMap.
   - 🎬 Source: [When Zion is too packed — 5 spots about an hour away (Kanab area)](https://www.instagram.com/reel/DZvgowxyUv7/) by @giselle.on.trails (#2 in that reel)
@@ -3711,7 +4162,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **118. [Red Rock Canyon National Conservation Area](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV)** — Red Rock Canyon National Conservation Area, Las Vegas
+- **120. [Red Rock Canyon National Conservation Area](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV)** — Red Rock Canyon National Conservation Area, Las Vegas
   - **Best for:** Sunset — Caption names Red Rock Canyon, NV, with a sunset hashtag. The video pans over desert mountains at dusk under a blue-to-orange sky and says the spot is just fifteen minutes from Las Vegas — a peaceful desert contrast to the city.
   - Caption calls it 'Red Rock Canyon State Park, NV', but the Las Vegas-area spot in the video (15 minutes from the city) is Red Rock Canyon National Conservation Area, the BLM conservation area west of Las Vegas; Red Rock Canyon State Park is a different park in California. Pin is the conservation area's visitor center on the Scenic Loop (the Nominatim nature-reserve centroid was the alternative).
   - 🎬 Source: [Sunset — Red Rock Canyon](https://www.instagram.com/reel/DGVlZoGoEAa/) by @amorywild (#None in that reel)
@@ -3722,18 +4173,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **119. [Chasm Lake](https://www.google.com/maps/search/?api=1&query=Chasm+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **121. [Chasm Lake](https://www.google.com/maps/search/?api=1&query=Chasm+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — Ranked #1, a frozen alpine lake surrounded by towering, snow-dusted granite peaks.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/chasm-lake)
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#1 in that reel)
   - 🎬 Also recommended by: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Rocky Mountain highlight — Chasm Lake is a Rocky Mountain highlight on Kelley & Carl's Colorado road trip.
-- **120. [Gem Lake Trail](https://www.google.com/maps/search/?api=1&query=Gem+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **122. [Gem Lake Trail](https://www.google.com/maps/search/?api=1&query=Gem+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — Caption names the Gem Lake Trail in 'Rock Mountain' (Rocky Mountain) National Park; the state (Colorado) is inferred from the park. This post has no tagged location. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/gem-lake-trail)
   - Caption says 'Rock Mountain National Park' — Rocky Mountain National Park. Pin is Gem Lake in Larimer County (the Lumpy Ridge lake in Rocky Mountain National Park), the trail's destination; same-named lakes in Jackson and El Paso counties, CO were rejected.
   - 🎬 Source: [Hiking — Gem Lake Trail](https://www.instagram.com/reel/DGOs9n7SG5e/) by @amorywild (#None in that reel)
-- **121. [Rocky Mountain National Park](https://www.google.com/maps/search/?api=1&query=Rocky+Mountain+National+Park+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **123. [Rocky Mountain National Park](https://www.google.com/maps/search/?api=1&query=Rocky+Mountain+National+Park+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hike — His #5 in 'My Top 5 National Parks For Hiking': shown with wide views of snow-dusted peaks, valleys, frozen lakes, rocky summits and a cascading waterfall. (The media-understanding transcript renders the name as 'Rocky Mountains National Park.')
   - Park-level pin is the park's Nominatim point on the east side, near the Beaver Meadows entrance.
   - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#5 in that reel)
@@ -3748,7 +4199,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **122. [Alberta Falls](https://www.google.com/maps/search/?api=1&query=Alberta+Falls+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **124. [Alberta Falls](https://www.google.com/maps/search/?api=1&query=Alberta+Falls+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hiking / Waterfall on the Glacier Gorge trail — A Rocky Mountain highlight on Kelley & Carl's Colorado road trip — Alberta Falls, the 30-foot cascade a short hike from the Glacier Gorge trailhead.
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Honest ratings for Colorado hikes](https://www.instagram.com/p/DYXbHznFrUB/) by @kelleyandcarlsadventures
@@ -3759,13 +4210,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Colorado beyond Denver — Alberta Falls is a stop on Kelley & Carl's 'Colorado is so much more than Denver' photo tour.
   - 🎬 Also recommended by: [10 of the best US national park waterfalls](https://www.instagram.com/p/DUtMORqCcH3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Best waterfalls list — Alberta Falls is on Kelley & Carl's 10 best national park waterfalls list — 1.6 miles round trip, 226 feet of gain; timed entry with Bear Lake access required in peak season.
-- **123. [Bear Lake](https://www.google.com/maps/search/?api=1&query=Bear+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Alberta Falls (30 ft, via the 1.4-mile trail) is one of Kelley & Carl's top 11 national park waterfalls.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Epic national park hikes, Part 6 — Alberta Falls (1.2 miles, 200 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
+- **125. [Bear Lake](https://www.google.com/maps/search/?api=1&query=Bear+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hiking / Lakeside loop and trailhead hub — A Rocky Mountain highlight on Kelley & Carl's Colorado road trip — Bear Lake, the beloved roadside lake whose trailhead launches the park's most popular hikes.
   - Coordinates from the Bear Lake (Colorado) Wikipedia entry (40.31324, -105.648222).
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Honest ratings for Colorado hikes](https://www.instagram.com/p/DYXbHznFrUB/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Rated 4/10, Colorado ratings — Rated 4/10 in Kelley & Carl's Colorado hike ratings: the Bear Lake Loop in Rocky Mountain National Park.
-- **124. [Emerald Lake](https://www.google.com/maps/search/?api=1&query=Emerald+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+  - 🎬 Also recommended by: [Colorado's 4 national parks — one epic road trip](https://www.instagram.com/p/DQCYqihDopp/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Colorado road trip must-see, Rocky Mountain — Bear Lake is a must-see in Kelley & Carl's Colorado parks road trip coverage of Rocky Mountain.
+- **126. [Emerald Lake](https://www.google.com/maps/search/?api=1&query=Emerald+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hiking / Alpine lake below Hallett Peak — A Rocky Mountain highlight on Kelley & Carl's Colorado road trip — Emerald Lake, the third and prettiest of the lakes strung along the Bear Lake trail corridor.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/emerald-lake-trail)
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3781,11 +4238,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Mountain parks list, Rocky Mountain — The Emerald Lake Trail is a Rocky Mountain highlight in Kelley & Carl's mountain-lovers park list.
   - 🎬 Also recommended by: [16 national park hikes that belong on your bucket list](https://www.instagram.com/p/DV_iymmjj6H/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Bucket-list hike — The Emerald Lake Trail is one of the 16 national park hikes on Kelley & Carl's bucket list.
-- **125. [Lily Lake](https://www.google.com/maps/search/?api=1&query=Lily+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Emerald Lake in Rocky Mountain (3.5 miles RT, 718 ft; timed entry with Bear Lake access in peak season) is one of Kelley & Carl's 10 most beautiful lakes in the USA.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in Rocky Mountain (#5 most visited) — Emerald Lake (3.5 miles RT, 715 ft) is Kelley & Carl's favorite hike in Rocky Mountain, #5 in their most-visited-parks countdown.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 1 — Emerald Lake (3.2 miles, 650 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
+- **127. [Lily Lake](https://www.google.com/maps/search/?api=1&query=Lily+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hiking / Easy lakeside loop below Longs Peak — Rated 5/10 in Kelley & Carl's Colorado hike ratings: Lily Lake (their caption spells it 'Lilly Lake'), an easy flat loop on Highway 7 south of Estes Park with Longs Peak and Twin Sisters reflections. It sits outside the Bear Lake corridor, so no timed-entry reservation is needed for the trailhead.
   - Coordinates from Wikipedia (Lily Lake, Colorado).
   - 🎬 Source: [Honest ratings for Colorado hikes](https://www.instagram.com/p/DYXbHznFrUB/) by @kelleyandcarlsadventures (#None in that reel)
-- **126. [Sky Pond](https://www.google.com/maps/search/?api=1&query=Sky+Pond+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **128. [Sky Pond](https://www.google.com/maps/search/?api=1&query=Sky+Pond+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hiking / Alpine lake above a waterfall scramble — A Rocky Mountain highlight on Kelley & Carl's Colorado road trip — Sky Pond, reached by scrambling up the side of Timberline Falls to a lake ringed by the Cathedral Spires.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/timberline-falls-and-sky-pond-trail)
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3797,7 +4260,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Mountain parks list, Rocky Mountain — Sky Pond is a Rocky Mountain highlight in Kelley & Carl's mountain-lovers park list.
   - 🎬 Also recommended by: [10 of the hardest US national park day hikes](https://www.instagram.com/p/DU8qzKxidnT/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Hardest day hikes — Sky Pond is one of Kelley & Carl's 10 hardest US national park day hikes — about 9 miles and 1,800 feet of gain, climbing up a rushing waterfall, with altitude sickness a risk; timed entry for the Bear Lake area.
-- **127. [Sprague Lake](https://www.google.com/maps/search/?api=1&query=Sprague+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 3 — Sky Pond via Glacier Gorge (8.6 hard miles, 1,774 ft, climbing the rocks of a small waterfall; timed entry + Bear Lake access) is one of the ten epic hikes in Part 3 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — waterfall climb — Sky Pond (about 9 miles, 1,800 ft; requires climbing up a rushing waterfall, altitude possible) is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 3 — Sky Pond (8.6 miles, 1,750 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
+- **129. [Sprague Lake](https://www.google.com/maps/search/?api=1&query=Sprague+Lake+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Hiking / Sunrise lake with Continental Divide views — A Rocky Mountain highlight on Kelley & Carl's Colorado road trip — Sprague Lake, an easy flat loop famous for sunrise reflections of the Continental Divide.
   - Coordinates from the NPS Sprague Lake place record (40.320489, -105.608667).
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3806,7 +4275,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **128. [Trail Ridge Road](https://www.google.com/maps/search/?api=1&query=Trail+Ridge+Road+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **130. [Trail Ridge Road](https://www.google.com/maps/search/?api=1&query=Trail+Ridge+Road+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Scenic drive / Highest continuous paved road in the USA — A Rocky Mountain highlight on Kelley & Carl's Colorado road trip — Trail Ridge Road, the alpine highway crossing the park above treeline to 12,183 feet.
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Colorado is so much more than Denver](https://www.instagram.com/p/DW9RZdvFtJ2/) by @kelleyandcarlsadventures
@@ -3819,10 +4288,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Scenic drive / All-time favorite national park road — Trail Ridge Road is one of Kelley & Carl's all-time favorite national park roads.
   - 🎬 Also recommended by: [Bucket list USA roads](https://www.instagram.com/reel/DWjgyVQpotd/) by @kelleyandcarlsadventures
     - **Best for:** Scenic drive / Bucket-list USA road — Trail Ridge Road is one of the bucket-list USA roads in Kelley & Carl's scenic-drives reel.
+  - 🎬 Also recommended by: [10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Most beautiful national park roads — Trail Ridge Road, connecting Estes Park to Grand Lake, is one of the 10 most beautiful national park roads in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 of the best national parks for mountain lovers](https://www.instagram.com/p/DQeyaxbiT0A/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Mountain-lover parks — Rocky Mountain feature — Trail Ridge Road headlines the Rocky Mountain section of Kelley & Carl's best parks for mountain lovers.
+  - 🎬 Also recommended by: [Colorado's 4 national parks — one epic road trip](https://www.instagram.com/p/DQCYqihDopp/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Colorado road trip must-see, Rocky Mountain — Trail Ridge Road is a must-see in Kelley & Carl's Colorado parks road trip coverage of Rocky Mountain.
 
 ##### Winter hike
 
-- **129. [Lake Haiyaha Trail](https://www.google.com/maps/search/?api=1&query=Lake+Haiyaha+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
+- **131. [Lake Haiyaha Trail](https://www.google.com/maps/search/?api=1&query=Lake+Haiyaha+Rocky+Mountain+National+Park+CO)** — Rocky Mountain National Park, Estes Park
   - **Best for:** Winter hike — Caption names the Lake Haiyaha Trail in Rocky Mountain National Park with a snow emoji; the tag adds Colorado. The video follows a hiker laughing and walking a snowy trail through a snow-covered mountain landscape — a joyful winter hike.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/lake-haiyaha)
   - Pin is Lake Haiyaha, the trail's destination.
@@ -3840,7 +4315,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **130. [Wasson Peak](https://www.google.com/maps/search/?api=1&query=Wasson+Peak+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
+- **132. [Wasson Peak](https://www.google.com/maps/search/?api=1&query=Wasson+Peak+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
   - **Best for:** Hike — Ranked #5, hiking among giant saguaro cacti to a summit with panoramic desert mountain views at sunset.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/arizona/wasson-peak-saguaro-national-park)
   - 🎬 Source: [My Top 5 Otherworldly National Park Hikes](https://www.instagram.com/reel/DextBmsOnad/) by @amorywild (#5 in that reel)
@@ -3857,7 +4332,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **131. [Saguaro National Park](https://www.google.com/maps/search/?api=1&query=Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
+- **133. [Saguaro National Park](https://www.google.com/maps/search/?api=1&query=Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
   - **Best for:** Road trip stop — Named in @_wanderedsouls' Southwest winter road-trip reel as part of their detailed itinerary (an Arizona add-on beyond the 13 route stops) — forests of giant saguaro cactus outside Tucson.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#None in that reel)
@@ -3866,7 +4341,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **132. [Cactus Forest Drive](https://www.google.com/maps/search/?api=1&query=Cactus+Forest+Drive+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
+- **134. [Cactus Forest Drive](https://www.google.com/maps/search/?api=1&query=Cactus+Forest+Drive+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
   - **Best for:** Scenic drive / One-way loop through a saguaro forest — A highlight of Kelley & Carl's ultimate Arizona road trip: the Cactus Forest Drive, the 8-mile one-way loop through the Rincon Mountain District's densest saguaro forest, with the Desert Ecology and Javelina Rocks stops along the way.
   - 🎬 Source: [The ultimate Arizona road trip](https://www.instagram.com/p/DVwI9jbDjE5/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
@@ -3876,7 +4351,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **133. [Javelina Rocks](https://www.google.com/maps/search/?api=1&query=Javelina+Rocks+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
+- **135. [Javelina Rocks](https://www.google.com/maps/search/?api=1&query=Javelina+Rocks+Saguaro+National+Park+AZ)** — Saguaro National Park, Tucson
   - **Best for:** Viewpoint / Granite domes above a saguaro forest on Cactus Forest Drive — On Kelley & Carl's 'high reward with little effort' overlooks list: 'Sunset here amongst GIANT cacti and boulders is incredible!' — a pull-off on the Cactus Forest Loop Drive in Saguaro's east (Rincon Mountain) district.
   - Pin is the NPS place-record point for Javelina Rocks on Cactus Forest Drive.
   - 🎬 Source: [High reward with little effort — 10 of the best overlooks](https://www.instagram.com/p/Dd61E_2CYb7/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3891,7 +4366,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **134. [Sedona](https://www.google.com/maps/search/?api=1&query=Sedona+AZ)** — Sedona, Sedona
+- **136. [Sedona](https://www.google.com/maps/search/?api=1&query=Sedona+AZ)** — Sedona, Sedona
   - **Best for:** Road trip stop — Named in @_wanderedsouls' Southwest winter road-trip reel as part of their detailed itinerary (an Arizona add-on beyond the 13 route stops).
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls (#None in that reel)
@@ -3906,7 +4381,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **135. [Toquerville Falls](https://www.google.com/maps/search/?api=1&query=Toquerville+Falls+UT)** — Toquerville Falls (La Verkin Creek), Toquerville
+- **137. [Toquerville Falls](https://www.google.com/maps/search/?api=1&query=Toquerville+Falls+UT)** — Toquerville Falls (La Verkin Creek), Toquerville
   - **Best for:** Waterfall — Giselle's Zion alternative #3: no hiking required if you have a 4x4 (don't attempt it in a normal car) — a 5.3-mile dirt road, about 45 minutes, to falls that pour over two pour-offs on La Verkin Creek: a cascade section and a clean 20-foot drop into a pool. Free BLM land, and the swimming is incredible in summer.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/toquerville-falls)
   - Coordinates verified against OpenStreetMap.
@@ -3918,7 +4393,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **136. [Valley of Fire State Park](https://www.google.com/maps/search/?api=1&query=Valley+of+Fire+State+Park+Valley+of+Fire+State+Park+NV)** — Valley of Fire State Park, Moapa Valley
+- **138. [Valley of Fire State Park](https://www.google.com/maps/search/?api=1&query=Valley+of+Fire+State+Park+Valley+of+Fire+State+Park+NV)** — Valley of Fire State Park, Moapa Valley
   - **Best for:** Hiking / Red-rock scenery — A POV walkthrough introduced by on-screen text, 'POV you finally made it to Valley of Fire.' It moves through narrow orange-red slot canyons, past jagged red-rock spires, and across expansive wave-like striped formations with pools and sparse desert vegetation.
   - 🎬 Source: [Scenic landscapes — Valley of Fire State Park](https://www.instagram.com/reel/Dd4og3dtf8U/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [One of the BEST winter road trips in the USA — Nevada → Utah → Arizona (13 stops)](https://www.instagram.com/reel/DexzsRogiV7/) by @_wanderedsouls
@@ -3930,7 +4405,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **137. [Wahweap Overlook](https://www.google.com/maps/search/?api=1&query=Wahweap+Overlook+AZ)** — Wahweap Overlook (Lake Powell), Page
+- **139. [Wahweap Overlook](https://www.google.com/maps/search/?api=1&query=Wahweap+Overlook+AZ)** — Wahweap Overlook (Lake Powell), Page
   - **Best for:** Viewpoint — Day 3 stop 3: the Wahweap Overlook above Lake Powell's Wahweap Bay — the big-water panorama near Page.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Day 3 of Arizona — Navajo Bridge, Glen Canyon Dam, Wahweap Overlook, Horseshoe Bend](https://www.instagram.com/reel/DfQ_wxVu4HX/) by @laurenbcardona (#3 in that reel)
@@ -3943,7 +4418,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **138. [Water Canyon](https://www.google.com/maps/search/?api=1&query=Water+Canyon+Hildale+UT)** — Water Canyon (Hildale), Hildale
+- **140. [Water Canyon](https://www.google.com/maps/search/?api=1&query=Water+Canyon+Hildale+UT)** — Water Canyon (Hildale), Hildale
   - **Best for:** Hike — Giselle's Zion alternative #5: a 4.25-mile out-and-back hike (about 500 ft of gain) that ends up looking like a mini version of Zion's Subway — and a pretty easy one. This is the one she says legit looks like the Subway.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/water-canyon-amp-squirrel-creek-loop)
   - Coordinates verified against OpenStreetMap.
@@ -3955,7 +4430,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **139. [White Sands Backcountry Trail](https://www.google.com/maps/search/?api=1&query=White+Sands+Backcountry+Trail+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
+- **141. [White Sands Backcountry Trail](https://www.google.com/maps/search/?api=1&query=White+Sands+Backcountry+Trail+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
   - **Best for:** Hike / Marked route over the gypsum dunes on the Backcountry Camping Loop — Kelley & Carl's photography-magic pick for White Sands: 'Hike White Sands Backcountry Trail (particularly at golden hour/sunset)'. Also on their most-rewarding and perfect-hikes lists — a ~2-mile marked loop over the dunes from the Backcountry Camping trailhead on Dunes Drive.
   - Pin is the published Backcountry Camping parking lot point on Dunes Drive (the trailhead for the Backcountry Camping Loop / Backcountry Trail).
   - 🎬 Source: [These are the parks for photography magic — favorite photo spots](https://www.instagram.com/p/Daf9Vw_lgXD/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3973,30 +4448,46 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite White Sands activity, magical parks — Hiking the White Sands Backcountry Trail — and sand sledding — is Kelley & Carl's favorite White Sands activity in their magical-parks list.
   - 🎬 Also recommended by: [16 national park hikes that belong on your bucket list](https://www.instagram.com/p/DV_iymmjj6H/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Bucket-list hike — The White Sands Backcountry Trail is one of the 16 national park hikes on Kelley & Carl's bucket list.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 2 — The White Sands Backcountry Trail (1.7 miles, minimal gain, full sun — go early, download the offline map) is one of the ten epic hikes in Part 2 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — The White Sands Backcountry Trail (1.7 miles, minimal gain, full sun — go early) is one of Kelley & Carl's 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — White Sands favorite — The White Sands Backcountry Trail is one of Kelley & Carl's favorite spots in White Sands, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / Epic sunset spots — The White Sands Backcountry Trail at sunset is one of Kelley & Carl's 10 epic national park sunset spots (park gates close about 30 minutes after sunset).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 2 — The White Sands Backcountry Trail (2.2 miles, 100 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
 
 ##### Hiking
 
-- **140. [Alkali Flat Trail](https://www.google.com/maps/search/?api=1&query=Alkali+Flat+Trail+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
+- **142. [Alkali Flat Trail](https://www.google.com/maps/search/?api=1&query=Alkali+Flat+Trail+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
   - **Best for:** Hiking / Across the heart of the dune field — A must-see on the White Sands stop of Kelley & Carl's New Mexico & Texas road trip — the Alkali Flat Trail, the park's big backcountry walk across the gypsum dunes to the flat playa beyond.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/new-mexico/alkali-flat-trail)
   - 🎬 Source: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / White Sands favorite, underrated parks list — The Alkali Flat Trail (captioned 'Allali Flat') and sand sledding are Kelley & Carl's favorite White Sands experiences.
-- **141. [Dune Life Nature Trail](https://www.google.com/maps/search/?api=1&query=Dune+Life+Nature+Trail+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
+  - 🎬 Also recommended by: [New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / NM & TX road trip, White Sands pick — The Alkali Flat Trail is Kelley & Carl's recommended White Sands hike on their New Mexico & Texas winter road trip (they also recommend sand sledding).
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — White Sands favorite — The Alkali Flat Trail (they spell it 'Allali') is one of Kelley & Carl's favorite spots in White Sands, in their most-underrated-parks list — along with sand sledding the dunes.
+- **143. [Dune Life Nature Trail](https://www.google.com/maps/search/?api=1&query=Dune+Life+Nature+Trail+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
   - **Best for:** Hiking / Nature trail at the dune field's edge — A must-see on the White Sands stop of Kelley & Carl's New Mexico & Texas road trip — the Dune Life Nature Trail, a short loop where desert plants and animal tracks show how life survives at the edge of the dunes.
   - 🎬 Source: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures (#None in that reel)
-- **142. [Interdune Boardwalk](https://www.google.com/maps/search/?api=1&query=Interdune+Boardwalk+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
+- **144. [Interdune Boardwalk](https://www.google.com/maps/search/?api=1&query=Interdune+Boardwalk+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
   - **Best for:** Hiking / Accessible boardwalk between the dunes — A must-see on the White Sands stop of Kelley & Carl's New Mexico & Texas road trip — the Interdune Boardwalk, an easy elevated stroll into the dune field with interpretive signs.
   - 🎬 Source: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### National park
 
-- **143. [White Sands National Park](https://www.google.com/maps/search/?api=1&query=White+Sands+National+Park+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
+- **145. [White Sands National Park](https://www.google.com/maps/search/?api=1&query=White+Sands+National+Park+White+Sands+National+Park+NM)** — White Sands National Park, Alamogordo
   - **Best for:** National park / World's largest gypsum dune field — Kelley & Carl's Southwest park awards name White Sands 'Most Unique': the largest gypsum dunes on earth, truly unlike anything in any other national park. Their photography post sends you to the Backcountry Trail at golden hour (separate pin).
   - Pin is the NPS-published White Sands Visitor Center GPS point on US-70.
   - 🎬 Source: [There's just something about the American Southwest — Southwest park awards](https://www.instagram.com/p/DeM2CUplhuG/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [4 national parks within 5 hours — New Mexico & Texas](https://www.instagram.com/p/DfSfX2kphd5/) by @kelleyandcarlsadventures
     - **Best for:** National park / New Mexico & Texas road trip stop — Stop 1 on Kelley & Carl's '4 national parks within 5 hours' New Mexico & Texas road trip: must-sees are Alkali Flat, the Backcountry Camping Trail, Interdune Boardwalk and Dune Life Nature Trail (trail pins added from this post), plus sand sledding and sunset on the dunes.
+  - 🎬 Also recommended by: [5 desert national parks to visit this winter](https://www.instagram.com/p/DRU7AlWCXrx/) by @kelleyandcarlsadventures
+    - **Best for:** Winter visit / Desert parks for winter — White Sands is one of Kelley & Carl's 5 desert parks to visit in winter — December–February days average 60°F, with cold evenings around 23°F.
 
 ### Zion National Park
 
@@ -4004,7 +4495,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **144. [Angels Landing](https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **146. [Angels Landing](https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Hike — Caption names Angels Landing in Zion National Park (caption spells it 'Angel's Landing'). No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/angels-landing-trail)
   - Caption spells it 'Angel's Landing'; corrected to the official name, Angels Landing.
@@ -4047,13 +4538,31 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Zion feature hike, permit required — Kelley & Carl feature Angels Landing — 5 strenuous miles and 1,827 feet, on chains above huge drop-offs — with a permit reminder: nobody goes past Scout Lookout without winning the lottery. A late-afternoon weekday start in the off-season is their crowd tip.
   - 🎬 Also recommended by: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Utah road trip favorite, Zion — Angels Landing (permit required) is a favorite hike on Kelley & Carl's ultimate Utah road trip.
-- **145. [Pa'rus Trail](https://www.google.com/maps/search/?api=1&query=Parus+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 9/10 — Kelley & Carl rate Angels Landing 9/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 2 — permit required — Angels Landing (4.3 hard miles, 1,827 ft; chains section, permit required) is one of the ten epic hikes in Part 2 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest guide, Zion — Angels Landing is a headline hike in Kelley & Carl's Southwest guide to Zion.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — permit required — Angels Landing (4.3 hard miles, 1,827 ft; chains section, permit required) is one of the 10 best Southwest hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in Zion (#2 most visited) — Angels Landing (4.2 miles, 1,740 ft; chains, permit required) is Kelley & Carl's favorite hike in Zion, #2 in their most-visited-parks countdown.
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — chains and drop-offs — Angels Landing (about 4.5 miles, 1,750 ft; chain sections with steep drop-offs, permit required) is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip — 14 days](https://www.instagram.com/p/DP7GrBBiWBs/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest itinerary — Zion slide pick — Angels Landing is one of the Zion hikes named in Kelley & Carl's 14-day Southwest itinerary (Days 10–11 in Zion; the full route runs Grand Canyon → Arches & Canyonlands → Capitol Reef → Bryce → Zion → Great Basin).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 2 — Angels Landing (4.4 miles, 1,500 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
+- **147. [Pa'rus Trail](https://www.google.com/maps/search/?api=1&query=Parus+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Hike / Paved, dog-friendly riverside walk along the Virgin River — Rated 5/10 in Kelley & Carl's honest ratings for Utah national park hikes — Zion's easy paved trail from the visitor center up the Virgin River to Canyon Junction. Low score, but it's the park's only dog-friendly trail and fully accessible.
   - Pin is the NPS place-record point for the Pa'rus Trail at its south (visitor center / South Campground) end.
   - 🎬 Source: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DeUfEqFlu1G/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Honest ratings for Utah hikes](https://www.instagram.com/p/DXSAjY-lmKR/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Rated 5/10, Utah ratings — Rated 5/10 in Kelley & Carl's Utah hike ratings: the Pa'rus Trail in Zion.
-- **146. [Scout Lookout](https://www.google.com/maps/search/?api=1&query=Scout+Lookout+Zion+National+Park+UT)** — Zion National Park, Springdale
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 5/10 — Kelley & Carl rate the Pa'rus Trail 5/10 in their honest Utah hike ratings.
+- **148. [Scout Lookout](https://www.google.com/maps/search/?api=1&query=Scout+Lookout+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Hike / West Rim Trail viewpoint — the Angels Landing approach without the chains — Rated 7/10 in Kelley & Carl's honest ratings for Utah national park hikes: Scout Lookout is the West Rim Trail's big viewpoint at the top of Walter's Wiggles — as far as you can go toward Angels Landing without the permit-only chains section.
   - Pin is the OSM Scout Lookout viewpoint point on the West Rim Trail.
   - 🎬 Source: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DeUfEqFlu1G/) by @kelleyandcarlsadventures (#None in that reel)
@@ -4063,12 +4572,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Rated 7/10, Utah ratings — Rated 7/10 in Kelley & Carl's Utah hike ratings: Scout Lookout in Zion.
   - 🎬 Also recommended by: [Angels Landing — one of the most dangerous hikes in the US](https://www.instagram.com/reel/DWy9lBwJf4t/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Zion feature, Angels Landing approach — Scout Lookout is the Angels Landing approach in Kelley & Carl's Zion feature — the permit checkpoint, and the turnaround for hikers without a chains-section permit.
-- **147. [Subway Trail](https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT)** — Zion National Park, Zion National Park
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 7/10 — Kelley & Carl rate Scout Lookout 7/10 in their honest Utah hike ratings — the Angels Landing approach and a worthy destination on its own.
+- **149. [Subway Trail](https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT)** — Zion National Park, Zion National Park
   - **Best for:** Hike — His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/the-subway-trail)
   - Pin is an OSM path point inside The Subway canyon (Left Fork of North Creek), the hike's destination.
   - 🎬 Source: [Top 5 National Park Hikes](https://www.instagram.com/reel/Ddpitf0BMb-/) by @amorywild (#4 in that reel)
-- **148. [The Narrows](https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT)** — Zion National Park, Zion Canyon
+- **150. [The Narrows](https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT)** — Zion National Park, Zion Canyon
   - **Best for:** Hike — Ranked #4, a 10.5-mile round trip wading the Virgin River in cold water. He went in June during snowmelt and used a dry bib wetsuit.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/utah/zion-narrows-trail-to-imlay-temple-and-big-spring)
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#4 in that reel)
@@ -4088,17 +4599,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Spring parks — Zion — The Narrows is a Zion hike in Kelley & Carl's best spring parks list — mild shoulder-season temperatures and fewer crowds.
   - 🎬 Also recommended by: [The ultimate Utah road trip — the Mighty Five](https://www.instagram.com/reel/DWqyADID2vE/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Utah road trip favorite, Zion — The Narrows is a favorite hike on Kelley & Carl's ultimate Utah road trip.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Utah hike ratings — 7.5/10 — Kelley & Carl rate The Narrows 7.5/10 in their honest Utah hike ratings.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest guide, Zion — The Narrows is a headline hike in Kelley & Carl's Southwest guide to Zion.
+  - 🎬 Also recommended by: [10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest best hikes — The Narrows (8.9 miles bottom-up to Big Springs without a permit; water ankle-to-chest deep) is one of the 10 best Southwest hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [7 national parks, 1 epic Southwest road trip — 14 days](https://www.instagram.com/p/DP7GrBBiWBs/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Southwest itinerary — Zion slide pick — The Narrows is one of the Zion hikes named in Kelley & Carl's 14-day Southwest itinerary.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — The Narrows (9.4 miles, 334 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
 
 ##### Scenic drive
 
-- **149. [Zion-Mount Carmel Highway](https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Highway+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **151. [Zion-Mount Carmel Highway](https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Highway+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Scenic drive / Historic highway and mile-long tunnel — Kelley & Carl's Zion stop on the ultimate Southwest road trip includes driving the Zion-Mount Carmel Highway — the switchbacks and 1.1-mile tunnel through the park's east side.
   - Pin is at the Zion-Mount Carmel Tunnel.
   - 🎬 Source: [The ultimate Southwest road trip](https://www.instagram.com/p/DfdLSbNJzCR/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Sunrise
 
-- **150. [Canyon Overlook](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **152. [Canyon Overlook](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Sunrise — Ranked #3 for sunrise in the reel. Massive red rock cliffs glow bright orange as the sun hits Zion Canyon.
   - End of the 1-mile Canyon Overlook Trail, just east of the Zion-Mount Carmel Tunnel.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#3 in that reel)
@@ -4117,7 +4638,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top national park
 
-- **151. [Zion National Park](https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **153. [Zion National Park](https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** Top national park — His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water.
   - Park-level pin is the park's Nominatim point.
   - 🎬 Source: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild (#7 in that reel)
@@ -4130,7 +4651,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **152. [Zion Canyon](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT)** — Zion National Park, Springdale
+- **154. [Zion Canyon](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT)** — Zion National Park, Springdale
   - **Best for:** View — A static scenic shot of Zion Canyon: the Virgin River (name inferred from the location) flowing between massive orange-and-white striated cliffs in warm early-morning or late-afternoon light, posted as a calm, meditative nature scene.
   - 🎬 Source: [Scenic viewpoint — Zion Canyon](https://www.instagram.com/reel/DGqUbwIpLIH/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Scenic ride — Zion Canyon](https://www.instagram.com/reel/DGIocRzuRcL/) by @amorywild
@@ -4138,7 +4659,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Mountain West Region {#mountain-west}
 
-**86 places · Colorado, Idaho, Montana, Utah, Wyoming**
+**90 places · Colorado, Idaho, Montana, Utah, Wyoming**
 
 ### Black Canyon of the Gunnison National Park
 
@@ -4165,9 +4686,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Colorado beyond Denver — Dragon Point at Black Canyon of the Gunnison is a stop on Kelley & Carl's 'Colorado is so much more than Denver' photo tour.
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
     - **Best for:** Sunset / Favorite Black Canyon activity, underrated list — Watching sunset at Dragon Point is Kelley & Carl's favorite Black Canyon of the Gunnison activity in their underrated-parks list.
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Easiest hikes with epic views — sunset — Dragon Point (0.4 easy miles, 59 ft; 'absolutely incredible at sunset') is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / Epic sunset spots — 'our favorite view in the entire park' — Dragon Point (a short 0.4-mile walk) is one of Kelley & Carl's 10 epic national park sunset spots — their favorite view in all of Black Canyon of the Gunnison, overlooking the Gunnison River and Painted Wall.
+  - 🎬 Also recommended by: [Colorado's 4 national parks — one epic road trip](https://www.instagram.com/p/DQCYqihDopp/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Colorado road trip, Black Canyon — Dragon Point is part of Kelley & Carl's Colorado parks road trip coverage of Black Canyon of the Gunnison.
 - **4. [Painted Wall Overlook](https://www.google.com/maps/search/?api=1&query=Painted+Wall+Overlook+Black+Canyon+of+the+Gunnison+National+Park+CO)** — Black Canyon of the Gunnison National Park, Montrose
   - **Best for:** Overlook / Colorado's tallest cliff face — A Black Canyon highlight on Kelley & Carl's Colorado road trip — the Painted Wall, a 2,250-foot cliff streaked with pink pegmatite, the tallest cliff in Colorado.
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Epic hikes Part 2 — sunset — The Painted Wall overlook (0.2 easy miles, 'absolutely incredible at sunset') is one of the ten entries in Part 2 of Kelley & Carl's epic-hikes series (January 2026 version).
+  - 🎬 Also recommended by: [Colorado's 4 national parks — one epic road trip](https://www.instagram.com/p/DQCYqihDopp/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Colorado road trip, Black Canyon — The Painted Wall viewpoint is part of Kelley & Carl's Colorado parks road trip coverage of Black Canyon of the Gunnison.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Epic national park hikes, Part 2 — The Painted Wall Overlook (0.5 miles, 200 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
 - **5. [Sunset View Overlook](https://www.google.com/maps/search/?api=1&query=Sunset+View+Overlook+Black+Canyon+of+the+Gunnison+National+Park+CO)** — Black Canyon of the Gunnison National Park, Montrose
   - **Best for:** Overlook / West-facing South Rim viewpoint — Rated 5/10 in Kelley & Carl's Colorado hike ratings (as the 'Sunset View Trail'): Sunset View, the west-facing South Rim overlook on Black Canyon of the Gunnison's South Rim Drive, living up to its name at the end of the day.
   - Coordinates from Mapcarta, corroborated by the NPS dark-sky survey record.
@@ -4186,6 +4719,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Underrated parks list — sunset at Dragon Point — On Kelley & Carl's ultimate underrated-parks list: Black Canyon of the Gunnison's best experience is watching sunset at Dragon Point.
   - 🎬 Also recommended by: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures
     - **Best for:** National park / Colorado road trip Stop 5 — Stop 5 on Kelley & Carl's Colorado road trip: sunset at Dragon Point, the Painted Wall, Cedar Point, Sunset View, Tomichi Point and the East Portal Road (overlook pins added from this post).
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Black Canyon of the Gunnison is one of the 17 national parks Kelley & Carl rated from their 2025 travels.
 
 ### Crested Butte
 
@@ -4269,6 +4804,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Top national park — His #2 national park: Glacier, shown with high mountain ridges, turquoise lakes, and bighorn sheep near a road.
   - 🎬 Also recommended by: [The Great American West road trip — 6 parks, 18 days](https://www.instagram.com/reel/DXg10pqj5IT/) by @kelleyandcarlsadventures
     - **Best for:** Road trip / Great American West road trip park — Glacier is one of the six parks on Kelley & Carl's Great American West road trip — at least 18 days for the whole loop, best July–September.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — 10/10 — Kelley & Carl rate Glacier a perfect 10/10 among the national parks they visited in 2025.
+  - 🎬 Also recommended by: [6 national parks, 1 epic road trip — Dakotas, Wyoming & Montana](https://www.instagram.com/p/DNd1E4ZRizG/) by @kelleyandcarlsadventures
+    - **Best for:** Road trip / Best park-to-park route — Day 7 — Glacier is Day 7 on Kelley & Carl's 'best park-to-park road trip', flying home from Kalispell on Day 8.
+  - 🎬 Also recommended by: [Wildlife of the Dakotas, Wyoming and Montana](https://www.instagram.com/p/DNLdiJmx4h9/) by @kelleyandcarlsadventures
+    - **Best for:** Wildlife / Wildlife in the parks — bears, goats, moose — Glacier is one of the 4 parks Kelley & Carl name as the best for wildlife — bears, mountain goats and moose.
 - **15. [Grinnell Glacier Trail](https://www.google.com/maps/search/?api=1&query=Grinnell+Glacier+Trail+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Hike / Many Glacier trail past turquoise lakes to a shrinking glacier — Rated 10/10 in Kelley & Carl's honest ratings for Montana & Wyoming hikes — one of the finest trails in Glacier National Park, climbing past Grinnell Lake's impossible turquoise water to the glacier itself. Also on their most-rewarding, perfect-hikes and photography lists.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/montana/grinnell-glacier-trail)
@@ -4302,6 +4843,20 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Bucket-list hike — The Grinnell Glacier Trail is one of the 16 national park hikes on Kelley & Carl's bucket list.
   - 🎬 Also recommended by: [Glacier National Park guide — turquoise water and epic scenery](https://www.instagram.com/reel/DV843-yRsUq/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Glacier guide favorite hike — The Grinnell Glacier Trail is one of Kelley & Carl's favorite Glacier hikes in their park guide.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 3 — 'one of our all time favorites' — The Grinnell Glacier Trail (10.9 hard miles, 2,080 ft) is one of the ten epic hikes in Part 3 of Kelley & Carl's series — 'one of our all time favorites!!' (January 2026 version; this hike is what distinguishes it from the August 2025 Part 3).
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Grinnell Lake — Grinnell Lake, seen along the Grinnell Glacier Trail — 'such turquoise water!' — is one of Kelley & Carl's 10 most beautiful lakes in the USA.
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — The Grinnell Glacier Trail (10.9 hard miles, 2,080 ft — 'seriously stunning views the entire way') is one of Kelley & Carl's 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in Glacier (#10 most visited) — The Grinnell Glacier Trail (11 miles RT, 2,070 ft) is Kelley & Carl's favorite hike in Glacier, #10 in their countdown of the best hikes in the 10 most visited national parks (2024 visitation).
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, Glacier favorite — The Grinnell Glacier Trail is one of Kelley & Carl's Glacier favorites in their best-water parks feature.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — The Grinnell Glacier Trail (10.6 miles, 1,600 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
+  - 🎬 Also recommended by: [2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Glacier 2-day itinerary — Day 2 — The Grinnell Glacier Trail is a Day 2 hike in Kelley & Carl's Glacier 2-day itinerary.
 - **16. [Highline Trail](https://www.google.com/maps/search/?api=1&query=Highline+Trail+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Hike / Glacier's signature cliff-edge traverse along the Garden Wall — Rated 9/10 in Kelley & Carl's honest ratings for Montana & Wyoming hikes: the Highline Trail traverses the Garden Wall from Logan Pass — wildflowers, cliff-edge ledges with a cable handhold, and constant views. Their photography post pairs it with the Garden Wall and Going-to-the-Sun Road stops.
   - Pin is the Logan Pass trailhead/parking point (published trail-guide GPS) where the Highline Trail starts.
@@ -4324,6 +4879,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Glacier feature hike — Kelley & Carl feature the Highline Trail in Glacier — combined with the spur climb up the Garden Wall, a core-memory day with a family of mountain goats waiting at the top.
   - 🎬 Also recommended by: [Glacier National Park guide — turquoise water and epic scenery](https://www.instagram.com/reel/DV843-yRsUq/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Glacier guide favorite hike — The Highline Trail is one of Kelley & Carl's favorite Glacier hikes in their park guide.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, Glacier favorite — The Highline Trail is one of Kelley & Carl's Glacier favorites in their best-water parks feature.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 1 — The Highline Trail (11.8 miles, 800 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
+  - 🎬 Also recommended by: [2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Glacier 2-day itinerary — Day 1 — The Highline Trail is a Day 1 hike in Kelley & Carl's Glacier 2-day itinerary.
 - **17. [Mt Henry Trail](https://www.google.com/maps/search/?api=1&query=Mt+Henry+Trail+Glacier+National+Park+MT)** — Glacier National Park, Glacier National Park
   - **Best for:** Hike / Summit view — Caption names the Mt Henry Trail in Glacier National Park. From the summit, the camera pans across rugged snow-dusted peaks, forested valleys, and a distant turquoise lake as a hiker with trekking poles walks the exposed ridge; on-screen text reads, 'On top of the world...'
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/montana/glacier-national-park-east-side)
@@ -4366,6 +4927,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Glacier feature, spur off the Highline — The steep, sunny Garden Wall spur off the Highline Trail was worth every step for Kelley & Carl — a huge view and a family of mountain goats at the top.
   - 🎬 Also recommended by: [Glacier National Park guide — turquoise water and epic scenery](https://www.instagram.com/reel/DV843-yRsUq/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Glacier guide favorite hike — The Garden Wall is one of Kelley & Carl's favorite Glacier hikes in their park guide.
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — 15 miles, 3,400 ft — The Garden Wall (15 miles, over 3,400 ft of gain — 'a grueling one but the views from the top are unreal') is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — The Garden Wall (15 miles, 3,400 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
+  - 🎬 Also recommended by: [2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Glacier 2-day itinerary — Day 1 option — The Garden Wall is a Day 1 option in Kelley & Carl's Glacier 2-day itinerary.
 - **21. [Trail of the Cedars](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Cedars+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Hike / Giant trees · Old-growth cedar and hemlock loop at Avalanche Creek — Ranked #1 of the carousel's 10 hikes among giant trees: walk beneath western redcedars and hemlocks near Avalanche Creek in Glacier National Park, Montana. The accessible boardwalk loop also passes Avalanche Gorge, where the creek squeezes through polished rock.
   - Pin is the published Avalanche Creek / Trail of the Cedars trailhead point on Going-to-the-Sun Road (multiple trail guides agree within ~100 ft).
@@ -4393,15 +4960,32 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Mountain parks list, Glacier — Hidden Lake Overlook is a Glacier highlight in Kelley & Carl's mountain-lovers park list (the pin's primary source is their Glacier favorites guide).
   - 🎬 Also recommended by: [Glacier National Park guide — turquoise water and epic scenery](https://www.instagram.com/reel/DV843-yRsUq/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Glacier guide favorite hike — Hidden Lake Overlook is one of Kelley & Carl's favorite Glacier hikes in their park guide.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, Glacier favorite — Hidden Lake Overlook is one of Kelley & Carl's Glacier favorites in their best-water parks feature.
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — start at Logan Pass — The Hidden Lake Trail at sunrise (2.7 miles, 551 ft from Logan Pass — arrive at sunrise for parking anyway) is one of Kelley & Carl's 10 best national park sunrise spots.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 3 — The Hidden Lake Overlook Trail (2.8 miles, 550 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
+  - 🎬 Also recommended by: [2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Glacier 2-day itinerary — Day 1 — The Hidden Lake Overlook Trail is a Day 1 hike in Kelley & Carl's Glacier 2-day itinerary.
 - **24. [Ptarmigan Tunnel](https://www.google.com/maps/search/?api=1&query=Ptarmigan+Tunnel+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Hiking / A 250-foot tunnel through the Ptarmigan Wall — One of Kelley & Carl's favorite Glacier hikes: Ptarmigan Tunnel, blasted through the Ptarmigan Wall in 1930 — the trail from Many Glacier passes Ptarmigan Falls and Ptarmigan Lake, then slips through the tunnel to a cliff-edge view down the Belly River valley.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/montana/ptarmigan-tunnel--4)
   - Coordinates from Wikipedia (Ptarmigan Tunnel).
   - 🎬 Source: [Glacier National Park favorites and 2026 mistakes to avoid](https://www.instagram.com/p/DXhVIQTljM5/) by @kelleyandcarlsadventures (#None in that reel)
 
+##### Lake
+
+- **25. [Lake McDonald](https://www.google.com/maps/search/?api=1&query=Lake+McDonald+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
+  - **Best for:** Lake / Glacier's largest lake — colorful pebbles and mountain reflections — Kelley & Carl say no trip to Glacier is complete without a stop at Lake McDonald — they love the colorful pebbles and clear water, and they end Day 2 of their Glacier itinerary on its shore.
+  - Coordinates from Wikipedia for Lake McDonald.
+  - 🎬 Source: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Glacier 2-day itinerary — Day 1 western side — Lake McDonald is part of Kelley & Carl's Glacier 2-day itinerary (the pin's primary source is their best-overlooks list).
+
 ##### Scenic drive
 
-- **25. [Going-to-the-Sun Road](https://www.google.com/maps/search/?api=1&query=Going-to-the-Sun+Road+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
+- **26. [Going-to-the-Sun Road](https://www.google.com/maps/search/?api=1&query=Going-to-the-Sun+Road+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Scenic drive — Joyce's verdict: 'Breathtaking views — definitely the most beautiful place I've ever been in the US.' The reel is a love letter to Glacier's Going-to-the-Sun Road, the alpine highway over Logan Pass.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Going-to-the-Sun Road, Glacier National Park](https://www.instagram.com/reel/DcwklY4JwKO/) by @joycequeviaja (#1 in that reel)
@@ -4421,15 +5005,28 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Scenic drive / Bucket-list USA road — Going-to-the-Sun Road is one of the bucket-list USA roads in Kelley & Carl's scenic-drives reel.
   - 🎬 Also recommended by: [Glacier National Park guide — turquoise water and epic scenery](https://www.instagram.com/reel/DV843-yRsUq/) by @kelleyandcarlsadventures
     - **Best for:** Scenic drive / Glacier guide can't-miss — Driving Going-to-the-Sun Road is the can't-miss of Kelley & Carl's Glacier guide — open only from late June/early July to late September/early October.
+  - 🎬 Also recommended by: [10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Most beautiful national park roads — Going-to-the-Sun Road is one of the 10 most beautiful national park roads in Kelley & Carl's list (open roughly late June/early July to mid-October; entry permits from the west side).
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Best-water parks, Glacier must-see — Going-to-the-Sun Road is a Glacier must-see in Kelley & Carl's best-water parks feature (Lake McDonald, added as a new pin in this batch, is the other).
+  - 🎬 Also recommended by: [2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/) by @kelleyandcarlsadventures
+    - **Best for:** Scenic drive / Glacier 2-day itinerary — the road — Going-to-the-Sun Road (and the Logan Pass parking scramble) is central to Kelley & Carl's Glacier 2-day itinerary.
+
+##### Viewpoint
+
+- **27. [Wild Goose Island Lookout](https://www.google.com/maps/search/?api=1&query=Wild+Goose+Island+Lookout+Glacier+National+Park+MT)** — Glacier National Park, St. Mary
+  - **Best for:** Viewpoint / The tiny island in St. Mary Lake — Glacier's most photographed view — A Day 2 stop on Kelley & Carl's Glacier itinerary: the Wild Goose Island Lookout on Going-to-the-Sun Road — the classic view of the tiny island sitting in St. Mary Lake beneath the Lewis Range.
+  - Coordinates from the NPS place record for Wild Goose Island Overlook.
+  - 🎬 Source: [2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Waterfall
 
-- **26. [Hidden Falls (Glacier)](https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Glacier+National+Park+MT)** — Glacier National Park, Logan Pass
+- **28. [Hidden Falls (Glacier)](https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Glacier+National+Park+MT)** — Glacier National Park, Logan Pass
   - **Best for:** Waterfall — Amory's #4 unique national park waterfall: Hidden Falls in Glacier — a powerful waterfall plunging through a narrow, mossy rock gorge, with snow-capped peaks and evergreens behind it.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/montana/grinnell-lake-trail)
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Top 5 Unique National Park Waterfalls](https://www.instagram.com/reel/DfS6lozBjPr/) by @amorywild (#4 in that reel)
-- **27. [Virginia Falls](https://www.google.com/maps/search/?api=1&query=Virginia+Falls+Glacier+National+Park+MT)** — Glacier National Park, St. Mary
+- **29. [Virginia Falls](https://www.google.com/maps/search/?api=1&query=Virginia+Falls+Glacier+National+Park+MT)** — Glacier National Park, St. Mary
   - **Best for:** Waterfall — Ranked #1 waterfall, a tall, misty waterfall in a forested valley.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/montana/st-mary-and-virginia-falls-trail)
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#1 in that reel)
@@ -4444,10 +5041,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Easy lakeside loop in Many Glacier
 
-- **28. [Swiftcurrent Lake Trail](https://www.google.com/maps/search/?api=1&query=Swiftcurrent+Lake+Trail+Glacier+National+Park+MT)** — Glacier National Park (Many Glacier), Babb
+- **30. [Swiftcurrent Lake Trail](https://www.google.com/maps/search/?api=1&query=Swiftcurrent+Lake+Trail+Glacier+National+Park+MT)** — Glacier National Park (Many Glacier), Babb
   - **Best for:** Hike · Easy lakeside loop in Many Glacier — The reel's shortest pick at 2 miles: the easy nature-trail loop around Swiftcurrent Lake in Glacier's Many Glacier valley, under Mount Wilbur and past the historic Many Glacier Hotel.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/montana/swiftcurrent-lake-nature-trail)
   - 🎬 Source: [Epic USA hikes — how many have you done?](https://www.instagram.com/reel/DfVZYUEytWt/) by @ashleyemckee (#None in that reel)
+  - 🎬 Also recommended by: [2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Glacier 2-day itinerary — Day 2, Many Glacier — The Swiftcurrent Lake area (Many Glacier) is part of Kelley & Carl's Glacier 2-day itinerary coverage (St. Mary Falls, named in the post, is covered by the Virginia Falls pin and not attached separately).
 
 ### Glenwood Canyon
 
@@ -4455,7 +5054,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Bucket-list hike, #4 of 12
 
-- **29. [Hanging Lake](https://www.google.com/maps/search/?api=1&query=Hanging+Lake+Colorado)** — Glenwood Canyon, Glenwood Springs
+- **31. [Hanging Lake](https://www.google.com/maps/search/?api=1&query=Hanging+Lake+Colorado)** — Glenwood Canyon, Glenwood Springs
   - **Best for:** Hike · Bucket-list hike, #4 of 12 — Ranked #4 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Hanging Lake, the turquoise travertine lake on a cliffside in Glenwood Canyon, reached by a steep climb from the Colorado River.
   - 🎬 Source: [12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/) by @theadventurepostcard (#4 in that reel)
 
@@ -4465,7 +5064,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **30. [Cascade Canyon](https://www.google.com/maps/search/?api=1&query=Cascade+Canyon+Trail+Grand+Teton)** — Grand Teton National Park, Moose
+- **32. [Cascade Canyon](https://www.google.com/maps/search/?api=1&query=Cascade+Canyon+Trail+Grand+Teton)** — Grand Teton National Park, Moose
   - **Best for:** Hike / Canyon · River valley under the towering Tetons — One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Cascade Canyon in Grand Teton — a river valley running straight into the towering Teton wall, reached by the Jenny Lake boat shuttle or the Jenny Lake loop.
   - 🎬 Source: [Top 10 hikes after visiting 62 of 63 national parks](https://www.instagram.com/reel/DdiQ92yODtN/) by @tedsalwaystraveling (#None in that reel)
   - 🎬 Also recommended by: [Honest ratings for national park hikes in Montana & Wyoming](https://www.instagram.com/p/DbL6pRbCcHa/) by @kelleyandcarlsadventures
@@ -4480,7 +5079,9 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Mountain parks list, Grand Teton — The Cascade Canyon Trail is a Grand Teton highlight in Kelley & Carl's mountain-lovers park list.
   - 🎬 Also recommended by: [Why we prefer Grand Teton over Yellowstone](https://www.instagram.com/reel/DXpDrAkD8Bu/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Grand Teton favorite hike — Cascade Canyon is one of Kelley & Carl's favorite Grand Teton hikes in their Teton-over-Yellowstone reel.
-- **31. [Delta Lake](https://www.google.com/maps/search/?api=1&query=Delta+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+  - 🎬 Also recommended by: [5 of the best national parks for mountain lovers](https://www.instagram.com/p/DQeyaxbiT0A/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Mountain-lover parks — Grand Teton pick — The Cascade Canyon Trail is a recommended Grand Teton hike in Kelley & Carl's best parks for mountain lovers.
+- **33. [Delta Lake](https://www.google.com/maps/search/?api=1&query=Delta+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Hike / Off-trail scramble to a milky-turquoise glacial lake under the Grand Teton — Rated 9/10 in Kelley & Carl's Montana & Wyoming ratings. Their hardest-hikes list: 8 miles with 2,300 ft of gain, and about a mile of unmaintained trail — loose rocks and dirt, unsteady and extremely steep — to reach the milky turquoise lake beneath the Grand Teton.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/delta-lake-via-lupine-meadows-access)
   - Pin is the OSM Delta Lake point in Glacier Gulch, Grand Teton National Park.
@@ -4511,42 +5112,56 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Grand Teton feature hike — Kelley & Carl feature Delta Lake via Lupine Meadows — about 8 miles round trip and 2,300 feet, rated hard for a reason: the last mile is an unmaintained, steep and slick scramble with bouldering. Not for kids or beginners.
   - 🎬 Also recommended by: [Why we prefer Grand Teton over Yellowstone](https://www.instagram.com/reel/DXpDrAkD8Bu/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Grand Teton favorite hike — Delta Lake (unmaintained trail) is one of Kelley & Carl's favorite Grand Teton hikes in their Teton-over-Yellowstone reel.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 2 — Delta Lake (7.5 hard miles, 2,296 ft; unmaintained final mile, not for all abilities) is one of the ten epic hikes in Part 2 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Delta Lake (8 miles RT, 2,300 ft; the last mile a very difficult unmaintained trail) is one of Kelley & Carl's 10 most beautiful lakes in the USA.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in Grand Teton (#9 most visited) — Delta Lake (8 miles RT, 2,300 ft; not an NPS-maintained trail) is Kelley & Carl's favorite hike in Grand Teton, #9 in their most-visited-parks countdown.
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — unmaintained final mile — Delta Lake (8 miles, 2,300 ft; a mile of steep unmaintained trail on loose rock) is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 2 — Delta Lake (7.4 miles, 2,300 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
 
 ##### Hiking
 
-- **32. [Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+- **34. [Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Hiking / Jenny Lake's west-shore overlook — Rated 6/10 in Kelley & Carl's Montana & Wyoming hike ratings: Inspiration Point, the rocky perch 7,200 feet up above Jenny Lake's west shore, reached by the Jenny Lake boat shuttle and the Hidden Falls trail (not the Bryce Canyon or Anacapa overlooks of the same name).
   - Coordinates from the NPS place record.
   - 🎬 Source: [Honest ratings for Montana & Wyoming hikes](https://www.instagram.com/p/DXmeGqVFu-4/) by @kelleyandcarlsadventures (#None in that reel)
-- **33. [Phelps Lake](https://www.google.com/maps/search/?api=1&query=Phelps+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+- **35. [Phelps Lake](https://www.google.com/maps/search/?api=1&query=Phelps+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Hiking / Alpine lake below Death Canyon, with a jumping rock — One of Kelley & Carl's favorite Grand Teton hikes in their Teton-vs-Yellowstone reel: Phelps Lake, a deep-blue glacial lake at the mouth of Death Canyon — famous for its shoreline jumping rock — reached from the Laurance S. Rockefeller Preserve or Death Canyon trailheads.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/phelps-lake-via-valley-trail)
   - Coordinates from the USGS GNIS record via TopoQuest.
   - 🎬 Source: [Why we prefer Grand Teton over Yellowstone](https://www.instagram.com/reel/DXpDrAkD8Bu/) by @kelleyandcarlsadventures (#None in that reel)
-- **34. [Taggart Lake](https://www.google.com/maps/search/?api=1&query=Taggart+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+- **36. [Taggart Lake](https://www.google.com/maps/search/?api=1&query=Taggart+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Hiking / Mirror lake under the Teton Range — On Kelley & Carl's mountain-lovers list for Grand Teton: Taggart Lake, an easy 3-mile round trip to a glassy lake reflecting the Cathedral Group — one of the park's best short hikes.
   - Coordinates are the NPS Taggart Lake Trailhead place record.
   - 🎬 Source: [5 national parks for mountain lovers](https://www.instagram.com/p/DWg8E7nicUP/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Why we prefer Grand Teton over Yellowstone](https://www.instagram.com/reel/DXpDrAkD8Bu/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Grand Teton favorite hike — Taggart Lake is one of Kelley & Carl's favorite Grand Teton hikes in their Teton-over-Yellowstone reel.
+  - 🎬 Also recommended by: [5 of the best national parks for mountain lovers](https://www.instagram.com/p/DQeyaxbiT0A/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Mountain-lover parks — Grand Teton pick — The Taggart Lake Loop is a recommended Grand Teton hike in Kelley & Carl's best parks for mountain lovers.
 
 ##### View
 
-- **35. [Jenny Lake](https://www.google.com/maps/search/?api=1&query=Jenny+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
+- **37. [Jenny Lake](https://www.google.com/maps/search/?api=1&query=Jenny+Lake+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
   - **Best for:** View — Ranked #1 for views, highlighted by the clear lake reflecting the snow-capped Teton peaks.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#1 in that reel)
 
 ##### Viewpoint
 
-- **36. [Mormon Row](https://www.google.com/maps/search/?api=1&query=Mormon+Row+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+- **38. [Mormon Row](https://www.google.com/maps/search/?api=1&query=Mormon+Row+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Viewpoint / Historic homestead barns beneath the Tetons — Kelley & Carl's Grand Teton photography pick pairs sunrise at Schwabacher Landing with Mormon Row — the historic Mormon homestead barns (including the famous T.A. Moulton Barn) lined up beneath the Teton Range.
   - Pin is the OSM Mormon Row road point through the historic district on Antelope Flats.
   - 🎬 Source: [These are the parks for photography magic — favorite photo spots](https://www.instagram.com/p/Daf9Vw_lgXD/) by @kelleyandcarlsadventures (#None in that reel)
-- **37. [Oxbow Bend](https://www.google.com/maps/search/?api=1&query=Oxbow+Bend+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+  - 🎬 Also recommended by: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / Epic sunset spots — no hike required — Mormon Row at sunset — no hike required, just the Tetons glowing — is one of Kelley & Carl's 10 epic national park sunset spots.
+- **39. [Oxbow Bend](https://www.google.com/maps/search/?api=1&query=Oxbow+Bend+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Viewpoint / Mount Moran reflected in the Snake River — A must-see on Kelley & Carl's Great American West road trip: Oxbow Bend, where the Snake River slows into a mirror for Mount Moran — a sunrise favorite and a reliable spot for moose, pelicans and trumpeter swans.
   - Coordinates from the Oxbow Bend place record.
   - 🎬 Source: [6 national parks, 1 epic road trip — the Great American West](https://www.instagram.com/p/DXcU5ytlvtf/) by @kelleyandcarlsadventures (#None in that reel)
-- **38. [Schwabacher Landing](https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+- **40. [Schwabacher Landing](https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Viewpoint / Snake River reflection of the Teton Range — On Kelley & Carl's 'high reward with little effort' overlooks list: 'so incredibly magical at sunrise! Just be aware, this is very popular at sunrise so you will not be alone.' Their photography post also names Schwabacher Landing as a Grand Teton sunrise spot.
   - Pin is the OSM Schwabacher Landing parking point on US-191.
   - 🎬 Source: [High reward with little effort — 10 of the best overlooks](https://www.instagram.com/p/Dd61E_2CYb7/) by @kelleyandcarlsadventures (#None in that reel)
@@ -4562,10 +5177,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Sunrise / Favorite Grand Teton activity, magical parks — Sunrise at Schwabacher Landing is Kelley & Carl's favorite Grand Teton activity in their magical-parks list.
   - 🎬 Also recommended by: [A moose and her calf at Schwabacher Landing](https://www.instagram.com/reel/DYngoX6pEF3/) by @kelleyandcarlsadventures
     - **Best for:** Wildlife / Moose cow and calf at sunrise — At a Schwabacher Landing sunrise, a moose cow and her tiny calf wandered past Kelley & Carl and a crowd of about 50 photographers — filmed on zoom, with a reminder to never approach moose.
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — reflections and alpenglow — Schwabacher Landing, a classic sunrise spot for Teton reflections and alpenglow, is one of Kelley & Carl's 10 best national park sunrise spots.
+  - 🎬 Also recommended by: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best overlooks, no hiking — 'our personal favorite view in Grand Teton' — Schwabacher Landing is one of Kelley & Carl's 10 best national park overlooks with no hiking required — 'our personal favorite view in Grand Teton'.
 
 ##### Waterfall
 
-- **39. [Hidden Falls](https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
+- **41. [Hidden Falls](https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Jenny Lake
   - **Best for:** Waterfall — Ranked #4 waterfall, a powerful cascade surrounded by evergreen trees and rocky terrain.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/hidden-falls-trail--2)
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#4 in that reel)
@@ -4577,10 +5196,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Must-see waterfalls list — Hidden Falls is on Kelley & Carl's must-see waterfalls list — about 1 mile if you take the Jenny Lake boat shuttle, otherwise a 5-mile round trip hike.
   - 🎬 Also recommended by: [10 of the best US national park waterfalls](https://www.instagram.com/p/DUtMORqCcH3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Best waterfalls list — Hidden Falls is on Kelley & Carl's 10 best national park waterfalls list — about 1 mile via the Jenny Lake boat shuttle, otherwise a 5-mile round trip hike.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Hidden Falls (100 ft, via the 4.9-mile Jenny Lake + Hidden Falls trail with a boat shortcut) is one of Kelley & Carl's top 11 national park waterfalls.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Epic national park hikes, Part 6 — Hidden Falls (via the 5.2-mile Jenny Lake + Hidden Falls route, 600 ft, with a boat shortcut) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
 
 ##### Wildlife
 
-- **40. [Grand Teton National Park](https://www.google.com/maps/search/?api=1&query=Grand+Teton+National+Park+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
+- **42. [Grand Teton National Park](https://www.google.com/maps/search/?api=1&query=Grand+Teton+National+Park+Grand+Teton+National+Park+WY)** — Grand Teton National Park, Moose
   - **Best for:** Wildlife — His #5 in 'My Top 5 National Parks For Wildlife Viewing': a moose grazing by a roadside fence, a porcupine in brush, and a herd of bison in an open field.
   - Park-level pin is the park's Nominatim point near the park's centre.
   - 🎬 Source: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild (#5 in that reel)
@@ -4590,6 +5213,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Itinerary — Taylor & Kristen's 5-day Wyoming bucket-list trip uses only 3 days of PTO, and Days 1–2 are Grand Teton: sunrise at Mormon Row, wildlife spotting at Antelope Flats, Jenny Lake (hike, kayak or boat shuttle), sunset at Schwabacher Landing, then sunrise at Oxbow Bend and the Snake River Overlook on the way north to Yellowstone.
   - 🎬 Also recommended by: [The Great American West road trip — 6 parks, 18 days](https://www.instagram.com/reel/DXg10pqj5IT/) by @kelleyandcarlsadventures
     - **Best for:** Road trip / Great American West road trip park — Grand Teton is one of the six parks on Kelley & Carl's Great American West road trip — at least 18 days for the whole loop, best July–September.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — 10/10 — Kelley & Carl rate Grand Teton a perfect 10/10 among the national parks they visited in 2025.
+  - 🎬 Also recommended by: [6 national parks, 1 epic road trip — Dakotas, Wyoming & Montana](https://www.instagram.com/p/DNd1E4ZRizG/) by @kelleyandcarlsadventures
+    - **Best for:** Road trip / Best park-to-park route — Day 5 — Grand Teton is Day 5 on Kelley & Carl's 'best park-to-park road trip' (through Bighorn National Forest).
+  - 🎬 Also recommended by: [Wildlife of the Dakotas, Wyoming and Montana](https://www.instagram.com/p/DNLdiJmx4h9/) by @kelleyandcarlsadventures
+    - **Best for:** Wildlife / Wildlife in the parks — moose, bears, bison — Grand Teton is one of the 4 parks Kelley & Carl name as the best for wildlife — moose, bears and bison (Schwabacher Landing is their go-to moose spot).
 
 ### Great Sand Dunes National Park
 
@@ -4597,7 +5226,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing
 
-- **41. [Great Sand Dunes National Park](https://www.google.com/maps/search/?api=1&query=Great+Sand+Dunes+National+Park+CO)** — Great Sand Dunes National Park, Mosca
+- **43. [Great Sand Dunes National Park](https://www.google.com/maps/search/?api=1&query=Great+Sand+Dunes+National+Park+CO)** — Great Sand Dunes National Park, Mosca
   - **Best for:** Stargazing — Ranked #9 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.
   - 🎬 Source: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog (#9 in that reel)
@@ -4605,6 +5234,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Golden hour at the Great Sand Dunes Oasis (just outside the park) — On Kelley & Carl's 'high reward with little effort' overlooks list: the Great Sand Dunes Oasis viewpoint — not technically inside the park, but they recommend waiting for golden hour before sunset there to see golden light across the dunes with the Sangre de Cristos behind.
   - 🎬 Also recommended by: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures
     - **Best for:** National park / Colorado road trip Stop 2 — Stop 2 on Kelley & Carl's Colorado road trip: sandboarding and sand sledding, exploring the dunes, and Medano Creek.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Great Sand Dunes is one of the 17 national parks Kelley & Carl rated from their 2025 travels.
+  - 🎬 Also recommended by: [Colorado's 4 national parks — one epic road trip](https://www.instagram.com/p/DQCYqihDopp/) by @kelleyandcarlsadventures
+    - **Best for:** Road trip / Colorado road trip — Day 1 stop — Great Sand Dunes opens Kelley & Carl's Colorado parks road trip (Day 1, driving in from Colorado Springs).
+
+##### Viewpoint
+
+- **44. [Great Sand Dunes Oasis](https://www.google.com/maps/search/?api=1&query=Great+Sand+Dunes+Oasis+Great+Sand+Dunes+National+Park+CO)** — Great Sand Dunes National Park, Mosca
+  - **Best for:** Viewpoint / Golden-hour dune views from the park entrance — This viewpoint isn't technically inside the park, but Kelley & Carl recommend waiting for golden hour right before sunset at the Great Sand Dunes Oasis to see the golden light wash across the dunes.
+  - Coordinates from the Good Sam listing for Great Sand Dunes Oasis (7800 Hwy 150, Mosca).
+  - 🎬 Source: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures (#None in that reel)
 
 ### Homestead Resort
 
@@ -4612,7 +5252,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hot spring · Swim inside a 55-foot limestone crater
 
-- **42. [Homestead Crater](https://www.google.com/maps/search/?api=1&query=Homestead+Crater+Midway+UT)** — Homestead Resort, Midway
+- **45. [Homestead Crater](https://www.google.com/maps/search/?api=1&query=Homestead+Crater+Midway+UT)** — Homestead Resort, Midway
   - **Best for:** Hot spring · Swim inside a 55-foot limestone crater — A hidden underground hot spring inside a 55-foot-tall limestone crater: a naturally heated geothermal pool at 90–96°F year-round, about 65 feet deep, that you can soak, swim, snorkel or even scuba dive in. It's at the Homestead Resort in Midway, just outside Park City, but day visitors are welcome — $30 per person (the reel notes it was $15 when filmed) for a 60-minute session with about 40 minutes in the water; life jackets are required and provided, and reservations are recommended since weekends fill up.
   - 🎬 Source: [There's a hidden underground hot spring in Utah… and you can swim inside it!](https://www.instagram.com/reel/DecRg0zxbPF/) by @adventurefamilyvlog (#None in that reel)
 
@@ -4622,7 +5262,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **43. [Ice Lake Basin](https://www.google.com/maps/search/?api=1&query=Ice+Lake+Basin+Trail+Silverton+CO)** — Ice Lake Basin (San Juan Mountains), Silverton
+- **46. [Ice Lake Basin](https://www.google.com/maps/search/?api=1&query=Ice+Lake+Basin+Trail+Silverton+CO)** — Ice Lake Basin (San Juan Mountains), Silverton
   - **Best for:** Hike — Calvin's pick: the Ice Lake Basin Trail outside Silverton, Colorado — the San Juan Mountains' famous alpine basin of electric-blue lakes (Ice Lake and Island Lake) ringed by 13,000-foot peaks.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/ice-lake-basin-trail)
   - Coordinates from published trail references for Ice Lake — the basin is not a mapped OpenStreetMap feature.
@@ -4638,7 +5278,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **44. [Manitou Incline](https://www.google.com/maps/search/?api=1&query=Manitou+Incline+Manitou+Springs+CO)** — Manitou Incline, Manitou Springs
+- **47. [Manitou Incline](https://www.google.com/maps/search/?api=1&query=Manitou+Incline+Manitou+Springs+CO)** — Manitou Incline, Manitou Springs
   - **Best for:** Hike — Joe Ferrucci and his friend Jordan set out to climb the Manitou Incline, billed on-screen as the tallest staircase in the United States. Jordan grinds his way up the relentless steps to the summit; Joe's own 'halfway through' update is filmed from a bar stool. A comedy bit, but an honest preview of how steep this climb is.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/the-manitou-incline)
   - Geocoded as 'The Incline' (OSM, type: steps), Manitou Springs, El Paso County, CO.
@@ -4650,7 +5290,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic
 
-- **45. [Maroon Bells](https://www.google.com/maps/search/?api=1&query=Maroon+Bells+Colorado)** — Maroon Bells Scenic Area, Aspen
+- **48. [Maroon Bells](https://www.google.com/maps/search/?api=1&query=Maroon+Bells+Colorado)** — Maroon Bells Scenic Area, Aspen
   - **Best for:** Scenic / Hike · Jagged peaks and golden aspens over Maroon Lake — One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' The jagged Maroon Creek peaks with golden aspens — North and South Maroon Peaks reflected in Maroon Lake, the most photographed mountains in Colorado (shuttle/reservation access from Aspen in season).
   - Pin is the Maroon Bells shuttle stop at Maroon Lake (OSM point).
   - 🎬 Source: [Places in the USA you need to visit before you die](https://www.instagram.com/reel/Dfc7s0XMtxX/) by @tedsalwaystraveling (#None in that reel)
@@ -4661,7 +5301,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Cliff dwelling
 
-- **46. [Spruce Tree House](https://www.google.com/maps/search/?api=1&query=Spruce+Tree+House+Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
+- **49. [Spruce Tree House](https://www.google.com/maps/search/?api=1&query=Spruce+Tree+House+Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
   - **Best for:** Cliff dwelling / Best-preserved dwelling, viewed from the museum — A Mesa Verde highlight on Kelley & Carl's Colorado road trip — Spruce Tree House, the park's best-preserved cliff dwelling, seen from the viewpoint by the Chapin Mesa museum.
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Mesa Verde National Park guide — cliff dwellings and tours](https://www.instagram.com/reel/DY0B55kBc3r/) by @kelleyandcarlsadventures
@@ -4669,7 +5309,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Cliff dwellings
 
-- **47. [Balcony House](https://www.google.com/maps/search/?api=1&query=Balcony+House+Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
+- **50. [Balcony House](https://www.google.com/maps/search/?api=1&query=Balcony+House+Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
   - **Best for:** Cliff dwellings — Lindsay & Ryan's other favorite Mesa Verde dwelling tour (ranger-guided, booked through Recreation.gov) — Balcony House, the park's most adventurous dwelling visit, reached by ladders and a tunnel crawl.
   - Coordinates from published park references — the dwelling is not a mapped OpenStreetMap feature.
   - 🎬 Source: [Mesa Verde — cliff dwellings, Cliff Palace & Balcony House](https://www.instagram.com/reel/DfQ3oNhSfFM/) by @throughourlinds (#3 in that reel)
@@ -4681,7 +5321,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Tour / Favorite Mesa Verde activity, underrated list — Ranger-led Balcony House tours are among Kelley & Carl's favorite Mesa Verde activities in their underrated-parks list.
   - 🎬 Also recommended by: [Mesa Verde National Park guide — cliff dwellings and tours](https://www.instagram.com/reel/DY0B55kBc3r/) by @kelleyandcarlsadventures
     - **Best for:** Tour / Mesa Verde guide's adventurous ranger-led tour — Balcony House is a must on Kelley & Carl's Mesa Verde guide — the adventurous ranger-led tour, with ladders and a crawl through a tight tunnel.
-- **48. [Cliff Palace](https://www.google.com/maps/search/?api=1&query=Cliff+Palace+Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
+- **51. [Cliff Palace](https://www.google.com/maps/search/?api=1&query=Cliff+Palace+Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
   - **Best for:** Cliff dwellings — The largest cliff dwelling in North America — and one of the two Mesa Verde dwellings Lindsay & Ryan loved exploring on a ranger-guided tour (booked through Recreation.gov to get up close).
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Mesa Verde — cliff dwellings, Cliff Palace & Balcony House](https://www.instagram.com/reel/DfQ3oNhSfFM/) by @throughourlinds (#2 in that reel)
@@ -4695,7 +5335,9 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Tour / Favorite Mesa Verde activity, underrated list — Ranger-led Cliff Palace tours are among Kelley & Carl's favorite Mesa Verde activities in their underrated-parks list.
   - 🎬 Also recommended by: [Mesa Verde National Park guide — cliff dwellings and tours](https://www.instagram.com/reel/DY0B55kBc3r/) by @kelleyandcarlsadventures
     - **Best for:** Tour / Mesa Verde guide's top ranger-led tour — Cliff Palace is a must on Kelley & Carl's Mesa Verde guide: the park's largest cliff dwelling, seen on a ranger-led tour booked ahead on Recreation.gov.
-- **49. [Mesa Verde National Park](https://www.google.com/maps/search/?api=1&query=Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
+  - 🎬 Also recommended by: [Colorado's 4 national parks — one epic road trip](https://www.instagram.com/p/DQCYqihDopp/) by @kelleyandcarlsadventures
+    - **Best for:** Tour / Colorado road trip, Mesa Verde — Cliff Palace is the headline Mesa Verde stop in Kelley & Carl's Colorado parks road trip.
+- **52. [Mesa Verde National Park](https://www.google.com/maps/search/?api=1&query=Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
   - **Best for:** Cliff dwellings — Lindsay & Ryan: 'There's nowhere else on earth quite like this national park' — step back in time and explore the incredible cliff dwellings built by the Ancestral Pueblo people. Their plan: stay at Morefield Campground as the home base inside the park, start at the Visitor & Research Center to learn the history and plan the visit, book ranger-guided tours through Recreation.gov to get up close to the dwellings (they loved Cliff Palace and Balcony House), and grab fry bread at Soda Point after a day of exploring.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Mesa Verde — cliff dwellings, Cliff Palace & Balcony House](https://www.instagram.com/reel/DfQ3oNhSfFM/) by @throughourlinds (#1 in that reel)
@@ -4703,10 +5345,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / Colorado road trip Stop 3 — Stop 3 on Kelley & Carl's Colorado road trip: the Cliff Palace and Balcony House tours, Spruce Tree House and Park Point Overlook (dwelling and overlook pins added from this post).
   - 🎬 Also recommended by: [Mesa Verde National Park guide — cliff dwellings and tours](https://www.instagram.com/reel/DY0B55kBc3r/) by @kelleyandcarlsadventures
     - **Best for:** Guide / Mesa Verde National Park mini guide — Kelley & Carl's Mesa Verde mini guide: ranger-led Cliff Palace and Balcony House tours, the Spruce Tree and Park Point overlooks, and 1–2 days for the highlights (3 with Long House).
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Mesa Verde is one of the 17 national parks Kelley & Carl rated from their 2025 travels.
 
 ##### Overlook
 
-- **50. [Park Point Overlook](https://www.google.com/maps/search/?api=1&query=Park+Point+Overlook+Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
+- **53. [Park Point Overlook](https://www.google.com/maps/search/?api=1&query=Park+Point+Overlook+Mesa+Verde+National+Park+CO)** — Mesa Verde National Park, Mesa Verde
   - **Best for:** Overlook / The park's highest point at 8,572 ft — A Mesa Verde highlight on Kelley & Carl's Colorado road trip — Park Point Overlook, the highest point in the park, where the fire lookout takes in four states on a clear day.
   - Pin is the Park Point Road turnout point from OpenStreetMap, at the overlook.
   - 🎬 Source: [4 national parks, 1 epic Colorado road trip](https://www.instagram.com/p/DfHnP3BvWh6/) by @kelleyandcarlsadventures (#None in that reel)
@@ -4721,7 +5365,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **51. [Million Dollar Highway (US-550)](https://www.google.com/maps/search/?api=1&query=Million+Dollar+Highway+Colorado)** — Million Dollar Highway (Ouray to Silverton), Ouray
+- **54. [Million Dollar Highway (US-550)](https://www.google.com/maps/search/?api=1&query=Million+Dollar+Highway+Colorado)** — Million Dollar Highway (Ouray to Silverton), Ouray
   - **Best for:** Scenic drive — American Travel Archives' 'you will NOT believe this road' drive: the Million Dollar Highway (US-550) from Ouray to Silverton — 25 miles through the San Juan Mountains famous for steep cliffs, tight switchbacks and few guardrails. Stop at Red Mountain Pass for the classic overlook; autumn is the best time, when golden aspens contrast with the red and gray rock. Their tips: drive it in good morning light, take your time at the pull-offs, and think twice in an RV. Ouray and Silverton bookend it with hot springs and silver-mining history.
   - Pin is at Red Mountain Pass, the highway's classic overlook (OpenStreetMap).
   - 🎬 Source: [Million Dollar Highway (US-550) — Ouray to Silverton, CO](https://www.instagram.com/reel/Dccc6pnxZSm/) by @americantravelarchives (#1 in that reel)
@@ -4731,7 +5375,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Scenic drive / Colorado beyond Denver — The Million Dollar Highway is a stop on Kelley & Carl's 'Colorado is so much more than Denver' photo tour.
   - 🎬 Also recommended by: [Bucket list USA roads](https://www.instagram.com/reel/DWjgyVQpotd/) by @kelleyandcarlsadventures
     - **Best for:** Scenic drive / Bucket-list USA road — The Million Dollar Highway is one of the bucket-list USA roads in Kelley & Carl's scenic-drives reel.
-- **52. [Molas Pass](https://www.google.com/maps/search/?api=1&query=Molas+Pass+Million+Dollar+Highway+(Ouray+to+Silverton)+CO)** — Million Dollar Highway (Ouray to Silverton), Silverton
+- **55. [Molas Pass](https://www.google.com/maps/search/?api=1&query=Molas+Pass+Million+Dollar+Highway+(Ouray+to+Silverton)+CO)** — Million Dollar Highway (Ouray to Silverton), Silverton
   - **Best for:** Scenic drive / 10,910-foot pass on the Million Dollar Highway — A stop on Kelley & Carl's beyond-Denver Colorado tour: Molas Pass, the 10,910-foot summit of the Million Dollar Highway (US-550) between Silverton and Durango, with Molas Lake and the Grenadier Range spread out below.
   - 🎬 Source: [Colorado is so much more than Denver](https://www.instagram.com/p/DW9RZdvFtJ2/) by @kelleyandcarlsadventures (#None in that reel)
 
@@ -4741,7 +5385,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Three turquoise alpine lakes below Mt. Sneffels
 
-- **53. [Blue Lakes Trail](https://www.google.com/maps/search/?api=1&query=Blue+Lakes+Trail+Ridgway+Colorado)** — Mount Sneffels Wilderness, Ridgway
+- **56. [Blue Lakes Trail](https://www.google.com/maps/search/?api=1&query=Blue+Lakes+Trail+Ridgway+Colorado)** — Mount Sneffels Wilderness, Ridgway
   - **Best for:** Hike · Three turquoise alpine lakes below Mt. Sneffels — Listed at 10 miles in the reel: three stacked turquoise lakes — Lower, Middle and Upper Blue — in a glacial basin beneath 14,150-foot Mount Sneffels in the San Juan Mountains.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/lower-middle-and-upper-blue-lakes)
   - Pin is the Blue Lakes Trailhead (USFS listing, south of Ridgway); Lower Blue Lake is about 3.3 miles up the trail.
@@ -4755,7 +5399,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Staffed fire lookout tower with 100-mile views
 
-- **54. [Devil's Head Lookout](https://www.google.com/maps/search/?api=1&query=Devil's+Head+Lookout+Colorado)** — Pike National Forest (Rampart Range), Sedalia
+- **57. [Devil's Head Lookout](https://www.google.com/maps/search/?api=1&query=Devil's+Head+Lookout+Colorado)** — Pike National Forest (Rampart Range), Sedalia
   - **Best for:** Hike · Staffed fire lookout tower with 100-mile views — Listed at 3 miles in the reel: the climb to the Devil's Head Lookout, the only Forest Service fire tower in Colorado still staffed — 143 stairs to the cab at 9,749 feet and views for 100 miles in every direction.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/devil-s-head-lookout-trail--2)
   - 🎬 Source: [Epic USA hikes — how many have you done?](https://www.instagram.com/reel/DfVZYUEytWt/) by @ashleyemckee (#None in that reel)
@@ -4766,42 +5410,42 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Arch · Tall, narrow arch visible right from the road
 
-- **55. [Jug Handle Arch](https://www.google.com/maps/search/?api=1&query=Jug+Handle+Arch+Moab)** — Potash Road (SR-279, Moab), Moab
+- **58. [Jug Handle Arch](https://www.google.com/maps/search/?api=1&query=Jug+Handle+Arch+Moab)** — Potash Road (SR-279, Moab), Moab
   - **Best for:** Arch · Tall, narrow arch visible right from the road — Stop #5 on the reel's Highway 279 drive: Jug Handle Arch — a tall, narrow arch visible right from the road at the entrance to Long Canyon; park at the signed turn-off and look up.
   - Pin at the Jug Handle Arch view area (milepoint-anchored to the Corona Arch trailhead OSM point; UDOT milepost 1.678 measured back from the Potash plant end of SR-279).
   - 🎬 Source: [Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more](https://www.instagram.com/reel/DfYsMN8RuDh/) by @thewildlifeofrach (#5 in that reel)
 
 ##### Dinosaur tracks · Fossil tracksite a short walk from parking
 
-- **56. [Poison Spider Dinosaur Tracks](https://www.google.com/maps/search/?api=1&query=Poison+Spider+Dinosaur+Tracks+Moab)** — Potash Road (SR-279, Moab), Moab
+- **59. [Poison Spider Dinosaur Tracks](https://www.google.com/maps/search/?api=1&query=Poison+Spider+Dinosaur+Tracks+Moab)** — Potash Road (SR-279, Moab), Moab
   - **Best for:** Dinosaur tracks · Fossil tracksite a short walk from parking — Stop #2 on the reel's Highway 279 drive: the Poison Spider tracksite — real three-toed Jurassic dinosaur tracks on rock slabs, a short walk from the trailhead parking; viewing tubes in the BLM area line up on a series of fossilized tracks and a petroglyph panel.
   - Pin at the Poison Spider trailhead parking, byway mile ~5.9 (milepoint-anchored to the Corona Arch trailhead OSM point).
   - 🎬 Source: [Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more](https://www.instagram.com/reel/DfYsMN8RuDh/) by @thewildlifeofrach (#2 in that reel)
 
 ##### Hike
 
-- **57. [Corona Arch](https://www.google.com/maps/search/?api=1&query=Corona+Arch+Trailhead+Moab)** — Potash Road (SR-279, Moab), Moab
+- **60. [Corona Arch](https://www.google.com/maps/search/?api=1&query=Corona+Arch+Trailhead+Moab)** — Potash Road (SR-279, Moab), Moab
   - **Best for:** Hike / Arch · Massive freestanding arch, ladder + cable section — Stop #4 on the reel's Highway 279 drive: Corona Arch — a massive freestanding arch (140 by 105 ft, also called Little Rainbow Bridge) on a 3-mile round-trip hike with a short ladder and cable section; the trail also passes Bowtie Arch.
   - Pin is the Corona Arch Trailhead (the OSM-listed trailhead point); the arch is at the end of the ~1.5-mile trail.
   - 🎬 Source: [Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more](https://www.instagram.com/reel/DfYsMN8RuDh/) by @thewildlifeofrach (#4 in that reel)
 
 ##### Rock art · Ancient petroglyphs at a marked roadside pullout
 
-- **58. [Potash Road Petroglyph Panel](https://www.google.com/maps/search/?api=1&query=Potash+Road+Petroglyphs+Moab)** — Potash Road (SR-279, Moab), Moab
+- **61. [Potash Road Petroglyph Panel](https://www.google.com/maps/search/?api=1&query=Potash+Road+Petroglyphs+Moab)** — Potash Road (SR-279, Moab), Moab
   - **Best for:** Rock art · Ancient petroglyphs at a marked roadside pullout — Stop #1 on the reel's Highway 279 drive: an ancient petroglyph panel right along the road, with a marked pullout so you can see the rock art without hiking — dozens of carvings (bighorn sheep, hunters, spirals) on the varnished cliff, with BLM interpretive signs.
   - Pin at byway mile ~5.0, the 'Indian Writing' pullout (milepoint-anchored to the Corona Arch trailhead OSM point).
   - 🎬 Source: [Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more](https://www.instagram.com/reel/DfYsMN8RuDh/) by @thewildlifeofrach (#1 in that reel)
 
 ##### Rock climbing
 
-- **59. [Wall Street (Potash Road)](https://www.google.com/maps/search/?api=1&query=Wall+Street+Potash+Road+Moab)** — Potash Road (SR-279, Moab), Moab
+- **62. [Wall Street (Potash Road)](https://www.google.com/maps/search/?api=1&query=Wall+Street+Potash+Road+Moab)** — Potash Road (SR-279, Moab), Moab
   - **Best for:** Rock climbing / Scenic drive · Sheer sandstone walls at the pavement — Stop #3 on the reel's Highway 279 drive: 'Wall Street' — sheer sandstone walls rising right next to the pavement where you can watch climbers in action. It's Moab's most famous roadside climbing zone, a thousand-foot wall running alongside the Colorado River gorge.
   - Pin at byway mile ~4.3, where Wall Street begins (milepoint-anchored to the Corona Arch trailhead OSM point).
   - 🎬 Source: [Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more](https://www.instagram.com/reel/DfYsMN8RuDh/) by @thewildlifeofrach (#3 in that reel)
 
 ##### Viewpoint · Bright blue evaporation ponds at the end of the route
 
-- **60. [Potash Evaporation Ponds](https://www.google.com/maps/search/?api=1&query=Potash+Evaporation+Ponds+Moab)** — Potash Road (SR-279, Moab), Moab
+- **63. [Potash Evaporation Ponds](https://www.google.com/maps/search/?api=1&query=Potash+Evaporation+Ponds+Moab)** — Potash Road (SR-279, Moab), Moab
   - **Best for:** Viewpoint · Bright blue evaporation ponds at the end of the route — Stop #6 on the reel's Highway 279 drive: the Potash Ponds — bright blue evaporation ponds near the end of the route, best seen from above (they're the Intrepid Potash mine's solar evaporation ponds; the paved road ends further on and the route continues on dirt toward Thelma & Louise Point and the Shafer Trail into Canyonlands).
   - 🎬 Source: [Everyone heads to Arches — this scenic byway (Highway 279) packs in so much more](https://www.instagram.com/reel/DfYsMN8RuDh/) by @thewildlifeofrach (#6 in that reel)
 
@@ -4811,7 +5455,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic train
 
-- **61. [Royal Gorge Route Railroad](https://www.google.com/maps/search/?api=1&query=Royal+Gorge+Route+Railroad+Canon+City)** — Royal Gorge, Cañon City depot, Cañon City
+- **64. [Royal Gorge Route Railroad](https://www.google.com/maps/search/?api=1&query=Royal+Gorge+Route+Railroad+Canon+City)** — Royal Gorge, Cañon City depot, Cañon City
   - **Best for:** Scenic train / Canyon views · 1,000-ft gorge from an open-air car — Insane canyon views without hiking or driving sketchy roads: the Royal Gorge Route Railroad out of Cañon City, Colorado (~1 hr from Colorado Springs). The train runs the Arkansas River through a 1,000+ ft deep canyon with sheer granite cliffs on both sides, passing under the famous Royal Gorge Bridge — bald eagles, rafters, and dramatic rock formations along the route, with the best photo ops from the open-air car. Know before you go, per the reel: the ride is about 2 hours roundtrip and slow by design (scenery, not speed); parking is easy near the depot; there's a full kitchen and bar on most departures; and you can pair it with Royal Gorge Bridge Park if you have extra time.
   - Pin is the OSM station point for the Royal Gorge Route Railroad depot in Cañon City, where the ride boards.
   - 🎬 Source: [Royal Gorge Route Railroad — insane canyon views, no hiking required](https://www.instagram.com/reel/Dd6kk_6KTv7/) by @mccrawsonthemap (#None in that reel)
@@ -4822,7 +5466,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **62. [Yankee Boy Basin](https://www.google.com/maps/search/?api=1&query=Yankee+Boy+Basin+San+Juan+Mountains+CO)** — San Juan Mountains, Ouray
+- **65. [Yankee Boy Basin](https://www.google.com/maps/search/?api=1&query=Yankee+Boy+Basin+San+Juan+Mountains+CO)** — San Juan Mountains, Ouray
   - **Best for:** Scenic drive / Wildflower basin beneath Mount Sneffels — A stop on Kelley & Carl's beyond-Denver Colorado tour: Yankee Boy Basin above Ouray, a 4x4 shelf-road climb into a wildflower-filled cirque under 14,157-foot Mount Sneffels, past the Twin Falls and old mine ruins.
   - 🎬 Source: [Colorado is so much more than Denver](https://www.instagram.com/p/DW9RZdvFtJ2/) by @kelleyandcarlsadventures (#None in that reel)
 
@@ -4832,7 +5476,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Bucket-list hike, #8 of 12
 
-- **63. [Sawtooth Lake](https://www.google.com/maps/search/?api=1&query=Sawtooth+Lake+Idaho)** — Sawtooth Wilderness (Sawtooth National Forest), Stanley
+- **66. [Sawtooth Lake](https://www.google.com/maps/search/?api=1&query=Sawtooth+Lake+Idaho)** — Sawtooth Wilderness (Sawtooth National Forest), Stanley
   - **Best for:** Hike · Bucket-list hike, #8 of 12 — Ranked #8 in the reel's countdown of 12 bucket-list hikes NOT in national parks: Sawtooth Lake, the alpine lake beneath the jagged Sawtooth peaks in Idaho's Sawtooth Wilderness.
   - 🎬 Source: [12 bucket-list hikes NOT in national parks](https://www.instagram.com/reel/DfYrTw7t0-W/) by @theadventurepostcard (#8 in that reel)
 
@@ -4842,10 +5486,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Geyser
 
-- **64. [Grotto Geyser](https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **67. [Grotto Geyser](https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser — Day 1: Grotto Geyser, on the same Upper Geyser Basin walk as Old Faithful and Morning Glory Pool.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **65. [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **68. [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser — Day 1 of his 6-day Yellowstone recap: the south entrance, then Old Faithful erupting in the Upper Geyser Basin.
   - Pin is the Old Faithful Inn point: Nominatim resolves 'Old Faithful' to the visitor complex, ~250 m from the geyser cone.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
@@ -4853,14 +5497,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Geothermal / Yellowstone must-see, 3-park road trip — Old Faithful is a must-see on Kelley & Carl's Glacier–Yellowstone–Teton road trip.
   - 🎬 Also recommended by: [6 national parks, 1 epic road trip — the Great American West](https://www.instagram.com/p/DXcU5ytlvtf/) by @kelleyandcarlsadventures
     - **Best for:** Geothermal / Yellowstone must-see, Great American West trip — Old Faithful is a Yellowstone must-see on Kelley & Carl's 6-park Great American West road trip.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Geyser / Best-water parks, Yellowstone must-see — Old Faithful is one of the Yellowstone must-sees in Kelley & Carl's best-water parks feature.
 
 ##### Geyser basin
 
-- **66. [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **69. [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser basin — Day 3: Norris Geyser Basin, visited with Artists Paint Pots and Gibbon Falls.
   - Pin is the basin's attraction point by the Norris Museum area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **67. [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **70. [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Geyser basin — Day 5: West Thumb Geyser Basin on the shore of Yellowstone Lake.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Honest ratings for national park hikes in Montana & Wyoming](https://www.instagram.com/p/DbL6pRbCcHa/) by @kelleyandcarlsadventures
@@ -4870,28 +5516,34 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **68. [Bunsen Peak](https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **71. [Bunsen Peak](https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hike / Summit — Day 4: a hike up Bunsen Peak for mountain views, on the Mammoth Hot Springs day.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/bunsen-peak)
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Hiking
 
-- **69. [Upper Geyser Basin](https://www.google.com/maps/search/?api=1&query=Upper+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **72. [Upper Geyser Basin](https://www.google.com/maps/search/?api=1&query=Upper+Geyser+Basin+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hiking / Old Faithful and the world's densest geyser field — Kelley & Carl's favorite Yellowstone hike: the Upper Geyser Basin — a 3.2-mile, nearly flat boardwalk-and-trail loop past Old Faithful, Grand Geyser, Riverside Geyser and Morning Glory Pool through the largest concentration of geysers on Earth.
   - 🎬 Source: [Our favorite hike in each of the 10 most-visited national parks](https://www.instagram.com/p/DY2zUn7Eqe7/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [3 national parks, 1 epic road trip — Glacier, Yellowstone, Grand Teton](https://www.instagram.com/p/DZA3-dAnXGj/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Yellowstone highlight, 3-park road trip — The Upper Geyser Basin is one of Kelley & Carl's favorite Yellowstone hikes on their 3-park road trip (the pin's primary source is their most-visited-parks list).
   - 🎬 Also recommended by: [Honest ratings for Montana & Wyoming hikes](https://www.instagram.com/p/DXmeGqVFu-4/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Rated 8/10, Montana & Wyoming ratings — Rated 8/10 in Kelley & Carl's Montana & Wyoming hike ratings: the Upper Geyser Basin (the pin's primary source is their most-visited-parks list).
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in Yellowstone (#4 most visited) — The Upper Geyser Basin (3.2 miles, 100 ft) is Kelley & Carl's favorite hike in Yellowstone, #4 in their most-visited-parks countdown.
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Easiest hikes with epic views — The Upper Geyser Basin (3.5-mile easy loop, 114 ft) is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — The Upper Geyser Basin (5 miles, 150 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
 
 ##### Hot spring
 
-- **70. [Artists Paint Pots](https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **73. [Artists Paint Pots](https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring — Day 3: Artists Paint Pots, on the Norris / Gibbon Falls day of the trip.
   - Park signage and OSM spell the name 'Artists Paintpots' (one word); the candidate's spelling is kept.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **71. [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **74. [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring / View — Day 2: Grand Prismatic Spring seen from both ground level and the overlook.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Honest ratings for national park hikes in Montana & Wyoming](https://www.instagram.com/p/DbL6pRbCcHa/) by @kelleyandcarlsadventures
@@ -4902,36 +5554,42 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Rated 7/10, Montana & Wyoming ratings — Rated 7/10 in Kelley & Carl's Montana & Wyoming hike ratings: the Grand Prismatic Spring Overlook Trail.
   - 🎬 Also recommended by: [6 national parks, 1 epic road trip — the Great American West](https://www.instagram.com/p/DXcU5ytlvtf/) by @kelleyandcarlsadventures
     - **Best for:** Geothermal / Yellowstone must-see, Great American West trip — The Grand Prismatic Spring is a Yellowstone must-see on Kelley & Carl's 6-park Great American West road trip.
-- **72. [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hot spring / Best-water parks, Yellowstone must-see — Grand Prismatic Spring is one of the Yellowstone must-sees in Kelley & Carl's best-water parks feature.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Hot spring / Epic national park hikes, Part 1 — Grand Prismatic Spring (1.6 miles, 200 ft, via the Fairy Falls trailhead overlook route) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
+- **75. [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring / Terraces — Day 4: the Mammoth Hot Springs terraces; the day also brought three grizzly bears grazing.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **73. [Morning Glory Pool](https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **76. [Morning Glory Pool](https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Hot spring — Day 1: Morning Glory Pool, visited on the Upper Geyser Basin loop with Old Faithful and Grotto Geyser.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [3 national parks, 1 epic road trip — Glacier, Yellowstone, Grand Teton](https://www.instagram.com/p/DZA3-dAnXGj/) by @kelleyandcarlsadventures
     - **Best for:** Geothermal / Yellowstone highlight, 3-park road trip — Morning Glory Pool is a Yellowstone highlight on Kelley & Carl's Glacier–Yellowstone–Teton road trip.
   - 🎬 Also recommended by: [6 national parks, 1 epic road trip — the Great American West](https://www.instagram.com/p/DXcU5ytlvtf/) by @kelleyandcarlsadventures
     - **Best for:** Geothermal / Yellowstone must-see, Great American West trip — Morning Glory Pool is a Yellowstone must-see on Kelley & Carl's 6-park Great American West road trip.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hot spring / Best-water parks, Yellowstone must-see — Morning Glory Pool is one of the Yellowstone must-sees in Kelley & Carl's best-water parks feature.
 
 ##### Lake
 
-- **74. [Trout Lake](https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **77. [Trout Lake](https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Lake / Hike — Day 6: Trout Lake, hiked on the Lamar Valley day.
   - The Trout Lake by Pebble Creek in the park's northeast, verified inside the park boundary — several other Wyoming Trout Lakes exist and were rejected by a park-bounded search.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **75. [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **78. [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Lake / View — Day 5: Yellowstone Lake, visited with West Thumb Geyser Basin and the Mud Volcano area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Thermal area
 
-- **76. [Mud Volcano](https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **79. [Mud Volcano](https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Thermal area — Day 5: the steaming Mud Volcano thermal area.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### View
 
-- **77. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **80. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** View / Waterfall — His #2 viewpoint: the Lower Falls of the Yellowstone River cascading through the colorful canyon.
   - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#2 in that reel)
   - 🎬 Also recommended by: [Honest ratings for national park hikes in Montana & Wyoming](https://www.instagram.com/p/DbL6pRbCcHa/) by @kelleyandcarlsadventures
@@ -4942,21 +5600,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Rated 7/10, Montana & Wyoming ratings — Rated 7/10 in Kelley & Carl's Montana & Wyoming hike ratings: the Artist Point Overlook Trail.
   - 🎬 Also recommended by: [6 national parks, 1 epic road trip — the Great American West](https://www.instagram.com/p/DXcU5ytlvtf/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Yellowstone must-see, Great American West trip — Artist Point is a Yellowstone must-see on Kelley & Carl's 6-park Great American West road trip.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best-water parks, Yellowstone must-see — Artist Point is one of the Yellowstone must-sees in Kelley & Carl's best-water parks feature.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / National park waterfalls top 11 — Lower Falls of the Yellowstone — The Lower Falls of the Yellowstone River (308 ft, seen from Artist Point, a short walk) is one of Kelley & Carl's top 11 national park waterfalls.
 
 ##### Waterfall
 
-- **78. [Fairy Falls](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **81. [Fairy Falls](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 2: Fairy Falls, hiked on the same outing as the Grand Prismatic Spring overlook.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/fairy-falls--4)
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **79. [Firehole Falls](https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **82. [Firehole Falls](https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 1: Firehole Falls, after the geyser basin, on a day that also featured bison including a calf.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **80. [Gibbon Falls](https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **83. [Gibbon Falls](https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 3: Gibbon Falls, roadside falls visited with Norris Geyser Basin and Artists Paint Pots.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/gibbon-falls)
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **81. [Lower Yellowstone Falls](https://www.google.com/maps/search/?api=1&query=Lower+Yellowstone+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **84. [Lower Yellowstone Falls](https://www.google.com/maps/search/?api=1&query=Lower+Yellowstone+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — His #3 waterfall: Lower Yellowstone Falls, shown plunging into the Grand Canyon of the Yellowstone between colorful canyon walls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/brink-of-the-lower-falls)
   - 🎬 Source: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild (#3 in that reel)
@@ -4968,21 +5630,29 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Must-see waterfalls list — The Lower Falls of the Yellowstone is on Kelley & Carl's must-see waterfalls list — their favorite viewpoint is Artist Point, easily accessible from the parking lot.
   - 🎬 Also recommended by: [10 of the best US national park waterfalls](https://www.instagram.com/p/DUtMORqCcH3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Best waterfalls list — The Lower Falls of the Yellowstone is on Kelley & Carl's 10 best national park waterfalls list — their favorite viewpoint is Artist Point, easily accessible from the parking lot.
-- **82. [Undine Falls](https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **85. [Undine Falls](https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Waterfall — Day 6: Undine Falls, on the final day that also brought a black bear near the roadside.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wyoming/upper-and-lower-undine-falls)
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
 
 ##### Wildlife
 
-- **83. [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+- **86. [Hayden Valley](https://www.google.com/maps/search/?api=1&query=Hayden+Valley+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - **Best for:** Wildlife / Premier Yellowstone valley for bears, bison and river wildlife — Hayden Valley is one of the must-sees in Kelley & Carl's best-water parks feature on Yellowstone — and the valley where they photographed the grizzly in their Dakotas–Wyoming–Montana wildlife post.
+  - Coordinates from the USGS GNIS record via TopoQuest.
+  - 🎬 Source: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Wildlife of the Dakotas, Wyoming and Montana](https://www.instagram.com/p/DNLdiJmx4h9/) by @kelleyandcarlsadventures
+    - **Best for:** Wildlife / Wildlife in the parks — grizzly confirmed here — A creator reply on Kelley & Carl's wildlife post confirms the grizzly bear in it was filmed in Hayden Valley, Yellowstone (the pin's primary source is their best-water parks feature).
+- **87. [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Wildlife — Day 6: Lamar Valley, where distant wolves were spotted — the wildlife finale of the trip.
   - Pin is OSM's Lamar Valley locality point in the valley's eastern half.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **84. [LeHardy Rapids](https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Wildlife / Best-water parks, Yellowstone must-see — Lamar Valley is one of the Yellowstone must-sees in Kelley & Carl's best-water parks feature (Hayden Valley, added as a new pin, is the other).
+- **88. [LeHardy Rapids](https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY)** — Yellowstone National Park, Yellowstone National Park
   - **Best for:** Wildlife / Rapids — Day 5: LeHardy Rapids, where he watched harlequin ducks in the rapids.
   - 🎬 Source: [Everything We Did in Yellowstone — 6-Day Trip Recap](https://www.instagram.com/reel/DeMSJA-BRoo/) by @amorywild (#None in that reel)
-- **85. [Yellowstone National Park](https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY)** — Yellowstone National Park, Gardiner
+- **89. [Yellowstone National Park](https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY)** — Yellowstone National Park, Gardiner
   - **Best for:** Wildlife — His #1 for wildlife, described as the most diverse: bison including a calf, an elk grazing, multiple grizzly bears foraging, distant wolves in a meadow, a pronghorn antelope, bighorn sheep by a road, a marmot on rocks, harlequin ducks in rapids, and a black bear crossing pavement.
   - Park-level pin is the park's Nominatim point near the Canyon area.
   - 🎬 Source: [Top 5 National Parks for Wildlife Viewing](https://www.instagram.com/reel/DeUvOD2hM8q/) by @amorywild (#1 in that reel)
@@ -4996,6 +5666,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Itinerary — Days 2–5 of Taylor & Kristen's 5-day Wyoming trip (only 3 days of PTO): Old Faithful and the Grand Prismatic Overlook hike, an early-morning Lamar Valley drive for wolves and bison, the Grand Canyon of the Yellowstone from Artist Point, Hayden Valley at sunset, the Upper Geyser Basin, Yellowstone Lake, Great Fountain Geyser at sunset, and a bonus day of Mystic Falls or Mount Washburn plus Mammoth Hot Springs.
   - 🎬 Also recommended by: [The Great American West road trip — 6 parks, 18 days](https://www.instagram.com/reel/DXg10pqj5IT/) by @kelleyandcarlsadventures
     - **Best for:** Road trip / Great American West road trip park — Yellowstone is one of the six parks on Kelley & Carl's Great American West road trip — at least 18 days for the whole loop, best July–September.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Yellowstone is one of the 17 national parks Kelley & Carl rated from their 2025 travels — they noted the crowds.
+  - 🎬 Also recommended by: [6 national parks, 1 epic road trip — Dakotas, Wyoming & Montana](https://www.instagram.com/p/DNd1E4ZRizG/) by @kelleyandcarlsadventures
+    - **Best for:** Road trip / Best park-to-park route — Day 6 — Yellowstone is Day 6 on Kelley & Carl's 'best park-to-park road trip'.
+  - 🎬 Also recommended by: [Wildlife of the Dakotas, Wyoming and Montana](https://www.instagram.com/p/DNLdiJmx4h9/) by @kelleyandcarlsadventures
+    - **Best for:** Wildlife / Wildlife in the parks — bears, wolves, bison, elk — Yellowstone is one of the 4 parks Kelley & Carl name as the best for wildlife — 'the best place in the US to see wildlife' — and a creator reply confirms the grizzly in their post was filmed in Hayden Valley (added as a new pin this batch).
 
 ### Zapata Falls (near Great Sand Dunes)
 
@@ -5003,7 +5679,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **86. [Zapata Falls](https://www.google.com/maps/search/?api=1&query=Zapata+Falls+Colorado)** — Zapata Falls (near Great Sand Dunes), Mosca
+- **90. [Zapata Falls](https://www.google.com/maps/search/?api=1&query=Zapata+Falls+Colorado)** — Zapata Falls (near Great Sand Dunes), Mosca
   - **Best for:** Waterfall — Amory's #3 unique national park waterfall: Zapata Falls near Great Sand Dunes — a dramatic falls hidden inside a dark rock cavern at the foot of the Sangre de Cristo Mountains, shown as a frozen icefall in winter.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/colorado/zapata-falls-trail)
   - Coordinates verified against OpenStreetMap.
@@ -5011,7 +5687,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## West Region {#west}
 
-**108 places · California**
+**111 places · California**
 
 ### Alabama Hills
 
@@ -5088,7 +5764,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - **Best for:** Hiking / Cliff-edge loop above Scorpion Anchorage — A recommended hike on Kelley & Carl's Southern California road trip: the Cavern Point Loop on Santa Cruz Island, a short cliff-top walk from Scorpion Anchorage with huge Channel views — pair it with a sea cave kayak tour.
   - Coordinates are the Mapcarta/OSM viewpoint node at Cavern Point.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
-- **8. [Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Anacapa Island
+- **8. [East Anacapa Island Trail](https://www.google.com/maps/search/?api=1&query=East+Anacapa+Island+Trail+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Ventura
+  - **Best for:** Hiking / Figure-eight loop around East Anacapa's lighthouse and sea cliffs — Part 3 of Kelley & Carl's epic-hikes series: the East Anacapa Island Trail — 2.5 easy miles with 406 feet of gain around East Anacapa Island, reached by a pre-booked ferry from Ventura.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/east-anacapa-island-trail)
+  - Coordinates from Mapcarta (OpenStreetMap) for Anacapa Island.
+  - 🎬 Source: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Easiest hikes with epic views — The East Anacapa Island Trail (2.5 easy miles, 406 ft; pre-booked ferry required) is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list (the pin's primary source is their epic-hikes Part 3).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 3 — The East Anacapa Island Trail (2.5 miles, 150 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series (the pin's primary source is the January 2026 re-run of Part 3).
+- **9. [Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Anacapa Island
   - **Best for:** Hiking / Viewpoint on the East Anacapa Island Trail — Kelley & Carl's Anacapa Island recommendation in their Channel Islands mini guide: view Inspiration Point via the East Anacapa Island Trail — 2.5 miles, easy — the island's signature overlook. (Mind May-July, when 10,000+ nesting western gulls take over the island.)
   - Pin is the East Anacapa Island point from OpenStreetMap; Inspiration Point sits on the island's loop trail.
   - 🎬 Source: [Channel Islands mini guide](https://www.instagram.com/p/DfLUuW5pD5B/) by @kelleyandcarlsadventures (#None in that reel)
@@ -5100,10 +5785,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite Channel Islands activity, magical parks — Hiking the East Anacapa Island Trail to Inspiration Point is one of Kelley & Carl's favorite Channel Islands activities in their magical-parks list.
   - 🎬 Also recommended by: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Channel Islands, SoCal road trip — The East Anacapa Island Trail to Inspiration Point is a recommended hike on Kelley & Carl's Southern California road trip (Anacapa Island day).
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / SoCal road trip, Channel Islands must-see — Inspiration Point on Anacapa is the must-see spot in Kelley & Carl's Southern California road trip coverage of Channel Islands (they also recommend the sea-cave kayak tour).
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Underrated parks — Channel Islands favorite — Inspiration Point is one of Kelley & Carl's favorite spots in Channel Islands, in their most-underrated-parks list (sea-cave kayaking is the third).
 
 ##### Island park
 
-- **9. [Channel Islands National Park](https://www.google.com/maps/search/?api=1&query=Channel+Islands+National+Park+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Rosa Island
+- **10. [Channel Islands National Park](https://www.google.com/maps/search/?api=1&query=Channel+Islands+National+Park+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Rosa Island
   - **Best for:** Island park — His #3 island park: dramatic ocean cliffs, a boat in a cove, dolphins swimming, and a small island fox, with on-screen text noting '*also foxes!'.
   - Park-level pin is the park's Nominatim point on Santa Rosa Island; the mainland visitor centre is in Ventura.
   - 🎬 Source: [Top 5 Island National Parks](https://www.instagram.com/reel/DeHMvdrBhtb/) by @amorywild (#3 in that reel)
@@ -5117,10 +5806,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / Cavern Point Loop rated 7/10 in their California ratings, part 2 — Kelley & Carl rate the Cavern Point Loop on Santa Cruz Island 7/10 in part 2 of their California hike ratings (the rating is for Cavern Point, on the island's Scarpello side — recorded here on the park pin).
   - 🎬 Also recommended by: [Channel Islands mini guide](https://www.instagram.com/p/DfLUuW5pD5B/) by @kelleyandcarlsadventures
     - **Best for:** National park / Mini guide — the least-visited park in California — Kelley & Carl's Channel Islands mini guide: five islands reached by ferry from Ventura or Oxnard (dolphins and whales often ride along), an hour from LA. Only Anacapa and Santa Cruz have year-round ferry service; they visited both over two days and recommend both. Camping needs a recreation.gov reservation.
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Road trip / Southern California parks road trip — Days 2–3 — Channel Islands opens Kelley & Carl's Southern California parks road trip — one day for Santa Cruz Island, one for Anacapa, at least 8 days for the whole loop out of Los Angeles.
 
 ##### View
 
-- **10. [Potato Harbor](https://www.google.com/maps/search/?api=1&query=Potato+Harbor+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Cruz Island
+- **11. [Potato Harbor](https://www.google.com/maps/search/?api=1&query=Potato+Harbor+Channel+Islands+National+Park+CA)** — Channel Islands National Park, Santa Cruz Island
   - **Best for:** View — Ranked #4 for views, with dramatic green cliffs overlooking turquoise water at Potato Harbor on Santa Cruz Island.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [The most rewarding hikes in America's national parks](https://www.instagram.com/p/DeklUpACW4J/) by @kelleyandcarlsadventures
@@ -5143,6 +5834,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite Channel Islands activity, underrated list — Hiking to Potato Harbor (and kayaking Santa Cruz Island's sea caves) is Kelley & Carl's favorite Channel Islands activity in their underrated-parks list.
   - 🎬 Also recommended by: [16 national park hikes that belong on your bucket list](https://www.instagram.com/p/DV_iymmjj6H/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Bucket-list hike — The Potato Harbor Trail is one of the 16 national park hikes on Kelley & Carl's bucket list.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Channel Islands favorite — The Potato Harbor Trail is one of Kelley & Carl's favorite spots in Channel Islands, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 1 — The Potato Harbor Trail (5 miles, 550 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
 
 ### Claremont Canyon Regional Preserve
 
@@ -5150,7 +5845,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **11. [Stonewall Panoramic Trail](https://www.google.com/maps/search/?api=1&query=Stonewall-Panoramic+Trail+Berkeley)** — Claremont Canyon Regional Preserve, Berkeley
+- **12. [Stonewall Panoramic Trail](https://www.google.com/maps/search/?api=1&query=Stonewall-Panoramic+Trail+Berkeley)** — Claremont Canyon Regional Preserve, Berkeley
   - **Best for:** Hike / Panoramic views · Steep ridge climb over the bay — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The Stonewall-Panoramic Trail in Claremont Canyon — a steep, straight-up-the-ridge climb from behind the Claremont Hotel to Panoramic Ridge, with the payoff right in the name: sweeping views over Berkeley, Oakland, and the bay.
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#6 in that reel)
 
@@ -5160,7 +5855,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **12. [Coachella Valley Preserve](https://www.google.com/maps/search/?api=1&query=Coachella+Valley+Preserve+Coachella+Valley+Preserve+CA)** — Coachella Valley Preserve, Thousand Palms
+- **13. [Coachella Valley Preserve](https://www.google.com/maps/search/?api=1&query=Coachella+Valley+Preserve+Coachella+Valley+Preserve+CA)** — Coachella Valley Preserve, Thousand Palms
   - **Best for:** Hike / Palm oases along the San Andreas Fault — Thousand Palms Oasis — From Kelley & Carl's 'California is so much more than Los Angeles' carousel: the palm oasis at the Coachella Valley Preserve — groves of California fan palms fed by fault-line springs at the Thousand Palms Oasis Preserve, near Palm Springs.
   - Pin is the published Coachella Valley Preserve GPS point (Wikipedia / Recreation.gov) at the Thousand Palms Oasis Preserve entrance.
   - 🎬 Source: [California is so much more than Los Angeles](https://www.instagram.com/p/DZ5QvnJFrWG/) by @kelleyandcarlsadventures (#None in that reel)
@@ -5171,7 +5866,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **13. [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA)** — Death Valley National Park, Stovepipe Wells
+- **14. [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA)** — Death Valley National Park, Stovepipe Wells
   - **Best for:** Hike / Death Valley's most accessible dune field, by Stovepipe Wells — Rated 9/10 in Kelley & Carl's honest ratings for California national park hikes (part 2): the Mesquite Flat Sand Dunes. Their photography play is sunrise on the dunes — rippled sand and mesquite trees under early light near Stovepipe Wells.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail)
   - Pin is the OSM Mesquite Dunes point in the Mesquite Flat dune field north of CA-190.
@@ -5184,28 +5879,42 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Death Valley sight, SoCal road trip — The Mesquite Flat Sand Dunes are one of Kelley & Carl's recommended Death Valley sights on their Southern California road trip.
   - 🎬 Also recommended by: [6 national parks that feel like another planet](https://www.instagram.com/p/DWO7udFjvUc/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Otherworldly parks, Death Valley — The Mesquite Flat Sand Dunes are a highlight of otherworldly Death Valley in Kelley & Carl's list.
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / SoCal road trip, Death Valley must-see — The Mesquite Flat Sand Dunes are a must-see in Kelley & Carl's Southern California road trip stop at Death Valley.
+  - 🎬 Also recommended by: [5 of the most otherworldly national parks](https://www.instagram.com/p/DQmiUXoCfc0/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Otherworldly parks — Death Valley feature — The Mesquite Flat Sand Dunes are featured in the Death Valley section of Kelley & Carl's most-otherworldly-parks list.
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — golden light on the dunes — The Mesquite Flat Sand Dunes at sunrise — 'watching the golden light hit the sand dunes was an unforgettable national park experience' — is one of Kelley & Carl's 10 best national park sunrise spots.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 1 — The Mesquite Flat Sand Dunes (2.3 miles trekking around the dunes, 185 ft) is one of the 10 epic national park hikes in Part 1 of Kelley & Carl's series.
 
 ##### Hiking
 
-- **14. [Golden Canyon Trail](https://www.google.com/maps/search/?api=1&query=Golden+Canyon+Trail+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **15. [Golden Canyon Trail](https://www.google.com/maps/search/?api=1&query=Golden+Canyon+Trail+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Hiking / Golden badlands below Zabriskie Point — One of Kelley & Carl's recommended Death Valley hikes: Golden Canyon, a walk up a golden badland wash beneath Zabriskie Point — they pair it with the Gower Gulch Loop, with Red Cathedral as the out-and-back goal.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/golden-canyon-trail-to-red-cathedral)
   - Coordinates from the NPS Golden Canyon Trailhead place record.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [6 national parks that feel like another planet](https://www.instagram.com/p/DWO7udFjvUc/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Otherworldly parks, Death Valley — Golden Canyon is a suggested hike in otherworldly Death Valley in Kelley & Carl's list (the pin's primary source is their Southern California road trip).
-- **15. [Natural Bridge Canyon](https://www.google.com/maps/search/?api=1&query=Natural+Bridge+Canyon+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / SoCal road trip, Death Valley best hikes — The Golden Canyon & Gower Gulch Loop is one of the best hikes in Kelley & Carl's Southern California road trip stop at Death Valley.
+- **16. [Natural Bridge Canyon](https://www.google.com/maps/search/?api=1&query=Natural+Bridge+Canyon+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Hiking / A natural bridge in a gravel canyon — One of Kelley & Carl's recommended Death Valley hikes: Natural Bridge Canyon, an easy wash walk on the Badwater Road to a massive natural bridge spanning the canyon, with dry falls beyond.
   - Coordinates are the Hikespeak trailhead point.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
-- **16. [Telescope Peak](https://www.google.com/maps/search/?api=1&query=Telescope+Peak+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / SoCal road trip, Death Valley best hikes — The Natural Bridge Canyon Trail is one of the best hikes in Kelley & Carl's Southern California road trip stop at Death Valley.
+- **17. [Telescope Peak](https://www.google.com/maps/search/?api=1&query=Telescope+Peak+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Hiking / Death Valley's 11,049-foot summit — One of Kelley & Carl's recommended Death Valley hikes: Telescope Peak, the park's 11,049-foot high point — from its summit you can see both Badwater Basin (the lowest point in North America) and Mount Whitney (the highest in the contiguous US) in one turn.
   - Coordinates from Wikipedia/USGS summit data.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Summit hike / SoCal road trip, Death Valley best hikes — The Telescope Peak Trail is one of the best hikes in Kelley & Carl's Southern California road trip stop at Death Valley.
 
 ##### Solitude
 
-- **17. [Death Valley National Park](https://www.google.com/maps/search/?api=1&query=Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **18. [Death Valley National Park](https://www.google.com/maps/search/?api=1&query=Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Solitude — Ranked #4 for solitude, with vast desert vistas, salt flats and old mining structures, described as so quiet it gets spooky.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [My Top 5 Winter National Parks](https://www.instagram.com/reel/DeiJu-bBcEn/) by @amorywild
@@ -5218,10 +5927,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Stargazing — Ranked #2 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - 🎬 Also recommended by: [California has the most National Parks of any state — California park awards](https://www.instagram.com/p/Db1ZgXlkvoe/) by @kelleyandcarlsadventures
     - **Best for:** National park / California award: Most Otherworldly — Kelley & Carl's California park awards: Death Valley is 'Most Otherworldly' — 'The landscapes here honestly make you question if you really even on earth.'
+  - 🎬 Also recommended by: [5 desert national parks to visit this winter](https://www.instagram.com/p/DRU7AlWCXrx/) by @kelleyandcarlsadventures
+    - **Best for:** Winter visit / Desert parks for winter — Death Valley is one of Kelley & Carl's 5 desert parks to visit in winter — the hottest, driest park in the US becomes ideal, from Dante's View at 5,500 ft to Badwater Basin at −282 ft.
 
 ##### Sunrise
 
-- **18. [Zabriskie Point](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
+- **19. [Zabriskie Point](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
   - **Best for:** Sunrise — Ranked #2 for sunrise in the reel. Eroded badlands with colorful striped formations and pink-lit distant mountains at first light.
   - Badlands overlook off CA-190, southeast of Furnace Creek, facing Manly Beacon.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#2 in that reel)
@@ -5241,45 +5952,61 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Otherworldly parks, Death Valley — Zabriskie Point is a highlight of otherworldly Death Valley in Kelley & Carl's list.
   - 🎬 Also recommended by: [The best national parks to visit in spring](https://www.instagram.com/p/DVWWaIYjmiW/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Spring parks — Death Valley — Zabriskie Point is a Death Valley must-see in Kelley & Carl's best spring parks list — pleasant weather and wildflower blooms.
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / SoCal road trip, Death Valley must-see — Zabriskie Point is a must-see in Kelley & Carl's Southern California road trip stop at Death Valley.
+  - 🎬 Also recommended by: [5 of the most otherworldly national parks](https://www.instagram.com/p/DQmiUXoCfc0/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Otherworldly parks — Death Valley feature — Zabriskie Point headlines the Death Valley section of Kelley & Carl's most-otherworldly-parks list.
+  - 🎬 Also recommended by: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best overlooks, no hiking — Zabriskie Point is one of Kelley & Carl's 10 best national park overlooks with no hiking required.
 
 ##### Sunset
 
-- **19. [Artist's Palette](https://www.google.com/maps/search/?api=1&query=Artist's+Palette+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
+- **20. [Artist's Palette](https://www.google.com/maps/search/?api=1&query=Artist's+Palette+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
   - **Best for:** Sunset — Caption names a sunset at Artist's Palette in Death Valley National Park. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Pin is Artist's Palette Parking, the viewpoint on Artists Drive — the standard access point for the Artist's Palette formation (same viewpoint-point approach as Batch 1's Ukak Falls trailhead pin).
   - 🎬 Source: [Sunset — Artist's Palette](https://www.instagram.com/reel/DGPBQOmN3NO/) by @amorywild (#None in that reel)
-- **20. [Artists Palette](https://www.google.com/maps/search/?api=1&query=Artists+Palette+Death+Valley)** — Death Valley National Park, Death Valley
+- **21. [Artists Palette](https://www.google.com/maps/search/?api=1&query=Artists+Palette+Death+Valley)** — Death Valley National Park, Death Valley
   - **Best for:** Sunset / Scenic drive · Mineral-streaked colorful hills — Sunset #4 in Amory's countdown: Artists Palette in Death Valley — the one-way Artists Drive loops past hills streaked pink, gold, green and lavender by mineral deposits, and the colors deepen at dusk as the light drops.
   - 🎬 Source: [5 National Park Sunsets That Blew My Mind](https://www.instagram.com/reel/DfarEsNMIc4/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Death Valley sight, SoCal road trip — Artists Palette is one of Kelley & Carl's recommended Death Valley sights on their Southern California road trip.
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / SoCal road trip, Death Valley must-see — Artists Palette is a must-see in Kelley & Carl's Southern California road trip stop at Death Valley.
 
 ##### View
 
-- **21. [Dante's View](https://www.google.com/maps/search/?api=1&query=Dante's+View+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
+- **22. [Dante's View](https://www.google.com/maps/search/?api=1&query=Dante's+View+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
   - **Best for:** View — His #5 viewpoint: sweeping sunrise/sunset views over the salt flats and distant mountains.
   - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#5 in that reel)
   - 🎬 Also recommended by: [Sunrise viewpoint — Dante's View](https://www.instagram.com/reel/DGDosKGJBg0/) by @amorywild
     - **Best for:** Sunrise / View — Captioned 'Sunrise at Dante's View, Death Valley National Park,' tagged #sunrise. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - 🎬 Also recommended by: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Death Valley sight, SoCal road trip — Dante's View is one of Kelley & Carl's recommended Death Valley sights on their Southern California road trip.
-- **22. [Gower Gulch](https://www.google.com/maps/search/?api=1&query=Gower+Gulch+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / SoCal road trip, Death Valley must-see — Dante's View is a must-see in Kelley & Carl's Southern California road trip stop at Death Valley.
+- **23. [Gower Gulch](https://www.google.com/maps/search/?api=1&query=Gower+Gulch+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
   - **Best for:** View / Hike — Caption names Gower Gulch, Death Valley National Park. The video pans slowly across a serene desert landscape of rolling hills and distant mountains under an overcast sky, with a steady heartbeat-like rhythm — emphasizing the vastness and solitude of the desert.
   - Pin is the Gower Gulch wash at the CA-190 trailhead crossing below Zabriskie Point.
   - 🎬 Source: [Desert scenery — Gower Gulch](https://www.instagram.com/reel/DF_R0CDS1JH/) by @amorywild (#None in that reel)
 
 ##### Viewpoint
 
-- **23. [Badwater Basin](https://www.google.com/maps/search/?api=1&query=Badwater+Basin+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **24. [Badwater Basin](https://www.google.com/maps/search/?api=1&query=Badwater+Basin+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Viewpoint / Salt flats at 282 feet below sea level — A must-see on Kelley & Carl's Southern California road trip: Badwater Basin, the lowest point in North America at 282 feet below sea level, where a boardwalk leads onto vast white salt flats under the Panamint Range (Telescope Peak rises 11,000 feet directly above).
   - Coordinates from the NPS place record.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [The best national parks to visit in spring](https://www.instagram.com/p/DVWWaIYjmiW/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Spring parks — Death Valley — Badwater Basin is a Death Valley must-see in Kelley & Carl's best spring parks list (the pin's primary source is their Southern California road trip).
-- **24. [Ubehebe Crater](https://www.google.com/maps/search/?api=1&query=Ubehebe+Crater+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Landmark / SoCal road trip, Death Valley must-see — Badwater Basin is a must-see in Kelley & Carl's Southern California road trip stop at Death Valley.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — Badwater Basin (1.9 miles, 0 ft — a walk across the salt flats) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
+- **25. [Ubehebe Crater](https://www.google.com/maps/search/?api=1&query=Ubehebe+Crater+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Viewpoint / Half-mile-wide volcanic crater — A must-see on Kelley & Carl's Southern California road trip: Ubehebe Crater at Death Valley's north end, a half-mile-wide, 600-foot-deep volcanic crater ringed by rainbow-colored ash beds, with a rim trail to Little Hebe Crater.
   - Coordinates from the NPS place record.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Landmark / SoCal road trip, Death Valley must-see — Ubehebe Crater is a must-see in Kelley & Carl's Southern California road trip stop at Death Valley.
 
 ### Del Norte Coast Redwoods State Park
 
@@ -5287,7 +6014,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **25. [Damnation Creek Trail](https://www.google.com/maps/search/?api=1&query=Damnation+Creek+Trail+Del+Norte+Coast+Redwoods+State+Park+CA)** — Del Norte Coast Redwoods State Park, Crescent City
+- **26. [Damnation Creek Trail](https://www.google.com/maps/search/?api=1&query=Damnation+Creek+Trail+Del+Norte+Coast+Redwoods+State+Park+CA)** — Del Norte Coast Redwoods State Park, Crescent City
   - **Best for:** Hike / Giant trees · Coast redwoods descending to the ocean, steep climb back — Ranked #10 of the carousel's 10 hikes among giant trees: coast redwoods lead toward the ocean in Del Norte Coast Redwoods State Park, California — with a steep climb back up from the shore.
   - Pin is the published Damnation Creek trailhead point (US-101 milepost 16 pullout, per NPS and multiple trail guides).
   - 🎬 Source: [10 hikes among giant trees across the USA](https://www.instagram.com/p/DfgBZshmdho/) by @nationalparksguide (#10 in that reel)
@@ -5298,14 +6025,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Geology · Towering hexagonal basalt columns
 
-- **26. [Devil's Postpile](https://www.google.com/maps/search/?api=1&query=Devils+Postpile+National+Monument)** — Devils Postpile National Monument, Mammoth Lakes
+- **27. [Devil's Postpile](https://www.google.com/maps/search/?api=1&query=Devils+Postpile+National+Monument)** — Devils Postpile National Monument, Mammoth Lakes
   - **Best for:** Geology · Towering hexagonal basalt columns — Stop #1 on the reel's two-for-one hike (~2.6 miles round trip, moderate): towering columns of basalt formed by ancient volcanic activity, the hexagonal formations looking almost perfectly stacked.
   - Pin is the monument trailhead by the ranger station (published trailhead coordinates); the postpile formation is a short walk in.
   - 🎬 Source: [One hike, two incredible destinations: Devil's Postpile + Rainbow Falls](https://www.instagram.com/reel/Dd42HvZB63U/) by @scenic_adventure_travel (#1 in that reel)
 
 ##### Waterfall
 
-- **27. [Rainbow Falls](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Mammoth+Lakes+CA)** — Devils Postpile National Monument, Mammoth Lakes
+- **28. [Rainbow Falls](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Mammoth+Lakes+CA)** — Devils Postpile National Monument, Mammoth Lakes
   - **Best for:** Waterfall / Hike · 101-foot falls with rainbows in the mist — Stop #2 on the reel's hike (~5 miles round trip from the main trailhead to see both, moderate): a stunning 101-foot waterfall on the Middle Fork of the San Joaquin River, where sunlight creates rainbows in the mist — the highest waterfall on the river.
   - 🎬 Source: [One hike, two incredible destinations: Devil's Postpile + Rainbow Falls](https://www.instagram.com/reel/Dd42HvZB63U/) by @scenic_adventure_travel (#2 in that reel)
 
@@ -5315,7 +6042,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **28. [Highway 395 (Eastern Sierra)](https://www.google.com/maps/search/?api=1&query=Highway+395+Eastern+Sierra+Lone+Pine+CA)** — Eastern Sierra, Lone Pine
+- **29. [Highway 395 (Eastern Sierra)](https://www.google.com/maps/search/?api=1&query=Highway+395+Eastern+Sierra+Lone+Pine+CA)** — Eastern Sierra, Lone Pine
   - **Best for:** Scenic drive — One of Asya's five favorite California drives: Highway 395 along the Eastern Sierra — a winding road under snow-capped peaks and pine forests, with the Sierra escarpment on one side and the high desert on the other.
   - Pin at Lone Pine (OpenStreetMap village point), the classic Eastern Sierra stretch of US-395 beneath Mount Whitney; the drive itself runs the length of the Sierra's east side.
   - 🎬 Source: [5 Most Scenic Drives in California](https://www.instagram.com/reel/DeyC-4UzfHd/) by @asyatravels (#None in that reel)
@@ -5326,7 +6053,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **29. [Emerald Bay](https://www.google.com/maps/search/?api=1&query=Emerald+Bay+Emerald+Bay+State+Park+CA)** — Emerald Bay State Park, Tahoe City
+- **30. [Emerald Bay](https://www.google.com/maps/search/?api=1&query=Emerald+Bay+Emerald+Bay+State+Park+CA)** — Emerald Bay State Park, Tahoe City
   - **Best for:** Overlook / Tahoe's most photographed inlet — A Lake Tahoe must-see on Kelley & Carl's Reno-to-redwoods road trip — Emerald Bay, the glacier-carved inlet with Fannette Island and Vikingsholm on California's west shore.
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [10 of the most beautiful lakes in the USA](https://www.instagram.com/p/DYfIFKKllS9/) by @kelleyandcarlsadventures
@@ -5338,7 +6065,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **30. [Seven Teacups](https://www.google.com/maps/search/?api=1&query=Seven+Teacups+Kern+River+California)** — Giant Sequoia National Monument, Kernville
+- **31. [Seven Teacups](https://www.google.com/maps/search/?api=1&query=Seven+Teacups+Kern+River+California)** — Giant Sequoia National Monument, Kernville
   - **Best for:** Waterfall — A surreal chain of smooth white-granite pools on Dry Meadow Creek, each cup dropping 6 to 20 feet into the next before the water slides into the Kern River. Reached by a roughly 4-mile round-trip hike with about 850 feet of gain, rock scrambling and a creek crossing. The creator's warning, kept verbatim in spirit: please don't swim — the current can pull swimmers under even when the water looks calm.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/seven-tea-cups-7tc-vis-dry-creek-meadow)
   - Pin is OpenStreetMap's Seven Teacups waterfall point near Johnsondale Bridge, under 2 hours from Bakersfield. The reel names the AllTrails route 'Seven Tea Cups Viewpoint via Dry Creek Meadow' and mentions Johnny McNally's Fairview Lodge-Restaurant, about 10 minutes away, as a nearby stop (an amenity mention, not pinned).
@@ -5350,7 +6077,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Coastal hike · Cliff-top walk to a hidden cove
 
-- **31. [Muir Beach to Pirate's Cove](https://www.google.com/maps/search/?api=1&query=Pirate's+Cove+Muir+Beach)** — Golden Gate National Recreation Area, Muir Beach
+- **32. [Muir Beach to Pirate's Cove](https://www.google.com/maps/search/?api=1&query=Pirate's+Cove+Muir+Beach)** — Golden Gate National Recreation Area, Muir Beach
   - **Best for:** Coastal hike · Cliff-top walk to a hidden cove — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The coastal walk from Muir Beach south to Pirate's Cove — a cliff-top stretch of the Coastal Trail ending at a small, hidden cove beach tucked between the headlands.
   - Pin is the Pirate's Cove beach point (OSM), the hike's destination.
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#4 in that reel)
@@ -5361,7 +6088,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach
 
-- **32. [Marshall's Beach](https://www.google.com/maps/search/?api=1&query=Marshall's+Beach+San+Francisco)** — Golden Gate National Recreation Area / Presidio, San Francisco
+- **33. [Marshall's Beach](https://www.google.com/maps/search/?api=1&query=Marshall's+Beach+San+Francisco)** — Golden Gate National Recreation Area / Presidio, San Francisco
   - **Best for:** Beach / Viewpoint · Golden Gate views without the crowds — San Francisco's most underrated Golden Gate view — and you'll probably have it to yourself. The family's route: park at the Langdon Court lot (free, mostly empty around 10 AM), walk toward Battery West, then take the Batteries to Bluffs Trail down to the beach (~0.5 mile, stairs involved — their 4- and 5-year-olds handled it fine), turn right toward Marshall's Beach and down a few more stairs. They stayed almost an hour without seeing another person. Safety notes from the reel: don't go at high tide — the beach becomes mostly inaccessible and dangerous, so check tides first; no restrooms or facilities; and it's a clothing-optional beach, worth knowing if you're bringing kids.
   - Pin is the OSM beach point for Marshall's Beach, below the Batteries to Bluffs Trail.
   - 🎬 Source: [Marshall's Beach — San Francisco's most underrated Golden Gate view](https://www.instagram.com/reel/DbcXGY6iiRI/) by @gabbettfamilytravels (#None in that reel)
@@ -5372,7 +6099,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Quiet old-growth redwood grove
 
-- **33. [Grizzly Creek Redwoods](https://www.google.com/maps/search/?api=1&query=Grizzly+Creek+Redwoods+State+Park+CA)** — Grizzly Creek Redwoods State Park, Carlotta
+- **34. [Grizzly Creek Redwoods](https://www.google.com/maps/search/?api=1&query=Grizzly+Creek+Redwoods+State+Park+CA)** — Grizzly Creek Redwoods State Park, Carlotta
   - **Best for:** Hike · Quiet old-growth redwood grove — One of California's most underrated redwood groves, with peaceful trails and massive ancient trees but without the crowds of the more famous parks. The reel's fun fact: scenes from Star Wars were filmed here.
   - 🎬 Source: [7 hikes that will ruin every other hike for you](https://www.instagram.com/reel/De7CHmAMQoz/) by @discover_california_ (#3 in that reel)
 
@@ -5382,7 +6109,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **34. [Avenue of the Giants](https://www.google.com/maps/search/?api=1&query=Avenue+of+the+Giants+Humboldt+Redwoods+State+Park+CA)** — Humboldt Redwoods State Park, Weott
+- **35. [Avenue of the Giants](https://www.google.com/maps/search/?api=1&query=Avenue+of+the+Giants+Humboldt+Redwoods+State+Park+CA)** — Humboldt Redwoods State Park, Weott
   - **Best for:** Scenic drive / 31 miles among old-growth redwoods — A Redwoods must-see on Kelley & Carl's Reno-to-redwoods road trip — the Avenue of the Giants, the old highway unspooling for 31 miles beneath some of the tallest trees on earth.
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
 
@@ -5392,7 +6119,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **35. [Grove of Titans](https://www.google.com/maps/search/?api=1&query=Grove+of+Titans+Jedediah+Smith+Redwoods+State+Park+CA)** — Jedediah Smith Redwoods State Park, Crescent City
+- **36. [Grove of Titans](https://www.google.com/maps/search/?api=1&query=Grove+of+Titans+Jedediah+Smith+Redwoods+State+Park+CA)** — Jedediah Smith Redwoods State Park, Crescent City
   - **Best for:** Hike / Elevated boardwalk among some of the largest known coast redwoods — Rated 9/10 in Kelley & Carl's honest ratings for California national park hikes (part 2): the Grove of Titans in Jedediah Smith Redwoods State Park — a boardwalk trail among redwood giants, some of the largest trees on earth.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/grove-of-titans)
   - Pin is the OSM Grove of Titans point; the grove is reached by the Grove of Titans Trail off the Mill Creek Trail (Howland Hill Road area).
@@ -5404,7 +6131,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **36. [Jedediah Smith Redwoods State Park](https://www.google.com/maps/search/?api=1&query=Jedediah+Smith+Redwoods+State+Park+CA)** — Jedediah Smith Redwoods State Park, Crescent City
+- **37. [Jedediah Smith Redwoods State Park](https://www.google.com/maps/search/?api=1&query=Jedediah+Smith+Redwoods+State+Park+CA)** — Jedediah Smith Redwoods State Park, Crescent City
   - **Best for:** Scenic drive — One of the five: driving through Jedediah Smith Redwoods — a dense forest of towering old-growth redwoods, the reel's lush green counterpoint to the desert and coast drives.
   - Pin is OpenStreetMap's park point near Crescent City; the classic drive through the groves is Howland Hill Road.
   - 🎬 Source: [5 Most Scenic Drives in California](https://www.instagram.com/reel/DeyC-4UzfHd/) by @asyatravels (#None in that reel)
@@ -5415,60 +6142,82 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **37. [Hidden Valley](https://www.google.com/maps/search/?api=1&query=Hidden+Valley+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **38. [Hidden Valley](https://www.google.com/maps/search/?api=1&query=Hidden+Valley+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Hike / One-mile loop through a boulder-ringed desert valley — Rated 6/10 in Kelley & Carl's honest ratings for California national park hikes (part 2): Hidden Valley's nature trail loops through a rock-ringed valley that legend says hid cattle rustlers — Joshua Tree's classic introduction, popular with climbers.
   - Pin is the NPS place-record point for the Hidden Valley Nature Trail trailhead.
   - 🎬 Source: [Honest ratings for California national park hikes — part 2](https://www.instagram.com/p/DaN7_7Jlkhq/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / SoCal road trip, Joshua Tree best hikes — Hidden Valley is one of the best hikes in Kelley & Carl's Southern California road trip stop at Joshua Tree.
 
 ##### Hiking
 
-- **38. [Arch Rock Trail](https://www.google.com/maps/search/?api=1&query=Arch+Rock+Trail+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **39. [Arch Rock Trail](https://www.google.com/maps/search/?api=1&query=Arch+Rock+Trail+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Hiking / Granite arch in the White Tank boulders — One of Kelley & Carl's best Joshua Tree hikes: the Arch Rock Trail, a short walk from Twin Tanks/White Tank into a jumble of monzogranite boulders hiding a natural arch — prime scrambling and night-sky country.
   - Coordinates are the Hikespeak Twin Tanks trailhead point.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
-- **39. [Hall of Horrors](https://www.google.com/maps/search/?api=1&query=Hall+of+Horrors+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / SoCal road trip, Joshua Tree best hikes — The Arch Rock Trail is one of the best hikes in Kelley & Carl's Southern California road trip stop at Joshua Tree.
+- **40. [Hall of Horrors](https://www.google.com/maps/search/?api=1&query=Hall+of+Horrors+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Hiking / Slot-like passage between granite walls — A must-see on Kelley & Carl's Southern California road trip: the Hall of Horrors, a short scramble through a narrow, slot-like hallway pinched between towering granite walls near Ryan Campground in Joshua Tree.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/hall-of-horrors)
   - Coordinates from the NPS Hall of Horrors Area place record.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
-- **40. [Ryan Mountain](https://www.google.com/maps/search/?api=1&query=Ryan+Mountain+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / SoCal road trip, Joshua Tree must-see — The Hall of Horrors is a must-see in Kelley & Carl's Southern California road trip stop at Joshua Tree.
+- **41. [Ryan Mountain](https://www.google.com/maps/search/?api=1&query=Ryan+Mountain+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Hiking / The park's best summit panorama — One of Kelley & Carl's best Joshua Tree hikes: Ryan Mountain, a steady 3-mile round trip climb of about 1,000 feet to a 5,457-foot summit with the park's widest panorama.
   - Coordinates are the Hikespeak trailhead point.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / SoCal road trip, Joshua Tree best hikes — Ryan Mountain is one of the best hikes in Kelley & Carl's Southern California road trip stop at Joshua Tree.
 
 ##### Sunrise
 
-- **41. [Inspiration Peak (Inspiration Point)](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **42. [Inspiration Peak (Inspiration Point)](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Sunrise — Ranked #5 for sunrise in the reel. Sweeping desert and mountain vistas at dawn, with orange skies over distant valleys.
   - Reel calls it Inspiration Point in Joshua Tree. The summit above Keys View is Mount Inspiration / Inspiration Peak (5,560 ft). Trailhead is the Keys View parking lot, 33.9272, -116.18745.
   - 🎬 Source: [5 National Park Sunrises That Blew My Mind](https://www.instagram.com/reel/De9cpsdpbBx/) by @amorywild (#5 in that reel)
 
 ##### Viewpoint
 
-- **42. [Cholla Cactus Garden](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **43. [Cholla Cactus Garden](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Viewpoint / A dense garden of teddybear cholla on the Pinto Basin Road — Rated 7/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): the Cholla Cactus Garden, a quarter-mile loop through thousands of teddybear cholla where the Colorado and Mojave deserts meet — best glowing at sunrise or sunset.
   - Pin is the OSM Cholla Cactus Garden point.
   - 🎬 Source: [Honest ratings for California national park hikes — part 1](https://www.instagram.com/p/DaGBkNBFglC/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Joshua Tree must-see, SoCal road trip — The Cholla Cactus Garden is a Joshua Tree must-see on Kelley & Carl's Southern California road trip.
-- **43. [Keys View](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / SoCal road trip, Joshua Tree must-see — The Cholla Cactus Garden is a must-see in Kelley & Carl's Southern California road trip stop at Joshua Tree.
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Easiest hikes with epic views — golden hour — The Cholla Cactus Garden (0.2-mile easy loop, 9 ft; visit at golden hour to see the cacti glow) is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — The Cholla Cactus Garden (0.25 miles, 0 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series — the post labels it Death Valley, but the Cholla Cactus Garden is in Joshua Tree, and this source is attached to the Joshua Tree pin.
+- **44. [Keys View](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Viewpoint / Panorama over the Coachella Valley — A must-see on Kelley & Carl's Southern California road trip: Keys View, Joshua Tree's highest drive-up viewpoint at 5,185 feet, looking across the Coachella Valley to the San Andreas Fault, Palm Springs and the Salton Sea.
   - Coordinates from the NPS place record.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
-- **44. [Skull Rock](https://www.google.com/maps/search/?api=1&query=Skull+Rock+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / SoCal road trip, Joshua Tree must-see — Keys View at sunset is a must-see in Kelley & Carl's Southern California road trip stop at Joshua Tree.
+  - 🎬 Also recommended by: [10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/) by @kelleyandcarlsadventures
+    - **Best for:** Sunset / Epic sunset spots — west-facing overlook — Keys View, facing west over the desert, is one of Kelley & Carl's 10 epic national park sunset spots.
+- **45. [Skull Rock](https://www.google.com/maps/search/?api=1&query=Skull+Rock+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Viewpoint / Skull-shaped granite boulder — A must-see on Kelley & Carl's Southern California road trip: Skull Rock, the roadside granite boulder weathered into a perfect skull along Park Boulevard in Joshua Tree.
   - Coordinates from the NPS place record for the Joshua Tree feature.
   - 🎬 Source: [Southern California's most underrated road trip](https://www.instagram.com/p/DW4M3C_luoy/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/) by @kelleyandcarlsadventures
+    - **Best for:** Landmark / SoCal road trip, Joshua Tree must-see — Skull Rock is a must-see in Kelley & Carl's Southern California road trip stop at Joshua Tree.
 
 ##### Winter visit
 
-- **45. [Joshua Tree National Park](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **46. [Joshua Tree National Park](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Winter visit — Ranked #3 for winter, showing arid mountain landscapes, boulder formations with a climber, and a sunset vista.
   - 🎬 Source: [My Top 5 Winter National Parks](https://www.instagram.com/reel/DeiJu-bBcEn/) by @amorywild (#3 in that reel)
   - 🎬 Also recommended by: [10 Places in America Where the Night Sky Doesn't Look Real! (+ 5 bonus)](https://www.instagram.com/p/DfK2OLUiTVM/) by @adventurefamilyvlog
     - **Best for:** Stargazing — Ranked #10 in Adventure Family Vlog's '10 Places in America Where the Night Sky Doesn't Look Real' — picked as one of America's most incredible dark-sky destinations for stargazing and Milky Way photography.
   - 🎬 Also recommended by: [California has the most National Parks of any state — California park awards](https://www.instagram.com/p/Db1ZgXlkvoe/) by @kelleyandcarlsadventures
     - **Best for:** National park / California award: Most Whimsical — Kelley & Carl's California park awards: Joshua Tree is 'Most Whimsical' — 'With its quirky, spiky trees and gravity-defying rock formations, Joshua Tree is one of the most whimsical landscapes in the National Park System.'
+  - 🎬 Also recommended by: [5 desert national parks to visit this winter](https://www.instagram.com/p/DRU7AlWCXrx/) by @kelleyandcarlsadventures
+    - **Best for:** Winter visit / Desert parks for winter — Joshua Tree is one of Kelley & Carl's 5 desert parks to visit in winter — daytime highs around 60°F-plus and sunny skies, but nights below freezing.
 
 ### Julia Pfeiffer Burns State Park
 
@@ -5476,7 +6225,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Redwood canyon loop to coastal ridge views
 
-- **46. [Ewoldsen Trail](https://www.google.com/maps/search/?api=1&query=Ewoldsen+Trail+Julia+Pfeiffer+Burns+State+Park+CA)** — Julia Pfeiffer Burns State Park, Big Sur
+- **47. [Ewoldsen Trail](https://www.google.com/maps/search/?api=1&query=Ewoldsen+Trail+Julia+Pfeiffer+Burns+State+Park+CA)** — Julia Pfeiffer Burns State Park, Big Sur
   - **Best for:** Hike · Redwood canyon loop to coastal ridge views — One of the four hikes the reel names under its #4 Big Sur pick: the loop up McWay Creek through redwood forest to open coastal ridge views — often called the best day hike in Big Sur.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/ewoldsen-trail)
   - Pin is the Ewoldsen Trailhead at the park's main parking area. AllTrails listed the trail as closed in fall 2026 due to fire damage — check current conditions before going.
@@ -5484,14 +6233,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Short trail through a rock tunnel to a hidden cove
 
-- **47. [Partington Cove](https://www.google.com/maps/search/?api=1&query=Partington+Cove+Big+Sur+CA)** — Julia Pfeiffer Burns State Park, Big Sur
+- **48. [Partington Cove](https://www.google.com/maps/search/?api=1&query=Partington+Cove+Big+Sur+CA)** — Julia Pfeiffer Burns State Park, Big Sur
   - **Best for:** Hike · Short trail through a rock tunnel to a hidden cove — One of the four spots the reel names under its #4 Big Sur pick: a short, steep trail down through a hand-carved tunnel to a turquoise cove once used to load tanbark onto ships.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/partington-cove-trail)
   - 🎬 Source: [7 hikes that will ruin every other hike for you](https://www.instagram.com/reel/De7CHmAMQoz/) by @discover_california_ (#None in that reel)
 
 ##### Waterfall · 80-foot falls onto a Big Sur beach cove
 
-- **48. [McWay Falls](https://www.google.com/maps/search/?api=1&query=McWay+Falls+Big+Sur+CA)** — Julia Pfeiffer Burns State Park, Big Sur
+- **49. [McWay Falls](https://www.google.com/maps/search/?api=1&query=McWay+Falls+Big+Sur+CA)** — Julia Pfeiffer Burns State Park, Big Sur
   - **Best for:** Waterfall · 80-foot falls onto a Big Sur beach cove — One of the four hikes the reel names under its #4 pick, 'literally anything in Big Sur': the 80-foot waterfall that drops onto the sand of McWay Cove, seen from the short Overlook Trail.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/overlook-trail-to-mcway-falls-and-saddle-rock)
   - AllTrails listed the Overlook Trail as closed in fall 2026 (fire damage); the falls remain viewable from Highway 1 pullouts — check current conditions.
@@ -5509,7 +6258,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach · Black-sand beach — sunset and whale watching
 
-- **49. [Black Sands Beach](https://www.google.com/maps/search/?api=1&query=Black+Sands+Beach+Shelter+Cove+CA)** — King Range National Conservation Area (Shelter Cove), Shelter Cove
+- **50. [Black Sands Beach](https://www.google.com/maps/search/?api=1&query=Black+Sands+Beach+Shelter+Cove+CA)** — King Range National Conservation Area (Shelter Cove), Shelter Cove
   - **Best for:** Beach · Black-sand beach — sunset and whale watching — The reel's #1 pick: a dramatic black sand beach at Shelter Cove on the Lost Coast, surrounded by rugged cliffs and crashing waves. Time your visit for sunset, and if you're lucky you'll spot whales offshore; winter brings the dramatic moody weather shown in the reel.
   - 🎬 Source: [7 hikes that will ruin every other hike for you](https://www.instagram.com/reel/De7CHmAMQoz/) by @discover_california_ (#1 in that reel)
 
@@ -5519,13 +6268,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Featured spot (guessing game)
 
-- **50. [Ella Falls](https://www.google.com/maps/search/?api=1&query=Ella+Falls+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
+- **51. [Ella Falls](https://www.google.com/maps/search/?api=1&query=Ella+Falls+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
   - **Best for:** Featured spot (guessing game) — Fourth photo, correctly identified as Kings Canyon National Park, Ella Falls, showing a waterfall.
   - 🎬 Source: [Guess the National Park game — Ella Falls](https://www.instagram.com/reel/DepK7AbMgFF/) by @amorywild (#None in that reel)
 
 ##### Hike
 
-- **51. [General Grant Tree](https://www.google.com/maps/search/?api=1&query=General+Grant+Tree+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
+- **52. [General Grant Tree](https://www.google.com/maps/search/?api=1&query=General+Grant+Tree+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
   - **Best for:** Hike / Short loop to the world's second-largest tree, the Nation's Christmas Tree — Rated 7/10 in Kelley & Carl's honest ratings for California national park hikes (part 2, as the 'General Grant Trail'): the General Grant Tree in Grant Grove — the world's second-largest tree and the only living National Shrine, memorializing the nation's war dead. Also a named highlight on their California road trip.
   - Pin is the OSM General Grant Tree point in Grant Grove.
   - 🎬 Source: [Honest ratings for California national park hikes — part 2](https://www.instagram.com/p/DaN7_7Jlkhq/) by @kelleyandcarlsadventures (#None in that reel)
@@ -5533,7 +6282,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / Road-trip highlight — General Grant Tree (Kings Canyon stop) — A named highlight of the Kings Canyon stop on Kelley & Carl's 4-park California road trip.
   - 🎬 Also recommended by: [4 national parks, 1 epic road trip — California](https://www.instagram.com/p/DfWCdSdPdQo/) by @kelleyandcarlsadventures
     - **Best for:** Tree / Kings Canyon highlight — The General Grant Tree is a Kings Canyon highlight on Kelley & Carl's California road trip.
-- **52. [Zumwalt Meadow](https://www.google.com/maps/search/?api=1&query=Zumwalt+Meadow+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Cedar Grove
+- **53. [Zumwalt Meadow](https://www.google.com/maps/search/?api=1&query=Zumwalt+Meadow+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Cedar Grove
   - **Best for:** Hike / Meadow loop beneath the Kings Canyon walls at Roads End — Rated 8/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): Zumwalt Meadow, the flat loop at Roads End in Kings Canyon beneath towering granite walls and the Kings River. Also a named highlight on their California road trip, and their Kings Canyon stand-in for its 'Most Surprising' California park award.
   - Pin is the OSM Zumwalt Meadow point at Roads End, Cedar Grove.
   - 🎬 Source: [Honest ratings for California national park hikes — part 1](https://www.instagram.com/p/DaGBkNBFglC/) by @kelleyandcarlsadventures (#None in that reel)
@@ -5552,7 +6301,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **53. [Kings Canyon Scenic Byway](https://www.google.com/maps/search/?api=1&query=Kings+Canyon+Scenic+Byway+CA)** — Kings Canyon National Park, Grant Grove
+- **54. [Kings Canyon Scenic Byway](https://www.google.com/maps/search/?api=1&query=Kings+Canyon+Scenic+Byway+CA)** — Kings Canyon National Park, Grant Grove
   - **Best for:** Scenic drive — One of the five: the Kings Canyon Scenic Byway — a narrow road carved between steep rocky canyon walls as it descends into Kings Canyon, following the Kings River toward Roads End.
   - Pin is OpenStreetMap's Kings Canyon Scenic Byway road point deep in the canyon (Highway 180).
   - 🎬 Source: [5 Most Scenic Drives in California](https://www.instagram.com/reel/DeyC-4UzfHd/) by @asyatravels (#None in that reel)
@@ -5567,7 +6316,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · 165-mile trail ringing Lake Tahoe
 
-- **54. [Tahoe Rim Trail](https://www.google.com/maps/search/?api=1&query=Tahoe+Rim+Trail)** — Lake Tahoe Basin, Tahoe City
+- **55. [Tahoe Rim Trail](https://www.google.com/maps/search/?api=1&query=Tahoe+Rim+Trail)** — Lake Tahoe Basin, Tahoe City
   - **Best for:** Hike · 165-mile trail ringing Lake Tahoe — The reel's opener: the 165-mile Tahoe Rim Trail, filmed on a narrow cliffside section high above Lake Tahoe's big blue water.
   - Pin sits on the trail's west-shore segment above Lake Tahoe; the 165-mile trail rings the lake across California and Nevada.
   - 🎬 Source: [Epic USA hikes — how many have you done?](https://www.instagram.com/reel/DfVZYUEytWt/) by @ashleyemckee (#None in that reel)
@@ -5578,7 +6327,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Featured spot (guessing game)
 
-- **55. [Manzanita Lake](https://www.google.com/maps/search/?api=1&query=Manzanita+Lake+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Manzanita Lake
+- **56. [Manzanita Lake](https://www.google.com/maps/search/?api=1&query=Manzanita+Lake+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Manzanita Lake
   - **Best for:** Featured spot (guessing game) — Final photo, revealed as Lassen Volcanic National Park, Manzanita Lake, showing a lake with snow-capped mountains.
   - 🎬 Source: [Guess the National Park game — Manzanita Lake](https://www.instagram.com/reel/DepK7AbMgFF/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [The ultimate list of underrated US National Parks](https://www.instagram.com/p/Dc6Wq5TmzRX/) by @kelleyandcarlsadventures
@@ -5592,13 +6341,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **56. [Bumpass Hell](https://www.google.com/maps/search/?api=1&query=Bumpass+Hell+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **57. [Bumpass Hell](https://www.google.com/maps/search/?api=1&query=Bumpass+Hell+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Hike / Boardwalk through the park's largest hydrothermal area — Named in Kelley & Carl's Lassen Volcanic feature post: Bumpass Hell is Lassen's biggest geothermal area — boiling springs, mud pots and fumaroles reached by a ~3-mile round-trip trail and boardwalk.
   - Pin is the OSM Bumpass Hell point.
   - 🎬 Source: [Could be the most underrated US National Park — Lassen Volcanic](https://www.instagram.com/p/Da0j5peFlhS/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures
     - **Best for:** Hydrothermal / Lassen Volcanic must-see — Bumpass Hell is a Lassen Volcanic must-see on Kelley & Carl's Reno-to-redwoods road trip.
-- **57. [Cinder Cone Trail](https://www.google.com/maps/search/?api=1&query=Cinder+Cone+Trail+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **58. [Cinder Cone Trail](https://www.google.com/maps/search/?api=1&query=Cinder+Cone+Trail+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Hike / Climb a 700-foot cinder cone past the Painted Dunes and Fantastic Lava Beds — Rated a perfect 10/10 in Kelley & Carl's honest ratings for California national park hikes (part 2) — the best-rated California hike on their list. The trail climbs the loose cinder cone above Butte Lake for views over the Painted Dunes, Fantastic Lava Beds and Lassen Peak. Also their Lassen photography pick.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/cinder-cone-trail--2)
   - Pin is the NPS place-record point for the Cinder Cone trailhead at Butte Lake; the cone itself rises about a mile northwest of the trailhead.
@@ -5617,7 +6366,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / On their 'California is so much more than Los Angeles' list — One of the showcases in Kelley & Carl's 'California is so much more than Los Angeles' carousel: the Cinder Cone at Lassen Volcanic, with Mount Shasta in the distance.
   - 🎬 Also recommended by: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Lassen Volcanic must-see — The Cinder Cone Trail is a Lassen Volcanic must-see on Kelley & Carl's Reno-to-redwoods road trip.
-- **58. [Lassen Peak](https://www.google.com/maps/search/?api=1&query=Lassen+Peak+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **59. [Lassen Peak](https://www.google.com/maps/search/?api=1&query=Lassen+Peak+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Hike / Summit trail up the park's namesake volcano — Named in Kelley & Carl's Lassen Volcanic feature post (quoting their checklist): the Lassen Peak Trail climbs the largest plug-dome volcano in the world — 5 miles round trip with about 2,000 ft of gain to the 10,457-ft summit.
   - Pin is the OSM Lassen Peak summit point.
   - 🎬 Source: [Could be the most underrated US National Park — Lassen Volcanic](https://www.instagram.com/p/Da0j5peFlhS/) by @kelleyandcarlsadventures (#None in that reel)
@@ -5626,7 +6375,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### National park
 
-- **59. [Lassen Volcanic National Park](https://www.google.com/maps/search/?api=1&query=Lassen+Volcanic+National+Park+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Mineral
+- **60. [Lassen Volcanic National Park](https://www.google.com/maps/search/?api=1&query=Lassen+Volcanic+National+Park+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Mineral
   - **Best for:** National park / All four volcano types in one park — Kelley & Carl's dedicated feature calls Lassen Volcanic 'could be the most underrated US National Park': hike past steaming fumaroles, bubbling mud pots, crystal-clear alpine lakes, lava fields and volcanoes — one of the few places on earth with all four major volcano types. They rate it 9/10 among parks visited in 2026 and 'Most Overlooked' in their California awards.
   - Pin is the Kohm Yah-mah-nee Visitor Center point at the park's southwest entrance.
   - 🎬 Source: [Could be the most underrated US National Park — Lassen Volcanic](https://www.instagram.com/p/Da0j5peFlhS/) by @kelleyandcarlsadventures (#None in that reel)
@@ -5635,11 +6384,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **60. [Lake Helen](https://www.google.com/maps/search/?api=1&query=Lake+Helen+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **61. [Lake Helen](https://www.google.com/maps/search/?api=1&query=Lake+Helen+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Viewpoint / Alpine lake mirroring Lassen Peak on the park highway — Named in Kelley & Carl's Lassen Volcanic feature post: Lake Helen, the deep-blue alpine lake at the base of Lassen Peak along the park highway — famous for mirror reflections of the peak on calm mornings.
   - Pin is the OSM Lake Helen point.
   - 🎬 Source: [Could be the most underrated US National Park — Lassen Volcanic](https://www.instagram.com/p/Da0j5peFlhS/) by @kelleyandcarlsadventures (#None in that reel)
-- **61. [Sulphur Works](https://www.google.com/maps/search/?api=1&query=Sulphur+Works+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **62. [Sulphur Works](https://www.google.com/maps/search/?api=1&query=Sulphur+Works+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Viewpoint / Roadside fumaroles and boiling mud pots by the park highway — Named in Kelley & Carl's Lassen Volcanic feature post: Sulphur Works is the park's drive-up hydrothermal area right on the Lassen Volcanic National Park Highway — steaming vents and mud pots from a sidewalk viewpoint.
   - Pin is the OSM Sulphur Works attraction point.
   - 🎬 Source: [Could be the most underrated US National Park — Lassen Volcanic](https://www.instagram.com/p/Da0j5peFlhS/) by @kelleyandcarlsadventures (#None in that reel)
@@ -5652,7 +6401,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · A two-tier cascade in a fern-lined canyon
 
-- **62. [Linda Falls](https://www.google.com/maps/search/?api=1&query=Linda+Falls+Napa)** — Linda Falls Preserve (Land Trust of Napa County), Angwin
+- **63. [Linda Falls](https://www.google.com/maps/search/?api=1&query=Linda+Falls+Napa)** — Linda Falls Preserve (Land Trust of Napa County), Angwin
   - **Best for:** Waterfall · A two-tier cascade in a fern-lined canyon — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Linda Falls near Angwin in Napa County — a two-tier waterfall on Conn Creek in a shady, fern-lined canyon, protected as a Land Trust of Napa County preserve; a short trail in from the trailhead on Howell Mountain Road.
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#5 in that reel)
 
@@ -5662,7 +6411,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **63. [Hawk Hill](https://www.google.com/maps/search/?api=1&query=Hawk+Hill+Marin+Headlands+Sausalito+CA)** — Marin Headlands, Sausalito
+- **64. [Hawk Hill](https://www.google.com/maps/search/?api=1&query=Hawk+Hill+Marin+Headlands+Sausalito+CA)** — Marin Headlands, Sausalito
   - **Best for:** Viewpoint — It looks like Hawaii's Stairway to Heaven, but it's just north of San Francisco: an easy climb of about 650 steps from the parking area to panoramic views — the Pacific on one side, the Golden Gate Bridge on the other. No long hike, free parking off Conzelman Road.
   - Pin is OpenStreetMap's Hawk Hill peak point on Conzelman Road in the Marin Headlands (Golden Gate National Recreation Area); the reel's listed address is Hawk Hill, Conzelman Rd, Sausalito, CA 94965.
   - 🎬 Source: [Hawk Hill — a 'Stairway to Heaven' viewpoint over the Golden Gate](https://www.instagram.com/reel/DeHzMiJMX64/) by @anjali_wandersoul (#None in that reel)
@@ -5673,14 +6422,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Coastal hike
 
-- **64. [Rodeo Beach to Hill 88](https://www.google.com/maps/search/?api=1&query=Hill+88+Marin+Headlands)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
+- **65. [Rodeo Beach to Hill 88](https://www.google.com/maps/search/?api=1&query=Hill+88+Marin+Headlands)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
   - **Best for:** Coastal hike / Summit · WWII-era radar site above Rodeo Beach — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The climb from Rodeo Beach up to Hill 88 in the Marin Headlands — a Cold War-era radar station ruin on the summit, with huge views over Rodeo Beach, the headlands, and the Pacific; usually looped via the Coastal and Wolf Ridge trails.
   - Pin is the OSM peak point for Hill 88, the hike's summit above Rodeo Beach.
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#8 in that reel)
 
 ##### Hike
 
-- **65. [Morning Sun Trail](https://www.google.com/maps/search/?api=1&query=Morning+Sun+Trail+Sausalito)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
+- **66. [Morning Sun Trail](https://www.google.com/maps/search/?api=1&query=Morning+Sun+Trail+Sausalito)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
   - **Best for:** Hike / Coastal views · Short climb above the Golden Gate's north end — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The Morning Sun Trail in the Marin Headlands — a short, steep climb from the Fort Baker side up to Slacker Ridge, with views back over the Golden Gate Bridge and the bay.
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#2 in that reel)
 
@@ -5690,7 +6439,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · 129-ft spring-fed falls flowing year-round
 
-- **66. [Burney Falls](https://www.google.com/maps/search/?api=1&query=Burney+Falls+California)** — McArthur-Burney Falls Memorial State Park, Burney
+- **67. [Burney Falls](https://www.google.com/maps/search/?api=1&query=Burney+Falls+California)** — McArthur-Burney Falls Memorial State Park, Burney
   - **Best for:** Waterfall · 129-ft spring-fed falls flowing year-round — Known as the '8th Wonder of the World' (Theodore Roosevelt's phrase): Burney Falls, just outside the tiny town of Burney, California — and it's only a short walk from the parking lot. The 129-foot falls push through about 100 million gallons of water a day, and because they're mainly fed by underground springs they flow all year round. A little over an hour from Redding, which the reel suggests as home base. Note from the reel: during peak summer season, weekend visits need a reservation booked in advance (none needed after late September).
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/burney-falls-loop-trail)
   - 🎬 Source: [Known as the '8th Wonder of the World' — Burney Falls](https://www.instagram.com/reel/DdttHNRPV8i/) by @wanderlusttravelcouple (#None in that reel)
@@ -5703,7 +6452,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **67. [Monterey Bay](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Monterey+CA)** — Monterey Bay, Monterey
+- **68. [Monterey Bay](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Monterey+CA)** — Monterey Bay, Monterey
   - **Best for:** Sunrise — Caption names a sunrise at Monterey Bay, CA; the tagged location is Monterey Pier. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Pin is Old Fisherman's Wharf in Monterey, matching the post's tagged location (Monterey Pier); Nominatim's Monterey Bay centroid sits offshore in the bay and was rejected as a pin.
   - 🎬 Source: [Sunrise — Monterey Bay](https://www.instagram.com/reel/DGQSaK9O-gV/) by @amorywild (#None in that reel)
@@ -5714,7 +6463,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · Springs pouring from a moss-covered cliff
 
-- **68. [Mossbrae Falls](https://www.google.com/maps/search/?api=1&query=Mossbrae+Falls+Dunsmuir+CA)** — Mossbrae Falls, Dunsmuir
+- **69. [Mossbrae Falls](https://www.google.com/maps/search/?api=1&query=Mossbrae+Falls+Dunsmuir+CA)** — Mossbrae Falls, Dunsmuir
   - **Best for:** Waterfall · Springs pouring from a moss-covered cliff — A breathtaking waterfall whose cascades pour straight out of a moss-covered cliff into the Sacramento River below.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/mossbrae-falls)
   - Access warning from the reel itself: reaching the falls requires walking along private, active railroad tracks, so visit only if you understand and accept the risks. AllTrails lists the route as closed / private property.
@@ -5726,7 +6475,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **69. [Steep Ravine Trail](https://www.google.com/maps/search/?api=1&query=Steep+Ravine+Trail+Mount+Tamalpais)** — Mount Tamalpais State Park, Stinson Beach
+- **70. [Steep Ravine Trail](https://www.google.com/maps/search/?api=1&query=Steep+Ravine+Trail+Mount+Tamalpais)** — Mount Tamalpais State Park, Stinson Beach
   - **Best for:** Hike / Redwood ravine · Ladders and cascades in a fern-filled gorge — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The Steep Ravine Trail on Mount Tamalpais — a fern- and redwood-filled ravine along Webb Creek with small cascades and the trail's famous wooden ladder, usually looped with the Dipsea and Matt Davis trails between Pantoll and Stinson Beach.
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#7 in that reel)
 
@@ -5736,7 +6485,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **70. [Cataract Falls](https://www.google.com/maps/search/?api=1&query=Cataract+Falls+Marin)** — Mount Tamalpais Watershed, Fairfax
+- **71. [Cataract Falls](https://www.google.com/maps/search/?api=1&query=Cataract+Falls+Marin)** — Mount Tamalpais Watershed, Fairfax
   - **Best for:** Waterfall / Hike · A staircase of cascades along Cataract Creek — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Cataract Falls on the slopes of Mount Tamalpais — not one fall but a staircase of cascades along Cataract Creek through redwoods, at its best after rain; the Cataract Trail climbs ~3 miles out-and-back from Bolinas-Fairfax Road past Alpine Lake.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/cataract-falls-trail)
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#9 in that reel)
@@ -5747,7 +6496,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **71. [17-Mile Drive](https://www.google.com/maps/search/?api=1&query=17-Mile+Drive+Pebble+Beach+CA)** — Pebble Beach, Pebble Beach
+- **72. [17-Mile Drive](https://www.google.com/maps/search/?api=1&query=17-Mile+Drive+Pebble+Beach+CA)** — Pebble Beach, Pebble Beach
   - **Best for:** Scenic drive — One of the five: the 17-Mile Drive through Pebble Beach — a tree-lined coastal road the reel shows bathed in golden sunset light, past cypress trees and ocean viewpoints.
   - Pin is an OpenStreetMap point on 17-Mile Drive itself in Pebble Beach (Del Monte Forest), on the Monterey Peninsula.
   - 🎬 Source: [5 Most Scenic Drives in California](https://www.instagram.com/reel/DeyC-4UzfHd/) by @asyatravels (#None in that reel)
@@ -5758,7 +6507,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **72. [High Peaks Trail](https://www.google.com/maps/search/?api=1&query=High+Peaks+Trail+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
+- **73. [High Peaks Trail](https://www.google.com/maps/search/?api=1&query=High+Peaks+Trail+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
   - **Best for:** Hike — Caption names the High Peaks Trail, Pinnacles National Park. The video follows a hiker in first person on a dirt path through hilly country, then pans to rolling hills covered in dry grass and scattered trees under a partly cloudy sky — a peaceful, contemplative walk.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/high-peaks-trail)
   - Pin is an OSM path point on the High Peaks Trail in the park's high country.
@@ -5771,14 +6520,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Pinnacles highlight — High Peaks is a Pinnacles highlight on Kelley & Carl's California road trip, with the Balconies and Bear Gulch Reservoir.
   - 🎬 Also recommended by: [High Peaks Trail — a crazy bucket list hike at Pinnacles](https://www.instagram.com/p/DeaPF1lJZ0Z/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / 'California's version of Angels Landing' — Kelley & Carl's High Peaks Trail guide calls it California's version of Angels Landing: steep switchbacks and narrow, handrail-assisted sections carved through Pinnacles' volcanic spires. Their recommended routes: the Condor Gulch to High Peaks loop, the High Peaks & Balconies Cave loop, or Juniper Canyon to High Peaks. Rated hard, though they found it more fun than fearsome. Two warnings: summer heat is intense (carry more water than you think), and keep your eyes on the skies — the High Peaks are one of the best places in the country to spot California condors.
-- **73. [Moses Spring and Rim Trail Loop](https://www.google.com/maps/search/?api=1&query=Moses+Spring+and+Rim+Trail+Loop+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
+- **74. [Moses Spring and Rim Trail Loop](https://www.google.com/maps/search/?api=1&query=Moses+Spring+and+Rim+Trail+Loop+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
   - **Best for:** Hike / Talus caves and a reservoir on Pinnacles' east side — Rated just 4/10 in Kelley & Carl's honest ratings for California national park hikes (part 1) — their lowest California score: the Moses Spring and Rim Trail Loop passes talus caves to the Bear Gulch Reservoir on Pinnacles' east side.
   - Pin is the OSM Moses Spring point at Bear Gulch, Pinnacles National Park.
   - 🎬 Source: [Honest ratings for California national park hikes — part 1](https://www.instagram.com/p/DaGBkNBFglC/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Underrated park
 
-- **74. [Pinnacles National Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+National+Park+Pinnacles+National+Park+CA)** — Pinnacles National Park, Paicines
+- **75. [Pinnacles National Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+National+Park+Pinnacles+National+Park+CA)** — Pinnacles National Park, Paicines
   - **Best for:** Underrated park — His #3 underrated park: rocky pinnacle formations, a cave passage with light streaming through, a calm reservoir, and a California condor perched on a tree.
   - Park-level pin is the park's Nominatim point.
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#3 in that reel)
@@ -5795,7 +6544,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **75. [Pinole](https://www.google.com/maps/search/?api=1&query=Pinole+Pinole+CA)** — , Pinole
+- **76. [Pinole](https://www.google.com/maps/search/?api=1&query=Pinole+Pinole+CA)** — , Pinole
   - **Best for:** Hike — Caption names only Pinole, CA, tagged #hiking and #nature — no specific trail or spot in Pinole is named, so this entry is at the town level. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - Town-level entry: the post names only Pinole and no specific trail or spot, and the entry rests on the caption/tag only.
   - 🎬 Source: [Local hike — Pinole](https://www.instagram.com/reel/DGA5UZPOSdQ/) by @amorywild (#None in that reel)
@@ -5806,7 +6555,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Turquoise coves, sea lions and coastal trails
 
-- **76. [Point Lobos](https://www.google.com/maps/search/?api=1&query=Point+Lobos+State+Natural+Reserve+CA)** — Point Lobos State Natural Reserve, Carmel-by-the-Sea
+- **77. [Point Lobos](https://www.google.com/maps/search/?api=1&query=Point+Lobos+State+Natural+Reserve+CA)** — Point Lobos State Natural Reserve, Carmel-by-the-Sea
   - **Best for:** Hike · Turquoise coves, sea lions and coastal trails — One of the most beautiful coastal parks in California — turquoise coves, sea lions, and some of the clearest ocean views you'll find anywhere. The reel warns it has become extremely popular: visit outside peak season and peak days for a more enjoyable experience.
   - 🎬 Source: [7 hikes that will ruin every other hike for you](https://www.instagram.com/reel/De7CHmAMQoz/) by @discover_california_ (#7 in that reel)
   - 🎬 Also recommended by: [4 National Parks, 1 epic road trip — Yosemite, Kings Canyon, Sequoia & Pinnacles](https://www.instagram.com/p/DbdrYGSFH6P/) by @kelleyandcarlsadventures
@@ -5820,14 +6569,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **77. [Point Reyes National Seashore](https://www.google.com/maps/search/?api=1&query=Point+Reyes+National+Seashore+Point+Reyes+National+Seashore+CA)** — Point Reyes National Seashore, Point Reyes Station
+- **78. [Point Reyes National Seashore](https://www.google.com/maps/search/?api=1&query=Point+Reyes+National+Seashore+Point+Reyes+National+Seashore+CA)** — Point Reyes National Seashore, Point Reyes Station
   - **Best for:** Viewpoint / Windy headlands, lighthouse country and tule elk north of San Francisco — From Kelley & Carl's 'California is so much more than Los Angeles' carousel: the dramatic ocean overlook at Point Reyes National Seashore — foggy headlands, beaches and wildlife an hour north of San Francisco.
   - Pin is the OSM Point Reyes National Seashore point near the peninsula's center; the lighthouse and Chimney Rock sit at its western tip.
   - 🎬 Source: [California is so much more than Los Angeles](https://www.instagram.com/p/DZ5QvnJFrWG/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Waterfall
 
-- **78. [Alamere Falls](https://www.google.com/maps/search/?api=1&query=Alamere+Falls+Point+Reyes)** — Point Reyes National Seashore, Bolinas
+- **79. [Alamere Falls](https://www.google.com/maps/search/?api=1&query=Alamere+Falls+Point+Reyes)** — Point Reyes National Seashore, Bolinas
   - **Best for:** Waterfall / Hike · A tidefall pouring onto the beach — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Alamere Falls — one of California's rare tidefalls, pouring over the cliff straight onto Wildcat Beach in Point Reyes. Reached on the Coast Trail from the Palomarin trailhead (the long way, ~13-14 miles round trip via Wildcat Camp, is the safe official route — stay on park trails to the beach rather than the eroded shortcut).
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#3 in that reel)
 
@@ -5837,7 +6586,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Flat redwood loop through ferns and moss
 
-- **79. [Karl Knapp Trail](https://www.google.com/maps/search/?api=1&query=Karl+Knapp+Trail+Prairie+Creek+Redwoods+CA)** — Prairie Creek Redwoods State Park, Orick
+- **80. [Karl Knapp Trail](https://www.google.com/maps/search/?api=1&query=Karl+Knapp+Trail+Prairie+Creek+Redwoods+CA)** — Prairie Creek Redwoods State Park, Orick
   - **Best for:** Hike · Flat redwood loop through ferns and moss — The creator's favorite redwood hike of all time: a gorgeous, mostly flat loop (also signed as the Prairie Creek Trail) through a lush redwood forest filled with ferns, moss, and towering trees.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/prairie-creek-trail-and-foothill-trail-loop)
   - 🎬 Source: [7 hikes that will ruin every other hike for you](https://www.instagram.com/reel/De7CHmAMQoz/) by @discover_california_ (#2 in that reel)
@@ -5848,13 +6597,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach
 
-- **80. [Gold Bluffs Beach](https://www.google.com/maps/search/?api=1&query=Gold+Bluffs+Beach+Redwood+National+Park+CA)** — Redwood National Park, Redwood National Park
+- **81. [Gold Bluffs Beach](https://www.google.com/maps/search/?api=1&query=Gold+Bluffs+Beach+Redwood+National+Park+CA)** — Redwood National Park, Redwood National Park
   - **Best for:** Beach / View — Caption names Gold Bluffs Beach, Redwood National Park. The video shows the dark sand beach under an overcast sky, a stream flowing across the sand into the ocean, white-capped waves, and a misty forested hillside — a solitary, meditative shoreline scene set to Satie's 'Gymnopédie No. 1.'
   - 🎬 Source: [Beach scenery — Gold Bluffs Beach](https://www.instagram.com/reel/DF_SMJdSxhL/) by @amorywild (#None in that reel)
 
 ##### Hike
 
-- **81. [Fern Canyon](https://www.google.com/maps/search/?api=1&query=Fern+Canyon+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- **82. [Fern Canyon](https://www.google.com/maps/search/?api=1&query=Fern+Canyon+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Hike — Ranked #5 unique hike, a lush narrow canyon with fern-covered walls and a shallow rocky stream, noted as a Jurassic Park filming location.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/fern-canyon-loop-trail)
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#5 in that reel)
@@ -5866,7 +6615,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / On their 'California is so much more than Los Angeles' list — One of the showcases in Kelley & Carl's 'California is so much more than Los Angeles' carousel: Fern Canyon's fern-covered walls.
   - 🎬 Also recommended by: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Redwoods must-see — Fern Canyon is a Redwoods must-see on Kelley & Carl's Reno-to-redwoods road trip.
-- **82. [Lady Bird Johnson Grove](https://www.google.com/maps/search/?api=1&query=Lady+Bird+Johnson+Grove+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- **83. [Lady Bird Johnson Grove](https://www.google.com/maps/search/?api=1&query=Lady+Bird+Johnson+Grove+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Hike / Giant trees · Bonus — the carousel's cover grove — The carousel's bonus cover shot: Lady Bird Johnson Grove in Redwood National Park, California — a ridgetop old-growth redwood loop off Bald Hills Road, at the site where the park was dedicated in 1968. (Kelley & Carl's National Park Checklist lists the same Lady Bird Johnson Grove Trail: 1.4 miles, 100 ft gain, rated easy.)
   - Pin is the published Lady Bird Johnson Grove parking/trailhead point on Bald Hills Road.
   - 🎬 Source: [10 hikes among giant trees across the USA](https://www.instagram.com/p/DfgBZshmdho/) by @nationalparksguide (#None in that reel)
@@ -5875,19 +6624,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **83. [Tall Trees Grove](https://www.google.com/maps/search/?api=1&query=Tall+Trees+Grove+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- **84. [Tall Trees Grove](https://www.google.com/maps/search/?api=1&query=Tall+Trees+Grove+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Hiking / Permitted grove of record-breaking redwoods — A Redwoods must-see on Kelley & Carl's Reno-to-redwoods road trip — Tall Trees Grove, the permit-only descent to the Redwood Creek grove that held the world's tallest known tree.
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Overlook
 
-- **84. [Klamath Overlook](https://www.google.com/maps/search/?api=1&query=Klamath+Overlook+Redwood+National+Park+CA)** — Redwood National Park, Klamath
+- **85. [Klamath Overlook](https://www.google.com/maps/search/?api=1&query=Klamath+Overlook+Redwood+National+Park+CA)** — Redwood National Park, Klamath
   - **Best for:** Overlook / Where the Klamath River meets the Pacific — A Redwoods must-see on Kelley & Carl's Reno-to-redwoods road trip — the Klamath Overlook, watching the river pour into the Pacific (and, in season, migrating gray whales).
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
 
 ##### Wildlife
 
-- **85. [Redwood National Park](https://www.google.com/maps/search/?api=1&query=Redwood+National+Park+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- **86. [Redwood National Park](https://www.google.com/maps/search/?api=1&query=Redwood+National+Park+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Wildlife — Captioned 'Elk in Redwood National Park,' tagged #wildlife — a park-level wildlife sighting; no specific spot in the park is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - Park-level pin is the Thomas H. Kuchel Visitor Center near Orick, the park's main visitor centre.
   - 🎬 Source: [Wildlife — Redwood National Park](https://www.instagram.com/reel/DGDnqjQJTNP/) by @amorywild (#None in that reel)
@@ -5902,7 +6651,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach
 
-- **86. [Shark Fin Cove](https://www.google.com/maps/search/?api=1&query=Shark+Fin+Cove+Davenport+CA)** — Santa Cruz coast, Davenport
+- **87. [Shark Fin Cove](https://www.google.com/maps/search/?api=1&query=Shark+Fin+Cove+Davenport+CA)** — Santa Cruz coast, Davenport
   - **Best for:** Beach / Coastal view — Caption names Shark Fin Cove, Santa Cruz, CA. The video pans across the cove's layered cliffs and rock formations as waves crash into the shore and tide pools — a raw, tranquil stretch of coast.
   - Shark Fin Cove is at Davenport, on the Santa Cruz County coast north of the city of Santa Cruz.
   - 🎬 Source: [Coastal scenery — Shark Fin Cove](https://www.instagram.com/reel/DGTJLhSJzu2/) by @amorywild (#None in that reel)
@@ -5915,7 +6664,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **87. [Big Trees Trail](https://www.google.com/maps/search/?api=1&query=Big+Trees+Trail+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **88. [Big Trees Trail](https://www.google.com/maps/search/?api=1&query=Big+Trees+Trail+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Hike / Giant trees · Paved loop around Round Meadow beneath giant sequoias — Ranked #2 of the carousel's 10 hikes among giant trees: a paved 0.7-mile loop circles Round Meadow beneath giant sequoias in Sequoia National Park, California. (Kelley & Carl's National Park Checklist independently lists the same Big Trees Trail: 1.2 miles, 110 ft gain, rated easy.)
   - Pin is the map's existing Sequoia National Park point in the Giant Forest / Round Meadow area — the Big Trees Trail trailhead sits at the Giant Forest Museum there.
   - 🎬 Source: [10 hikes among giant trees across the USA](https://www.instagram.com/p/DfgBZshmdho/) by @nationalparksguide (#2 in that reel)
@@ -5923,7 +6672,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / Road-trip highlight — Big Trees Trail (Sequoia stop) — A named highlight of the Sequoia stop on Kelley & Carl's 4-park California road trip, with the Congress Trail, Moro Rock and Tokopah Falls.
   - 🎬 Also recommended by: [4 national parks, 1 epic road trip — California](https://www.instagram.com/p/DfWCdSdPdQo/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Sequoia highlight — The Big Trees Trail is a Sequoia highlight on Kelley & Carl's California road trip.
-- **88. [Congress Trail](https://www.google.com/maps/search/?api=1&query=Congress+Trail+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **89. [Congress Trail](https://www.google.com/maps/search/?api=1&query=Congress+Trail+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Hike / Paved loop past the President Tree and the Senate and House groups — Rated 9/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): the Congress Trail loops from the General Sherman Tree through groves of giant sequoias — also on their most-rewarding and perfect-hikes lists. (Their National Park Checklist lists it at 2.9 miles, 255 ft gain.)
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/congress-trail)
   - Pin is the NPS place-record point for the Congress Trail in the Giant Forest.
@@ -5946,14 +6695,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite Sequoia activity, magical parks — Hiking the Congress Trail is Kelley & Carl's favorite Sequoia activity in their magical-parks list.
   - 🎬 Also recommended by: [16 national park hikes that belong on your bucket list](https://www.instagram.com/p/DV_iymmjj6H/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Bucket-list hike — The Congress Trail is one of the 16 national park hikes on Kelley & Carl's bucket list.
-- **89. [Trail of the Sequoias](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Sequoias+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — The Congress Trail (2.9-mile easy loop among the House and Senate sequoia groups) is one of Kelley & Carl's 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Easiest hikes with epic views — The Congress Trail (2.9-mile easy loop, 482 ft) is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — The Congress Trail (2.7 miles, 600 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
+- **90. [Trail of the Sequoias](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Sequoias+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Hike — Ranked #3 unique hike, where a hiker walks through massive hollowed-out giant sequoia trunks that emphasise their scale.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/trail-of-the-sequoias-via-congress-trail)
   - 🎬 Source: [My Top 5 Unique National Park Hikes](https://www.instagram.com/reel/Defo-jRMeAC/) by @amorywild (#3 in that reel)
 
+##### Scenic drive
+
+- **91. [Generals Highway](https://www.google.com/maps/search/?api=1&query=Generals+Highway+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+  - **Best for:** Scenic drive / Through the largest trees in the world by volume — One of the most beautiful national park roads in Kelley & Carl's list: the Generals Highway through Sequoia — 'a beautiful drive through the largest trees in the world by volume', climbing from the foothills up to the Giant Forest.
+  - Pin sits on the Generals Highway at the Giant Forest Museum (mile 16); coordinates from the NPS passport-stamp locator.
+  - 🎬 Source: [10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/) by @kelleyandcarlsadventures (#None in that reel)
+
 ##### Top national park
 
-- **90. [Sequoia National Park](https://www.google.com/maps/search/?api=1&query=Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **92. [Sequoia National Park](https://www.google.com/maps/search/?api=1&query=Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Top national park — Ranked #14, highlighting giant sequoia trees, mountain panoramas and a rushing river.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#14 in that reel)
   - 🎬 Also recommended by: [Places in the USA you need to visit before you die](https://www.instagram.com/reel/Dfc7s0XMtxX/) by @tedsalwaystraveling
@@ -5963,7 +6725,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **91. [Moro Rock](https://www.google.com/maps/search/?api=1&query=Moro+Rock+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **93. [Moro Rock](https://www.google.com/maps/search/?api=1&query=Moro+Rock+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** View — Ranked #2 for views, showing the stone staircase up Moro Rock and expansive views over layered mountain ranges.
   - 🎬 Source: [5 National Park Views That Blew My Mind](https://www.instagram.com/reel/DfIBY_LB8RS/) by @amorywild (#2 in that reel)
   - 🎬 Also recommended by: [Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/) by @amorywild
@@ -5975,7 +6737,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **92. [Tokopah Falls](https://www.google.com/maps/search/?api=1&query=Tokopah+Falls+Sequoia+National+Park+CA)** — Sequoia National Park, Lodgepole
+- **94. [Tokopah Falls](https://www.google.com/maps/search/?api=1&query=Tokopah+Falls+Sequoia+National+Park+CA)** — Sequoia National Park, Lodgepole
   - **Best for:** Waterfall — Ranked #2 waterfall, a large fall cascading down granite slabs with a hiker visible for scale.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/tokopah-falls)
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#2 in that reel)
@@ -5990,7 +6752,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Peak
 
-- **93. [Dragon Mountain Peak](https://www.google.com/maps/search/?api=1&query=Dragon+Mountain+Park+Milpitas)** — Thiên Long Sơn (Dragon Mountain Park), Milpitas
+- **95. [Dragon Mountain Peak](https://www.google.com/maps/search/?api=1&query=Dragon+Mountain+Park+Milpitas)** — Thiên Long Sơn (Dragon Mountain Park), Milpitas
   - **Best for:** Peak / Stairs climb · Buddhist statues and valley views from a temple hill — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Dragon Mountain in Milpitas — the Thiên Long Sơn temple park: a 450+ step staircase climb past Buddhist statues to a grassy summit with views across Silicon Valley to Loma Prieta and Mount Umunhum. The out-and-back runs about 4 miles from the lower lot at 3215 Calaveras Rd; open sunrise to sunset, no dogs.
   - Pin is the OSM point for Dragon Mountain Park (the temple grounds); the summit boulders are above it on the trail.
   - 🎬 Source: [9 Bay Area Hikes You Don't Want to Miss](https://www.instagram.com/reel/DeneiZFxFGB/) by @bhuti_hikes (#1 in that reel)
@@ -6001,12 +6763,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **94. [Eagle Peak](https://www.google.com/maps/search/?api=1&query=Eagle+Peak+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **96. [Eagle Peak](https://www.google.com/maps/search/?api=1&query=Eagle+Peak+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike / View — His #3 hike: Eagle Peak in Yosemite National Park, praised for expansive views of Yosemite Valley, Half Dome, and surrounding granite cliffs.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/eagle-peak--6)
   - Pin is OSM's Eagle Peak point, verified inside a Yosemite-bounded search.
   - 🎬 Source: [Top 5 National Park Hikes](https://www.instagram.com/reel/Ddpitf0BMb-/) by @amorywild (#3 in that reel)
-- **95. [Four Mile Trail to Glacier Point](https://www.google.com/maps/search/?api=1&query=Four+Mile+Trail+to+Glacier+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- **97. [Four Mile Trail to Glacier Point](https://www.google.com/maps/search/?api=1&query=Four+Mile+Trail+to+Glacier+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Hike — Caption names the Four Mile Trail to Glacier Point in Yosemite as the post's hike. No media narrative was stored for this post, so this is based on the caption only.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/four-mile-trail)
   - Pin is Glacier Point, the destination of the Four Mile Trail.
@@ -6023,7 +6785,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Photo spot — Glacier Point in early morning light — Kelley & Carl's Yosemite photography pick: Glacier Point in early morning light — 'any time of day is stunning honestly, but something about the light in the early morning just hits different.'
   - 🎬 Also recommended by: [4 national parks, 1 epic road trip — California](https://www.instagram.com/p/DfWCdSdPdQo/) by @kelleyandcarlsadventures
     - **Best for:** Overlook / Yosemite highlight — Glacier Point is a Yosemite highlight on Kelley & Carl's California road trip, with Vernal Falls, Taft Point, Sentinel Dome and Tunnel View.
-- **96. [Half Dome](https://www.google.com/maps/search/?api=1&query=Half+Dome+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **98. [Half Dome](https://www.google.com/maps/search/?api=1&query=Half+Dome+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike / Yosemite's ultimate day hike — the cable route up the granite icon (permit required) — On Kelley & Carl's hardest-hikes lists: over 17 miles with over 5,300 ft of elevation gain, finishing with the famous cables — dangerous when wet, and a permit is required. The toughest climb on their list, and they say it can be worth it.
   - Pin is the OSM Half Dome summit point.
   - 🎬 Source: [Some of the hardest US National Park day hikes](https://www.instagram.com/p/DdPLIjdCanm/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6033,11 +6795,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Adventure park highlight, Yosemite — Half Dome — one of the most difficult day hikes out there — is Yosemite's named adventure in Kelley & Carl's adventure-parks list.
   - 🎬 Also recommended by: [10 of the hardest US national park day hikes](https://www.instagram.com/p/DU8qzKxidnT/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Hardest day hikes — Half Dome is one of Kelley & Carl's 10 hardest US national park day hikes — over 16 miles and 5,000 feet of gain, finishing with the cables; permit required.
-- **97. [Mariposa Grove](https://www.google.com/maps/search/?api=1&query=Mariposa+Grove+Yosemite+National+Park+CA)** — Yosemite National Park, Wawona
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — the cables — Half Dome (over 16 miles, over 5,000 ft, finishing on the cables; permit required) is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+- **99. [Mariposa Grove](https://www.google.com/maps/search/?api=1&query=Mariposa+Grove+Yosemite+National+Park+CA)** — Yosemite National Park, Wawona
   - **Best for:** Hike / Giant trees · Yosemite's largest sequoia grove, home of the Grizzly Giant — Ranked #5 of the carousel's 10 hikes among giant trees: meet giant sequoias in Yosemite National Park's Mariposa Grove, including the famous Grizzly Giant — the grove's oldest tree, roughly 2,000 years old.
   - Pin is the published Wikipedia point for Mariposa Grove, near Wawona at Yosemite's south entrance.
   - 🎬 Source: [10 hikes among giant trees across the USA](https://www.instagram.com/p/DfgBZshmdho/) by @nationalparksguide (#5 in that reel)
-- **98. [Sentinel Dome](https://www.google.com/maps/search/?api=1&query=Sentinel+Dome+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **100. [Sentinel Dome](https://www.google.com/maps/search/?api=1&query=Sentinel+Dome+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike / Granite dome summit with a 360-degree Yosemite panorama — Rated 9/10 in Kelley & Carl's honest ratings for California national park hikes (part 2): Sentinel Dome's bare granite summit gives a full-circle view — Half Dome, Yosemite Falls and El Capitan — from a short Glacier Point Road trail. Also a named highlight on their California road trip.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/sentinel-dome-trail)
   - Pin is the OSM Sentinel Dome summit point.
@@ -6046,7 +6810,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike / Road-trip highlight — Sentinel Dome (Yosemite stop) — A named highlight of the Yosemite stop on Kelley & Carl's 4-park California road trip.
   - 🎬 Also recommended by: [4 national parks, 1 epic road trip — California](https://www.instagram.com/p/DfWCdSdPdQo/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Yosemite highlight — Sentinel Dome is a Yosemite highlight on Kelley & Carl's California road trip.
-- **99. [Yosemite National Park](https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **101. [Yosemite National Park](https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike — His #3 for hiking: iconic massive waterfalls plunging down granite cliffs, misty river rapids among boulders, and panoramic overlooks of Yosemite Valley including Half Dome.
   - Park-level pin is Yosemite Village, the park's main visitor area.
   - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#3 in that reel)
@@ -6059,7 +6823,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **100. [Illilouette Falls](https://www.google.com/maps/search/?api=1&query=Illilouette+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **102. [Cook's Meadow Loop](https://www.google.com/maps/search/?api=1&query=Cooks+Meadow+Loop+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+  - **Best for:** Hiking / Easy valley-floor loop with Half Dome and Yosemite Falls views — One of the easiest national park hikes with epic views in Kelley & Carl's list: Cook's Meadow Loop — 1.1 easy miles with 29 feet of gain and incredible views of Yosemite Valley and Yosemite Falls (they also name it a favorite Yosemite Falls viewpoint, in their waterfalls list).
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/cook-s-meadow-trail)
+  - Coordinates from Mapcarta (OpenStreetMap) for Cook's Meadow.
+  - 🎬 Source: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / National park waterfalls top 11 — Lower Falls view — Lower Yosemite Falls, seen across Cook's Meadow (the 2.3-mile Lower Yosemite Falls + Cook's Meadow loop), is one of Kelley & Carl's top 11 national park waterfalls (the pin's primary source is their easy-Yosemite-hikes post).
+- **103. [Illilouette Falls](https://www.google.com/maps/search/?api=1&query=Illilouette+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hiking / Waterfall without the crowds, via Panorama Trail — Kelley & Carl call this the most underrated hike in Yosemite: Illilouette Falls via the Panorama Trail from Glacier Point — about 5.3 miles round trip with 1,430 feet of gain, 3-4 hours, moderate — with epic waterfall views and almost none of the crowds of Vernal, Nevada or Upper Yosemite Falls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/illilouette-falls-via-panorama-trail)
   - 🎬 Source: [Illilouette Falls — the most underrated hike in Yosemite](https://www.instagram.com/p/DehbnhbPeYb/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6070,20 +6841,20 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **101. [Valley View](https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- **104. [Valley View](https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Sunrise / View — Captioned 'Sunrise at Valley View' in Yosemite. The video shows the calm river at Valley View mirroring Yosemite Valley's towering granite cliffs, with autumn-colored trees at the cliff base — a quiet sunrise reflection scene.
   - 🎬 Source: [Sunrise viewpoint — Valley View](https://www.instagram.com/reel/DGuD3iDNE26/) by @amorywild (#None in that reel)
 
 ##### Sunset
 
-- **102. [Big Oak Flat Road](https://www.google.com/maps/search/?api=1&query=Big+Oak+Flat+Road+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- **105. [Big Oak Flat Road](https://www.google.com/maps/search/?api=1&query=Big+Oak+Flat+Road+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Sunset — Caption names a sunset on Big Oak Flat Road in Yosemite National Park. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Pin is a point on the road's in-park stretch between the Big Oak Flat entrance and Crane Flat.
   - 🎬 Source: [Sunset — Big Oak Flat Road](https://www.instagram.com/reel/DGjsVpgt6sH/) by @amorywild (#None in that reel)
 
 ##### View
 
-- **103. [Tunnel View](https://www.google.com/maps/search/?api=1&query=Tunnel+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **106. [Tunnel View](https://www.google.com/maps/search/?api=1&query=Tunnel+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** View — Caption names Tunnel View, Yosemite National Park. The video shows a misty valley from a high vantage point, fog drifting through the forest, then pans right and zooms in on a tall waterfall cascading down a sheer dark cliff — a quiet, overcast, contemplative scene.
   - 🎬 Source: [Viewpoint — Tunnel View](https://www.instagram.com/reel/DGBQlLqOEP0/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [High reward with little effort — 10 of the best overlooks](https://www.instagram.com/p/Dd61E_2CYb7/) by @kelleyandcarlsadventures
@@ -6096,10 +6867,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Sunrise / Best sunrise spots — Tunnel View is one of Kelley & Carl's best national park sunrise spots — get into Yosemite early for parking and watch sunrise over the valley.
   - 🎬 Also recommended by: [The most magical national parks — our favorite activity in each](https://www.instagram.com/p/DXCbuCRFjhW/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Favorite Yosemite stop, magical parks — Tunnel View is one of Kelley & Carl's favorite Yosemite stops in their magical-parks list.
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — the classic valley view — Tunnel View at sunrise is one of Kelley & Carl's 10 best national park sunrise spots — 'a trip to Yosemite is not complete without a stop at Tunnel View'.
+  - 🎬 Also recommended by: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best overlooks, no hiking — Tunnel View is one of Kelley & Carl's 10 best national park overlooks with no hiking required.
 
 ##### Viewpoint
 
-- **104. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **107. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Viewpoint / Yosemite's Artist Point — the valley view that inspired painters — Rated a perfect 10/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): Artist Point, Yosemite's historic viewpoint above the valley's west end (not the Yellowstone overlook of the same name). Also on their perfect-hikes list and named (with Tunnel View) on their California road trip. Reached by the Pohono Trail / old carriage road from the Tunnel View area.
   - Pin is the USGS GNIS Artist Point summit point above Yosemite Valley's south wall.
   - 🎬 Source: [US trails we have hiked that we consider to be perfect](https://www.instagram.com/p/Da-5x0XCU0Z/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6107,7 +6882,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Rated 10/10 in their California ratings, part 1 — Rated a perfect 10/10 in Kelley & Carl's honest ratings for California national park hikes, part 1 — Artist Point, Yosemite (the highest score in either California list).
   - 🎬 Also recommended by: [4 national parks, 1 epic road trip — California](https://www.instagram.com/p/DfWCdSdPdQo/) by @kelleyandcarlsadventures
     - **Best for:** Overlook / Yosemite highlight — Artist Point is named with Tunnel View as a Yosemite highlight on Kelley & Carl's California road trip.
-- **105. [Taft Point](https://www.google.com/maps/search/?api=1&query=Taft+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **108. [Taft Point](https://www.google.com/maps/search/?api=1&query=Taft+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Viewpoint / Sheer cliff-edge viewpoint over Yosemite Valley, by the Fissures — A named highlight of Stop 1 (Yosemite) on Kelley & Carl's 4-parks California road trip, and on their perfect-hikes and mountain-hikes lists: Taft Point stands at the brink of a 3,500-ft drop over Yosemite Valley, next to the Fissures — reached by an easy trail from Glacier Point Road, often paired with Sentinel Dome.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/taft-point-and-the-fissures)
   - Pin is the NPS-published Taft Point point (NPS places listing).
@@ -6123,7 +6898,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **106. [Vernal Falls](https://www.google.com/maps/search/?api=1&query=Vernal+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **109. [Vernal Falls](https://www.google.com/maps/search/?api=1&query=Vernal+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Waterfall — Tagged location Yosemite National Park; on-screen text asks 'Is Vernal Falls Yosemite's most perfect waterfall?' The video shows Vernal Falls plunging over dark granite into a turbulent pool, heavy spray sustaining a vivid rainbow at its base, surrounded by steep cliffs and evergreen forest.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/vernal-falls)
   - Officially Vernal Fall (singular); the reel and common usage say Vernal Falls.
@@ -6154,11 +6929,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Spring parks — Yosemite — Vernal Falls at peak spring flow is a Yosemite highlight in Kelley & Carl's best spring parks list.
   - 🎬 Also recommended by: [10 of the best US national park waterfalls](https://www.instagram.com/p/DUtMORqCcH3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Best waterfalls list — Vernal Falls is on Kelley & Carl's 10 best national park waterfalls list — 3.1 miles round trip, 1,131 feet of gain; bring waterproof gear (timed entry in peak season).
-- **107. [Wapama Falls](https://www.google.com/maps/search/?api=1&query=Wapama+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 2 — Vernal Falls (3.1 hard miles, 1,131 ft; spring/early summer for full falls, bring a rain jacket) is one of the ten epic hikes in Part 2 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — Vernal Falls (3.1 hard miles, 1,131 ft; go in spring/early summer and bring a rain jacket) is one of Kelley & Carl's 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in Yosemite (#6 most visited) — Vernal Falls (3 miles RT, 1,130 ft) is Kelley & Carl's favorite hike in Yosemite, #6 in their most-visited-parks countdown.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Vernal Falls (317 ft, via the 3-mile Mist Trail) is one of Kelley & Carl's top 11 national park waterfalls.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Epic national park hikes, Part 2 — Vernal Falls (2.4 miles, 1,000 ft) is one of the 10 epic national park hikes in Part 2 of Kelley & Carl's series.
+- **110. [Wapama Falls](https://www.google.com/maps/search/?api=1&query=Wapama+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Waterfall — His #4 waterfall: Wapama Falls in Yosemite National Park, a powerful, misty fall crashing over boulders into the river leading toward Hetch Hetchy Reservoir.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/wapama-falls-trail)
   - 🎬 Source: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild (#4 in that reel)
-- **108. [Yosemite Falls](https://www.google.com/maps/search/?api=1&query=Yosemite+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- **111. [Yosemite Falls](https://www.google.com/maps/search/?api=1&query=Yosemite+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Waterfall / View — Caption names Yosemite Falls. The video pans from Yosemite's granite cliffs out across the valley — forests, the winding river and Half Dome in the background — a sweeping valley panorama.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/upper-yosemite-falls-trail)
   - Nominatim's waypoint for the falls is labelled 'Middle Cascades', the middle section of Yosemite Falls; the first-pass query hit (Yosemite Valley Lodge) was a wrong namesake and was rejected.
@@ -6173,10 +6958,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Must-see waterfalls list — Yosemite Falls is on Kelley & Carl's must-see waterfalls list — their favorite valley views are the Cooks Meadow Loop, the Lower Yosemite Falls Trail and the Swinging Bridge Picnic Area.
   - 🎬 Also recommended by: [10 of the best US national park waterfalls](https://www.instagram.com/p/DUtMORqCcH3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Best waterfalls list — Yosemite Falls is on Kelley & Carl's 10 best national park waterfalls list — favorite valley views from the Cooks Meadow Loop, Lower Yosemite Falls Trail and Swinging Bridge Picnic Area.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Upper Falls — Upper Yosemite Falls (3,000 ft tall, via the 7.2-mile Upper Yosemite Falls Trail) is one of Kelley & Carl's top 11 national park waterfalls.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Epic national park hikes, Part 4 — The Yosemite Falls Trail (7.2 miles, 2,700 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
 
 ## Pacific Northwest Region {#pacific-northwest}
 
-**59 places · Oregon, Washington**
+**60 places · Oregon, Washington**
 
 ### Alpine Lakes Wilderness
 
@@ -6192,13 +6981,20 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - 🎬 Also recommended by: [Snow Lake — a stunning alpine lake just 45 min from Seattle](https://www.instagram.com/reel/DcWZiBySFWX/) by @n.sisson
     - **Best for:** Alpine lake / Hike · Turquoise water below Snoqualmie Pass peaks — Nicole's take: Snow Lake is a stunning alpine lake hike just off I-90 near Snoqualmie Pass, only 45 min from Seattle — beautiful mountain views and crystal-clear turquoise water that looks almost unreal. Her card: 7.2 miles round trip, ~1,800 ft of gain, NW Forest Pass or America the Beautiful at the trailhead, and if you want to extend the adventure, continue on to Gem Lake. Leave no trace.
 
+##### Hiking
+
+- **2. [The Enchantments](https://www.google.com/maps/search/?api=1&query=The+Enchantments+Alpine+Lakes+Wilderness+WA)** — Alpine Lakes Wilderness, Leavenworth
+  - **Best for:** Hiking / Permit-only alpine basin of turquoise lakes and granite peaks — The Enchantments near Leavenworth top Kelley & Carl's list of places for nature lovers that aren't national parks — a turquoise alpine-lake basin in the Alpine Lakes Wilderness (their lakes list approaches it via the 9-mile Colchuck Lake hike).
+  - Pin at the Stuart Lake Trailhead, the main Enchantments entrance; coordinates from the USFS trailhead record.
+  - 🎬 Source: [10 places in the USA for nature lovers (that aren't national parks)](https://www.instagram.com/p/DRcsZtCCbBU/) by @kelleyandcarlsadventures (#None in that reel)
+
 ### Alvord Desert
 
 #### Oregon
 
 ##### Stargazing
 
-- **2. [Alvord Desert](https://www.google.com/maps/search/?api=1&query=Alvord+Desert+Oregon)** — Alvord Desert, Fields
+- **3. [Alvord Desert](https://www.google.com/maps/search/?api=1&query=Alvord+Desert+Oregon)** — Alvord Desert, Fields
   - **Best for:** Stargazing — Jess drove 9 hours to camp on the Alvord Desert playa — under some of the darkest skies in Oregon — to teach herself astrophotography. She timed the trip under an almost-full moon by accident, so she waited for moonset, set a 3:24 AM alarm, and manually shot 105 long exposures (her old Sony has no intervalometer) to stitch a four-second starlapse. Her verdict: the Alvord had been on her list a long time and was worth every bit of the drive.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Alvord Desert — a 3:24 AM starlapse on the playa](https://www.instagram.com/reel/Dd19e-FTUn_/) by @jessonthewildway (#1 in that reel)
@@ -6209,7 +7005,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **3. [Cape Flattery](https://www.google.com/maps/search/?api=1&query=Cape+Flattery+WA)** — Cape Flattery (Makah Reservation), Neah Bay
+- **4. [Cape Flattery](https://www.google.com/maps/search/?api=1&query=Cape+Flattery+WA)** — Cape Flattery (Makah Reservation), Neah Bay
   - **Best for:** Viewpoint — The Griffins' verdict: even on a foggy day, Cape Flattery was unforgettable — the farthest northwest point of the Olympic Peninsula (and the contiguous U.S.), and one of those places that's worth going out of your way for.
   - Coordinates verified against OpenStreetMap. Cape Flattery is on the Makah Reservation; a Makah recreation pass is required to visit.
   - 🎬 Source: [Cape Flattery, Washington State](https://www.instagram.com/reel/DcdhI5UBsTA/) by @griffins.onthego (#1 in that reel)
@@ -6222,7 +7018,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Sand dune climb, tide pools and coastal views
 
-- **4. [Cape Kiwanda](https://www.google.com/maps/search/?api=1&query=Cape+Kiwanda+Pacific+City+Oregon)** — Cape Kiwanda State Natural Area, Pacific City
+- **5. [Cape Kiwanda](https://www.google.com/maps/search/?api=1&query=Cape+Kiwanda+Pacific+City+Oregon)** — Cape Kiwanda State Natural Area, Pacific City
   - **Best for:** Hike · Sand dune climb, tide pools and coastal views — Climb the 240-foot sand dune for the payoff view over sandstone cliffs, tide pools and sandy beaches, with Pacific City's own Haystack Rock offshore. There's also an easier 1-mile walk along the beach to the rocks of the cape.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/oregon/cape-kiwanda-state-natural-area)
   - Pin is OpenStreetMap's point for the Cape Kiwanda headland.
@@ -6234,7 +7030,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **5. [Giant Spruce Trail](https://www.google.com/maps/search/?api=1&query=Giant+Spruce+Trail+Cape+Perpetua+OR)** — Cape Perpetua Scenic Area, Yachats
+- **6. [Giant Spruce Trail](https://www.google.com/maps/search/?api=1&query=Giant+Spruce+Trail+Cape+Perpetua+OR)** — Cape Perpetua Scenic Area, Yachats
   - **Best for:** Hike / Giant trees · Trail to a 500-year-old Sitka spruce — Ranked #4 of the carousel's 10 hikes among giant trees: follow the forest trail from the Cape Perpetua Visitor Center to an enormous old-growth Sitka spruce — the Giant Spruce of Cape Perpetua, 500+ years old, ~185 ft tall with a 40-ft circumference (US Forest Service).
   - Pin is the published Giant Spruce trailhead point (Trailforks); the trail runs ~2 miles round trip from the Cape Perpetua Visitor Center along Cape Creek.
   - 🎬 Source: [10 hikes among giant trees across the USA](https://www.instagram.com/p/DfgBZshmdho/) by @nationalparksguide (#4 in that reel)
@@ -6245,10 +7041,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **6. [Latourell Falls](https://www.google.com/maps/search/?api=1&query=Latourell+Falls+Columbia+River+Gorge+OR)** — Columbia River Gorge, Corbett
+- **7. [Latourell Falls](https://www.google.com/maps/search/?api=1&query=Latourell+Falls+Columbia+River+Gorge+OR)** — Columbia River Gorge, Corbett
   - **Best for:** Waterfall / Plunge falls over columnar basalt — A Columbia River Gorge must-see on Kelley & Carl's Pacific Northwest road trip — Latourell Falls, a 249-foot plunge over lichen-yellow columnar basalt near the historic highway.
   - 🎬 Source: [One of the most beautiful US road trips — the Pacific Northwest](https://www.instagram.com/p/DezcL8TPh9b/) by @kelleyandcarlsadventures (#None in that reel)
-- **7. [Multnomah Falls](https://www.google.com/maps/search/?api=1&query=Multnomah+Falls+Columbia+River+Gorge+OR)** — Columbia River Gorge, Bridal Veil
+- **8. [Multnomah Falls](https://www.google.com/maps/search/?api=1&query=Multnomah+Falls+Columbia+River+Gorge+OR)** — Columbia River Gorge, Bridal Veil
   - **Best for:** Waterfall / Oregon's tallest falls, with the Benson Bridge — A Columbia River Gorge must-see on Kelley & Carl's Pacific Northwest road trip — Multnomah Falls, the 620-foot two-tier falls with the Benson Bridge across its lower drop.
   - 🎬 Source: [One of the most beautiful US road trips — the Pacific Northwest](https://www.instagram.com/p/DezcL8TPh9b/) by @kelleyandcarlsadventures (#None in that reel)
 
@@ -6258,17 +7054,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **8. [Cleetwood Cove Trail](https://www.google.com/maps/search/?api=1&query=Cleetwood+Cove+Trail+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
+- **9. [Cleetwood Cove Trail](https://www.google.com/maps/search/?api=1&query=Cleetwood+Cove+Trail+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
   - **Best for:** Hiking / The only trail down to the lake — A Crater Lake must-see on Kelley & Carl's Reno-to-redwoods road trip — the Cleetwood Cove Trail, the park's only legal route down to the water, for swimming and the boat tours.
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [10 of the most beautiful lakes in the USA](https://www.instagram.com/p/DYfIFKKllS9/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Crater Lake favorite, beautiful lakes list — The Cleetwood Cove Trail is one of Kelley & Carl's favorite Crater Lake spots on their most beautiful lakes list.
-- **9. [Discovery Point](https://www.google.com/maps/search/?api=1&query=Discovery+Point+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — The Cleetwood Cove Trail (2.1 moderate miles, 610 ft; closed 2026–2028 for a major construction project) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, Crater Lake favorite — The Cleetwood Cove Trail is one of Kelley & Carl's favorite Crater Lake hikes in their best-water parks feature.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Crater Lake favorite — The Cleetwood Cove Trail is one of Kelley & Carl's favorite spots in Crater Lake, in their most-underrated-parks list (Sun Notch and Mount Scott are named but unpinned).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — The Cleetwood Cove Trail (2.2 miles, 700 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
+- **10. [Discovery Point](https://www.google.com/maps/search/?api=1&query=Discovery+Point+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
   - **Best for:** Hiking / First rim viewpoint on West Rim Drive — One of Kelley & Carl's favorite Crater Lake spots: Discovery Point, the broad West Rim viewpoint where prospector John Wesley Hillman first saw the lake in 1853 — reached by the 2.2-mile Discovery Point Trail from Rim Village or the West Rim Drive pullout.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/oregon/discovery-point-trail)
   - Coordinates from the Discovery Point place record.
   - 🎬 Source: [10 of the most beautiful lakes in the USA](https://www.instagram.com/p/DYfIFKKllS9/) by @kelleyandcarlsadventures (#None in that reel)
-- **10. [Garfield Peak](https://www.google.com/maps/search/?api=1&query=Garfield+Peak+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
+- **11. [Garfield Peak](https://www.google.com/maps/search/?api=1&query=Garfield+Peak+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
   - **Best for:** Hiking / Summit above the rim village — A Crater Lake must-see on Kelley & Carl's Reno-to-redwoods road trip — Garfield Peak, the short steep summit hike from Crater Lake Lodge with the whole caldera spread below.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/oregon/garfield-peak-trail)
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6278,7 +7082,15 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Crater Lake favorite, beautiful lakes list — Garfield Peak is one of Kelley & Carl's favorite Crater Lake spots on their most beautiful lakes list.
   - 🎬 Also recommended by: [The most magical national parks — our favorite activity in each](https://www.instagram.com/p/DXCbuCRFjhW/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Favorite Crater Lake hike, magical parks — Garfield Peak is one of Kelley & Carl's favorite Crater Lake hikes in their magical-parks list.
-- **11. [Watchman Peak](https://www.google.com/maps/search/?api=1&query=Watchman+Peak+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — Garfield Peak (3.5 moderate miles, 1,076 ft) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, Crater Lake favorite — Garfield Peak is one of Kelley & Carl's favorite Crater Lake hikes in their best-water parks feature.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Crater Lake favorite — Garfield Peak is one of Kelley & Carl's favorite spots in Crater Lake, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — Garfield Peak (3.5 miles, 1,000 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
+- **12. [Watchman Peak](https://www.google.com/maps/search/?api=1&query=Watchman+Peak+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
   - **Best for:** Hiking / Fire lookout over Wizard Island — A Crater Lake must-see on Kelley & Carl's Reno-to-redwoods road trip — Watchman Peak, the fire-lookout summit staring straight down at Wizard Island; their Pacific Northwest trip picks sunrise here.
   - Pin is the OpenStreetMap 'The Watchman' peak point (42.9429528, -122.1724048).
   - 🎬 Source: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6292,10 +7104,22 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Sunrise / Favorite Crater Lake activity, magical parks — A sunrise hike to Watchman Peak is one of Kelley & Carl's favorite Crater Lake activities in their magical-parks list.
   - 🎬 Also recommended by: [Underrated national parks nobody has on their bucket list](https://www.instagram.com/p/DWwdekzFsG-/) by @kelleyandcarlsadventures
     - **Best for:** Sunrise / Favorite Crater Lake activity, underrated list — Sunrise at the Watchman Peak Trail is Kelley & Carl's favorite Crater Lake activity in their underrated-parks list.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 3 — sunrise spot — Watchman Peak (1.7 moderate miles, 400 ft) is one of the ten epic hikes in Part 3 of Kelley & Carl's series — 'beautiful sunrise spot!' (January 2026 version).
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — Watchman Peak (1.7 moderate miles, 400 ft; beautiful sunrise spot) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, Crater Lake favorite — Watchman Peak is one of Kelley & Carl's favorite Crater Lake hikes in their best-water parks feature.
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Underrated parks — Crater Lake favorite — Watchman Peak at sunrise is one of Kelley & Carl's favorite spots in Crater Lake, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — over Crater Lake — Watchman Peak at sunrise (1.7 miles RT, 400 ft, over Crater Lake and Wizard Island) is one of Kelley & Carl's 10 best national park sunrise spots.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 3 — Watchman Peak (1.6 miles, 400 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
 
 ##### National park
 
-- **12. [Crater Lake National Park](https://www.google.com/maps/search/?api=1&query=Crater+Lake+National+Park+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
+- **13. [Crater Lake National Park](https://www.google.com/maps/search/?api=1&query=Crater+Lake+National+Park+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
   - **Best for:** National park / Deepest lake in the USA, in a volcanic caldera — On Kelley & Carl's list of national parks you can see in one day — drive Rim Drive and stop at the overlooks (their overlooks list singles out Merriam Point, a separate pin). Their underrated-parks list picks sunrise at the Watchman Peak Trail as the park's best experience.
   - Pin is the NPS park headquarters / Steel Visitor Center point (42°53'48.91"N, 122°08'03.08"W).
   - 🎬 Source: [US National Parks you can literally see in one day](https://www.instagram.com/p/DeCjWOYFszM/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6303,10 +7127,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / Underrated parks list — sunrise at Watchman Peak — On Kelley & Carl's ultimate underrated-parks list: Crater Lake's best experience is watching sunrise from the Watchman Peak Trail.
   - 🎬 Also recommended by: [An underrated road trip — Reno, Tahoe, volcanoes and redwoods](https://www.instagram.com/p/De7XzkRJkcx/) by @kelleyandcarlsadventures
     - **Best for:** National park / Road trip Stop 2 — Stop 2 on Kelley & Carl's Reno-to-redwoods road trip: Merriam Point, Garfield Peak, Watchman Peak and the Cleetwood Cove Trail (peak and trail pins added from this post).
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Crater Lake is one of the 17 national parks Kelley & Carl rated from their 2025 travels.
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Crater Lake — Crater Lake, the deepest lake in the US, is one of Kelley & Carl's 10 most beautiful lakes — their favorite spots include Merriam Point, Watchman Peak, Garfield Peak and Cleetwood Cove.
 
 ##### Viewpoint
 
-- **13. [Merriam Point](https://www.google.com/maps/search/?api=1&query=Merriam+Point+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
+- **14. [Merriam Point](https://www.google.com/maps/search/?api=1&query=Merriam+Point+Crater+Lake+National+Park+OR)** — Crater Lake National Park, Crater Lake
   - **Best for:** Viewpoint / West-rim overlook of the lake and Wizard Island — On Kelley & Carl's 'high reward with little effort' overlooks list: right off Rim Drive with incredible views of Crater Lake and Wizard Island — but this part of the park is only open summer to early fall.
   - Pin is the OSM Merriam Point point on Crater Lake's west rim.
   - 🎬 Source: [High reward with little effort — 10 of the best overlooks](https://www.instagram.com/p/Dd61E_2CYb7/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6318,6 +7146,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Crater Lake favorite, beautiful lakes list — Merriam Point is one of Kelley & Carl's favorite Crater Lake spots on their most beautiful lakes list.
   - 🎬 Also recommended by: [The most magical national parks — our favorite activity in each](https://www.instagram.com/p/DXCbuCRFjhW/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Favorite Crater Lake stop, magical parks — Merriam Point is one of Kelley & Carl's favorite Crater Lake stops in their magical-parks list.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best-water parks, Crater Lake favorite — Merriam Point is one of Kelley & Carl's favorite Crater Lake overlooks in their best-water parks feature (with Sinnott Memorial and Cloudcap Overlook named but unpinned).
+  - 🎬 Also recommended by: [10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Underrated parks — Crater Lake favorite — Merriam Point is one of Kelley & Carl's favorite spots in Crater Lake, in their most-underrated-parks list.
+  - 🎬 Also recommended by: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best overlooks, no hiking — Merriam Point is one of Kelley & Carl's 10 best national park overlooks with no hiking required.
 
 ### Green River Gorge
 
@@ -6325,7 +7159,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **14. [Green River Gorge Resort](https://www.google.com/maps/search/?api=1&query=Green+River+Gorge+Resort+Enumclaw)** — Green River Gorge, Enumclaw
+- **15. [Green River Gorge Resort](https://www.google.com/maps/search/?api=1&query=Green+River+Gorge+Resort+Enumclaw)** — Green River Gorge, Enumclaw
   - **Best for:** Waterfall / Hidden gem · Walk behind a waterfall into a cave — Don't miss this hidden gem: the Green River Gorge Resort property near Enumclaw, WA. The resort dates to the 1920s, when it operated as a privately owned getaway with a hotel and cabins; by the 1970s and '80s it had become a well-known local party spot. The resort itself no longer operates, but the property and trails are still accessible — check out the bridge, walk behind a waterfall into a hidden cave, and explore the area's unique rock formations. The reel's practical notes: $5 for parking, paid at a cash box; no restrooms; and the trail can be slippery, so watch your step. Leave no trace.
   - Pin is the published Green River Gorge Resort point (29500 SE Green River Gorge Rd, Enumclaw) — the trail access for the gorge, bridge, and waterfall cave.
   - 🎬 Source: [Green River Gorge Resort — a hidden gem with a waterfall cave near Enumclaw](https://www.instagram.com/reel/DantcQoQedg/) by @n.sisson (#None in that reel)
@@ -6336,7 +7170,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Summit hike
 
-- **15. [Vesper Peak](https://www.google.com/maps/search/?api=1&query=Vesper+Peak+Trail+Washington)** — Mount Baker-Snoqualmie National Forest (Mountain Loop Highway), Granite Falls
+- **16. [Vesper Peak](https://www.google.com/maps/search/?api=1&query=Vesper+Peak+Trail+Washington)** — Mount Baker-Snoqualmie National Forest (Mountain Loop Highway), Granite Falls
   - **Best for:** Summit hike / Sunset · Steep alpine climb to a 6,214-ft summit — Sunset on Vesper Peak — one of the most rewarding hikes off Washington's Mountain Loop Highway. The reel's card: about 6.5 miles round trip with 4,120 ft of gain; plan 6–8 hours (their hike took 5h40, and it runs longer than it looks — preparation is key, carry the 10 essentials). The trail starts in forest with steady switchbacks, then opens to alpine meadows, rocky slopes and big views; Vesper Lake near the top is a beautiful break spot (filter any water); the last stretch is steep and rocky. Sunset tip: start early enough to be at the summit before golden hour and bring a headlamp for the hike down. Pack layers, extra water, and traction in early season (snow can linger into summer); a Northwest Forest Pass is needed at the trailhead.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/vesper-peak-trail)
   - Pin is the OSM summit point for Vesper Peak (6,214 ft); the hike starts at the Sunrise Mine trailhead off the Mountain Loop Highway.
@@ -6348,13 +7182,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Alpine
 
-- **16. [Camp Muir](https://www.google.com/maps/search/?api=1&query=Camp+Muir+Mount+Rainier)** — Mount Rainier National Park, Paradise
+- **17. [Camp Muir](https://www.google.com/maps/search/?api=1&query=Camp+Muir+Mount+Rainier)** — Mount Rainier National Park, Paradise
   - **Best for:** Alpine / Mountaineering · Glaciers and the Muir Snowfield — One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Muir Camp (Camp Muir) on Mount Rainier — the 10,080-ft climbers' camp up the Muir Snowfield from Paradise, all glaciers and alpine terrain; also the turnaround for a serious day hike (crevasse country beyond).
   - 🎬 Source: [Top 10 hikes after visiting 62 of 63 national parks](https://www.instagram.com/reel/DdiQ92yODtN/) by @tedsalwaystraveling (#None in that reel)
 
 ##### Easy hike
 
-- **17. [Myrtle Falls](https://www.google.com/maps/search/?api=1&query=Myrtle+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+- **18. [Myrtle Falls](https://www.google.com/maps/search/?api=1&query=Myrtle+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
   - **Best for:** Easy hike / Waterfall — His #4 easy hike: the waterfall cascading over rocks with snow-capped Mount Rainier in the background.
   - 🎬 Source: [Top 5 Easy National Park Hikes](https://www.instagram.com/reel/DeO6QgjJIfW/) by @amorywild (#4 in that reel)
   - 🎬 Also recommended by: [Top 5 National Park Waterfalls](https://www.instagram.com/reel/Dd4GTzPBDJR/) by @amorywild
@@ -6363,10 +7197,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Must-see waterfalls list — Myrtle Falls is on Kelley & Carl's must-see waterfalls list — about 1 mile round trip, 164 feet of gain.
   - 🎬 Also recommended by: [10 of the best US national park waterfalls](https://www.instagram.com/p/DUtMORqCcH3/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Best waterfalls list — Myrtle Falls is on Kelley & Carl's 10 best national park waterfalls list — about 1 mile round trip, 164 feet of gain.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Myrtle Falls (72 ft, via the 0.8-mile Skyline Trail section) is one of Kelley & Carl's top 11 national park waterfalls.
+  - 🎬 Also recommended by: [2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Rainier 2-day itinerary — Day 1 — Myrtle Falls is a Day 1 stop in Kelley & Carl's Rainier 2-day itinerary.
 
 ##### Hike
 
-- **18. [Snow Lake](https://www.google.com/maps/search/?api=1&query=Snow+Lake+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+- **19. [Snow Lake](https://www.google.com/maps/search/?api=1&query=Snow+Lake+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
   - **Best for:** Hike / Lake — Caption names Snow Lake; tagged location Mt. Rainier National Park. On-screen text: 'One of Mt Rainier's easiest hikes... with a great payoff.' The video crosses a rustic log bridge over a forest stream, then reveals the calm alpine lake at the base of steep, rocky, snow-patched mountains lined with evergreens and driftwood.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/bench-and-snow-lakes-trail)
   - The Snow Lake on the Bench and Snow Lakes Trail east of Paradise, geocoded inside a Rainier-bounded search — not the better-known Snow Lake at Snoqualmie Pass.
@@ -6374,15 +7212,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Lake
 
-- **19. [Tipsoo Lake](https://www.google.com/maps/search/?api=1&query=Tipsoo+Lake+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Enumclaw
+- **20. [Tipsoo Lake](https://www.google.com/maps/search/?api=1&query=Tipsoo+Lake+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Enumclaw
   - **Best for:** Lake / Rainier's classic reflection lake at Chinook Pass — One of Kelley & Carl's Mount Rainier must-sees: Tipsoo Lake, a small subalpine lake just below Chinook Pass that mirrors Mount Rainier on calm mornings — ringed by wildflower meadows and the short Tipsoo Lake Loop.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/tipsoo-lake-loop)
   - Coordinates from Wikipedia; Visit Rainier's GPS listing agrees (46.8691, -121.5175).
   - 🎬 Source: [Mount Rainier — one of our all-time favorites](https://www.instagram.com/reel/DWZPBvpD-qa/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Rainier 2-day itinerary — Day 2 — Tipsoo Lake is a Day 2 stop in Kelley & Carl's Rainier 2-day itinerary.
 
 ##### Top national park
 
-- **20. [Mount Rainier National Park](https://www.google.com/maps/search/?api=1&query=Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Ashford
+- **21. [Mount Rainier National Park](https://www.google.com/maps/search/?api=1&query=Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Ashford
   - **Best for:** Top national park — Ranked #11, showing alpine lakes, snow-capped peaks and powerful waterfalls.
   - 🎬 Source: [My Top 20 National Parks (this reel: #20 to #11; Top 10 is a separate pinned post)](https://www.instagram.com/reel/De_9Sf3BDFB/) by @amorywild (#11 in that reel)
   - 🎬 Also recommended by: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild
@@ -6391,10 +7231,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Marmots / Wildlife — Caption names Mount Rainier National Park for marmots. The comic clip cuts between a marmot standing alert in dry brush and two marmots on snow, one partly in a burrow, with the text, 'When her ex looks over...'
   - 🎬 Also recommended by: [Places in the USA you need to visit before you die](https://www.instagram.com/reel/Dfc7s0XMtxX/) by @tedsalwaystraveling
     - **Best for:** Waterfall / Mountain · Falls with Rainier behind — One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A waterfall with snow-capped Mount Rainier behind it.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — 10/10 — Kelley & Carl rate Mount Rainier a perfect 10/10 among the national parks they visited in 2025 — 'the lighting on the mountain at golden hour was unreal'.
 
 ##### Viewpoint
 
-- **21. [Reflection Lakes](https://www.google.com/maps/search/?api=1&query=Reflection+Lakes+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+- **22. [Reflection Lakes](https://www.google.com/maps/search/?api=1&query=Reflection+Lakes+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
   - **Best for:** Viewpoint / Rainier mirrored in alpine lakes — A must-see on Kelley & Carl's Washington road trip: Reflection Lakes on Stevens Canyon Road, where Mount Rainier mirrors in still subalpine water — the park's classic postcard view.
   - Coordinates from the NPS place record.
   - 🎬 Source: [3 national parks, 1 epic road trip — Washington](https://www.instagram.com/p/DYxfTQ-Egr3/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6402,16 +7244,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Mountain parks list, Rainier — Reflection Lake is a Mount Rainier highlight in Kelley & Carl's mountain-lovers park list (the pin's primary source is their Washington road trip).
   - 🎬 Also recommended by: [Mount Rainier — one of our all-time favorites](https://www.instagram.com/reel/DWZPBvpD-qa/) by @kelleyandcarlsadventures
     - **Best for:** Lake / Mount Rainier must-see — Reflection Lakes is a must-see in Kelley & Carl's Mount Rainier favorites.
+  - 🎬 Also recommended by: [2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Rainier 2-day itinerary — Day 1 (post spells it 'Reflection Lake') — Reflection Lakes are a Day 1 stop in Kelley & Carl's Rainier 2-day itinerary.
 
 ##### Waterfall
 
-- **22. [Comet Falls](https://www.google.com/maps/search/?api=1&query=Comet+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+- **23. [Comet Falls](https://www.google.com/maps/search/?api=1&query=Comet+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
   - **Best for:** Waterfall / Hike — Caption and tagged location name Comet Falls, Mt. Rainier. The video shows the powerful waterfall plunging down a steep rocky cliff in dense evergreen forest under misty, overcast skies — on-screen text: 'Perfect waterfall weather...' — zooming progressively closer to the falls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/comet-falls-via-van-trump-trail)
   - 🎬 Source: [Waterfall — Comet Falls](https://www.instagram.com/reel/Dd-H0WJhJRJ/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Hiking / Waterfall — Comet Falls Trail](https://www.instagram.com/reel/DdEPGaTtAk0/) by @amorywild
     - **Best for:** Hike / Waterfall — Caption names Rainier's Comet Falls Trail but adds 'but not comet falls.' A hiker with trekking poles stands on a log bridge over a fast white-water stream, and the camera reveals a rocky riverbed and a multi-tiered waterfall cascading down a moss-covered slope in evergreen forest.
-- **23. [Narada Falls](https://www.google.com/maps/search/?api=1&query=Narada+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
+- **24. [Narada Falls](https://www.google.com/maps/search/?api=1&query=Narada+Falls+Mount+Rainier+National+Park+WA)** — Mount Rainier National Park, Mount Rainier National Park
   - **Best for:** Waterfall / Rainier's roadside 168-foot cascade — A must-see on Kelley & Carl's Washington road trip: Narada Falls, where the Paradise River drops 168 feet beside the Paradise Road — the tallest waterfall in Mount Rainier National Park reachable by car.
   - Coordinates from the NPS place record.
   - 🎬 Source: [3 national parks, 1 epic road trip — Washington](https://www.instagram.com/p/DYxfTQ-Egr3/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6419,6 +7263,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Mountain parks list, Rainier — Narada Falls is a Mount Rainier highlight in Kelley & Carl's mountain-lovers park list (the pin's primary source is their Washington road trip).
   - 🎬 Also recommended by: [Mount Rainier — one of our all-time favorites](https://www.instagram.com/reel/DWZPBvpD-qa/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Mount Rainier must-see — Narada Falls is a must-see in Kelley & Carl's Mount Rainier favorites.
+  - 🎬 Also recommended by: [Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Washington trip, Rainier pick — Narada Falls is one of the Rainier stops in Kelley & Carl's Washington State trip guide.
+  - 🎬 Also recommended by: [2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Rainier 2-day itinerary — Day 1 — Narada Falls is a Day 1 stop in Kelley & Carl's Rainier 2-day itinerary.
 
 ### Mount Rainier National Park (Ohanapecosh)
 
@@ -6426,7 +7274,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **24. [Silver Falls](https://www.google.com/maps/search/?api=1&query=Silver+Falls+Mount+Rainier+National+Park+(Ohanapecosh)+WA)** — Mount Rainier National Park (Ohanapecosh), Packwood
+- **25. [Silver Falls](https://www.google.com/maps/search/?api=1&query=Silver+Falls+Mount+Rainier+National+Park+(Ohanapecosh)+WA)** — Mount Rainier National Park (Ohanapecosh), Packwood
   - **Best for:** Waterfall / The Ohanapecosh River thundering through a gorge — Rated 7/10 in Kelley & Carl's honest ratings for Washington national park hikes: Silver Falls, where the Ohanapecosh River plunges through a narrow gorge — reached by the Silver Falls Loop from the Ohanapecosh visitor center/campground area in Rainier's southeast corner.
   - Pin is the OSM/Wikidata Silver Falls point on the Ohanapecosh River.
   - 🎬 Source: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DbtuSyhEiti/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6434,6 +7282,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Rated 7/10, Washington ratings — Rated 7/10 in Kelley & Carl's Washington hike ratings: Silver Falls at Mount Rainier (the Ohanapecosh falls).
   - 🎬 Also recommended by: [Mount Rainier — one of our all-time favorites](https://www.instagram.com/reel/DWZPBvpD-qa/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Mount Rainier must-see — Silver Falls is a must-see in Kelley & Carl's Mount Rainier favorites.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Rainier — Silver Falls is one of the Rainier hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Rainier 2-day itinerary — Day 2 — Silver Falls is a Day 2 stop in Kelley & Carl's Rainier 2-day itinerary (Sunrise side).
 
 ### Mount Rainier National Park (Paradise)
 
@@ -6441,7 +7293,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Alpine loop to Panorama Point
 
-- **25. [Skyline Loop Trail](https://www.google.com/maps/search/?api=1&query=Skyline+Loop+Trail+Mount+Rainier+WA)** — Mount Rainier National Park (Paradise), Ashford
+- **26. [Skyline Loop Trail](https://www.google.com/maps/search/?api=1&query=Skyline+Loop+Trail+Mount+Rainier+WA)** — Mount Rainier National Park (Paradise), Ashford
   - **Best for:** Hike · Alpine loop to Panorama Point — Listed at 6 miles in the reel: Rainier's signature loop from Paradise — wildflower meadows, Myrtle Falls, and the climb to Panorama Point with the mountain filling the sky.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/skyline-trail)
   - Pin is the trailhead at Paradise, by the Jackson Visitor Center (trailhead coordinates from published trail guides).
@@ -6462,6 +7314,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Mountain parks list, Rainier — The Skyline Loop is a Mount Rainier highlight in Kelley & Carl's mountain-lovers park list.
   - 🎬 Also recommended by: [Mount Rainier — one of our all-time favorites](https://www.instagram.com/reel/DWZPBvpD-qa/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Mount Rainier favorite hike — The Skyline Loop is one of Kelley & Carl's favorite Mount Rainier hikes.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Rainier — The Skyline Loop is one of the Rainier hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 3 — The Skyline Loop (5.6 hard miles, 1,778 ft, from Paradise) is one of the ten epic hikes in Part 3 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — The Skyline Loop (5.6 hard miles, 1,778 ft from Paradise) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Washington trip, Rainier pick — The Skyline Loop is one of the Rainier hikes in Kelley & Carl's Washington State trip guide (they also name Burroughs Mountain, Mount Fremont and Silver Falls).
+  - 🎬 Also recommended by: [2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Rainier 2-day itinerary — Day 1 — The Skyline Loop is the Day 1 hike in Kelley & Carl's Rainier 2-day itinerary (Paradise side).
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 3 — The Skyline Trail Loop (5.5 miles, 1,800 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
 
 ### Mount Rainier National Park (Sunrise)
 
@@ -6469,7 +7333,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **26. [Burroughs Mountain Trail](https://www.google.com/maps/search/?api=1&query=Burroughs+Mountain+Trail+Mount+Rainier+National+Park+(Sunrise)+WA)** — Mount Rainier National Park (Sunrise), Ashford
+- **27. [Burroughs Mountain Trail](https://www.google.com/maps/search/?api=1&query=Burroughs+Mountain+Trail+Mount+Rainier+National+Park+(Sunrise)+WA)** — Mount Rainier National Park (Sunrise), Ashford
   - **Best for:** Hike / Tundra ridge walk across First, Second and Third Burroughs above Sunrise — Rated a perfect 10/10 in Kelley & Carl's Washington hike ratings. Their hardest-hikes list: 9.6 miles with 2,614 ft of gain and significant sun exposure — rewarded with epic, sustained Mount Rainier views the whole way.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/burroughs-mountain-loop-trail)
   - Pin is the OSM Third Burroughs Mountain summit point — the far end of the Burroughs ridge trail from Sunrise.
@@ -6502,7 +7366,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Mount Rainier favorite hike — The Burroughs Mountain Trail is one of Kelley & Carl's favorite Mount Rainier hikes.
   - 🎬 Also recommended by: [Mount Fremont Lookout at sunrise — worth the 3 AM alarm](https://www.instagram.com/reel/DWMVom1JygM/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Rainier feature, combined with Fremont — Kelley & Carl combined Mount Fremont Lookout with First and Second Burroughs for a truly epic Rainier hiking day.
-- **27. [Mount Fremont Lookout](https://www.google.com/maps/search/?api=1&query=Mount+Fremont+Lookout+Mount+Rainier+National+Park+(Sunrise)+WA)** — Mount Rainier National Park (Sunrise), Ashford
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Rainier — The Burroughs Mountain Trail is one of the Rainier hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — The Burroughs Mountain Trail, combined with Mount Fremont Lookout (about 9 miles, 2,004 ft), is one of Kelley & Carl's 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — The Burroughs Mountain Trail, combined with Mount Fremont (about 9 miles, 2,004 ft), is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — sun exposure — The Burroughs (9 miles, 2,500 ft, significant sun exposure; Sunrise timed entry) is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Rainier 2-day itinerary — Day 2 — Burroughs Mountain is a Day 2 hike in Kelley & Carl's Rainier 2-day itinerary.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — Burroughs Mountain (9 miles, 2,500 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
+- **28. [Mount Fremont Lookout](https://www.google.com/maps/search/?api=1&query=Mount+Fremont+Lookout+Mount+Rainier+National+Park+(Sunrise)+WA)** — Mount Rainier National Park (Sunrise), Ashford
   - **Best for:** Hike / Fire lookout with the closest in-your-face view of Rainier's north side — Rated a perfect 10/10 in Kelley & Carl's honest ratings for Washington national park hikes. Their photography play: sunrise at the Mount Fremont Lookout, then immediately hike on to First & Second Burroughs.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/mount-fremont-lookout-trail-via-sourdough-ridge-trail)
   - Pin is the OSM Mount Fremont Fire Lookout tower point above the Sunrise area.
@@ -6531,6 +7407,16 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Mount Rainier favorite hike — Mount Fremont Lookout is one of Kelley & Carl's favorite Mount Rainier hikes.
   - 🎬 Also recommended by: [Mount Fremont Lookout at sunrise — worth the 3 AM alarm](https://www.instagram.com/reel/DWMVom1JygM/) by @kelleyandcarlsadventures
     - **Best for:** Sunrise hike / Rainier feature, worth the 3 AM alarm — Kelley & Carl started hiking at 4:45 AM for sunrise at Mount Fremont Lookout — about 5.7 miles and 1,108 feet — and say the views are absolutely worth the 3 AM alarm (expect a crowd even on weekdays).
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Rainier — Mount Fremont Lookout is one of the Rainier hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — Mount Fremont Lookout (5.7 moderate miles, 1,108 ft; stunning at sunrise, timed entry for Sunrise) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/) by @kelleyandcarlsadventures
+    - **Best for:** Sunrise / Best sunrise spots — '100% worth it' — Mount Fremont Lookout at sunrise (5.7 miles RT, 1,108 ft — 'not an easy one but is 100% worth it') is one of Kelley & Carl's 10 best national park sunrise spots.
+  - 🎬 Also recommended by: [2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Rainier 2-day itinerary — Day 2 — Mount Fremont Lookout is a Day 2 hike in Kelley & Carl's Rainier 2-day itinerary.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — Mount Fremont Lookout (5.7 miles, 1,100 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
 
 ### Mount Si Natural Resources Conservation Area
 
@@ -6538,7 +7424,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **28. [Mount Si](https://www.google.com/maps/search/?api=1&query=Mount+Si+Trail+North+Bend+WA)** — Mount Si Natural Resources Conservation Area, North Bend
+- **29. [Mount Si](https://www.google.com/maps/search/?api=1&query=Mount+Si+Trail+North+Bend+WA)** — Mount Si Natural Resources Conservation Area, North Bend
   - **Best for:** Hike — WTA calls Mount Si the most popular hike in Washington — upwards of 100,000 hikers a year. The switchbacks start right at the trailhead; a mile and a half up you pass through Snag Flat, old-growth trees that survived fire and logging, then past a talus slope to the base of the Haystack, the true summit. 8.0 miles round trip with 3,150 ft of gain. Climbers training for Rainier haul heavy packs up here — the rule of thumb is that if you can make the top in under two hours, you're ready. A Discover Pass is required to park, and the lot fills early.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/mount-si-trail)
   - Coordinates verified against OpenStreetMap.
@@ -6550,10 +7436,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **29. [Washington Pass Overlook](https://www.google.com/maps/search/?api=1&query=Washington+Pass+Overlook+North+Cascades+/+Okanogan-Wenatchee+National+Forest+WA)** — North Cascades / Okanogan-Wenatchee National Forest, Winthrop
+- **30. [Washington Pass Overlook](https://www.google.com/maps/search/?api=1&query=Washington+Pass+Overlook+North+Cascades+/+Okanogan-Wenatchee+National+Forest+WA)** — North Cascades / Okanogan-Wenatchee National Forest, Winthrop
   - **Best for:** Viewpoint / Highway 20's highest overlook, staring at Liberty Bell Mountain — A don't-miss stop in Kelley & Carl's North Cascades mini guide: the Washington Pass Overlook on Highway 20 — at 5,477 feet the road's high point, with a short paved path to a railing view of Liberty Bell Mountain and the Early Winters spires.
   - Coordinates from the USFS Washington Pass Observation Site record.
   - 🎬 Source: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / North Cascades 2-day itinerary — easy add-on — The Washington Pass Observation Site is an easy add-on in Kelley & Carl's North Cascades 2-day itinerary.
 
 ### North Cascades National Park
 
@@ -6561,14 +7449,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Alpine lake · Three paternoster lakes reflecting Mount Triumph
 
-- **30. [Thornton Lake](https://www.google.com/maps/search/?api=1&query=Thornton+Lakes+North+Cascades)** — North Cascades National Park, Marblemount
+- **31. [Thornton Lake](https://www.google.com/maps/search/?api=1&query=Thornton+Lakes+North+Cascades)** — North Cascades National Park, Marblemount
   - **Best for:** Alpine lake · Three paternoster lakes reflecting Mount Triumph — One of the ten in Ted's 'top 10 hikes after visiting 62 of 63 national parks' list. Thornton Lake in North Cascades National Park — the lowest of three paternoster lakes below Mount Triumph, reflecting the peaks; the ~10-mile round trip climbs to a ridge above the lakes (backcountry permit to camp).
   - Coordinates are the published Thornton Lakes point (Wikipedia/GeoNames); an earlier generic name lookup returned a different Snohomish County lake and was rejected.
   - 🎬 Source: [Top 10 hikes after visiting 62 of 63 national parks](https://www.instagram.com/reel/DdiQ92yODtN/) by @tedsalwaystraveling (#None in that reel)
 
 ##### Hike
 
-- **31. [Cascade Pass Trail](https://www.google.com/maps/search/?api=1&query=Cascade+Pass+Trail+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+- **32. [Cascade Pass Trail](https://www.google.com/maps/search/?api=1&query=Cascade+Pass+Trail+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hike / Switchback climb to a pass ringed by peaks and glaciers — Rated 8/10 in Kelley & Carl's honest ratings for Washington national park hikes: the Cascade Pass Trail switchbacks up from the Cascade River Road to a pass surrounded by Johannesburg Mountain, Mix-up Peak and Cache Col.
   - Pin is the OSM Cascade Pass point at the top of the trail (the pass itself).
   - 🎬 Source: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DbtuSyhEiti/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6584,7 +7472,21 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Mountain parks list, North Cascades — Cascade Pass is a North Cascades highlight in Kelley & Carl's mountain-lovers park list.
   - 🎬 Also recommended by: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / North Cascades must-do hike — Cascade Pass is a must-do hike in Kelley & Carl's North Cascades mini guide.
-- **32. [Maple Pass Trail](https://www.google.com/maps/search/?api=1&query=Maple+Pass+Trail+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, North Cascades — Cascade Pass is one of the North Cascades hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — Cascade Pass (6.9 moderate miles, 1,781 ft; gravel road to the trailhead) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, North Cascades favorite — Cascade Pass is one of Kelley & Carl's recommended North Cascades hikes in their best-water parks feature.
+  - 🎬 Also recommended by: [5 of the best national parks for mountain lovers](https://www.instagram.com/p/DQeyaxbiT0A/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Mountain-lover parks — North Cascades pick — Cascade Pass is a recommended North Cascades hike in Kelley & Carl's best parks for mountain lovers.
+  - 🎬 Also recommended by: [Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Washington trip, North Cascades pick — Cascade Pass is one of the North Cascades hikes in Kelley & Carl's Washington State trip guide.
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / North Cascades 2-day itinerary — Day 1 — Cascade Pass (7.2 miles, 1,700 ft) is the Day 1 hike in Kelley & Carl's North Cascades 2-day itinerary.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — Cascade Pass (7.2 miles, 1,700 ft) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
+- **33. [Maple Pass Trail](https://www.google.com/maps/search/?api=1&query=Maple+Pass+Trail+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hike / Ridge loop above Lake Ann — larches, peaks and endless views — Rated a perfect 10/10 in Kelley & Carl's honest ratings for Washington national park hikes: the Maple Pass loop climbs a ridge above Lake Ann near Rainy Pass — famous for golden larches in fall.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/maple-pass-trail)
   - Pin is the OSM Maple Pass point on the ridge above Lake Ann (trailhead is at Rainy Pass on WA-20).
@@ -6599,7 +7501,17 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Rated 10/10, Washington ratings — Rated 10/10 in Kelley & Carl's Washington hike ratings: the Maple Pass Trail in North Cascades.
   - 🎬 Also recommended by: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / North Cascades must-do hike — The Maple Pass Loop is a must-do hike in Kelley & Carl's North Cascades mini guide.
-- **33. [North Cascades National Park](https://www.google.com/maps/search/?api=1&query=North+Cascades+National+Park+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, North Cascades — The Maple Pass Trail is one of the North Cascades hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, North Cascades favorite — The Maple Pass Loop is one of Kelley & Carl's recommended North Cascades hikes in their best-water parks feature.
+  - 🎬 Also recommended by: [5 of the best national parks for mountain lovers](https://www.instagram.com/p/DQeyaxbiT0A/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Mountain-lover parks — North Cascades pick — The Maple Pass Loop is a recommended North Cascades hike in Kelley & Carl's best parks for mountain lovers.
+  - 🎬 Also recommended by: [Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Washington trip, North Cascades pick — The Maple Pass Loop is one of the North Cascades hikes in Kelley & Carl's Washington State trip guide.
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / North Cascades 2-day itinerary — Day 2 — The Maple Pass Loop (7.2-mile loop, 2,020 ft) is the Day 2 hike in Kelley & Carl's North Cascades 2-day itinerary.
+- **34. [North Cascades National Park](https://www.google.com/maps/search/?api=1&query=North+Cascades+National+Park+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hike — His #2 for hiking: a hiker on a trail toward jagged snow-covered peaks, dramatic ridgelines, and sweeping views of a bright turquoise lake nestled between forested mountains.
   - Park-level pin is the park's Nominatim point in the Ross Lake area.
   - 🎬 Source: [Top 5 National Parks for Hiking](https://www.instagram.com/reel/DeZvgf4Mc2A/) by @amorywild (#2 in that reel)
@@ -6611,7 +7523,9 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** View / Hike — Caption asks, 'Could it be North Cascades?' and on-screen text calls it 'The greatest national park no one knows...' A hiker climbs a rocky alpine trail toward glaciated peaks as the camera pans across rugged mountains, green valleys, and lingering snowfields. No specific trail is named.
   - 🎬 Also recommended by: [Places in the USA you need to visit before you die](https://www.instagram.com/reel/Dfc7s0XMtxX/) by @tedsalwaystraveling
     - **Best for:** Alpine · Rocky high-altitude vista — One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' A rocky high-altitude vista among the North Cascades' jagged peaks.
-- **34. [Sourdough Mountain](https://www.google.com/maps/search/?api=1&query=Sourdough+Mountain+North+Cascades+National+Park+WA)** — North Cascades National Park, Newhalem
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — 10/10 — Kelley & Carl rate North Cascades a perfect 10/10 among the national parks they visited in 2025.
+- **35. [Sourdough Mountain](https://www.google.com/maps/search/?api=1&query=Sourdough+Mountain+North+Cascades+National+Park+WA)** — North Cascades National Park, Newhalem
   - **Best for:** Hike — Ranked #3, described as logistically easy but hard because of high, cold water crossings that left him constantly off-balance, wearing wetsuit overalls and layers.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/sourdough-mountain-lookout--2)
   - 🎬 Source: [5 National Park Hikes That Tested My Limit](https://www.instagram.com/reel/DfF8sFUPES5/) by @amorywild (#3 in that reel)
@@ -6619,7 +7533,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hike — Ranked #3 in this list, featuring vistas of a bright turquoise lake surrounded by snow-capped peaks and dense forests.
   - 🎬 Also recommended by: [Top 5 National Park Hikes](https://www.instagram.com/reel/Ddpitf0BMb-/) by @amorywild
     - **Best for:** Hike / View — His #1 hike: Sourdough Mountain in North Cascades National Park, called his best overall hike for its sweeping vista of a turquoise lake surrounded by snow-capped mountains.
-- **35. [Trappers Peak](https://www.google.com/maps/search/?api=1&query=Trappers+Peak+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+- **36. [Trappers Peak](https://www.google.com/maps/search/?api=1&query=Trappers+Peak+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hike — Gwyn and Ami's pick for some of the best panoramic mountain views in the North Cascades: Trappers Peak via Thornton Lakes — 9.7 miles with 3,438 ft of gain to stunning 360° summit views. Non-technical (no special gear or skills), with a few steep rock-scramble sections. Their tips: pack plenty of water (few places to filter), no backpacking on the peak itself, and Thornton Lakes backpacking is by competitive NPS permit.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/trappers-peak--2)
   - Coordinates verified against OpenStreetMap.
@@ -6627,7 +7541,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Ridge climb to the Sahale Glacier camp
 
-- **36. [Sahale Arm Trail](https://www.google.com/maps/search/?api=1&query=Sahale+Arm+Trail+North+Cascades+WA)** — North Cascades National Park, Marblemount
+- **37. [Sahale Arm Trail](https://www.google.com/maps/search/?api=1&query=Sahale+Arm+Trail+North+Cascades+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hike · Ridge climb to the Sahale Glacier camp — Listed at 12 miles in the reel: switchbacks up to Cascade Pass, then the steep climb along the Sahale Arm ridge through meadows — marmots and mountain goats along the way — to the Sahale Glacier camp, ringed by North Cascades peaks.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/cascade-pass-and-sahale-arm-trail--2)
   - Pin is the Sahale Arm ridge (published place point); the trail starts at the Cascade Pass trailhead at the end of Cascade River Road.
@@ -6658,34 +7572,56 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Hardest day hikes — Sahale Arm is one of Kelley & Carl's 10 hardest US national park day hikes — a 12-mile grind with 4,000 feet of gain on dirt and loose rock.
   - 🎬 Also recommended by: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / North Cascades must-do hike — Sahale Arm, continuing above Cascade Pass, is a must-do in Kelley & Carl's North Cascades mini guide.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, North Cascades — Sahale Arm is one of the North Cascades hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — Sahale Arm (13.5 very hard miles, 4,000 ft past Cascade Pass) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best-water parks, North Cascades favorite — Sahale Arm is one of Kelley & Carl's recommended North Cascades hikes in their best-water parks feature.
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — 12 miles, 4,000 ft — Sahale Arm (12 miles, 4,000 ft — 'a grind with dirt & loose rock up steep terrain') is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / North Cascades 2-day itinerary — Day 1 extension — Sahale Arm, reached by extending the Cascade Pass hike, is part of Kelley & Carl's North Cascades 2-day itinerary.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 6 — Sahale Arm (add 4.6 miles and 2,300 ft beyond Cascade Pass) is one of the 10 epic national park hikes in Part 6 of Kelley & Carl's series.
 
 ##### Hiking
 
-- **37. [Blue Lake Trail](https://www.google.com/maps/search/?api=1&query=Blue+Lake+Trail+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+- **38. [Blue Lake Trail](https://www.google.com/maps/search/?api=1&query=Blue+Lake+Trail+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hiking / Larch-lined alpine lake at Washington Pass — One of Kelley & Carl's favorite North Cascades hikes: the Blue Lake Trail off Highway 20 near Washington Pass — about 4.6 miles round trip to a deep-blue alpine lake under the Liberty Bell group, famous for golden larches in fall.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/blue-lake-trail--7)
   - Coordinates are the published Blue Lake Trailhead point on Highway 20 (milepost ~161).
   - 🎬 Source: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / North Cascades must-do hike — The Blue Lake Trail is a must-do hike in Kelley & Carl's North Cascades mini guide.
-- **38. [Trail of the Cedars](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Cedars+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / North Cascades 2-day itinerary — easy add-on — The Blue Lake Trail is an easy add-on in Kelley & Carl's North Cascades 2-day itinerary.
+- **39. [Trail of the Cedars](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Cedars+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Hiking / Old-growth cedar grove loop at Newhalem — One of Kelley & Carl's favorite North Cascades spots: the Trail of the Cedars, an easy loop through towering old-growth cedars along the Skagit River at Newhalem (not the Glacier National Park trail of the same name).
   - 🎬 Source: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / North Cascades must-do walk — The Trail of the Cedars is a must-do in Kelley & Carl's North Cascades mini guide — an easy old-growth loop in Newhalem.
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / North Cascades 2-day itinerary — easy add-on — The Trail of the Cedars is an easy add-on in Kelley & Carl's North Cascades 2-day itinerary.
 
 ##### Lake
 
-- **39. [Doubtful Lake](https://www.google.com/maps/search/?api=1&query=Doubtful+Lake+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
+- **40. [Doubtful Lake](https://www.google.com/maps/search/?api=1&query=Doubtful+Lake+North+Cascades+National+Park+WA)** — North Cascades National Park, Marblemount
   - **Best for:** Lake / Alpine lake below Sahale Arm — Rated 9/10 in Kelley & Carl's Washington hike ratings: Doubtful Lake, the glacier-fed lake cupped below Sahale Arm — they love the vantage point over it from the Sahale Arm Trail above Cascade Pass.
   - Coordinates from Wikipedia (Doubtful Lake).
   - 🎬 Source: [Honest ratings for Washington hikes](https://www.instagram.com/p/DYFZW3JFlZE/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [10 of the most beautiful lakes in the USA](https://www.instagram.com/p/DYfIFKKllS9/) by @kelleyandcarlsadventures
     - **Best for:** Lake / Beautiful lakes list — Doubtful Lake in North Cascades is on Kelley & Carl's 10 most beautiful lakes in the USA list — they love the vantage point over it from the Sahale Arm Trail (the pin's primary source is their Washington hike ratings, where it scored 9/10).
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, North Cascades — Doubtful Lake, seen from the Sahale Arm Trail, is one of the North Cascades entries in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Doubtful Lake, loved for the vantage point from the Sahale Arm Trail, is one of Kelley & Carl's 10 most beautiful lakes in the USA.
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / North Cascades 2-day itinerary — Day 1 extension — Doubtful Lake, reached by extending the Cascade Pass hike, is part of Kelley & Carl's North Cascades 2-day itinerary.
 
 ##### View
 
-- **40. [Diablo Lake Overlook](https://www.google.com/maps/search/?api=1&query=Diablo+Lake+Overlook+North+Cascades+National+Park+WA)** — North Cascades National Park, North Cascades National Park
+- **41. [Diablo Lake Overlook](https://www.google.com/maps/search/?api=1&query=Diablo+Lake+Overlook+North+Cascades+National+Park+WA)** — North Cascades National Park, North Cascades National Park
   - **Best for:** View — His #1 viewpoint: the striking turquoise lake surrounded by dense evergreen forests and snow-capped peaks under dramatic clouds.
   - 🎬 Source: [Top 5 National Park Viewpoints](https://www.instagram.com/reel/DeFZ8Zcvq_I/) by @amorywild (#1 in that reel)
   - 🎬 Also recommended by: [High reward with little effort — 10 of the best overlooks](https://www.instagram.com/p/Dd61E_2CYb7/) by @kelleyandcarlsadventures
@@ -6704,6 +7640,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Mountain parks list, North Cascades — Diablo Lake is a North Cascades highlight in Kelley & Carl's mountain-lovers park list.
   - 🎬 Also recommended by: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / North Cascades don't-miss overlook — The Diablo Lake Overlook is a don't-miss in Kelley & Carl's North Cascades mini guide — sunrise and sunset there are unreal, they say.
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Diablo Lake — Diablo Lake, from the vista point right next to the parking lot, is one of Kelley & Carl's 10 most beautiful lakes in the USA.
+  - 🎬 Also recommended by: [5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Best-water parks, North Cascades feature — Diablo Lake anchors the North Cascades section of Kelley & Carl's best-water parks feature.
+  - 🎬 Also recommended by: [5 of the best national parks for mountain lovers](https://www.instagram.com/p/DQeyaxbiT0A/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Mountain-lover parks — North Cascades feature — Diablo Lake headlines the North Cascades section of Kelley & Carl's best parks for mountain lovers.
+  - 🎬 Also recommended by: [Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Washington trip, North Cascades pick — Diablo Lake anchors the North Cascades section of Kelley & Carl's Washington State trip guide.
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / North Cascades 2-day itinerary — Day 1 drive stop — The Diablo Lake Overlook is a Day 1 drive stop in Kelley & Carl's North Cascades 2-day itinerary.
+  - 🎬 Also recommended by: [10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / Best overlooks, no hiking — The Diablo Lake Overlook is one of Kelley & Carl's 10 best national park overlooks with no hiking required.
 
 ### Olympic National Park
 
@@ -6711,20 +7659,26 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach
 
-- **41. [Beach 4](https://www.google.com/maps/search/?api=1&query=Beach+4+Olympic+National+Park+WA)** — Olympic National Park, Kalaloch
+- **42. [Beach 4](https://www.google.com/maps/search/?api=1&query=Beach+4+Olympic+National+Park+WA)** — Olympic National Park, Kalaloch
   - **Best for:** Beach / Kalaloch tide pools — Rated 9/10 in Kelley & Carl's Washington hike ratings: Beach 4 on Olympic's Kalaloch coast, where a short steep trail drops to some of the park's best tide pools among folded rock outcrops at low tide.
   - Coordinates from the NPS Kalaloch Beach 4 place record.
   - 🎬 Source: [Honest ratings for Washington hikes](https://www.instagram.com/p/DYFZW3JFlZE/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures
     - **Best for:** Beach / Olympic guide, favorite tide pools — Kalaloch's Beach 4 was Kelley & Carl's favorite tide-pooling beach in their Olympic guide — go at low tide.
-- **42. [Rialto Beach](https://www.google.com/maps/search/?api=1&query=Rialto+Beach+Olympic+National+Park+WA)** — Olympic National Park, La Push
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Olympic coast — Beach 4 is one of the Olympic coast sites in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Beach / Olympic 2-day itinerary — Day 2 coast — Beach 4 is a Day 2 coastal stop in Kelley & Carl's Olympic 2-day itinerary.
+- **43. [Rialto Beach](https://www.google.com/maps/search/?api=1&query=Rialto+Beach+Olympic+National+Park+WA)** — Olympic National Park, La Push
   - **Best for:** Beach / Sea stacks and driftwood wilderness coast — An Olympic must-see on Kelley & Carl's Pacific Northwest road trip — Rialto Beach, the wild Pacific shore of sea stacks, drift logs and the walk north to Hole-in-the-Wall.
   - 🎬 Source: [One of the most beautiful US road trips — the Pacific Northwest](https://www.instagram.com/p/DezcL8TPh9b/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [3 national parks, 1 epic road trip — Washington](https://www.instagram.com/p/DYxfTQ-Egr3/) by @kelleyandcarlsadventures
     - **Best for:** Beach / Olympic must-see, Washington road trip — Rialto Beach is an Olympic must-see on Kelley & Carl's Washington road trip.
   - 🎬 Also recommended by: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures
     - **Best for:** Beach / Olympic guide must-see — Rialto Beach is a must-see ocean stop in Kelley & Carl's Olympic guide.
-- **43. [Ruby Beach](https://www.google.com/maps/search/?api=1&query=Ruby+Beach+Olympic+National+Park+WA)** — Olympic National Park, Kalaloch
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Beach / Olympic 2-day itinerary — Day 2 coast — Rialto Beach is a Day 2 coastal stop in Kelley & Carl's Olympic 2-day itinerary.
+- **44. [Ruby Beach](https://www.google.com/maps/search/?api=1&query=Ruby+Beach+Olympic+National+Park+WA)** — Olympic National Park, Kalaloch
   - **Best for:** Beach / Sea stacks and driftwood on the Olympic coast — Rated 6/10 in Kelley & Carl's honest ratings for Washington national park hikes: Ruby Beach, the Olympic coast icon — sea stacks, driftwood-strewn sand and Abbey Island just offshore, off US-101 near Kalaloch.
   - Pin is the OSM Ruby Beach point on the Olympic coast.
   - 🎬 Source: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DbtuSyhEiti/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6736,10 +7690,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Beach / Rated 6/10, Washington ratings — Rated 6/10 in Kelley & Carl's Washington hike ratings: Ruby Beach in Olympic National Park.
   - 🎬 Also recommended by: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures
     - **Best for:** Beach / Olympic guide must-see — Ruby Beach is a must-see ocean stop in Kelley & Carl's Olympic guide.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Olympic coast — Ruby Beach is one of the Olympic coast sites in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Beach / Olympic 2-day itinerary — Day 2 coast — Ruby Beach is a Day 2 coastal stop in Kelley & Carl's Olympic 2-day itinerary.
 
 ##### Hike
 
-- **44. [Hall of Mosses](https://www.google.com/maps/search/?api=1&query=Hall+of+Mosses+Hoh+Rain+Forest+Olympic+National+Park+WA)** — Olympic National Park, Forks
+- **45. [Hall of Mosses](https://www.google.com/maps/search/?api=1&query=Hall+of+Mosses+Hoh+Rain+Forest+Olympic+National+Park+WA)** — Olympic National Park, Forks
   - **Best for:** Hike / Giant trees · Moss-draped rainforest loop in the Hoh Rain Forest — Ranked #3 of the carousel's 10 hikes among giant trees: a 0.8-mile loop through the Hoh Rain Forest's moss-covered giants in Olympic National Park, Washington. (Kelley & Carl's National Park Checklist lists the same Hall of Mosses Trail: 1.1 miles, 80 ft gain, rated easy.)
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/hoh-rain-forest-hall-of-moss)
   - Pin is the OSM Hoh Rain Forest Visitor Center point — the Hall of Mosses trailhead leaves from the visitor center.
@@ -6766,11 +7724,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Favorite Olympic hike, magical parks — The Hall of Mosses Trail is one of Kelley & Carl's favorite Olympic hikes in their magical-parks list.
   - 🎬 Also recommended by: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Olympic guide, Hoh Rainforest — The Hall of Mosses in the Hoh Rainforest is a must-see in Kelley & Carl's Olympic guide.
-- **45. [Klahhane Ridge](https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Olympic — The Hall of Mosses is one of the Olympic hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — The Hall of Mosses Trail (1.1-mile easy loop, 82 ft; go early for parking) is one of Kelley & Carl's 'perfect' bucket-list hikes.
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — The Hall of Mosses (1.1-mile easy loop, 82 ft) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Best hike in Olympic (#8 most visited) — The Hall of Mosses (1-mile loop, 80 ft) is Kelley & Carl's favorite hike in Olympic, #8 in their most-visited-parks countdown.
+  - 🎬 Also recommended by: [10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Easiest hikes with epic views — The Hall of Mosses Trail (1.1-mile easy loop, 82 ft) is one of the 10 easiest national park hikes with epic views in Kelley & Carl's list.
+  - 🎬 Also recommended by: [Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Washington trip, Olympic pick — The Hall of Mosses is one of the Olympic stops in Kelley & Carl's Washington State trip guide.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Olympic 2-day itinerary — Day 2, Hoh Rainforest — The Hall of Mosses, in the Hoh Rainforest, is a Day 2 hike in Kelley & Carl's Olympic 2-day itinerary.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 4 — The Hall of Mosses (1 mile, 100 ft) is one of the 10 epic national park hikes in Part 4 of Kelley & Carl's series.
+- **46. [Klahhane Ridge](https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Hike — Ranked #3, with lush green alpine ridges, distant snow-capped peaks, a grazing deer and a distant black bear.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/klahhane-ridge-via-switchback-trail--2)
   - 🎬 Source: [5 National Park Hikes That Blew My Mind](https://www.instagram.com/reel/De1w6B2hSzz/) by @amorywild (#3 in that reel)
-- **46. [Mount Storm King](https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA)** — Olympic National Park, Olympic National Park
+- **47. [Mount Storm King](https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA)** — Olympic National Park, Olympic National Park
   - **Best for:** Hike / Adrenaline — His #5 adrenaline hike: rocky trail footage, a hiker using a blue rope on a steep dirt section, and sweeping views of Lake Crescent below.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/mount-storm-king)
   - 🎬 Source: [Top 5 National Park Adrenaline Hikes](https://www.instagram.com/reel/DeRqnZahkTx/) by @amorywild (#5 in that reel)
@@ -6794,35 +7768,53 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Olympic guide, strenuous rope climb — Mount Storm King is in Kelley & Carl's Olympic guide with a warning: the top is not fully maintained and requires climbing fixed ropes on a steep incline.
   - 🎬 Also recommended by: [Mount Storm King — would you rope-climb a mountain?](https://www.instagram.com/reel/DW_1kv9pttb/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Olympic feature hike, rope sections — Kelley & Carl feature Mount Storm King in Olympic: 4.1 strenuous miles and 2,106 feet, ending in fixed-rope climbs on an unmaintained section — start early (they had the summit to themselves at 8 AM) and never attempt it in bad weather.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Olympic — Mount Storm King is one of the Olympic hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — Mount Storm King (4.1 hard miles, 2,106 ft; very steep, unmaintained, rope sections) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Hardest day hikes — rope climbs — Mount Storm King (4.5 miles but over 2,100 ft of gain plus rope climbs on steep, slippery terrain) is one of the 10 hardest national park day hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Olympic 2-day itinerary — Day 1 — Mount Storm King is a Day 1 hike in Kelley & Carl's Olympic 2-day itinerary.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic national park hikes, Part 5 — Mount Storm King (5.3 miles, 2,100 ft) is one of the 10 epic national park hikes in Part 5 of Kelley & Carl's series.
 
 ##### Hiking
 
-- **47. [Hurricane Hill](https://www.google.com/maps/search/?api=1&query=Hurricane+Hill+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+- **48. [Hurricane Hill](https://www.google.com/maps/search/?api=1&query=Hurricane+Hill+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Hiking / Wildflower ridge at Hurricane Ridge — An Olympic must-see on Kelley & Carl's Pacific Northwest road trip — the Hurricane Hill Trail at Hurricane Ridge, an easy paved climb to wildflower meadows and strait-to-mountains views.
   - Pin is the Hurricane Hill Trailhead at Hurricane Ridge (a bare-name geocode returned a same-named hill in Utah and was rejected).
   - 🎬 Source: [One of the most beautiful US road trips — the Pacific Northwest](https://www.instagram.com/p/DezcL8TPh9b/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Olympic guide, Hurricane Ridge — Hurricane Hill is a must-hike in Kelley & Carl's Olympic guide, up at Hurricane Ridge.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Olympic 2-day itinerary — Hurricane Ridge area — Hurricane Hill is part of Kelley & Carl's Olympic 2-day itinerary coverage of Hurricane Ridge (the post's own Hurricane Ridge overlook is a roadside viewpoint, not this trail).
 
 ##### Lake
 
-- **48. [Lake Crescent](https://www.google.com/maps/search/?api=1&query=Lake+Crescent+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+- **49. [Lake Crescent](https://www.google.com/maps/search/?api=1&query=Lake+Crescent+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Lake / Glacially carved sapphire lake — One of Kelley & Carl's 10 most beautiful lakes in the USA: Lake Crescent in Olympic National Park, a 624-foot-deep glacial lake of famously clear blue water along Highway 101 — view it from the shore pullouts or from the very difficult Mount Storm King climb above it. (Their caption spells it 'Crescent Lake'; the lake's name is Lake Crescent.)
   - Coordinates are the published lake-center point.
   - 🎬 Source: [10 of the most beautiful lakes in the USA](https://www.instagram.com/p/DYfIFKKllS9/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Crescent Lake — Crescent Lake in Olympic — viewable from shoreline viewpoints or from far above on the very difficult Mount Storm King hike — is one of Kelley & Carl's 10 most beautiful lakes in the USA.
+  - 🎬 Also recommended by: [Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Washington trip, Olympic pick — Lake Crescent is one of the Olympic stops in Kelley & Carl's Washington State trip guide.
 
 ##### Overlooked view
 
-- **49. [Olympic National Park](https://www.google.com/maps/search/?api=1&query=Olympic+National+Park+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+- **50. [Olympic National Park](https://www.google.com/maps/search/?api=1&query=Olympic+National+Park+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Overlooked view / View — Caption calls Olympic's best part overlooked. From a rocky mountain overlook, the video pans across moss- and lichen-covered rock, deep evergreen valleys, and distant snow-capped ranges; on-screen text reads, 'So many people miss this part of Olympic...' No specific trail or overlook is named.
   - Park-level pin is the park's Nominatim point in the park interior.
   - 🎬 Source: [Scenic viewpoint — Olympic National Park](https://www.instagram.com/reel/DdhK7LuBNJP/) by @amorywild (#None in that reel)
   - 🎬 Also recommended by: [Top 10 National Parks](https://www.instagram.com/reel/DdaWOp1N9L3/) by @amorywild
     - **Best for:** Top national park — His #10 national park: Olympic, shown with mountain vistas and a deer grazing.
+  - 🎬 Also recommended by: [Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Parks visited in 2025 — Olympic is one of the 17 national parks Kelley & Carl rated from their 2025 travels — 'wildly diverse', they said.
 
 ##### Viewpoint
 
-- **50. [Tree of Life (Kalaloch Beach)](https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA)** — Olympic National Park, Kalaloch
+- **51. [Tree of Life (Kalaloch Beach)](https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA)** — Olympic National Park, Kalaloch
   - **Best for:** Viewpoint — Big Bat Billy's stop: the Tree of Life at Kalaloch Beach in Olympic National Park — the famous Sitka spruce that keeps growing over an eroded gully, its roots exposed in a root cave beneath it, right on the beach.
   - Coordinates from published references for the Tree of Life itself, at the north end of Kalaloch Beach by the campground — the tree is not a mapped OpenStreetMap feature (the beach's OSM point sits ~1.5 miles south).
   - 🎬 Source: [Tree of Life — Kalaloch Beach, Olympic National Park](https://www.instagram.com/reel/DduRKbUhtT9/) by @bigbatbilly (#1 in that reel)
@@ -6832,10 +7824,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / Rated 6/10, Washington ratings — Rated 6/10 in Kelley & Carl's Washington hike ratings: the Tree of Life at Kalaloch in Olympic National Park.
   - 🎬 Also recommended by: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures
     - **Best for:** Landmark / Olympic guide must-see — The Tree of Life at Kalaloch is a must-see in Kelley & Carl's Olympic guide.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Olympic coast — The Tree of Life is one of the Olympic coast sites in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Landmark / Olympic 2-day itinerary — Day 2 coast — The Tree of Life at Kalaloch is a Day 2 coastal stop in Kelley & Carl's Olympic 2-day itinerary.
 
 ##### Waterfall
 
-- **51. [Madison Falls](https://www.google.com/maps/search/?api=1&query=Madison+Falls+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+- **52. [Madison Falls](https://www.google.com/maps/search/?api=1&query=Madison+Falls+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Waterfall / Tiny paved stroll to a horsetail falls in the Elwha Valley — Rated just 4/10 in Kelley & Carl's honest ratings for Washington national park hikes — their lowest Washington score: Madison Falls is a very short paved walk in the Elwha Valley to a slender waterfall. Pretty, but over in minutes.
   - Pin is the OSM Madison Falls point in the Elwha River valley.
   - 🎬 Source: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DbtuSyhEiti/) by @kelleyandcarlsadventures (#None in that reel)
@@ -6843,7 +7839,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / Rated 4/10, Washington ratings — Rated 4/10 in Kelley & Carl's Washington hike ratings: Madison Falls in Olympic National Park.
   - 🎬 Also recommended by: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Olympic guide rainforest walk — Madison Falls is one of the rainforest-vibe walks in Kelley & Carl's Olympic guide.
-- **52. [Marymere Falls Trail](https://www.google.com/maps/search/?api=1&query=Marymere+Falls+Trail+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Olympic — Madison Falls is one of the Olympic hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Olympic 2-day itinerary — Day 1 — Madison Falls is a Day 1 stop in Kelley & Carl's Olympic 2-day itinerary.
+- **53. [Marymere Falls Trail](https://www.google.com/maps/search/?api=1&query=Marymere+Falls+Trail+Olympic+National+Park+WA)** — Olympic National Park, Port Angeles
   - **Best for:** Waterfall / 90-foot falls in old-growth forest by Lake Crescent — Rated 7/10 in Kelley & Carl's honest ratings for Washington national park hikes: the easy forest walk from the Storm King Ranger Station at Lake Crescent to Marymere Falls, pouring 90 ft down a mossy cliff.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/marymere-falls-trail)
   - Pin is the OSM Marymere Falls point by Lake Crescent.
@@ -6856,7 +7856,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Olympic guide rainforest walk — Marymere Falls is one of the rainforest-vibe walks in Kelley & Carl's Olympic guide.
   - 🎬 Also recommended by: [Mount Storm King — would you rope-climb a mountain?](https://www.instagram.com/reel/DW_1kv9pttb/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Olympic feature detour — Kelley & Carl recommend the short, easy detour to Marymere Falls from the Mount Storm King trailhead at Lake Crescent.
-- **53. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Olympic — Marymere Falls is one of the Olympic hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Washington trip, Olympic pick — Marymere Falls is one of the Olympic stops in Kelley & Carl's Washington State trip guide.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Olympic 2-day itinerary — Day 1 — Marymere Falls is a Day 1 hike in Kelley & Carl's Olympic 2-day itinerary.
+- **54. [Sol Duc Falls](https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA)** — Olympic National Park, Sol Duc
   - **Best for:** Waterfall — Ranked #3 waterfall, plunging into a mossy gorge and viewed from a bridge.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/sol-duc-falls-nature-trail)
   - 🎬 Source: [5 National Park Waterfalls That Blew My Mind](https://www.instagram.com/reel/De7XlmFhwkI/) by @amorywild (#3 in that reel)
@@ -6874,6 +7880,18 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Waterfall / Best waterfalls list — Sol Duc Falls is on Kelley & Carl's 10 best national park waterfalls list — a 1.8-mile round trip hike with 262 feet of gain.
   - 🎬 Also recommended by: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures
     - **Best for:** Waterfall / Olympic guide rainforest walk — Sol Duc Falls is one of the rainforest-vibe walks in Kelley & Carl's Olympic guide.
+  - 🎬 Also recommended by: [Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/) by @kelleyandcarlsadventures
+    - **Best for:** Rating / Washington hike ratings, Olympic — Sol Duc Falls is one of the Olympic hikes in Kelley & Carl's honest ratings for Washington national park hikes.
+  - 🎬 Also recommended by: [10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Epic hikes Part 3 — Sol Duc Falls (1.8 easy miles, 262 ft) is one of the ten epic hikes in Part 3 of Kelley & Carl's series (January 2026 version).
+  - 🎬 Also recommended by: [10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / PNW best hikes — Sol Duc Falls (1.8 easy miles, 262 ft) is one of the 10 best PNW national park hikes in Kelley & Carl's list.
+  - 🎬 Also recommended by: [10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / National park waterfalls top 11 — Sol Duc Falls (48 ft, via the 1.6-mile trail) is one of Kelley & Carl's top 11 national park waterfalls.
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Olympic 2-day itinerary — Day 1 — Sol Duc Falls is a Day 1 hike in Kelley & Carl's Olympic 2-day itinerary.
+  - 🎬 Also recommended by: [10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / Epic national park hikes, Part 3 — Sol Duc Falls (1.6 miles, 200 ft) is one of the 10 epic national park hikes in Part 3 of Kelley & Carl's series.
 
 ### Olympic National Park (Rialto Beach)
 
@@ -6881,11 +7899,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **54. [Hole-in-the-Wall](https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Olympic+National+Park+(Rialto+Beach)+WA)** — Olympic National Park (Rialto Beach), La Push
+- **55. [Hole-in-the-Wall](https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Olympic+National+Park+(Rialto+Beach)+WA)** — Olympic National Park (Rialto Beach), La Push
   - **Best for:** Hiking / Sea arch carved through a headland, reached at low tide — One of Kelley & Carl's Olympic coast picks in their most-diverse-park reel: Hole-in-the-Wall, a sea arch punched through a rocky headland about 1.5 miles north of Rialto Beach — another great one at low tide, when the tide pools around it come alive.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/hole-in-the-wall-trail)
   - Coordinates from the USGS GNIS record via TopoQuest; the arch is reached by a beach walk north from Rialto Beach and is only passable around low tide.
   - 🎬 Source: [Olympic — the most diverse national park in America](https://www.instagram.com/reel/DXuL3bTpw0U/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Olympic 2-day itinerary — Rialto Beach hike — Hole-in-the-Wall, reached from Rialto Beach, is part of Kelley & Carl's Olympic 2-day itinerary.
 
 ### Ross Lake National Recreation Area
 
@@ -6893,21 +7913,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **55. [Ross Lake Overlook](https://www.google.com/maps/search/?api=1&query=Ross+Lake+Overlook+Ross+Lake+National+Recreation+Area+WA)** — Ross Lake National Recreation Area, Rockport
+- **56. [Ross Lake Overlook](https://www.google.com/maps/search/?api=1&query=Ross+Lake+Overlook+Ross+Lake+National+Recreation+Area+WA)** — Ross Lake National Recreation Area, Rockport
   - **Best for:** Viewpoint / Ross Lake and Colonial Peak from a Highway 20 pullout — A don't-miss Highway 20 stop in Kelley & Carl's North Cascades mini guide: the Ross Lake Overlook near milepost 135, looking down the glacier-blue length of Ross Lake toward Colonial and Pyramid peaks.
   - Coordinates from the NPS place record for Ross Lake Overlook.
   - 🎬 Source: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Viewpoint / North Cascades 2-day itinerary — easy add-on — The Ross Lake Overlook is an easy add-on in Kelley & Carl's North Cascades 2-day itinerary.
 
 ##### Waterfall
 
-- **56. [Gorge Creek Falls](https://www.google.com/maps/search/?api=1&query=Gorge+Creek+Falls+Ross+Lake+National+Recreation+Area+WA)** — Ross Lake National Recreation Area, Rockport
+- **57. [Gorge Creek Falls](https://www.google.com/maps/search/?api=1&query=Gorge+Creek+Falls+Ross+Lake+National+Recreation+Area+WA)** — Ross Lake National Recreation Area, Rockport
   - **Best for:** Waterfall / 242-ft cascade visible from the Highway 20 Gorge Lake bridge — A don't-miss stop in Kelley & Carl's North Cascades mini guide: Gorge Creek Falls, a 242-foot cascade pouring into Gorge Lake, viewed from the overlooks at the ends of the Highway 20 bridge.
   - Coordinates from waterfallhikes.com's Gorge Creek Falls record.
   - 🎬 Source: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures (#None in that reel)
-- **57. [Ladder Creek Falls](https://www.google.com/maps/search/?api=1&query=Ladder+Creek+Falls+Ross+Lake+National+Recreation+Area+WA)** — Ross Lake National Recreation Area, Newhalem
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / North Cascades 2-day itinerary — easy add-on — Gorge Creek Falls is an easy add-on in Kelley & Carl's North Cascades 2-day itinerary.
+- **58. [Ladder Creek Falls](https://www.google.com/maps/search/?api=1&query=Ladder+Creek+Falls+Ross+Lake+National+Recreation+Area+WA)** — Ross Lake National Recreation Area, Newhalem
   - **Best for:** Waterfall / Garden waterfall behind the Gorge Powerhouse, lit in color at night — A don't-miss stop in Kelley & Carl's North Cascades mini guide: Ladder Creek Falls in Newhalem, a tiered waterfall behind the Gorge Powerhouse reached by a short garden loop — and illuminated in changing colors after dark, a Seattle City Light tradition since the 1920s.
   - Coordinates from the USGS GNIS record via TopoQuest, agreeing with waterfallhikes.com.
   - 🎬 Source: [Mini guide to North Cascades National Park](https://www.instagram.com/reel/DYc1VgqJYzP/) by @kelleyandcarlsadventures (#None in that reel)
+  - 🎬 Also recommended by: [2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/) by @kelleyandcarlsadventures
+    - **Best for:** Waterfall / North Cascades 2-day itinerary — easy add-on — Ladder Creek Falls is an easy add-on in Kelley & Carl's North Cascades 2-day itinerary.
 
 ### Silver Falls State Park
 
@@ -6915,7 +7941,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **58. [Trail of Ten Falls](https://www.google.com/maps/search/?api=1&query=Trail+of+Ten+Falls+Silver+Falls+State+Park)** — Silver Falls State Park, Silverton
+- **59. [Trail of Ten Falls](https://www.google.com/maps/search/?api=1&query=Trail+of+Ten+Falls+Silver+Falls+State+Park)** — Silver Falls State Park, Silverton
   - **Best for:** Waterfall / Hike · Ten waterfalls on one 7.7-mile loop — The best bang-for-your-buck waterfall hike: the 7.7-mile Trail of Ten Falls at Silver Falls State Park, about an hour from Portland — and you get to walk UNDER (behind) four of the falls. The reel's tips: hike the loop clockwise, parking at the South Falls lot to start; bring a credit card ($5 parking at some lots, machines on site); expect to get a little wet walking behind the falls, so bring a rain jacket in colder months; grab the park trail map or an app like AllTrails first, since one or two falls need a side trail; dogs can't hike this trail (take them on the Rim Trail instead); and start early — it's popular.
   - Pin is the Silver Falls State Park point (OSM); the loop starts at the South Falls day-use area per the reel.
   - 🎬 Source: [Trail of Ten Falls at Silver Falls State Park — walk under 4 of them](https://www.instagram.com/reel/DcLyRDbxiGY/) by @thetravelingdans (#None in that reel)
@@ -6926,7 +7952,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **59. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
+- **60. [Colchuck Lake](https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA)** — The Enchantments (Alpine Lakes Wilderness), Leavenworth
   - **Best for:** Hike — Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It's a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/washington/colchuck-lake-via-stuart-lake-trail)
   - Coordinates verified against OpenStreetMap.
@@ -6947,6 +7973,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Lake / Beautiful lakes list — Colchuck Lake is on Kelley & Carl's 10 most beautiful lakes in the USA list — a moderate-to-hard 9-mile round trip with 2,342 feet of gain; bring a swimsuit in summer.
   - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DXxCiTJCarq/) by @kelleyandcarlsadventures
     - **Best for:** Hiking / Perfect hike — Colchuck Lake via the Stuart Lake & Colchuck Lake Trail is one of Kelley & Carl's 'perfect' hikes — 9 miles round trip, 2,329 feet of gain, in Okanogan-Wenatchee National Forest.
+  - 🎬 Also recommended by: [10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/) by @kelleyandcarlsadventures
+    - **Best for:** Lake / Most beautiful lakes — Colchuck Lake (9 miles RT, 2,342 ft; 'bring your swimsuit in the summer!') is one of Kelley & Carl's 10 most beautiful lakes in the USA.
+  - 🎬 Also recommended by: [Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/) by @kelleyandcarlsadventures
+    - **Best for:** Hiking / Perfect bucket-list hikes — Colchuck Lake via the Stuart Lake & Colchuck Lake trails (9 miles RT, 2,329 ft) is one of Kelley & Carl's 'perfect' bucket-list hikes.
 
 ## Alaska Region {#alaska}
 
@@ -8385,6 +9415,106 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: The perfect Arizona road trip by van out of Phoenix: Saguaro (Cactus Forest Drive, Wasson Peak, Javelina Rocks), Mount Lemmon (as a source on the new pin), Chiricahua (Echo Canyon, Massai Point), Petrified Forest (Blue Mesa, Crystal Forest, Kachina Point), Canyon de Chelly (Spider Rock, White House), Page (Antelope Canyon, Horseshoe Bend), the Grand Canyon (South Kaibab, Hopi Point, Desert View, Yaki Point) and Sedona (Cathedral Rock, Bell Rock, Devil's Bridge, Doe Mountain). Attached as a source on all twenty-one stops; no new pins.
 - **[Mount Lemmon — desert saguaros to snowy pines in 27 miles](https://www.instagram.com/reel/DVgrC_qkYWV/)** — @kelleyandcarlsadventures · 1 places · Theme: Tucson scenic drive
   - What the reel recommends: How is this even possible? One road — the Catalina Highway up Mount Lemmon, 45–60 minutes from downtown Tucson — climbs 27 miles and 6,000+ feet from desert saguaros to snowy alpine pines on a 'sky island', past pullouts like Windy Point (their favorite) to Summerhaven and one of the southernmost ski areas in the US. Added as a new pin; the perfect addition to a Saguaro itinerary.
+- **[10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DUOJIEbjrFN/)** — @kelleyandcarlsadventures · 10 places · Theme: Best national park overlooks list
+  - What the reel recommends: An exact repost of their '10 best national park overlooks' carousel later in this batch — word-identical caption. Flagged as a repost; the original's place list is carried over and no sources were attached.
+- **[Florida's 3 national parks — one epic road trip](https://www.instagram.com/p/DUEEUB4Ccnd/)** — @kelleyandcarlsadventures · 7 places · Theme: Florida national parks road trip guide
+  - What the reel recommends: Florida's three national parks in one road trip: Biscayne (Boca Chita Key added as a new pin), the Everglades (Mahogany Hammock and the Pa-hay-okee Overlook added as new pins, plus Shark Valley and the Anhinga Trail) and Dry Tortugas' Fort Jefferson. Three new pins; attached as a source on four more stops.
+- **[Honest ratings for national park hikes in Utah](https://www.instagram.com/p/DT5pT1BDpNJ/)** — @kelleyandcarlsadventures · 12 places · Theme: Utah hike ratings
+  - What the reel recommends: Honest ratings for 12 Utah national park hikes, scores included: Navajo Loop & Queen's Garden and Cassidy Arch top the list at 10/10, Angels Landing 9/10, Delicate Arch 8/10, The Narrows 7.5/10, down to the Pa'rus Trail and Mossy Cave at 5/10. Attached as a scored source on all twelve pins; no new pins.
+- **[Honest ratings for national park hikes in Washington](https://www.instagram.com/p/DTszpqtCUWw/)** — @kelleyandcarlsadventures · 16 places · Theme: Washington hike ratings
+  - What the reel recommends: Honest ratings for Washington national park hikes across Rainier (Skyline Loop, Silver Falls, Mount Fremont, Burroughs), Olympic (Mount Storm King, Marymere Falls, Hall of Mosses, Madison Falls, Tree of Life, Sol Duc Falls, Ruby Beach, Beach 4) and North Cascades (Cascade Pass, Doubtful Lake, Sahale Arm, Maple Pass). Attached as a source on all sixteen pins; no new pins.
+- **[10 epic national park bucket list hikes — Part 3](https://www.instagram.com/p/DTgD69Niav-/)** — @kelleyandcarlsadventures · 10 places · Theme: Epic national park hikes series, part 3
+  - What the reel recommends: Part 3 of their epic-hikes series, January 2026 re-run: Fort Jefferson, Skyline Loop, Hickman Bridge, the East Anacapa Island Trail (added as a new pin — this post is its primary source), Grinnell Glacier, Sol Duc Falls, Watchman Peak, Saddle Pass, Sky Pond and the Big Room. One new pin; attached as a source on nine more.
+- **[10 epic national park bucket list hikes — Part 2](https://www.instagram.com/p/DTYPmZfCXQM/)** — @kelleyandcarlsadventures · 10 places · Theme: Epic national park hikes series, part 2
+  - What the reel recommends: Part 2 of their epic-hikes series, January 2026 re-run: White Sands Backcountry, Vernal Falls, Bristlecone & Alpine Lakes, Endless Wall, Delta Lake, the Devil's Hall Trail (added as a new pin — this post is its primary source), Upper Hawksbill for 'Hawkbill Summit', Angels Landing, the Anhinga Trail and the Painted Wall. One new pin; attached as a source on nine more.
+- **[10 epic national park bucket list hikes — Part 1](https://www.instagram.com/p/DTQr_cLiXK8/)** — @kelleyandcarlsadventures · 10 places · Theme: Epic national park hikes series, part 1
+  - What the reel recommends: An exact repost of 'Epic Hikes Part 1' later in this batch — identical list and caption. Flagged as a repost; the original's place list is carried over and no sources were attached.
+- **[Rating the national parks we visited in 2025](https://www.instagram.com/p/DTGLxCjCewh/)** — @kelleyandcarlsadventures · 17 places · Theme: 2025 national park ratings
+  - What the reel recommends: Rating the 17 national parks they visited in 2025: Rainier, Grand Teton, Glacier and North Cascades score 10/10, Wind Cave just 3/10 (broken elevator), with Indiana Dunes' industrial edges, Yellowstone's crowds and Shenandoah's tight parking noted. Attached as a source on all seventeen park pins; no new pins.
+- **[7 national parks, 1 epic Southwest road trip](https://www.instagram.com/p/DS-btKACeQ-/)** — @kelleyandcarlsadventures · 10 places · Theme: Southwest national parks road trip guide
+  - What the reel recommends: Seven national parks, one epic Southwest road trip — the slide-named hikes (South Kaibab, Delicate Arch, Windows & Turret, Mesa Arch, Hickman Bridge, Navajo Loop, Angels Landing, The Narrows, Wheeler Peak, Lehman Caves) are attached as sources; no new pins.
+- **[10 most beautiful lakes in the USA](https://www.instagram.com/p/DS0NjYxCbHr/)** — @kelleyandcarlsadventures · 10 places · Theme: Most beautiful US lakes list
+  - What the reel recommends: The 10 most beautiful lakes in the USA: Grinnell Lake (attached to the Grinnell Glacier pin), Emerald Lake, Diablo Lake, Delta Lake, Lake Powell (Navajo Mountain Viewpoint), Doubtful Lake, Colchuck Lake, Lake Tahoe (Sand Harbor), Crater Lake and Lake Crescent. Attached as a source on all ten; no new pins.
+- **[Perfect hikes to add to your bucket list](https://www.instagram.com/p/DSsYtTCiRan/)** — @kelleyandcarlsadventures · 10 places · Theme: Perfect bucket-list hikes
+  - What the reel recommends: Perfect hikes to add to your bucket list — ten trails attached as sources across the Southwest, the Rockies and the Pacific Northwest; no new pins.
+- **[10 of the most beautiful national park roads](https://www.instagram.com/p/DSVAVskjkbh/)** — @kelleyandcarlsadventures · 8 places · Theme: Most beautiful national park roads
+  - What the reel recommends: 10 of the most beautiful national park roads: the Generals Highway, the Badlands Loop Road and Skyline Drive added as new pins, plus Going-to-the-Sun Road, the Temple of the Sun & Moon road (attached to that pin), Trail Ridge Road, the Ross Maxwell Scenic Drive and the Wheeler Peak Scenic Drive (attached to the Wheeler Peak pin). Three new pins.
+- **[10 of the best national park hikes — PNW edition](https://www.instagram.com/p/DSFzQrTCUBN/)** — @kelleyandcarlsadventures · 11 places · Theme: Pacific Northwest best hikes
+  - What the reel recommends: 10 of the best national park hikes, PNW edition — eleven Pacific Northwest trails and viewpoints attached as sources; no new pins.
+- **[Southern California's 3 national parks — one epic road trip](https://www.instagram.com/p/DR-MhuTCamA/)** — @kelleyandcarlsadventures · 18 places · Theme: Southern California national parks road trip
+  - What the reel recommends: Southern California's three national parks in one road trip out of Los Angeles: Channel Islands, Joshua Tree and Death Valley must-sees and best hikes. Attached as a source on all eighteen stops; no new pins.
+- **[10 of the best national park hikes — Southwest edition](https://www.instagram.com/p/DR2tGfUCVPh/)** — @kelleyandcarlsadventures · 10 places · Theme: Southwest best hikes
+  - What the reel recommends: 10 of the best national park hikes, Southwest edition — Navajo Loop & Queen's Garden, Cassidy Arch, Angels Landing, Hickman Bridge, The Narrows, Windows & Turret, Mesa Arch, Mossy Cave, South Kaibab and Delicate Arch. Attached as a source on all ten; no new pins.
+- **[The best hike in the 10 most visited national parks](https://www.instagram.com/p/DRsD-VbCd87/)** — @kelleyandcarlsadventures · 10 places · Theme: Most visited parks' best hikes
+  - What the reel recommends: Their favorite hike in each of the 10 most visited national parks (2024 visitation): Grinnell Glacier, Delta Lake, Hall of Mosses, Beehive, Vernal Falls, Emerald Lake, Upper Geyser Basin, South Kaibab, Angels Landing and Alum Cave. Attached as a source on all ten; no new pins.
+- **[2026 national park fee changes for non-residents](https://www.instagram.com/p/DRkTSJyDd02/)** — @kelleyandcarlsadventures · 0 places · Theme: National park fee changes news
+  - What the reel recommends: News post: 2026 national park fee changes for non-residents — the America the Beautiful pass rising from $80 to $250 and a $100 per-person surcharge at 11 parks. No places featured; no pins or sources.
+- **[10 places in the USA for nature lovers (that aren't national parks)](https://www.instagram.com/p/DRcsZtCCbBU/)** — @kelleyandcarlsadventures · 7 places · Theme: Non-national-park nature places
+  - What the reel recommends: 10 places in the USA for nature lovers that aren't national parks: The Enchantments added as a new pin, plus Dead Horse Point, Mount Monadnock, Grayson Highlands, the Hanksville badlands, Lake Tahoe (Sand Harbor) and Bear Rocks attached as sources. One new pin.
+- **[5 desert national parks to visit this winter](https://www.instagram.com/p/DRU7AlWCXrx/)** — @kelleyandcarlsadventures · 5 places · Theme: Winter desert national parks
+  - What the reel recommends: 5 desert national parks to visit this winter — Joshua Tree, Death Valley, the Grand Canyon, Big Bend and White Sands, with winter temperature notes for each. Attached as a source on all five park pins; no new pins.
+- **[10 of the easiest national park hikes with epic views](https://www.instagram.com/p/DRNRWGdid04/)** — @kelleyandcarlsadventures · 10 places · Theme: Easiest national park hikes
+  - What the reel recommends: 10 of the easiest national park hikes with epic views: the Cook's Meadow Loop added as a new pin, plus Fort Jefferson, Upper Geyser Basin, Congress Trail, Dragon Point, Cholla Cactus Garden, Grand Wash, East Anacapa, Brandywine Falls and Hall of Mosses attached as sources. One new pin.
+- **[New Mexico & Texas — 4 national parks, 1 epic winter road trip](https://www.instagram.com/p/DRFm4HtCZw3/)** — @kelleyandcarlsadventures · 10 places · Theme: New Mexico and Texas national parks road trip
+  - What the reel recommends: New Mexico & Texas — four national parks, one epic winter road trip: White Sands (Alkali Flat), Carlsbad (Natural Entrance, Big Room), Guadalupe Mountains (Guadalupe Peak, Devil's Hall, McKittrick Canyon, El Capitan) and Big Bend (Lost Mine, Emory Peak, Santa Elena Canyon). Attached as a source on all ten; no new pins.
+- **[5 national parks with the best water](https://www.instagram.com/p/DQ93Zd9icS6/)** — @kelleyandcarlsadventures · 19 places · Theme: National parks with the best water
+  - What the reel recommends: 5 national parks with the best water: Hayden Valley added as a new pin, plus Crater Lake's Watchman Peak, Garfield Peak, Cleetwood Cove and Merriam Point, Yellowstone's Morning Glory, Grand Prismatic, Artist Point, Old Faithful and Lamar Valley, North Cascades' Diablo Lake, Cascade Pass, Sahale Arm and Maple Pass, Glacier's Hidden Lake, Highline, Grinnell Glacier and Going-to-the-Sun Road, and Dry Tortugas' Fort Jefferson. One new pin; attached as a source on eighteen more.
+- **[10 of the most underrated national parks](https://www.instagram.com/p/DQ16SpICQ05/)** — @kelleyandcarlsadventures · 35 places · Theme: Most underrated national parks
+  - What the reel recommends: 10 of the most underrated national parks, with their favorite spots in each — White Sands, Channel Islands, Capitol Reef, Great Basin, Theodore Roosevelt, Crater Lake, Carlsbad Caverns, New River Gorge, Badlands and Dry Tortugas. Attached as a source on thirty-five pins; no new pins.
+- **[10 of the hardest national park day hikes](https://www.instagram.com/p/DQuVybVCRs-/)** — @kelleyandcarlsadventures · 10 places · Theme: Hardest national park day hikes
+  - What the reel recommends: 10 of the hardest national park day hikes — Angels Landing, the Garden Wall, Delta Lake, Burroughs, Old Rag, Mount Storm King, South Kaibab to Phantom Ranch, Sky Pond, Sahale Arm and Half Dome, with the stats that make each one hard. Attached as a source on all ten; no new pins.
+- **[5 of the most otherworldly national parks](https://www.instagram.com/p/DQmiUXoCfc0/)** — @kelleyandcarlsadventures · 7 places · Theme: Most otherworldly national parks
+  - What the reel recommends: 5 of the most otherworldly national parks — Capitol Reef (Hickman Bridge), Death Valley (Zabriskie Point, Mesquite Flat Dunes), the Grand Canyon (South Kaibab), Bryce (Navajo Loop) and Badlands (Door and Notch trails). Attached as a source on seven pins; no new pins.
+- **[5 of the best national parks for mountain lovers](https://www.instagram.com/p/DQeyaxbiT0A/)** — @kelleyandcarlsadventures · 6 places · Theme: National parks for mountain lovers
+  - What the reel recommends: 5 of the best national parks for mountain lovers — North Cascades (Diablo Lake, Cascade Pass, Maple Pass), Grand Teton (Cascade Canyon, Taggart Lake) and Rocky Mountain (Trail Ridge Road) attached as sources; no new pins.
+- **[10 epic national park sunset spots](https://www.instagram.com/p/DQSK_w2CbYh/)** — @kelleyandcarlsadventures · 10 places · Theme: National park sunset spots
+  - What the reel recommends: 10 epic national park sunset spots: the Charles A. Webb Overlook (Smokies) and Sotol Vista (Big Bend) added as new pins, plus Dragon Point, White Sands Backcountry, Wind Canyon, Mormon Row, Keys View, Sunrise Point, Salt Basin Dunes and Hopi Point attached as sources. Two new pins.
+- **[10 of the best national park sunrise spots](https://www.instagram.com/p/DQKNSv9CWTP/)** — @kelleyandcarlsadventures · 10 places · Theme: National park sunrise spots
+  - What the reel recommends: 10 of the best national park sunrise spots — Inspiration Point, Schwabacher Landing, Bearfence Mountain, Mesquite Flat Dunes, Mount Fremont Lookout, Tunnel View, Watchman Peak, Hazel Mountain Overlook, South Kaibab and Hidden Lake. Attached as a source on all ten; no new pins.
+- **[Colorado's 4 national parks — one epic road trip](https://www.instagram.com/p/DQCYqihDopp/)** — @kelleyandcarlsadventures · 6 places · Theme: Colorado national parks road trip
+  - What the reel recommends: Colorado's four national parks in one road trip: Great Sand Dunes, Rocky Mountain (Trail Ridge Road, Bear Lake), Black Canyon (Painted Wall, Dragon Point) and Mesa Verde (Cliff Palace). Attached as a source on all six; no new pins.
+- **[7 national parks, 1 epic Southwest road trip — 14 days](https://www.instagram.com/p/DP7GrBBiWBs/)** — @kelleyandcarlsadventures · 5 places · Theme: Southwest national parks road trip itinerary
+  - What the reel recommends: 7 national parks, 1 epic Southwest road trip — their 14-day itinerary out of Las Vegas (Grand Canyon → Arches & Canyonlands → Capitol Reef → Bryce → Zion → Great Basin), with the slide-named hikes Angels Landing, The Narrows, Navajo Loop & Queen's Garden, Lehman Caves and Wheeler Peak attached as sources; no new pins.
+- **[East Coast fall — 4 national parks, 1 epic road trip](https://www.instagram.com/p/DPwXeCGjlQ2/)** — @kelleyandcarlsadventures · 10 places · Theme: East Coast fall national parks road trip
+  - What the reel recommends: East Coast fall — four national parks, one epic road trip: the Sharp Top Trail (their Day 5 favorite hike) added as a new pin, plus Old Rag, Bearfence, Skyline Drive, the 20-Minute Cliff Overlook, Endless Wall, the Babcock grist mill, Alum Cave, Cades Cove and the Congaree Boardwalk attached as sources. One new pin.
+- **[10 East Coast fall overlooks — no hiking required](https://www.instagram.com/p/DPopSG2jtIM/)** — @kelleyandcarlsadventures · 10 places · Theme: East Coast fall overlooks list
+  - What the reel recommends: 10 East Coast fall overlooks, no hiking required: the Linn Cove Viaduct, Waterrock Knob, Indian Run Overlook and Jewell Hollow Overlook added as new pins, plus Tunnel Parking, the New River Gorge Bridge Overlook (Canyon Rim), 20-Minute Cliff, Buck Hollow, Hazel Mountain and the Charles A. Webb Overlook attached as sources. Four new pins.
+- **[10 bucket list fall hikes on the East Coast](https://www.instagram.com/p/DPe-5Gmia8g/)** — @kelleyandcarlsadventures · 10 places · Theme: East Coast fall hikes
+  - What the reel recommends: 10 bucket list fall hikes on the East Coast — Dark Hollow Falls, Craggy Pinnacle, Stony Man, Seneca Rocks, Mingo Falls, Old Rag, Sharp Top, Endless Wall, Elakala Falls and Blackrock Summit, with distances and gains. Attached as a source on all ten; no new pins.
+- **[Washington's 3 national parks — one epic road trip](https://www.instagram.com/p/DPUAnPUjspr/)** — @kelleyandcarlsadventures · 8 places · Theme: Washington national parks road trip
+  - What the reel recommends: Washington's three national parks in one epic road trip — Rainier (Skyline Loop, Narada Falls), Olympic (Hall of Mosses, Marymere Falls, Lake Crescent) and North Cascades (Diablo Lake, Cascade Pass, Maple Pass). Attached as a source on all eight; no new pins.
+- **[10 bucket list lakes of the Canadian Rockies](https://www.instagram.com/p/DPMYHWXDqOo/)** — @kelleyandcarlsadventures · 0 places · Theme: Canadian Rockies lakes (held out — outside the USA)
+  - What the reel recommends: 10 bucket list lakes of the Canadian Rockies — Moraine Lake, Emerald Lake (Yoho), Bow Lake, Lake Annette, Beauvert Lake, Peyto Lake, Pyramid Lake, Maligne Lake, Lake Louise and Waterfowl Lakes, all in Banff, Yoho and Jasper, Canada. Held out under the USA-only rule: no pins, no sources.
+- **[10 of the best national park waterfalls](https://www.instagram.com/p/DPCRIpqCdVu/)** — @kelleyandcarlsadventures · 11 places · Theme: Best national park waterfalls
+  - What the reel recommends: 10 of the best national park waterfalls (eleven falls): Upper and Lower Yosemite Falls, the Lower Falls of the Yellowstone from Artist Point, Dark Hollow Falls, Hidden Falls, Tropic Ditch Falls at Mossy Cave, Brandywine Falls, Vernal Falls, Alberta Falls, Myrtle Falls and Sol Duc Falls. Attached as a source on all eleven pins; no new pins.
+- **[2 days hiking North Cascades National Park](https://www.instagram.com/p/DO6TKvDjhus/)** — @kelleyandcarlsadventures · 11 places · Theme: North Cascades two-day hiking itinerary
+  - What the reel recommends: 2 days hiking North Cascades: Day 1 Cascade Pass with Doubtful Lake and Sahale Arm extensions and the Diablo Lake Overlook, Day 2 the Maple Pass Loop, plus easy add-ons (Trail of the Cedars, Ladder Creek Falls, Gorge Creek Falls, Ross Lake and Washington Pass overlooks, Blue Lake). Attached as a source on all eleven; no new pins.
+- **[10 of the most beautiful lakes in the United States](https://www.instagram.com/p/DOzRhQsieAw/)** — @kelleyandcarlsadventures · 10 places · Theme: Most beautiful US lakes list
+  - What the reel recommends: A re-cut of their '10 most beautiful lakes' carousel earlier in this batch — same ten lakes, reordered and lightly reworded. Flagged as a repost; the original's place list is carried over and no sources were attached.
+- **[Olympic National Park in 2 days](https://www.instagram.com/p/DOq9BX-iccN/)** — @kelleyandcarlsadventures · 11 places · Theme: Olympic two-day itinerary
+  - What the reel recommends: Olympic National Park in 2 days: Day 1 Marymere Falls, Mount Storm King, Sol Duc Falls and Madison Falls; Day 2 the Hoh Rainforest (Hall of Mosses) and the coast — Beach 4, the Tree of Life, Ruby Beach, Rialto Beach and Hole-in-the-Wall — plus Hurricane Hill. Attached as a source on all eleven; no new pins.
+- **[10 of the best national park overlooks — no hiking required](https://www.instagram.com/p/DOjBfb_jt-9/)** — @kelleyandcarlsadventures · 10 places · Theme: Best national park overlooks list
+  - What the reel recommends: 10 of the best national park overlooks — no hiking required: Lake McDonald and the Great Sand Dunes Oasis viewpoint added as new pins, plus Schwabacher Landing, Zabriskie Point, Merriam Point, Hopi Point, Diablo Lake, Tunnel View, Hazel Mountain Overlook and Inspiration Point attached as sources. Two new pins.
+- **[2 days in Mount Rainier National Park](https://www.instagram.com/p/DObhiNoCUOW/)** — @kelleyandcarlsadventures · 8 places · Theme: Mount Rainier two-day itinerary
+  - What the reel recommends: 2 days in Mount Rainier: Day 1 on the Paradise side (Skyline Loop, Myrtle Falls, Narada Falls, Reflection Lakes), Day 2 on the Sunrise side (Silver Falls, Tipsoo Lake, Mount Fremont Lookout, Burroughs Mountain). Attached as a source on all eight; no new pins.
+- **[10 epic national park hikes — Part 6](https://www.instagram.com/p/DOTnHm6jrNE/)** — @kelleyandcarlsadventures · 11 places · Theme: Epic national park hikes series, part 6
+  - What the reel recommends: Part 6 of their epic-hikes series (the original August 2025 run): Burroughs Mountain, Congress Trail, Hidden Falls, Stony Man, Cascade Pass, Sahale Arm, Grand Wash, Garfield Peak, Wind Canyon, Alum Cave (for Peregrine Peak) and Alberta Falls. Attached as a source on all eleven; no new pins.
+- **[10 epic national park hikes — Part 5](https://www.instagram.com/p/DOMJyuGiR4J/)** — @kelleyandcarlsadventures · 10 places · Theme: Epic national park hikes series, part 5
+  - What the reel recommends: Part 5 of their epic-hikes series: Lost Mine, the Garden Wall, Cleetwood Cove, Cliff Shelf, Mount Storm King, The Narrows, Beehive, Badwater Basin, Boicourt Overlook and South River Falls. Attached as a source on all ten; no new pins.
+- **[10 epic national park hikes — Part 4](https://www.instagram.com/p/DOEJPQwjj2c/)** — @kelleyandcarlsadventures · 10 places · Theme: Epic national park hikes series, part 4
+  - What the reel recommends: Part 4 of their epic-hikes series: South Kaibab, Mount Fremont Lookout, the Cholla Cactus Garden (the post labels it Death Valley; it is in Joshua Tree and is attached to that pin), Old Rag, Grinnell Glacier, Yosemite Falls, Rankin Ridge, Upper Geyser Basin, Hall of Mosses and Cassidy Arch. Attached as a source on all ten; no new pins.
+- **[10 epic national park hikes — Part 3](https://www.instagram.com/p/DN6g2sIkulq/)** — @kelleyandcarlsadventures · 10 places · Theme: Epic national park hikes series, part 3
+  - What the reel recommends: Part 3 of their epic-hikes series (the original August 2025 run — the January 2026 re-run is earlier in this batch): Fort Jefferson, Skyline Loop, Hickman Bridge, East Anacapa, Hidden Lake Overlook, Sol Duc Falls, Watchman Peak, Saddle Pass, Sky Pond and the Big Room. Attached as a source on all ten; no new pins.
+- **[10 epic national park hikes — Part 2](https://www.instagram.com/p/DNwOPiXZHSv/)** — @kelleyandcarlsadventures · 10 places · Theme: Epic national park hikes series, part 2
+  - What the reel recommends: Part 2 of their epic-hikes series (the original August 2025 run): White Sands Backcountry, Vernal Falls, Bristlecone & Alpine Lakes, Endless Wall, Devil's Hall, Delta Lake, Angels Landing, Painted Wall, Brandywine Falls and the Anhinga Trail. Attached as a source on all ten; no new pins.
+- **[10 epic national park hikes — Part 1](https://www.instagram.com/p/DNn9t6LuI2M/)** — @kelleyandcarlsadventures · 10 places · Theme: Epic national park hikes series, part 1
+  - What the reel recommends: Part 1 of their epic-hikes series: Navajo Loop & Queen's Garden, the Natural Entrance Trail, Buck Hill, the Highline Trail, Dark Hollow Falls, Potato Harbor, Emerald Lake, the Notch Trail, Grand Prismatic Spring and the Mesquite Flat Sand Dunes. Attached as a source on all ten; no new pins.
+- **[6 national parks, 1 epic road trip — Dakotas, Wyoming & Montana](https://www.instagram.com/p/DNd1E4ZRizG/)** — @kelleyandcarlsadventures · 6 places · Theme: Dakotas Wyoming Montana road trip
+  - What the reel recommends: 6 national parks, 1 epic road trip — their best park-to-park route from Minneapolis: Theodore Roosevelt, Badlands, Wind Cave, Grand Teton, Yellowstone and Glacier in 8 days. Attached as a source on all six park pins; no new pins.
+- **[Wildlife of the Dakotas, Wyoming and Montana](https://www.instagram.com/p/DNLdiJmx4h9/)** — @kelleyandcarlsadventures · 5 places · Theme: National park wildlife photography
+  - What the reel recommends: Wildlife of the Dakotas, Wyoming and Montana — the four parks they name as best for wildlife (Theodore Roosevelt, Yellowstone, Grand Teton, Glacier), with a creator reply confirming the post's grizzly was filmed in Hayden Valley. Attached as a source on the four park pins and Hayden Valley; no new pins.
+- **[2 days in Glacier National Park](https://www.instagram.com/p/DNG-cSbRWfU/)** — @kelleyandcarlsadventures · 8 places · Theme: Glacier two-day itinerary
+  - What the reel recommends: 2 days in Glacier National Park: the Wild Goose Island Lookout added as a new pin, plus Hidden Lake Overlook, the Highline Trail, the Garden Wall, Grinnell Glacier, Going-to-the-Sun Road, the Many Glacier / Swiftcurrent Lake area and Lake McDonald attached as sources. One new pin.
 
 ## How this page is updated {#how-this-page-is-updated}
 
