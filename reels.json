@@ -11804,6 +11804,784 @@
    "places_count": 0,
    "recommendation_summary": "Free national park guide promotion post — no specific stops to pin; kept as a reel record only.",
    "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DE5aFUsR7NE/",
+   "title": "Obsessed with the Azores — tropical greens and volcanic rock",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores must-see spots (foreign)",
+   "posted": "2025-01-16",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "FOREIGN — held out under the USA-only rule: an Azores must-see-spots carousel (Sete Cidades, Mosteiros, Chá Gorreana, Algar do Carvão, Lagoa do Fogo), Portugal. Kept as a reel record only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DEu-c0PRUvX/",
+   "title": "Obsessed with the shades of blue — Dry Tortugas",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Dry Tortugas National Park photo tour",
+   "posted": "2025-01-12",
+   "added": "2026-11-10",
+   "place_ids": [
+    "dry-tortugas-national-park-fl"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Dry Tortugas photo tour: Fort Jefferson in shades of blue, with the honest costs flagged (over $500 for two, rough ferry, book ahead). Attached as a source on the Dry Tortugas pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DEnk3npRI8G/",
+   "title": "Everglades National Park mini guide",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Everglades National Park guide",
+   "posted": "2025-01-09",
+   "added": "2026-11-10",
+   "place_ids": [
+    "everglades-national-park-fl",
+    "anhinga-trail-fl",
+    "pa-hay-okee-overlook-fl",
+    "mahogany-hammock-trail-fl",
+    "shark-valley-fl"
+   ],
+   "places_count": 5,
+   "recommendation_summary": "Everglades mini guide: the Anhinga, Pa-hay-okee and Mahogany Hammock walks, Shark Valley by bike or tram, airboats and the Flamingo marina. Attached as sources on five pins; the Flamingo marina is named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DEcyYfExXDC/",
+   "title": "One of the most beautiful lakes in the USA — Lake Tahoe",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Lake Tahoe mini guide",
+   "posted": "2025-01-05",
+   "added": "2026-11-10",
+   "place_ids": [
+    "sand-harbor-nv",
+    "secret-cove-nv",
+    "tahoe-east-shore-trail-nv",
+    "emerald-bay-ca"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "Lake Tahoe mini guide: photos at Secret Cove and Sand Harbor, with the East Shore Trail and Emerald Bay among the notable stops. Attached as sources on four pins; Bonsai Rock, Cave Rock, D.L. Bliss State Park and Sugar Pine Point are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DEQ3go4MZNR/",
+   "title": "Happy New Year — our 2024 adventures recap",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Year recap (no places)",
+   "posted": "2024-12-31",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "New Year post — a 15-photo 'Adventures of 2024' recap (White Sands, Sequoia in snow, Bodie Island Light under stars, Goblin Valley, Yosemite Falls, the Grand Canyon and more) with no specific stops to pin; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DEAx4YsRj9R/",
+   "title": "Merry Christmas from Florida",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Holiday greeting (no places)",
+   "posted": "2024-12-25",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Christmas greeting from a Florida tree farm with family — no places to pin; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DD2opxaR684/",
+   "title": "Forever in awe of Yosemite's waterfalls",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Yosemite waterfalls",
+   "posted": "2024-12-21",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bridalveil-fall-ca",
+    "yosemite-falls-ca",
+    "vernal-falls-ca"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "Yosemite waterfalls photo set: Bridalveil, Yosemite and Vernal falls in early-May spring flow. Attached as sources on the three waterfall pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DDxoz8IRNxF/",
+   "title": "One of the most unique & underrated national parks — Channel Islands",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Channel Islands National Park",
+   "posted": "2024-12-19",
+   "added": "2026-11-10",
+   "place_ids": [
+    "channel-islands-national-park-ca"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Channel Islands photo tour: two days split between Anacapa and Santa Cruz islands — sea caves by kayak, an island fox, dolphins and sea lions. Attached as a source on the park pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DDnGdTXRtxz/",
+   "title": "The perfect desert escape in winter — Joshua Tree bucket list",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Joshua Tree National Park bucket list",
+   "posted": "2024-12-15",
+   "added": "2026-11-10",
+   "place_ids": [
+    "cholla-cactus-garden-ca",
+    "ryan-mountain-ca",
+    "hidden-valley-ca",
+    "skull-rock-ca",
+    "arch-rock-trail-ca",
+    "keys-view-ca"
+   ],
+   "places_count": 6,
+   "recommendation_summary": "Joshua Tree bucket list: Keys View sunset, Hidden Valley, the Hall of Horrors slot canyons, Skull Rock and Arch Rock as easy options, Ryan Mountain, Mastodon Peak, Warren Peak or Forty-Nine Palms Oasis as strenuous ones, the Cholla Cactus Garden at golden hour, and bouldering. Attached as sources on six pins; the Hall of Horrors, Mastodon Peak, Warren Peak and Forty-Nine Palms Oasis are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DDfidexRvyS/",
+   "title": "Don't miss this overlook near Page — Navajo Mountain Overlook",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Navajo Mountain Overlook, Lake Powell",
+   "posted": "2024-12-12",
+   "added": "2026-11-10",
+   "place_ids": [
+    "navajo-mountain-viewpoint-az"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Navajo Mountain Overlook feature: the drive-up Lake Powell overlook near Page, stunning at golden hour. Attached as a source on the Navajo Mountain Viewpoint pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DDVWS1vxCuv/",
+   "title": "Upper Antelope Canyon vs Antelope Canyon X — a side-by-side",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Antelope Canyon comparison",
+   "posted": "2024-12-08",
+   "added": "2026-11-10",
+   "place_ids": [
+    "antelope-canyon-az"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Upper Antelope Canyon vs Antelope Canyon X, side by side: Upper wins the photos (midday light beams, May–September) but is crowded, rushed and pricey; Canyon X is calmer and cheaper without the beams. Attached as a source on the Antelope Canyon pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DDNoerDxxYq/",
+   "title": "Who knew Nevada could look like this? — Cathedral Gorge",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Cathedral Gorge State Park",
+   "posted": "2024-12-05",
+   "added": "2026-11-10",
+   "place_ids": [
+    "cathedral-gorge-state-park-nv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Cathedral Gorge State Park discovery: Miller Point and the Moon Caves slot canyons, a stop between Great Basin and Las Vegas. Attached as a source on the park pin; the sub-spots and the Juniper Draw Loop are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DDC9KTfRHf6/",
+   "title": "4 must-see spots in Capitol Reef",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Capitol Reef highlights",
+   "posted": "2024-12-01",
+   "added": "2026-11-10",
+   "place_ids": [
+    "hickman-bridge-ut",
+    "grand-wash-ut",
+    "cassidy-arch-ut",
+    "temple-of-the-sun-and-moon-ut"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "Capitol Reef's four must-see spots: Hickman Bridge, Grand Wash, Cassidy Arch and the Temple of the Sun & Moon. Attached as sources on the four pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DC7C6lOREFZ/",
+   "title": "Beyond blessed — a nature Thanksgiving",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Thanksgiving gratitude (no places)",
+   "posted": "2024-11-28",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Thanksgiving gratitude post (nature edition) — mountains, canyons, beaches, waterfalls, trees, flowers, wildlife, sunrises and night skies from past trips; no specific stops to pin. Kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DCwuL6XR2uE/",
+   "title": "The most iconic hiking trail in Zion — Angels Landing",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Angels Landing, Zion",
+   "posted": "2024-11-24",
+   "added": "2026-11-10",
+   "place_ids": [
+    "angels-landing-ut"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Angels Landing guide: 5 miles, 1,827 feet of gain, the permit lottery, Grotto trailhead, and a late-afternoon off-season weekday strategy. Attached as a source on the Angels Landing pin. (A separate, later Angels Landing post of theirs was processed in batch 8.)",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DCplCoyR-BN/",
+   "title": "Sunrise Point is stunning at sunset — a Bryce insider tip",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Sunrise Point, Bryce Canyon",
+   "posted": "2024-11-21",
+   "added": "2026-11-10",
+   "place_ids": [
+    "sunrise-point-bryce-canyon-ut"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Bryce Canyon insider tip: Sunrise Point is at its best at golden hour right before sunset. Attached as a source on the Sunrise Point pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DCeo-Y9RTA3/",
+   "title": "Our favorite Grand Canyon overlooks — go at golden hour",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Grand Canyon overlooks",
+   "posted": "2024-11-17",
+   "added": "2026-11-10",
+   "place_ids": [
+    "grand-canyon-national-park-az",
+    "hopi-point-az",
+    "yaki-point-az",
+    "desert-view-watchtower-az",
+    "powell-point-az",
+    "moran-point-az",
+    "maricopa-point-az"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Favorite Grand Canyon overlooks at golden hour: Hopi Point, Yaki Point, the Desert View Watchtower, Powell Point, Moran Point and Maricopa Point. Attached as sources on the park pin and the six overlook pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DCXmXPoRkcJ/",
+   "title": "If you have time for only one Grand Canyon hike, choose this one",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "South Kaibab to Cedar Ridge, Grand Canyon",
+   "posted": "2024-11-14",
+   "added": "2026-11-10",
+   "place_ids": [
+    "south-kaibab-and-bright-angel-trails-phantom-ranch-az"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "South Kaibab to Cedar Ridge feature: their pick for the one Grand Canyon hike to do — 3.5 miles, about 1,200 feet, shuttle access only. Attached as a source on the South Kaibab corridor pin; Ooh Aah Point and Skeleton Point are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DCMnC-SRUZW/",
+   "title": "Saying goodbye to fall in Shenandoah",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Shenandoah National Park fall guide",
+   "posted": "2024-11-10",
+   "added": "2026-11-10",
+   "place_ids": [
+    "shenandoah-national-park-va",
+    "blackrock-summit-va",
+    "stony-man-va",
+    "upper-hawksbill-trail-va",
+    "old-rag-va",
+    "dark-hollow-falls-va",
+    "skyline-drive-va"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Shenandoah fall mini guide: Blackrock Summit, Stony Man and Hawksbill as easy-moderate hikes, Old Rag as the best hard hike, Dark Hollow Falls as the favorite waterfall, and Skyline Drive's overlooks. Attached as sources on seven pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DCJzenTxf5X/",
+   "title": "The ultimate guide to Old Rag, Shenandoah's most popular trail",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Old Rag Mountain guide",
+   "posted": "2024-11-09",
+   "added": "2026-11-10",
+   "place_ids": [
+    "old-rag-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Old Rag ultimate guide: the day-use ticket season, the 9.4-mile loop with its rock scramble versus the 6-mile Berry Hollow route. Attached as a source on the Old Rag pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DB6enoJxNlt/",
+   "title": "Walking through a sea of yellow on Skyline Drive",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Skyline Drive fall foliage",
+   "posted": "2024-11-03",
+   "added": "2026-11-10",
+   "place_ids": [
+    "skyline-drive-va",
+    "shenandoah-national-park-va"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Peak-fall Skyline Drive photo set — a 'sea of yellow' photographed on the Dickey Ridge Trail near Low Gap. Attached as sources on the Skyline Drive and Shenandoah park pins; the Dickey Ridge Trail is named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DBzOu9cxrIo/",
+   "title": "Happy Halloween — pumpkin picking at Cullipher Farm",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Halloween pumpkin patch (no places)",
+   "posted": "2024-10-31",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Halloween pumpkin-picking post at Cullipher Farm — a family fall tradition, not a travel feature; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DBpFt31xTbn/",
+   "title": "More clouds than mountains in Switzerland — Kleine Scheidegg",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Kleine Scheidegg, Switzerland (foreign)",
+   "posted": "2024-10-27",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "FOREIGN — held out under the USA-only rule: Kleine Scheidegg in the Swiss Bernese Oberland, all clouds and atmosphere. Kept as a reel record only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DBm7T0Gs3D-/",
+   "title": "Lucerne — the Swiss city that holds our hearts",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Lucerne, Switzerland (foreign)",
+   "posted": "2024-10-26",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "FOREIGN — held out under the USA-only rule: Lucerne, Switzerland (Chapel Bridge, the promenade, the Jesuit Church), with slides from Koblenz, Germany and Lake Geneva. Kept as a reel record only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DBTwY6jxyjd/",
+   "title": "Shenandoah's fall views — none of them required hiking",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Shenandoah no-hike overlooks",
+   "posted": "2024-10-19",
+   "added": "2026-11-10",
+   "place_ids": [
+    "skyline-drive-va",
+    "shenandoah-national-park-va"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Shenandoah appreciation post: every photo taken from Skyline Drive's 75+ overlooks with no hiking at all. Attached as sources on the Skyline Drive and park pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DBHrtZ-RzIn/",
+   "title": "Brienz — our unexpected Swiss home base",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Brienz, Switzerland (foreign)",
+   "posted": "2024-10-14",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "FOREIGN — held out under the USA-only rule: Brienz, Switzerland, their home base for a few Swiss days (with Interlaken, Thun, Grindelwald and Lake Geneva in the slides). Kept as a reel record only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DA6Vn0kx-bp/",
+   "title": "Fall views don't get better than Dark Hollow Falls",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Dark Hollow Falls, Shenandoah",
+   "posted": "2024-10-09",
+   "added": "2026-11-10",
+   "place_ids": [
+    "dark-hollow-falls-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Dark Hollow Falls in peak fall color (photos from October 2022): 1.6 moderate miles, downhill out and uphill back. Attached as a source on the Dark Hollow Falls pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DAllet4MMKL/",
+   "title": "Blackrock Summit — with an animal surprise",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Blackrock Summit, Shenandoah",
+   "posted": "2024-10-01",
+   "added": "2026-11-10",
+   "place_ids": [
+    "blackrock-summit-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Blackrock Summit in fall, with a swipe-for-it animal surprise: an easy 1.1 miles and a recommended scramble up the summit rock pile. Attached as a source on the Blackrock Summit pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DAb_HMgxoDa/",
+   "title": "A hidden gem on the Blue Ridge Parkway — Wigwam Falls",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Wigwam Falls, Blue Ridge Parkway",
+   "posted": "2024-09-27",
+   "added": "2026-11-10",
+   "place_ids": [
+    "wigwam-falls-va",
+    "blue-ridge-parkway-nc"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Wigwam Falls discovery: a fall drive on the Blue Ridge Parkway past the Yankee Horse Ridge Trailhead (Milepost 34.4) to a 30-foot waterfall on an old logging railroad. Created the Wigwam Falls pin and attached as a source on the Blue Ridge Parkway pin.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/DATucIXxotL/",
+   "title": "Fall moments on the North Carolina Blue Ridge Parkway",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Blue Ridge Parkway fall drive (NC)",
+   "posted": "2024-09-24",
+   "added": "2026-11-10",
+   "place_ids": [
+    "blue-ridge-parkway-nc"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "North Carolina Blue Ridge Parkway fall drive — peak color in late October and a sign to plan a fall road trip. Attached as a source on the Blue Ridge Parkway pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DAKBQtyMFuT/",
+   "title": "Bristlecone & Alpine Lakes Loop — Nevada's only glacier",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bristlecone & Alpine Lakes Loop, Great Basin",
+   "posted": "2024-09-20",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bristlecone-and-alpine-lakes-trail-nv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Bristlecone & Alpine Lakes Loop feature: Wheeler Peak's glacier, the ancient bristlecone grove and peak fall aspens, with a road-construction heads-up. Attached as a source on the trail pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/DABsbCyxt9H/",
+   "title": "Peregrine Peak via Alum Cave Bluff Trail",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Peregrine Peak via Alum Cave, Smokies",
+   "posted": "2024-09-17",
+   "added": "2026-11-10",
+   "place_ids": [
+    "alum-cave-trail-smokies-tn"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Peregrine Peak via the Alum Cave Bluff Trail: 5 moderate miles, all uphill out, with the LeConte continuation and Smokies parking-tag notes. Attached as a source on the Alum Cave Trail pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C_8BEORxOgO/",
+   "title": "Happy 30th birthday, Carl",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Birthday post (no places)",
+   "posted": "2024-09-15",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Carl's 30th birthday tribute with travel photos from past trips — no specific stops to pin; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C_4KcE4Mr3H/",
+   "title": "Our New River Gorge highlights for fall",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "New River Gorge National Park highlights",
+   "posted": "2024-09-13",
+   "added": "2026-11-10",
+   "place_ids": [
+    "new-river-gorge-national-park-and-preserve-wv",
+    "endless-wall-trail-wv",
+    "long-point-trail-wv",
+    "canyon-rim-overlook-wv",
+    "grandview-wv",
+    "new-river-gorge-bridge-walk-wv",
+    "sandstone-falls-wv"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "New River Gorge fall highlights: the Endless Wall and Long Point hikes, Canyon Rim and Grandview overlooks, the Bridge Walk, Fayette Station Road and Sandstone Falls. Attached as sources on the park pin and six feature pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C_yP3SrP6EO/",
+   "title": "Seneca Rocks — the rain cleared to a cloud inversion",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Seneca Rocks Trail, West Virginia",
+   "posted": "2024-09-11",
+   "added": "2026-11-10",
+   "place_ids": [
+    "seneca-rocks-wv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Seneca Rocks Trail story: rain at the trailhead, a cloud inversion at the summit. Attached as a source on the Seneca Rocks pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C_oXR_RSuEd/",
+   "title": "The deepest gorge east of the Mississippi — Breaks Interstate Park",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Breaks Interstate Park, Virginia",
+   "posted": "2024-09-07",
+   "added": "2026-11-10",
+   "place_ids": [
+    "towers-overlook-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Breaks Interstate Park feature: the 'Grand Canyon of the South,' deepest gorge east of the Mississippi. Created the Towers Overlook pin — their recommended overlook for the Russell Fork River views.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/C_luuOXxQ3D/",
+   "title": "Wild ponies at Grayson Highlands — our favorite Virginia state park",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Grayson Highlands State Park",
+   "posted": "2024-09-06",
+   "added": "2026-11-10",
+   "place_ids": [
+    "wilburn-ridge-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Grayson Highlands appreciation post: 100+ wild ponies (they saw at least 20), high-elevation views, and Wilburn Ridge via the Appalachian Trail as their favorite hike — their favorite Virginia state park ever. Attached as a source on the Wilburn Ridge pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C_drEFsv19J/",
+   "title": "The Great Channels — Virginia's sandstone labyrinth",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "The Great Channels, Virginia",
+   "posted": "2024-09-03",
+   "added": "2026-11-10",
+   "place_ids": [
+    "great-channels-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "The Great Channels feature: five tips for Virginia's sandstone labyrinth — weekday or early/late arrival for the 10 parking spots, bug spray, mixed terrain and a 1,300-foot climb. Created The Great Channels pin.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/C_TEG0uxHAE/",
+   "title": "A waterfall a day — 10 waterfalls to visit once in your life",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Must-visit waterfalls list",
+   "posted": "2024-08-30",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bridalveil-fall-ca",
+    "dark-hollow-falls-va",
+    "alberta-falls-co",
+    "vernal-falls-ca",
+    "blackwater-falls-wv",
+    "yosemite-falls-ca"
+   ],
+   "places_count": 6,
+   "recommendation_summary": "Must-visit waterfalls list: the six US entries are attached as sources on their pins — Bridalveil Fall (#2), Dark Hollow Falls (#3), Alberta Falls (#4), Vernal Fall (#6), Blackwater Falls (#8) and Yosemite Falls (#10). The four foreign entries are excluded under the USA-only rule: Takakkaw Falls, Canada (#1), Seljalandsfoss, Iceland (#5), Ribeira dos Caldeirões, Azores (#7) and Skógafoss, Iceland (#9).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C_Lm7KaxIJk/",
+   "title": "Virginia Beach throwback — our home beach tips",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Virginia Beach tips (no places)",
+   "posted": "2024-08-27",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Virginia Beach throwback (photos from five summers earlier): sunrise on the beach, the Boardwalk and King Neptune Statue, Chick's Oyster Bar, Town Center, First Landing and False Cape state parks and Lolly's Creamery. A hometown guide rather than a place feature — kept as a reel record only, with no pins created.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C-u0LN7Rid4/",
+   "title": "Our favorite lighthouses",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Favorite lighthouses",
+   "posted": "2024-08-16",
+   "added": "2026-11-10",
+   "place_ids": [
+    "assateague-lighthouse-va",
+    "delaware-breakwater-lighthouse-de",
+    "portland-head-light-me",
+    "cape-lookout-lighthouse-nc",
+    "bodie-island-lighthouse-nc",
+    "bass-harbor-head-light-me"
+   ],
+   "places_count": 6,
+   "recommendation_summary": "Favorite-lighthouses countdown: created pins for Assateague Lighthouse (#1), Delaware Breakwater East End Lighthouse (#2), Portland Head Light (#3) and Cape Lookout Lighthouse (#4), and attached as sources on Bodie Island Lighthouse (#6) and Bass Harbor Head Light (#7). The two foreign entries are excluded under the USA-only rule: Farol do Arnel, Azores (#5) and Dyrhólaey Lighthouse, Iceland (#8).",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/C-pl_h5xMgV/",
+   "title": "Virginia's giant natural arch — Natural Bridge",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Natural Bridge State Park, Virginia",
+   "posted": "2024-08-14",
+   "added": "2026-11-10",
+   "place_ids": [
+    "natural-bridge-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Natural Bridge State Park feature: Jefferson's arch ('the most sublime of nature's works'), the Lace Falls walk via Cedar Creek and the Skyline Trail loop. Created the Natural Bridge pin.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/C-YJ6P_RGhn/",
+   "title": "A few favorite places in the Azores",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores landscapes (foreign)",
+   "posted": "2024-08-07",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "FOREIGN — held out under the USA-only rule: Azores landscape photos (Serra do Cume, Vista do Rei, Santa Bárbara beach, Vila Franca islet, Ponta do Sossego), Portugal. Kept as a reel record only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C-Dih80x5ml/",
+   "title": "Our hearts are with Jasper — wildfire tribute",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Jasper National Park, Canada (foreign)",
+   "posted": "2024-07-30",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "FOREIGN — held out under the USA-only rule: a tribute post for Jasper National Park, Canada, during the July 2024 wildfires. Kept as a reel record only; no places added.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C-A_Qp8RTmn/",
+   "title": "Reintroducing ourselves",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Introduction post (no places)",
+   "posted": "2024-07-29",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Reintroduction post for new followers — no places to pin; kept as a reel record only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C97eufLRv5U/",
+   "title": "Wildlife spotting in Rocky Mountain National Park",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Rocky Mountain wildlife viewing",
+   "posted": "2024-07-27",
+   "added": "2026-11-10",
+   "place_ids": [
+    "rocky-mountain-national-park-co",
+    "trail-ridge-road-co"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Rocky Mountain wildlife report: a moose, many elk and marmots over two July days, mostly on the park's western side. Attached as sources on the park and Trail Ridge Road pins; Forest Canyon Overlook is named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C9zk4x5RrQL/",
+   "title": "Rocky Mountain National Park mini guide — our 3-day itinerary",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Rocky Mountain National Park itinerary",
+   "posted": "2024-07-24",
+   "added": "2026-11-10",
+   "place_ids": [
+    "rocky-mountain-national-park-co",
+    "emerald-lake-co",
+    "bear-lake-co",
+    "sprague-lake-co",
+    "trail-ridge-road-co",
+    "sky-pond-co",
+    "chasm-lake-co"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Rocky Mountain 3-day mini guide itinerary: Lookout Mountain and the Peak to Peak Highway on Day 1, the Bear Lake lakes chain, Sprague Lake and Trail Ridge Road on Day 2, Sky Pond or Chasm Lake and the western side on Day 3. Attached as sources on seven pins; Lookout Mountain, Saint Catherine's Chapel, Lily Lake, Moraine Park, the Alpine Ridge Trail and the individual Trail Ridge overlooks are named in the post but unpinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C9sAezzxHcp/",
+   "title": "Sky Pond via Glacier Gorge Trail",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Sky Pond, Rocky Mountain",
+   "posted": "2024-07-21",
+   "added": "2026-11-10",
+   "place_ids": [
+    "sky-pond-co",
+    "alberta-falls-co"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "Sky Pond feature: Alberta Falls, the Loch, Timberline Falls and Lake of Glass on the way to Sky Pond, with a waterfall scramble at the top. Attached as sources on the Sky Pond and Alberta Falls pins.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C9pNeZGxaGE/",
+   "title": "Rocky Mountain landscapes are unreal — our top tips",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Rocky Mountain National Park tips",
+   "posted": "2024-07-20",
+   "added": "2026-11-10",
+   "place_ids": [
+    "rocky-mountain-national-park-co"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Rocky Mountain top-tips post (their 17th national park): early starts, weekdays, timed entry, Trail Ridge Road and altitude care. Attached as a source on the park pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C9AOnVAswN-/",
+   "title": "Happy 4th of July from Charleston",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Holiday greeting (no places)",
+   "posted": "2024-07-04",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Fourth of July greeting from Charleston — no places to pin; kept as a reel record only.",
+   "duplicate_place": true
   }
  ]
 }
