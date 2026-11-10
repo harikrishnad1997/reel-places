@@ -14964,6 +14964,744 @@
    "places_count": 1,
    "recommendation_summary": "'Sand dunes, sunsets, mountains, and each other. What more could you ask for?' — the caption never names the place ('any guesses?'); the creator confirms in the comments that it's White Sands. Attached to the park pin.",
    "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C1ey-RnO50s/",
+   "title": "Our 2023 wrapped — travel edition",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "2023 travel year in review (no place)",
+   "posted": "2023-12-30",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "'Instead of Spotify wrapped, here is our 2023 wrapped travel edition' — a year-in-review template post (thanks to @theloverspassport for the template). The montage's backdrops are not named in the caption, so nothing is pinned from it.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C1R_Sw7uc7B/",
+   "title": "Merry Christmas from a tree farm",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Christmas greeting (no place)",
+   "posted": "2023-12-25",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "'Sending you peace, love, and joy this holiday season' — a Christmas greeting photographed at an unnamed Christmas tree farm at golden hour. No place named; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C1C4GJeuQdY/",
+   "title": "Thinking about Iceland — Reykjanes eruption",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Iceland reminiscence (foreign)",
+   "posted": "2023-12-19",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: Iceland — reminiscing on their September 2021 trip (a waterfall, Reynisfjara black-sand beach, a glacial lagoon and Fjaðrárgljúfur Canyon in the photos) after the new Reykjanes Peninsula eruption 4 km from Grindavík; their thoughts are with the evacuated residents. Kept as a reel entry only.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C04oGRCOu8T/",
+   "title": "Little Island — NYC views from the most unique park",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Little Island Pier 55 feature",
+   "posted": "2023-12-15",
+   "added": "2026-11-10",
+   "place_ids": [
+    "little-island-ny"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Little Island at Pier 55, attached to the existing pin: 'the perfect place for a stroll with beautiful New York City views and ever changing gardens', free to the public, suspended above the Hudson on its tulip-pier architecture.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C0w0MNMOg65/",
+   "title": "SUMMIT One Vanderbilt — 93 floors up in the fog",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "SUMMIT One Vanderbilt visit",
+   "posted": "2023-12-12",
+   "added": "2026-11-10",
+   "place_ids": [
+    "summit-one-vanderbilt-ny"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "SUMMIT One Vanderbilt, attached to the existing pin: the skyline was fogged out, but the mirrored rooms were 'unreal' 93 floors up.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C0pY_P_ObXr/",
+   "title": "NYC Christmas bucket list",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "NYC Christmas bucket list",
+   "posted": "2023-12-09",
+   "added": "2026-11-10",
+   "place_ids": [
+    "rockefeller-center-ny",
+    "bryant-park-ny",
+    "macys-herald-square-ny",
+    "radio-city-music-hall-ny"
+   ],
+   "places_count": 4,
+   "recommendation_summary": "Their NYC Christmas bucket list, attached as sources to the Rockefeller Center, Bryant Park, Macy's and Radio City pins: holiday storefronts (Sak's, Cartier, Macy's, Louis Vuitton), ice skating (Rockefeller, Bryant Park, Wollman Rink, Brooklyn Bridge Park), the Rockefeller tree (go early, late, or on a weekday), holiday markets (Bryant Park, Union Square), Hudson Yards' decorative hot air balloons, and Radio City's giant bulbs and candy canes.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C0jeezsOXnb/",
+   "title": "Macy's — our favorite NYC holiday storefront",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Macy's holiday storefront",
+   "posted": "2023-12-07",
+   "added": "2026-11-10",
+   "place_ids": [
+    "macys-herald-square-ny"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'Our favorite holiday storefront in New York City — Macy's Department Store: 151 W 34th St.' Attached to the Macy's Herald Square pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C0UFlaWuqv2/",
+   "title": "Congaree National Park — an honest review",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Congaree National Park review",
+   "posted": "2023-12-01",
+   "added": "2026-11-10",
+   "place_ids": [
+    "congaree-national-park-sc",
+    "boardwalk-loop-sc",
+    "weston-lake-loop-trail-sc"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "Their honest Congaree review, attached to the park, Boardwalk Loop and Weston Lake Loop pins: one of the least-visited parks, no big wow factor, but an easy 5 miles of boardwalk + Weston Loop, best early for morning light and in fall for ideal weather and minimal mosquitoes — 'not our favorite, but worth a trip', combined with northwest SC state parks.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/C0FUD26uoGP/",
+   "title": "South Carolina mountain bucket list",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "South Carolina mountain bucket list",
+   "posted": "2023-11-25",
+   "added": "2026-11-10",
+   "place_ids": [
+    "campbells-covered-bridge-sc",
+    "raven-cliff-falls-sc",
+    "caesars-head-state-park-sc",
+    "bald-rock-heritage-preserve-sc",
+    "table-rock-state-park-sc",
+    "devils-fork-state-park-sc",
+    "sassafras-mountain-sc"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Their South Carolina mountain bucket list — seven new pins: Campbell's Covered Bridge (the only covered bridge in SC), Raven Cliff Falls (their falls pick; Pinnacle Mountain Falls, Lee Falls, Issaqueena Falls and Yellow Branch Falls are the named alternatives), the overlooks at Caesars Head State Park and Bald Rock Heritage Preserve, kayaking at Table Rock or Devils Fork State Park, and sunset at Sassafras Mountain, the highest point in South Carolina.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/Cz_e5QOOQuH/",
+   "title": "Thankful — National Park #10 together",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Thanksgiving gratitude post (no place)",
+   "posted": "2023-11-23",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "A Thanksgiving gratitude post: 'We made it to National Park #10 together recently (Congaree National Park)' on their quest to visit all the national parks together. Congaree is named as a milestone only — no recommendation is made, so nothing is attached from this post (their full Congaree review is the Dec 1 post).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CzwwwdUu-Uo/",
+   "title": "Blue Ridge Parkway in the fall — favorite hikes & overlooks",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Blue Ridge Parkway NC favorites",
+   "posted": "2023-11-17",
+   "added": "2026-11-10",
+   "place_ids": [
+    "beacon-heights-nc",
+    "devils-courthouse-nc",
+    "chestoa-viewpoint-nc",
+    "bear-den-overlook-nc",
+    "deerlick-gap-overlook-nc",
+    "three-knobs-overlook-nc",
+    "black-mountains-overlook-nc",
+    "cowee-mountains-overlook-nc",
+    "linn-cove-viaduct-nc",
+    "craggy-pinnacle-nc",
+    "waterrock-knob-nc"
+   ],
+   "places_count": 11,
+   "recommendation_summary": "Their fall drive down the North Carolina side of the Blue Ridge Parkway — favorite hikes: Beacon Heights, Craggy Pinnacle, Devil's Courthouse; favorite overlooks: Linn Cove Viaduct, Chestoa Viewpoint, Bear Den Overlook, Deerlick Gap Overlook, Three Knobs Overlook, Black Mountains Overlook, Cowee Mountain Overlook, Waterrock Knob. Eight new pins (Beacon Heights, Devil's Courthouse, Chestoa, Bear Den, Deerlick Gap, Three Knobs, Black Mountains, Cowee Mountains); Linn Cove, Craggy Pinnacle and Waterrock Knob attached as sources.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/CzmFIJEujAk/",
+   "title": "Alum Cave Trail — Smokies send-off hike",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Alum Cave Trail guide",
+   "posted": "2023-11-13",
+   "added": "2026-11-10",
+   "place_ids": [
+    "alum-cave-trail-smokies-tn"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Alum Cave, attached to the existing pin: a 4.5-mile moderate trail (AllTrails: Peregrine Peak via Alum Cave Bluff Trail), with the Mount LeConte summit extension as an option; they found parking around 8:45 am on a weekday — weekends need much earlier.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CzjoylLOtui/",
+   "title": "Layers in Great Smoky Mountains National Park",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Smokies layered ridges photo",
+   "posted": "2023-11-12",
+   "added": "2026-11-10",
+   "place_ids": [
+    "great-smoky-mountains-national-park-tn"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'Layers in Great Smoky Mountains National Park' — a single layered-ridges photo, attached to the park pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CzeYpjcOPC1/",
+   "title": "Clingmans Dome — highest point in Tennessee",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Clingmans Dome guide",
+   "posted": "2023-11-10",
+   "added": "2026-11-10",
+   "place_ids": [
+    "clingmans-dome-tn"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Clingmans Dome — a new pin: views steps from the parking lot, but the paved 1.3-mile out-and-back to the tower is worth it; entirely uphill and steep; at 6,643 ft the highest point in Tennessee; beautiful for sunrise or sunset; on a fall Sunday afternoon they waited about an hour for parking and were glad they did.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/CzWoUTNuHpC/",
+   "title": "National Park #9 — Great Smoky Mountains & Cades Cove",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Smokies and Cades Cove feature",
+   "posted": "2023-11-07",
+   "added": "2026-11-10",
+   "place_ids": [
+    "great-smoky-mountains-national-park-tn",
+    "cades-cove-tn"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "National Park #9 together — Great Smoky Mountains in the fall (crowds included), attached to the park and Cades Cove pins: the Cades Cove Loop is 11 miles but takes 2–4 hours; three churches, a working gristmill, barns and log houses from the 1818–1821 settlement; start early — their 9 am start still took over 2 hours, with wildlife along the way.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CzPUHTTOyVs/",
+   "title": "Sunsets on the Blue Ridge Parkway — Waterrock Knob",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Waterrock Knob sunset",
+   "posted": "2023-11-04",
+   "added": "2026-11-10",
+   "place_ids": [
+    "waterrock-knob-nc"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'Sunsets on the Blue Ridge Parkway — Waterrock Knob, NC.' Attached to the Waterrock Knob pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CzMOHEXOmR5/",
+   "title": "That Friday feeling — Bear Den Overlook",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bear Den Overlook photo",
+   "posted": "2023-11-03",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bear-den-overlook-nc"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'That Friday feeling — Bear Den Overlook, NC Blue Ridge Parkway.' Attached as a source to the Bear Den Overlook pin, whose primary source is their parkway-favorites list two weeks later (Nov 17) naming this overlook.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CzHnUDQOihu/",
+   "title": "Babcock State Park — the grist mill in fall",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Babcock State Park fall finale",
+   "posted": "2023-11-01",
+   "added": "2026-11-10",
+   "place_ids": [
+    "babcock-state-park-wv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "The finale of their West Virginia series, attached to the Babcock State Park pin: 'no fall trip to the region is complete without a stop at Babcock State Park. The grist mill surrounded by fall foliage is utter perfection.'",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CzFcgNIuO9l/",
+   "title": "Happy Halloween — pumpkin patch tradition",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Halloween pumpkin patch (no place)",
+   "posted": "2023-10-31",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "'Happy Halloween — we always make sure to add visiting a pumpkin patch to our fall bucket list every year.' The pumpkin patch is unnamed; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cy_51Luu4FD/",
+   "title": "Blackwater Falls — the ultimate WV fall bucket list",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Blackwater Falls State Park guide",
+   "posted": "2023-10-29",
+   "added": "2026-11-10",
+   "place_ids": [
+    "blackwater-falls-wv",
+    "elakala-falls-wv"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "'Blackwater Falls State Park in Davis, West Virginia is the ultimate fall bucket list location' — attached to the Blackwater Falls and Elakala Falls pins: multiple waterfalls and overlooks, all their photos taken within a few miles of each other with minimal effort.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cy8WM3Pu-o_/",
+   "title": "New River Gorge Bridge Walk — 851 feet up",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "New River Gorge Bridge Walk",
+   "posted": "2023-10-28",
+   "added": "2026-11-10",
+   "place_ids": [
+    "new-river-gorge-bridge-walk-wv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "The New River Gorge Bridge Walk, attached to the existing pin: a guided catwalk tour 851 feet above the river on the longest single-span steel arch bridge in the US (third highest bridge in the country) — 'plan in advance because spots can be limited'. @wvtourism asked in the comments to share a photo with credit.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cy4mIklOc0j/",
+   "title": "Long Point Trail — best bridge vantage in New River Gorge",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Long Point Trail guide",
+   "posted": "2023-10-26",
+   "added": "2026-11-10",
+   "place_ids": [
+    "long-point-trail-wv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Long Point Trail, attached to the existing pin: 'Do not visit New River Gorge National Park without hiking this easy 3 mile trail! It gives you the best vantage point of the famous bridge.' Photo taken October 18, just ahead of peak foliage.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CyzBqFPOMhw/",
+   "title": "Shenandoah in the fall — beauty along the whole trail",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Shenandoah fall appreciation",
+   "posted": "2023-10-24",
+   "added": "2026-11-10",
+   "place_ids": [
+    "shenandoah-national-park-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Shenandoah in the fall, attached to the park pin: 'you can find beauty along the entire hiking trail... Shenandoah National Park is just STUNNING in the fall.' The specific trail is not named.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cyo3omPOShU/",
+   "title": "National Park #8 — New River Gorge & the Endless Wall Trail",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "New River Gorge and Endless Wall feature",
+   "posted": "2023-10-20",
+   "added": "2026-11-10",
+   "place_ids": [
+    "endless-wall-trail-wv",
+    "new-river-gorge-national-park-and-preserve-wv"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "National Park #8 together — New River Gorge, attached to the park and Endless Wall pins: all the photos are from the Endless Wall Trail, a relatively easy 3-mile loop over rugged cliffs above the whitewater rapids; visited October 15–16, peak foliage expected late October.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CyicM55u6rU/",
+   "title": "Bear Rocks Preserve — a Dolly Sods sunrise attempt",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Bear Rocks Dolly Sods sunrise",
+   "posted": "2023-10-18",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bear-rocks-wv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Bear Rocks Preserve, attached to the existing Bear Rocks pin: the Dolly Sods sunrise didn't cooperate, but the wind-sculpted sandstone high plateau 'feels like another world'; Blackbird Knob is named among the hiking options; the overlook is steps from the car down a winding gravel road.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CycG1bUuRr4/",
+   "title": "Blackrock Summit — easy 1-mile loop in Shenandoah",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Blackrock Summit guide",
+   "posted": "2023-10-15",
+   "added": "2026-11-10",
+   "place_ids": [
+    "blackrock-summit-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Blackrock Summit, attached to the existing pin: an easy 1-mile loop in Shenandoah to a giant rock pile with panoramic views — great for all ages whether or not you climb the pile (their photos are from Oct 18, 2022).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CyZpXZEuYwG/",
+   "title": "Seneca Rocks — keep hiking through the fog",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Seneca Rocks fog hike",
+   "posted": "2023-10-14",
+   "added": "2026-11-10",
+   "place_ids": [
+    "seneca-rocks-wv"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "Seneca Rocks, attached to the existing pin: a reminder not to let dreary weather stop you — they nearly turned around in fog and light rain, kept going for the journey, and got the view at the top anyway.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CyW_fflumoZ/",
+   "title": "Ready for an autumn weekend road trip?",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Shenandoah summit photos (no specific place)",
+   "posted": "2023-10-13",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "'Raise your hand if you are ready for an autumn weekend road trip in the mountains' — golden-hour summit photos tagged to Shenandoah National Park, but the caption names no specific place or trail, so nothing is pinned from it.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CyRNH_sOm2L/",
+   "title": "Fall drives — 2022 photos",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Fall drives montage (no place)",
+   "posted": "2023-10-11",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "'Who else loves Fall drives? *Photos from Fall 2022' — a montage with no places named; nothing pinned.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CyG4w8YuRV5/",
+   "title": "Fall in the Blue Ridge Mountains is coming — Skyline Drive",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Skyline Drive fall preview",
+   "posted": "2023-10-07",
+   "added": "2026-11-10",
+   "place_ids": [
+    "skyline-drive-va"
+   ],
+   "places_count": 1,
+   "recommendation_summary": "'Fall in the Blue Ridge Mountains is coming — Skyline Drive, Shenandoah National Park (from mid October 2022).' Attached to the Skyline Drive pin.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cx1UOvPO_iA/",
+   "title": "Virginia Blue Ridge Parkway overlooks — skip the Shenandoah crowds",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Virginia Blue Ridge Parkway overlooks list",
+   "posted": "2023-09-30",
+   "added": "2026-11-10",
+   "place_ids": [
+    "rice-mountain-overlook-va",
+    "house-mountain-overlook-va",
+    "irish-creek-valley-overlook-va",
+    "the-slacks-overlook-va",
+    "blue-ridge-parkway-nc",
+    "twenty-minute-cliffs-overlook-va",
+    "wigwam-falls-va"
+   ],
+   "places_count": 7,
+   "recommendation_summary": "Their Virginia Blue Ridge Parkway favorites — four new pins (Rice Mountain Overlook, House Mountain Overlook, Irish Creek Valley Overlook, The Slacks Overlook) plus sources on the parkway, 20-Minute Cliff and Wigwam Falls (as 'Yankee Horse Ridge/Wigwam Falls') pins: 'If you want to avoid the crowds of Shenandoah National Park but still want to enjoy the mountains of Virginia, a drive along the Blue Ridge Parkway is an excellent alternative!' — all the stops are between Peaks of Otter & Humpback Rocks, from mid-October 2022; they even saw a black bear cross the road.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/CxwUx4mu2j4/",
+   "title": "Choosing a vehicle for Utah — Jeep Wrangler considerations",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Utah vehicle considerations (no place)",
+   "posted": "2023-09-28",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Three vehicle considerations for a Utah trip — off-road capability for the 4WD roads, a removable roof (their Jeep Wrangler rental let them stand up for wildlife photos), and design aesthetics. The recommendation is the vehicle, not any place, so nothing is pinned; their Moab blog is linked in their bio.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CxG6Ix8uZt5/",
+   "title": "São Miguel pineapple plantation — best pineapple ever",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores pineapple plantation (foreign)",
+   "posted": "2023-09-12",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — the São Miguel pineapple plantation finale of their Azores series: Plantação de Ananás dos Açores near Ponta Delgada, with free pineapple jam and liquor tastings and paid fresh slices, juice and ice cream — 'the best pineapple I've ever tasted'.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CxEhHOhu9O0/",
+   "title": "Terceira highlights — 28 hours on the island",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Terceira highlights (foreign)",
+   "posted": "2023-09-11",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Terceira highlights from 28 hours on the island: WWII trenches near Biscoitos, Praia da Riviera, the Algar do Carvão lava tube, Miradouro Cruz do Canario, Miradouro de Alagoa and Piscinas Biscoitos, beyond the Serra do Cume and Angra do Heroísmo posts.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CxBTI5runK1/",
+   "title": "Angra do Heroísmo — UNESCO streets of Terceira",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Angra do Heroísmo guide (foreign)",
+   "posted": "2023-09-10",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Angra do Heroísmo, the UNESCO World Heritage city on Terceira (founded 1478): climb to Memória a D. Pedro IV for the view; Sé Catedral, Palácio dos Capitães-Generais, Jardim Duque da Terceira, Paços do Concelho, Igreja da Misericórdia and Palácio Bettencourt named; explore on foot.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cw-hg0jO0kj/",
+   "title": "Miradouro da Serra do Cume — Terceira's patchwork viewpoint",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Serra do Cume viewpoint (foreign)",
+   "posted": "2023-09-09",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Miradouro da Serra do Cume on Terceira, 'one of the most amazing viewpoints in all of the Azores', overlooking the patchwork farmland quilt; the viewpoint that convinced them to island-hop from São Miguel.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cw8nBHTO132/",
+   "title": "Piscinas Naturais Caneiros — São Miguel tidal pools",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores tidal pools (foreign)",
+   "posted": "2023-09-08",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Piscinas Naturais Caneiros in Mosteiros, São Miguel: natural tidal pools on the volcanic rocks (too rough to swim at their high-tide visit); wear water shoes.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cw6BK8NuQtK/",
+   "title": "Ilhéu de Vila Franca — the perfect-circle islet",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Vila Franca islet (foreign)",
+   "posted": "2023-09-07",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Ilhéu de Vila Franca do Campo, the perfect-circle volcanic islet off São Miguel's south coast, a nature preserve with limited daily entry.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cw3hRnVusuG/",
+   "title": "Lagoa do Fogo — São Miguel's caldera lake",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Lagoa do Fogo (foreign)",
+   "posted": "2023-09-06",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Lagoa do Fogo, one of São Miguel's largest lagoons in the Fogo volcano caldera: Miradouro do Pico da Barrosa and Miradouro da Lagoa do Fogo viewpoints; shuttle bus required 9 am–7 pm (they went after 7 pm for free and got golden hour).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cw07QP2u7qn/",
+   "title": "Ribeira Grande & Nordeste — São Miguel's northeast",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores northeast São Miguel (foreign)",
+   "posted": "2023-09-05",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Ribeira Grande & Nordeste on São Miguel: Parque Natural da Ribeira dos Caldeirões in the morning light, Farol do Arnel lighthouse (steep, windy walk back), Miradouro da Vista dos Barcos and Miradouro da Ponta do Sossego.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CwxzhxNOntu/",
+   "title": "Santa Barbara beach sunsets — Carl's Azores favorite",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Santa Barbara beach (foreign)",
+   "posted": "2023-09-04",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Santa Barbara beach (Praia do Areal de Santa Bárbara), São Miguel: Carl's favorite part of the whole Azores trip — sunsets over the volcanic cliffs, a popular surf spot, easy parking and a beachfront restaurant; they went two different days.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CwviX0GOwKY/",
+   "title": "Gorreana Tea Plantation — Europe's oldest",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores tea plantation (foreign)",
+   "posted": "2023-09-03",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — the Gorreana Tea Plantation, São Miguel: the oldest and most famous of Europe's last two commercial tea plantations; free to walk, factory tours, tastings and a shop.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cws1V8CuxPz/",
+   "title": "São Miguel's northern coast viewpoints",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores coastal viewpoints (foreign)",
+   "posted": "2023-09-02",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — three worthwhile viewpoints on São Miguel's northern coast: Miradouro do Cintrão, Miradouro das Pedras Negras and Miradouro de Santa Iria, all easily accessible by car and quiet when they visited.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CwqiFG7uPj5/",
+   "title": "Sete Cidades — the green and blue lagoons",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Sete Cidades (foreign)",
+   "posted": "2023-09-01",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Sete Cidades, São Miguel: one lagoon that looks like two (green and blue waters that don't mix); Vista do Rei, Pico do Carvão, Grota do Inferno, Lagoa do Canário, Cerrado das Freiras and Igreja de São Nicolau; start early for parking.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CwoBeo2uuLw/",
+   "title": "Furnas — geothermal cooking and Terra Nostra",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Furnas guide (foreign)",
+   "posted": "2023-08-31",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — Furnas, São Miguel: geothermal cozido cooked underground in the caldeiras, the Capela de Nossa Senhora das Vitórias on the lake, and Parque Terra Nostra's iron-rich thermal bath (wear a dark swimsuit).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CwlgmBzOb-j/",
+   "title": "4 best overlooks around Furnas",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores Furnas overlooks (foreign)",
+   "posted": "2023-08-30",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — the 4 best overlooks around Furnas: Castelo Branco, Miradouro do Pico do Ferro, Miradouro do Salto do Cavalo and Miradouro do Lombo dos Milhos, each with a different perspective on Furnas Lake and the town.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/Cwiy-5dOKXO/",
+   "title": "Country #5 together — the Azores",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Azores arrival milestone (foreign)",
+   "posted": "2023-08-29",
+   "added": "2026-11-10",
+   "place_ids": [],
+   "places_count": 0,
+   "recommendation_summary": "Excluded under the USA-only rule: the Azores (Portugal) — 'We made it to country #5 together!!' The arrival post (photo at Miradouro da Vista do Rei over Sete Cidades) introducing their Azores series.",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CvLU8rAuXD9/",
+   "title": "Coastal Maine harbor views — series finale",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Maine harbor views finale",
+   "posted": "2023-07-26",
+   "added": "2026-11-10",
+   "place_ids": [
+    "bass-harbor-head-light-me",
+    "portland-head-light-me"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "The finale of their Maine series — 'beautiful harbor views around coastal Maine' — attached as series-context sources to the Bass Harbor Head Light and Portland Head Light pins (the caption names no specific place).",
+   "duplicate_place": true
+  },
+  {
+   "url": "https://www.instagram.com/p/CvBSuKeudrx/",
+   "title": "3 Maine lighthouses for your next trip",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Maine lighthouses list",
+   "posted": "2023-07-22",
+   "added": "2026-11-10",
+   "place_ids": [
+    "pemaquid-point-lighthouse-me",
+    "bass-harbor-head-light-me",
+    "portland-head-light-me"
+   ],
+   "places_count": 3,
+   "recommendation_summary": "'3 lighthouses to consider for your next trip to Maine': Bass Harbor Head Light Station (#1) and Portland Head Light (#2) attached as sources, and Pemaquid Point Lighthouse (#3) as a new pin.",
+   "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/p/Cu2uuVzM9kH/",
+   "title": "3 easily accessible Acadia gems",
+   "creator": "@kelleyandcarlsadventures",
+   "creator_name": "Kelley & Carl | Travel Tips & Inspiration",
+   "theme": "Acadia accessible gems",
+   "posted": "2023-07-18",
+   "added": "2026-11-10",
+   "place_ids": [
+    "jesup-path-me",
+    "jordan-pond-me"
+   ],
+   "places_count": 2,
+   "recommendation_summary": "'3 other Acadia gems that are easily accessible': Jordan Pond attached as a source, Jesup Path as a new pin, and the stone bridge where Park Loop Road and Champlain Drive intersect named here only.",
+   "duplicate_place": false
   }
  ]
 }
