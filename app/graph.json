@@ -20047,6 +20047,618 @@
    }
   },
   {
+   "id": "reel:DfkjVoDiXMd",
+   "type": "Reel",
+   "properties": {
+    "name": "Rating the National Parks in the Eastern USA",
+    "url": "https://www.instagram.com/p/DfkjVoDiXMd/",
+    "title": "Rating the National Parks in the Eastern USA",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Eastern USA national parks ratings",
+    "places_count": 11,
+    "recommendation_summary": "Rating the national parks in the Eastern USA: New River Gorge 9/10, Dry Tortugas 8/10, Shenandoah 8/10, Everglades 7/10, Mammoth Cave 7/10, Acadia 6/10, Biscayne 6/10, Great Smoky Mountains 6/10, Cuyahoga Valley 5/10, Congaree 3/10, Indiana Dunes 2/10. Attached as a scored source on all eleven park pins; no new pins.",
+    "posted": "2026-11-10",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:eastern-usa-national-parks-ratings",
+   "type": "Theme",
+   "properties": {
+    "name": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "id": "reel:Dfi2QFKP_1S",
+   "type": "Reel",
+   "properties": {
+    "name": "Katmai — the national park for bear lovers",
+    "url": "https://www.instagram.com/reel/Dfi2QFKP_1S/",
+    "title": "Katmai — the national park for bear lovers",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Katmai bear viewing",
+    "places_count": 3,
+    "recommendation_summary": "'This national park is for all the bear lovers' — Katmai National Park, attached to the park, Brooks Falls and Valley of Ten Thousand Smokes pins: brown bears congregating at Brooks Falls for the salmon run, watched from the boardwalk, with tips (King Salmon + float plane/water taxi, July best, 1–3 days).",
+    "posted": "2026-11-09",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DfibmDYpUnO",
+   "type": "Reel",
+   "properties": {
+    "name": "Theodore Roosevelt National Park — North Dakota",
+    "url": "https://www.instagram.com/reel/DfibmDYpUnO/",
+    "title": "Theodore Roosevelt National Park — North Dakota",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Theodore Roosevelt NP, both units",
+    "places_count": 9,
+    "recommendation_summary": "'Never thought North Dakota could look like this' — Theodore Roosevelt National Park, both units, attached to the park pin and seven trail/overlook pins (Wind Canyon, Boicourt, Buck Hill, Painted Canyon, Oxbow, River Bend, Caprock Coulee). One new pin: Prairie Dog Metropolis, the South Unit's large prairie dog town.",
+    "posted": "2026-11-09",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:theodore-roosevelt-np-both-units",
+   "type": "Theme",
+   "properties": {
+    "name": "Theodore Roosevelt NP, both units"
+   }
+  },
+  {
+   "id": "reel:DfkefnBP6CD",
+   "type": "Reel",
+   "properties": {
+    "name": "5 National Parks That Make You Feel Tiny",
+    "url": "https://www.instagram.com/reel/DfkefnBP6CD/",
+    "title": "5 National Parks That Make You Feel Tiny",
+    "creator": "@amorywild",
+    "theme": "Parks that make you feel small",
+    "places_count": 5,
+    "recommendation_summary": "'Which National Park makes you feel small?' — his 5 parks that make you feel tiny: #5 Glacier, #4 Wrangell-St. Elias, #3 Sequoia, #2 Denali, #1 Grand Canyon. Attached as a ranked source on all five park pins; no new pins.",
+    "posted": "2026-11-10",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:parks-that-make-you-feel-small",
+   "type": "Theme",
+   "properties": {
+    "name": "Parks that make you feel small"
+   }
+  },
+  {
+   "id": "reel:DfiRdTvNpTj",
+   "type": "Reel",
+   "properties": {
+    "name": "My Top 5 National Parks For Marine Life",
+    "url": "https://www.instagram.com/reel/DfiRdTvNpTj/",
+    "title": "My Top 5 National Parks For Marine Life",
+    "creator": "@amorywild",
+    "theme": "Top national parks for marine life",
+    "places_count": 5,
+    "recommendation_summary": "'Do you agree? What would you add?' — his top 5 national parks for marine life: #5 Channel Islands, #4 Biscayne, #3 Glacier Bay, #2 Kenai Fjords, #1 Virgin Islands. Attached as a ranked source on all five park pins; no new pins.",
+    "posted": "2026-11-09",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:top-national-park",
+   "type": "Theme",
+   "properties": {
+    "name": "Top national park"
+   }
+  },
+  {
+   "id": "reel:Dffr-W3hzDC",
+   "type": "Reel",
+   "properties": {
+    "name": "Hiking — Custer State Park",
+    "url": "https://www.instagram.com/reel/Dffr-W3hzDC/",
+    "title": "Hiking — Custer State Park",
+    "creator": "@amorywild",
+    "theme": "Custer State Park hike",
+    "places_count": 1,
+    "recommendation_summary": "'Just wanna be there doing that…' — a hiker descending a stone-paved trail between granite spires in Custer State Park, attached to the Custer State Park pin. No specific trail is named in the reel, so nothing more specific was pinned.",
+    "posted": "2026-11-08",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:Dfd0mW8NZUO",
+   "type": "Reel",
+   "properties": {
+    "name": "Kenai Fjords — just take me back",
+    "url": "https://www.instagram.com/reel/Dfd0mW8NZUO/",
+    "title": "Kenai Fjords — just take me back",
+    "creator": "@amorywild",
+    "theme": "Kenai Fjords boat tour",
+    "places_count": 1,
+    "recommendation_summary": "'Just take me back…' — a boat ride across Kenai Fjords' deep blue-green water toward a glacier between snow-capped mountains, attached to the Kenai Fjords park pin.",
+    "posted": "2026-11-07",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:kenai-fjords-boat-tour",
+   "type": "Theme",
+   "properties": {
+    "name": "Kenai Fjords boat tour"
+   }
+  },
+  {
+   "id": "reel:DfYmGyahybk",
+   "type": "Reel",
+   "properties": {
+    "name": "Glacier — this and a constant anxiety about bears",
+    "url": "https://www.instagram.com/reel/DfYmGyahybk/",
+    "title": "Glacier — this and a constant anxiety about bears",
+    "creator": "@amorywild",
+    "theme": "Glacier National Park scenery",
+    "places_count": 1,
+    "recommendation_summary": "'THIS and a constant anxiety about bears…' — a turquoise mountain lake ringed by evergreens and snow-capped peaks in Glacier National Park, attached to the Glacier park pin. The lake itself is not named, so nothing more specific was pinned.",
+    "posted": "2026-11-05",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:glacier-national-park-scenery",
+   "type": "Theme",
+   "properties": {
+    "name": "Glacier National Park scenery"
+   }
+  },
+  {
+   "id": "reel:DfV4abJNf5o",
+   "type": "Reel",
+   "properties": {
+    "name": "How To Visit All 8 Alaskan National Parks",
+    "url": "https://www.instagram.com/reel/DfV4abJNf5o/",
+    "title": "How To Visit All 8 Alaskan National Parks",
+    "creator": "@amorywild",
+    "theme": "How to visit all 8 Alaska parks",
+    "places_count": 8,
+    "recommendation_summary": "'How To Visit All 8 Alaskan National Parks' — his ranked guide with practical advice for each: #8 Denali, #7 Kenai Fjords, #6 Wrangell-St. Elias, #5 Katmai, #4 Glacier Bay, #3 Lake Clark, #2 Kobuk Valley, #1 Gates of the Arctic. Attached as a ranked source on all eight park pins; no new pins.",
+    "posted": "2026-11-04",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:how-to-visit-all-8-alaska-parks",
+   "type": "Theme",
+   "properties": {
+    "name": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "id": "reel:DfOBUyeujno",
+   "type": "Reel",
+   "properties": {
+    "name": "Muncho Lake Provincial Park — Canada",
+    "url": "https://www.instagram.com/reel/DfOBUyeujno/",
+    "title": "Muncho Lake Provincial Park — Canada",
+    "creator": "@amorywild",
+    "theme": "Canada — foreign, held out",
+    "places_count": 0,
+    "recommendation_summary": "Excluded under the USA-only rule: Muncho Lake Provincial Park, British Columbia, Canada. Kept as a reel entry only.",
+    "posted": "2026-11-01",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "theme:canada-foreign-held-out",
+   "type": "Theme",
+   "properties": {
+    "name": "Canada — foreign, held out"
+   }
+  },
+  {
+   "id": "reel:DW2tC-ygrbP",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'He couldn't believe it' (Zion)",
+    "url": "https://www.instagram.com/reel/DW2tC-ygrbP/",
+    "title": "Magic reel — 'He couldn't believe it' (Zion)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Zion. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-04-07",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DXSds7rkqUQ",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — meadow of lupines (Redwood)",
+    "url": "https://www.instagram.com/reel/DXSds7rkqUQ/",
+    "title": "Magic reel — meadow of lupines (Redwood)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Redwood. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-04-18",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DXZWyyPghYX",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'It's not me, it's the cards' (Lassen Volcanic)",
+    "url": "https://www.instagram.com/reel/DXZWyyPghYX/",
+    "title": "Magic reel — 'It's not me, it's the cards' (Lassen Volcanic)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Lassen Volcanic. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-04-21",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DXiS83xgg0D",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'Seriously, it's simple to me' (Yosemite)",
+    "url": "https://www.instagram.com/reel/DXiS83xgg0D/",
+    "title": "Magic reel — 'Seriously, it's simple to me' (Yosemite)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Yosemite. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-04-24",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DXo2zEjAooZ",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'Must be AI…'",
+    "url": "https://www.instagram.com/reel/DXo2zEjAooZ/",
+    "title": "Magic reel — 'Must be AI…'",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-04-27",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DX0cnDRC5kd",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — shuffles do the opposite (Grand Teton)",
+    "url": "https://www.instagram.com/reel/DX0cnDRC5kd/",
+    "title": "Magic reel — shuffles do the opposite (Grand Teton)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Grand Teton. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-05-01",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DX7hj5NyGxp",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'I think it's real magic' (Yellowstone)",
+    "url": "https://www.instagram.com/reel/DX7hj5NyGxp/",
+    "title": "Magic reel — 'I think it's real magic' (Yellowstone)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Yellowstone. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-05-04",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DYLgWurCVOg",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — Starlink WiFi at the Yellowstone campground",
+    "url": "https://www.instagram.com/reel/DYLgWurCVOg/",
+    "title": "Magic reel — Starlink WiFi at the Yellowstone campground",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Yellowstone. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-05-10",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DYSu-8ySAjR",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'I think I figured out how I do it' (Grand Teton)",
+    "url": "https://www.instagram.com/reel/DYSu-8ySAjR/",
+    "title": "Magic reel — 'I think I figured out how I do it' (Grand Teton)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Grand Teton. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-05-13",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DYd2tL7i4jc",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'The end shocked me too' (Yellowstone)",
+    "url": "https://www.instagram.com/reel/DYd2tL7i4jc/",
+    "title": "Magic reel — 'The end shocked me too' (Yellowstone)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Yellowstone. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-05-17",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DYlFaJAisM9",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'My hands were freezing' (Glacier)",
+    "url": "https://www.instagram.com/reel/DYlFaJAisM9/",
+    "title": "Magic reel — 'My hands were freezing' (Glacier)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Glacier. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-05-20",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DYqqrMnCTJz",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'My brain hurts' (Glacier)",
+    "url": "https://www.instagram.com/reel/DYqqrMnCTJz/",
+    "title": "Magic reel — 'My brain hurts' (Glacier)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Glacier. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-05-22",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DZOJPBohw9T",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'My eyes are playing tricks' (Olympic)",
+    "url": "https://www.instagram.com/reel/DZOJPBohw9T/",
+    "title": "Magic reel — 'My eyes are playing tricks' (Olympic)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Olympic. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-06-05",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DZYhjrbvaUl",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'I did the trick, and I still missed it' (Mount Rainier)",
+    "url": "https://www.instagram.com/reel/DZYhjrbvaUl/",
+    "title": "Magic reel — 'I did the trick, and I still missed it' (Mount Rainier)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Mount Rainier. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-06-09",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DZeK0bwihcb",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'They always name that card' (Mount Rainier)",
+    "url": "https://www.instagram.com/reel/DZeK0bwihcb/",
+    "title": "Magic reel — 'They always name that card' (Mount Rainier)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Mount Rainier. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-06-11",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DZiawHSPsKt",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'Just figured out I could do this' (North Cascades)",
+    "url": "https://www.instagram.com/reel/DZiawHSPsKt/",
+    "title": "Magic reel — 'Just figured out I could do this' (North Cascades)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near North Cascades. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-06-13",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DZ5tUlZy0XF",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'Her mom was in on it' (Kings Canyon)",
+    "url": "https://www.instagram.com/reel/DZ5tUlZy0XF/",
+    "title": "Magic reel — 'Her mom was in on it' (Kings Canyon)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Kings Canyon. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-06-22",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DaE3Rg5ia2a",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'My hands were freezing' (Glacier)",
+    "url": "https://www.instagram.com/reel/DaE3Rg5ia2a/",
+    "title": "Magic reel — 'My hands were freezing' (Glacier)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Glacier. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-06-26",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DaHVtCoizkK",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'The reason it works is because I'm on the British Columbia border'",
+    "url": "https://www.instagram.com/reel/DaHVtCoizkK/",
+    "title": "Magic reel — 'The reason it works is because I'm on the British Columbia border'",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near British Columbia border. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-06-27",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DaKKT-uigkQ",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'I missed it the second time' (Olympic)",
+    "url": "https://www.instagram.com/reel/DaKKT-uigkQ/",
+    "title": "Magic reel — 'I missed it the second time' (Olympic)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Olympic. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-06-28",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DaYtQQuCq2v",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'Dang it. I blinked' (Denali)",
+    "url": "https://www.instagram.com/reel/DaYtQQuCq2v/",
+    "title": "Magic reel — 'Dang it. I blinked' (Denali)",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Hashtags place it in/near Denali. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-07-04",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:Dad2xjsPs2_",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'That looks like a real shuffle'",
+    "url": "https://www.instagram.com/reel/Dad2xjsPs2_/",
+    "title": "Magic reel — 'That looks like a real shuffle'",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-07-06",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DfA_bGYiyZQ",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'I think it fooled me too'",
+    "url": "https://www.instagram.com/reel/DfA_bGYiyZQ/",
+    "title": "Magic reel — 'I think it fooled me too'",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-10-27",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DfGG5AHiBKs",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'I must be AI…'",
+    "url": "https://www.instagram.com/reel/DfGG5AHiBKs/",
+    "title": "Magic reel — 'I must be AI…'",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-10-29",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DfJKTyXC-6A",
+   "type": "Reel",
+   "properties": {
+    "name": "Magic reel — 'That was quick…'",
+    "url": "https://www.instagram.com/reel/DfJKTyXC-6A/",
+    "title": "Magic reel — 'That was quick…'",
+    "creator": "@amorywild",
+    "theme": "Magic trick reel",
+    "places_count": 0,
+    "recommendation_summary": "A card-trick/magic reel, not a travel recommendation. Recorded as a reel entry only under the magic-trick rule; no pin, no place source.",
+    "posted": "2026-10-30",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "reel:DfcbSbyGxpx",
+   "type": "Reel",
+   "properties": {
+    "name": "Sahale Arm — worth every single step",
+    "url": "https://www.instagram.com/p/DfcbSbyGxpx/",
+    "title": "Sahale Arm — worth every single step",
+    "creator": "@morgan_smile",
+    "theme": "Sahale Arm, North Cascades",
+    "places_count": 1,
+    "recommendation_summary": "A photo carousel from Sahale Arm in North Cascades National Park (tagged location: Cascade Pass/Sahale Arm). 'Some places are worth every single step... I love a good physical challenge, but it's the mental reset that keeps me coming back to the mountains.' Attached as a source on the existing Sahale Arm Trail pin; no new pin.",
+    "posted": "2026-11-07",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "creator:morgan-smile",
+   "type": "Creator",
+   "properties": {
+    "name": "@morgan_smile",
+    "handle": "@morgan_smile",
+    "display_name": "Morgan Zion O'Friel"
+   }
+  },
+  {
+   "id": "theme:sahale-arm-north-cascades",
+   "type": "Theme",
+   "properties": {
+    "name": "Sahale Arm, North Cascades"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -20765,13 +21377,6 @@
    }
   },
   {
-   "id": "theme:top-national-park",
-   "type": "Theme",
-   "properties": {
-    "name": "Top national park"
-   }
-  },
-  {
    "id": "theme:national-park-california-award-most-otherworldly",
    "type": "Theme",
    "properties": {
@@ -20971,6 +21576,13 @@
    "type": "Theme",
    "properties": {
     "name": "National park / Rated 8/10 in their Alaska park ratings"
+   }
+  },
+  {
+   "id": "theme:trip-planning",
+   "type": "Theme",
+   "properties": {
+    "name": "Trip planning"
    }
   },
   {
@@ -21274,6 +21886,13 @@
    }
   },
   {
+   "id": "theme:awe-scale",
+   "type": "Theme",
+   "properties": {
+    "name": "Awe / Scale"
+   }
+  },
+  {
    "id": "place:sequoia-national-park-ca",
    "type": "Place",
    "properties": {
@@ -21454,6 +22073,20 @@
    "type": "Theme",
    "properties": {
     "name": "National park / Alaska road trip Stop 1"
+   }
+  },
+  {
+   "id": "theme:marine-life",
+   "type": "Theme",
+   "properties": {
+    "name": "Marine life"
+   }
+  },
+  {
+   "id": "theme:boat-tour",
+   "type": "Theme",
+   "properties": {
+    "name": "Boat tour"
    }
   },
   {
@@ -22386,6 +23019,13 @@
    }
   },
   {
+   "id": "theme:national-park-rated-6-10-in-their-eastern-usa-park-ratings",
+   "type": "Theme",
+   "properties": {
+    "name": "National park / Rated 6/10 in their Eastern USA park ratings"
+   }
+  },
+  {
    "id": "place:shenandoah-national-park-va",
    "type": "Place",
    "properties": {
@@ -22481,6 +23121,13 @@
    "type": "Theme",
    "properties": {
     "name": "National Park / Their fall-foliage question reel"
+   }
+  },
+  {
+   "id": "theme:national-park-rated-8-10-in-their-eastern-usa-park-ratings",
+   "type": "Theme",
+   "properties": {
+    "name": "National park / Rated 8/10 in their Eastern USA park ratings"
    }
   },
   {
@@ -22589,6 +23236,13 @@
    "type": "Theme",
    "properties": {
     "name": "Park guide / Everglades tips — come for the gators, fall for the manatees"
+   }
+  },
+  {
+   "id": "theme:national-park-rated-7-10-in-their-eastern-usa-park-ratings",
+   "type": "Theme",
+   "properties": {
+    "name": "National park / Rated 7/10 in their Eastern USA park ratings"
    }
   },
   {
@@ -23824,6 +24478,13 @@
    }
   },
   {
+   "id": "theme:national-park-no-crowds",
+   "type": "Theme",
+   "properties": {
+    "name": "National park / No crowds"
+   }
+  },
+  {
    "id": "place:yellowstone-national-park-wy",
    "type": "Place",
    "properties": {
@@ -24091,6 +24752,13 @@
    "type": "Theme",
    "properties": {
     "name": "Dark sky / Stargazing in the Crown of the Continent"
+   }
+  },
+  {
+   "id": "theme:scenery",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenery"
    }
   },
   {
@@ -24526,6 +25194,13 @@
    "type": "Theme",
    "properties": {
     "name": "National Park / On their favorite WV fall locations list"
+   }
+  },
+  {
+   "id": "theme:national-park-rated-9-10-in-their-eastern-usa-park-ratings",
+   "type": "Theme",
+   "properties": {
+    "name": "National park / Rated 9/10 in their Eastern USA park ratings"
    }
   },
   {
@@ -25289,6 +25964,13 @@
    "type": "Theme",
    "properties": {
     "name": "Tour / Alaska road trip highlight"
+   }
+  },
+  {
+   "id": "theme:sightseeing-valley-of-ten-thousand-smokes",
+   "type": "Theme",
+   "properties": {
+    "name": "Sightseeing / Valley of Ten Thousand Smokes"
    }
   },
   {
@@ -33782,6 +34464,13 @@
    }
   },
   {
+   "id": "theme:national-park-rated-3-10-in-their-eastern-usa-park-ratings",
+   "type": "Theme",
+   "properties": {
+    "name": "National park / Rated 3/10 in their Eastern USA park ratings"
+   }
+  },
+  {
    "id": "place:indiana-dunes-national-park-in",
    "type": "Place",
    "properties": {
@@ -33815,6 +34504,13 @@
    }
   },
   {
+   "id": "theme:national-park-rated-2-10-in-their-eastern-usa-park-ratings",
+   "type": "Theme",
+   "properties": {
+    "name": "National park / Rated 2/10 in their Eastern USA park ratings"
+   }
+  },
+  {
    "id": "place:cuyahoga-valley-national-park-oh",
    "type": "Place",
    "properties": {
@@ -33845,6 +34541,13 @@
    "type": "Theme",
    "properties": {
     "name": "National park / The Ohio park that surprised them"
+   }
+  },
+  {
+   "id": "theme:national-park-rated-5-10-in-their-eastern-usa-park-ratings",
+   "type": "Theme",
+   "properties": {
+    "name": "National park / Rated 5/10 in their Eastern USA park ratings"
    }
   },
   {
@@ -44441,6 +45144,34 @@
    "type": "Site",
    "properties": {
     "name": "Robert H. Treman State Park"
+   }
+  },
+  {
+   "id": "place:prairie-dog-metropolis-nd",
+   "type": "Place",
+   "properties": {
+    "name": "Prairie Dog Metropolis",
+    "place_id": "prairie-dog-metropolis-nd",
+    "site": "Theodore Roosevelt National Park",
+    "city": "Medora",
+    "state": "North Dakota",
+    "state_code": "ND",
+    "region": "Midwest",
+    "country": "USA",
+    "lat": 46.93224,
+    "lng": -103.51464,
+    "google_maps_query": "Prairie Dog Metropolis, Theodore Roosevelt National Park, Medora, North Dakota",
+    "best_for": "Wildlife",
+    "note": "Coordinates: Wikivoyage's Theodore Roosevelt National Park guide lists Prairie Dog Metropolis at 46.93224, -103.51464, 3 miles from the South Unit entrance."
+   }
+  },
+  {
+   "id": "state:usa-nd",
+   "type": "State",
+   "properties": {
+    "name": "North Dakota",
+    "state_code": "ND",
+    "country": "USA"
    }
   }
  ],
@@ -56674,6 +57405,438 @@
    "properties": {}
   },
   {
+   "from": "reel:DfkjVoDiXMd",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkjVoDiXMd",
+   "to": "theme:eastern-usa-national-parks-ratings",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfi2QFKP_1S",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfi2QFKP_1S",
+   "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfibmDYpUnO",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfibmDYpUnO",
+   "to": "theme:theodore-roosevelt-np-both-units",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkefnBP6CD",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkefnBP6CD",
+   "to": "theme:parks-that-make-you-feel-small",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfiRdTvNpTj",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfiRdTvNpTj",
+   "to": "theme:top-national-park",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dffr-W3hzDC",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dffr-W3hzDC",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfd0mW8NZUO",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfd0mW8NZUO",
+   "to": "theme:kenai-fjords-boat-tour",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfYmGyahybk",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfYmGyahybk",
+   "to": "theme:glacier-national-park-scenery",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfV4abJNf5o",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfV4abJNf5o",
+   "to": "theme:how-to-visit-all-8-alaska-parks",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfOBUyeujno",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfOBUyeujno",
+   "to": "theme:canada-foreign-held-out",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DW2tC-ygrbP",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DW2tC-ygrbP",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DXSds7rkqUQ",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DXSds7rkqUQ",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DXZWyyPghYX",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DXZWyyPghYX",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DXiS83xgg0D",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DXiS83xgg0D",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DXo2zEjAooZ",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DXo2zEjAooZ",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DX0cnDRC5kd",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DX0cnDRC5kd",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DX7hj5NyGxp",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DX7hj5NyGxp",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYLgWurCVOg",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYLgWurCVOg",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYSu-8ySAjR",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYSu-8ySAjR",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYd2tL7i4jc",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYd2tL7i4jc",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYlFaJAisM9",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYlFaJAisM9",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYqqrMnCTJz",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DYqqrMnCTJz",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZOJPBohw9T",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZOJPBohw9T",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZYhjrbvaUl",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZYhjrbvaUl",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZeK0bwihcb",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZeK0bwihcb",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZiawHSPsKt",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZiawHSPsKt",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZ5tUlZy0XF",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DZ5tUlZy0XF",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaE3Rg5ia2a",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaE3Rg5ia2a",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaHVtCoizkK",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaHVtCoizkK",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaKKT-uigkQ",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaKKT-uigkQ",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaYtQQuCq2v",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DaYtQQuCq2v",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dad2xjsPs2_",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dad2xjsPs2_",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfA_bGYiyZQ",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfA_bGYiyZQ",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfGG5AHiBKs",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfGG5AHiBKs",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfJKTyXC-6A",
+   "to": "creator:amorywild",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfJKTyXC-6A",
+   "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfcbSbyGxpx",
+   "to": "creator:morgan-smile",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfcbSbyGxpx",
+   "to": "theme:sahale-arm-north-cascades",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -59919,6 +61082,25 @@
    "properties": {}
   },
   {
+   "from": "place:gates-of-the-arctic-national-park-ak",
+   "to": "reel:DfV4abJNf5o",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Trip planning",
+    "recommendation": "#1 in his 'How To Visit All 8 Alaskan National Parks' (listed jointly with Kobuk Valley): fly to Kotzebue, stay two nights at Nullagvik Hotel, and take a flight tour with Golden Eagle Outfitters over tundra, rivers and sandy dunes.",
+    "creator": "@amorywild",
+    "reel_title": "How To Visit All 8 Alaskan National Parks",
+    "reel_theme": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "from": "place:gates-of-the-arctic-national-park-ak",
+   "to": "theme:trip-planning",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:kobuk-valley-national-park-ak",
    "to": "state:united-states-ak",
    "type": "LOCATED_IN",
@@ -60003,6 +61185,25 @@
   {
    "from": "place:kobuk-valley-national-park-ak",
    "to": "theme:national-park-rated-3-10-in-their-alaska-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kobuk-valley-national-park-ak",
+   "to": "reel:DfV4abJNf5o",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Trip planning",
+    "recommendation": "#2 in his 'How To Visit All 8 Alaskan National Parks' (listed jointly with Gates of the Arctic): fly to Kotzebue, stay two nights at Nullagvik Hotel, and take a flight tour with Golden Eagle Outfitters over tundra, rivers and sandy dunes.",
+    "creator": "@amorywild",
+    "reel_title": "How To Visit All 8 Alaskan National Parks",
+    "reel_theme": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "from": "place:kobuk-valley-national-park-ak",
+   "to": "theme:trip-planning",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -60968,6 +62169,44 @@
    "properties": {}
   },
   {
+   "from": "place:denali-national-park-and-preserve-ak",
+   "to": "reel:DfkefnBP6CD",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Awe / Scale",
+    "recommendation": "#2 in his '5 National Parks That Make You Feel Tiny': immense snow-covered peaks and glaciers seen from a plane — 'you would be a tiny speck.'",
+    "creator": "@amorywild",
+    "reel_title": "5 National Parks That Make You Feel Tiny",
+    "reel_theme": "Parks that make you feel small"
+   }
+  },
+  {
+   "from": "place:denali-national-park-and-preserve-ak",
+   "to": "theme:awe-scale",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:denali-national-park-and-preserve-ak",
+   "to": "reel:DfV4abJNf5o",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Trip planning",
+    "recommendation": "#8 in his 'How To Visit All 8 Alaskan National Parks': a 4-hour drive from Anchorage, camping or hotel options, with hiking, bus tours and flight tours recommended.",
+    "creator": "@amorywild",
+    "reel_title": "How To Visit All 8 Alaskan National Parks",
+    "reel_theme": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "from": "place:denali-national-park-and-preserve-ak",
+   "to": "theme:trip-planning",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:sequoia-national-park-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -61284,6 +62523,25 @@
    "properties": {}
   },
   {
+   "from": "place:sequoia-national-park-ca",
+   "to": "reel:DfkefnBP6CD",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Awe / Scale",
+    "recommendation": "#3 in his '5 National Parks That Make You Feel Tiny': massive sequoia trees, people standing beside them and walking through a hollowed trunk — otherworldly size.",
+    "creator": "@amorywild",
+    "reel_title": "5 National Parks That Make You Feel Tiny",
+    "reel_theme": "Parks that make you feel small"
+   }
+  },
+  {
+   "from": "place:sequoia-national-park-ca",
+   "to": "theme:awe-scale",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:wrangell-st-elias-national-park-and-preserve-ak",
    "to": "state:united-states-ak",
    "type": "LOCATED_IN",
@@ -61425,6 +62683,44 @@
   {
    "from": "place:wrangell-st-elias-national-park-and-preserve-ak",
    "to": "theme:national-park-alaska-road-trip-stop-5",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wrangell-st-elias-national-park-and-preserve-ak",
+   "to": "reel:DfkefnBP6CD",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Awe / Scale",
+    "recommendation": "#4 in his '5 National Parks That Make You Feel Tiny': vast glacial terrain — Kennicott and Root Glaciers — with a never-ending flow of ice.",
+    "creator": "@amorywild",
+    "reel_title": "5 National Parks That Make You Feel Tiny",
+    "reel_theme": "Parks that make you feel small"
+   }
+  },
+  {
+   "from": "place:wrangell-st-elias-national-park-and-preserve-ak",
+   "to": "theme:awe-scale",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wrangell-st-elias-national-park-and-preserve-ak",
+   "to": "reel:DfV4abJNf5o",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Trip planning",
+    "recommendation": "#6 in his 'How To Visit All 8 Alaskan National Parks': a 7-hour drive, stay at Kennicott Glacier Lodge, with the Root Glacier hike and flight tours recommended.",
+    "creator": "@amorywild",
+    "reel_title": "How To Visit All 8 Alaskan National Parks",
+    "reel_theme": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "from": "place:wrangell-st-elias-national-park-and-preserve-ak",
+   "to": "theme:trip-planning",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -61603,6 +62899,63 @@
   {
    "from": "place:kenai-fjords-national-park-ak",
    "to": "theme:national-park-alaska-road-trip-stop-1",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "reel:DfiRdTvNpTj",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Marine life",
+    "recommendation": "#2 in his top 5 national parks for marine life: a humpback whale, sea lions on rocky outcrops, a Dall's porpoise splashing and two sea otters floating together.",
+    "creator": "@amorywild",
+    "reel_title": "My Top 5 National Parks For Marine Life",
+    "reel_theme": "Top national parks for marine life"
+   }
+  },
+  {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "theme:marine-life",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "reel:Dfd0mW8NZUO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Boat tour",
+    "recommendation": "'Just take me back…' — a point-of-view boat ride across deep blue-green water in Kenai Fjords, the wake trailing behind and a large glacier flowing down between snow-capped mountains ahead.",
+    "creator": "@amorywild",
+    "reel_title": "Kenai Fjords — just take me back",
+    "reel_theme": "Kenai Fjords boat tour"
+   }
+  },
+  {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "theme:boat-tour",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "reel:DfV4abJNf5o",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Trip planning",
+    "recommendation": "#7 in his 'How To Visit All 8 Alaskan National Parks': a 2-hour drive from Anchorage, stay in Seward, with the Harding Icefield hike and boat tour recommended.",
+    "creator": "@amorywild",
+    "reel_title": "How To Visit All 8 Alaskan National Parks",
+    "reel_theme": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "theme:trip-planning",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -63086,6 +64439,25 @@
    }
   },
   {
+   "from": "place:lake-clark-national-park-and-preserve-ak",
+   "to": "reel:DfV4abJNf5o",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Trip planning",
+    "recommendation": "#3 in his 'How To Visit All 8 Alaskan National Parks': a flight tour from Anchorage for Chinitna Bay bear viewing.",
+    "creator": "@amorywild",
+    "reel_title": "How To Visit All 8 Alaskan National Parks",
+    "reel_theme": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "from": "place:lake-clark-national-park-and-preserve-ak",
+   "to": "theme:trip-planning",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:katmai-national-park-and-preserve-ak",
    "to": "state:united-states-ak",
    "type": "LOCATED_IN",
@@ -63362,6 +64734,38 @@
   {
    "from": "place:katmai-national-park-and-preserve-ak",
    "to": "theme:national-park-for-all-the-bear-lovers",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:Dfi2QFKP_1S",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bear viewing / Wildlife",
+    "recommendation": "'This national park is for all the bear lovers' — Katmai, where every summer brown bears congregate at Brooks Falls for the salmon run: 'absolutely unreal being able to watch these magical creatures so close.' Fly to King Salmon, then float plane or water taxi to Brooks Camp; best bear viewing in July.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Katmai — the national park for bear lovers",
+    "reel_theme": "Katmai bear viewing"
+   }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:DfV4abJNf5o",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Trip planning",
+    "recommendation": "#5 in his 'How To Visit All 8 Alaskan National Parks': fly to King Salmon then water taxi to Brooks Camp for bear viewing at Brooks Falls and the Valley of 10,000 Smokes.",
+    "creator": "@amorywild",
+    "reel_title": "How To Visit All 8 Alaskan National Parks",
+    "reel_theme": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "theme:trip-planning",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -65608,6 +67012,25 @@
    "properties": {}
   },
   {
+   "from": "place:acadia-national-park-me",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 6/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 6/10 in their Eastern USA park ratings: four foggy days held it back despite enjoying the Beehive Trail.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:acadia-national-park-me",
+   "to": "theme:national-park-rated-6-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:shenandoah-national-park-va",
    "to": "state:united-states-va",
    "type": "LOCATED_IN",
@@ -65974,6 +67397,25 @@
    "properties": {}
   },
   {
+   "from": "place:shenandoah-national-park-va",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 8/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 8/10 in their Eastern USA park ratings: fall foliage and hiking variety, with crowds as the caveat.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:shenandoah-national-park-va",
+   "to": "theme:national-park-rated-8-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:great-smoky-mountains-national-park-tn",
    "to": "state:united-states-tn",
    "type": "LOCATED_IN",
@@ -66208,6 +67650,25 @@
    "properties": {}
   },
   {
+   "from": "place:great-smoky-mountains-national-park-tn",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 6/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 6/10 in their Eastern USA park ratings: called generally overrated despite fall foliage, Mount LeConte and wildlife, marked down for crowds and traffic.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:great-smoky-mountains-national-park-tn",
+   "to": "theme:national-park-rated-6-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:everglades-national-park-fl",
    "to": "state:united-states-fl",
    "type": "LOCATED_IN",
@@ -66345,6 +67806,25 @@
     "reel_title": "5 of the craziest wildlife encounters of 2024",
     "reel_theme": "Wildlife encounters roundup"
    }
+  },
+  {
+   "from": "place:everglades-national-park-fl",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 7/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 7/10 in their Eastern USA park ratings: alligators, Shark Valley biking and manatees.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:everglades-national-park-fl",
+   "to": "theme:national-park-rated-7-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:biscayne-national-park-fl",
@@ -66507,6 +67987,44 @@
   {
    "from": "place:biscayne-national-park-fl",
    "to": "theme:national-park-november-december-road-trip-pick-florida",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:biscayne-national-park-fl",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 6/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 6/10 in their Eastern USA park ratings: snorkeling and the Boca Chita Key lighthouse.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:biscayne-national-park-fl",
+   "to": "theme:national-park-rated-6-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:biscayne-national-park-fl",
+   "to": "reel:DfiRdTvNpTj",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Marine life",
+    "recommendation": "#4 in his top 5 national parks for marine life: a dolphin fin, a small shark in shallow clear water near mangroves, and paddleboarding with a crab on your back.",
+    "creator": "@amorywild",
+    "reel_title": "My Top 5 National Parks For Marine Life",
+    "reel_theme": "Top national parks for marine life"
+   }
+  },
+  {
+   "from": "place:biscayne-national-park-fl",
+   "to": "theme:marine-life",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -66947,6 +68465,25 @@
    "properties": {}
   },
   {
+   "from": "place:dry-tortugas-national-park-fl",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 8/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 8/10 in their Eastern USA park ratings: turquoise water and fort exploration.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:dry-tortugas-national-park-fl",
+   "to": "theme:national-park-rated-8-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:virgin-islands-national-park-vi",
    "to": "state:united-states-vi",
    "type": "LOCATED_IN",
@@ -67024,6 +68561,25 @@
   {
    "from": "place:virgin-islands-national-park-vi",
    "to": "theme:island-park-snorkeling",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:virgin-islands-national-park-vi",
+   "to": "reel:DfiRdTvNpTj",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Marine life",
+    "recommendation": "#1 in his top 5 national parks for marine life: underwater footage of a green sea turtle with remoras, a red cushion starfish, a spotted eagle ray, a barracuda and other reef fish.",
+    "creator": "@amorywild",
+    "reel_title": "My Top 5 National Parks For Marine Life",
+    "reel_theme": "Top national parks for marine life"
+   }
+  },
+  {
+   "from": "place:virgin-islands-national-park-vi",
+   "to": "theme:marine-life",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -69721,6 +71277,25 @@
    "properties": {}
   },
   {
+   "from": "place:mammoth-cave-national-park-ky",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 7/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 7/10 in their Eastern USA park ratings: fall foliage, fun cave tours and rangers.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:mammoth-cave-national-park-ky",
+   "to": "theme:national-park-rated-7-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:upper-hawksbill-trail-va",
    "to": "state:united-states-va",
    "type": "LOCATED_IN",
@@ -70491,6 +72066,44 @@
    "properties": {}
   },
   {
+   "from": "place:glacier-bay-national-park-and-preserve-ak",
+   "to": "reel:DfiRdTvNpTj",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Marine life",
+    "recommendation": "#3 in his top 5 national parks for marine life: sea otters floating, a large colony of sea lions on the rocks, a tufted puffin swimming and harbor seals resting on ice floes.",
+    "creator": "@amorywild",
+    "reel_title": "My Top 5 National Parks For Marine Life",
+    "reel_theme": "Top national parks for marine life"
+   }
+  },
+  {
+   "from": "place:glacier-bay-national-park-and-preserve-ak",
+   "to": "theme:marine-life",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:glacier-bay-national-park-and-preserve-ak",
+   "to": "reel:DfV4abJNf5o",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Trip planning",
+    "recommendation": "#4 in his 'How To Visit All 8 Alaskan National Parks': fly to Gustavus, stay at Glacier Bay Lodge, with scenic boat and whale watching tours recommended.",
+    "creator": "@amorywild",
+    "reel_title": "How To Visit All 8 Alaskan National Parks",
+    "reel_theme": "How to visit all 8 Alaska parks"
+   }
+  },
+  {
+   "from": "place:glacier-bay-national-park-and-preserve-ak",
+   "to": "theme:trip-planning",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:holei-arch-hi",
    "to": "state:united-states-hi",
    "type": "LOCATED_IN",
@@ -70916,6 +72529,25 @@
   {
    "from": "place:theodore-roosevelt-national-park-nd",
    "to": "theme:national-park-park-30-guide",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:theodore-roosevelt-national-park-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / No crowds",
+    "recommendation": "'Never thought North Dakota could look like this' — a park with no crowds, dusty trails, incredible wildlife and the spirit of a cowboy president: bison, elk, wild horses and prairie dogs across both units. 'What a gem of a national park that absolutely exceeded our expectations!'",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
+   }
+  },
+  {
+   "from": "place:theodore-roosevelt-national-park-nd",
+   "to": "theme:national-park-no-crowds",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -72322,6 +73954,44 @@
   {
    "from": "place:glacier-national-park-mt",
    "to": "theme:dark-sky-stargazing-in-the-crown-of-the-continent",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "reel:DfkefnBP6CD",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Awe / Scale",
+    "recommendation": "#5 in his '5 National Parks That Make You Feel Tiny': endless layers of snow-capped mountains, alpine lakes and rocky ridges that change your perspective.",
+    "creator": "@amorywild",
+    "reel_title": "5 National Parks That Make You Feel Tiny",
+    "reel_theme": "Parks that make you feel small"
+   }
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "theme:awe-scale",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "reel:DfYmGyahybk",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Scenery",
+    "recommendation": "'THIS and a constant anxiety about bears…' — a turquoise mountain lake lapping a grassy shore, dense evergreens on the far bank and towering, partly snow-capped peaks behind, in Glacier National Park.",
+    "creator": "@amorywild",
+    "reel_title": "Glacier — this and a constant anxiety about bears",
+    "reel_theme": "Glacier National Park scenery"
+   }
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "theme:scenery",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -74301,6 +75971,25 @@
    "properties": {}
   },
   {
+   "from": "place:channel-islands-national-park-ca",
+   "to": "reel:DfiRdTvNpTj",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Marine life",
+    "recommendation": "#5 in his top 5 national parks for marine life: humpback whales surfacing, pods of dolphins and large flocks of pelicans feeding over the water.",
+    "creator": "@amorywild",
+    "reel_title": "My Top 5 National Parks For Marine Life",
+    "reel_theme": "Top national parks for marine life"
+   }
+  },
+  {
+   "from": "place:channel-islands-national-park-ca",
+   "to": "theme:marine-life",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:new-river-gorge-national-park-and-preserve-wv",
    "to": "state:united-states-wv",
    "type": "LOCATED_IN",
@@ -74568,6 +76257,25 @@
   {
    "from": "place:new-river-gorge-national-park-and-preserve-wv",
    "to": "theme:national-park-on-their-favorite-wv-fall-locations-list",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:new-river-gorge-national-park-and-preserve-wv",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 9/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 9/10 in their Eastern USA park ratings — their top-rated Eastern park: gorge-view hikes and adventure activities including whitewater rafting and Bridge Day BASE jumping.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:new-river-gorge-national-park-and-preserve-wv",
+   "to": "theme:national-park-rated-9-10-in-their-eastern-usa-park-ratings",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -76497,6 +78205,25 @@
    "properties": {}
   },
   {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "reel:DfkefnBP6CD",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Awe / Scale",
+    "recommendation": "#1 in his '5 National Parks That Make You Feel Tiny': the red-rock canyon from the rim and the trail descending into it — 'like being in a huge fish bowl.'",
+    "creator": "@amorywild",
+    "reel_title": "5 National Parks That Make You Feel Tiny",
+    "reel_theme": "Parks that make you feel small"
+   }
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "theme:awe-scale",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:subway-trail-ut",
    "to": "state:united-states-ut",
    "type": "LOCATED_IN",
@@ -76630,6 +78357,25 @@
   {
    "from": "place:valley-of-10-000-smokes-bus-tour-ak",
    "to": "theme:must-see-spot",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:valley-of-10-000-smokes-bus-tour-ak",
+   "to": "reel:Dfi2QFKP_1S",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Sightseeing / Valley of Ten Thousand Smokes",
+    "recommendation": "One of their two must-sees in Katmai, alongside Brooks Falls: the Valley of Ten Thousand Smokes.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Katmai — the national park for bear lovers",
+    "reel_theme": "Katmai bear viewing"
+   }
+  },
+  {
+   "from": "place:valley-of-10-000-smokes-bus-tour-ak",
+   "to": "theme:sightseeing-valley-of-ten-thousand-smokes",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -83419,6 +85165,25 @@
    "properties": {}
   },
   {
+   "from": "place:custer-state-park-sd",
+   "to": "reel:Dffr-W3hzDC",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "'Just wanna be there doing that…' — following a hiker down a stone-paved trail carved between massive granite spires in Custer State Park, opening onto a panoramic vista of forested mountains.",
+    "creator": "@amorywild",
+    "reel_title": "Hiking — Custer State Park",
+    "reel_theme": "Custer State Park hike"
+   }
+  },
+  {
+   "from": "place:custer-state-park-sd",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:mount-rushmore-sd",
    "to": "state:united-states-south-dakota",
    "type": "LOCATED_IN",
@@ -85449,6 +87214,25 @@
     "reel_title": "Katmai — the national park for bear lovers",
     "reel_theme": "Katmai National Park guide"
    }
+  },
+  {
+   "from": "place:brooks-falls-ak",
+   "to": "reel:Dfi2QFKP_1S",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Bear viewing",
+    "recommendation": "Brooks Falls in the salmon run: dozens of brown bears standing in the rapids catching salmon, cubs resting on the banks, watched from the elevated boardwalk — 'unlike any other wildlife viewing experience we've ever had.' Best in July; camping permits release in January/February.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Katmai — the national park for bear lovers",
+    "reel_theme": "Katmai bear viewing"
+   }
+  },
+  {
+   "from": "place:brooks-falls-ak",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:mount-si-wa",
@@ -87551,6 +89335,19 @@
     "creator": "@kelleyandcarlsadventures",
     "reel_title": "10 epic national park hikes — Part 6",
     "reel_theme": "Epic national park hikes series, part 6"
+   }
+  },
+  {
+   "from": "place:sahale-arm-trail-wa",
+   "to": "reel:DfcbSbyGxpx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Worth every step — alpine ridge above Cascade Pass",
+    "recommendation": "'Some places are worth every single step. Sahale Arm in the North Cascades is definitely one of them.' Her carousel from the ridge is about the mental reset as much as the climb — 'hours of moving, breathing, climbing, and being reminded that the world is a whole lot bigger than whatever is happening in my day-to-day life' — and views she calls 'absolutely ridiculous. Washington, you really do show off.' One to save for the hiking bucket list.",
+    "creator": "@morgan_smile",
+    "reel_title": "Sahale Arm — worth every single step",
+    "reel_theme": "Sahale Arm, North Cascades"
    }
   },
   {
@@ -93860,6 +95657,25 @@
    "properties": {}
   },
   {
+   "from": "place:congaree-national-park-sc",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 3/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 3/10 in their Eastern USA park ratings: praised for morning light and champion trees, marked down for mosquitoes, snakes and flooding.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:congaree-national-park-sc",
+   "to": "theme:national-park-rated-3-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:indiana-dunes-national-park-in",
    "to": "state:united-states-in",
    "type": "LOCATED_IN",
@@ -93925,6 +95741,25 @@
   {
    "from": "place:indiana-dunes-national-park-in",
    "to": "theme:national-park-mini-guide",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:indiana-dunes-national-park-in",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 2/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 2/10 in their Eastern USA park ratings: less impressive dunes, with nearby industry in view.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:indiana-dunes-national-park-in",
+   "to": "theme:national-park-rated-2-10-in-their-eastern-usa-park-ratings",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -94013,6 +95848,25 @@
   {
    "from": "place:cuyahoga-valley-national-park-oh",
    "to": "theme:must-see-spot",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cuyahoga-valley-national-park-oh",
+   "to": "reel:DfkjVoDiXMd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "National park / Rated 5/10 in their Eastern USA park ratings",
+    "recommendation": "Rated 5/10 in their Eastern USA park ratings: loved for waterfalls and biking, but less spectacular than the rest.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Rating the National Parks in the Eastern USA",
+    "reel_theme": "Eastern USA national parks ratings"
+   }
+  },
+  {
+   "from": "place:cuyahoga-valley-national-park-oh",
+   "to": "theme:national-park-rated-5-10-in-their-eastern-usa-park-ratings",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -104720,6 +106574,19 @@
    }
   },
   {
+   "from": "place:wind-canyon-trail-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Sunset",
+    "recommendation": "A South Unit favorite: the Wind Canyon Trail at sunset.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
+   }
+  },
+  {
    "from": "place:boicourt-overlook-nd",
    "to": "state:united-states-nd",
    "type": "LOCATED_IN",
@@ -104832,6 +106699,19 @@
     "creator": "@kelleyandcarlsadventures",
     "reel_title": "Theodore Roosevelt — never thought North Dakota could look like this",
     "reel_theme": "Theodore Roosevelt National Park guide"
+   }
+  },
+  {
+   "from": "place:boicourt-overlook-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint",
+    "recommendation": "A South Unit favorite: the Boicourt Overlook Trail.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
    }
   },
   {
@@ -104950,6 +106830,19 @@
    }
   },
   {
+   "from": "place:buck-hill-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint / Hike",
+    "recommendation": "A South Unit favorite: the Buck Hill Trail.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
+   }
+  },
+  {
    "from": "place:painted-canyon-nd",
    "to": "state:united-states-nd",
    "type": "LOCATED_IN",
@@ -105049,6 +106942,19 @@
     "creator": "@kelleyandcarlsadventures",
     "reel_title": "Theodore Roosevelt — never thought North Dakota could look like this",
     "reel_theme": "Theodore Roosevelt National Park guide"
+   }
+  },
+  {
+   "from": "place:painted-canyon-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint",
+    "recommendation": "A South Unit favorite: Painted Canyon.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
    }
   },
   {
@@ -105173,6 +107079,19 @@
    }
   },
   {
+   "from": "place:oxbow-overlook-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint",
+    "recommendation": "A North Unit favorite: Oxbow Overlook.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
+   }
+  },
+  {
    "from": "place:river-bend-overlook-nd",
    "to": "state:united-states-nd",
    "type": "LOCATED_IN",
@@ -105273,6 +107192,25 @@
     "reel_title": "Theodore Roosevelt — never thought North Dakota could look like this",
     "reel_theme": "Theodore Roosevelt National Park guide"
    }
+  },
+  {
+   "from": "place:river-bend-overlook-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint / Hike",
+    "recommendation": "A North Unit favorite: the River Bend Overlook Trail.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
+   }
+  },
+  {
+   "from": "place:river-bend-overlook-nd",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
   },
   {
    "from": "place:caprock-coulee-trail-nd",
@@ -105381,6 +107319,19 @@
     "creator": "@kelleyandcarlsadventures",
     "reel_title": "Theodore Roosevelt — never thought North Dakota could look like this",
     "reel_theme": "Theodore Roosevelt National Park guide"
+   }
+  },
+  {
+   "from": "place:caprock-coulee-trail-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike",
+    "recommendation": "A North Unit favorite: the Caprock Coulee Trail.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
    }
   },
   {
@@ -127246,6 +129197,49 @@
   {
    "from": "place:lucifer-falls-ny",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:prairie-dog-metropolis-nd",
+   "to": "state:usa-nd",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-nd",
+   "to": "country:usa",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-nd",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:prairie-dog-metropolis-nd",
+   "to": "site:theodore-roosevelt-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:prairie-dog-metropolis-nd",
+   "to": "reel:DfibmDYpUnO",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Wildlife",
+    "recommendation": "'Prairie Dog Metropolis' — Kelley & Carl's South Unit favorite: a particularly large and active prairie dog town about 3 miles from the South Unit entrance, where a prairie dog stands alert in the meadow in their reel.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Theodore Roosevelt National Park — North Dakota",
+    "reel_theme": "Theodore Roosevelt NP, both units"
+   }
+  },
+  {
+   "from": "place:prairie-dog-metropolis-nd",
+   "to": "theme:wildlife",
    "type": "BEST_FOR",
    "properties": {}
   }
