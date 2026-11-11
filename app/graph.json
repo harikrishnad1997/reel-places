@@ -20738,6 +20738,37 @@
    }
   },
   {
+   "id": "reel:DflFsSEPmlS",
+   "type": "Reel",
+   "properties": {
+    "name": "Newspaper Rock petroglyphs — Bears Ears",
+    "url": "https://www.instagram.com/reel/DflFsSEPmlS/",
+    "title": "Newspaper Rock petroglyphs — Bears Ears",
+    "creator": "@christiandelatorre_",
+    "theme": "Newspaper Rock petroglyphs (Bears Ears)",
+    "places_count": 1,
+    "recommendation_summary": "Christian de la Torre at Newspaper Rock, Utah — panning shots of the famous petroglyph panel in Indian Creek Canyon (Bears Ears National Monument): 650+ carvings (figures, animals, footprints, handprints, spirals) spanning ~2,000 years, viewed from behind a railing at a roadside pullout on UT-211. 'I just can't get over these petroglyphs — history is so fascinating.' One new pin.",
+    "posted": "2026-11-10",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "creator:christiandelatorre",
+   "type": "Creator",
+   "properties": {
+    "name": "@christiandelatorre_",
+    "handle": "@christiandelatorre_",
+    "display_name": "Christian de la Torre †"
+   }
+  },
+  {
+   "id": "theme:newspaper-rock-petroglyphs-bears-ears",
+   "type": "Theme",
+   "properties": {
+    "name": "Newspaper Rock petroglyphs (Bears Ears)"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -45511,6 +45542,39 @@
    "properties": {
     "name": "Visitor center / Favorite visitor center experience of 57 parks"
    }
+  },
+  {
+   "id": "place:newspaper-rock-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Newspaper Rock",
+    "place_id": "newspaper-rock-ut",
+    "site": "Bears Ears National Monument",
+    "city": "Monticello",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Southwest",
+    "country": "USA",
+    "lat": 37.98833,
+    "lng": -109.51806,
+    "google_maps_query": "Newspaper Rock, Bears Ears National Monument, Monticello, Utah",
+    "best_for": "Petroglyphs / One of the largest petroglyph panels in the US",
+    "note": "Coordinates: Wikipedia (Newspaper Rock State Historic Monument); visitutah's published GPS (37.988325, -109.518501) agrees. The reel's tagged location points at Bears Ears National Monument generally; the panel itself is the state historic monument on UT-211, 28 mi NW of Monticello."
+   }
+  },
+  {
+   "id": "site:bears-ears-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Bears Ears National Monument"
+   }
+  },
+  {
+   "id": "theme:petroglyphs-one-of-the-largest-petroglyph-panels-in-the-us",
+   "type": "Theme",
+   "properties": {
+    "name": "Petroglyphs / One of the largest petroglyph panels in the US"
+   }
   }
  ],
  "edges": [
@@ -58213,6 +58277,18 @@
   {
    "from": "reel:DfhnyRAlb-N",
    "to": "theme:favorite-national-parks-by-category-57-parks-visited",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DflFsSEPmlS",
+   "to": "creator:christiandelatorre",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DflFsSEPmlS",
+   "to": "theme:newspaper-rock-petroglyphs-bears-ears",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -130205,6 +130281,37 @@
   {
    "from": "place:gateway-arch-national-park-mo",
    "to": "theme:visitor-center-favorite-visitor-center-experience-of-57-parks",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:newspaper-rock-ut",
+   "to": "state:usa-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:newspaper-rock-ut",
+   "to": "site:bears-ears-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:newspaper-rock-ut",
+   "to": "reel:DflFsSEPmlS",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Petroglyphs / One of the largest petroglyph panels in the US",
+    "recommendation": "'I just CAN'T get over these petroglyphs!' Christian films the Newspaper Rock panel — a desert-varnish Wingate sandstone face in Indian Creek Canyon (Bears Ears) covered with 650+ carvings: human figures, deer, bighorn sheep, birds, footprints, handprints and spirals, etched over roughly 2,000 years by Archaic, Basketmaker, Fremont and Pueblo peoples. It's a short walk from the paved pullout on UT-211; you view the panel from behind a railing. 'History is so fascinating to me — I just want to learn more and more.'",
+    "creator": "@christiandelatorre_",
+    "reel_title": "Newspaper Rock petroglyphs — Bears Ears",
+    "reel_theme": "Newspaper Rock petroglyphs (Bears Ears)"
+   }
+  },
+  {
+   "from": "place:newspaper-rock-ut",
+   "to": "theme:petroglyphs-one-of-the-largest-petroglyph-panels-in-the-us",
    "type": "BEST_FOR",
    "properties": {}
   }
