@@ -20707,6 +20707,37 @@
    }
   },
   {
+   "id": "reel:DfhnyRAlb-N",
+   "type": "Reel",
+   "properties": {
+    "name": "57 parks down — our favorite parks, by category",
+    "url": "https://www.instagram.com/p/DfhnyRAlb-N/",
+    "title": "57 parks down — our favorite parks, by category",
+    "creator": "@katieandjoeonthego",
+    "theme": "Favorite national parks by category (57 parks visited)",
+    "places_count": 23,
+    "recommendation_summary": "Katie & Joe — 57 of the 64 US national parks visited, 7 left — award 23 parks their own titles instead of picking one favorite: Mount Rainier (hiking), Capitol Reef (snacks), Carlsbad Caverns (otherworldly vibes), Olympic (camping), White Sands (sunsets), Acadia (sunrise), Bryce Canyon (stargazing), Yosemite (waterfalls), Great Smoky Mountains (fall foliage), Katmai (wildlife), Gates of the Arctic (feel small), Lake Clark (solitude), Isle Royale (backpacking), Kenai Fjords (unique experiences), Dry Tortugas (history), Death Valley (backcountry driving), Glacier (take your breath away), Wind Cave (evening program), Theodore Roosevelt (scenic drive), Gateway Arch (visitor center experience), Arches (only one day), Grand Canyon (don't want to hike), Badlands (fossils). Sources attach to the 22 existing park pins; Gateway Arch National Park is a new pin (the dataset's first for that park).",
+    "posted": "2026-11-09",
+    "added": "2026-11-10"
+   }
+  },
+  {
+   "id": "creator:katieandjoeonthego",
+   "type": "Creator",
+   "properties": {
+    "name": "@katieandjoeonthego",
+    "handle": "@katieandjoeonthego",
+    "display_name": "Katie And Joe | Adventure Travel Couple"
+   }
+  },
+  {
+   "id": "theme:favorite-national-parks-by-category-57-parks-visited",
+   "type": "Theme",
+   "properties": {
+    "name": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -21097,6 +21128,13 @@
    }
   },
   {
+   "id": "theme:park-favorites-list-favorite-for-fossils",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Fossils"
+   }
+  },
+  {
    "id": "place:guadalupe-peak-tx",
    "type": "Place",
    "properties": {
@@ -21406,6 +21444,13 @@
    }
   },
   {
+   "id": "theme:park-favorites-list-favorite-for-snacks",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Snacks"
+   }
+  },
+  {
    "id": "place:death-valley-national-park-ca",
    "type": "Place",
    "properties": {
@@ -21502,6 +21547,13 @@
    }
   },
   {
+   "id": "theme:park-favorites-list-favorite-for-backcountry-driving",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Backcountry Driving"
+   }
+  },
+  {
    "id": "place:isle-royale-national-park-mi",
    "type": "Place",
    "properties": {
@@ -21534,6 +21586,13 @@
    "type": "Site",
    "properties": {
     "name": "Isle Royale National Park"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-for-backpacking",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Backpacking"
    }
   },
   {
@@ -21631,6 +21690,13 @@
    "type": "Theme",
    "properties": {
     "name": "Trip planning"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-if-you-want-to-feel-small",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite if You Want to Feel Small"
    }
   },
   {
@@ -21870,6 +21936,13 @@
    "type": "Theme",
    "properties": {
     "name": "Park guide / Their ultimate Bryce Canyon one-day guide"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-for-stargazing",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Stargazing"
    }
   },
   {
@@ -22135,6 +22208,13 @@
    "type": "Theme",
    "properties": {
     "name": "Boat tour"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-for-unique-experiences",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Unique Experiences"
    }
   },
   {
@@ -23240,6 +23320,13 @@
    }
   },
   {
+   "id": "theme:park-favorites-list-favorite-for-fall-foliage",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Fall Foliage"
+   }
+  },
+  {
    "id": "place:everglades-national-park-fl",
    "type": "Place",
    "properties": {
@@ -23467,6 +23554,13 @@
    "type": "Theme",
    "properties": {
     "name": "Ranking / Prettiest water of their 2024 parks"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-for-history",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for History"
    }
   },
   {
@@ -24533,6 +24627,13 @@
    }
   },
   {
+   "id": "theme:park-favorites-list-favorite-scenic-drive",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite Scenic Drive"
+   }
+  },
+  {
    "id": "place:yellowstone-national-park-wy",
    "type": "Place",
    "properties": {
@@ -24807,6 +24908,13 @@
    "type": "Theme",
    "properties": {
     "name": "Scenery"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-to-take-your-breath-away",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite to Take Your Breath Away"
    }
   },
   {
@@ -26055,6 +26163,13 @@
    }
   },
   {
+   "id": "theme:park-favorites-list-favorite-for-camping",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Camping"
+   }
+  },
+  {
    "id": "place:mt-henry-trail-mt",
    "type": "Place",
    "properties": {
@@ -26430,6 +26545,13 @@
    "type": "Theme",
    "properties": {
     "name": "National Park / Their 'Moab is like no other place' carousel"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-if-you-only-have-one-day",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite if You Only Have One Day"
    }
   },
   {
@@ -29062,6 +29184,13 @@
    "type": "Theme",
    "properties": {
     "name": "National park / Park #31 visit"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-evening-program",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite Evening Program"
    }
   },
   {
@@ -34321,6 +34450,13 @@
    "type": "Theme",
    "properties": {
     "name": "Park visit / Park #12 together"
+   }
+  },
+  {
+   "id": "theme:park-favorites-list-favorite-for-otherworldly-vibes",
+   "type": "Theme",
+   "properties": {
+    "name": "Park favorites list / Favorite for Otherworldly Vibes"
    }
   },
   {
@@ -45332,6 +45468,48 @@
    "type": "Site",
    "properties": {
     "name": "Keweenaw Peninsula"
+   }
+  },
+  {
+   "id": "place:gateway-arch-national-park-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Gateway Arch National Park",
+    "place_id": "gateway-arch-national-park-mo",
+    "site": "Gateway Arch National Park",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "state_code": "MO",
+    "region": "Midwest",
+    "country": "USA",
+    "lat": 38.6246,
+    "lng": -90.18497,
+    "google_maps_query": "Gateway Arch National Park, Gateway Arch National Park, St. Louis, Missouri",
+    "best_for": "Visitor center / Favorite visitor center experience of 57 parks",
+    "note": "Coordinates: Wikipedia park coordinates for Gateway Arch National Park."
+   }
+  },
+  {
+   "id": "state:usa-mo",
+   "type": "State",
+   "properties": {
+    "name": "Missouri",
+    "state_code": "MO",
+    "country": "USA"
+   }
+  },
+  {
+   "id": "site:gateway-arch-national-park",
+   "type": "Site",
+   "properties": {
+    "name": "Gateway Arch National Park"
+   }
+  },
+  {
+   "id": "theme:visitor-center-favorite-visitor-center-experience-of-57-parks",
+   "type": "Theme",
+   "properties": {
+    "name": "Visitor center / Favorite visitor center experience of 57 parks"
    }
   }
  ],
@@ -58027,6 +58205,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DfhnyRAlb-N",
+   "to": "creator:katieandjoeonthego",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfhnyRAlb-N",
+   "to": "theme:favorite-national-parks-by-category-57-parks-visited",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -59508,6 +59698,25 @@
    }
   },
   {
+   "from": "place:badlands-national-park-sd",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Fossils",
+    "recommendation": "Badlands National Park earns the title 'Favorite for Fossils' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:badlands-national-park-sd",
+   "to": "theme:park-favorites-list-favorite-for-fossils",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:guadalupe-peak-tx",
    "to": "state:united-states-tx",
    "type": "LOCATED_IN",
@@ -60750,6 +60959,25 @@
    "properties": {}
   },
   {
+   "from": "place:capitol-reef-national-park-ut",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Snacks",
+    "recommendation": "Capitol Reef National Park earns the title 'Favorite for Snacks' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:capitol-reef-national-park-ut",
+   "to": "theme:park-favorites-list-favorite-for-snacks",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:death-valley-national-park-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -61098,6 +61326,25 @@
    "properties": {}
   },
   {
+   "from": "place:death-valley-national-park-ca",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Backcountry Driving",
+    "recommendation": "Death Valley National Park earns the title 'Favorite for Backcountry Driving' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:death-valley-national-park-ca",
+   "to": "theme:park-favorites-list-favorite-for-backcountry-driving",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:isle-royale-national-park-mi",
    "to": "state:united-states-mi",
    "type": "LOCATED_IN",
@@ -61137,6 +61384,25 @@
   {
    "from": "place:isle-royale-national-park-mi",
    "to": "theme:solitude",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:isle-royale-national-park-mi",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Backpacking",
+    "recommendation": "Isle Royale National Park earns the title 'Favorite for Backpacking' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:isle-royale-national-park-mi",
+   "to": "theme:park-favorites-list-favorite-for-backpacking",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -61287,6 +61553,25 @@
   {
    "from": "place:gates-of-the-arctic-national-park-ak",
    "to": "theme:trip-planning",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:gates-of-the-arctic-national-park-ak",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite if You Want to Feel Small",
+    "recommendation": "Gates of the Arctic National Park earns the title 'Favorite if You Want to Feel Small' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:gates-of-the-arctic-national-park-ak",
+   "to": "theme:park-favorites-list-favorite-if-you-want-to-feel-small",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -62191,6 +62476,25 @@
   {
    "from": "place:bryce-canyon-national-park-ut",
    "to": "theme:park-guide-their-ultimate-bryce-canyon-one-day-guide",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Stargazing",
+    "recommendation": "Bryce Canyon National Park earns the title 'Favorite for Stargazing' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:bryce-canyon-national-park-ut",
+   "to": "theme:park-favorites-list-favorite-for-stargazing",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -63150,6 +63454,25 @@
    "properties": {}
   },
   {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Unique Experiences",
+    "recommendation": "Kenai Fjords National Park earns the title 'Favorite for Unique Experiences' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:kenai-fjords-national-park-ak",
+   "to": "theme:park-favorites-list-favorite-for-unique-experiences",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:mount-rainier-national-park-wa",
    "to": "state:united-states-wa",
    "type": "LOCATED_IN",
@@ -63350,6 +63673,19 @@
    "to": "theme:national-park-timed-entry-reservations-2025",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:mount-rainier-national-park-wa",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Hiking",
+    "recommendation": "Mount Rainier National Park earns the title 'Favorite for Hiking' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
   },
   {
    "from": "place:ramsey-cascades-tn",
@@ -64958,6 +65294,19 @@
    "to": "theme:trip-planning",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:katmai-national-park-and-preserve-ak",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Wildlife",
+    "recommendation": "Katmai National Park and Preserve earns the title 'Favorite for Wildlife' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
   },
   {
    "from": "place:wasson-peak-az",
@@ -67221,6 +67570,19 @@
    "properties": {}
   },
   {
+   "from": "place:acadia-national-park-me",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite Sunrise",
+    "recommendation": "Acadia National Park earns the title 'Favorite Sunrise' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
    "from": "place:shenandoah-national-park-va",
    "to": "state:united-states-va",
    "type": "LOCATED_IN",
@@ -67855,6 +68217,25 @@
   {
    "from": "place:great-smoky-mountains-national-park-tn",
    "to": "theme:national-park-rated-6-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:great-smoky-mountains-national-park-tn",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Fall Foliage",
+    "recommendation": "Great Smoky Mountains National Park earns the title 'Favorite for Fall Foliage' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:great-smoky-mountains-national-park-tn",
+   "to": "theme:park-favorites-list-favorite-for-fall-foliage",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -68670,6 +69051,25 @@
   {
    "from": "place:dry-tortugas-national-park-fl",
    "to": "theme:national-park-rated-8-10-in-their-eastern-usa-park-ratings",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:dry-tortugas-national-park-fl",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for History",
+    "recommendation": "Dry Tortugas National Park earns the title 'Favorite for History' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:dry-tortugas-national-park-fl",
+   "to": "theme:park-favorites-list-favorite-for-history",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -72742,6 +73142,25 @@
    "properties": {}
   },
   {
+   "from": "place:theodore-roosevelt-national-park-nd",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite Scenic Drive",
+    "recommendation": "Theodore Roosevelt National Park earns the title 'Favorite Scenic Drive' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:theodore-roosevelt-national-park-nd",
+   "to": "theme:park-favorites-list-favorite-scenic-drive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:yellowstone-national-park-wy",
    "to": "state:united-states-wy",
    "type": "LOCATED_IN",
@@ -73712,6 +74131,19 @@
    "properties": {}
   },
   {
+   "from": "place:yosemite-national-park-ca",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Waterfalls",
+    "recommendation": "Yosemite National Park earns the title 'Favorite for Waterfalls' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
    "from": "place:north-cascades-national-park-wa",
    "to": "state:united-states-wa",
    "type": "LOCATED_IN",
@@ -74182,6 +74614,25 @@
   {
    "from": "place:glacier-national-park-mt",
    "to": "theme:scenery",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite to Take Your Breath Away",
+    "recommendation": "Glacier National Park earns the title 'Favorite to Take Your Breath Away' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:glacier-national-park-mt",
+   "to": "theme:park-favorites-list-favorite-to-take-your-breath-away",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -78414,6 +78865,25 @@
    "properties": {}
   },
   {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite if You Don't Want to Hike",
+    "recommendation": "Grand Canyon National Park earns the title 'Favorite if You Don't Want to Hike' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:grand-canyon-national-park-az",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:subway-trail-ut",
    "to": "state:united-states-ut",
    "type": "LOCATED_IN",
@@ -78711,6 +79181,25 @@
   {
    "from": "place:olympic-national-park-wa",
    "to": "theme:national-park-east-vs-west-montage",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:olympic-national-park-wa",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Camping",
+    "recommendation": "Olympic National Park earns the title 'Favorite for Camping' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:olympic-national-park-wa",
+   "to": "theme:park-favorites-list-favorite-for-camping",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -79786,6 +80275,25 @@
   {
    "from": "place:arches-national-park-ut",
    "to": "theme:national-park-their-moab-is-like-no-other-place-carousel",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite if You Only Have One Day",
+    "recommendation": "Arches National Park earns the title 'Favorite if You Only Have One Day' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:arches-national-park-ut",
+   "to": "theme:park-favorites-list-favorite-if-you-only-have-one-day",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -85254,6 +85762,25 @@
    "properties": {}
   },
   {
+   "from": "place:wind-cave-national-park-sd",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite Evening Program",
+    "recommendation": "Wind Cave National Park earns the title 'Favorite Evening Program' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:wind-cave-national-park-sd",
+   "to": "theme:park-favorites-list-favorite-evening-program",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:custer-state-park-sd",
    "to": "state:united-states-south-dakota",
    "type": "LOCATED_IN",
@@ -89718,6 +90245,25 @@
   {
    "from": "place:lake-clark-ak",
    "to": "theme:scenic-lake-the-park-s-namesake-turquoise-lake",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lake-clark-ak",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Solitude",
+    "recommendation": "Lake Clark earns the title 'Favorite for Solitude' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:lake-clark-ak",
+   "to": "theme:solitude",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -94908,6 +95454,19 @@
    "properties": {}
   },
   {
+   "from": "place:white-sands-national-park-nm",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Sunsets",
+    "recommendation": "White Sands National Park earns the title 'Favorite for Sunsets' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
    "from": "place:petrified-forest-national-park-az",
    "to": "state:united-states-az",
    "type": "LOCATED_IN",
@@ -95257,6 +95816,25 @@
   {
    "from": "place:carlsbad-caverns-national-park-nm",
    "to": "theme:national-park-one-of-their-4-parks-in-1-week",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:carlsbad-caverns-national-park-nm",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park favorites list / Favorite for Otherworldly Vibes",
+    "recommendation": "Carlsbad Caverns National Park earns the title 'Favorite for Otherworldly Vibes' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:carlsbad-caverns-national-park-nm",
+   "to": "theme:park-favorites-list-favorite-for-otherworldly-vibes",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -129584,6 +130162,49 @@
   {
    "from": "place:keweenaw-peninsula-mi",
    "to": "theme:winter-visit",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:gateway-arch-national-park-mo",
+   "to": "state:usa-mo",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-mo",
+   "to": "country:usa",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-mo",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:gateway-arch-national-park-mo",
+   "to": "site:gateway-arch-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:gateway-arch-national-park-mo",
+   "to": "reel:DfhnyRAlb-N",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Visitor center / Favorite visitor center experience of 57 parks",
+    "recommendation": "Gateway Arch National Park earns the title 'Favorite Visitor Center Experience' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' The 630-foot Arch and its museum on the St. Louis riverfront is the visitor-center stop they single out after 57 of the 64 US national parks.",
+    "creator": "@katieandjoeonthego",
+    "reel_title": "57 parks down — our favorite parks, by category",
+    "reel_theme": "Favorite national parks by category (57 parks visited)"
+   }
+  },
+  {
+   "from": "place:gateway-arch-national-park-mo",
+   "to": "theme:visitor-center-favorite-visitor-center-experience-of-57-parks",
    "type": "BEST_FOR",
    "properties": {}
   }
