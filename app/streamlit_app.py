@@ -159,6 +159,10 @@ def render_answer_map(answer_places):
         deck = pdk.Deck(
             layers=[layer],
             initial_view_state=pdk.ViewState(latitude=clat, longitude=clng, zoom=zoom),
+            # pydeck's default basemap is CARTO Dark Matter — that's why
+            # the map looked dark. Use the light Positron style instead
+            # (user, 2026-11-11: "Why is the map so dark?").
+            map_style="light",
             tooltip={"text": "{name}\n{loc}"})
         st.pydeck_chart(deck, width="stretch", height=340)
     except Exception:
