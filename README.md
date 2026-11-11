@@ -53,7 +53,7 @@ Send a reel, and Reel Places pulls out every location it names, checks each one 
 
 ## Reel Chat
 
-Reel Chat is a Streamlit app over the Kuzu graph (with a `graph.json` snapshot as its hosted data source). It answers questions like *"Best sunrise spots in Utah"*, *"What did @amorywild recommend in Zion?"*, and *"Make a 2-day itinerary for Utah"* — grouping stops by park, ordering them nearest-neighbour, and slotting sunrise spots in the morning and sunset spots in the evening. It is LLM-only by design: the model parses and phrases, the graph decides what's true. On Streamlit Cloud you paste your own OpenAI API key into the page (kept in your browser session only, never stored), or set it once as an app secret.
+Reel Chat is a Streamlit app over the Kuzu graph (with a `graph.json` snapshot as its hosted data source). It answers questions like *"Best sunrise spots in Utah"*, *"What was recommended in Zion?"*, and *"Make a 2-day itinerary for Utah"* — grouping stops by park, ordering them nearest-neighbour, and slotting sunrise spots in the morning and sunset spots in the evening. It is LLM-only by design: the model parses and phrases, the graph decides what's true. On Streamlit Cloud you paste your own OpenAI API key into the page (kept in your browser session only, never stored), or set it once as an app secret.
 
 ## Tech stack
 
@@ -93,7 +93,7 @@ cd graph && .venv/bin/streamlit run streamlit_app.py
 ## Project status
 
 - **839 places · 1050 source reels · 10 regions** and counting
-- Built initially from @amorywild's national-park reels: 237 of his posts processed in batches (his older posts aren't reachable through Instagram's profile listing — sending a specific reel always works)
+- Built initially from national-park reels: 237 posts processed in batches (older posts aren't reachable through Instagram's profile listing — sending a specific reel always works)
 
 ## Contributing
 
