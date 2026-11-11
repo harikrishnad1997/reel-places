@@ -31,7 +31,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 80 · Southeast 169 · Midwest 92 · Southwest 162 · Mountain West 94 · West 121 · Pacific Northwest 61 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 827**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
-- 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
+- 💬 **Ask the chatbot** — tap the **Ask Bot** button at the bottom-left of this page (and the map) to chat right here, or open [Reel Chat](chat.html) full-screen. It is the project's one chatbot (the Streamlit app): it answers questions and builds itineraries from these recommendations.
 
 ## Map — all places, color-coded by region {#map}
 
@@ -14500,3 +14500,6 @@ Send Muse an Instagram reel link in chat. Muse reads the caption and the video i
 [↑ Back to top](#top)
 
 <a href="#top" title="Back to top" style="position:fixed; right:16px; bottom:16px; z-index:99; background:#1d6fb8; color:#fff; padding:10px 16px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600; box-shadow:0 2px 6px rgba(0,0,0,.3);">↑ Top</a>
+
+<button id="askBotBtn" title="Ask the Reel Places chatbot" onclick="var p=document.getElementById('askBotPanel');var f=document.getElementById('askBotFrame');if(p.style.display==='block'){p.style.display='none';}else{p.style.display='block';if(!f.getAttribute('src')){f.setAttribute('src',f.getAttribute('data-src'));}}" style="position:fixed; left:16px; bottom:16px; z-index:2000; background:#1d6fb8; color:#fff; padding:10px 16px; border:none; border-radius:24px; font-size:14px; font-weight:600; cursor:pointer; box-shadow:0 2px 6px rgba(0,0,0,.3);">&#128172; Ask Bot</button>
+<div id="askBotPanel" style="display:none; position:fixed; left:16px; bottom:64px; z-index:2000; width:min(390px,92vw); height:min(580px,78vh); background:#fff; border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,.35); overflow:hidden;"><iframe id="askBotFrame" data-src="https://reel-places-5qsqnj7f8465py9mdhpttg.streamlit.app/?embed=true" title="Reel Chat - Ask Bot" style="width:100%; height:100%; border:0;"></iframe></div>
