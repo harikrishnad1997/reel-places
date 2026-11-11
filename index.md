@@ -14,7 +14,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 80 places](#northeast)
 - [Southeast Region — 169 places](#southeast)
-- [Midwest Region — 91 places](#midwest)
+- [Midwest Region — 92 places](#midwest)
 - [Southwest Region — 161 places](#southwest)
 - [Mountain West Region — 94 places](#mountain-west)
 - [West Region — 120 places](#west)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 80 · Southeast 169 · Midwest 91 · Southwest 161 · Mountain West 94 · West 120 · Pacific Northwest 60 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 823**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 80 · Southeast 169 · Midwest 92 · Southwest 161 · Mountain West 94 · West 120 · Pacific Northwest 60 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 824**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved.
 - 💬 **Ask the chatbot** — [Reel Chat](chat.html) is the project's one chatbot (the Streamlit app — that page takes you straight to it): it answers questions and builds itineraries from these recommendations.
@@ -169,6 +169,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National Park / Their moody, foggy Acadia coast post — 'About 90% of the time we were in Maine, the weather was overcast & foggy. Even though it was a bit dreary at times, the moodiness was beautiful in its own way.' The post names the Park Loop Road coastal stops — Sand Beach, Thunder Hole, Otter Cliff, Otter Point and Otter Cove are new pins from this post.
   - 🎬 Also recommended by: [Rating the National Parks in the Eastern USA](https://www.instagram.com/p/DfkjVoDiXMd/) by @kelleyandcarlsadventures
     - **Best for:** National park / Rated 6/10 in their Eastern USA park ratings — Rated 6/10 in their Eastern USA park ratings: four foggy days held it back despite enjoying the Beehive Trail.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite Sunrise — Acadia National Park earns the title 'Favorite Sunrise' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Trail
 
@@ -1871,6 +1873,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Ranking / Prettiest water of their 2024 parks — Their 2024 park ranking: Dry Tortugas — 'prettiest water.'
   - 🎬 Also recommended by: [Rating the National Parks in the Eastern USA](https://www.instagram.com/p/DfkjVoDiXMd/) by @kelleyandcarlsadventures
     - **Best for:** National park / Rated 8/10 in their Eastern USA park ratings — Rated 8/10 in their Eastern USA park ratings: turquoise water and fort exploration.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for History — Dry Tortugas National Park earns the title 'Favorite for History' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ### Everglades National Park
 
@@ -2168,6 +2172,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National Park / Their fall-crowd escape advice — Their advice for escaping the Smokies' fall crowds: come early in the morning or in the evening, prefer weekdays, and expect very limited parking at popular trailheads and overlooks in peak season.
   - 🎬 Also recommended by: [Rating the National Parks in the Eastern USA](https://www.instagram.com/p/DfkjVoDiXMd/) by @kelleyandcarlsadventures
     - **Best for:** National park / Rated 6/10 in their Eastern USA park ratings — Rated 6/10 in their Eastern USA park ratings: called generally overrated despite fall foliage, Mount LeConte and wildlife, marked down for crowds and traffic.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Fall Foliage — Great Smoky Mountains National Park earns the title 'Favorite for Fall Foliage' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### View
 
@@ -3330,7 +3336,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**91 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, North Dakota, Ohio, South Dakota, Wisconsin**
+**92 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, North Dakota, Ohio, South Dakota, Wisconsin**
 
 ### Adler Planetarium
 
@@ -3539,6 +3545,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / Dakotas road trip anchor — The South Dakota anchor of their Dakotas road trip, with favorite overlooks and hikes listed separately.
   - 🎬 Also recommended by: [South Dakota is more than just Mount Rushmore](https://www.instagram.com/reel/DMatEM1susR/) by @kelleyandcarlsadventures
     - **Best for:** National park / South Dakota must-see — On their 'South Dakota is more than Mount Rushmore' list: Badlands National Park.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Fossils — Badlands National Park earns the title 'Favorite for Fossils' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 - **17. [Saddle Pass](https://www.google.com/maps/search/?api=1&query=Saddle+Pass+Trailhead+Badlands)** — Badlands National Park, Interior
   - **Best for:** Sunset / Hike · Eroded badlands formations in orange light — Sunset #5 in Amory's countdown: Saddle Pass in Badlands National Park — a short, steep climb from the trailhead on Sage Creek Rim Road up through a break in the Badlands Wall, where the eroded spires and pinnacles light up orange at sunset.
   - Pin is the Saddle Pass Trailhead (published trailhead point); the pass overlook is a short climb up the trail.
@@ -3808,13 +3816,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Whipple's Cave — a cave hiding in the Illinois woods](https://www.instagram.com/reel/DfSiIY5sLzM/) by @our.adventure.tails (#1 in that reel)
 
+### Gateway Arch National Park
+
+#### Missouri
+
+##### Visitor center
+
+- **42. [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway Arch National Park, Gateway Arch National Park, St. Louis, Missouri)** — Gateway Arch National Park, St. Louis
+  - **Best for:** Visitor center / Favorite visitor center experience of 57 parks — Gateway Arch National Park earns the title 'Favorite Visitor Center Experience' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' The 630-foot Arch and its museum on the St. Louis riverfront is the visitor-center stop they single out after 57 of the 64 US national parks.
+  - Coordinates: Wikipedia park coordinates for Gateway Arch National Park.
+  - 🎬 Source: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego (#None in that reel)
+
 ### Great River Road
 
 #### Illinois
 
 ##### Scenic drive
 
-- **42. [Great River Road (Alton to Grafton)](https://www.google.com/maps/search/?api=1&query=Great River Road (Alton to Grafton), Great River Road, Alton, Illinois)** — Great River Road, Alton
+- **43. [Great River Road (Alton to Grafton)](https://www.google.com/maps/search/?api=1&query=Great River Road (Alton to Grafton), Great River Road, Alton, Illinois)** — Great River Road, Alton
   - **Best for:** Scenic drive / Fall color drive along the Mississippi bluffs — The reel's route: 'The Great River Road from Alton to Grafton, Illinois is one of the most scenic roads in the Midwest.' Drive Highway 100 north from Alton with rugged limestone bluffs on one side and the Mississippi River on the other — 'the next few weeks are the best times to see the leaves in full color (peak is usually end of October).' This stretch is also the Meeting of the Great Rivers National Scenic Byway, where the Mississippi, Illinois and Missouri rivers converge.
   - Pin point: the Piasa Bird bluff mural on IL-100 at Alton, at the southern end of the Alton–Grafton stretch (published coordinates, Wikipedia).
   - 🎬 Source: [This is Illinois?! — the Great River Road in fall](https://www.instagram.com/reel/DeXqNQqOWsL/) by @midwestnomadfamily (#None in that reel)
@@ -3825,7 +3844,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Designated international dark sky park
 
-- **43. [Headlands International Dark Sky Park](https://www.google.com/maps/search/?api=1&query=Headlands+International+Dark+Sky+Park)** — Headlands International Dark Sky Park, Mackinaw City
+- **44. [Headlands International Dark Sky Park](https://www.google.com/maps/search/?api=1&query=Headlands+International+Dark+Sky+Park)** — Headlands International Dark Sky Park, Mackinaw City
   - **Best for:** Stargazing · Designated international dark sky park — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. One of the first International Dark Sky Parks in the US, on the Straits of Mackinac west of Mackinaw City — shown under a star-filled sky.
   - 🎬 Source: [20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/) by @midwestlivingmag (#None in that reel)
 
@@ -3835,12 +3854,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **44. [Cowles Bog Trail](https://www.google.com/maps/search/?api=1&query=Cowles Bog Trail, Indiana Dunes National Park, Dune Acres, Indiana)** — Indiana Dunes National Park, Dune Acres
+- **45. [Cowles Bog Trail](https://www.google.com/maps/search/?api=1&query=Cowles Bog Trail, Indiana Dunes National Park, Dune Acres, Indiana)** — Indiana Dunes National Park, Dune Acres
   - **Best for:** Hiking / Wetland-and-dune loop in a National Natural Landmark — A top hike in their Indiana Dunes mini guide: the 4.3-mile loop from the Cowles Bog parking lot through the National Natural Landmark's wetlands and oak savanna out to the Lake Michigan beach.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/indiana/cowles-bog-trail--4)
   - Coordinates: NPS main (north) trailhead GPS.
   - 🎬 Source: [Indiana Dunes mini guide](https://www.instagram.com/p/DIHI4c0xyiF/) by @kelleyandcarlsadventures (#None in that reel)
-- **45. [Dune Succession Trail](https://www.google.com/maps/search/?api=1&query=Dune Succession Trail, Indiana Dunes National Park, Portage, Indiana)** — Indiana Dunes National Park, Portage
+- **46. [Dune Succession Trail](https://www.google.com/maps/search/?api=1&query=Dune Succession Trail, Indiana Dunes National Park, Portage, Indiana)** — Indiana Dunes National Park, Portage
   - **Best for:** Hiking / One-mile loop through four stages of dune succession — Named in their bucket-list hikes part 3 as one of ten epic hikes needing no permit or lottery: the one-mile West Beach loop climbing through four stages of dune succession, from open beach to forested dunes, up 250 stairs.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/indiana/west-beach-dune-succession-trail)
   - Coordinates: NPS West Beach trailhead GPS.
@@ -3850,7 +3869,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### National park
 
-- **46. [Indiana Dunes National Park](https://www.google.com/maps/search/?api=1&query=Indiana+Dunes+National+Park+Indiana+Dunes+National+Park+IN)** — Indiana Dunes National Park, Porter
+- **47. [Indiana Dunes National Park](https://www.google.com/maps/search/?api=1&query=Indiana+Dunes+National+Park+Indiana+Dunes+National+Park+IN)** — Indiana Dunes National Park, Porter
   - **Best for:** National park / Lake Michigan dunes and beaches — On Kelley & Carl's list of national parks you can literally see in one day — Lake Michigan shoreline, towering dunes and beaches an hour from Chicago.
   - Pin is the Indiana Dunes Visitor Center point (1215 N IN-49, Porter).
   - 🎬 Source: [US National Parks you can literally see in one day](https://www.instagram.com/p/DeCjWOYFszM/) by @kelleyandcarlsadventures (#None in that reel)
@@ -3867,9 +3886,11 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Solitude
 
-- **47. [Isle Royale National Park](https://www.google.com/maps/search/?api=1&query=Isle+Royale+National+Park+MI)** — Isle Royale National Park, Rock Harbor
+- **48. [Isle Royale National Park](https://www.google.com/maps/search/?api=1&query=Isle+Royale+National+Park+MI)** — Isle Royale National Park, Rock Harbor
   - **Best for:** Solitude — Ranked #3 for solitude, a remote island of forests and lakes reached only by boat or seaplane, with wolf howls at night.
   - 🎬 Source: [5 National Parks for Deafening Silence (solitude)](https://www.instagram.com/reel/DfDGoIcv13_/) by @amorywild (#3 in that reel)
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Backpacking — Isle Royale National Park earns the title 'Favorite for Backpacking' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ### Johnson's Shut-Ins State Park
 
@@ -3877,7 +3898,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Swimming
 
-- **48. [Johnson's Shut-Ins State Park](https://www.google.com/maps/search/?api=1&query=Johnson%27s+Shut-Ins+State+Park+Missouri)** — Johnson's Shut-Ins State Park, Middle Brook
+- **49. [Johnson's Shut-Ins State Park](https://www.google.com/maps/search/?api=1&query=Johnson%27s+Shut-Ins+State+Park+Missouri)** — Johnson's Shut-Ins State Park, Middle Brook
   - **Best for:** Swimming — One of the most unique swims in the Midwest: hundreds of natural pools and chutes the Black River carved into billion-year-old volcanic rock — 'nature's own waterpark,' about 2 hours south of St. Louis. The reel's tips: go early in summer (it gets busy), wear water shoes for the slippery rock, and mind the stronger currents with kids.
   - Pin sits at the main shut-ins day-use area (OpenStreetMap point for the swimming area's supply store) rather than the park boundary centroid. The 'shut-ins' are narrow channels where the river squeezes through erosion-resistant rhyolite.
   - 🎬 Source: [Johnson's Shut-Ins State Park — nature's waterpark in Missouri](https://www.instagram.com/reel/DfUarsMgzMy/) by @coupleofpatels (#None in that reel)
@@ -3888,7 +3909,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Bike ride · Rail-trail along the Missouri River bluffs
 
-- **49. [Katy Trail at Rocheport](https://www.google.com/maps/search/?api=1&query=Katy+Trail+Rocheport+MO)** — Katy Trail State Park, Rocheport
+- **50. [Katy Trail at Rocheport](https://www.google.com/maps/search/?api=1&query=Katy+Trail+Rocheport+MO)** — Katy Trail State Park, Rocheport
   - **Best for:** Bike ride · Rail-trail along the Missouri River bluffs — The reel's ride: the Katy Trail through Rocheport, right along the Missouri River, with fall colors lighting up the river bluffs — slow, scenic riding through Katy Trail State Park. (The full Katy Trail runs 240 miles across Missouri; this pin is its Rocheport stretch.)
   - 🎬 Source: [One of the prettiest fall bike rides in all of Missouri](https://www.instagram.com/reel/DfXpx4QxQFZ/) by @everydayoutdoorfamily (#None in that reel)
   - 🎬 Also recommended by: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily
@@ -3900,7 +3921,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Winter base
 
-- **50. [Keweenaw Peninsula](https://www.google.com/maps/search/?api=1&query=Keweenaw Peninsula, Keweenaw Peninsula, Copper Harbor, Michigan)** — Keweenaw Peninsula, Copper Harbor
+- **51. [Keweenaw Peninsula](https://www.google.com/maps/search/?api=1&query=Keweenaw Peninsula, Keweenaw Peninsula, Copper Harbor, Michigan)** — Keweenaw Peninsula, Copper Harbor
   - **Best for:** Winter base / Snowiest corner of the Midwest — skiing, frozen falls, sauna — #3 on her list: Michigan's Keweenaw Peninsula, which she says gets more snow than anywhere else in the Midwest. Her winter plans there center on skiing, frozen waterfalls and a sauna. The peninsula juts north into Lake Superior from Michigan's Upper Peninsula.
   - Pin point: Copper Harbor, the village at the peninsula's northern tip (Wikipedia / USGS GNIS) — the reel recommends the peninsula as a whole, not one specific site.
   - 🎬 Source: [Lake Superior winter bucket list](https://www.instagram.com/reel/DfkZC-8tHEw/) by @maddymarq (#None in that reel)
@@ -3911,7 +3932,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Observation tower
 
-- **51. [Lewis & Clark Confluence Tower](https://www.google.com/maps/search/?api=1&query=Lewis & Clark Confluence Tower, Lewis & Clark Confluence Tower, Hartford, Illinois)** — Lewis & Clark Confluence Tower, Hartford
+- **52. [Lewis & Clark Confluence Tower](https://www.google.com/maps/search/?api=1&query=Lewis & Clark Confluence Tower, Lewis & Clark Confluence Tower, Hartford, Illinois)** — Lewis & Clark Confluence Tower, Hartford
   - **Best for:** Observation tower / Where the Mississippi and Missouri rivers meet — Caption side trip: 'You can also make a side trip to Hartford to check out the view from the Confluence Tower.' The 180-foot Lewis & Clark Confluence Tower has viewing platforms at 50, 100 and 150 feet over the confluence of the Mississippi and Missouri rivers, about a mile from the Lewis and Clark State Historic Site (Camp Dubois).
   - Coordinates: Wikipedia, 435 Confluence Tower Drive, Hartford.
   - 🎬 Source: [This is Illinois?! — the Great River Road in fall](https://www.instagram.com/reel/DeXqNQqOWsL/) by @midwestnomadfamily (#None in that reel)
@@ -3922,7 +3943,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Lighthouse
 
-- **52. [Port of Grafton Lighthouse](https://www.google.com/maps/search/?api=1&query=Port of Grafton Lighthouse, Lighthouse Park, Grafton, Illinois)** — Lighthouse Park, Grafton
+- **53. [Port of Grafton Lighthouse](https://www.google.com/maps/search/?api=1&query=Port of Grafton Lighthouse, Lighthouse Park, Grafton, Illinois)** — Lighthouse Park, Grafton
   - **Best for:** Lighthouse / Photo op at the confluence of the Illinois and Mississippi — Step 5 of the itinerary: 'Make a stop at the harbor lighthouse for a fun photo op.' The red-and-white striped Port of Grafton Lighthouse — built in 2007 to mark the town's recovery from the 1993 flood — stands in Lighthouse Park at the harbor where the Illinois River meets the Mississippi.
   - Coordinates: the lighthouse's own place record, 215 W Water St, Grafton; Mapcarta/OSM agrees.
   - 🎬 Source: [This is Illinois?! — the Great River Road in fall](https://www.instagram.com/reel/DeXqNQqOWsL/) by @midwestnomadfamily (#None in that reel)
@@ -3933,7 +3954,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Museum
 
-- **53. [National Great Rivers Museum](https://www.google.com/maps/search/?api=1&query=National Great Rivers Museum, Melvin Price Locks and Dam, Alton, Illinois)** — Melvin Price Locks and Dam, Alton
+- **54. [National Great Rivers Museum](https://www.google.com/maps/search/?api=1&query=National Great Rivers Museum, Melvin Price Locks and Dam, Alton, Illinois)** — Melvin Price Locks and Dam, Alton
   - **Best for:** Museum / Free river museum at the Melvin Price Locks and Dam — Named among the reel's Alton extras: 'Don't miss ... the free National Great Rivers Museum.' The museum at Melvin Price Locks and Dam tells the Mississippi River's story, and guided tours of the locks let you watch barge traffic lock through from above the water.
   - Coordinates: the museum's own place record, 1 Locks and Dam Way, Alton (East Alton).
   - 🎬 Source: [This is Illinois?! — the Great River Road in fall](https://www.instagram.com/reel/DeXqNQqOWsL/) by @midwestnomadfamily (#None in that reel)
@@ -3944,7 +3965,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **54. [Mount Rushmore](https://www.google.com/maps/search/?api=1&query=Mount+Rushmore+National+Memorial+SD)** — Mount Rushmore National Memorial, Keystone
+- **55. [Mount Rushmore](https://www.google.com/maps/search/?api=1&query=Mount+Rushmore+National+Memorial+SD)** — Mount Rushmore National Memorial, Keystone
   - **Best for:** Road trip stop — Stop 6 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Custer State Park before the Day 9 flight out of Rapid City.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#6 in that reel)
@@ -3961,7 +3982,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Dark sky park on Door County's quiet side
 
-- **55. [Newport State Park](https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Wisconsin)** — Newport State Park, Ellison Bay
+- **56. [Newport State Park](https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Wisconsin)** — Newport State Park, Ellison Bay
   - **Best for:** Stargazing · Dark sky park on Door County's quiet side — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. Door County's wilderness park on the Lake Michigan side — a designated dark sky park shown over a calm lake at night.
   - 🎬 Source: [20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/) by @midwestlivingmag (#None in that reel)
 
@@ -3971,7 +3992,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **56. [Palisade Head](https://www.google.com/maps/search/?api=1&query=Palisade+Head+Silver+Bay+MN)** — Palisade Head, Silver Bay
+- **57. [Palisade Head](https://www.google.com/maps/search/?api=1&query=Palisade+Head+Silver+Bay+MN)** — Palisade Head, Silver Bay
   - **Best for:** Viewpoint — One of John Walberg's all-time favorite views on Minnesota's North Shore: standing on top of Palisade Head looking out over the endless blue of Lake Superior — towering cliffs, huge views, and fresh air. His verdict: a place he'll never get tired of visiting, and a must for any North Shore trip's bucket list.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [One of my all-time favorite views on Minnesota's North Shore — Palisade Head](https://www.instagram.com/reel/DfP15Ujq6wb/) by @john_walberg (#1 in that reel)
@@ -3982,7 +4003,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Spring · Self-propelled raft over turquoise water
 
-- **57. [Kitch-iti-kipi](https://www.google.com/maps/search/?api=1&query=Kitch-iti-kipi+Michigan)** — Palms Book State Park, Manistique
+- **58. [Kitch-iti-kipi](https://www.google.com/maps/search/?api=1&query=Kitch-iti-kipi+Michigan)** — Palms Book State Park, Manistique
   - **Best for:** Spring · Self-propelled raft over turquoise water — Michigan's largest freshwater spring, inside Palms Book State Park: turquoise water so crystal clear you can see straight to the bottom, at a constant 45°F, viewed from a self-propelled wooden observation raft you crank across the spring yourself. Open year-round; a Michigan Recreation Passport (state park pass) is required. No swimming or fishing, but it's pet friendly and ADA accessible.
   - 🎬 Source: [Kitch-iti-kipi — Michigan's crystal-clear Big Spring](https://www.instagram.com/reel/DcmIo5lJNCT/) by @missnortherner (#None in that reel)
   - 🎬 Also recommended by: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham
@@ -3994,7 +4015,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Fall colors
 
-- **58. [Eagle Tower](https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
+- **59. [Eagle Tower](https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
   - **Best for:** Fall colors / View — The reel's headline stop: add Peninsula State Park in Door County to a Wisconsin trip for Eagle Tower, reached by a long wooden elevated walkway through autumn trees to panoramic views over Green Bay and the surrounding islands — at their best in fall color. Parking, restrooms and park information are right at the tower area.
   - The reel says the views overlook Lake Michigan; the tower actually faces Green Bay (the bay between the Door Peninsula and mainland Wisconsin), with Horseshoe Island in view. Caption puts the park about a 5-hour drive from Chicago. The rebuilt tower (opened 2021) is reached by 95-100 stairs or an 850-foot accessible canopy ramp; Wisconsin DNR lists it open May 1-Oct 31.
   - 🎬 Source: [Fall colors — Eagle Tower, Peninsula State Park](https://www.instagram.com/reel/DfQ6dEHt8NU/) by @asia_in_chicago (#1 in that reel)
@@ -4003,7 +4024,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **59. [Eagle Trail](https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
+- **60. [Eagle Trail](https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
   - **Best for:** Hike — Shown in the reel right after the tower: the trailhead sign marked 'Difficult Trail' for the park's Eagle Trail, a loop the narrator points viewers to for more scenic overlooks beyond Eagle Tower.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/eagle-trail--2)
   - Pin is the Eagle Trail trailhead just west of the Eagle Tower parking area (Trailforks trailhead coordinates); DNR lists access at Eagle Terrace, Eagle Panorama or the Tower. DNR rates this 2.0-mile loop 'more difficult', with steep, rocky sections under 150-foot cliffs along Eagle Harbor.
@@ -4017,19 +4038,19 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **60. [McAdams Peak](https://www.google.com/maps/search/?api=1&query=McAdams Peak, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
+- **61. [McAdams Peak](https://www.google.com/maps/search/?api=1&query=McAdams Peak, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
   - **Best for:** Overlook / Hike to the park's signature summit viewpoint — 'The Twin Mounds Overlook or McAdams Peak are the perfect spot to watch a sunset.' McAdams Peak (807 ft) is Pere Marquette's best-known summit viewpoint over the Illinois River valley — reached by the 1.8-mile McAdams Peak Trail loop or a short hike from the park's scenic drive.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/mcadams-peak-trail)
   - Coordinates: USGS GNIS summit via TopoQuest.
   - 🎬 Source: [This is Illinois?! — the Great River Road in fall](https://www.instagram.com/reel/DeXqNQqOWsL/) by @midwestnomadfamily (#None in that reel)
-- **61. [Twin Mounds Overlook](https://www.google.com/maps/search/?api=1&query=Twin Mounds Overlook, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
+- **62. [Twin Mounds Overlook](https://www.google.com/maps/search/?api=1&query=Twin Mounds Overlook, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
   - **Best for:** Overlook / Sunset and fall color over the confluence floodplain — 'The Twin Mounds Overlook or McAdams Peak are the perfect spot to watch a sunset.' Twin Mounds looks over the floodplain where the Illinois, Mississippi and Missouri rivers meet; park interpreters call it the park's best fall-color overlook, and on a clear day the Gateway Arch is visible 30 miles to the southeast.
   - Coordinates: Backpacker trail-guide waypoint ('Twin Mounds View'), Hickory Trail, Pere Marquette State Park.
   - 🎬 Source: [This is Illinois?! — the Great River Road in fall](https://www.instagram.com/reel/DeXqNQqOWsL/) by @midwestnomadfamily (#None in that reel)
 
 ##### State park
 
-- **62. [Pere Marquette State Park](https://www.google.com/maps/search/?api=1&query=Pere Marquette State Park, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
+- **63. [Pere Marquette State Park](https://www.google.com/maps/search/?api=1&query=Pere Marquette State Park, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
   - **Best for:** State park / Scenic drive, bluff hikes and river overlooks — The drive's finale: 'Continue driving north until you reach Pere Marquette State Park. Drive the scenic drive and take a hike if time allows.' At 8,050 acres it is Illinois's largest state park, above the confluence of the Mississippi and Illinois rivers; the caption ends the evening with dinner at the historic CCC-era Pere Marquette Lodge (or the Loading Dock back in Grafton).
   - Coordinates: Illinois DNR site point — the visitor center, 13112 Visitor Center Lane, Grafton.
   - 🎬 Source: [This is Illinois?! — the Great River Road in fall](https://www.instagram.com/reel/DeXqNQqOWsL/) by @midwestnomadfamily (#None in that reel)
@@ -4040,7 +4061,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **63. [Brady's Bluff](https://www.google.com/maps/search/?api=1&query=Bradys+Bluff+Perrot+State+Park+WI)** — Perrot State Park, Trempealeau
+- **64. [Brady's Bluff](https://www.google.com/maps/search/?api=1&query=Bradys+Bluff+Perrot+State+Park+WI)** — Perrot State Park, Trempealeau
   - **Best for:** Viewpoint / Mississippi River bluff overlook with a CCC stone shelter — The Midwest Guide's '11/10 bench in Wisconsin': the reel opens on the weathered wooden bench set into the stacked-stone wall of the CCC-built shelter at the top of Brady's Bluff, then pans across the Mississippi River valley in full fall color. The creator never named the spot ('Where am I?!') — commenters identified it as Perrot State Park's Brady's Bluff, the park's highest point, rising nearly 460 feet above the river with views to Trempealeau Mountain and Trempealeau Bay.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/bradys-bluff-and-riverview-trail-loop)
   - Coordinates are the OpenStreetMap/Mapcarta summit point (USGS GNIS summit: 44.02024, -91.48320). The reel does not name the location; the identification is from the post's comments plus the matching CCC stone shelter, flagstone patio and river-valley panorama at the Brady's Bluff summit.
@@ -4052,7 +4073,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · 10-mile loop past two falls to Chapel Rock
 
-- **64. [Chapel Loop Trail](https://www.google.com/maps/search/?api=1&query=Chapel+Loop+Trail+Pictured+Rocks+MI)** — Pictured Rocks National Lakeshore, Munising
+- **65. [Chapel Loop Trail](https://www.google.com/maps/search/?api=1&query=Chapel+Loop+Trail+Pictured+Rocks+MI)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Hike · 10-mile loop past two falls to Chapel Rock — The reel's Michigan pick at 10 miles: the Chapel Loop in Pictured Rocks, past Mosquito Falls and Chapel Falls to Chapel Rock and the Lake Superior shoreline beaches.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/michigan/mosquito-falls-and-chapel-falls-via-chapel-loop)
   - Pin is Chapel Rock, on the loop's lakeshore section.
@@ -4060,10 +4081,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **65. [Chapel Falls](https://www.google.com/maps/search/?api=1&query=Chapel+Falls+Pictured+Rocks)** — Pictured Rocks National Lakeshore, Munising
+- **66. [Chapel Falls](https://www.google.com/maps/search/?api=1&query=Chapel+Falls+Pictured+Rocks)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Waterfall / Hike · Cascading falls on the Chapel Loop — The reel opens at Chapel Falls — a cascading waterfall in the forest on the Chapel Loop in Pictured Rocks: Chapel Creek drops about 60 feet over sandstone ledges on its way to Chapel Lake. (The loop's other pin, Chapel Rock, is on the lakeshore section of the same trail.)
   - 🎬 Source: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham (#None in that reel)
-- **66. [Miners Falls](https://www.google.com/maps/search/?api=1&query=Miners+Falls+Michigan)** — Pictured Rocks National Lakeshore, Munising
+- **67. [Miners Falls](https://www.google.com/maps/search/?api=1&query=Miners+Falls+Michigan)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Waterfall / Hike · Powerful 50-foot falls you can stand beside — The reel's finale: Miners Falls in Pictured Rocks — a powerful ~50-foot waterfall where the Miners River plunges over a sandstone outcrop; he stands close to the falls on the wet rocks giving a thumbs-up. A short gravel trail from the Miners Castle area parking leads to viewing platforms above and beside the drop.
   - 🎬 Source: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham (#None in that reel)
 
@@ -4073,7 +4094,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Towering rock pinnacles and fossil hunting
 
-- **67. [Pinnacles Youth Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+Youth+Park+Missouri)** — Pinnacles Youth Park, Sturgeon
+- **68. [Pinnacles Youth Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+Youth+Park+Missouri)** — Pinnacles Youth Park, Sturgeon
   - **Best for:** Hike · Towering rock pinnacles and fossil hunting — One of the most unique places in Missouri: a privately owned park north of Columbia (850 E. Pinnacles Rd, Sturgeon) that's open for public day use and feels like a rugged hike out west. Lower trails run along the creek to a shelter bluff for all ages; the real adventure is crossing the creek and taking the narrow, rocky path over the top of the towering rock formations. The spot is full of fossils — look in the creek and across the rocks for thousands of crinoids. Free (donation box at the kiosk); vault restroom; no alcohol, glass or drones. The reel's warnings: the upper ledge trails are not for young kids or anyone afraid of heights, don't cross the creek when the water is high, and expect wet feet even in summer.
   - 🎬 Source: [This is Missouri?! Pinnacles Youth Park](https://www.instagram.com/reel/DfYsfYBOaqy/) by @midwestnomadfamily (#None in that reel)
   - 🎬 Also recommended by: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily
@@ -4085,7 +4106,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **68. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
+- **69. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
   - **Best for:** Viewpoint — Andrew's take: 'Some places make you stop and appreciate just how beautiful the world really is.' Lake of the Clouds, tucked in the heart of Michigan's Porcupine Mountains Wilderness State Park, is one of those places that never fails to impress — his photos catch it in full fall color.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Lake of the Clouds — Porcupine Mountains, Michigan](https://www.instagram.com/p/DeSzUHXjWNr/) by @andrew_krzesinski (#1 in that reel)
@@ -4096,13 +4117,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Café stop · Mid-ride café and bike shop in town
 
-- **69. [Meriwether Café and Bike Shop](https://www.google.com/maps/search/?api=1&query=Meriwether+Cafe+Rocheport+MO)** — Rocheport, Rocheport
+- **70. [Meriwether Café and Bike Shop](https://www.google.com/maps/search/?api=1&query=Meriwether+Cafe+Rocheport+MO)** — Rocheport, Rocheport
   - **Best for:** Café stop · Mid-ride café and bike shop in town — The reel's mid-ride stop in the middle of Rocheport: a café and bike shop — the pause that makes the day feel like exactly what fall in a small Missouri town should feel like.
   - 🎬 Source: [One of the prettiest fall bike rides in all of Missouri](https://www.instagram.com/reel/DfXpx4QxQFZ/) by @everydayoutdoorfamily (#None in that reel)
 
 ##### Small town · Prettiest fall day-trip town on the Missouri River
 
-- **70. [Rocheport](https://www.google.com/maps/search/?api=1&query=Rocheport+MO)** — Rocheport, Rocheport
+- **71. [Rocheport](https://www.google.com/maps/search/?api=1&query=Rocheport+MO)** — Rocheport, Rocheport
   - **Best for:** Small town · Prettiest fall day-trip town on the Missouri River — The reel's pick for the perfect Missouri fall day trip: a small river town on the Missouri River bluffs — wander the town, see the bluffs at peak fall foliage, and use it as the base for a Katy Trail ride.
   - 🎬 Source: [One of the prettiest fall bike rides in all of Missouri](https://www.instagram.com/reel/DfXpx4QxQFZ/) by @everydayoutdoorfamily (#None in that reel)
   - 🎬 Also recommended by: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily
@@ -4114,7 +4135,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **71. [Rock Bridge Memorial State Park](https://www.google.com/maps/search/?api=1&query=Rock+Bridge+Memorial+State+Park)** — Rock Bridge Memorial State Park, Columbia
+- **72. [Rock Bridge Memorial State Park](https://www.google.com/maps/search/?api=1&query=Rock+Bridge+Memorial+State+Park)** — Rock Bridge Memorial State Park, Columbia
   - **Best for:** Hike / Cave · Natural rock bridge and Devil's Icebox cave — The day trip's start (5901 South Highway 163, Columbia): a beautiful state park with amazing fall colors, multiple caves, and a natural rock arch. Take the short Devil's Icebox trail along a boardwalk and steps to see the rock bridge and cave entrances.
   - 🎬 Source: [Plan a Missouri fall adventure: Columbia + Rocheport day trip](https://www.instagram.com/reel/De29PU7Oj9j/) by @midwestnomadfamily (#None in that reel)
 
@@ -4124,7 +4145,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Milky Way over the tallgrass prairie
 
-- **72. [Tallgrass Prairie National Preserve](https://www.google.com/maps/search/?api=1&query=Tallgrass+Prairie+National+Preserve)** — Tallgrass Prairie National Preserve, Strong City
+- **73. [Tallgrass Prairie National Preserve](https://www.google.com/maps/search/?api=1&query=Tallgrass+Prairie+National+Preserve)** — Tallgrass Prairie National Preserve, Strong City
   - **Best for:** Stargazing · Milky Way over the tallgrass prairie — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. The preserve is shown under the Milky Way — some of the darkest skies in Kansas over the last stand of tallgrass prairie.
   - 🎬 Source: [20 Midwest Escapes for Epic Stargazing](https://www.instagram.com/p/DfVQyYRlN-p/) by @midwestlivingmag (#None in that reel)
 
@@ -4134,7 +4155,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **73. [Boicourt Overlook](https://www.google.com/maps/search/?api=1&query=Boicourt+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **74. [Boicourt Overlook](https://www.google.com/maps/search/?api=1&query=Boicourt+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / South Unit overlook trail — A South Unit favorite on Kelley & Carl's Dakotas road trip — the short Boicourt Overlook Trail to one of the South Unit's best badlands views.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
@@ -4151,7 +4172,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / South Unit favorite — A South Unit favorite in their Theodore Roosevelt guide: the Boicourt Overlook Trail.
   - 🎬 Also recommended by: [Theodore Roosevelt National Park — North Dakota](https://www.instagram.com/reel/DfibmDYpUnO/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint — A South Unit favorite: the Boicourt Overlook Trail.
-- **74. [Buck Hill](https://www.google.com/maps/search/?api=1&query=Buck+Hill+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **75. [Buck Hill](https://www.google.com/maps/search/?api=1&query=Buck+Hill+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Short climb to a South Unit high point — A South Unit favorite on Kelley & Carl's Dakotas road trip — the Buck Hill Trail, a quick climb to one of the highest spots in the South Unit.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
@@ -4168,7 +4189,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / South Unit favorite — A South Unit favorite in their Theodore Roosevelt guide: the Buck Hill Trail.
   - 🎬 Also recommended by: [Theodore Roosevelt National Park — North Dakota](https://www.instagram.com/reel/DfibmDYpUnO/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint / Hike — A South Unit favorite: the Buck Hill Trail.
-- **75. [Caprock Coulee Trail](https://www.google.com/maps/search/?api=1&query=Caprock+Coulee+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **76. [Caprock Coulee Trail](https://www.google.com/maps/search/?api=1&query=Caprock+Coulee+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / North Unit badlands loop past River Bend — A North Unit favorite on Kelley & Carl's Dakotas road trip — the Caprock Coulee Trail, usually called the best hike in the North Unit, looping past the River Bend Overlook along the badlands rim.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
@@ -4185,7 +4206,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Hiking / North Unit favorite — A North Unit favorite in their Theodore Roosevelt guide: the Caprock Coulee Trail.
   - 🎬 Also recommended by: [Theodore Roosevelt National Park — North Dakota](https://www.instagram.com/reel/DfibmDYpUnO/) by @kelleyandcarlsadventures
     - **Best for:** Hike — A North Unit favorite: the Caprock Coulee Trail.
-- **76. [Painted Canyon](https://www.google.com/maps/search/?api=1&query=Painted+Canyon+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **77. [Painted Canyon](https://www.google.com/maps/search/?api=1&query=Painted+Canyon+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Colorful badlands at the I-94 rest area — A South Unit favorite on Kelley & Carl's Dakotas road trip — Painted Canyon, the striped badlands amphitheater at the interstate rest area, with a trail dropping into the formations.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
@@ -4200,7 +4221,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / South Unit favorite — A South Unit favorite in their Theodore Roosevelt guide: Painted Canyon.
   - 🎬 Also recommended by: [Theodore Roosevelt National Park — North Dakota](https://www.instagram.com/reel/DfibmDYpUnO/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint — A South Unit favorite: Painted Canyon.
-- **77. [Wind Canyon Trail](https://www.google.com/maps/search/?api=1&query=Wind+Canyon+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **78. [Wind Canyon Trail](https://www.google.com/maps/search/?api=1&query=Wind+Canyon+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Sunset hike over the Little Missouri River — A South Unit favorite on Kelley & Carl's Dakotas road trip — the Wind Canyon Trail, which they single out specifically at sunset for its view over the Little Missouri River.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
@@ -4226,7 +4247,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **78. [Oxbow Overlook](https://www.google.com/maps/search/?api=1&query=Oxbow+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **79. [Oxbow Overlook](https://www.google.com/maps/search/?api=1&query=Oxbow+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Overlook / End of the North Unit scenic drive — A North Unit favorite on Kelley & Carl's Dakotas road trip — Oxbow Overlook, the panorama at the end of the 14-mile scenic drive where the Little Missouri makes its hard turn east.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
   - 🎬 Also recommended by: [Underrated national parks and our favorite spots in each](https://www.instagram.com/p/DY8JDY3kvyZ/) by @kelleyandcarlsadventures
@@ -4243,7 +4264,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Viewpoint / North Unit favorite — A North Unit favorite in their Theodore Roosevelt guide: Oxbow Overlook.
   - 🎬 Also recommended by: [Theodore Roosevelt National Park — North Dakota](https://www.instagram.com/reel/DfibmDYpUnO/) by @kelleyandcarlsadventures
     - **Best for:** Viewpoint — A North Unit favorite: Oxbow Overlook.
-- **79. [River Bend Overlook](https://www.google.com/maps/search/?api=1&query=River+Bend+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **80. [River Bend Overlook](https://www.google.com/maps/search/?api=1&query=River+Bend+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Overlook / CCC stone shelter above the Little Missouri — A North Unit favorite on Kelley & Carl's Dakotas road trip — the River Bend Overlook Trail, a short walk to the 1937 CCC stone shelter on a butte edge, maybe the most photographed view in the park.
   - Coordinates from Snoflo's River Bend Overlook point-of-interest listing (47.6102, -103.3779); OpenStreetMap has no feature for it.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
@@ -4262,7 +4283,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Underrated park
 
-- **80. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **81. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Underrated park — His #2 underrated park: badlands terrain, bison crossing a road, wild horses at sunset, prairie dogs, and a river sunset view.
   - Park-level pin is the park's Nominatim point in the South Unit.
   - 🎬 Source: [5 Most Underrated National Parks](https://www.instagram.com/reel/Dd6-VBbhtY6/) by @amorywild (#2 in that reel)
@@ -4302,10 +4323,12 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / Park #30 guide — Their park #30 guide: Theodore Roosevelt 'absolutely exceeded our expectations' — the South Unit is more visited, both units are worth the hour between them, and the Elkhorn Ranch Unit is historical only, with no visitor center or trails.
   - 🎬 Also recommended by: [Theodore Roosevelt National Park — North Dakota](https://www.instagram.com/reel/DfibmDYpUnO/) by @kelleyandcarlsadventures
     - **Best for:** National park / No crowds — 'Never thought North Dakota could look like this' — a park with no crowds, dusty trails, incredible wildlife and the spirit of a cowboy president: bison, elk, wild horses and prairie dogs across both units. 'What a gem of a national park that absolutely exceeded our expectations!'
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite Scenic Drive — Theodore Roosevelt National Park earns the title 'Favorite Scenic Drive' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Wildlife
 
-- **81. [Prairie Dog Metropolis](https://www.google.com/maps/search/?api=1&query=Prairie Dog Metropolis, Theodore Roosevelt National Park, Medora, North Dakota)** — Theodore Roosevelt National Park, Medora
+- **82. [Prairie Dog Metropolis](https://www.google.com/maps/search/?api=1&query=Prairie Dog Metropolis, Theodore Roosevelt National Park, Medora, North Dakota)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Wildlife — 'Prairie Dog Metropolis' — Kelley & Carl's South Unit favorite: a particularly large and active prairie dog town about 3 miles from the South Unit entrance, where a prairie dog stands alert in the meadow in their reel.
   - Coordinates: Wikivoyage's Theodore Roosevelt National Park guide lists Prairie Dog Metropolis at 46.93224, -103.51464, 3 miles from the South Unit entrance.
   - 🎬 Source: [Theodore Roosevelt National Park — North Dakota](https://www.instagram.com/reel/DfibmDYpUnO/) by @kelleyandcarlsadventures (#None in that reel)
@@ -4316,7 +4339,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Fall colors
 
-- **82. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
+- **83. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
   - **Best for:** Fall colors — The 'Caribbean of the Midwest' in autumn: Torch Lake's turquoise, crystal-clear water and shallow sandbars ringed by peak fall color — the reel's drone shots show deep blue open water against shores of red and gold. The caption pitches the area's wineries and orchards as a perfect Michigan fall road trip.
   - Pin is OpenStreetMap's point for the long Torch Lake near Traverse City (Antrim County) — not the smaller Torch Lake in the Keweenaw Peninsula.
   - 🎬 Source: [Torch Lake in Fall feels like the movies](https://www.instagram.com/reel/DfUu09yRN3C/) by @marco.horizons (#None in that reel)
@@ -4327,7 +4350,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Historic village
 
-- **83. [Elsah](https://www.google.com/maps/search/?api=1&query=Elsah, Village of Elsah, Elsah, Illinois)** — Village of Elsah, Elsah
+- **84. [Elsah](https://www.google.com/maps/search/?api=1&query=Elsah, Village of Elsah, Elsah, Illinois)** — Village of Elsah, Elsah
   - **Best for:** Historic village / Hallmark-movie detour on the Great River Road — 'Take a detour through the town of Elsah. The whole village appears straight out of a Hallmark movie.' The 1850s river village — listed on the National Register of Historic Places in its entirety — is a short detour off Highway 100 between Alton and Grafton, all stone and brick cottages under the bluffs.
   - Coordinates: Wikipedia / USGS GNIS village point.
   - 🎬 Source: [This is Illinois?! — the Great River Road in fall](https://www.instagram.com/reel/DeXqNQqOWsL/) by @midwestnomadfamily (#None in that reel)
@@ -4338,7 +4361,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Lake country · Misty dawn lakes in the North Woods
 
-- **84. [Voyageurs National Park](https://www.google.com/maps/search/?api=1&query=Voyageurs+National+Park)** — Voyageurs National Park, International Falls
+- **85. [Voyageurs National Park](https://www.google.com/maps/search/?api=1&query=Voyageurs+National+Park)** — Voyageurs National Park, International Falls
   - **Best for:** Lake country · Misty dawn lakes in the North Woods — One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Mist rising over a calm lake at dawn — Minnesota's water-based national park, a maze of island lakes on the Canadian border explored by boat and houseboat.
   - 🎬 Source: [Places in the USA you need to visit before you die](https://www.instagram.com/reel/Dfc7s0XMtxX/) by @tedsalwaystraveling (#None in that reel)
 
@@ -4348,7 +4371,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · Small wooded falls on a short boardwalk walk
 
-- **85. [Wagner Falls](https://www.google.com/maps/search/?api=1&query=Wagner+Falls+Michigan)** — Wagner Falls Scenic Site, Munising
+- **86. [Wagner Falls](https://www.google.com/maps/search/?api=1&query=Wagner+Falls+Michigan)** — Wagner Falls Scenic Site, Munising
   - **Best for:** Waterfall · Small wooded falls on a short boardwalk walk — One of the reel's Michigan fall stops: Wagner Falls, a smaller wooded waterfall just south of Munising, reached by a short boardwalk trail through the pines — Wagner Creek cascades over rock shelves in a hemlock-shaded gorge.
   - 🎬 Source: [Michigan fall itinerary — no mountains, so waterfalls](https://www.instagram.com/reel/DfZ6r8JR336/) by @braden_vanham (#None in that reel)
 
@@ -4358,7 +4381,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Small town · Historic downtown, shops and fall orchards
 
-- **86. [Weston](https://www.google.com/maps/search/?api=1&query=Weston+Missouri)** — Weston, Weston
+- **87. [Weston](https://www.google.com/maps/search/?api=1&query=Weston+Missouri)** — Weston, Weston
   - **Best for:** Small town · Historic downtown, shops and fall orchards — The reel's second stop: downtown Weston, with adorable local shops, boutiques and historic streets — plus nearby orchards, seasonal farm activities, and fall events to round out the day trip.
   - 🎬 Source: [A fall day trip 40 minutes from Kansas City: Weston Bend + Weston, MO](https://www.instagram.com/reel/De5xjn8S4vF/) by @throughourlinds (#None in that reel)
 
@@ -4368,7 +4391,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic overlook · Fall hiking above the Missouri River
 
-- **87. [Weston Bend State Park](https://www.google.com/maps/search/?api=1&query=Weston+Bend+State+Park+MO)** — Weston Bend State Park, Weston
+- **88. [Weston Bend State Park](https://www.google.com/maps/search/?api=1&query=Weston+Bend+State+Park+MO)** — Weston Bend State Park, Weston
   - **Best for:** Scenic overlook · Fall hiking above the Missouri River — The reel's day-trip anchor, 40 minutes from Kansas City: start at the scenic overlook for sweeping views of the Missouri River valley and fall foliage, then walk the wooded bluff trails (paved and natural-surface options). There's a campground too — the creators camped here and recommend it for turning the day trip into a weekend.
   - 🎬 Source: [A fall day trip 40 minutes from Kansas City: Weston Bend + Weston, MO](https://www.instagram.com/reel/De5xjn8S4vF/) by @throughourlinds (#None in that reel)
 
@@ -4378,7 +4401,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **88. [Rankin Ridge Interpretive Trail](https://www.google.com/maps/search/?api=1&query=Rankin+Ridge+Interpretive+Trail+Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **89. [Rankin Ridge Interpretive Trail](https://www.google.com/maps/search/?api=1&query=Rankin+Ridge+Interpretive+Trail+Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Hiking / Highest point in the park, fire tower loop — Kelley & Carl's above-ground must-do at Wind Cave on their Dakotas road trip — the Rankin Ridge Interpretive Trail, a 1-mile loop to the park's highest point (5,013 ft) and its fire tower, with 360-degree Black Hills views.
   - Trailhead coordinates (43.6228, -103.4859) from Hikespeak's Rankin Ridge Trail guide; OpenStreetMap has no feature for it.
   - 🎬 Source: [3 national parks, 1 epic road trip — the Dakotas](https://www.instagram.com/p/Dfc3HMtJTZw/) by @kelleyandcarlsadventures (#None in that reel)
@@ -4393,7 +4416,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **89. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **90. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Road trip stop — Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 — book a timed cave tour in advance, per her tip.
   - Coordinates verified against OpenStreetMap.
   - 🎬 Source: [Steal my 9-day South Dakota & North Dakota road trip itinerary](https://www.instagram.com/reel/DfPlCYlBKv2/) by @funsizewanderer (#4 in that reel)
@@ -4415,6 +4438,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / South Dakota must-see — On their 'South Dakota is more than Mount Rushmore' list: Wind Cave National Park.
   - 🎬 Also recommended by: [Wind Cave — park #31 (and our cave tour was cancelled)](https://www.instagram.com/reel/DMVvHKFxrUu/) by @kelleyandcarlsadventures
     - **Best for:** National park / Park #31 visit — Their park #31: Wind Cave, where their cave tour was cancelled at the last minute over elevator problems (all July 4th weekend tours were off). The Garden of Eden, Natural Entrance and Fairgrounds tours remain the traditional underground options.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite Evening Program — Wind Cave National Park earns the title 'Favorite Evening Program' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ### Wyalusing State Park
 
@@ -4422,14 +4447,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Caves
 
-- **90. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
+- **91. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Caves / Stargazing — 'This state park surprised us': 14+ miles of trails with caves to explore, an astronomy center that's perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.
   - Pin is OpenStreetMap's Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.
   - 🎬 Source: [This state park surprised us — Wyalusing State Park, Wisconsin](https://www.instagram.com/reel/DfTBMuDhL7P/) by @thekateandcody (#None in that reel)
 
 ##### Hike
 
-- **91. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
+- **92. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Hike — The creators' favorite trail in the park: the Old Immigrant & Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/old-immigrant-trail-and-bluff-trail-loop)
   - Pin is OpenStreetMap's Old Immigrant Trail point within Wyalusing State Park.
@@ -4542,6 +4567,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National Park / In their 14-park ranking — Appears in their ranking of the 14 national parks visited by spring 2024 (its exact slot isn't recoverable from the video).
   - 🎬 Also recommended by: [Moab is like no other place in the world](https://www.instagram.com/reel/CfWjMXpNgHN/) by @kelleyandcarlsadventures
     - **Best for:** National Park / Their 'Moab is like no other place' carousel — 'Moab is like no other place in the world.' — their Moab highlight carousel is mostly Arches National Park: Delicate Arch on its slickrock ridge, the North Window, and the Courthouse Towers fins, closing with golden-hour canyon views.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite if You Only Have One Day — Arches National Park earns the title 'Favorite if You Only Have One Day' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ### Bentonite Hills (Cow Dung Road, near the Mars Desert Research Station)
 
@@ -4992,6 +5019,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Photography / One of their 6 most photogenic parks — One of the 6 most photogenic parks on their list: Bryce Canyon.
   - 🎬 Also recommended by: [Your ultimate guide to Bryce Canyon — the one-day itinerary](https://www.instagram.com/reel/DCjmmtAROpS/) by @kelleyandcarlsadventures
     - **Best for:** Park guide / Their ultimate Bryce Canyon one-day guide — Their ultimate Bryce Canyon guide: the park holds the largest concentration of hoodoos found anywhere on Earth. Stay in the park campgrounds/lodges, in Bryce Canyon City or in Tropic; the closest airports are Cedar City, St. George, Las Vegas and Salt Lake City. The one-day itinerary's stops are attached as sources on their own pins; the drive's Yovimpa Point, Black Birch Canyon, Ponderosa Canyon, Agua Canyon, Farview Point and Swamp Canyon overlooks are named in the post but unpinned.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Stargazing — Bryce Canyon National Park earns the title 'Favorite for Stargazing' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Viewpoint
 
@@ -5351,6 +5380,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / Underrated parks list — On their most-underrated parks list: Capitol Reef's red sandstone formations.
   - 🎬 Also recommended by: [5 national parks that probably aren't on your radar](https://www.instagram.com/reel/DEDoJgWRJ9-/) by @kelleyandcarlsadventures
     - **Best for:** National park / #4 of 5 parks that probably aren't on your radar — #4 on their under-the-radar list: Capitol Reef.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Snacks — Capitol Reef National Park earns the title 'Favorite for Snacks' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Viewpoint
 
@@ -5471,6 +5502,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National Park / In their 14-park ranking — Appears in their ranking of the 14 national parks visited by spring 2024 (its exact slot isn't recoverable from the video).
   - 🎬 Also recommended by: [1 week, 4 national parks — NM & TX recap](https://www.instagram.com/reel/C4GhUQNuT1d/) by @kelleyandcarlsadventures
     - **Best for:** National Park / One of their 4 parks in 1 week — In their 4-parks-in-1-week recap (over 1,600 miles in New Mexico and Texas): Carlsbad Caverns.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Otherworldly Vibes — Carlsbad Caverns National Park earns the title 'Favorite for Otherworldly Vibes' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ### Cathedral Gorge State Park
 
@@ -6007,6 +6040,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Montage / East-vs-West — the Grand Canyon — In their East-vs-West montage: the Grand Canyon's layered red-rock vistas.
   - 🎬 Also recommended by: [5 National Parks That Make You Feel Tiny](https://www.instagram.com/reel/DfkefnBP6CD/) by @amorywild
     - **Best for:** Awe / Scale — #1 in his '5 National Parks That Make You Feel Tiny': the red-rock canyon from the rim and the trail descending into it — 'like being in a huge fish bowl.'
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite if You Don't Want to Hike — Grand Canyon National Park earns the title 'Favorite if You Don't Want to Hike' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Sunset
 
@@ -7333,6 +7368,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Dunes / Birthday sand sledding — 'Happy Birthday to the coolest, kindest, most beautiful travel partner' — Kelley's 29th birthday sand-sledding run at White Sands, with a happy-birthday banner at the dune top.
   - 🎬 Also recommended by: [Sand dunes, sunsets, mountains, and each other](https://www.instagram.com/reel/C30EeJ7Oid9/) by @kelleyandcarlsadventures
     - **Best for:** Dunes / Sunset over the gypsum (unnamed in the caption) — 'Sand dunes, sunsets, mountains, and each other. What more could you ask for?' — the caption asks for guesses; the creator confirms in the comments that it's White Sands.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Sunsets — White Sands National Park earns the title 'Favorite for Sunsets' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ### Zion National Park
 
@@ -7799,6 +7836,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Awe / Scale — #5 in his '5 National Parks That Make You Feel Tiny': endless layers of snow-capped mountains, alpine lakes and rocky ridges that change your perspective.
   - 🎬 Also recommended by: [Glacier — this and a constant anxiety about bears](https://www.instagram.com/reel/DfYmGyahybk/) by @amorywild
     - **Best for:** Scenery — 'THIS and a constant anxiety about bears…' — a turquoise mountain lake lapping a grassy shore, dense evergreens on the far bank and towering, partly snow-capped peaks behind, in Glacier National Park.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite to Take Your Breath Away — Glacier National Park earns the title 'Favorite to Take Your Breath Away' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 - **15. [Grinnell Glacier Trail](https://www.google.com/maps/search/?api=1&query=Grinnell+Glacier+Trail+Glacier+National+Park+MT)** — Glacier National Park, West Glacier
   - **Best for:** Hike / Many Glacier trail past turquoise lakes to a shrinking glacier — Rated 10/10 in Kelley & Carl's honest ratings for Montana & Wyoming hikes — one of the finest trails in Glacier National Park, climbing past Grinnell Lake's impossible turquoise water to the glacier itself. Also on their most-rewarding, perfect-hikes and photography lists.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/montana/grinnell-glacier-trail)
@@ -9326,6 +9365,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National Park / In their 14-park ranking — Appears in their ranking of the 14 national parks visited by spring 2024 (its exact slot isn't recoverable from the video).
   - 🎬 Also recommended by: [Death Valley National Park](https://www.instagram.com/reel/Cb-NBlmuX9a/) by @kelleyandcarlsadventures
     - **Best for:** National Park / Their park highlights carousel — 'Death Valley National Park' — their day-to-night highlights carousel: golden dunes, Badwater Basin, the eroded badlands viewpoints, sunset, and a star-filled night sky over the desert.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Backcountry Driving — Death Valley National Park earns the title 'Favorite for Backcountry Driving' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Sunrise
 
@@ -10434,6 +10475,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National Park / On their choose-one road trips list — On their choose-one list: a Yosemite road trip — 'the place that started it all in America's national parks system', with a day in Big Sur if time allows.
   - 🎬 Also recommended by: [Our crazy 3-day California road trip — snowstorm reroute](https://www.instagram.com/reel/C79bnXXskvJ/) by @kelleyandcarlsadventures
     - **Best for:** National Park / Day 2 of their 3-day California road trip — Day 2 of their 3-day road trip: Yosemite National Park — Tunnel View with Bridalveil Fall, Cooks Meadow Loop, the Lower Yosemite Falls trail and the Mist Trail to Vernal Falls are the footage's stops.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Waterfalls — Yosemite National Park earns the title 'Favorite for Waterfalls' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Hiking
 
@@ -10954,6 +10997,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / East vs West montage — Named in their East-vs-West reel (West side): Mount Rainier.
   - 🎬 Also recommended by: [10 national parks that need reservations in 2025](https://www.instagram.com/p/DKpVoGdsPc9/) by @kelleyandcarlsadventures
     - **Best for:** National park / Timed-entry reservations (2025) — In their 2025 reservations guide: Rainier's timed-entry reservations for the Paradise and Sunrise corridors.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Hiking — Mount Rainier National Park earns the title 'Favorite for Hiking' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Viewpoint
 
@@ -11550,6 +11595,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / Superlative: most diverse — Their 2025 superlatives: Olympic wins 'most diverse' — beaches, rainforest, hot springs and mountains.
   - 🎬 Also recommended by: [It's just not the same on the East Coast](https://www.instagram.com/reel/DRzx2E8Dm8C/) by @kelleyandcarlsadventures
     - **Best for:** National park / East vs West montage — Named in their East-vs-West reel (West side): Olympic.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Camping — Olympic National Park earns the title 'Favorite for Camping' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Viewpoint
 
@@ -11792,6 +11839,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** National park / Rated 8/10 in their Alaska park ratings — Rated 8/10 in Kelley & Carl's honest ratings for Alaska's national parks.
   - 🎬 Also recommended by: [How To Visit All 8 Alaskan National Parks](https://www.instagram.com/reel/DfV4abJNf5o/) by @amorywild
     - **Best for:** Trip planning — #1 in his 'How To Visit All 8 Alaskan National Parks' (listed jointly with Kobuk Valley): fly to Kotzebue, stay two nights at Nullagvik Hotel, and take a flight tour with Golden Eagle Outfitters over tundra, rivers and sandy dunes.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite if You Want to Feel Small — Gates of the Arctic National Park earns the title 'Favorite if You Want to Feel Small' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ### Glacier Bay National Park and Preserve
 
@@ -11894,6 +11943,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Bear viewing / Wildlife — 'This national park is for all the bear lovers' — Katmai, where every summer brown bears congregate at Brooks Falls for the salmon run: 'absolutely unreal being able to watch these magical creatures so close.' Fly to King Salmon, then float plane or water taxi to Brooks Camp; best bear viewing in July.
   - 🎬 Also recommended by: [How To Visit All 8 Alaskan National Parks](https://www.instagram.com/reel/DfV4abJNf5o/) by @amorywild
     - **Best for:** Trip planning — #5 in his 'How To Visit All 8 Alaskan National Parks': fly to King Salmon then water taxi to Brooks Camp for bear viewing at Brooks Falls and the Valley of 10,000 Smokes.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Wildlife — Katmai National Park and Preserve earns the title 'Favorite for Wildlife' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Bus tour
 
@@ -11975,6 +12026,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
     - **Best for:** Boat tour — 'Just take me back…' — a point-of-view boat ride across deep blue-green water in Kenai Fjords, the wake trailing behind and a large glacier flowing down between snow-capped mountains ahead.
   - 🎬 Also recommended by: [How To Visit All 8 Alaskan National Parks](https://www.instagram.com/reel/DfV4abJNf5o/) by @amorywild
     - **Best for:** Trip planning — #7 in his 'How To Visit All 8 Alaskan National Parks': a 2-hour drive from Anchorage, stay in Seward, with the Harding Icefield hike and boat tour recommended.
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Unique Experiences — Kenai Fjords National Park earns the title 'Favorite for Unique Experiences' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Waterfall
 
@@ -12101,6 +12154,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - **30. [Lake Clark](https://www.google.com/maps/search/?api=1&query=Lake+Clark+Alaska)** — Lake Clark National Park and Preserve, Port Alsworth
   - **Best for:** Scenic lake · The park's namesake turquoise lake — One of the guide's named sights: the 42-mile turquoise lake at the heart of the park, ringed by volcanic peaks.
   - 🎬 Source: [Save these places for Lake Clark National Park!](https://www.instagram.com/p/De0Uuigv9sW/) by @funsizewanderer (#None in that reel)
+  - 🎬 Also recommended by: [57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/) by @katieandjoeonthego
+    - **Best for:** Park favorites list / Favorite for Solitude — Lake Clark earns the title 'Favorite for Solitude' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' They have visited 57 of the 64 US national parks, with 7 left to finish.
 
 ##### Volcano · Active 10,197-ft stratovolcano
 
@@ -14400,6 +14455,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A single-place reel: Mooney Falls at the Havasupai Reservation, Arizona — 'unfortunately this hike ruined all other hikes for me.' Notes the $455 backpacking permit (sells out months in advance) and the chains-and-ladders descent to the base of the falls. Attached as a source on the existing Mooney Falls pin; no new pin.
 - **[Lake Superior winter bucket list](https://www.instagram.com/reel/DfkZC-8tHEw/)** — @maddymarq · 3 places · Theme: Lake Superior winter bucket list
   - What the reel recommends: Her personal Lake Superior winter bucket list — three things she plans every year: (1) sunrise at Artist Point in Grand Marais, Minnesota, over the frozen lake at 20 below zero or colder; (2) the Apostle Islands ice caves — kayak the mainland sea caves in summer, or walk across the frozen lake when the Park Service opens foot access; (3) Michigan's Keweenaw Peninsula for skiing, frozen waterfalls and sauna. All three are new pins (places identified from the reel's narration; the caption itself names no places).
+- **[57 parks down — our favorite parks, by category](https://www.instagram.com/p/DfhnyRAlb-N/)** — @katieandjoeonthego · 23 places · Theme: Favorite national parks by category (57 parks visited)
+  - What the reel recommends: Katie & Joe — 57 of the 64 US national parks visited, 7 left — award 23 parks their own titles instead of picking one favorite: Mount Rainier (hiking), Capitol Reef (snacks), Carlsbad Caverns (otherworldly vibes), Olympic (camping), White Sands (sunsets), Acadia (sunrise), Bryce Canyon (stargazing), Yosemite (waterfalls), Great Smoky Mountains (fall foliage), Katmai (wildlife), Gates of the Arctic (feel small), Lake Clark (solitude), Isle Royale (backpacking), Kenai Fjords (unique experiences), Dry Tortugas (history), Death Valley (backcountry driving), Glacier (take your breath away), Wind Cave (evening program), Theodore Roosevelt (scenic drive), Gateway Arch (visitor center experience), Arches (only one day), Grand Canyon (don't want to hike), Badlands (fossils). Sources attach to the 22 existing park pins; Gateway Arch National Park is a new pin (the dataset's first for that park).
 
 ## How this page is updated {#how-this-page-is-updated}
 
