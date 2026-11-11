@@ -63,28 +63,20 @@ def get_graph(fingerprint):
 
 g, backend_note, data = get_graph(_graph_fingerprint())
 
-places = [n for n in data["nodes"] if n["type"] == "Place"]
-reels = [n for n in data["nodes"] if n["type"] == "Reel"]
-creators = [n for n in data["nodes"] if n["type"] == "Creator"]
-regions = {}
-for p in places:
-    r = p["properties"].get("region", "?")
-    regions[r] = regions.get(r, 0) + 1
-
 with st.sidebar:
     st.title("🎬 Reel Places")
-    st.metric("Places", len(places))
-    st.metric("Source reels", len(reels))
-    st.metric("Creators", len(creators))
-    st.subheader("Places by region")
-    for name, count in sorted(regions.items(), key=lambda kv: -kv[1]):
-        st.write(f"**{name}** · {count}")
+    st.write(
+        "Ask about the places saved from Instagram reels — "
+        "every answer cites the reel it came from."
+    )
+    st.link_button(
+        "Browse the map",
+        "https://harikrishnad1997.github.io/reel-places/",
+    )
     st.divider()
-    st.caption(f"Graph backend: {backend_note}")
-    st.caption("LLM layer: " + ("on — LLM-only mode" if llm.available() else "off — paste an OpenAI key on the page to chat (LLM-only, no fallback)"))
-    _t_on, _t_ws, _t_proj = tracing.status()
-    st.caption("Tracing (Opik): " + (f"on — workspace {_t_ws} · project {_t_proj}" if _t_on else "off — add OPIK_API_KEY to Secrets to enable"))
-    st.caption("Answers come from the graph first (every place cites its source reel); if the graph doesn't cover a question, the bot searches the web and labels the answer as web-sourced.")
+    if st.button("🧹 Clear chat", use_container_width=True):
+        st.session_state.messages = []
+        st.rerun()
 
 st.title("Reel Chat")
 st.write("Ask about the places saved from Instagram reels, or build an itinerary from their recommendations.")

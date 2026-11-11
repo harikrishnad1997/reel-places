@@ -13,6 +13,7 @@ export it or store it via the secure connector flow). Without a key this
 module is a strict no-op — answers are never affected. Tracing failures
 must never break an answer, so everything here fails soft.
 """
+import functools
 import os
 
 # Workspace pinned in code (user directive, 2026-11-03): traces go to the
@@ -44,29 +45,36 @@ def enabled():
 
 def track(name, span_type="general"):
     """Decorator factory: opik.track when enabled, identity otherwise.
-    Decided at decoration (import) time; the app's env — including
-    Streamlit Secrets injected at startup — is already set by then.
-    Bulletproof on purpose: an opik version that rejects a span type
-    (a newer Cloud-installed opik raised KeyError: 'llm' while
-    decorating llm.py and killed the whole app on import, 2026-11-11)
-    must degrade to no tracing, never to a crash — both the opik.track
-    call AND the returned decorator's application are guarded."""
-    if not enabled():
-        return lambda fn: fn
-    try:
-        import opik
 
-        deco = opik.track(name=name, type=span_type, project_name=_PROJECT)
-    except Exception:
-        return lambda fn: fn
+    LAZY on purpose: nothing touches opik until the decorated function
+    is first CALLED, so a broken opik can never break an import. Cloud
+    hit KeyError: 'llm' at `import llm` and then KeyError: 'chatbot' at
+    `import chatbot` (2026-11-11) even though decoration itself was
+    guarded — the failure moved with the span, so import time must not
+    call opik at all. Decided at first call; the app's env — including
+    Streamlit Secrets injected at startup — is set by then. Any opik
+    failure at call time degrades to an untraced call, never a crash."""
+    def lazy_deco(fn):
+        state = {"wrapped": None, "tried": False}
 
-    def safe_deco(fn):
-        try:
-            return deco(fn)
-        except Exception:
-            return fn
+        @functools.wraps(fn)
+        def wrapper(*args, **kwargs):
+            if not state["tried"]:
+                state["tried"] = True
+                if enabled():
+                    try:
+                        import opik
 
-    return safe_deco
+                        deco = opik.track(name=name, type=span_type, project_name=_PROJECT)
+                        state["wrapped"] = deco(fn)
+                    except Exception:
+                        state["wrapped"] = None
+            target = state["wrapped"] if state["wrapped"] is not None else fn
+            return target(*args, **kwargs)
+
+        return wrapper
+
+    return lazy_deco
 
 
 def status():
