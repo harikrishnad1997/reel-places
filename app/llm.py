@@ -7,9 +7,11 @@ Design rules (non-negotiable):
   connector helper is present:
     1. parse_question(): turn a free-form question into a validated,
        structured intent drawn strictly from the graph's own vocabulary.
-    2. phrase_answer(): rephrase a finished, graph-produced answer for
-       readability. The result is rejected unless it preserves every URL
-       from the grounded answer and introduces no new URLs.
+    2. phrase_answer(): write a SHORT summary of a finished, graph-produced
+       answer. The summary is rejected if it contains any URL (links live
+       only in the deterministic References section chatbot.py appends) or
+       if it runs long — the user asked for summary-then-references
+       (2026-11-11: "The answers are too long right now").
 - Any failure here -> these functions return None and set LAST_ERROR;
   chatbot.py runs in LLM-only mode (user directive, 2026-11-02), so it
   then explains the failure instead of falling back to keyword rules.
@@ -235,11 +237,12 @@ def web_answer(question):
             "tools": [{"type": "web_search"}],
             "input": [
                 {"role": "system", "content": (
-                    "Answer the user's question using web search. Focus on "
-                    "concrete highlights and practical facts. Cite your "
-                    "sources inline as Markdown links to the pages you used. "
-                    "If the question is about a place, give its best-known "
-                    "highlights as a short list.")},
+                    "Answer the user's question using web search, BRIEFLY. "
+                    "Structure: (1) a short summary answer first — a few "
+                    "sentences, or a tight list of at most 6 highlights with "
+                    "one line each; (2) then a 'References:' section listing "
+                    "the pages you used as Markdown links. No long "
+                    "paragraphs, no background essays.")},
                 {"role": "user", "content": question}],
         }
         req = urllib.request.Request(
@@ -272,29 +275,38 @@ def web_answer(question):
 
 @tracing.track("llm-phrase", span_type="general")
 def phrase_answer(question, grounded_answer):
-    """Rephrase a graph-produced answer, or None to keep the original.
+    """Write a SHORT summary of a graph-produced answer, or None.
 
-    The rewrite is accepted only if it keeps exactly the grounded set of
-    URLs: none dropped, none added. Facts therefore cannot drift.
+    User format (2026-11-11): the bot gives a summary first, then
+    references — full answers were too long. So this returns ONLY the
+    summary; chatbot.py appends a deterministic References section built
+    from the grounded answer itself, so no source can be dropped or
+    invented. The summary is rejected if it contains any URL (links live
+    in References only) or if it exceeds the length cap.
     """
     if not available() or not grounded_answer:
         return None
     system = (
-        "Rewrite the answer below so it reads naturally. Hard rules: use "
-        "ONLY facts present in the answer; never add places, recommendations, "
-        "names or facts; keep every URL exactly as written, character for "
-        "character; keep the source attribution attached to each place. "
-        "Output only the rewritten answer."
+        "Summarize the answer below for the user, BRIEFLY. Rules:\n"
+        "- At most 4 short sentences, OR a tight bullet list of at most "
+        "8 places with a few words each on why. Compress hard: reduce "
+        "each place to a short phrase, never paste full recommendation "
+        "text.\n"
+        "- If the answer is an itinerary, keep the day-by-day structure "
+        "but compress each stop to one short line.\n"
+        "- Use ONLY facts present in the answer; never add places, "
+        "names or facts.\n"
+        "- Include NO links or URLs at all — references are appended "
+        "separately.\n"
+        "Output only the summary."
     )
-    user = f"Question: {question}\n\nAnswer to rewrite:\n{grounded_answer}"
+    user = f"Question: {question}\n\nAnswer to summarize:\n{grounded_answer}"
     out = _chat(system, user)
     if not out:
         return None
     out = out.strip()
-    grounded_urls = set(_URL_RE.findall(grounded_answer))
-    out_urls = set(_URL_RE.findall(out))
-    if grounded_urls != out_urls:
-        return None  # a link was dropped or invented — keep the original
-    if not out or len(out) < 10:
-        return None
+    if _URL_RE.search(out):
+        return None  # links belong in References only — keep the original
+    if not out or len(out) < 10 or len(out) > 1800:
+        return None  # empty, or still too long — keep the original
     return out

@@ -123,7 +123,13 @@ def find_sites(g, q):
     that, sites are scored by how many of their distinctive tokens appear,
     and only the top score is kept. (The old any-token match dragged
     Cave-in-Rock into a "Mammoth Cave" answer and Kobuk Valley into a
-    "Death Valley" one — both share a single generic token.)"""
+    "Death Valley" one — both share a single generic token.) A token-only
+    match now needs at least TWO distinctive tokens: a single one is too
+    weak, and theme words collide with site names — "sunrise" alone used
+    to match the site "Mount Rainier National Park (Sunrise)" and veto
+    every Utah sunrise hit in answer_theme (found 2026-11-11). Canonical
+    questions from the LLM layer always carry full site names, so the
+    two-token floor costs nothing there."""
     words = set(re.findall(r"[a-z']+", q))
     scored = []
     for s in g.by_type.get("Site", []):
@@ -133,7 +139,7 @@ def find_sites(g, q):
             continue
         toks = site_distinctive_tokens(name)
         score = sum(1 for tok in toks if tok in words)
-        if score:
+        if score >= 2:
             scored.append((score, s))
     if not scored:
         return []
@@ -568,15 +574,56 @@ def mention_rescue(g, question):
     return None
 
 
+def build_references(grounded):
+    """Deterministic References section for a grounded answer (user
+    format, 2026-11-11: summary first, then references). Parses the
+    grounded text's own place headers and Source lines, so every source
+    the graph produced is listed exactly as written — nothing dropped,
+    nothing invented, no LLM involved. Returns "" when the answer has
+    no sources (e.g. the count answer)."""
+    refs, seen = [], set()
+    current = None
+    lines = grounded.split("\n")
+    for i, ln in enumerate(lines):
+        s = ln.strip()
+        m = re.match(r"^- (.+?) - ", ln)  # fmt_place header
+        if m:
+            current = m.group(1)
+            continue
+        m = re.match(r"^\s*\[[^\]]+\] (.+?) \(", ln)  # itinerary stop line
+        if m:
+            current = m.group(1)
+            continue
+        m = re.match(r'^Source: "(.+)" by (.+?) - (https?://\S+)$', s)
+        if m:
+            entry = (current, f'"{m.group(1)}" by {m.group(2)} - {m.group(3)}')
+            if entry not in seen:
+                seen.add(entry)
+                refs.append(entry)
+            continue
+        if re.fullmatch(r"https?://\S+", s) and i > 0:
+            prev = lines[i - 1].strip()  # reels list: URL under its title line
+            if prev.startswith('- "'):
+                entry = (None, prev[2:] + " - " + s)
+                if entry not in seen:
+                    seen.add(entry)
+                    refs.append(entry)
+    if not refs:
+        return ""
+    return "\n".join(f"- {place} — {src}" if place else f"- {src}"
+                     for place, src in refs)
+
+
 def _answer(g, question, backend_note):
     """LLM-first mode (user directives, 2026-11-02 — the rule-only mode
     gave wrong answers on the website, so there is NO rule-based fallback
     for facts). The LLM parses the question into a validated intent drawn
     from the graph's vocabulary; the graph pipeline produces the facts,
-    and the LLM rephrases them (a phrasing that changes any link is
-    rejected). When the graph has no answer, the bot falls back to a
-    labelled web search (user directive, 2026-11-02) instead of dead-
-    ending. If the AI connection itself is down, the bot says so."""
+    and the answer is presented as a short LLM summary plus a
+    deterministic References section (user, 2026-11-11). When the graph
+    has no answer, the bot falls back to a labelled web search (user
+    directive, 2026-11-02) instead of dead-ending. If the AI connection
+    itself is down, the bot says so."""
     llm = None
     try:
         import llm as _llm
@@ -620,10 +667,16 @@ def _answer(g, question, backend_note):
         web = web_fallback()
         if web:
             return web
-    if not result.startswith("I can only answer"):
-        phrased = llm.phrase_answer(question, result)
-        if phrased:
-            result = phrased
+    if not result.startswith("I can only answer") and not result.startswith("I don't have "):
+        # Summary + references (user, 2026-11-11: full answers were too
+        # long). The LLM writes only the summary (no URLs allowed in it);
+        # the References section is built deterministically from the
+        # grounded answer, so sources can't drift. No-match replies are
+        # already short and stay as they are.
+        summary = llm.phrase_answer(question, result)
+        if summary:
+            refs = build_references(result)
+            result = summary + (f"\n\nReferences:\n{refs}" if refs else "")
     # No technical footer on answers (user, 2026-11-02: "I don't care for
     # that") — answers end with the answer itself.
     return result
