@@ -45,15 +45,28 @@ def enabled():
 def track(name, span_type="general"):
     """Decorator factory: opik.track when enabled, identity otherwise.
     Decided at decoration (import) time; the app's env — including
-    Streamlit Secrets injected at startup — is already set by then."""
+    Streamlit Secrets injected at startup — is already set by then.
+    Bulletproof on purpose: an opik version that rejects a span type
+    (a newer Cloud-installed opik raised KeyError: 'llm' while
+    decorating llm.py and killed the whole app on import, 2026-11-11)
+    must degrade to no tracing, never to a crash — both the opik.track
+    call AND the returned decorator's application are guarded."""
     if not enabled():
         return lambda fn: fn
     try:
         import opik
 
-        return opik.track(name=name, type=span_type, project_name=_PROJECT)
+        deco = opik.track(name=name, type=span_type, project_name=_PROJECT)
     except Exception:
         return lambda fn: fn
+
+    def safe_deco(fn):
+        try:
+            return deco(fn)
+        except Exception:
+            return fn
+
+    return safe_deco
 
 
 def status():

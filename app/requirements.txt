@@ -1,2 +1,2 @@
 streamlit
-opik
+opik==2.2.138
