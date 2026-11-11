@@ -20784,6 +20784,30 @@
    }
   },
   {
+   "id": "reel:DfkoEFpvMBW",
+   "type": "Reel",
+   "properties": {
+    "name": "God's Thumb via the Knoll — Lincoln City",
+    "url": "https://www.instagram.com/reel/DfkoEFpvMBW/",
+    "title": "God's Thumb via the Knoll — Lincoln City",
+    "creator": "@littleredtravels",
+    "theme": "God's Thumb / Oregon Coast hikes",
+    "places_count": 1,
+    "recommendation_summary": "Emily's (@littleredtravels) hike guide to God's Thumb via the Knoll Trail, Lincoln City, Oregon: 4 miles, 987 ft gain, 600 ft of it in the first mile ('a staircase to heaven'), through The Knoll meadow to the basalt headland above the Pacific. Dog friendly, no restrooms, street parking; don't take the cul-de-sac trail — the trail starts on the left. One new pin.",
+    "posted": "2026-11-10",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "creator:littleredtravels",
+   "type": "Creator",
+   "properties": {
+    "name": "@littleredtravels",
+    "handle": "@littleredtravels",
+    "display_name": "Emily |  Hiking • Travel • Outdoors"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -45609,6 +45633,41 @@
     "best_for": "Viewpoint / Best Golden Gate Bridge view, especially at sunset",
     "note": "Coordinates: NPS place record for Battery Spencer (Conzelman Rd, Marin Headlands); USGS GNIS agrees (37.82778, -122.48083)."
    }
+  },
+  {
+   "id": "place:gods-thumb-or",
+   "type": "Place",
+   "properties": {
+    "name": "God's Thumb (The Thumb via the Knoll)",
+    "place_id": "gods-thumb-or",
+    "site": "Cascade Head Scenic Research Area",
+    "city": "Lincoln City",
+    "state": "Oregon",
+    "state_code": "OR",
+    "region": "Pacific Northwest",
+    "country": "USA",
+    "lat": 45.0283,
+    "lng": -124.0108,
+    "google_maps_query": "God's Thumb (The Thumb via the Knoll), Cascade Head Scenic Research Area, Lincoln City, Oregon",
+    "best_for": "Hike / Coastal headland viewpoint over the Pacific",
+    "note": "Coordinates: Mapcarta / OpenStreetMap natural=peak point for God's Thumb; Explorest's published trail-end viewpoint (45.0281, -124.0082) agrees. Trailhead is the Villages at Cascade Head / Knoll trailhead at the end of NE Devils Lake Blvd."
+   }
+  },
+  {
+   "id": "state:usa-or",
+   "type": "State",
+   "properties": {
+    "name": "Oregon",
+    "state_code": "OR",
+    "country": "USA"
+   }
+  },
+  {
+   "id": "site:cascade-head-scenic-research-area",
+   "type": "Site",
+   "properties": {
+    "name": "Cascade Head Scenic Research Area"
+   }
   }
  ],
  "edges": [
@@ -58335,6 +58394,18 @@
   {
    "from": "reel:Dec472wPcYx",
    "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkoEFpvMBW",
+   "to": "creator:littleredtravels",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkoEFpvMBW",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -130394,6 +130465,55 @@
   },
   {
    "from": "place:battery-spencer-ca",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:gods-thumb-or",
+   "to": "state:usa-or",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-or",
+   "to": "country:usa",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-or",
+   "to": "region:pacific-northwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:gods-thumb-or",
+   "to": "site:cascade-head-scenic-research-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:gods-thumb-or",
+   "to": "reel:DfkoEFpvMBW",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Coastal headland viewpoint over the Pacific",
+    "recommendation": "Emily's hike info for The Thumb via the Knoll Trail in Lincoln City: 4 miles with 987 ft of elevation gain — you'll gain 600 ft in the first mile, 'like climbing a staircase to heaven,' but the steep incline is worth it when you reach the top and see how The Thumb (a grass-topped basalt headland over the Pacific) gets its name. The route passes The Knoll meadow viewpoint on Lincoln City open space before the user-made path out to the Thumb. Practical notes from her caption: dog friendly, no restrooms, street parking that can get backed up — and IMPORTANT: do not take the trail at the end of the cul-de-sac; the trail begins on the left side.",
+    "creator": "@littleredtravels",
+    "reel_title": "God's Thumb via the Knoll — Lincoln City",
+    "reel_theme": "God's Thumb / Oregon Coast hikes"
+   }
+  },
+  {
+   "from": "place:gods-thumb-or",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:gods-thumb-or",
    "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
