@@ -147,8 +147,13 @@ def render_answer_map(answer_places):
                 else 6 if span <= 2 else 5 if span <= 6 else 4 if span <= 15 else 3)
         layer = pdk.Layer(
             "IconLayer", data=rows, get_position="[lng, lat]",
-            get_icon="pin", get_size=44, size_scale=1, pickable=True,
-            icon_atlas="data:image/png;base64," + PIN_ICON_B64,
+            # NOTE (2026-11-11): pydeck prefixes every plain string kwarg
+            # with @@=, which deck.gl then evaluates as JS — a data-URI
+            # atlas blew up with "Unexpected ':' at character 4" on the
+            # live app. Wrapping a string in quotes makes pydeck strip
+            # them and emit it as a plain string instead.
+            get_icon='"pin"', get_size=44, size_scale=1, pickable=True,
+            icon_atlas='"data:image/png;base64,' + PIN_ICON_B64 + '"',
             icon_mapping={"pin": {"x": 0, "y": 0, "width": 96, "height": 96,
                                   "anchorY": 96, "mask": False}})
         deck = pdk.Deck(
