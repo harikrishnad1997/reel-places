@@ -18080,6 +18080,21 @@
    "places_count": 1,
    "recommendation_summary": "Emily's (@littleredtravels) hike guide to God's Thumb via the Knoll Trail, Lincoln City, Oregon: 4 miles, 987 ft gain, 600 ft of it in the first mile ('a staircase to heaven'), through The Knoll meadow to the basalt headland above the Pacific. Dog friendly, no restrooms, street parking; don't take the cul-de-sac trail — the trail starts on the left. One new pin.",
    "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfnBc6xKrYB/",
+   "title": "Chicago's first self-cleaning public toilet",
+   "creator": "@se.kwon",
+   "creator_name": "Se Kwon",
+   "theme": "Chicago first — self-cleaning public toilet at the Polish Triangle",
+   "posted": "2026-11-11",
+   "added": "2026-11-11",
+   "place_ids": [
+    "chicago-self-cleaning-toilet-il"
+   ],
+   "places_count": 1,
+   "duplicate_place": false,
+   "recommendation_summary": "A tour of Chicago's first self-cleaning public toilet — the new JCDecaux automated restroom at the Polish Triangle in Wicker Park/West Town, opened Nov 11, 2026: free, ADA-compliant, 15-minute limit, and the bowl self-disinfects with high-pressure jets between uses."
   }
  ]
 }
