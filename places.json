@@ -44816,8 +44816,31 @@
    "source_reel_theme": "Newspaper Rock petroglyphs (Bears Ears)",
    "additional_sources": [],
    "note": "Coordinates: Wikipedia (Newspaper Rock State Historic Monument); visitutah's published GPS (37.988325, -109.518501) agrees. The reel's tagged location points at Bears Ears National Monument generally; the panel itself is the state historic monument on UT-211, 28 mi NW of Monticello."
+  },
+  {
+   "id": "battery-spencer-ca",
+   "name": "Battery Spencer",
+   "site": "Marin Headlands / Golden Gate National Recreation Area",
+   "city": "Sausalito",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 37.827815,
+   "lng": -122.481648,
+   "google_maps_query": "Battery Spencer, Marin Headlands / Golden Gate National Recreation Area, Sausalito, California",
+   "best_for": "Viewpoint / Best Golden Gate Bridge view, especially at sunset",
+   "recommendation": "'Add this to your bucket list — if you're looking for one of the best views of the Golden Gate Bridge, this is it.' The historic battery sits high above the bridge on the Marin Headlands, with an unreal view of the Golden Gate, San Francisco and the bay — a quick stop with a huge payoff, and one of their favorite viewpoints in the area. Their timing: arrive about an hour before sunset and stay as the sun goes down; the colors just keep getting better. Caveat: the famous San Francisco fog can roll in quickly, so the view can look completely different depending on when you visit.",
+   "source_reel": "https://www.instagram.com/reel/Dec472wPcYx/",
+   "source_title": "Battery Spencer — best Golden Gate view",
+   "source_creator": "@thisworldofadventure",
+   "source_rank": null,
+   "source_reel_theme": "Battery Spencer / Golden Gate Bridge viewpoint",
+   "additional_sources": [],
+   "note": "Coordinates: NPS place record for Battery Spencer (Conzelman Rd, Marin Headlands); USGS GNIS agrees (37.82778, -122.48083)."
   }
  ],
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "version": 1
 }
