@@ -20769,6 +20769,21 @@
    }
   },
   {
+   "id": "reel:Dec472wPcYx",
+   "type": "Reel",
+   "properties": {
+    "name": "Battery Spencer — best Golden Gate view",
+    "url": "https://www.instagram.com/reel/Dec472wPcYx/",
+    "title": "Battery Spencer — best Golden Gate view",
+    "creator": "@thisworldofadventure",
+    "theme": "Battery Spencer / Golden Gate Bridge viewpoint",
+    "places_count": 1,
+    "recommendation_summary": "Courtney & Matt's bucket-list Golden Gate viewpoint: Battery Spencer, the historic gun battery high above the bridge on the Marin Headlands (Sausalito side). Quick stop, huge payoff — views of the bridge, San Francisco and the bay. Go about an hour before sunset and stay through it; the colors keep improving. Fog can roll in fast and wipe the view. One new pin.",
+    "posted": "2026-10-13",
+    "added": "2026-11-11"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -45575,6 +45590,25 @@
    "properties": {
     "name": "Petroglyphs / One of the largest petroglyph panels in the US"
    }
+  },
+  {
+   "id": "place:battery-spencer-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Battery Spencer",
+    "place_id": "battery-spencer-ca",
+    "site": "Marin Headlands / Golden Gate National Recreation Area",
+    "city": "Sausalito",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.827815,
+    "lng": -122.481648,
+    "google_maps_query": "Battery Spencer, Marin Headlands / Golden Gate National Recreation Area, Sausalito, California",
+    "best_for": "Viewpoint / Best Golden Gate Bridge view, especially at sunset",
+    "note": "Coordinates: NPS place record for Battery Spencer (Conzelman Rd, Marin Headlands); USGS GNIS agrees (37.82778, -122.48083)."
+   }
   }
  ],
  "edges": [
@@ -58289,6 +58323,18 @@
   {
    "from": "reel:DflFsSEPmlS",
    "to": "theme:newspaper-rock-petroglyphs-bears-ears",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dec472wPcYx",
+   "to": "creator:thisworldofadventure",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dec472wPcYx",
+   "to": "theme:view",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -130312,6 +130358,43 @@
   {
    "from": "place:newspaper-rock-ut",
    "to": "theme:petroglyphs-one-of-the-largest-petroglyph-panels-in-the-us",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:battery-spencer-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:battery-spencer-ca",
+   "to": "site:marin-headlands-golden-gate-national-recreation-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:battery-spencer-ca",
+   "to": "reel:Dec472wPcYx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Viewpoint / Best Golden Gate Bridge view, especially at sunset",
+    "recommendation": "'Add this to your bucket list — if you're looking for one of the best views of the Golden Gate Bridge, this is it.' The historic battery sits high above the bridge on the Marin Headlands, with an unreal view of the Golden Gate, San Francisco and the bay — a quick stop with a huge payoff, and one of their favorite viewpoints in the area. Their timing: arrive about an hour before sunset and stay as the sun goes down; the colors just keep getting better. Caveat: the famous San Francisco fog can roll in quickly, so the view can look completely different depending on when you visit.",
+    "creator": "@thisworldofadventure",
+    "reel_title": "Battery Spencer — best Golden Gate view",
+    "reel_theme": "Battery Spencer / Golden Gate Bridge viewpoint"
+   }
+  },
+  {
+   "from": "place:battery-spencer-ca",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:battery-spencer-ca",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
