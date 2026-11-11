@@ -574,6 +574,55 @@ def mention_rescue(g, question):
     return None
 
 
+def answer_places(g, grounded):
+    """The places a grounded answer recommends, with coordinates — parsed
+    from the answer's own place headers (fmt_place lines and itinerary
+    stop lines) and matched back to Place nodes, so the UI can map
+    exactly the places the answer names (user, 2026-11-11: answers
+    should include a map of the places recommended). Returns a list of
+    {"name", "site", "city", "state", "lat", "lng"} in answer order."""
+    by_name = {}
+    for p in g.by_type.get("Place", []):
+        by_name.setdefault(p["properties"]["name"], []).append(p)
+    found, seen = [], set()
+
+    def add(node):
+        pr = node["properties"]
+        if node["id"] in seen or pr.get("lat") is None or pr.get("lng") is None:
+            return
+        seen.add(node["id"])
+        found.append({"name": pr["name"], "site": pr.get("site") or "",
+                      "city": pr.get("city") or "", "state": pr.get("state") or "",
+                      "lat": pr["lat"], "lng": pr["lng"]})
+
+    def pick(name, state=None, site=None):
+        cands = by_name.get(name, [])
+        if state:
+            narrowed = [p for p in cands if p["properties"].get("state") == state]
+            if narrowed:
+                cands = narrowed
+        if site and len(cands) > 1:
+            narrowed = [p for p in cands if p["properties"].get("site") == site]
+            if narrowed:
+                cands = narrowed
+        if cands:
+            add(cands[0])
+
+    for ln in grounded.split("\n"):
+        m = re.match(r"^- (.+?) - .* \([^,]+, ([^,]+), [^)]+\)", ln)  # fmt_place header
+        if m:
+            pick(m.group(1), state=m.group(2).strip())
+            continue
+        m = re.match(r"^\s*\[[^\]]+\] (.+?) \(([^)]*)\)", ln)  # itinerary stop
+        if m:
+            pick(m.group(1), site=m.group(2).strip())
+            continue
+        m = re.match(r"^\s+- (.+?) \(([^)]+)\)\s*$", ln)  # itinerary overflow line
+        if m:
+            pick(m.group(1), site=m.group(2).strip())
+    return found
+
+
 def build_references(grounded):
     """Deterministic References section for a grounded answer (user
     format, 2026-11-11: summary first, then references). Parses the
@@ -614,16 +663,19 @@ def build_references(grounded):
                      for place, src in refs)
 
 
-def _answer(g, question, backend_note):
+def _answer_full(g, question, backend_note):
     """LLM-first mode (user directives, 2026-11-02 — the rule-only mode
     gave wrong answers on the website, so there is NO rule-based fallback
     for facts). The LLM parses the question into a validated intent drawn
     from the graph's vocabulary; the graph pipeline produces the facts,
     and the answer is presented as a short LLM summary plus a
-    deterministic References section (user, 2026-11-11). When the graph
-    has no answer, the bot falls back to a labelled web search (user
-    directive, 2026-11-02) instead of dead-ending. If the AI connection
-    itself is down, the bot says so."""
+    deterministic References section (user, 2026-11-11). Returns
+    {"text": ..., "places": [...]} — places are the graph places the
+    answer recommends (with coordinates, for the UI's map); web and
+    error answers carry no places. When the graph has no answer, the bot
+    falls back to a labelled web search (user directive, 2026-11-02)
+    instead of dead-ending. If the AI connection itself is down, the
+    bot says so."""
     llm = None
     try:
         import llm as _llm
@@ -631,8 +683,9 @@ def _answer(g, question, backend_note):
     except Exception:
         llm = None
     if llm is None:
-        return ("This chatbot runs in LLM-only mode, but the AI connection "
-                "isn't available right now, so I can't answer that.")
+        return {"text": ("This chatbot runs in LLM-only mode, but the AI connection "
+                         "isn't available right now, so I can't answer that."),
+                "places": []}
     def web_fallback():
         """User directive (2026-11-02): no dead ends — when the graph
         can't answer, search the web and answer from it, clearly labelled
@@ -651,23 +704,27 @@ def _answer(g, question, backend_note):
     if not canon:
         err = getattr(llm, "LAST_ERROR", None)
         if err:
-            return ("The AI call itself failed, so I couldn't parse that "
-                    f"question. Reason: {err}. Check the API key on the page "
-                    "and try again.")
+            return {"text": ("The AI call itself failed, so I couldn't parse that "
+                             f"question. Reason: {err}. Check the API key on the page "
+                             "and try again."), "places": []}
         web = web_fallback()
         if web:
-            return web
-        return ("I couldn't understand that question well enough to query "
-                "the graph, and the web fallback didn't return an answer "
-                "either. Try naming a theme (sunrise, waterfall, hike), "
-                "a place or park, a creator like @amorywild, or ask for an "
-                "itinerary with a number of days.")
+            return {"text": web, "places": []}
+        return {"text": ("I couldn't understand that question well enough to query "
+                         "the graph, and the web fallback didn't return an answer "
+                         "either. Try naming a theme (sunrise, waterfall, hike), "
+                         "a place or park, a creator like @amorywild, or ask for an "
+                         "itinerary with a number of days."), "places": []}
     result = route_rules(g, canon)
+    places = []
     if result.startswith("I can only answer") or result.startswith("I don't have "):
         web = web_fallback()
         if web:
-            return web
+            return {"text": web, "places": []}
     if not result.startswith("I can only answer") and not result.startswith("I don't have "):
+        # The places this answer recommends, for the UI's map — parsed
+        # from the grounded answer itself, before summarising.
+        places = answer_places(g, result)
         # Summary + references (user, 2026-11-11: full answers were too
         # long). The LLM writes only the summary (no URLs allowed in it);
         # the References section is built deterministically from the
@@ -679,17 +736,27 @@ def _answer(g, question, backend_note):
             result = summary + (f"\n\nReferences:\n{refs}" if refs else "")
     # No technical footer on answers (user, 2026-11-02: "I don't care for
     # that") — answers end with the answer itself.
-    return result
+    return {"text": result, "places": places}
 
 
 @tracing.track("reel-chat-answer")
-def answer(g, question, backend_note):
-    """Public entry point — traced in Opik when tracing is enabled
-    (see tracing.py); flushes pending traces before returning."""
+def _traced_answer(g, question, backend_note):
+    """Traced core — flushes pending Opik traces before returning."""
     try:
-        return _answer(g, question, backend_note)
+        return _answer_full(g, question, backend_note)
     finally:
         tracing.flush()
+
+
+def answer(g, question, backend_note):
+    """Public text-only entry point (CLI + backwards compatibility)."""
+    return _traced_answer(g, question, backend_note)["text"]
+
+
+def answer_full(g, question, backend_note):
+    """Public entry point for the UI: {"text", "places"} (places carry
+    coordinates so the app can map the recommended places)."""
+    return _traced_answer(g, question, backend_note)
 
 
 def main():

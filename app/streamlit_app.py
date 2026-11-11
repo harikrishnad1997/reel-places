@@ -119,6 +119,41 @@ EXAMPLES = [
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
+
+def render_answer_map(answer_places):
+    """Map of the places an answer recommends (user, 2026-11-11).
+    answer_places: chatbot.answer_full's place dicts (name/site/city/
+    state/lat/lng). A map failure must never break the answer, so any
+    error degrades to a one-line caption."""
+    if not answer_places:
+        return
+    try:
+        import pydeck as pdk
+
+        rows = []
+        for p in answer_places:
+            loc = ", ".join(x for x in [p.get("site"), p.get("city"), p.get("state")] if x)
+            rows.append({"lat": p["lat"], "lng": p["lng"], "name": p["name"], "loc": loc})
+        clat = sum(r["lat"] for r in rows) / len(rows)
+        clng = sum(r["lng"] for r in rows) / len(rows)
+        span = max(max(r["lat"] for r in rows) - min(r["lat"] for r in rows),
+                   max(r["lng"] for r in rows) - min(r["lng"] for r in rows))
+        zoom = (12 if span <= 0.02 else 10 if span <= 0.1 else 8 if span <= 0.5
+                else 6 if span <= 2 else 5 if span <= 6 else 4 if span <= 15 else 3)
+        layer = pdk.Layer(
+            "ScatterplotLayer", data=rows, get_position="[lng, lat]",
+            get_radius=30, radius_units="pixels", filled=True, stroked=True,
+            get_fill_color=[29, 111, 184, 200], get_line_color=[255, 255, 255],
+            line_width_min_pixels=1, pickable=True)
+        deck = pdk.Deck(
+            layers=[layer],
+            initial_view_state=pdk.ViewState(latitude=clat, longitude=clng, zoom=zoom),
+            tooltip={"text": "{name}\n{loc}"})
+        st.pydeck_chart(deck, width="stretch", height=340)
+    except Exception:
+        st.caption("🗺️ Map unavailable for this answer.")
+
+
 cols = st.columns(3)
 for i, example in enumerate(EXAMPLES):
     if cols[i % 3].button(example, key=f"ex{i}"):
@@ -127,6 +162,8 @@ for i, example in enumerate(EXAMPLES):
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
+        if msg["role"] == "assistant":
+            render_answer_map(msg.get("places") or [])
 
 question = st.chat_input("Ask about a place, a theme, a creator… or 'make a 3-day Southwest itinerary'")
 if "pending" in st.session_state:
@@ -138,6 +175,8 @@ if question:
         st.markdown(question)
     with st.chat_message("assistant"):
         with st.spinner("Checking the graph…"):
-            reply = chatbot.answer(g, question, backend_note)
-        st.markdown(reply)
-    st.session_state.messages.append({"role": "assistant", "content": reply})
+            result = chatbot.answer_full(g, question, backend_note)
+        st.markdown(result["text"])
+        render_answer_map(result["places"])
+    st.session_state.messages.append(
+        {"role": "assistant", "content": result["text"], "places": result["places"]})
