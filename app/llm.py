@@ -245,12 +245,15 @@ def web_answer(question):
             "tools": [{"type": "web_search"}],
             "input": [
                 {"role": "system", "content": (
-                    "Answer the user's question using web search, BRIEFLY. "
-                    "Structure: (1) a short summary answer first — a few "
-                    "sentences, or a tight list of at most 6 highlights with "
-                    "one line each; (2) then a 'References:' section listing "
-                    "the pages you used as Markdown links. No long "
-                    "paragraphs, no background essays.")},
+                    "Answer the user's question using web search, in a "
+                    "natural, conversational tone — like a knowledgeable "
+                    "friend answering directly, in full flowing sentences, "
+                    "never telegram fragments. Structure: (1) a short "
+                    "answer first — a couple of sentences, or a short intro "
+                    "plus at most 6 highlights, each a full sentence naming "
+                    "the place and why it matters; (2) then a 'References:' "
+                    "section listing the pages you used as Markdown links. "
+                    "Keep it tight, no background essays.")},
                 {"role": "user", "content": question}],
         }
         req = urllib.request.Request(
@@ -295,18 +298,24 @@ def phrase_answer(question, grounded_answer):
     if not available() or not grounded_answer:
         return None
     system = (
-        "Summarize the answer below for the user, BRIEFLY. Rules:\n"
-        "- At most 4 short sentences, OR a tight bullet list of at most "
-        "8 places with a few words each on why. Compress hard: reduce "
-        "each place to a short phrase, never paste full recommendation "
-        "text.\n"
-        "- If the answer is an itinerary, keep the day-by-day structure "
-        "but compress each stop to one short line.\n"
+        "Rewrite the answer below as a natural, conversational reply — "
+        "like a knowledgeable friend answering the question directly. Rules:\n"
+        "- Write in full, flowing sentences. Never use telegram fragments "
+        "or 'Name: short phrase' list-speak.\n"
+        "- Answer the question first in a sentence or two, then work the "
+        "places in naturally. For list questions, a short intro line plus "
+        "at most 8 bullets, each bullet a full sentence naming the place "
+        "and why it matters.\n"
+        "- If the answer is an itinerary, keep the day-by-day structure, "
+        "but write each day as one or two natural sentences instead of "
+        "compressed stop lines.\n"
+        "- Keep it tight (about 100-180 words) and cut anything that "
+        "repeats the same point.\n"
         "- Use ONLY facts present in the answer; never add places, "
         "names or facts.\n"
         "- Include NO links or URLs at all — references are appended "
         "separately.\n"
-        "Output only the summary."
+        "Output only the reply."
     )
     user = f"Question: {question}\n\nAnswer to summarize:\n{grounded_answer}"
     out = _chat(system, user)
@@ -315,6 +324,6 @@ def phrase_answer(question, grounded_answer):
     out = out.strip()
     if _URL_RE.search(out):
         return None  # links belong in References only — keep the original
-    if not out or len(out) < 10 or len(out) > 1800:
+    if not out or len(out) < 10 or len(out) > 2500:
         return None  # empty, or still too long — keep the original
     return out
