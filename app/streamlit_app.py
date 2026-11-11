@@ -170,9 +170,29 @@ for i, example in enumerate(EXAMPLES):
     if cols[i % 3].button(example, key=f"ex{i}"):
         st.session_state.pending = example
 
+def render_assistant_message(text):
+    """Render an assistant answer: summary as markdown, References
+    tucked into a collapsed dropdown (user, 2026-11-11 — the list was
+    taking over the whole answer). chatbot.py still returns the
+    References section as plain text; only the UI collapses it."""
+    marker = "\n\nReferences:\n"
+    if marker in text:
+        summary, refs = text.split(marker, 1)
+        st.markdown(summary)
+        count = sum(1 for ln in refs.splitlines() if ln.startswith("- "))
+        label = f"References ({count})" if count else "References"
+        with st.expander(label, expanded=False):
+            st.markdown(refs)
+    else:
+        st.markdown(text)
+
+
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
+        if msg["role"] == "assistant":
+            render_assistant_message(msg["content"])
+        else:
+            st.markdown(msg["content"])
         if msg["role"] == "assistant":
             render_answer_map(msg.get("places") or [])
 
@@ -187,7 +207,7 @@ if question:
     with st.chat_message("assistant"):
         with st.spinner("Checking the graph…"):
             result = chatbot.answer_full(g, question, backend_note)
-        st.markdown(result["text"])
+        render_assistant_message(result["text"])
         render_answer_map(result["places"])
     st.session_state.messages.append(
         {"role": "assistant", "content": result["text"], "places": result["places"]})
