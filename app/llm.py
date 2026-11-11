@@ -40,7 +40,7 @@ from pathlib import Path
 
 import tracing
 
-INTENTS = {"theme", "creator", "browse", "reels", "count", "itinerary", "unknown"}
+INTENTS = {"theme", "creator", "browse", "reels", "count", "itinerary", "between", "unknown"}
 _URL_RE = re.compile(r"https?://[^\s\"')\]]+")
 HELPER = Path(os.environ.get(
     "REEL_CHAT_OPENAI_HELPER",
@@ -139,20 +139,25 @@ def parse_question(question, vocab):
         "JSON intent. Use ONLY values copied exactly from the vocab lists "
         "provided; if a value is not in the lists, use null. Never invent "
         "places, people or themes. Output JSON only, with keys: intent "
-        "(one of theme, creator, browse, reels, count, itinerary, unknown), "
+        "(one of theme, creator, browse, reels, count, itinerary, between, unknown), "
         "theme, geo (a state, region or country name), site, creator, days "
-        "(an integer or null).\n"
+        "(an integer or null), site_a, site_b (the two sites for a between question).\n"
         "Intent guide: a question naming a park/site and asking for its "
         "highlights, overview, spots or places is intent browse with that "
         "site. A question naming only a state/region/country is browse with "
         "that geo. Use theme only when the question asks for an activity or "
         "subject (sunrise, waterfalls, hikes) — and still fill site or geo "
-        "when one is named.\n"
+        "when one is named. A question asking for places, stops or things "
+        "to see BETWEEN two named parks/sites, or on the way from one to "
+        "the other, is intent between with site_a and site_b set to the "
+        "two sites (in the order asked) — never answer it as a browse of "
+        "either endpoint alone.\n"
         "Examples:\n"
         '- "Mammoth cave highlights" -> {"intent": "browse", "theme": null, "geo": null, "site": "Mammoth Cave National Park", "creator": null, "days": null}\n'
         '- "Places in California" -> {"intent": "browse", "theme": null, "geo": "California", "site": null, "creator": null, "days": null}\n'
         '- "best sunrise spots in Utah" -> {"intent": "theme", "theme": "Sunrise", "geo": "Utah", "site": null, "creator": null, "days": null}\n'
-        '- "make a 3-day itinerary for Zion" -> {"intent": "itinerary", "theme": null, "geo": null, "site": "Zion National Park", "creator": null, "days": 3}'
+        '- "make a 3-day itinerary for Zion" -> {"intent": "itinerary", "theme": null, "geo": null, "site": "Zion National Park", "creator": null, "days": 3}\n'
+        '- "places between Joshua Tree and Death Valley" -> {"intent": "between", "theme": null, "geo": null, "site": null, "creator": null, "days": null, "site_a": "Joshua Tree National Park", "site_b": "Death Valley National Park"}'
     )
     user = f"Vocab: {json.dumps(vocab)}\n\nQuestion: {question}"
     raw = _chat(system, user)
@@ -193,11 +198,14 @@ def parse_question(question, vocab):
 
     geo_vocab = vocab.get("states", []) + vocab.get("regions", []) + vocab.get("countries", [])
     out = {"intent": parsed["intent"], "theme": None, "geo": None,
-           "site": None, "creator": None, "days": None}
+           "site": None, "creator": None, "days": None,
+           "site_a": None, "site_b": None}
     out["theme"] = match(parsed.get("theme"), vocab.get("themes", []))
     out["geo"] = match(parsed.get("geo"), geo_vocab, substring=True)
     out["site"] = match(parsed.get("site"), vocab.get("sites", []), substring=True)
     out["creator"] = match(parsed.get("creator"), vocab.get("creators", []))
+    out["site_a"] = match(parsed.get("site_a"), vocab.get("sites", []), substring=True)
+    out["site_b"] = match(parsed.get("site_b"), vocab.get("sites", []), substring=True)
     days = parsed.get("days")
     if isinstance(days, int) and 1 <= days <= 14:
         out["days"] = days

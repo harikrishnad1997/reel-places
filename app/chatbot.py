@@ -321,6 +321,74 @@ def answer_theme(g, q, raw_q):
     return "\n\n".join(out)
 
 
+def answer_between(g, site_a, site_b):
+    """Places BETWEEN two sites (user, 2026-11-11: 'places between Joshua
+    Tree and Death Valley' came back as Death Valley's own highlights —
+    the between-constraint was ignored entirely). Each anchor resolves to
+    the centroid of its places; candidates are graph places within 50
+    miles of the straight segment between the centroids, excluding both
+    anchors' own places and anything within 20 miles of either anchor
+    (endpoint neighbourhood, not the corridor). Ordered along the route,
+    capped at 12. An empty corridor returns no_match(...), which the
+    caller turns into the labelled web fallback instead of substituting
+    one endpoint's highlights."""
+    def display(site):
+        name = (site or "").strip().lower()
+        for s in g.by_type.get("Site", []):
+            if s["properties"]["name"].lower() == name:
+                return s["properties"]["name"]
+        return site
+    site_a, site_b = display(site_a), display(site_b)
+
+    def anchor(site):
+        name = (site or "").strip().lower()
+        hits = [p for p in g.by_type.get("Place", [])
+                if (p["properties"].get("site") or "").lower() == name
+                and p["properties"].get("lat") is not None]
+        if not hits:
+            return None
+        return (sum(p["properties"]["lat"] for p in hits) / len(hits),
+                sum(p["properties"]["lng"] for p in hits) / len(hits))
+
+    a = anchor(site_a)
+    b = anchor(site_b)
+    if not a or not b:
+        return no_match(f"places between {site_a} and {site_b}")
+    mx = math.cos(math.radians((a[0] + b[0]) / 2.0))
+
+    def seg(p):
+        ax, ay = a[1] * mx, a[0]
+        bx, by = b[1] * mx, b[0]
+        px, py = p[1] * mx, p[0]
+        dx, dy = bx - ax, by - ay
+        l2 = dx * dx + dy * dy
+        t = 0.0 if l2 == 0 else max(0.0, min(1.0, ((px - ax) * dx + (py - ay) * dy) / l2))
+        return math.hypot(px - (ax + t * dx), py - (ay + t * dy)) * 69.0, t
+
+    anchors = {site_a.strip().lower(), site_b.strip().lower()}
+    cands = []
+    for p in g.by_type.get("Place", []):
+        pr = p["properties"]
+        if (pr.get("site") or "").lower() in anchors:
+            continue
+        if pr.get("lat") is None or pr.get("lng") is None:
+            continue
+        d, t = seg((pr["lat"], pr["lng"]))
+        if d > 50 or t <= 0.05 or t >= 0.95:
+            continue
+        if haversine((pr["lat"], pr["lng"]), a) < 32.2:  # within 20 mi of anchor A
+            continue
+        if haversine((pr["lat"], pr["lng"]), b) < 32.2:  # within 20 mi of anchor B
+            continue
+        cands.append((t, p))
+    cands.sort(key=lambda x: x[0])
+    if not cands:
+        return no_match(f"any places between {site_a} and {site_b}")
+    lines = [f"{len(cands)} place(s) between {site_a} and {site_b}, in route order:"]
+    lines += [fmt_place(g, p) for _, p in cands[:12]]
+    return "\n".join(lines)
+
+
 def answer_browse(g, q, raw_q):
     sites = find_sites(g, q)
     kind, geo = find_geo(g, q, raw_q)
@@ -490,6 +558,8 @@ def canonical_question(parsed):
     if not parsed:
         return None
     intent = parsed["intent"]
+    if intent == "between" and parsed.get("site_a") and parsed.get("site_b"):
+        return f"places between {parsed['site_a']} || {parsed['site_b']}"
     scope = parsed.get("site") or parsed.get("geo") or ""
     if intent == "count":
         return "how many places do we have?"
@@ -516,6 +586,9 @@ def route_rules(g, question):
     q = " " + re.sub(r"\s+", " ", question.lower()).strip() + " "
     raw_q = question
     result = None
+    m = re.search(r"places between (.+?) \|\| (.+)", q)
+    if m:
+        result = answer_between(g, m.group(1).strip(), m.group(2).strip())
     if re.search(r"how many|count|total", q):
         result = answer_count(g)
     elif re.search(r"itinerar|road trip|\d+\s*[- ]?\s*days?\b|weekend|plan (a|my|the)", q):
@@ -556,6 +629,23 @@ def mention_rescue(g, question):
     theme guessing is what made the old rule-based mode wrong."""
     q = " " + question.lower() + " "
     v = vocab(g)
+    if "between" in q:
+        # A between-question must never rescue to a single endpoint's
+        # highlights (2026-11-11: that is exactly the wrong answer).
+        mentioned = []
+        for site in v["sites"]:
+            forms = [site] + [site[: -len(s)] for s in _SITE_SUFFIXES if site.endswith(s)]
+            for form in forms:
+                if len(form) >= 5 and form.lower() in q:
+                    mentioned.append((q.index(form.lower()), site))
+                    break
+        mentioned.sort()
+        seen = []
+        for _, site in mentioned:
+            if site not in seen:
+                seen.append(site)
+        if len(seen) >= 2:
+            return f"places between {seen[0]} || {seen[1]}"
     best = None  # (length, canon)
     for site in v["sites"]:
         forms = [site] + [site[: -len(s)] for s in _SITE_SUFFIXES if site.endswith(s)]
