@@ -20863,6 +20863,37 @@
    }
   },
   {
+   "id": "reel:Dfm9oLGIudt",
+   "type": "Reel",
+   "properties": {
+    "name": "Grosse Point Lighthouse | Evanston, Illinois",
+    "url": "https://www.instagram.com/reel/Dfm9oLGIudt/",
+    "title": "Grosse Point Lighthouse | Evanston, Illinois",
+    "creator": "@icynthiareds",
+    "theme": "Historic lighthouse near Chicago",
+    "places_count": 1,
+    "recommendation_summary": "A visual tour of the Grosse Point Lighthouse in Evanston — a historic 1873 lighthouse on the Lake Michigan shore, about 30 minutes from downtown Chicago, one of the prettiest and most historic corners of Evanston and worth adding to a Chicago-area visit list.",
+    "posted": "2026-11-11",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "creator:icynthiareds",
+   "type": "Creator",
+   "properties": {
+    "name": "@icynthiareds",
+    "handle": "@icynthiareds",
+    "display_name": "Cynthia Dunn"
+   }
+  },
+  {
+   "id": "theme:historic-lighthouse-near-chicago",
+   "type": "Theme",
+   "properties": {
+    "name": "Historic lighthouse near Chicago"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -45860,6 +45891,39 @@
    "properties": {
     "name": "Lands End"
    }
+  },
+  {
+   "id": "place:grosse-point-lighthouse-evanston-il",
+   "type": "Place",
+   "properties": {
+    "name": "Grosse Point Lighthouse",
+    "place_id": "grosse-point-lighthouse-evanston-il",
+    "site": "Grosse Point Lighthouse",
+    "city": "Evanston",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 42.06389,
+    "lng": -87.67611,
+    "google_maps_query": "Grosse+Point+Lighthouse+Evanston+IL",
+    "best_for": "Landmark / Historic 1873 lighthouse on Lake Michigan",
+    "note": "Coordinates: Wikipedia Grosse Point Light (2601 Sheridan Rd, Evanston; 42°3'50\"N 87°40'34\"W); Mapcarta agrees 42.0639,-87.67602. National Historic Landmark, built 1873."
+   }
+  },
+  {
+   "id": "site:grosse-point-lighthouse",
+   "type": "Site",
+   "properties": {
+    "name": "Grosse Point Lighthouse"
+   }
+  },
+  {
+   "id": "theme:landmark-historic-1873-lighthouse-on-lake-michigan",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / Historic 1873 lighthouse on Lake Michigan"
+   }
   }
  ],
  "edges": [
@@ -58622,6 +58686,18 @@
   {
    "from": "reel:DcedEqhyDgs",
    "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfm9oLGIudt",
+   "to": "creator:icynthiareds",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfm9oLGIudt",
+   "to": "theme:historic-lighthouse-near-chicago",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -130892,6 +130968,37 @@
   {
    "from": "place:lands-end-trail-san-francisco-ca",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:grosse-point-lighthouse-evanston-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:grosse-point-lighthouse-evanston-il",
+   "to": "site:grosse-point-lighthouse",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:grosse-point-lighthouse-evanston-il",
+   "to": "reel:Dfm9oLGIudt",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / Historic 1873 lighthouse on Lake Michigan",
+    "recommendation": "A postcard-looking white lighthouse on the Lake Michigan shore in Evanston, about 30 minutes from downtown Chicago — built in 1873 after several shipwrecks to guide boats, and one of the few lighthouses still standing. Dunn tours the tower, its lantern room and red-roofed outbuildings, the stone keeper's house, and the Lighthouse Wildflower Trail Garden, and calls it one of the prettiest and most historic corners of Evanston, worth adding to any Chicago-area visit list.",
+    "creator": "@icynthiareds",
+    "reel_title": "Grosse Point Lighthouse | Evanston, Illinois",
+    "reel_theme": "Historic lighthouse near Chicago"
+   }
+  },
+  {
+   "from": "place:grosse-point-lighthouse-evanston-il",
+   "to": "theme:landmark-historic-1873-lighthouse-on-lake-michigan",
    "type": "BEST_FOR",
    "properties": {}
   }
