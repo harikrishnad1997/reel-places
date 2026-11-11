@@ -20808,6 +20808,37 @@
    }
   },
   {
+   "id": "reel:DfnBc6xKrYB",
+   "type": "Reel",
+   "properties": {
+    "name": "Chicago's first self-cleaning public toilet",
+    "url": "https://www.instagram.com/reel/DfnBc6xKrYB/",
+    "title": "Chicago's first self-cleaning public toilet",
+    "creator": "@se.kwon",
+    "theme": "Chicago first — self-cleaning public toilet at the Polish Triangle",
+    "places_count": 1,
+    "recommendation_summary": "A tour of Chicago's first self-cleaning public toilet — the new JCDecaux automated restroom at the Polish Triangle in Wicker Park/West Town, opened Nov 11, 2026: free, ADA-compliant, 15-minute limit, and the bowl self-disinfects with high-pressure jets between uses.",
+    "posted": "2026-11-11",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "creator:se-kwon",
+   "type": "Creator",
+   "properties": {
+    "name": "@se.kwon",
+    "handle": "@se.kwon",
+    "display_name": "Se Kwon"
+   }
+  },
+  {
+   "id": "theme:chicago-first-self-cleaning-public-toilet-at-the-polish-triangle",
+   "type": "Theme",
+   "properties": {
+    "name": "Chicago first — self-cleaning public toilet at the Polish Triangle"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -45668,6 +45699,39 @@
    "properties": {
     "name": "Cascade Head Scenic Research Area"
    }
+  },
+  {
+   "id": "place:chicago-self-cleaning-toilet-il",
+   "type": "Place",
+   "properties": {
+    "name": "Chicago Self-Cleaning Public Toilet",
+    "place_id": "chicago-self-cleaning-toilet-il",
+    "site": "Polish Triangle (Polonia Triangle)",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.903579,
+    "lng": -87.667176,
+    "google_maps_query": "Polonia+Triangle+Chicago+IL",
+    "best_for": "Landmark / Chicago's first self-cleaning public toilet",
+    "note": "Coordinates: Wikipedia's Polonia Triangle plaza point (41.903579,-87.667176), matching the Polish Triangle Coalition place record for 1204 N Milwaukee Ave; the kiosk stands in the plaza (Fox 32 Chicago / Block Club Chicago)."
+   }
+  },
+  {
+   "id": "site:polish-triangle-polonia-triangle",
+   "type": "Site",
+   "properties": {
+    "name": "Polish Triangle (Polonia Triangle)"
+   }
+  },
+  {
+   "id": "theme:landmark-chicago-s-first-self-cleaning-public-toilet",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / Chicago's first self-cleaning public toilet"
+   }
   }
  ],
  "edges": [
@@ -58406,6 +58470,18 @@
   {
    "from": "reel:DfkoEFpvMBW",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfnBc6xKrYB",
+   "to": "creator:se-kwon",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfnBc6xKrYB",
+   "to": "theme:chicago-first-self-cleaning-public-toilet-at-the-polish-triangle",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -130515,6 +130591,37 @@
   {
    "from": "place:gods-thumb-or",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-self-cleaning-toilet-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-self-cleaning-toilet-il",
+   "to": "site:polish-triangle-polonia-triangle",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-self-cleaning-toilet-il",
+   "to": "reel:DfnBc6xKrYB",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / Chicago's first self-cleaning public toilet",
+    "recommendation": "Chicago's first standalone automated public restroom — a JCDecaux kiosk in the Polish Triangle at Milwaukee, Ashland and Division, above the Division Blue Line station, which opened with a ceremonial 'First Flush' on the day this reel was posted (installation had wrapped Oct 23). Kwon tours it: free to use, spacious and ADA-compliant, with a 15-minute limit, an exit button plus a low foot-tap emergency button, and a combined sink/hand-dryer. After each use the toilet retracts into a side compartment where high-pressure jets wash and disinfect it (about a 30-second cycle), so the seat and paper can be slightly moist — she still calls it probably the nicest public bathroom she has ever used.",
+    "creator": "@se.kwon",
+    "reel_title": "Chicago's first self-cleaning public toilet",
+    "reel_theme": "Chicago first — self-cleaning public toilet at the Polish Triangle"
+   }
+  },
+  {
+   "from": "place:chicago-self-cleaning-toilet-il",
+   "to": "theme:landmark-chicago-s-first-self-cleaning-public-toilet",
    "type": "BEST_FOR",
    "properties": {}
   }
