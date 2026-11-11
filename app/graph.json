@@ -20839,6 +20839,30 @@
    }
   },
   {
+   "id": "reel:DcedEqhyDgs",
+   "type": "Reel",
+   "properties": {
+    "name": "Part 2 of Free 10/10 Viewpoints in San Francisco",
+    "url": "https://www.instagram.com/reel/DcedEqhyDgs/",
+    "title": "Part 2 of Free 10/10 Viewpoints in San Francisco",
+    "creator": "@dhillon.diary",
+    "theme": "Free 10/10 viewpoints in San Francisco — Part 2",
+    "places_count": 4,
+    "recommendation_summary": "Part 2 of her free 10/10 San Francisco viewpoints, in order: Pier 7 at dusk, Crissy Field Beach at golden hour, Alta Plaza Park, and the Lands End hike — all free, all for friends or a solo clear-your-mind visit.",
+    "posted": "2026-08-25",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "creator:dhillon-diary",
+   "type": "Creator",
+   "properties": {
+    "name": "@dhillon.diary",
+    "handle": "@dhillon.diary",
+    "display_name": "Dhillon"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -45732,6 +45756,110 @@
    "properties": {
     "name": "Landmark / Chicago's first self-cleaning public toilet"
    }
+  },
+  {
+   "id": "place:pier-7-san-francisco-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Pier 7",
+    "place_id": "pier-7-san-francisco-ca",
+    "site": "Pier 7",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.79965,
+    "lng": -122.3958,
+    "google_maps_query": "Pier+7+San+Francisco+CA",
+    "best_for": "Sunset / Skyline views, benches and dusk light",
+    "note": "Coordinates: USGS GNIS via TopoQuest (Pier 7 locale, San Francisco North)."
+   }
+  },
+  {
+   "id": "site:pier-7",
+   "type": "Site",
+   "properties": {
+    "name": "Pier 7"
+   }
+  },
+  {
+   "id": "place:crissy-field-beach-san-francisco-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Crissy Field Beach",
+    "place_id": "crissy-field-beach-san-francisco-ca",
+    "site": "Crissy Field",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.806372,
+    "lng": -122.450652,
+    "google_maps_query": "Crissy+Field+East+Beach+San+Francisco+CA",
+    "best_for": "Beach / Sunset on the sand with the Golden Gate behind you",
+    "note": "Coordinates: Presidio place record for Crissy Field East Beach."
+   }
+  },
+  {
+   "id": "site:crissy-field",
+   "type": "Site",
+   "properties": {
+    "name": "Crissy Field"
+   }
+  },
+  {
+   "id": "place:alta-plaza-park-san-francisco-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Alta Plaza Park",
+    "place_id": "alta-plaza-park-san-francisco-ca",
+    "site": "Alta Plaza Park",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.7911733,
+    "lng": -122.4376698,
+    "google_maps_query": "Alta+Plaza+Park+San+Francisco+CA",
+    "best_for": "View / Grassy hilltop park, less crowded than Dolores",
+    "note": "Coordinates: Wikipedia Alta Plaza Park (Jackson & Steiner, Pacific Heights)."
+   }
+  },
+  {
+   "id": "site:alta-plaza-park",
+   "type": "Site",
+   "properties": {
+    "name": "Alta Plaza Park"
+   }
+  },
+  {
+   "id": "place:lands-end-trail-san-francisco-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Lands End Trail",
+    "place_id": "lands-end-trail-san-francisco-ca",
+    "site": "Lands End",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.784925,
+    "lng": -122.50553,
+    "google_maps_query": "Lands+End+Trail+San+Francisco+CA",
+    "best_for": "Hike / Classic coastal cliffside walk",
+    "note": "Coordinates: Wikipedia Lands End (San Francisco) — the Coastal Trail through Lands End, Golden Gate National Recreation Area."
+   }
+  },
+  {
+   "id": "site:lands-end",
+   "type": "Site",
+   "properties": {
+    "name": "Lands End"
+   }
   }
  ],
  "edges": [
@@ -58482,6 +58610,18 @@
   {
    "from": "reel:DfnBc6xKrYB",
    "to": "theme:chicago-first-self-cleaning-public-toilet-at-the-polish-triangle",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcedEqhyDgs",
+   "to": "creator:dhillon-diary",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DcedEqhyDgs",
+   "to": "theme:view",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -130622,6 +130762,136 @@
   {
    "from": "place:chicago-self-cleaning-toilet-il",
    "to": "theme:landmark-chicago-s-first-self-cleaning-public-toilet",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:pier-7-san-francisco-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:pier-7-san-francisco-ca",
+   "to": "site:pier-7",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:pier-7-san-francisco-ca",
+   "to": "reel:DcedEqhyDgs",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Sunset / Skyline views, benches and dusk light",
+    "recommendation": "Her #1 of the four: Pier 7 at dusk and into the night, for the city skyline views from the end of the pier off the Embarcadero — benches to sit on, best at sunset, a spot for friends or a solo visit to clear your mind.",
+    "creator": "@dhillon.diary",
+    "reel_title": "Part 2 of Free 10/10 Viewpoints in San Francisco",
+    "reel_theme": "Free 10/10 viewpoints in San Francisco — Part 2"
+   }
+  },
+  {
+   "from": "place:pier-7-san-francisco-ca",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:pier-7-san-francisco-ca",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:crissy-field-beach-san-francisco-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:crissy-field-beach-san-francisco-ca",
+   "to": "site:crissy-field",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:crissy-field-beach-san-francisco-ca",
+   "to": "reel:DcedEqhyDgs",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Beach / Sunset on the sand with the Golden Gate behind you",
+    "recommendation": "Her #2: Crissy Field Beach at golden hour, sand access and benches with the Golden Gate Bridge right behind you — sunset is best, though nights get windy. Part of Golden Gate National Recreation Area on the Marina waterfront.",
+    "creator": "@dhillon.diary",
+    "reel_title": "Part 2 of Free 10/10 Viewpoints in San Francisco",
+    "reel_theme": "Free 10/10 viewpoints in San Francisco — Part 2"
+   }
+  },
+  {
+   "from": "place:crissy-field-beach-san-francisco-ca",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:alta-plaza-park-san-francisco-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:alta-plaza-park-san-francisco-ca",
+   "to": "site:alta-plaza-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:alta-plaza-park-san-francisco-ca",
+   "to": "reel:DcedEqhyDgs",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "View / Grassy hilltop park, less crowded than Dolores",
+    "recommendation": "Her #3: Alta Plaza Park on a sunny day — a 12.9-acre grassy hilltop at the top of Pacific Heights with varied city and bay vistas, large and less crowded than Dolores Park.",
+    "creator": "@dhillon.diary",
+    "reel_title": "Part 2 of Free 10/10 Viewpoints in San Francisco",
+    "reel_theme": "Free 10/10 viewpoints in San Francisco — Part 2"
+   }
+  },
+  {
+   "from": "place:alta-plaza-park-san-francisco-ca",
+   "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lands-end-trail-san-francisco-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:lands-end-trail-san-francisco-ca",
+   "to": "site:lands-end",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:lands-end-trail-san-francisco-ca",
+   "to": "reel:DcedEqhyDgs",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Hike / Classic coastal cliffside walk",
+    "recommendation": "Her #4: the Lands End hike — the Coastal Trail along the cliffside at San Francisco's northwest corner, ocean waves below and the Golden Gate Bridge in the distance; she calls it a classic walk.",
+    "creator": "@dhillon.diary",
+    "reel_title": "Part 2 of Free 10/10 Viewpoints in San Francisco",
+    "reel_theme": "Free 10/10 viewpoints in San Francisco — Part 2"
+   }
+  },
+  {
+   "from": "place:lands-end-trail-san-francisco-ca",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
