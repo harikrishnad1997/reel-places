@@ -786,7 +786,25 @@ def _answer_full(g, question, backend_note):
         return ("🌐 **From the web** — the Reel Places graph doesn't cover "
                 "this yet, so I searched the web:\n\n" + web)
 
-    canon = canonical_question(llm.parse_question(question, vocab(g)))
+    parsed = llm.parse_question(question, vocab(g))
+    canon = canonical_question(parsed)
+    if (canon and parsed and parsed.get("intent") in ("itinerary", "theme")
+            and not (parsed.get("site") or parsed.get("geo"))):
+        # The LLM sometimes drops the scope (state/site) from the parse —
+        # recover it deterministically from the user's own words, so a
+        # "2-day itinerary for Utah" never silently becomes an all-places
+        # plan (found 2026-11-11: 1 in 4 parses dropped geo=Utah).
+        qlow = " " + re.sub(r"\s+", " ", question.lower()).strip() + " "
+        sites = find_sites(g, qlow)
+        scope = sites[0]["properties"]["name"] if sites else None
+        if not scope:
+            kind, node = find_geo(g, qlow, question)
+            scope = node["properties"]["name"] if node else None
+        if scope:
+            if parsed["intent"] == "itinerary" and " for " not in canon:
+                canon = canon + f" for {scope}"
+            elif parsed["intent"] == "theme" and scope.lower() not in canon.lower():
+                canon = canon + f" in {scope}"
     rescued = False
     if not canon:
         canon = mention_rescue(g, question)

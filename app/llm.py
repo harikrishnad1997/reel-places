@@ -253,6 +253,9 @@ def web_answer(question):
                     "plus at most 6 highlights, each a full sentence naming "
                     "the place and why it matters; (2) then a 'References:' "
                     "section listing the pages you used as Markdown links. "
+                    "Bold each place name the first time you mention it and "
+                    "any key practical detail, so the main parts are easy to "
+                    "scan — never bold whole sentences. "
                     "Keep it tight, no background essays.")},
                 {"role": "user", "content": question}],
         }
@@ -311,6 +314,11 @@ def phrase_answer(question, grounded_answer):
         "compressed stop lines.\n"
         "- Keep it tight (about 100-180 words) and cut anything that "
         "repeats the same point.\n"
+        "- Make the main parts easy to scan: bold each place name the "
+        "first time you mention it, bold the day headers in an itinerary "
+        "(e.g. **Day 1**), and bold any key practical detail (permit "
+        "needed, distance, timing). Bold only names and key facts — never "
+        "whole sentences.\n"
         "- Use ONLY facts present in the answer; never add places, "
         "names or facts.\n"
         "- Include NO links or URLs at all — references are appended "
