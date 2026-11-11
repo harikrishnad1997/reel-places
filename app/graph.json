@@ -20942,6 +20942,37 @@
    }
   },
   {
+   "id": "reel:Dfm6ewDuePk",
+   "type": "Reel",
+   "properties": {
+    "name": "Indiana World War Memorial, Indianapolis",
+    "url": "https://www.instagram.com/reel/Dfm6ewDuePk/",
+    "title": "Indiana World War Memorial, Indianapolis",
+    "creator": "@englishman_in_indiana",
+    "theme": "Historic war memorial in Indianapolis",
+    "places_count": 2,
+    "recommendation_summary": "The Indiana World War Memorial in downtown Indianapolis — a 210-foot neoclassical monument of Indiana limestone modelled on the Mausoleum at Halicarnassus, with a museum and atrium inside — and the 100-foot Veterans Memorial Obelisk opposite it, rising from a pink marble fountain with four bronze sculptures for law, science, religion and education.",
+    "posted": "2026-11-11",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "creator:englishman-in-indiana",
+   "type": "Creator",
+   "properties": {
+    "name": "@englishman_in_indiana",
+    "handle": "@englishman_in_indiana",
+    "display_name": "Nick Wood"
+   }
+  },
+  {
+   "id": "theme:historic-war-memorial-in-indianapolis",
+   "type": "Theme",
+   "properties": {
+    "name": "Historic war memorial in Indianapolis"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -46062,6 +46093,72 @@
     "best_for": "Hike",
     "note": "Coordinates: Penobscot Mountain summit, USGS GNIS via TopoQuest 44.332851,-68.26668 (elev. 1,194 ft); Mapcarta 44.33286,-68.26668 agrees. Trail feature itself at 44.32758,-68.26446."
    }
+  },
+  {
+   "id": "place:indiana-world-war-memorial-in",
+   "type": "Place",
+   "properties": {
+    "name": "Indiana World War Memorial",
+    "place_id": "indiana-world-war-memorial-in",
+    "site": "Indiana World War Memorial",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_code": "IN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 39.773364,
+    "lng": -86.156947,
+    "google_maps_query": "Indiana+World+War+Memorial+Indianapolis+IN",
+    "best_for": "Landmark / 210-ft neoclassical memorial modelled on the Mausoleum at Halicarnassus",
+    "note": "Coordinates: Indiana War Memorial & Museum official record 39.773364,-86.156947 (55 E Michigan St); Wikipedia Indiana World War Memorial Plaza 39.77361,-86.15694 agrees."
+   }
+  },
+  {
+   "id": "site:indiana-world-war-memorial",
+   "type": "Site",
+   "properties": {
+    "name": "Indiana World War Memorial"
+   }
+  },
+  {
+   "id": "theme:landmark-210-ft-neoclassical-memorial-modelled-on-the-mausoleum-at-halicarnassus",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / 210-ft neoclassical memorial modelled on the Mausoleum at Halicarnassus"
+   }
+  },
+  {
+   "id": "place:veterans-memorial-obelisk-in",
+   "type": "Place",
+   "properties": {
+    "name": "Veterans Memorial Obelisk",
+    "place_id": "veterans-memorial-obelisk-in",
+    "site": "Veterans Memorial Plaza (Obelisk Square)",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_code": "IN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 39.774739,
+    "lng": -86.156893,
+    "google_maps_query": "Veterans+Memorial+Obelisk+Indianapolis+IN",
+    "best_for": "Landmark / 100-ft black granite obelisk in a pink marble fountain",
+    "note": "Coordinates: Obelisk Square place record 39.774739,-86.156893 (501 N Meridian St). Wikipedia: 100-ft black granite obelisk built 1923, square completed 1930."
+   }
+  },
+  {
+   "id": "site:veterans-memorial-plaza-obelisk-square",
+   "type": "Site",
+   "properties": {
+    "name": "Veterans Memorial Plaza (Obelisk Square)"
+   }
+  },
+  {
+   "id": "theme:landmark-100-ft-black-granite-obelisk-in-a-pink-marble-fountain",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / 100-ft black granite obelisk in a pink marble fountain"
+   }
   }
  ],
  "edges": [
@@ -58860,6 +58957,18 @@
   {
    "from": "reel:DfniyeIICMI",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfm6ewDuePk",
+   "to": "creator:englishman-in-indiana",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfm6ewDuePk",
+   "to": "theme:historic-war-memorial-in-indianapolis",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -131285,6 +131394,68 @@
   {
    "from": "place:penobscot-mountain-trail-me",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:indiana-world-war-memorial-in",
+   "to": "state:united-states-in",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:indiana-world-war-memorial-in",
+   "to": "site:indiana-world-war-memorial",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:indiana-world-war-memorial-in",
+   "to": "reel:Dfm6ewDuePk",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / 210-ft neoclassical memorial modelled on the Mausoleum at Halicarnassus",
+    "recommendation": "One of America's most impressive war memorials, in downtown Indianapolis — a 210-foot neoclassical monument of Indiana limestone, modelled on the Mausoleum at Halicarnassus, one of the Seven Wonders of the Ancient World. Built to honor Hoosiers who served in the First World War and now commemorating all who served, with a museum and a spectacular atrium inside; above the entrance, 'To vindicate the principles of peace and justice in the world.'",
+    "creator": "@englishman_in_indiana",
+    "reel_title": "Indiana World War Memorial, Indianapolis",
+    "reel_theme": "Historic war memorial in Indianapolis"
+   }
+  },
+  {
+   "from": "place:indiana-world-war-memorial-in",
+   "to": "theme:landmark-210-ft-neoclassical-memorial-modelled-on-the-mausoleum-at-halicarnassus",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:veterans-memorial-obelisk-in",
+   "to": "state:united-states-in",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:veterans-memorial-obelisk-in",
+   "to": "site:veterans-memorial-plaza-obelisk-square",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:veterans-memorial-obelisk-in",
+   "to": "reel:Dfm6ewDuePk",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / 100-ft black granite obelisk in a pink marble fountain",
+    "recommendation": "Directly opposite the memorial, the 100-foot black granite Veterans Memorial Obelisk (1923) rises from a 100-foot-diameter two-level fountain of pink Georgia marble — its four bronze sculptures stand for law, science, religion and education, the foundations of a peaceful and prosperous nation.",
+    "creator": "@englishman_in_indiana",
+    "reel_title": "Indiana World War Memorial, Indianapolis",
+    "reel_theme": "Historic war memorial in Indianapolis"
+   }
+  },
+  {
+   "from": "place:veterans-memorial-obelisk-in",
+   "to": "theme:landmark-100-ft-black-granite-obelisk-in-a-pink-marble-fountain",
    "type": "BEST_FOR",
    "properties": {}
   }
