@@ -20973,6 +20973,45 @@
    }
   },
   {
+   "id": "reel:DflhfiDg06J",
+   "type": "Reel",
+   "properties": {
+    "name": "Two beautiful waterfalls, one scenic forest hike!",
+    "url": "https://www.instagram.com/reel/DflhfiDg06J/",
+    "title": "Two beautiful waterfalls, one scenic forest hike!",
+    "creator": "@_wanderedsouls",
+    "theme": "Oregon waterfall hike on the McKenzie River",
+    "places_count": 2,
+    "recommendation_summary": "Two waterfalls, one scenic forest hike on the McKenzie River: Sahalie Falls (100-ft plunge over a lava dam) and Koosah Falls (70-ft drop into a deep pool), linked by the ~2.6-mile Waterfalls Loop Trail through lush forest alongside turquoise water in the Willamette National Forest.",
+    "posted": "2026-11-10",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "reel:Dfn45p_xyOH",
+   "type": "Reel",
+   "properties": {
+    "name": "Don't miss this gem in Wisconsin!",
+    "url": "https://www.instagram.com/reel/Dfn45p_xyOH/",
+    "title": "Don't miss this gem in Wisconsin!",
+    "creator": "@thespinningatlas",
+    "theme": "Winter waterfalls in Wisconsin",
+    "places_count": 1,
+    "recommendation_summary": "Amnicon Falls State Park near Superior, Wisconsin, for a winter trip: the Amnicon River's Upper, Lower and Snake Pit Falls can freeze into incredible ice formations, all visible from the 0.25-mile island trail, with the covered Horton Bridge as a photo spot; snowshoeing on a designated 1.5-mile trail.",
+    "posted": "2026-11-11",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "creator:thespinningatlas",
+   "type": "Creator",
+   "properties": {
+    "name": "@thespinningatlas",
+    "handle": "@thespinningatlas",
+    "display_name": "Zurui & Travis"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -46159,6 +46198,77 @@
    "properties": {
     "name": "Landmark / 100-ft black granite obelisk in a pink marble fountain"
    }
+  },
+  {
+   "id": "place:sahalie-falls-or",
+   "type": "Place",
+   "properties": {
+    "name": "Sahalie Falls",
+    "place_id": "sahalie-falls-or",
+    "site": "Willamette National Forest",
+    "city": "McKenzie Bridge",
+    "state": "Oregon",
+    "state_code": "OR",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 44.3492,
+    "lng": -121.9972,
+    "google_maps_query": "Sahalie+Falls+McKenzie+River+Oregon",
+    "best_for": "Waterfall / 100-ft plunge over a lava dam on the McKenzie River",
+    "note": "Coordinates: Wikipedia Sahalie Falls 44.3492,-121.9972 (44°20′57″N 121°59′50″W); waterfallhikes 44.349010,-121.997006 agrees. AllTrails Koosah and Sahalie Falls Trail: 2.5 mi loop, moderate, 1–1.5 hr."
+   }
+  },
+  {
+   "id": "site:willamette-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Willamette National Forest"
+   }
+  },
+  {
+   "id": "place:koosah-falls-or",
+   "type": "Place",
+   "properties": {
+    "name": "Koosah Falls",
+    "place_id": "koosah-falls-or",
+    "site": "Willamette National Forest",
+    "city": "McKenzie Bridge",
+    "state": "Oregon",
+    "state_code": "OR",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 44.34401,
+    "lng": -122.000617,
+    "google_maps_query": "Koosah+Falls+McKenzie+River+Oregon",
+    "best_for": "Waterfall / 70-ft drop into a deep emerald pool",
+    "note": "Coordinates: waterfallhikes Koosah Falls 44.344010,-122.000617; byway.world 44.34461,-122.00058 agrees. Same AllTrails loop as Sahalie Falls (2.5 mi, moderate, 1–1.5 hr)."
+   }
+  },
+  {
+   "id": "place:amnicon-falls-state-park-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Amnicon Falls State Park",
+    "place_id": "amnicon-falls-state-park-wi",
+    "site": "Amnicon Falls State Park",
+    "city": "South Range",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 46.60994,
+    "lng": -91.89241,
+    "google_maps_query": "Amnicon+Falls+State+Park+South+Range+WI",
+    "best_for": "Waterfall / Frozen falls, covered bridge and island trail in winter",
+    "note": "Coordinates: USGS-recorded position of Amnicon Falls 46.60994,-91.89241 (46°36′36″N 91°53′33″W). AllTrails Amnicon Falls and Snake Pit Falls Trail Loop: 0.6 mi, easy, 0.5–1 hr — the island trail to the three falls."
+   }
+  },
+  {
+   "id": "site:amnicon-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Amnicon Falls State Park"
+   }
   }
  ],
  "edges": [
@@ -58969,6 +59079,42 @@
   {
    "from": "reel:Dfm6ewDuePk",
    "to": "theme:historic-war-memorial-in-indianapolis",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DflhfiDg06J",
+   "to": "creator:wanderedsouls",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DflhfiDg06J",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DflhfiDg06J",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfn45p_xyOH",
+   "to": "creator:thespinningatlas",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfn45p_xyOH",
+   "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfn45p_xyOH",
+   "to": "theme:winter-visit",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -131456,6 +131602,105 @@
   {
    "from": "place:veterans-memorial-obelisk-in",
    "to": "theme:landmark-100-ft-black-granite-obelisk-in-a-pink-marble-fountain",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sahalie-falls-or",
+   "to": "state:united-states-or",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:sahalie-falls-or",
+   "to": "site:willamette-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:sahalie-falls-or",
+   "to": "reel:DflhfiDg06J",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / 100-ft plunge over a lava dam on the McKenzie River",
+    "recommendation": "One of two waterfalls on the Sahalie Falls – Koosah Falls Loop (~2.6 mi, ~400 ft gain, easy to moderate, 1–1.5 hr) through lush forest alongside the turquoise McKenzie River. Sahalie plunges about 100 feet over a lava dam, then tumbles another 40 feet of cascades — and no, you don't need to head to Silver Falls for a beautiful Oregon waterfall hike.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "Two beautiful waterfalls, one scenic forest hike!",
+    "reel_theme": "Oregon waterfall hike on the McKenzie River"
+   }
+  },
+  {
+   "from": "place:sahalie-falls-or",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:koosah-falls-or",
+   "to": "state:united-states-or",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:koosah-falls-or",
+   "to": "site:willamette-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:koosah-falls-or",
+   "to": "reel:DflhfiDg06J",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / 70-ft drop into a deep emerald pool",
+    "recommendation": "The second waterfall on the Sahalie Falls – Koosah Falls Loop (~2.6 mi, ~400 ft gain, easy to moderate, 1–1.5 hr), half a mile downstream of Sahalie. Koosah drops about 70 feet over a lava lip into a deep pool, on the wild McKenzie River in the Willamette National Forest.",
+    "creator": "@_wanderedsouls",
+    "reel_title": "Two beautiful waterfalls, one scenic forest hike!",
+    "reel_theme": "Oregon waterfall hike on the McKenzie River"
+   }
+  },
+  {
+   "from": "place:koosah-falls-or",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:amnicon-falls-state-park-wi",
+   "to": "state:united-states-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:amnicon-falls-state-park-wi",
+   "to": "site:amnicon-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:amnicon-falls-state-park-wi",
+   "to": "reel:Dfn45p_xyOH",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Waterfall / Frozen falls, covered bridge and island trail in winter",
+    "recommendation": "Don't miss this gem in Wisconsin — Amnicon Falls State Park, about 7 miles east of Superior, where the Amnicon River flows through a series of waterfalls and rapids that can turn into incredible ice formations when temperatures stay below freezing. Upper Falls, Lower Falls and Snake Pit Falls are all visible from the 0.25-mile island trail, and the covered Horton Bridge is another great spot to photograph the frozen river and waterfalls. Open year-round 6 AM–11 PM; a Wisconsin State Park vehicle admission sticker is required. Visit after several consecutive days below freezing for the best frozen falls — and bring ice cleats, the rocks and boardwalks get extremely slippery.",
+    "creator": "@thespinningatlas",
+    "reel_title": "Don't miss this gem in Wisconsin!",
+    "reel_theme": "Winter waterfalls in Wisconsin"
+   }
+  },
+  {
+   "from": "place:amnicon-falls-state-park-wi",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:amnicon-falls-state-park-wi",
+   "to": "theme:winter-visit",
    "type": "BEST_FOR",
    "properties": {}
   }
