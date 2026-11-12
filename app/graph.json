@@ -21148,6 +21148,37 @@
    }
   },
   {
+   "id": "reel:DfoD47gCbWZ",
+   "type": "Reel",
+   "properties": {
+    "name": "Top 5 hidden gems in Washington you probably didn't know about",
+    "url": "https://www.instagram.com/reel/DfoD47gCbWZ/",
+    "title": "Top 5 hidden gems in Washington you probably didn't know about",
+    "creator": "@kennypleasant",
+    "theme": "Top 5 hidden gems in Washington",
+    "places_count": 5,
+    "recommendation_summary": "Five hidden gems most Washington residents have never visited: the 2.3-mile Snoqualmie Tunnel (#5, closed Nov 1 for ice), the mysterious Mima Mounds near Olympia (#4), the 2.5-mile Ape Cave lava tube at Mount St. Helens (#3, also closed for the season), One Square Inch of Silence in the Hoh Rainforest (#2), and the full-size concrete Maryhill Stonehenge on the Columbia River (#1).",
+    "posted": "2026-11-11",
+    "added": "2026-11-12"
+   }
+  },
+  {
+   "id": "creator:kennypleasant",
+   "type": "Creator",
+   "properties": {
+    "name": "@kennypleasant",
+    "handle": "@kennypleasant",
+    "display_name": "Kenny Pleasant"
+   }
+  },
+  {
+   "id": "theme:top-5-hidden-gems-in-washington",
+   "type": "Theme",
+   "properties": {
+    "name": "Top 5 hidden gems in Washington"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -46754,6 +46785,136 @@
    "properties": {
     "name": "Angeles National Forest"
    }
+  },
+  {
+   "id": "place:snoqualmie-tunnel-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Snoqualmie Tunnel",
+    "place_id": "snoqualmie-tunnel-wa",
+    "site": "Palouse to Cascades State Park Trail",
+    "city": "Hyak",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 47.3947,
+    "lng": -121.3963,
+    "google_maps_query": "Snoqualmie+Tunnel+Hyak+WA",
+    "best_for": "Hike / 2.3-mile rail tunnel walk under Snoqualmie Pass",
+    "note": "Coordinates: Wikipedia 47.3947,-121.3963, east portal at Hyak. AllTrails Palouse to Cascades State Park Trail (Snoqualmie Tunnel): 5.7 mi out-and-back from Hyak. Tunnel closed Nov 1–May 1."
+   }
+  },
+  {
+   "id": "site:palouse-to-cascades-state-park-trail",
+   "type": "Site",
+   "properties": {
+    "name": "Palouse to Cascades State Park Trail"
+   }
+  },
+  {
+   "id": "place:mima-mounds-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Mima Mounds",
+    "place_id": "mima-mounds-wa",
+    "site": "Mima Mounds Natural Area Preserve",
+    "city": "Littlerock",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 46.89945,
+    "lng": -123.04338,
+    "google_maps_query": "Mima+Mounds+Natural+Area+Preserve+WA",
+    "best_for": "Hike / Mysterious round dirt mounds on a prairie",
+    "note": "Coordinates: aroundus 46.89945,-123.04338 (Wikipedia 46.89,-123.05 agrees); trailhead 13549 Mima Rd SW, Olympia. AllTrails Mima Mounds Trail: 2.7 mi loop, easy, 32 ft gain."
+   }
+  },
+  {
+   "id": "site:mima-mounds-natural-area-preserve",
+   "type": "Site",
+   "properties": {
+    "name": "Mima Mounds Natural Area Preserve"
+   }
+  },
+  {
+   "id": "place:ape-cave-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Ape Cave",
+    "place_id": "ape-cave-wa",
+    "site": "Mount St. Helens National Volcanic Monument",
+    "city": "Cougar",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 46.108645,
+    "lng": -122.210387,
+    "google_maps_query": "Ape+Cave+Mount+St+Helens+WA",
+    "best_for": "Hike / 2.5-mile lava tube under Mount St. Helens",
+    "note": "Coordinates: main trailhead 46.108645,-122.210387 (visitmtsthelens; hikespeak 46.10836,-122.21143 agrees). AllTrails Ape Cave Trail: 2.8 mi out-and-back, moderate. No dogs allowed."
+   }
+  },
+  {
+   "id": "site:mount-st-helens-national-volcanic-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Mount St. Helens National Volcanic Monument"
+   }
+  },
+  {
+   "id": "place:one-square-inch-of-silence-wa",
+   "type": "Place",
+   "properties": {
+    "name": "One Square Inch of Silence",
+    "place_id": "one-square-inch-of-silence-wa",
+    "site": "Olympic National Park",
+    "city": "Forks",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 47.86598,
+    "lng": -123.87035,
+    "google_maps_query": "One+Square+Inch+of+Silence+Hoh+Rainforest+WA",
+    "best_for": "Hike / Quietest spot in the US in the Hoh Rainforest",
+    "note": "Coordinates: 47.86598,-123.87035 (47°51.959'N, 123°52.221'W) per NPCA, Sierra Club and Orion, and a 2020 field visit (47.86576,-123.87009). Several sites copy a different figure, 48.12885,-123.68234 — that point is ~30 km away and not on the Hoh River Trail, so it was not used. No distinct AllTrails trail for the spot itself (it lies on the Hoh River Trail)."
+   }
+  },
+  {
+   "id": "place:maryhill-stonehenge-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Maryhill Stonehenge",
+    "place_id": "maryhill-stonehenge-wa",
+    "site": "Maryhill Stonehenge",
+    "city": "Maryhill",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 45.694342,
+    "lng": -120.806115,
+    "google_maps_query": "Maryhill+Stonehenge+WA",
+    "best_for": "Landmark / Full-size concrete Stonehenge replica on the Columbia",
+    "note": "Coordinates: 45.694342,-120.806115 (en-academic; roadtrippers 45.694378,-120.805870 agrees). No trail — roadside monument, no AllTrails link."
+   }
+  },
+  {
+   "id": "site:maryhill-stonehenge",
+   "type": "Site",
+   "properties": {
+    "name": "Maryhill Stonehenge"
+   }
+  },
+  {
+   "id": "theme:landmark-full-size-concrete-stonehenge-replica-on-the-columbia",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / Full-size concrete Stonehenge replica on the Columbia"
+   }
   }
  ],
  "edges": [
@@ -59672,6 +59833,18 @@
   {
    "from": "reel:DfoP1KZpI3E",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfoD47gCbWZ",
+   "to": "creator:kennypleasant",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfoD47gCbWZ",
+   "to": "theme:top-5-hidden-gems-in-washington",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -132631,6 +132804,161 @@
   {
    "from": "place:sturtevant-falls-trail-ca",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:snoqualmie-tunnel-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:snoqualmie-tunnel-wa",
+   "to": "site:palouse-to-cascades-state-park-trail",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:snoqualmie-tunnel-wa",
+   "to": "reel:DfoD47gCbWZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Hike / 2.3-mile rail tunnel walk under Snoqualmie Pass",
+    "recommendation": "An old railroad tunnel over two miles long through the mountains, now open for walking or biking on the Palouse to Cascades State Park Trail from Hyak. It is pitch dark and about 50°F inside, so bring a strong headlamp and a jacket, and a Discover Pass to park. It closes November 1st for ice — save this one for spring.",
+    "creator": "@kennypleasant",
+    "reel_title": "Top 5 hidden gems in Washington you probably didn't know about",
+    "reel_theme": "Top 5 hidden gems in Washington"
+   }
+  },
+  {
+   "from": "place:snoqualmie-tunnel-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mima-mounds-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mima-mounds-wa",
+   "to": "site:mima-mounds-natural-area-preserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mima-mounds-wa",
+   "to": "reel:DfoD47gCbWZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Hike / Mysterious round dirt mounds on a prairie",
+    "recommendation": "A field of mysterious round dirt mounds up to eight feet tall near Olympia, whose origin is still debated by scientists — a designated National Natural Landmark. An easy 2.7-mile loop with a paved, ADA-accessible first loop and interpretive kiosks; a Discover Pass is required to park.",
+    "creator": "@kennypleasant",
+    "reel_title": "Top 5 hidden gems in Washington you probably didn't know about",
+    "reel_theme": "Top 5 hidden gems in Washington"
+   }
+  },
+  {
+   "from": "place:mima-mounds-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ape-cave-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ape-cave-wa",
+   "to": "site:mount-st-helens-national-volcanic-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ape-cave-wa",
+   "to": "reel:DfoD47gCbWZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Hike / 2.5-mile lava tube under Mount St. Helens",
+    "recommendation": "A lava tube formed about 2,000 years ago when Mount St. Helens erupted, extending over two miles — the third-longest lava tube in North America — and staying around 42 degrees inside. Walk the easier Lower Cave or scramble the Upper Cave; bring headlamps and sturdy shoes, and a Northwest Forest Pass to park. Closed for the season November 1 to May 17, with timed tickets in summer.",
+    "creator": "@kennypleasant",
+    "reel_title": "Top 5 hidden gems in Washington you probably didn't know about",
+    "reel_theme": "Top 5 hidden gems in Washington"
+   }
+  },
+  {
+   "from": "place:ape-cave-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:one-square-inch-of-silence-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:one-square-inch-of-silence-wa",
+   "to": "site:olympic-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:one-square-inch-of-silence-wa",
+   "to": "reel:DfoD47gCbWZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike / Quietest spot in the US in the Hoh Rainforest",
+    "recommendation": "One of the quietest spots in the US, identified by acoustic ecologist Gordon Hempton: a small red stone on a moss-covered log in the Hoh Rainforest, about 3.2 miles up the Hoh River Trail from the visitor center — three miles from any road, with no cars, planes or human noise. The point of the project: protect one square inch of silence and the quiet radiates outward.",
+    "creator": "@kennypleasant",
+    "reel_title": "Top 5 hidden gems in Washington you probably didn't know about",
+    "reel_theme": "Top 5 hidden gems in Washington"
+   }
+  },
+  {
+   "from": "place:one-square-inch-of-silence-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:maryhill-stonehenge-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:maryhill-stonehenge-wa",
+   "to": "site:maryhill-stonehenge",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:maryhill-stonehenge-wa",
+   "to": "reel:DfoD47gCbWZ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Landmark / Full-size concrete Stonehenge replica on the Columbia",
+    "recommendation": "A full-size concrete replica of Stonehenge overlooking the Columbia River, built by businessman Sam Hill starting in 1918 as a memorial to Klickitat County soldiers killed in World War I and completed in 1929. Astronomically aligned like the original, and still open to visitors — free, 24/7.",
+    "creator": "@kennypleasant",
+    "reel_title": "Top 5 hidden gems in Washington you probably didn't know about",
+    "reel_theme": "Top 5 hidden gems in Washington"
+   }
+  },
+  {
+   "from": "place:maryhill-stonehenge-wa",
+   "to": "theme:landmark-full-size-concrete-stonehenge-replica-on-the-columbia",
    "type": "BEST_FOR",
    "properties": {}
   }
