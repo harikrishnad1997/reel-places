@@ -21179,6 +21179,37 @@
    }
   },
   {
+   "id": "reel:DfkRI3Cvclp",
+   "type": "Reel",
+   "properties": {
+    "name": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "url": "https://www.instagram.com/reel/DfkRI3Cvclp/",
+    "title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "creator": "@midwesttravelmama",
+    "theme": "2-day Shawnee National Forest itinerary",
+    "places_count": 9,
+    "recommendation_summary": "A 2-day, adventure-packed weekend road trip through Southern Illinois and the Shawnee National Forest, about 2 hours from St. Louis. Day 1: Cave-in-Rock, Rim Rock, Garden of the Gods, Tunnel Hill, overnight in Carbondale (Boo Park). Day 2: Ferne Clyffe, Giant City, Pomona Natural Bridge, and the Little Grand Canyon if you're not hiked out. Most stops are kid-friendly short hikes with big views.",
+    "posted": "2026-11-10",
+    "added": "2026-11-12"
+   }
+  },
+  {
+   "id": "creator:midwesttravelmama",
+   "type": "Creator",
+   "properties": {
+    "name": "@midwesttravelmama",
+    "handle": "@midwesttravelmama",
+    "display_name": "Kristen"
+   }
+  },
+  {
+   "id": "theme:2-day-shawnee-national-forest-itinerary",
+   "type": "Theme",
+   "properties": {
+    "name": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -46915,6 +46946,200 @@
    "properties": {
     "name": "Landmark / Full-size concrete Stonehenge replica on the Columbia"
    }
+  },
+  {
+   "id": "place:rim-rock-trail-il",
+   "type": "Place",
+   "properties": {
+    "name": "Rim Rock National Recreation Trail",
+    "place_id": "rim-rock-trail-il",
+    "site": "Shawnee National Forest",
+    "city": "Karbers Ridge",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.60072,
+    "lng": -88.27733,
+    "google_maps_query": "Rim+Rock+National+Recreation+Trail+IL",
+    "best_for": "Hike / Sandstone bluff rim trail with Ox-Lot Cave",
+    "note": "Coordinates: trailhead 37.60072,-88.27733 (poppinupusa; USFS 37.602182,-88.278264 agrees). AllTrails Rim Rock Recreational Trail: 1.6 km circular, moderate. Note: as of Oct 2026 the observation-deck stairs are temporarily inaccessible."
+   }
+  },
+  {
+   "id": "site:shawnee-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Shawnee National Forest"
+   }
+  },
+  {
+   "id": "place:garden-of-the-gods-il",
+   "type": "Place",
+   "properties": {
+    "name": "Garden of the Gods",
+    "place_id": "garden-of-the-gods-il",
+    "site": "Shawnee National Forest",
+    "city": "Herod",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.60463,
+    "lng": -88.38436,
+    "google_maps_query": "Garden+of+the+Gods+Shawnee+National+Forest+IL",
+    "best_for": "Hike / Panoramic sandstone formations",
+    "note": "Coordinates: Observation Trail trailhead 37.60463,-88.38436 (poppinupusa; USFS 37.6025,-88.37944444 agrees). AllTrails Garden of the Gods Observation Trail: 0.5 mi loop, easy. Not the Colorado Garden of the Gods."
+   }
+  },
+  {
+   "id": "place:tunnel-hill-il",
+   "type": "Place",
+   "properties": {
+    "name": "Tunnel Hill",
+    "place_id": "tunnel-hill-il",
+    "site": "Tunnel Hill State Trail",
+    "city": "Tunnel Hill",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.523382,
+    "lng": -88.838482,
+    "google_maps_query": "Tunnel+Hill+State+Trail+IL",
+    "best_for": "Hike / 543-ft historic rail tunnel",
+    "note": "Coordinates: 37.523382,-88.838482 (Tunnel Hill 100 aid station; mapcarta 37.52366,-88.83868 agrees). Tunnel built 1872, 543 ft after a 1929 collapse shortened it. AllTrails Tunnel Hill State Trail: 55.8 mi point-to-point, near Vienna."
+   }
+  },
+  {
+   "id": "site:tunnel-hill-state-trail",
+   "type": "Site",
+   "properties": {
+    "name": "Tunnel Hill State Trail"
+   }
+  },
+  {
+   "id": "place:ferne-clyffe-state-park-il",
+   "type": "Place",
+   "properties": {
+    "name": "Ferne Clyffe State Park",
+    "place_id": "ferne-clyffe-state-park-il",
+    "site": "Ferne Clyffe State Park",
+    "city": "Goreville",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.533636,
+    "lng": -88.98127,
+    "google_maps_query": "Ferne+Clyffe+State+Park+IL",
+    "best_for": "Hike / Narrow mossy canyon with a 100-ft waterfall",
+    "note": "Coordinates: 37.533636,-88.98127 (IDNR place record; Wikipedia 37.52944,-88.98278 agrees). AllTrails Big Rocky Hollow Trail: 0.8 mi out-and-back, easy. The waterfall is intermittent — best after rain."
+   }
+  },
+  {
+   "id": "site:ferne-clyffe-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Ferne Clyffe State Park"
+   }
+  },
+  {
+   "id": "place:giant-city-state-park-il",
+   "type": "Place",
+   "properties": {
+    "name": "Giant City State Park",
+    "place_id": "giant-city-state-park-il",
+    "site": "Giant City State Park",
+    "city": "Makanda",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.605,
+    "lng": -89.18833,
+    "google_maps_query": "Giant+City+State+Park+IL",
+    "best_for": "Hike / Slot-canyon streets between giant sandstone blocks",
+    "note": "Coordinates: 37.605,-89.18833 (Wikipedia; huntillinois 37.60134,-89.18872 agrees). AllTrails Giant City Nature Trail: 1.1 mi loop, easy."
+   }
+  },
+  {
+   "id": "site:giant-city-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Giant City State Park"
+   }
+  },
+  {
+   "id": "place:pomona-natural-bridge-il",
+   "type": "Place",
+   "properties": {
+    "name": "Pomona Natural Bridge",
+    "place_id": "pomona-natural-bridge-il",
+    "site": "Shawnee National Forest",
+    "city": "Pomona",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.6490139,
+    "lng": -89.338944,
+    "google_maps_query": "Pomona+Natural+Bridge+IL",
+    "best_for": "Hike / 90-ft natural sandstone arch you can walk across",
+    "note": "Coordinates: 37.6490139,-89.338944 (Wikipedia; aroundus 37.6486,-89.3433 and trailhead 37.64844,-89.34305 agree). AllTrails Pomona Natural Bridge Trail: 0.3 mi loop, moderate."
+   }
+  },
+  {
+   "id": "place:little-grand-canyon-il",
+   "type": "Place",
+   "properties": {
+    "name": "Little Grand Canyon",
+    "place_id": "little-grand-canyon-il",
+    "site": "Shawnee National Forest",
+    "city": "Murphysboro",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.68052,
+    "lng": -89.39484,
+    "google_maps_query": "Little+Grand+Canyon+Shawnee+National+Forest+IL",
+    "best_for": "Hike / 3.4-mi descent into a deep sandstone box canyon",
+    "note": "Coordinates: trailhead 37.68052,-89.39484 (trailforks; Illinois Extension 37.68029,-89.39511 agrees). AllTrails Little Grand Canyon Trail: 3.0 mi loop, moderate. Reel says 3.4 miles."
+   }
+  },
+  {
+   "id": "place:boo-park-carbondale-il",
+   "type": "Place",
+   "properties": {
+    "name": "Boo Park",
+    "place_id": "boo-park-carbondale-il",
+    "site": "Jeremy 'Boo' Rochman Memorial Park",
+    "city": "Carbondale",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 37.686724,
+    "lng": -89.175451,
+    "google_maps_query": "Jeremy+Boo+Rochman+Memorial+Park+Carbondale+IL",
+    "best_for": "Park / Free fantasy castle playground",
+    "note": "Coordinates: 37.686724,-89.175451 (place record, 31 Homewood Dr, Carbondale). No trail — no AllTrails link."
+   }
+  },
+  {
+   "id": "site:jeremy-boo-rochman-memorial-park",
+   "type": "Site",
+   "properties": {
+    "name": "Jeremy 'Boo' Rochman Memorial Park"
+   }
+  },
+  {
+   "id": "theme:park-free-fantasy-castle-playground",
+   "type": "Theme",
+   "properties": {
+    "name": "Park / Free fantasy castle playground"
+   }
   }
  ],
  "edges": [
@@ -59845,6 +60070,18 @@
   {
    "from": "reel:DfoD47gCbWZ",
    "to": "theme:top-5-hidden-gems-in-washington",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkRI3Cvclp",
+   "to": "creator:midwesttravelmama",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfkRI3Cvclp",
+   "to": "theme:2-day-shawnee-national-forest-itinerary",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -81285,6 +81522,25 @@
   {
    "from": "place:cave-in-rock-il",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cave-in-rock-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Large riverfront cave on the Ohio River",
+    "recommendation": "Day 1 opener of her 2-day Shawnee road trip: the large riverfront cave at Cave-in-Rock State Park on the Ohio River — the caption calls it 'Cave Rock State Park', but the actual name is Cave-in-Rock.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:cave-in-rock-il",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -132959,6 +133215,260 @@
   {
    "from": "place:maryhill-stonehenge-wa",
    "to": "theme:landmark-full-size-concrete-stonehenge-replica-on-the-columbia",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:rim-rock-trail-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:rim-rock-trail-il",
+   "to": "site:shawnee-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:rim-rock-trail-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike / Sandstone bluff rim trail with Ox-Lot Cave",
+    "recommendation": "Illinois' only National Recreation Trail — a 0.8-mile paved upper loop along the rim of a sandstone bluff past a prehistoric stone wall and overlooks of Pounds Hollow, with a lower trail dropping to the massive Ox-Lot Cave. About 20 minutes, and one of the most scenic short hikes in the Shawnee.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:rim-rock-trail-il",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:garden-of-the-gods-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:garden-of-the-gods-il",
+   "to": "site:shawnee-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:garden-of-the-gods-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Hike / Panoramic sandstone formations",
+    "recommendation": "The Observation Trail — a 1/4-mile flagstone loop through unique sandstone formations (Camel Rock, Anvil Rock, Mushroom Rock, Devil's Smokestack) with panoramic views over the Garden of the Gods Wilderness. About 20 minutes and one of the most photographed spots in Illinois.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:garden-of-the-gods-il",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:tunnel-hill-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:tunnel-hill-il",
+   "to": "site:tunnel-hill-state-trail",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:tunnel-hill-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Hike / 543-ft historic rail tunnel",
+    "recommendation": "Walk through the 543-foot dark railroad tunnel on the 45-mile Tunnel Hill State Trail rail-trail — bring a light, and the trailhead at Tunnel Hill has parking and the Sandburn Junction shop just south of the tunnel. About an hour, and the tunnel is the reason the trail (and the town) got its name.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:tunnel-hill-il",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ferne-clyffe-state-park-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ferne-clyffe-state-park-il",
+   "to": "site:ferne-clyffe-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ferne-clyffe-state-park-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Hike / Narrow mossy canyon with a 100-ft waterfall",
+    "recommendation": "A 2,430-acre park of limestone bluffs, cliff caves and seasonal waterfalls — the Big Rocky Hollow Trail is an easy 0.75-mile walk through a narrowing mossy canyon to a 100-foot intermittent waterfall, and Hawk's Cave is the largest rock shelter in Illinois. Day 2 opener of her Shawnee road trip.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:ferne-clyffe-state-park-il",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ferne-clyffe-state-park-il",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:giant-city-state-park-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:giant-city-state-park-il",
+   "to": "site:giant-city-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:giant-city-state-park-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Hike / Slot-canyon streets between giant sandstone blocks",
+    "recommendation": "A 4,000-acre park where the Giant City Nature Trail winds a 1.1-mile loop through narrow 'streets' between massive sandstone blocks, past the Devil's Standtable and CCC-built stone steps. About 30 minutes and very kid-friendly — her Day 2 stop after Ferne Clyffe.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:giant-city-state-park-il",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:pomona-natural-bridge-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:pomona-natural-bridge-il",
+   "to": "site:shawnee-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:pomona-natural-bridge-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Hike / 90-ft natural sandstone arch you can walk across",
+    "recommendation": "A 0.3-mile loop through mature oak-hickory and beech forest to a 90-foot natural sandstone arch you can walk across, with a small stream flowing beneath it. About 30 minutes — a big payoff for a very short hike.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:pomona-natural-bridge-il",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:little-grand-canyon-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:little-grand-canyon-il",
+   "to": "site:shawnee-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:little-grand-canyon-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Hike / 3.4-mi descent into a deep sandstone box canyon",
+    "recommendation": "The optional Day 2 closer, if you're not hiked out by then: a 3.4-mile loop (AllTrails lists 3.0 mi) dropping about 350 feet into a deep sandstone box canyon on the Big Muddy River, with Chalk Bluff Overlook views across the Mississippi floodplain. The only longer hike of the trip — most of the others are 30 minutes or less.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:little-grand-canyon-il",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:boo-park-carbondale-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:boo-park-carbondale-il",
+   "to": "site:jeremy-boo-rochman-memorial-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:boo-park-carbondale-il",
+   "to": "reel:DfkRI3Cvclp",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Park / Free fantasy castle playground",
+    "recommendation": "Her Day 1 overnight stop in Carbondale — don't miss it: a free, Dungeons & Dragons-themed fantasy park with a wooden castle, dragons and wizards, built as a memorial to 19-year-old Jeremy 'Boo' Rochman and opened in 2005. Open daily 9 AM–8 PM.",
+    "creator": "@midwesttravelmama",
+    "reel_title": "2-day Shawnee National Forest road trip — Southern Illinois",
+    "reel_theme": "2-day Shawnee National Forest itinerary"
+   }
+  },
+  {
+   "from": "place:boo-park-carbondale-il",
+   "to": "theme:park-free-fantasy-castle-playground",
    "type": "BEST_FOR",
    "properties": {}
   }
