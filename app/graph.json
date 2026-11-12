@@ -21285,6 +21285,28 @@
    }
   },
   {
+   "id": "reel:DfpwUFhtKNd",
+   "type": "Reel",
+   "properties": {
+    "name": "Saddle Lake Trail — a quiet lake loop in the Hoosier National Forest",
+    "url": "https://www.instagram.com/reel/DfpwUFhtKNd/",
+    "title": "Saddle Lake Trail — a quiet lake loop in the Hoosier National Forest",
+    "creator": "@wanderingwithcourtney",
+    "theme": "Quiet lake loop in southern Indiana",
+    "places_count": 1,
+    "recommendation_summary": "A quieter hiking spot in southern Indiana: the 2.4-mile Saddle Lake Trail loop in the Hoosier National Forest near Tell City — hiking-only, easy rolling terrain, lake views through hardwoods and evergreens, with boat-ramp parking, a vault toilet, and primitive camping nearby.",
+    "posted": "2026-11-12",
+    "added": "2026-11-12"
+   }
+  },
+  {
+   "id": "theme:quiet-lake-loop-in-southern-indiana",
+   "type": "Theme",
+   "properties": {
+    "name": "Quiet lake loop in southern Indiana"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -47666,6 +47688,32 @@
    "properties": {
     "name": "Museum / Space museum with the Apollo 13 capsule and an SR-71"
    }
+  },
+  {
+   "id": "place:saddle-lake-trail-in",
+   "type": "Place",
+   "properties": {
+    "name": "Saddle Lake Trail",
+    "place_id": "saddle-lake-trail-in",
+    "site": "Saddle Lake Recreation Area",
+    "city": "Tell City",
+    "state": "Indiana",
+    "state_code": "IN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 38.059347,
+    "lng": -86.652621,
+    "google_maps_query": "Saddle+Lake+Trail+Hoosier+National+Forest+Tell+City+IN",
+    "best_for": "Hike / Quiet 2.4-mi lake loop in the Hoosier National Forest",
+    "note": "Coordinates: USFS Saddle Lake Trail GPS 38°3'33.649\"N, 86°39'9.435\"W (the rec area's other listings cluster at 38.060,-86.656). Length: reel and USFS say 2.4 mi; AllTrails lists the loop as 2.5 mi. Horses and bicycles are not permitted on this trail; only non-motorized or electric-motor boats on the lake."
+   }
+  },
+  {
+   "id": "site:saddle-lake-recreation-area",
+   "type": "Site",
+   "properties": {
+    "name": "Saddle Lake Recreation Area"
+   }
   }
  ],
  "edges": [
@@ -60644,6 +60692,18 @@
   {
    "from": "reel:Dfpl5OfP8iS",
    "to": "theme:artist-point-trail-yosemite",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfpwUFhtKNd",
+   "to": "creator:wanderingwithcourtney",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfpwUFhtKNd",
+   "to": "theme:quiet-lake-loop-in-southern-indiana",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -134577,6 +134637,37 @@
   {
    "from": "place:kansas-cosmosphere-ks",
    "to": "theme:museum-space-museum-with-the-apollo-13-capsule-and-an-sr-71",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:saddle-lake-trail-in",
+   "to": "state:united-states-in",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:saddle-lake-trail-in",
+   "to": "site:saddle-lake-recreation-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:saddle-lake-trail-in",
+   "to": "reel:DfpwUFhtKNd",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Quiet 2.4-mi lake loop in the Hoosier National Forest",
+    "recommendation": "A quieter hiking spot in southern Indiana: a 2.4-mile loop around Saddle Lake in the Saddle Lake Recreation Area of the Hoosier National Forest, near Tell City. A hiking-only trail on relatively easy, gently rolling terrain, with lake views through hardwoods and evergreens — they had the trail entirely to themselves. Park at the boat ramp, where the trail starts. A vault toilet is by the campground; there is no potable water, so bring your own. Fishing and non-motorized or electric-motor boating are permitted, and primitive camping is available nearby ($5/night). During hunting season, wear blaze orange.",
+    "creator": "@wanderingwithcourtney",
+    "reel_title": "Saddle Lake Trail — a quiet lake loop in the Hoosier National Forest",
+    "reel_theme": "Quiet lake loop in southern Indiana"
+   }
+  },
+  {
+   "from": "place:saddle-lake-trail-in",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
