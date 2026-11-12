@@ -21034,6 +21034,120 @@
    }
   },
   {
+   "id": "reel:DfXhxKut9UV",
+   "type": "Reel",
+   "properties": {
+    "name": "Beacon Rock Trail at Beacon Rock State Park",
+    "url": "https://www.instagram.com/reel/DfXhxKut9UV/",
+    "title": "Beacon Rock Trail at Beacon Rock State Park",
+    "creator": "@lauren_see",
+    "theme": "PNW hiking — Beacon Rock",
+    "places_count": 1,
+    "recommendation_summary": "Beacon Rock Trail at Beacon Rock State Park, on the Washington side of the Columbia River Gorge: a 1.5-mile, 595-ft-gain hike on secured planks and walkways wrapping around an 868-foot lava plug — remnant of a volcano that erupted 57,000 years ago — with 52 switchbacks and 360-degree Gorge views at the top.",
+    "posted": "2026-11-05",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "reel:DfnoB8tvjfz",
+   "type": "Reel",
+   "properties": {
+    "name": "What if we told you this national park is the otter capitol of the world?!",
+    "url": "https://www.instagram.com/reel/DfnoB8tvjfz/",
+    "title": "What if we told you this national park is the otter capitol of the world?!",
+    "creator": "@roamingwithtk",
+    "theme": "Glacier Bay day trip — otter capital of the world",
+    "places_count": 0,
+    "recommendation_summary": "Glacier Bay National Park — the 'otter capital of the world' — as a day trip: 15-minute flight Juneau to Gustavus, then the 8-hour ranger-narrated boat tour from Glacier Bay Lodge for otters, whales, puffins, sea lions, seals, mountain goats, eagles and calving glaciers.",
+    "posted": "2026-11-11",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "theme:glacier-bay-day-trip-otter-capital-of-the-world",
+   "type": "Theme",
+   "properties": {
+    "name": "Glacier Bay day trip — otter capital of the world"
+   }
+  },
+  {
+   "id": "reel:Dfh0yghmlRx",
+   "type": "Reel",
+   "properties": {
+    "name": "Underrated Chicago Museums (Part 3)",
+    "url": "https://www.instagram.com/p/Dfh0yghmlRx/",
+    "title": "Underrated Chicago Museums (Part 3)",
+    "creator": "@juicypjackson",
+    "theme": "Underrated Chicago museums — part 3",
+    "places_count": 8,
+    "recommendation_summary": "Round three of underrated Chicago museums: the free Chicago Fed Money Museum ($1 million cube) and Mindworks behavioral-science lab in the Loop, the $25 Graveface true-crime museum in Bucktown, the $16 American Writers Museum and free Design Museum of Chicago in the Loop, the Museum of Post Punk and Industrial Music in Bridgeport, the $25 Chicago Brand Museum in Motor Row, and the free Packingtown Museum in Back of the Yards.",
+    "posted": "2026-11-09",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "creator:juicypjackson",
+   "type": "Creator",
+   "properties": {
+    "name": "@juicypjackson",
+    "handle": "@juicypjackson",
+    "display_name": "Jack Pickard"
+   }
+  },
+  {
+   "id": "theme:underrated-chicago-museums-part-3",
+   "type": "Theme",
+   "properties": {
+    "name": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "id": "reel:Dfn69NutEFa",
+   "type": "Reel",
+   "properties": {
+    "name": "Virginia has its own little slot canyon",
+    "url": "https://www.instagram.com/reel/Dfn69NutEFa/",
+    "title": "Virginia has its own little slot canyon",
+    "creator": "@lafftravel",
+    "theme": "The Great Channels — Virginia's slot canyon",
+    "places_count": 0,
+    "recommendation_summary": "The Great Channels in Southwest Virginia — a maze of massive sandstone formations like a slot canyon — as a ~6-mile round-trip hike via the Brumley Mountain Trail from the Channels Natural Area Preserve near Abingdon, with a steady uphill climb and limited parking.",
+    "posted": "2026-11-11",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "theme:the-great-channels-virginia-s-slot-canyon",
+   "type": "Theme",
+   "properties": {
+    "name": "The Great Channels — Virginia's slot canyon"
+   }
+  },
+  {
+   "id": "reel:DfoP1KZpI3E",
+   "type": "Reel",
+   "properties": {
+    "name": "Sturtevant Falls Trail, CA",
+    "url": "https://www.instagram.com/reel/DfoP1KZpI3E/",
+    "title": "Sturtevant Falls Trail, CA",
+    "creator": "@gernerkate",
+    "theme": "Sturtevant Falls — San Gabriel Mountains",
+    "places_count": 1,
+    "recommendation_summary": "Sturtevant Falls Trail in the San Gabriel Mountains: a slight descent to a fifty-foot waterfall past manmade waterfalls and century-old cabins. Very easy and great with kids, but a 2/5 on a crowded weekend — the short loop near the waterfall is the quieter, better walk, with mountain views and streams.",
+    "posted": "2026-11-11",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "creator:gernerkate",
+   "type": "Creator",
+   "properties": {
+    "name": "@gernerkate",
+    "handle": "@gernerkate",
+    "display_name": "Kate Gerner"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -46324,6 +46438,322 @@
    "properties": {
     "name": "Landmark / 1895 Flemish Renaissance city hall with an 8-story atrium"
    }
+  },
+  {
+   "id": "place:beacon-rock-trail-wa",
+   "type": "Place",
+   "properties": {
+    "name": "Beacon Rock Trail",
+    "place_id": "beacon-rock-trail-wa",
+    "site": "Beacon Rock State Park",
+    "city": "Skamania",
+    "state": "Washington",
+    "state_code": "WA",
+    "region": "Pacific Northwest",
+    "country": "United States",
+    "lat": 45.62864,
+    "lng": -122.02226,
+    "google_maps_query": "Beacon+Rock+Trail+Beacon+Rock+State+Park+WA",
+    "best_for": "Hike / Switchbacks and plank walkways up an 868-ft lava plug",
+    "note": "Coordinates: Beacon Rock Trailhead lot GPS 45.62864,-122.02226 (beaconrockpark.com); hikespeak 45.62854,-122.02222 agrees. Summit 45.62778,-122.01944. AllTrails Beacon Rock Trail: 1.8 mi out-and-back, 580 ft, 1–1.5 hr. Trail closed Tue–Thu Oct–May for deck replacement (AllTrails, Oct 2026)."
+   }
+  },
+  {
+   "id": "site:beacon-rock-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Beacon Rock State Park"
+   }
+  },
+  {
+   "id": "place:chicago-fed-money-museum-il",
+   "type": "Place",
+   "properties": {
+    "name": "Chicago Fed Money Museum",
+    "place_id": "chicago-fed-money-museum-il",
+    "site": "Chicago Fed Money Museum",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.878339,
+    "lng": -87.632844,
+    "google_maps_query": "Chicago+Fed+Money+Museum+Chicago+IL",
+    "best_for": "Museum / Free interactive money museum with a $1 million cube",
+    "note": "Coordinates: official place record 41.878339,-87.632844, 230 S LaSalle St, Chicago."
+   }
+  },
+  {
+   "id": "site:chicago-fed-money-museum",
+   "type": "Site",
+   "properties": {
+    "name": "Chicago Fed Money Museum"
+   }
+  },
+  {
+   "id": "theme:museum-free-interactive-money-museum-with-a-1-million-cube",
+   "type": "Theme",
+   "properties": {
+    "name": "Museum / Free interactive money museum with a $1 million cube"
+   }
+  },
+  {
+   "id": "place:mindworks-science-of-thinking-il",
+   "type": "Place",
+   "properties": {
+    "name": "Mindworks: The Science of Thinking",
+    "place_id": "mindworks-science-of-thinking-il",
+    "site": "Mindworks: The Science of Thinking",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.878453,
+    "lng": -87.624903,
+    "google_maps_query": "Mindworks+The+Science+of+Thinking+Chicago+IL",
+    "best_for": "Museum / Interactive behavioral-science lab and museum",
+    "note": "Coordinates: official place record 41.878453,-87.624903, 224 S Michigan Ave, Chicago."
+   }
+  },
+  {
+   "id": "site:mindworks-the-science-of-thinking",
+   "type": "Site",
+   "properties": {
+    "name": "Mindworks: The Science of Thinking"
+   }
+  },
+  {
+   "id": "theme:museum-interactive-behavioral-science-lab-and-museum",
+   "type": "Theme",
+   "properties": {
+    "name": "Museum / Interactive behavioral-science lab and museum"
+   }
+  },
+  {
+   "id": "place:graveface-museum-il",
+   "type": "Place",
+   "properties": {
+    "name": "Graveface Museum",
+    "place_id": "graveface-museum-il",
+    "site": "Graveface Museum",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.914611,
+    "lng": -87.683806,
+    "google_maps_query": "Graveface+Museum+Chicago+IL",
+    "best_for": "Museum / Macabre true-crime and oddities museum",
+    "note": "Coordinates: official place record 41.914611,-87.683806, 1829 N Milwaukee Ave, Chicago (the Bucktown location; the original Graveface Museum is in Savannah, GA)."
+   }
+  },
+  {
+   "id": "site:graveface-museum",
+   "type": "Site",
+   "properties": {
+    "name": "Graveface Museum"
+   }
+  },
+  {
+   "id": "theme:museum-macabre-true-crime-and-oddities-museum",
+   "type": "Theme",
+   "properties": {
+    "name": "Museum / Macabre true-crime and oddities museum"
+   }
+  },
+  {
+   "id": "place:american-writers-museum-il",
+   "type": "Place",
+   "properties": {
+    "name": "American Writers Museum",
+    "place_id": "american-writers-museum-il",
+    "site": "American Writers Museum",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.885622,
+    "lng": -87.624912,
+    "google_maps_query": "American+Writers+Museum+Chicago+IL",
+    "best_for": "Museum / Interactive museum of American literature",
+    "note": "Coordinates: official place record 41.885622,-87.624912, 180 N Michigan Ave, Chicago (Wikipedia 41.885553,-87.624831 agrees)."
+   }
+  },
+  {
+   "id": "site:american-writers-museum",
+   "type": "Site",
+   "properties": {
+    "name": "American Writers Museum"
+   }
+  },
+  {
+   "id": "theme:museum-interactive-museum-of-american-literature",
+   "type": "Theme",
+   "properties": {
+    "name": "Museum / Interactive museum of American literature"
+   }
+  },
+  {
+   "id": "place:design-museum-of-chicago-il",
+   "type": "Place",
+   "properties": {
+    "name": "Design Museum of Chicago",
+    "place_id": "design-museum-of-chicago-il",
+    "site": "Design Museum of Chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.884679,
+    "lng": -87.625452,
+    "google_maps_query": "Design+Museum+of+Chicago+IL",
+    "best_for": "Museum / Free museum of everyday design",
+    "note": "Coordinates: official place record 41.884679,-87.625452, 72 E Randolph St, Chicago (allevents 41.8846213,-87.6254257 agrees)."
+   }
+  },
+  {
+   "id": "site:design-museum-of-chicago",
+   "type": "Site",
+   "properties": {
+    "name": "Design Museum of Chicago"
+   }
+  },
+  {
+   "id": "theme:museum-free-museum-of-everyday-design",
+   "type": "Theme",
+   "properties": {
+    "name": "Museum / Free museum of everyday design"
+   }
+  },
+  {
+   "id": "place:museum-of-post-punk-and-industrial-music-il",
+   "type": "Place",
+   "properties": {
+    "name": "Museum of Post Punk and Industrial Music",
+    "place_id": "museum-of-post-punk-and-industrial-music-il",
+    "site": "Museum of Post Punk and Industrial Music",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.834229,
+    "lng": -87.648334,
+    "google_maps_query": "Museum+of+Post+Punk+and+Industrial+Music+Chicago+IL",
+    "best_for": "Museum / Post-punk and industrial music archive",
+    "note": "Coordinates: official place record 41.834229,-87.648334, 3319 S Lituanica Ave, Chicago (near 33rd and Halsted, Bridgeport)."
+   }
+  },
+  {
+   "id": "site:museum-of-post-punk-and-industrial-music",
+   "type": "Site",
+   "properties": {
+    "name": "Museum of Post Punk and Industrial Music"
+   }
+  },
+  {
+   "id": "theme:museum-post-punk-and-industrial-music-archive",
+   "type": "Theme",
+   "properties": {
+    "name": "Museum / Post-punk and industrial music archive"
+   }
+  },
+  {
+   "id": "place:chicago-brand-museum-il",
+   "type": "Place",
+   "properties": {
+    "name": "Chicago Brand Museum",
+    "place_id": "chicago-brand-museum-il",
+    "site": "Chicago Brand Museum",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.848834,
+    "lng": -87.623993,
+    "google_maps_query": "Chicago+Brand+Museum+Chicago+IL",
+    "best_for": "Museum / Vintage brand packaging collection",
+    "note": "Coordinates: official place record 41.848834,-87.623993, 2412 S Michigan Ave, Chicago."
+   }
+  },
+  {
+   "id": "site:chicago-brand-museum",
+   "type": "Site",
+   "properties": {
+    "name": "Chicago Brand Museum"
+   }
+  },
+  {
+   "id": "theme:museum-vintage-brand-packaging-collection",
+   "type": "Theme",
+   "properties": {
+    "name": "Museum / Vintage brand packaging collection"
+   }
+  },
+  {
+   "id": "place:packingtown-museum-il",
+   "type": "Place",
+   "properties": {
+    "name": "Packingtown Museum",
+    "place_id": "packingtown-museum-il",
+    "site": "Packingtown Museum",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 41.810664,
+    "lng": -87.660675,
+    "google_maps_query": "Packingtown+Museum+Chicago+IL",
+    "best_for": "Museum / Union Stock Yard and meatpacking history",
+    "note": "Coordinates: official place record 41.810664,-87.660675, 1400 W 46th St, Chicago (second floor of The Plant)."
+   }
+  },
+  {
+   "id": "site:packingtown-museum",
+   "type": "Site",
+   "properties": {
+    "name": "Packingtown Museum"
+   }
+  },
+  {
+   "id": "theme:museum-union-stock-yard-and-meatpacking-history",
+   "type": "Theme",
+   "properties": {
+    "name": "Museum / Union Stock Yard and meatpacking history"
+   }
+  },
+  {
+   "id": "place:sturtevant-falls-trail-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Sturtevant Falls Trail",
+    "place_id": "sturtevant-falls-trail-ca",
+    "site": "Angeles National Forest",
+    "city": "Sierra Madre",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 34.21166,
+    "lng": -118.01951,
+    "google_maps_query": "Sturtevant+Falls+Trail+Sierra+Madre+CA",
+    "best_for": "Hike / Waterfall trail past historic cabins in Santa Anita Canyon",
+    "note": "Coordinates: USGS falls position 34.21166,-118.01951 (Mount Wilson quad; waterfallhikes 34.211657,-118.019512 agrees); trailhead Chantry Flat 34.1955,-118.0225. AllTrails Sturtevant Falls Trail: 3.4 mi out-and-back, ~643 ft, 1.5–2 hr. Adventure Pass required at Chantry Flat; lot fills by ~8 AM weekends."
+   }
+  },
+  {
+   "id": "site:angeles-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Angeles National Forest"
+   }
   }
  ],
  "edges": [
@@ -59182,6 +59612,66 @@
   {
    "from": "reel:Dfnp2H5hKqe",
    "to": "theme:100-things-to-do-in-wisconsin",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfXhxKut9UV",
+   "to": "creator:lauren-see",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfXhxKut9UV",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfnoB8tvjfz",
+   "to": "creator:roamingwithtk",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfnoB8tvjfz",
+   "to": "theme:glacier-bay-day-trip-otter-capital-of-the-world",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfh0yghmlRx",
+   "to": "creator:juicypjackson",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfh0yghmlRx",
+   "to": "theme:underrated-chicago-museums-part-3",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfn69NutEFa",
+   "to": "creator:lafftravel",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfn69NutEFa",
+   "to": "theme:the-great-channels-virginia-s-slot-canyon",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfoP1KZpI3E",
+   "to": "creator:gernerkate",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfoP1KZpI3E",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -73661,6 +74151,19 @@
    "to": "theme:trip-planning",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:glacier-bay-national-park-and-preserve-ak",
+   "to": "reel:DfnoB8tvjfz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Wildlife / 8-hour ranger-narrated boat tour from Glacier Bay Lodge",
+    "recommendation": "The best way to experience Glacier Bay National Park is the 8-hour tour through Glacier Bay Lodge, narrated by a National Park Service Ranger. Fly 15 minutes from Juneau to Gustavus, then watch for otters, whales, puffins, sea lions, seals, mountain goats and eagles — plus massive glaciers so close you can hear them crack. Don't forget your binoculars.",
+    "creator": "@roamingwithtk",
+    "reel_title": "What if we told you this national park is the otter capitol of the world?!",
+    "reel_theme": "Glacier Bay day trip — otter capital of the world"
+   }
   },
   {
    "from": "place:holei-arch-hi",
@@ -126430,6 +126933,19 @@
    "properties": {}
   },
   {
+   "from": "place:great-channels-va",
+   "to": "reel:Dfn69NutEFa",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Sandstone slot-canyon maze atop Middle Knob",
+    "recommendation": "Virginia has its own little slot canyon — a maze of massive sandstone formations that looks like something you'd expect to find out West. The hike is roughly 6 miles round trip via the Brumley Mountain Trail from the Channels Natural Area Preserve near Abingdon, with a steady uphill climb before reaching the rock formations. Parking is limited, so arrive early, especially on weekends.",
+    "creator": "@lafftravel",
+    "reel_title": "Virginia has its own little slot canyon",
+    "reel_theme": "The Great Channels — Virginia's slot canyon"
+   }
+  },
+  {
    "from": "place:natural-bridge-va",
    "to": "state:usa-va",
    "type": "LOCATED_IN",
@@ -131799,6 +132315,322 @@
   {
    "from": "place:milwaukee-city-hall-wi",
    "to": "theme:landmark-1895-flemish-renaissance-city-hall-with-an-8-story-atrium",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:beacon-rock-trail-wa",
+   "to": "state:united-states-wa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:beacon-rock-trail-wa",
+   "to": "site:beacon-rock-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:beacon-rock-trail-wa",
+   "to": "reel:DfXhxKut9UV",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Switchbacks and plank walkways up an 868-ft lava plug",
+    "recommendation": "Hike on secured planks and walkways that wrap around an old lava plug in the PNW — Beacon Rock is the remnant of a volcano that erupted 57,000 years ago. The 1.5-mile trail (595 ft gain) climbs 52 switchbacks with metal handrails to 360-degree views over the Columbia River Gorge. Easy, but expect switchbacks and uneven surfaces, and it may be tough if you're afraid of heights. Dog friendly (dogs walk the planks too). Discover Pass or $5 day pass required.",
+    "creator": "@lauren_see",
+    "reel_title": "Beacon Rock Trail at Beacon Rock State Park",
+    "reel_theme": "PNW hiking — Beacon Rock"
+   }
+  },
+  {
+   "from": "place:beacon-rock-trail-wa",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-fed-money-museum-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-fed-money-museum-il",
+   "to": "site:chicago-fed-money-museum",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-fed-money-museum-il",
+   "to": "reel:Dfh0yghmlRx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Museum / Free interactive money museum with a $1 million cube",
+    "recommendation": "Free, interactive money museum inside the Federal Reserve Bank of Chicago in the Financial District: marvel at the Cube of Cash — a million one-dollar bills in a clear-sided cube — pose with a briefcase of $1 million in hundreds, and take home a complimentary bag of shredded currency. Photo ID and metal-detector screening required; open weekdays.",
+    "creator": "@juicypjackson",
+    "reel_title": "Underrated Chicago Museums (Part 3)",
+    "reel_theme": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "from": "place:chicago-fed-money-museum-il",
+   "to": "theme:museum-free-interactive-money-museum-with-a-1-million-cube",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mindworks-science-of-thinking-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mindworks-science-of-thinking-il",
+   "to": "site:mindworks-the-science-of-thinking",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mindworks-science-of-thinking-il",
+   "to": "reel:Dfh0yghmlRx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Museum / Interactive behavioral-science lab and museum",
+    "recommendation": "Free in the Loop, across from the Art Institute: the world's first lab and interactive museum dedicated to behavioral science. Hands-on exhibits on how the mind makes decisions — biases, first impressions, goal-setting — and you can take part in real research studies run by the University of Chicago Booth School of Business.",
+    "creator": "@juicypjackson",
+    "reel_title": "Underrated Chicago Museums (Part 3)",
+    "reel_theme": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "from": "place:mindworks-science-of-thinking-il",
+   "to": "theme:museum-interactive-behavioral-science-lab-and-museum",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:graveface-museum-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:graveface-museum-il",
+   "to": "site:graveface-museum",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:graveface-museum-il",
+   "to": "reel:Dfh0yghmlRx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Museum / Macabre true-crime and oddities museum",
+    "recommendation": "$25 in Bucktown: a macabre space devoted to serial killers, occult history and oddities, including John Wayne Gacy artifacts. The Chicago shop-and-museum at 1829 N Milwaukee Ave pairs the collection with the Graveface record label and Terror Vision storefront.",
+    "creator": "@juicypjackson",
+    "reel_title": "Underrated Chicago Museums (Part 3)",
+    "reel_theme": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "from": "place:graveface-museum-il",
+   "to": "theme:museum-macabre-true-crime-and-oddities-museum",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:american-writers-museum-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:american-writers-museum-il",
+   "to": "site:american-writers-museum",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:american-writers-museum-il",
+   "to": "reel:Dfh0yghmlRx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Museum / Interactive museum of American literature",
+    "recommendation": "$16 for adults in the Loop: the first museum in the country dedicated to American writers, celebrating authors through interactives — vintage typewriters you can use, the Word Waterfall, and the Nation of Writers Gallery tracing four centuries of American writing.",
+    "creator": "@juicypjackson",
+    "reel_title": "Underrated Chicago Museums (Part 3)",
+    "reel_theme": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "from": "place:american-writers-museum-il",
+   "to": "theme:museum-interactive-museum-of-american-literature",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:design-museum-of-chicago-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:design-museum-of-chicago-il",
+   "to": "site:design-museum-of-chicago",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:design-museum-of-chicago-il",
+   "to": "reel:Dfh0yghmlRx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Museum / Free museum of everyday design",
+    "recommendation": "Free in the Loop at Expo 72, across from the Chicago Cultural Center: a volunteer-run museum exploring everyday design — graphic, industrial, architectural and fashion — through rotating shows like the Chicago typefaces exhibit and the Hall of Flags.",
+    "creator": "@juicypjackson",
+    "reel_title": "Underrated Chicago Museums (Part 3)",
+    "reel_theme": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "from": "place:design-museum-of-chicago-il",
+   "to": "theme:museum-free-museum-of-everyday-design",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:museum-of-post-punk-and-industrial-music-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:museum-of-post-punk-and-industrial-music-il",
+   "to": "site:museum-of-post-punk-and-industrial-music",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:museum-of-post-punk-and-industrial-music-il",
+   "to": "reel:Dfh0yghmlRx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Museum / Post-punk and industrial music archive",
+    "recommendation": "In Bridgeport near 33rd and Halsted: an underground music shrine archiving Nine Inch Nails and Ministry memorabilia — a smashed Nine Inch Nails guitar, original artwork and tour ephemera — with intimate guided tours led by founder Martin Atkins and a hands-on Producer Experience. Variable pricing; exact address shared with ticket holders.",
+    "creator": "@juicypjackson",
+    "reel_title": "Underrated Chicago Museums (Part 3)",
+    "reel_theme": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "from": "place:museum-of-post-punk-and-industrial-music-il",
+   "to": "theme:museum-post-punk-and-industrial-music-archive",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-brand-museum-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-brand-museum-il",
+   "to": "site:chicago-brand-museum",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:chicago-brand-museum-il",
+   "to": "reel:Dfh0yghmlRx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Museum / Vintage brand packaging collection",
+    "recommendation": "$25 in Motor Row, on the top floor of Chicago's first Cadillac dealership (1909): over 15,000 historic packages — early ice-cream boxes, the original real-potato Mr. Potato Head setup, a Juicy Fruit pack from the 1893 World's Fair — with phone scans unlocking archival details and vintage commercials.",
+    "creator": "@juicypjackson",
+    "reel_title": "Underrated Chicago Museums (Part 3)",
+    "reel_theme": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "from": "place:chicago-brand-museum-il",
+   "to": "theme:museum-vintage-brand-packaging-collection",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:packingtown-museum-il",
+   "to": "state:united-states-il",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:packingtown-museum-il",
+   "to": "site:packingtown-museum",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:packingtown-museum-il",
+   "to": "reel:Dfh0yghmlRx",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 8,
+    "best_for": "Museum / Union Stock Yard and meatpacking history",
+    "recommendation": "Free in Back of the Yards, on the second floor of The Plant at 1400 W 46th St: the museum preserving the industrial history and cultural heritage of Chicago's Union Stock Yard and surrounding neighborhoods — the meatpacking past that made Chicago the 'Hog Butcher to the World'.",
+    "creator": "@juicypjackson",
+    "reel_title": "Underrated Chicago Museums (Part 3)",
+    "reel_theme": "Underrated Chicago museums — part 3"
+   }
+  },
+  {
+   "from": "place:packingtown-museum-il",
+   "to": "theme:museum-union-stock-yard-and-meatpacking-history",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sturtevant-falls-trail-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:sturtevant-falls-trail-ca",
+   "to": "site:angeles-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:sturtevant-falls-trail-ca",
+   "to": "reel:DfoP1KZpI3E",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Waterfall trail past historic cabins in Santa Anita Canyon",
+    "recommendation": "After a slight descent through the San Gabriel Mountains you reach a fifty-foot waterfall, passing manmade waterfalls and cabins over a hundred years old along the way. The main trail is very easy and great for a walk with kids — but on weekends it's very crowded and noisy, parking is hard to find, and she rated it 2 out of 5. The fix: turn onto the short loop near the waterfall — much better, quiet, with only a couple of people, mountain views and streams. Adventure Pass required to park at Chantry Flat.",
+    "creator": "@gernerkate",
+    "reel_title": "Sturtevant Falls Trail, CA",
+    "reel_theme": "Sturtevant Falls — San Gabriel Mountains"
+   }
+  },
+  {
+   "from": "place:sturtevant-falls-trail-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sturtevant-falls-trail-ca",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
