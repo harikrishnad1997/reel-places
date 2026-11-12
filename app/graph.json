@@ -21263,6 +21263,28 @@
    }
   },
   {
+   "id": "reel:Dfpl5OfP8iS",
+   "type": "Reel",
+   "properties": {
+    "name": "Artist Point Trail — a better Tunnel View without the crowds",
+    "url": "https://www.instagram.com/reel/Dfpl5OfP8iS/",
+    "title": "Artist Point Trail — a better Tunnel View without the crowds",
+    "creator": "@kelleyandcarlsadventures",
+    "theme": "Artist Point Trail, Yosemite",
+    "places_count": 1,
+    "recommendation_summary": "A crowd-free alternative to Tunnel View: the Artist Point Trail in Yosemite, 2.3 miles round trip with 761 feet of gain from the Tunnel View parking area — the same iconic valley view (El Capitan, Bridalveil Fall, Half Dome) with zero people on the trail.",
+    "posted": "2026-11-12",
+    "added": "2026-11-12"
+   }
+  },
+  {
+   "id": "theme:artist-point-trail-yosemite",
+   "type": "Theme",
+   "properties": {
+    "name": "Artist Point Trail, Yosemite"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -60610,6 +60632,18 @@
   {
    "from": "reel:DfkXozkBTZ2",
    "to": "theme:15-places-in-kansas-to-see-before-you-die",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfpl5OfP8iS",
+   "to": "creator:kelleyandcarlsadventures",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfpl5OfP8iS",
+   "to": "theme:artist-point-trail-yosemite",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -107879,6 +107913,25 @@
   {
    "from": "place:artist-point-yosemite-ca",
    "to": "theme:overlook-yosemite-highlight",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:artist-point-yosemite-ca",
+   "to": "reel:Dfpl5OfP8iS",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Tunnel View's view, better and crowd-free",
+    "recommendation": "The same view as Tunnel View — but better, and with zero people: a 2.3-mile round trip (761 ft gain, 1–2 hours) from the Tunnel View parking area to Artist Point, up the Pohono Trail and along the old Wawona Road. They stayed at the top for about 45 minutes and saw absolutely no one — one of Yosemite's most iconic landscapes all to themselves. Leave no trace.",
+    "creator": "@kelleyandcarlsadventures",
+    "reel_title": "Artist Point Trail — a better Tunnel View without the crowds",
+    "reel_theme": "Artist Point Trail, Yosemite"
+   }
+  },
+  {
+   "from": "place:artist-point-yosemite-ca",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   },
