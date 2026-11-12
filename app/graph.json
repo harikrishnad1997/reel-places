@@ -21012,6 +21012,28 @@
    }
   },
   {
+   "id": "reel:Dfnp2H5hKqe",
+   "type": "Reel",
+   "properties": {
+    "name": "Step inside Milwaukee's historic city hall and head to the 8th floor",
+    "url": "https://www.instagram.com/reel/Dfnp2H5hKqe/",
+    "title": "Step inside Milwaukee's historic city hall and head to the 8th floor",
+    "creator": "@themidwestguide",
+    "theme": "100 Things to Do in Wisconsin",
+    "places_count": 1,
+    "recommendation_summary": "Milwaukee City Hall (200 E. Wells St.) — completed 1895, Wisconsin's tallest building for 78 years, Flemish Renaissance, ~8 million bricks, mosaic and marble floors, an 8-story open atrium, and the 22,500-pound 'Solomon Juneau' bell. Free to explore weekdays 8 AM–4:45 PM.",
+    "posted": "2026-11-11",
+    "added": "2026-11-11"
+   }
+  },
+  {
+   "id": "theme:100-things-to-do-in-wisconsin",
+   "type": "Theme",
+   "properties": {
+    "name": "100 Things to Do in Wisconsin"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -46269,6 +46291,39 @@
    "properties": {
     "name": "Amnicon Falls State Park"
    }
+  },
+  {
+   "id": "place:milwaukee-city-hall-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Milwaukee City Hall",
+    "place_id": "milwaukee-city-hall-wi",
+    "site": "Milwaukee City Hall",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.0417,
+    "lng": -87.9098,
+    "google_maps_query": "Milwaukee+City+Hall+200+E+Wells+St+Milwaukee+WI",
+    "best_for": "Landmark / 1895 Flemish Renaissance city hall with an 8-story atrium",
+    "note": "Coordinates: Wikipedia Milwaukee City Hall 43.0417,-87.9098 (43°02′30″N 87°54′35″W); city record 43.04175,-87.90976 agrees. Part 77 of the creator's '100 Things to Do in Wisconsin' series."
+   }
+  },
+  {
+   "id": "site:milwaukee-city-hall",
+   "type": "Site",
+   "properties": {
+    "name": "Milwaukee City Hall"
+   }
+  },
+  {
+   "id": "theme:landmark-1895-flemish-renaissance-city-hall-with-an-8-story-atrium",
+   "type": "Theme",
+   "properties": {
+    "name": "Landmark / 1895 Flemish Renaissance city hall with an 8-story atrium"
+   }
   }
  ],
  "edges": [
@@ -59115,6 +59170,18 @@
   {
    "from": "reel:Dfn45p_xyOH",
    "to": "theme:winter-visit",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfnp2H5hKqe",
+   "to": "creator:themidwestguide",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfnp2H5hKqe",
+   "to": "theme:100-things-to-do-in-wisconsin",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -131701,6 +131768,37 @@
   {
    "from": "place:amnicon-falls-state-park-wi",
    "to": "theme:winter-visit",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:milwaukee-city-hall-wi",
+   "to": "state:united-states-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:milwaukee-city-hall-wi",
+   "to": "site:milwaukee-city-hall",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:milwaukee-city-hall-wi",
+   "to": "reel:Dfnp2H5hKqe",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Landmark / 1895 Flemish Renaissance city hall with an 8-story atrium",
+    "recommendation": "Step inside Milwaukee's historic city hall and head to the 8th floor. Completed in 1895, it was Wisconsin's tallest building for 78 years, until 1973. Its Flemish Renaissance architecture features approximately eight million bricks, beautiful mosaic and marble floors, and an impressive eight-story open atrium. Another fun detail: the tower's 22,500-pound bell is named 'Solomon Juneau' after Milwaukee's first mayor. Free to explore Mon–Fri 8 AM–4:45 PM; bell tower access requires a separate scheduled tour.",
+    "creator": "@themidwestguide",
+    "reel_title": "Step inside Milwaukee's historic city hall and head to the 8th floor",
+    "reel_theme": "100 Things to Do in Wisconsin"
+   }
+  },
+  {
+   "from": "place:milwaukee-city-hall-wi",
+   "to": "theme:landmark-1895-flemish-renaissance-city-hall-with-an-8-story-atrium",
    "type": "BEST_FOR",
    "properties": {}
   }
