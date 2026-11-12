@@ -21210,6 +21210,37 @@
    }
   },
   {
+   "id": "reel:DfpOyHwN9Ke",
+   "type": "Reel",
+   "properties": {
+    "name": "Hemlock Cliffs Trail — an Indiana hidden gem in Hoosier National Forest",
+    "url": "https://www.instagram.com/reel/DfpOyHwN9Ke/",
+    "title": "Hemlock Cliffs Trail — an Indiana hidden gem in Hoosier National Forest",
+    "creator": "@wanderingwithcourtney",
+    "theme": "Indiana hidden gem — Hemlock Cliffs",
+    "places_count": 1,
+    "recommendation_summary": "An Indiana hidden gem that looks like it belongs in the mountains: the Hemlock Cliffs Trail in Hoosier National Forest, Crawford County — a 1.4-mile moderate loop down into a sandstone box canyon with rock shelters, seasonal waterfalls and a shaded stream, best after rain.",
+    "posted": "2026-11-12",
+    "added": "2026-11-12"
+   }
+  },
+  {
+   "id": "creator:wanderingwithcourtney",
+   "type": "Creator",
+   "properties": {
+    "name": "@wanderingwithcourtney",
+    "handle": "@wanderingwithcourtney",
+    "display_name": "Courtney Beach"
+   }
+  },
+  {
+   "id": "theme:indiana-hidden-gem-hemlock-cliffs",
+   "type": "Theme",
+   "properties": {
+    "name": "Indiana hidden gem — Hemlock Cliffs"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -47140,6 +47171,32 @@
    "properties": {
     "name": "Park / Free fantasy castle playground"
    }
+  },
+  {
+   "id": "place:hemlock-cliffs-trail-in",
+   "type": "Place",
+   "properties": {
+    "name": "Hemlock Cliffs Trail",
+    "place_id": "hemlock-cliffs-trail-in",
+    "site": "Hoosier National Forest",
+    "city": "English",
+    "state": "Indiana",
+    "state_code": "IN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 38.277438,
+    "lng": -86.538977,
+    "google_maps_query": "Hemlock+Cliffs+Trail+Hoosier+National+Forest+IN",
+    "best_for": "Hike / Sandstone box canyon with rock shelters and seasonal waterfalls",
+    "note": "Coordinates: USFS 38°16'38.777\"N, 86°32'20.317\"W (38.277438,-86.538977; place record 38.277305,-86.538312 agrees). AllTrails Hemlock Cliffs National Scenic Trail: 1.2 mi loop, moderate. Length differs by source: reel 1.4 mi, USFS 1 mile, AllTrails 1.2 mi. Designated parking at the trailhead; RVs not permitted; no restrooms on site."
+   }
+  },
+  {
+   "id": "site:hoosier-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Hoosier National Forest"
+   }
   }
  ],
  "edges": [
@@ -60082,6 +60139,18 @@
   {
    "from": "reel:DfkRI3Cvclp",
    "to": "theme:2-day-shawnee-national-forest-itinerary",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfpOyHwN9Ke",
+   "to": "creator:wanderingwithcourtney",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfpOyHwN9Ke",
+   "to": "theme:indiana-hidden-gem-hemlock-cliffs",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -133469,6 +133538,43 @@
   {
    "from": "place:boo-park-carbondale-il",
    "to": "theme:park-free-fantasy-castle-playground",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hemlock-cliffs-trail-in",
+   "to": "state:united-states-in",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:hemlock-cliffs-trail-in",
+   "to": "site:hoosier-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:hemlock-cliffs-trail-in",
+   "to": "reel:DfpOyHwN9Ke",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": null,
+    "best_for": "Hike / Sandstone box canyon with rock shelters and seasonal waterfalls",
+    "recommendation": "A place in Indiana that looks like it belongs in the mountains: a 1.4-mile trail down into a natural box canyon surrounded by towering sandstone formations under a canopy of hemlock trees, with massive cliffs, natural rock overhangs and rock shelters, seasonal waterfalls and a stream winding through the canyon. Moderate, with steep and rocky sections that get slippery when wet — wear shoes with good traction, bring water, and watch for ticks. The waterfalls are seasonal, so go after rain.",
+    "creator": "@wanderingwithcourtney",
+    "reel_title": "Hemlock Cliffs Trail — an Indiana hidden gem in Hoosier National Forest",
+    "reel_theme": "Indiana hidden gem — Hemlock Cliffs"
+   }
+  },
+  {
+   "from": "place:hemlock-cliffs-trail-in",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:hemlock-cliffs-trail-in",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
