@@ -14,7 +14,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 81 places](#northeast)
 - [Southeast Region — 169 places](#southeast)
-- [Midwest Region — 109 places](#midwest)
+- [Midwest Region — 117 places](#midwest)
 - [Southwest Region — 162 places](#southwest)
 - [Mountain West Region — 94 places](#mountain-west)
 - [West Region — 126 places](#west)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 81 · Southeast 169 · Midwest 109 · Southwest 162 · Mountain West 94 · West 126 · Pacific Northwest 69 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 858**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 81 · Southeast 169 · Midwest 117 · Southwest 162 · Mountain West 94 · West 126 · Pacific Northwest 69 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 866**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
 - 💬 **Ask the chatbot** — tap the **Ask Bot** button at the bottom-left of this page (and the map) to chat right here, or open [Reel Chat](chat.html) full-screen. It is the project's one chatbot (the Streamlit app): it answers questions and builds itineraries from these recommendations.
@@ -3820,7 +3820,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**109 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, North Dakota, Ohio, South Dakota, Wisconsin**
+**117 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, North Dakota, Ohio, South Dakota, Wisconsin**
 
 ### Adler Planetarium
 
@@ -4168,6 +4168,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/reel/DdP6Of2Jojg/">Cave scenery — Cave-in-Rock</a> by @amorywild</li>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama</li>
   </ul>
   </details>
 
@@ -4451,13 +4452,29 @@ title: Reel Places — Locations from Instagram Reels, by Region
   </ul>
   </details>
 
+### Ferne Clyffe State Park
+
+#### Illinois
+
+##### Hike
+
+- **47. [Ferne Clyffe State Park](https://www.google.com/maps/search/?api=1&query=Ferne+Clyffe+State+Park+IL)** — Ferne Clyffe State Park, Goreville
+  - **Best for:** Hike / Narrow mossy canyon with a 100-ft waterfall — A 2,430-acre park of limestone bluffs, cliff caves and seasonal waterfalls — the Big Rocky Hollow Trail is an easy 0.75-mile walk through a narrowing mossy canyon to a 100-foot intermittent waterfall, and Hawk's Cave is the largest rock shelter in Illinois. Day 2 opener of her Shawnee road trip.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/big-rock-hollow)
+  - Coordinates: 37.533636,-88.98127 (IDNR place record; Wikipedia 37.52944,-88.98278 agrees). AllTrails Big Rocky Hollow Trail: 0.8 mi out-and-back, easy. The waterfall is intermittent — best after rain.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama (#5 in that reel)</li>
+  </ul>
+  </details>
+
 ### Franklin Creek State Natural Area
 
 #### Illinois
 
 ##### Hike
 
-- **47. [Whipple's Cave](https://www.google.com/maps/search/?api=1&query=Whipple's+Cave+Franklin+Creek+State+Natural+Area+IL)** — Franklin Creek State Natural Area, Franklin Grove
+- **48. [Whipple's Cave](https://www.google.com/maps/search/?api=1&query=Whipple's+Cave+Franklin+Creek+State+Natural+Area+IL)** — Franklin Creek State Natural Area, Franklin Grove
   - **Best for:** Hike — A cave hiding in the Illinois woods: Whipple's Cave in Franklin Creek State Natural Area, reached via the Pioneer Pass Trail from the Mill Springs Day Use Area — 2.9 miles out and back with 226 ft of gain through wooded scenery, rocky terrain and creek crossings. Know before you go: be prepared for deep creek crossings, and other trails in the area also lead to the cave.
   - Coordinates verified against OpenStreetMap.
   <details><summary>🎬 Sources</summary>
@@ -4472,12 +4489,28 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Visitor center
 
-- **48. [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway Arch National Park, Gateway Arch National Park, St. Louis, Missouri)** — Gateway Arch National Park, St. Louis
+- **49. [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway Arch National Park, Gateway Arch National Park, St. Louis, Missouri)** — Gateway Arch National Park, St. Louis
   - **Best for:** Visitor center / Favorite visitor center experience of 57 parks — Gateway Arch National Park earns the title 'Favorite Visitor Center Experience' on Katie & Joe's favorites list. '57 parks down, and these are the ones we can't stop thinking about. Picking one favorite park is impossible, so we gave a bunch of them their own titles instead.' The 630-foot Arch and its museum on the St. Louis riverfront is the visitor-center stop they single out after 57 of the 64 US national parks.
   - Coordinates: Wikipedia park coordinates for Gateway Arch National Park.
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/p/DfhnyRAlb-N/">57 parks down — our favorite parks, by category</a> by @katieandjoeonthego</li>
+  </ul>
+  </details>
+
+### Giant City State Park
+
+#### Illinois
+
+##### Hike
+
+- **50. [Giant City State Park](https://www.google.com/maps/search/?api=1&query=Giant+City+State+Park+IL)** — Giant City State Park, Makanda
+  - **Best for:** Hike / Slot-canyon streets between giant sandstone blocks — A 4,000-acre park where the Giant City Nature Trail winds a 1.1-mile loop through narrow 'streets' between massive sandstone blocks, past the Devil's Standtable and CCC-built stone steps. About 30 minutes and very kid-friendly — her Day 2 stop after Ferne Clyffe.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/giant-city-nature-trail)
+  - Coordinates: 37.605,-89.18833 (Wikipedia; huntillinois 37.60134,-89.18872 agrees). AllTrails Giant City Nature Trail: 1.1 mi loop, easy.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama (#6 in that reel)</li>
   </ul>
   </details>
 
@@ -4487,7 +4520,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Museum
 
-- **49. [Graveface Museum](https://www.google.com/maps/search/?api=1&query=Graveface+Museum+Chicago+IL)** — Graveface Museum, Chicago
+- **51. [Graveface Museum](https://www.google.com/maps/search/?api=1&query=Graveface+Museum+Chicago+IL)** — Graveface Museum, Chicago
   - **Best for:** Museum / Macabre true-crime and oddities museum — $25 in Bucktown: a macabre space devoted to serial killers, occult history and oddities, including John Wayne Gacy artifacts. The Chicago shop-and-museum at 1829 N Milwaukee Ave pairs the collection with the Graveface record label and Terror Vision storefront.
   - Coordinates: official place record 41.914611,-87.683806, 1829 N Milwaukee Ave, Chicago (the Bucktown location; the original Graveface Museum is in Savannah, GA).
   <details><summary>🎬 Sources</summary>
@@ -4502,7 +4535,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **50. [Great River Road (Alton to Grafton)](https://www.google.com/maps/search/?api=1&query=Great River Road (Alton to Grafton), Great River Road, Alton, Illinois)** — Great River Road, Alton
+- **52. [Great River Road (Alton to Grafton)](https://www.google.com/maps/search/?api=1&query=Great River Road (Alton to Grafton), Great River Road, Alton, Illinois)** — Great River Road, Alton
   - **Best for:** Scenic drive / Fall color drive along the Mississippi bluffs — The reel's route: 'The Great River Road from Alton to Grafton, Illinois is one of the most scenic roads in the Midwest.' Drive Highway 100 north from Alton with rugged limestone bluffs on one side and the Mississippi River on the other — 'the next few weeks are the best times to see the leaves in full color (peak is usually end of October).' This stretch is also the Meeting of the Great Rivers National Scenic Byway, where the Mississippi, Illinois and Missouri rivers converge.
   - Pin point: the Piasa Bird bluff mural on IL-100 at Alton, at the southern end of the Alton–Grafton stretch (published coordinates, Wikipedia).
   <details><summary>🎬 Sources</summary>
@@ -4517,7 +4550,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Landmark
 
-- **51. [Grosse Point Lighthouse](https://www.google.com/maps/search/?api=1&query=Grosse+Point+Lighthouse+Evanston+IL)** — Grosse Point Lighthouse, Evanston
+- **53. [Grosse Point Lighthouse](https://www.google.com/maps/search/?api=1&query=Grosse+Point+Lighthouse+Evanston+IL)** — Grosse Point Lighthouse, Evanston
   - **Best for:** Landmark / Historic 1873 lighthouse on Lake Michigan — A postcard-looking white lighthouse on the Lake Michigan shore in Evanston, about 30 minutes from downtown Chicago — built in 1873 after several shipwrecks to guide boats, and one of the few lighthouses still standing. Dunn tours the tower, its lantern room and red-roofed outbuildings, the stone keeper's house, and the Lighthouse Wildflower Trail Garden, and calls it one of the prettiest and most historic corners of Evanston, worth adding to any Chicago-area visit list.
   - Coordinates: Wikipedia Grosse Point Light (2601 Sheridan Rd, Evanston; 42°3'50"N 87°40'34"W); Mapcarta agrees 42.0639,-87.67602. National Historic Landmark, built 1873.
   <details><summary>🎬 Sources</summary>
@@ -4532,7 +4565,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Designated international dark sky park
 
-- **52. [Headlands International Dark Sky Park](https://www.google.com/maps/search/?api=1&query=Headlands+International+Dark+Sky+Park)** — Headlands International Dark Sky Park, Mackinaw City
+- **54. [Headlands International Dark Sky Park](https://www.google.com/maps/search/?api=1&query=Headlands+International+Dark+Sky+Park)** — Headlands International Dark Sky Park, Mackinaw City
   - **Best for:** Stargazing · Designated international dark sky park — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. One of the first International Dark Sky Parks in the US, on the Straits of Mackinac west of Mackinaw City — shown under a star-filled sky.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -4546,7 +4579,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **53. [Cowles Bog Trail](https://www.google.com/maps/search/?api=1&query=Cowles Bog Trail, Indiana Dunes National Park, Dune Acres, Indiana)** — Indiana Dunes National Park, Dune Acres
+- **55. [Cowles Bog Trail](https://www.google.com/maps/search/?api=1&query=Cowles Bog Trail, Indiana Dunes National Park, Dune Acres, Indiana)** — Indiana Dunes National Park, Dune Acres
   - **Best for:** Hiking / Wetland-and-dune loop in a National Natural Landmark — A top hike in their Indiana Dunes mini guide: the 4.3-mile loop from the Cowles Bog parking lot through the National Natural Landmark's wetlands and oak savanna out to the Lake Michigan beach.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/indiana/cowles-bog-trail--4)
   - Coordinates: NPS main (north) trailhead GPS.
@@ -4555,7 +4588,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DIHI4c0xyiF/">Indiana Dunes mini guide</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **54. [Dune Succession Trail](https://www.google.com/maps/search/?api=1&query=Dune Succession Trail, Indiana Dunes National Park, Portage, Indiana)** — Indiana Dunes National Park, Portage
+- **56. [Dune Succession Trail](https://www.google.com/maps/search/?api=1&query=Dune Succession Trail, Indiana Dunes National Park, Portage, Indiana)** — Indiana Dunes National Park, Portage
   - **Best for:** Hiking / One-mile loop through four stages of dune succession — Named in their bucket-list hikes part 3 as one of ten epic hikes needing no permit or lottery: the one-mile West Beach loop climbing through four stages of dune succession, from open beach to forested dunes, up 250 stairs.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/indiana/west-beach-dune-succession-trail)
   - Coordinates: NPS West Beach trailhead GPS.
@@ -4568,7 +4601,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### National park
 
-- **55. [Indiana Dunes National Park](https://www.google.com/maps/search/?api=1&query=Indiana+Dunes+National+Park+Indiana+Dunes+National+Park+IN)** — Indiana Dunes National Park, Porter
+- **57. [Indiana Dunes National Park](https://www.google.com/maps/search/?api=1&query=Indiana+Dunes+National+Park+Indiana+Dunes+National+Park+IN)** — Indiana Dunes National Park, Porter
   - **Best for:** National park / Lake Michigan dunes and beaches — On Kelley & Carl's list of national parks you can literally see in one day — Lake Michigan shoreline, towering dunes and beaches an hour from Chicago.
   - Pin is the Indiana Dunes Visitor Center point (1215 N IN-49, Porter).
   <details><summary>🎬 Sources</summary>
@@ -4586,7 +4619,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Landmark
 
-- **56. [Indiana World War Memorial](https://www.google.com/maps/search/?api=1&query=Indiana+World+War+Memorial+Indianapolis+IN)** — Indiana World War Memorial, Indianapolis
+- **58. [Indiana World War Memorial](https://www.google.com/maps/search/?api=1&query=Indiana+World+War+Memorial+Indianapolis+IN)** — Indiana World War Memorial, Indianapolis
   - **Best for:** Landmark / 210-ft neoclassical memorial modelled on the Mausoleum at Halicarnassus — One of America's most impressive war memorials, in downtown Indianapolis — a 210-foot neoclassical monument of Indiana limestone, modelled on the Mausoleum at Halicarnassus, one of the Seven Wonders of the Ancient World. Built to honor Hoosiers who served in the First World War and now commemorating all who served, with a museum and a spectacular atrium inside; above the entrance, 'To vindicate the principles of peace and justice in the world.'
   - Coordinates: Indiana War Memorial & Museum official record 39.773364,-86.156947 (55 E Michigan St); Wikipedia Indiana World War Memorial Plaza 39.77361,-86.15694 agrees.
   <details><summary>🎬 Sources</summary>
@@ -4601,12 +4634,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Solitude
 
-- **57. [Isle Royale National Park](https://www.google.com/maps/search/?api=1&query=Isle+Royale+National+Park+MI)** — Isle Royale National Park, Rock Harbor
+- **59. [Isle Royale National Park](https://www.google.com/maps/search/?api=1&query=Isle+Royale+National+Park+MI)** — Isle Royale National Park, Rock Harbor
   - **Best for:** Solitude — Ranked #3 for solitude, a remote island of forests and lakes reached only by boat or seaplane, with wolf howls at night.
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/reel/DfDGoIcv13_/">5 National Parks for Deafening Silence (solitude)</a> by @amorywild (#3 in that reel)</li>
   <li><a href="https://www.instagram.com/p/DfhnyRAlb-N/">57 parks down — our favorite parks, by category</a> by @katieandjoeonthego</li>
+  </ul>
+  </details>
+
+### Jeremy 'Boo' Rochman Memorial Park
+
+#### Illinois
+
+##### Park
+
+- **60. [Boo Park](https://www.google.com/maps/search/?api=1&query=Jeremy+Boo+Rochman+Memorial+Park+Carbondale+IL)** — Jeremy 'Boo' Rochman Memorial Park, Carbondale
+  - **Best for:** Park / Free fantasy castle playground — Her Day 1 overnight stop in Carbondale — don't miss it: a free, Dungeons & Dragons-themed fantasy park with a wooden castle, dragons and wizards, built as a memorial to 19-year-old Jeremy 'Boo' Rochman and opened in 2005. Open daily 9 AM–8 PM.
+  - Coordinates: 37.686724,-89.175451 (place record, 31 Homewood Dr, Carbondale). No trail — no AllTrails link.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama</li>
   </ul>
   </details>
 
@@ -4616,7 +4664,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Swimming
 
-- **58. [Johnson's Shut-Ins State Park](https://www.google.com/maps/search/?api=1&query=Johnson%27s+Shut-Ins+State+Park+Missouri)** — Johnson's Shut-Ins State Park, Middle Brook
+- **61. [Johnson's Shut-Ins State Park](https://www.google.com/maps/search/?api=1&query=Johnson%27s+Shut-Ins+State+Park+Missouri)** — Johnson's Shut-Ins State Park, Middle Brook
   - **Best for:** Swimming — One of the most unique swims in the Midwest: hundreds of natural pools and chutes the Black River carved into billion-year-old volcanic rock — 'nature's own waterpark,' about 2 hours south of St. Louis. The reel's tips: go early in summer (it gets busy), wear water shoes for the slippery rock, and mind the stronger currents with kids.
   - Pin sits at the main shut-ins day-use area (OpenStreetMap point for the swimming area's supply store) rather than the park boundary centroid. The 'shut-ins' are narrow channels where the river squeezes through erosion-resistant rhyolite.
   <details><summary>🎬 Sources</summary>
@@ -4631,7 +4679,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Bike ride · Rail-trail along the Missouri River bluffs
 
-- **59. [Katy Trail at Rocheport](https://www.google.com/maps/search/?api=1&query=Katy+Trail+Rocheport+MO)** — Katy Trail State Park, Rocheport
+- **62. [Katy Trail at Rocheport](https://www.google.com/maps/search/?api=1&query=Katy+Trail+Rocheport+MO)** — Katy Trail State Park, Rocheport
   - **Best for:** Bike ride · Rail-trail along the Missouri River bluffs — The reel's ride: the Katy Trail through Rocheport, right along the Missouri River, with fall colors lighting up the river bluffs — slow, scenic riding through Katy Trail State Park. (The full Katy Trail runs 240 miles across Missouri; this pin is its Rocheport stretch.)
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -4646,7 +4694,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Winter base
 
-- **60. [Keweenaw Peninsula](https://www.google.com/maps/search/?api=1&query=Keweenaw Peninsula, Keweenaw Peninsula, Copper Harbor, Michigan)** — Keweenaw Peninsula, Copper Harbor
+- **63. [Keweenaw Peninsula](https://www.google.com/maps/search/?api=1&query=Keweenaw Peninsula, Keweenaw Peninsula, Copper Harbor, Michigan)** — Keweenaw Peninsula, Copper Harbor
   - **Best for:** Winter base / Snowiest corner of the Midwest — skiing, frozen falls, sauna — #3 on her list: Michigan's Keweenaw Peninsula, which she says gets more snow than anywhere else in the Midwest. Her winter plans there center on skiing, frozen waterfalls and a sauna. The peninsula juts north into Lake Superior from Michigan's Upper Peninsula.
   - Pin point: Copper Harbor, the village at the peninsula's northern tip (Wikipedia / USGS GNIS) — the reel recommends the peninsula as a whole, not one specific site.
   <details><summary>🎬 Sources</summary>
@@ -4661,7 +4709,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Observation tower
 
-- **61. [Lewis & Clark Confluence Tower](https://www.google.com/maps/search/?api=1&query=Lewis & Clark Confluence Tower, Lewis & Clark Confluence Tower, Hartford, Illinois)** — Lewis & Clark Confluence Tower, Hartford
+- **64. [Lewis & Clark Confluence Tower](https://www.google.com/maps/search/?api=1&query=Lewis & Clark Confluence Tower, Lewis & Clark Confluence Tower, Hartford, Illinois)** — Lewis & Clark Confluence Tower, Hartford
   - **Best for:** Observation tower / Where the Mississippi and Missouri rivers meet — Caption side trip: 'You can also make a side trip to Hartford to check out the view from the Confluence Tower.' The 180-foot Lewis & Clark Confluence Tower has viewing platforms at 50, 100 and 150 feet over the confluence of the Mississippi and Missouri rivers, about a mile from the Lewis and Clark State Historic Site (Camp Dubois).
   - Coordinates: Wikipedia, 435 Confluence Tower Drive, Hartford.
   <details><summary>🎬 Sources</summary>
@@ -4676,7 +4724,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Lighthouse
 
-- **62. [Port of Grafton Lighthouse](https://www.google.com/maps/search/?api=1&query=Port of Grafton Lighthouse, Lighthouse Park, Grafton, Illinois)** — Lighthouse Park, Grafton
+- **65. [Port of Grafton Lighthouse](https://www.google.com/maps/search/?api=1&query=Port of Grafton Lighthouse, Lighthouse Park, Grafton, Illinois)** — Lighthouse Park, Grafton
   - **Best for:** Lighthouse / Photo op at the confluence of the Illinois and Mississippi — Step 5 of the itinerary: 'Make a stop at the harbor lighthouse for a fun photo op.' The red-and-white striped Port of Grafton Lighthouse — built in 2007 to mark the town's recovery from the 1993 flood — stands in Lighthouse Park at the harbor where the Illinois River meets the Mississippi.
   - Coordinates: the lighthouse's own place record, 215 W Water St, Grafton; Mapcarta/OSM agrees.
   <details><summary>🎬 Sources</summary>
@@ -4691,7 +4739,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Museum
 
-- **63. [National Great Rivers Museum](https://www.google.com/maps/search/?api=1&query=National Great Rivers Museum, Melvin Price Locks and Dam, Alton, Illinois)** — Melvin Price Locks and Dam, Alton
+- **66. [National Great Rivers Museum](https://www.google.com/maps/search/?api=1&query=National Great Rivers Museum, Melvin Price Locks and Dam, Alton, Illinois)** — Melvin Price Locks and Dam, Alton
   - **Best for:** Museum / Free river museum at the Melvin Price Locks and Dam — Named among the reel's Alton extras: 'Don't miss ... the free National Great Rivers Museum.' The museum at Melvin Price Locks and Dam tells the Mississippi River's story, and guided tours of the locks let you watch barge traffic lock through from above the water.
   - Coordinates: the museum's own place record, 1 Locks and Dam Way, Alton (East Alton).
   <details><summary>🎬 Sources</summary>
@@ -4706,7 +4754,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Landmark
 
-- **64. [Milwaukee City Hall](https://www.google.com/maps/search/?api=1&query=Milwaukee+City+Hall+200+E+Wells+St+Milwaukee+WI)** — Milwaukee City Hall, Milwaukee
+- **67. [Milwaukee City Hall](https://www.google.com/maps/search/?api=1&query=Milwaukee+City+Hall+200+E+Wells+St+Milwaukee+WI)** — Milwaukee City Hall, Milwaukee
   - **Best for:** Landmark / 1895 Flemish Renaissance city hall with an 8-story atrium — Step inside Milwaukee's historic city hall and head to the 8th floor. Completed in 1895, it was Wisconsin's tallest building for 78 years, until 1973. Its Flemish Renaissance architecture features approximately eight million bricks, beautiful mosaic and marble floors, and an impressive eight-story open atrium. Another fun detail: the tower's 22,500-pound bell is named 'Solomon Juneau' after Milwaukee's first mayor. Free to explore Mon–Fri 8 AM–4:45 PM; bell tower access requires a separate scheduled tour.
   - Coordinates: Wikipedia Milwaukee City Hall 43.0417,-87.9098 (43°02′30″N 87°54′35″W); city record 43.04175,-87.90976 agrees. Part 77 of the creator's '100 Things to Do in Wisconsin' series.
   <details><summary>🎬 Sources</summary>
@@ -4721,7 +4769,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Museum
 
-- **65. [Mindworks: The Science of Thinking](https://www.google.com/maps/search/?api=1&query=Mindworks+The+Science+of+Thinking+Chicago+IL)** — Mindworks: The Science of Thinking, Chicago
+- **68. [Mindworks: The Science of Thinking](https://www.google.com/maps/search/?api=1&query=Mindworks+The+Science+of+Thinking+Chicago+IL)** — Mindworks: The Science of Thinking, Chicago
   - **Best for:** Museum / Interactive behavioral-science lab and museum — Free in the Loop, across from the Art Institute: the world's first lab and interactive museum dedicated to behavioral science. Hands-on exhibits on how the mind makes decisions — biases, first impressions, goal-setting — and you can take part in real research studies run by the University of Chicago Booth School of Business.
   - Coordinates: official place record 41.878453,-87.624903, 224 S Michigan Ave, Chicago.
   <details><summary>🎬 Sources</summary>
@@ -4736,7 +4784,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **66. [Mount Rushmore](https://www.google.com/maps/search/?api=1&query=Mount+Rushmore+National+Memorial+SD)** — Mount Rushmore National Memorial, Keystone
+- **69. [Mount Rushmore](https://www.google.com/maps/search/?api=1&query=Mount+Rushmore+National+Memorial+SD)** — Mount Rushmore National Memorial, Keystone
   - **Best for:** Road trip stop — Stop 6 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 8, paired with Custer State Park before the Day 9 flight out of Rapid City.
   - Coordinates verified against OpenStreetMap.
   <details><summary>🎬 Sources</summary>
@@ -4754,7 +4802,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Museum
 
-- **67. [Museum of Post Punk and Industrial Music](https://www.google.com/maps/search/?api=1&query=Museum+of+Post+Punk+and+Industrial+Music+Chicago+IL)** — Museum of Post Punk and Industrial Music, Chicago
+- **70. [Museum of Post Punk and Industrial Music](https://www.google.com/maps/search/?api=1&query=Museum+of+Post+Punk+and+Industrial+Music+Chicago+IL)** — Museum of Post Punk and Industrial Music, Chicago
   - **Best for:** Museum / Post-punk and industrial music archive — In Bridgeport near 33rd and Halsted: an underground music shrine archiving Nine Inch Nails and Ministry memorabilia — a smashed Nine Inch Nails guitar, original artwork and tour ephemera — with intimate guided tours led by founder Martin Atkins and a hands-on Producer Experience. Variable pricing; exact address shared with ticket holders.
   - Coordinates: official place record 41.834229,-87.648334, 3319 S Lituanica Ave, Chicago (near 33rd and Halsted, Bridgeport).
   <details><summary>🎬 Sources</summary>
@@ -4769,7 +4817,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Dark sky park on Door County's quiet side
 
-- **68. [Newport State Park](https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Wisconsin)** — Newport State Park, Ellison Bay
+- **71. [Newport State Park](https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Wisconsin)** — Newport State Park, Ellison Bay
   - **Best for:** Stargazing · Dark sky park on Door County's quiet side — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. Door County's wilderness park on the Lake Michigan side — a designated dark sky park shown over a calm lake at night.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -4783,7 +4831,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Museum
 
-- **69. [Packingtown Museum](https://www.google.com/maps/search/?api=1&query=Packingtown+Museum+Chicago+IL)** — Packingtown Museum, Chicago
+- **72. [Packingtown Museum](https://www.google.com/maps/search/?api=1&query=Packingtown+Museum+Chicago+IL)** — Packingtown Museum, Chicago
   - **Best for:** Museum / Union Stock Yard and meatpacking history — Free in Back of the Yards, on the second floor of The Plant at 1400 W 46th St: the museum preserving the industrial history and cultural heritage of Chicago's Union Stock Yard and surrounding neighborhoods — the meatpacking past that made Chicago the 'Hog Butcher to the World'.
   - Coordinates: official place record 41.810664,-87.660675, 1400 W 46th St, Chicago (second floor of The Plant).
   <details><summary>🎬 Sources</summary>
@@ -4798,7 +4846,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **70. [Palisade Head](https://www.google.com/maps/search/?api=1&query=Palisade+Head+Silver+Bay+MN)** — Palisade Head, Silver Bay
+- **73. [Palisade Head](https://www.google.com/maps/search/?api=1&query=Palisade+Head+Silver+Bay+MN)** — Palisade Head, Silver Bay
   - **Best for:** Viewpoint — One of John Walberg's all-time favorite views on Minnesota's North Shore: standing on top of Palisade Head looking out over the endless blue of Lake Superior — towering cliffs, huge views, and fresh air. His verdict: a place he'll never get tired of visiting, and a must for any North Shore trip's bucket list.
   - Coordinates verified against OpenStreetMap.
   <details><summary>🎬 Sources</summary>
@@ -4813,7 +4861,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Spring · Self-propelled raft over turquoise water
 
-- **71. [Kitch-iti-kipi](https://www.google.com/maps/search/?api=1&query=Kitch-iti-kipi+Michigan)** — Palms Book State Park, Manistique
+- **74. [Kitch-iti-kipi](https://www.google.com/maps/search/?api=1&query=Kitch-iti-kipi+Michigan)** — Palms Book State Park, Manistique
   - **Best for:** Spring · Self-propelled raft over turquoise water — Michigan's largest freshwater spring, inside Palms Book State Park: turquoise water so crystal clear you can see straight to the bottom, at a constant 45°F, viewed from a self-propelled wooden observation raft you crank across the spring yourself. Open year-round; a Michigan Recreation Passport (state park pass) is required. No swimming or fishing, but it's pet friendly and ADA accessible.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -4828,7 +4876,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **72. [Pebble Beach](https://www.google.com/maps/search/?api=1&query=Pebble+Beach+Sister+Bay+WI)** — Pebble Beach, Sister Bay
+- **75. [Pebble Beach](https://www.google.com/maps/search/?api=1&query=Pebble+Beach+Sister+Bay+WI)** — Pebble Beach, Sister Bay
   - **Best for:** Sunset — Her #3 pick: a small, secluded pebble shoreline in Sister Bay with clear water and smooth stones — a quieter, calmer sunset spot away from the crowds, with people wading along the shore.
   - Coordinates: Mapcarta 45.18488,-87.15112; BeachGrade 45.1850,-87.1510 agrees.
   <details><summary>🎬 Sources</summary>
@@ -4843,7 +4891,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Fall colors
 
-- **73. [Eagle Tower](https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
+- **76. [Eagle Tower](https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
   - **Best for:** Fall colors / View — The reel's headline stop: add Peninsula State Park in Door County to a Wisconsin trip for Eagle Tower, reached by a long wooden elevated walkway through autumn trees to panoramic views over Green Bay and the surrounding islands — at their best in fall color. Parking, restrooms and park information are right at the tower area.
   - The reel says the views overlook Lake Michigan; the tower actually faces Green Bay (the bay between the Door Peninsula and mainland Wisconsin), with Horseshoe Island in view. Caption puts the park about a 5-hour drive from Chicago. The rebuilt tower (opened 2021) is reached by 95-100 stairs or an 850-foot accessible canopy ramp; Wisconsin DNR lists it open May 1-Oct 31.
   <details><summary>🎬 Sources</summary>
@@ -4855,7 +4903,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **74. [Eagle Trail](https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
+- **77. [Eagle Trail](https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI)** — Peninsula State Park, Fish Creek
   - **Best for:** Hike — Shown in the reel right after the tower: the trailhead sign marked 'Difficult Trail' for the park's Eagle Trail, a loop the narrator points viewers to for more scenic overlooks beyond Eagle Tower.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/eagle-trail--2)
   - Pin is the Eagle Trail trailhead just west of the Eagle Tower parking area (Trailforks trailhead coordinates); DNR lists access at Eagle Terrace, Eagle Panorama or the Tower. DNR rates this 2.0-mile loop 'more difficult', with steep, rocky sections under 150-foot cliffs along Eagle Harbor.
@@ -4872,7 +4920,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **75. [McAdams Peak](https://www.google.com/maps/search/?api=1&query=McAdams Peak, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
+- **78. [McAdams Peak](https://www.google.com/maps/search/?api=1&query=McAdams Peak, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
   - **Best for:** Overlook / Hike to the park's signature summit viewpoint — 'The Twin Mounds Overlook or McAdams Peak are the perfect spot to watch a sunset.' McAdams Peak (807 ft) is Pere Marquette's best-known summit viewpoint over the Illinois River valley — reached by the 1.8-mile McAdams Peak Trail loop or a short hike from the park's scenic drive.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/mcadams-peak-trail)
   - Coordinates: USGS GNIS summit via TopoQuest.
@@ -4881,7 +4929,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/DeXqNQqOWsL/">This is Illinois?! — the Great River Road in fall</a> by @midwestnomadfamily</li>
   </ul>
   </details>
-- **76. [Twin Mounds Overlook](https://www.google.com/maps/search/?api=1&query=Twin Mounds Overlook, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
+- **79. [Twin Mounds Overlook](https://www.google.com/maps/search/?api=1&query=Twin Mounds Overlook, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
   - **Best for:** Overlook / Sunset and fall color over the confluence floodplain — 'The Twin Mounds Overlook or McAdams Peak are the perfect spot to watch a sunset.' Twin Mounds looks over the floodplain where the Illinois, Mississippi and Missouri rivers meet; park interpreters call it the park's best fall-color overlook, and on a clear day the Gateway Arch is visible 30 miles to the southeast.
   - Coordinates: Backpacker trail-guide waypoint ('Twin Mounds View'), Hickory Trail, Pere Marquette State Park.
   <details><summary>🎬 Sources</summary>
@@ -4892,7 +4940,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### State park
 
-- **77. [Pere Marquette State Park](https://www.google.com/maps/search/?api=1&query=Pere Marquette State Park, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
+- **80. [Pere Marquette State Park](https://www.google.com/maps/search/?api=1&query=Pere Marquette State Park, Pere Marquette State Park, Grafton, Illinois)** — Pere Marquette State Park, Grafton
   - **Best for:** State park / Scenic drive, bluff hikes and river overlooks — The drive's finale: 'Continue driving north until you reach Pere Marquette State Park. Drive the scenic drive and take a hike if time allows.' At 8,050 acres it is Illinois's largest state park, above the confluence of the Mississippi and Illinois rivers; the caption ends the evening with dinner at the historic CCC-era Pere Marquette Lodge (or the Loading Dock back in Grafton).
   - Coordinates: Illinois DNR site point — the visitor center, 13112 Visitor Center Lane, Grafton.
   <details><summary>🎬 Sources</summary>
@@ -4907,7 +4955,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **78. [Brady's Bluff](https://www.google.com/maps/search/?api=1&query=Bradys+Bluff+Perrot+State+Park+WI)** — Perrot State Park, Trempealeau
+- **81. [Brady's Bluff](https://www.google.com/maps/search/?api=1&query=Bradys+Bluff+Perrot+State+Park+WI)** — Perrot State Park, Trempealeau
   - **Best for:** Viewpoint / Mississippi River bluff overlook with a CCC stone shelter — The Midwest Guide's '11/10 bench in Wisconsin': the reel opens on the weathered wooden bench set into the stacked-stone wall of the CCC-built shelter at the top of Brady's Bluff, then pans across the Mississippi River valley in full fall color. The creator never named the spot ('Where am I?!') — commenters identified it as Perrot State Park's Brady's Bluff, the park's highest point, rising nearly 460 feet above the river with views to Trempealeau Mountain and Trempealeau Bay.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/bradys-bluff-and-riverview-trail-loop)
   - Coordinates are the OpenStreetMap/Mapcarta summit point (USGS GNIS summit: 44.02024, -91.48320). The reel does not name the location; the identification is from the post's comments plus the matching CCC stone shelter, flagstone patio and river-valley panorama at the Brady's Bluff summit.
@@ -4923,7 +4971,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · 10-mile loop past two falls to Chapel Rock
 
-- **79. [Chapel Loop Trail](https://www.google.com/maps/search/?api=1&query=Chapel+Loop+Trail+Pictured+Rocks+MI)** — Pictured Rocks National Lakeshore, Munising
+- **82. [Chapel Loop Trail](https://www.google.com/maps/search/?api=1&query=Chapel+Loop+Trail+Pictured+Rocks+MI)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Hike · 10-mile loop past two falls to Chapel Rock — The reel's Michigan pick at 10 miles: the Chapel Loop in Pictured Rocks, past Mosquito Falls and Chapel Falls to Chapel Rock and the Lake Superior shoreline beaches.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/michigan/mosquito-falls-and-chapel-falls-via-chapel-loop)
   - Pin is Chapel Rock, on the loop's lakeshore section.
@@ -4935,14 +4983,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **80. [Chapel Falls](https://www.google.com/maps/search/?api=1&query=Chapel+Falls+Pictured+Rocks)** — Pictured Rocks National Lakeshore, Munising
+- **83. [Chapel Falls](https://www.google.com/maps/search/?api=1&query=Chapel+Falls+Pictured+Rocks)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Waterfall / Hike · Cascading falls on the Chapel Loop — The reel opens at Chapel Falls — a cascading waterfall in the forest on the Chapel Loop in Pictured Rocks: Chapel Creek drops about 60 feet over sandstone ledges on its way to Chapel Lake. (The loop's other pin, Chapel Rock, is on the lakeshore section of the same trail.)
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/reel/DfZ6r8JR336/">Michigan fall itinerary — no mountains, so waterfalls</a> by @braden_vanham</li>
   </ul>
   </details>
-- **81. [Miners Falls](https://www.google.com/maps/search/?api=1&query=Miners+Falls+Michigan)** — Pictured Rocks National Lakeshore, Munising
+- **84. [Miners Falls](https://www.google.com/maps/search/?api=1&query=Miners+Falls+Michigan)** — Pictured Rocks National Lakeshore, Munising
   - **Best for:** Waterfall / Hike · Powerful 50-foot falls you can stand beside — The reel's finale: Miners Falls in Pictured Rocks — a powerful ~50-foot waterfall where the Miners River plunges over a sandstone outcrop; he stands close to the falls on the wet rocks giving a thumbs-up. A short gravel trail from the Miners Castle area parking leads to viewing platforms above and beside the drop.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -4956,7 +5004,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Towering rock pinnacles and fossil hunting
 
-- **82. [Pinnacles Youth Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+Youth+Park+Missouri)** — Pinnacles Youth Park, Sturgeon
+- **85. [Pinnacles Youth Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+Youth+Park+Missouri)** — Pinnacles Youth Park, Sturgeon
   - **Best for:** Hike · Towering rock pinnacles and fossil hunting — One of the most unique places in Missouri: a privately owned park north of Columbia (850 E. Pinnacles Rd, Sturgeon) that's open for public day use and feels like a rugged hike out west. Lower trails run along the creek to a shelter bluff for all ages; the real adventure is crossing the creek and taking the narrow, rocky path over the top of the towering rock formations. The spot is full of fossils — look in the creek and across the rocks for thousands of crinoids. Free (donation box at the kiosk); vault restroom; no alcohol, glass or drones. The reel's warnings: the upper ledge trails are not for young kids or anyone afraid of heights, don't cross the creek when the water is high, and expect wet feet even in summer.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -4971,7 +5019,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Landmark
 
-- **83. [Chicago Self-Cleaning Public Toilet](https://www.google.com/maps/search/?api=1&query=Polonia+Triangle+Chicago+IL)** — Polish Triangle (Polonia Triangle), Chicago
+- **86. [Chicago Self-Cleaning Public Toilet](https://www.google.com/maps/search/?api=1&query=Polonia+Triangle+Chicago+IL)** — Polish Triangle (Polonia Triangle), Chicago
   - **Best for:** Landmark / Chicago's first self-cleaning public toilet — Chicago's first standalone automated public restroom — a JCDecaux kiosk in the Polish Triangle at Milwaukee, Ashland and Division, above the Division Blue Line station, which opened with a ceremonial 'First Flush' on the day this reel was posted (installation had wrapped Oct 23). Kwon tours it: free to use, spacious and ADA-compliant, with a 15-minute limit, an exit button plus a low foot-tap emergency button, and a combined sink/hand-dryer. After each use the toilet retracts into a side compartment where high-pressure jets wash and disinfect it (about a 30-second cycle), so the seat and paper can be slightly moist — she still calls it probably the nicest public bathroom she has ever used.
   - Coordinates: Wikipedia's Polonia Triangle plaza point (41.903579,-87.667176), matching the Polish Triangle Coalition place record for 1204 N Milwaukee Ave; the kiosk stands in the plaza (Fox 32 Chicago / Block Club Chicago).
   <details><summary>🎬 Sources</summary>
@@ -4986,7 +5034,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **84. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
+- **87. [Lake of the Clouds](https://www.google.com/maps/search/?api=1&query=Lake+of+the+Clouds+Porcupine+Mountains+MI)** — Porcupine Mountains Wilderness State Park, Ontonagon
   - **Best for:** Viewpoint — Andrew's take: 'Some places make you stop and appreciate just how beautiful the world really is.' Lake of the Clouds, tucked in the heart of Michigan's Porcupine Mountains Wilderness State Park, is one of those places that never fails to impress — his photos catch it in full fall color.
   - Coordinates verified against OpenStreetMap.
   <details><summary>🎬 Sources</summary>
@@ -5001,7 +5049,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Café stop · Mid-ride café and bike shop in town
 
-- **85. [Meriwether Café and Bike Shop](https://www.google.com/maps/search/?api=1&query=Meriwether+Cafe+Rocheport+MO)** — Rocheport, Rocheport
+- **88. [Meriwether Café and Bike Shop](https://www.google.com/maps/search/?api=1&query=Meriwether+Cafe+Rocheport+MO)** — Rocheport, Rocheport
   - **Best for:** Café stop · Mid-ride café and bike shop in town — The reel's mid-ride stop in the middle of Rocheport: a café and bike shop — the pause that makes the day feel like exactly what fall in a small Missouri town should feel like.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5011,7 +5059,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Small town · Prettiest fall day-trip town on the Missouri River
 
-- **86. [Rocheport](https://www.google.com/maps/search/?api=1&query=Rocheport+MO)** — Rocheport, Rocheport
+- **89. [Rocheport](https://www.google.com/maps/search/?api=1&query=Rocheport+MO)** — Rocheport, Rocheport
   - **Best for:** Small town · Prettiest fall day-trip town on the Missouri River — The reel's pick for the perfect Missouri fall day trip: a small river town on the Missouri River bluffs — wander the town, see the bluffs at peak fall foliage, and use it as the base for a Katy Trail ride.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5026,11 +5074,54 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **87. [Rock Bridge Memorial State Park](https://www.google.com/maps/search/?api=1&query=Rock+Bridge+Memorial+State+Park)** — Rock Bridge Memorial State Park, Columbia
+- **90. [Rock Bridge Memorial State Park](https://www.google.com/maps/search/?api=1&query=Rock+Bridge+Memorial+State+Park)** — Rock Bridge Memorial State Park, Columbia
   - **Best for:** Hike / Cave · Natural rock bridge and Devil's Icebox cave — The day trip's start (5901 South Highway 163, Columbia): a beautiful state park with amazing fall colors, multiple caves, and a natural rock arch. Take the short Devil's Icebox trail along a boardwalk and steps to see the rock bridge and cave entrances.
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/reel/De29PU7Oj9j/">Plan a Missouri fall adventure: Columbia + Rocheport day trip</a> by @midwestnomadfamily</li>
+  </ul>
+  </details>
+
+### Shawnee National Forest
+
+#### Illinois
+
+##### Hike
+
+- **91. [Garden of the Gods](https://www.google.com/maps/search/?api=1&query=Garden+of+the+Gods+Shawnee+National+Forest+IL)** — Shawnee National Forest, Herod
+  - **Best for:** Hike / Panoramic sandstone formations — The Observation Trail — a 1/4-mile flagstone loop through unique sandstone formations (Camel Rock, Anvil Rock, Mushroom Rock, Devil's Smokestack) with panoramic views over the Garden of the Gods Wilderness. About 20 minutes and one of the most photographed spots in Illinois.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/garden-of-the-gods)
+  - Coordinates: Observation Trail trailhead 37.60463,-88.38436 (poppinupusa; USFS 37.6025,-88.37944444 agrees). AllTrails Garden of the Gods Observation Trail: 0.5 mi loop, easy. Not the Colorado Garden of the Gods.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama (#3 in that reel)</li>
+  </ul>
+  </details>
+- **92. [Little Grand Canyon](https://www.google.com/maps/search/?api=1&query=Little+Grand+Canyon+Shawnee+National+Forest+IL)** — Shawnee National Forest, Murphysboro
+  - **Best for:** Hike / 3.4-mi descent into a deep sandstone box canyon — The optional Day 2 closer, if you're not hiked out by then: a 3.4-mile loop (AllTrails lists 3.0 mi) dropping about 350 feet into a deep sandstone box canyon on the Big Muddy River, with Chalk Bluff Overlook views across the Mississippi floodplain. The only longer hike of the trip — most of the others are 30 minutes or less.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/little-grand-canyon-trail--2)
+  - Coordinates: trailhead 37.68052,-89.39484 (trailforks; Illinois Extension 37.68029,-89.39511 agrees). AllTrails Little Grand Canyon Trail: 3.0 mi loop, moderate. Reel says 3.4 miles.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama (#8 in that reel)</li>
+  </ul>
+  </details>
+- **93. [Pomona Natural Bridge](https://www.google.com/maps/search/?api=1&query=Pomona+Natural+Bridge+IL)** — Shawnee National Forest, Pomona
+  - **Best for:** Hike / 90-ft natural sandstone arch you can walk across — A 0.3-mile loop through mature oak-hickory and beech forest to a 90-foot natural sandstone arch you can walk across, with a small stream flowing beneath it. About 30 minutes — a big payoff for a very short hike.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/pomona-natural-bridge-trail)
+  - Coordinates: 37.6490139,-89.338944 (Wikipedia; aroundus 37.6486,-89.3433 and trailhead 37.64844,-89.34305 agree). AllTrails Pomona Natural Bridge Trail: 0.3 mi loop, moderate.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama (#7 in that reel)</li>
+  </ul>
+  </details>
+- **94. [Rim Rock National Recreation Trail](https://www.google.com/maps/search/?api=1&query=Rim+Rock+National+Recreation+Trail+IL)** — Shawnee National Forest, Karbers Ridge
+  - **Best for:** Hike / Sandstone bluff rim trail with Ox-Lot Cave — Illinois' only National Recreation Trail — a 0.8-mile paved upper loop along the rim of a sandstone bluff past a prehistoric stone wall and overlooks of Pounds Hollow, with a lower trail dropping to the massive Ox-Lot Cave. About 20 minutes, and one of the most scenic short hikes in the Shawnee.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/rim-rock-recreational-trail)
+  - Coordinates: trailhead 37.60072,-88.27733 (poppinupusa; USFS 37.602182,-88.278264 agrees). AllTrails Rim Rock Recreational Trail: 1.6 km circular, moderate. Note: as of Oct 2026 the observation-deck stairs are temporarily inaccessible.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama (#2 in that reel)</li>
   </ul>
   </details>
 
@@ -5040,7 +5131,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **88. [Sunset Beach Park](https://www.google.com/maps/search/?api=1&query=Sunset+Beach+Park+Fish+Creek+WI)** — Sunset Beach Park, Fish Creek
+- **95. [Sunset Beach Park](https://www.google.com/maps/search/?api=1&query=Sunset+Beach+Park+Fish+Creek+WI)** — Sunset Beach Park, Fish Creek
   - **Best for:** Sunset — Her #2 pick: the sun sets straight into Green Bay here — a rocky shore and grassy bluff where people gather to watch, with vivid red and purple skies reflected on the water.
   - Coordinates: USGS GNIS via TopoQuest 45.128878,-87.25122; Mapcarta 45.12905,-87.25163 agrees.
   <details><summary>🎬 Sources</summary>
@@ -5055,7 +5146,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Stargazing · Milky Way over the tallgrass prairie
 
-- **89. [Tallgrass Prairie National Preserve](https://www.google.com/maps/search/?api=1&query=Tallgrass+Prairie+National+Preserve)** — Tallgrass Prairie National Preserve, Strong City
+- **96. [Tallgrass Prairie National Preserve](https://www.google.com/maps/search/?api=1&query=Tallgrass+Prairie+National+Preserve)** — Tallgrass Prairie National Preserve, Strong City
   - **Best for:** Stargazing · Milky Way over the tallgrass prairie — From Midwest Living's '20 Midwest Escapes for Epic Stargazing' — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. The preserve is shown under the Milky Way — some of the darkest skies in Kansas over the last stand of tallgrass prairie.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5069,7 +5160,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **90. [Boicourt Overlook](https://www.google.com/maps/search/?api=1&query=Boicourt+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **97. [Boicourt Overlook](https://www.google.com/maps/search/?api=1&query=Boicourt+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / South Unit overlook trail — A South Unit favorite on Kelley & Carl's Dakotas road trip — the short Boicourt Overlook Trail to one of the South Unit's best badlands views.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5083,7 +5174,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/DfibmDYpUnO/">Theodore Roosevelt National Park — North Dakota</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **91. [Buck Hill](https://www.google.com/maps/search/?api=1&query=Buck+Hill+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **98. [Buck Hill](https://www.google.com/maps/search/?api=1&query=Buck+Hill+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Short climb to a South Unit high point — A South Unit favorite on Kelley & Carl's Dakotas road trip — the Buck Hill Trail, a quick climb to one of the highest spots in the South Unit.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5097,7 +5188,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/DfibmDYpUnO/">Theodore Roosevelt National Park — North Dakota</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **92. [Caprock Coulee Trail](https://www.google.com/maps/search/?api=1&query=Caprock+Coulee+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **99. [Caprock Coulee Trail](https://www.google.com/maps/search/?api=1&query=Caprock+Coulee+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / North Unit badlands loop past River Bend — A North Unit favorite on Kelley & Carl's Dakotas road trip — the Caprock Coulee Trail, usually called the best hike in the North Unit, looping past the River Bend Overlook along the badlands rim.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5111,7 +5202,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/DfibmDYpUnO/">Theodore Roosevelt National Park — North Dakota</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **93. [Painted Canyon](https://www.google.com/maps/search/?api=1&query=Painted+Canyon+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **100. [Painted Canyon](https://www.google.com/maps/search/?api=1&query=Painted+Canyon+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Colorful badlands at the I-94 rest area — A South Unit favorite on Kelley & Carl's Dakotas road trip — Painted Canyon, the striped badlands amphitheater at the interstate rest area, with a trail dropping into the formations.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5124,7 +5215,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/DfibmDYpUnO/">Theodore Roosevelt National Park — North Dakota</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **94. [Wind Canyon Trail](https://www.google.com/maps/search/?api=1&query=Wind+Canyon+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **101. [Wind Canyon Trail](https://www.google.com/maps/search/?api=1&query=Wind+Canyon+Trail+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Hiking / Sunset hike over the Little Missouri River — A South Unit favorite on Kelley & Carl's Dakotas road trip — the Wind Canyon Trail, which they single out specifically at sunset for its view over the Little Missouri River.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5144,7 +5235,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **95. [Oxbow Overlook](https://www.google.com/maps/search/?api=1&query=Oxbow+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **102. [Oxbow Overlook](https://www.google.com/maps/search/?api=1&query=Oxbow+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Overlook / End of the North Unit scenic drive — A North Unit favorite on Kelley & Carl's Dakotas road trip — Oxbow Overlook, the panorama at the end of the 14-mile scenic drive where the Little Missouri makes its hard turn east.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5158,7 +5249,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/DfibmDYpUnO/">Theodore Roosevelt National Park — North Dakota</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **96. [River Bend Overlook](https://www.google.com/maps/search/?api=1&query=River+Bend+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **103. [River Bend Overlook](https://www.google.com/maps/search/?api=1&query=River+Bend+Overlook+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Overlook / CCC stone shelter above the Little Missouri — A North Unit favorite on Kelley & Carl's Dakotas road trip — the River Bend Overlook Trail, a short walk to the 1937 CCC stone shelter on a butte edge, maybe the most photographed view in the park.
   - Coordinates from Snoflo's River Bend Overlook point-of-interest listing (47.6102, -103.3779); OpenStreetMap has no feature for it.
   <details><summary>🎬 Sources</summary>
@@ -5175,7 +5266,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Underrated park
 
-- **97. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
+- **104. [Theodore Roosevelt National Park](https://www.google.com/maps/search/?api=1&query=Theodore+Roosevelt+National+Park+Theodore+Roosevelt+National+Park+ND)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Underrated park — His #2 underrated park: badlands terrain, bison crossing a road, wild horses at sunset, prairie dogs, and a river sunset view.
   - Park-level pin is the park's Nominatim point in the South Unit.
   <details><summary>🎬 Sources</summary>
@@ -5205,7 +5296,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Wildlife
 
-- **98. [Prairie Dog Metropolis](https://www.google.com/maps/search/?api=1&query=Prairie Dog Metropolis, Theodore Roosevelt National Park, Medora, North Dakota)** — Theodore Roosevelt National Park, Medora
+- **105. [Prairie Dog Metropolis](https://www.google.com/maps/search/?api=1&query=Prairie Dog Metropolis, Theodore Roosevelt National Park, Medora, North Dakota)** — Theodore Roosevelt National Park, Medora
   - **Best for:** Wildlife — 'Prairie Dog Metropolis' — Kelley & Carl's South Unit favorite: a particularly large and active prairie dog town about 3 miles from the South Unit entrance, where a prairie dog stands alert in the meadow in their reel.
   - Coordinates: Wikivoyage's Theodore Roosevelt National Park guide lists Prairie Dog Metropolis at 46.93224, -103.51464, 3 miles from the South Unit entrance.
   <details><summary>🎬 Sources</summary>
@@ -5220,12 +5311,28 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Fall colors
 
-- **99. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
+- **106. [Torch Lake](https://www.google.com/maps/search/?api=1&query=Torch+Lake+Michigan)** — Torch Lake, Alden
   - **Best for:** Fall colors — The 'Caribbean of the Midwest' in autumn: Torch Lake's turquoise, crystal-clear water and shallow sandbars ringed by peak fall color — the reel's drone shots show deep blue open water against shores of red and gold. The caption pitches the area's wineries and orchards as a perfect Michigan fall road trip.
   - Pin is OpenStreetMap's point for the long Torch Lake near Traverse City (Antrim County) — not the smaller Torch Lake in the Keweenaw Peninsula.
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/reel/DfUu09yRN3C/">Torch Lake in Fall feels like the movies</a> by @marco.horizons</li>
+  </ul>
+  </details>
+
+### Tunnel Hill State Trail
+
+#### Illinois
+
+##### Hike
+
+- **107. [Tunnel Hill](https://www.google.com/maps/search/?api=1&query=Tunnel+Hill+State+Trail+IL)** — Tunnel Hill State Trail, Tunnel Hill
+  - **Best for:** Hike / 543-ft historic rail tunnel — Walk through the 543-foot dark railroad tunnel on the 45-mile Tunnel Hill State Trail rail-trail — bring a light, and the trailhead at Tunnel Hill has parking and the Sandburn Junction shop just south of the tunnel. About an hour, and the tunnel is the reason the trail (and the town) got its name.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/illinois/tunnel-hill-state-trail)
+  - Coordinates: 37.523382,-88.838482 (Tunnel Hill 100 aid station; mapcarta 37.52366,-88.83868 agrees). Tunnel built 1872, 543 ft after a 1929 collapse shortened it. AllTrails Tunnel Hill State Trail: 55.8 mi point-to-point, near Vienna.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfkRI3Cvclp/">2-day Shawnee National Forest road trip — Southern Illinois</a> by @midwesttravelmama (#4 in that reel)</li>
   </ul>
   </details>
 
@@ -5235,7 +5342,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Landmark
 
-- **100. [Veterans Memorial Obelisk](https://www.google.com/maps/search/?api=1&query=Veterans+Memorial+Obelisk+Indianapolis+IN)** — Veterans Memorial Plaza (Obelisk Square), Indianapolis
+- **108. [Veterans Memorial Obelisk](https://www.google.com/maps/search/?api=1&query=Veterans+Memorial+Obelisk+Indianapolis+IN)** — Veterans Memorial Plaza (Obelisk Square), Indianapolis
   - **Best for:** Landmark / 100-ft black granite obelisk in a pink marble fountain — Directly opposite the memorial, the 100-foot black granite Veterans Memorial Obelisk (1923) rises from a 100-foot-diameter two-level fountain of pink Georgia marble — its four bronze sculptures stand for law, science, religion and education, the foundations of a peaceful and prosperous nation.
   - Coordinates: Obelisk Square place record 39.774739,-86.156893 (501 N Meridian St). Wikipedia: 100-ft black granite obelisk built 1923, square completed 1930.
   <details><summary>🎬 Sources</summary>
@@ -5250,7 +5357,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Historic village
 
-- **101. [Elsah](https://www.google.com/maps/search/?api=1&query=Elsah, Village of Elsah, Elsah, Illinois)** — Village of Elsah, Elsah
+- **109. [Elsah](https://www.google.com/maps/search/?api=1&query=Elsah, Village of Elsah, Elsah, Illinois)** — Village of Elsah, Elsah
   - **Best for:** Historic village / Hallmark-movie detour on the Great River Road — 'Take a detour through the town of Elsah. The whole village appears straight out of a Hallmark movie.' The 1850s river village — listed on the National Register of Historic Places in its entirety — is a short detour off Highway 100 between Alton and Grafton, all stone and brick cottages under the bluffs.
   - Coordinates: Wikipedia / USGS GNIS village point.
   <details><summary>🎬 Sources</summary>
@@ -5265,7 +5372,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Lake country · Misty dawn lakes in the North Woods
 
-- **102. [Voyageurs National Park](https://www.google.com/maps/search/?api=1&query=Voyageurs+National+Park)** — Voyageurs National Park, International Falls
+- **110. [Voyageurs National Park](https://www.google.com/maps/search/?api=1&query=Voyageurs+National+Park)** — Voyageurs National Park, International Falls
   - **Best for:** Lake country · Misty dawn lakes in the North Woods — One of the stops in Ted's serene bucket-list montage 'Places in the USA you need to visit before you die.' Mist rising over a calm lake at dawn — Minnesota's water-based national park, a maze of island lakes on the Canadian border explored by boat and houseboat.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5279,7 +5386,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · Small wooded falls on a short boardwalk walk
 
-- **103. [Wagner Falls](https://www.google.com/maps/search/?api=1&query=Wagner+Falls+Michigan)** — Wagner Falls Scenic Site, Munising
+- **111. [Wagner Falls](https://www.google.com/maps/search/?api=1&query=Wagner+Falls+Michigan)** — Wagner Falls Scenic Site, Munising
   - **Best for:** Waterfall · Small wooded falls on a short boardwalk walk — One of the reel's Michigan fall stops: Wagner Falls, a smaller wooded waterfall just south of Munising, reached by a short boardwalk trail through the pines — Wagner Creek cascades over rock shelves in a hemlock-shaded gorge.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5293,7 +5400,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Small town · Historic downtown, shops and fall orchards
 
-- **104. [Weston](https://www.google.com/maps/search/?api=1&query=Weston+Missouri)** — Weston, Weston
+- **112. [Weston](https://www.google.com/maps/search/?api=1&query=Weston+Missouri)** — Weston, Weston
   - **Best for:** Small town · Historic downtown, shops and fall orchards — The reel's second stop: downtown Weston, with adorable local shops, boutiques and historic streets — plus nearby orchards, seasonal farm activities, and fall events to round out the day trip.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5307,7 +5414,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic overlook · Fall hiking above the Missouri River
 
-- **105. [Weston Bend State Park](https://www.google.com/maps/search/?api=1&query=Weston+Bend+State+Park+MO)** — Weston Bend State Park, Weston
+- **113. [Weston Bend State Park](https://www.google.com/maps/search/?api=1&query=Weston+Bend+State+Park+MO)** — Weston Bend State Park, Weston
   - **Best for:** Scenic overlook · Fall hiking above the Missouri River — The reel's day-trip anchor, 40 minutes from Kansas City: start at the scenic overlook for sweeping views of the Missouri River valley and fall foliage, then walk the wooded bluff trails (paved and natural-surface options). There's a campground too — the creators camped here and recommend it for turning the day trip into a weekend.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -5321,7 +5428,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **106. [Rankin Ridge Interpretive Trail](https://www.google.com/maps/search/?api=1&query=Rankin+Ridge+Interpretive+Trail+Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **114. [Rankin Ridge Interpretive Trail](https://www.google.com/maps/search/?api=1&query=Rankin+Ridge+Interpretive+Trail+Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Hiking / Highest point in the park, fire tower loop — Kelley & Carl's above-ground must-do at Wind Cave on their Dakotas road trip — the Rankin Ridge Interpretive Trail, a 1-mile loop to the park's highest point (5,013 ft) and its fire tower, with 360-degree Black Hills views.
   - Trailhead coordinates (43.6228, -103.4859) from Hikespeak's Rankin Ridge Trail guide; OpenStreetMap has no feature for it.
   <details><summary>🎬 Sources</summary>
@@ -5336,7 +5443,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Road trip stop
 
-- **107. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
+- **115. [Wind Cave National Park](https://www.google.com/maps/search/?api=1&query=Wind+Cave+National+Park+SD)** — Wind Cave National Park, Hot Springs
   - **Best for:** Road trip stop — Stop 4 on @funsizewanderer's 9-day South Dakota & North Dakota road-trip loop out of Rapid City: Day 7 — book a timed cave tour in advance, per her tip.
   - Coordinates verified against OpenStreetMap.
   <details><summary>🎬 Sources</summary>
@@ -5361,7 +5468,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Caves
 
-- **108. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
+- **116. [Wyalusing State Park](https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Caves / Stargazing — 'This state park surprised us': 14+ miles of trails with caves to explore, an astronomy center that's perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.
   - Pin is OpenStreetMap's Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.
   <details><summary>🎬 Sources</summary>
@@ -5372,7 +5479,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **109. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
+- **117. [Old Immigrant & Bluff Loop](https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI)** — Wyalusing State Park, Bagley
   - **Best for:** Hike — The creators' favorite trail in the park: the Old Immigrant & Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/wisconsin/old-immigrant-trail-and-bluff-trail-loop)
   - Pin is OpenStreetMap's Old Immigrant Trail point within Wyalusing State Park.
@@ -15446,6 +15553,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Sturtevant Falls Trail in the San Gabriel Mountains: a slight descent to a fifty-foot waterfall past manmade waterfalls and century-old cabins. Very easy and great with kids, but a 2/5 on a crowded weekend — the short loop near the waterfall is the quieter, better walk, with mountain views and streams.
 - **[Top 5 hidden gems in Washington you probably didn't know about](https://www.instagram.com/reel/DfoD47gCbWZ/)** — @kennypleasant · 5 places · Theme: Top 5 hidden gems in Washington
   - What the reel recommends: Five hidden gems most Washington residents have never visited: the 2.3-mile Snoqualmie Tunnel (#5, closed Nov 1 for ice), the mysterious Mima Mounds near Olympia (#4), the 2.5-mile Ape Cave lava tube at Mount St. Helens (#3, also closed for the season), One Square Inch of Silence in the Hoh Rainforest (#2), and the full-size concrete Maryhill Stonehenge on the Columbia River (#1).
+- **[2-day Shawnee National Forest road trip — Southern Illinois](https://www.instagram.com/reel/DfkRI3Cvclp/)** — @midwesttravelmama · 9 places · Theme: 2-day Shawnee National Forest itinerary
+  - What the reel recommends: A 2-day, adventure-packed weekend road trip through Southern Illinois and the Shawnee National Forest, about 2 hours from St. Louis. Day 1: Cave-in-Rock, Rim Rock, Garden of the Gods, Tunnel Hill, overnight in Carbondale (Boo Park). Day 2: Ferne Clyffe, Giant City, Pomona Natural Bridge, and the Little Grand Canyon if you're not hiked out. Most stops are kid-friendly short hikes with big views.
 
 ## How this page is updated {#how-this-page-is-updated}
 
