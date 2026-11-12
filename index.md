@@ -11726,12 +11726,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 - **117. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Viewpoint / Yosemite's Artist Point — the valley view that inspired painters — Rated a perfect 10/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): Artist Point, Yosemite's historic viewpoint above the valley's west end (not the Yellowstone overlook of the same name). Also on their perfect-hikes list and named (with Tunnel View) on their California road trip. Reached by the Pohono Trail / old carriage road from the Tunnel View area.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/artist-point-trail)
   - Pin is the USGS GNIS Artist Point summit point above Yosemite Valley's south wall.
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/p/Da-5x0XCU0Z/">US trails we have hiked that we consider to be perfect</a> by @kelleyandcarlsadventures</li>
   <li><a href="https://www.instagram.com/p/DaGBkNBFglC/">Honest ratings for California national park hikes — part 1</a> by @kelleyandcarlsadventures</li>
   <li><a href="https://www.instagram.com/p/DfWCdSdPdQo/">4 national parks, 1 epic road trip — California</a> by @kelleyandcarlsadventures</li>
+  <li><a href="https://www.instagram.com/reel/Dfpl5OfP8iS/">Artist Point Trail — a better Tunnel View without the crowds</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
 - **118. [Hanging Valley Viewpoint](https://www.google.com/maps/search/?api=1&query=Hanging Valley Viewpoint, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
@@ -15809,6 +15811,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: An Indiana hidden gem that looks like it belongs in the mountains: the Hemlock Cliffs Trail in Hoosier National Forest, Crawford County — a 1.4-mile moderate loop down into a sandstone box canyon with rock shelters, seasonal waterfalls and a shaded stream, best after rain.
 - **[15 places in Kansas to see before you die](https://www.instagram.com/reel/DfkXozkBTZ2/)** — @midwesttravelmama · 16 places · Theme: 15 places in Kansas to see before you die
   - What the reel recommends: 15 places in Kansas to see before you die (the caption lists 16): the Flint Hills, Wilson Lake, Keeper of the Plains, Monument Rocks, Maxwell Wildlife Refuge, Castle Rock, the Smoky Valley Railroad, Tanganyika Wildlife Park, Little Jerusalem Badlands, Tallgrass Prairie National Preserve, Elk City State Park, Coronado Heights, Rock City, Mushroom Rock State Park, the Kansas State Capitol, and the Kansas Cosmosphere.
+- **[Artist Point Trail — a better Tunnel View without the crowds](https://www.instagram.com/reel/Dfpl5OfP8iS/)** — @kelleyandcarlsadventures · 1 places · Theme: Artist Point Trail, Yosemite
+  - What the reel recommends: A crowd-free alternative to Tunnel View: the Artist Point Trail in Yosemite, 2.3 miles round trip with 761 feet of gain from the Tunnel View parking area — the same iconic valley view (El Capitan, Bridalveil Fall, Half Dome) with zero people on the trail.
 
 ## How this page is updated {#how-this-page-is-updated}
 
