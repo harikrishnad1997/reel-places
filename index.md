@@ -17,7 +17,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Midwest Region — 134 places](#midwest)
 - [Southwest Region — 162 places](#southwest)
 - [Mountain West Region — 94 places](#mountain-west)
-- [West Region — 126 places](#west)
+- [West Region — 134 places](#west)
 - [Pacific Northwest Region — 69 places](#pacific-northwest)
 - [Alaska Region — 37 places](#alaska)
 - [Hawaii Region — 8 places](#hawaii)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 81 · Southeast 169 · Midwest 134 · Southwest 162 · Mountain West 94 · West 126 · Pacific Northwest 69 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 883**
+- 🧭 Organized **Region → Park or City → State → Activity → Trail or Site** — e.g. Southwest → Zion National Park → Utah → Sunrise → Canyon Overlook. Counts: Northeast 81 · Southeast 169 · Midwest 134 · Southwest 162 · Mountain West 94 · West 134 · Pacific Northwest 69 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 891**
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
 - 💬 **Ask the chatbot** — tap the **Ask Bot** button at the bottom-left of this page (and the map) to chat right here, or open [Reel Chat](chat.html) full-screen. It is the project's one chatbot (the Streamlit app): it answers questions and builds itineraries from these recommendations.
@@ -10000,7 +10000,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## West Region {#west}
 
-**126 places · California**
+**134 places · California**
 
 ### Alabama Hills
 
@@ -10291,13 +10291,29 @@ title: Reel Places — Locations from Instagram Reels, by Region
   </ul>
   </details>
 
+### Crowley Lake
+
+#### California
+
+##### Hike
+
+- **18. [Crowley Lake Columns](https://www.google.com/maps/search/?api=1&query=Crowley+Lake+Columns+Bishop+CA)** — Crowley Lake, Bishop
+  - **Best for:** Hike / 20-ft stone columns on the lake's east shore — #10 on her 'places in California that will alter your brain chemistry' list, part 2: the Crowley Lake Columns — nearly 5,000 surreal stone pillars up to 20 feet tall, joined by arches, on the east shore of Crowley Lake. They formed when snowmelt seeped into volcanic ash from the Long Valley Caldera eruption 760,000 years ago and boiled back up as steam. Reachable by a rough 4WD road off Owens Gorge Road, or a 4.3-mile out-and-back hike; the columns are only visible when the lake level is low enough.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/crowley-lake-columns)
+  - Coordinates: columns 37°36'35.6"N 118°43'14.2"W (37.609889,-118.720611); trailhead 37.589835,-118.706280. AllTrails Crowley Lake Columns: 4.3 mi out-and-back, moderate, 531 ft gain. Best July–October; no shade, bring water. The road needs high-clearance 4WD.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree (#10 in that reel)</li>
+  </ul>
+  </details>
+
 ### Death Valley National Park
 
 #### California
 
 ##### Hike
 
-- **18. [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA)** — Death Valley National Park, Stovepipe Wells
+- **19. [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA)** — Death Valley National Park, Stovepipe Wells
   - **Best for:** Hike / Death Valley's most accessible dune field, by Stovepipe Wells — Rated 9/10 in Kelley & Carl's honest ratings for California national park hikes (part 2): the Mesquite Flat Sand Dunes. Their photography play is sunrise on the dunes — rippled sand and mesquite trees under early light near Stovepipe Wells.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail)
   - Pin is the OSM Mesquite Dunes point in the Mesquite Flat dune field north of CA-190.
@@ -10326,7 +10342,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **19. [Golden Canyon Trail](https://www.google.com/maps/search/?api=1&query=Golden+Canyon+Trail+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **20. [Golden Canyon Trail](https://www.google.com/maps/search/?api=1&query=Golden+Canyon+Trail+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Hiking / Golden badlands below Zabriskie Point — One of Kelley & Carl's recommended Death Valley hikes: Golden Canyon, a walk up a golden badland wash beneath Zabriskie Point — they pair it with the Gower Gulch Loop, with Red Cathedral as the out-and-back goal.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/golden-canyon-trail-to-red-cathedral)
   - Coordinates from the NPS Golden Canyon Trailhead place record.
@@ -10337,7 +10353,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DR-MhuTCamA/">Southern California&#x27;s 3 national parks — one epic road trip</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **20. [Natural Bridge Canyon](https://www.google.com/maps/search/?api=1&query=Natural+Bridge+Canyon+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **21. [Natural Bridge Canyon](https://www.google.com/maps/search/?api=1&query=Natural+Bridge+Canyon+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Hiking / A natural bridge in a gravel canyon — One of Kelley & Carl's recommended Death Valley hikes: Natural Bridge Canyon, an easy wash walk on the Badwater Road to a massive natural bridge spanning the canyon, with dry falls beyond.
   - Coordinates are the Hikespeak trailhead point.
   <details><summary>🎬 Sources</summary>
@@ -10346,7 +10362,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DR-MhuTCamA/">Southern California&#x27;s 3 national parks — one epic road trip</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **21. [Telescope Peak](https://www.google.com/maps/search/?api=1&query=Telescope+Peak+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **22. [Telescope Peak](https://www.google.com/maps/search/?api=1&query=Telescope+Peak+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Hiking / Death Valley's 11,049-foot summit — One of Kelley & Carl's recommended Death Valley hikes: Telescope Peak, the park's 11,049-foot high point — from its summit you can see both Badwater Basin (the lowest point in North America) and Mount Whitney (the highest in the contiguous US) in one turn.
   - Coordinates from Wikipedia/USGS summit data.
   <details><summary>🎬 Sources</summary>
@@ -10358,7 +10374,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Solitude
 
-- **22. [Death Valley National Park](https://www.google.com/maps/search/?api=1&query=Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **23. [Death Valley National Park](https://www.google.com/maps/search/?api=1&query=Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Solitude — Ranked #4 for solitude, with vast desert vistas, salt flats and old mining structures, described as so quiet it gets spooky.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10386,7 +10402,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **23. [Zabriskie Point](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
+- **24. [Zabriskie Point](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
   - **Best for:** Sunrise — Ranked #2 for sunrise in the reel. Eroded badlands with colorful striped formations and pink-lit distant mountains at first light.
   - Badlands overlook off CA-190, southeast of Furnace Creek, facing Manly Beacon.
   <details><summary>🎬 Sources</summary>
@@ -10418,7 +10434,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **24. [Artist's Palette](https://www.google.com/maps/search/?api=1&query=Artist's+Palette+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
+- **25. [Artist's Palette](https://www.google.com/maps/search/?api=1&query=Artist's+Palette+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley
   - **Best for:** Sunset — Caption names a sunset at Artist's Palette in Death Valley National Park. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Pin is Artist's Palette Parking, the viewpoint on Artists Drive — the standard access point for the Artist's Palette formation (same viewpoint-point approach as Batch 1's Ukak Falls trailhead pin).
   <details><summary>🎬 Sources</summary>
@@ -10426,7 +10442,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/DGPBQOmN3NO/">Sunset — Artist&#x27;s Palette</a> by @amorywild</li>
   </ul>
   </details>
-- **25. [Artists Palette](https://www.google.com/maps/search/?api=1&query=Artists+Palette+Death+Valley)** — Death Valley National Park, Death Valley
+- **26. [Artists Palette](https://www.google.com/maps/search/?api=1&query=Artists+Palette+Death+Valley)** — Death Valley National Park, Death Valley
   - **Best for:** Sunset / Scenic drive · Mineral-streaked colorful hills — Sunset #4 in Amory's countdown: Artists Palette in Death Valley — the one-way Artists Drive loops past hills streaked pink, gold, green and lavender by mineral deposits, and the colors deepen at dusk as the light drops.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10440,7 +10456,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **26. [Dante's View](https://www.google.com/maps/search/?api=1&query=Dante's+View+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
+- **27. [Dante's View](https://www.google.com/maps/search/?api=1&query=Dante's+View+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
   - **Best for:** View — His #5 viewpoint: sweeping sunrise/sunset views over the salt flats and distant mountains.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10452,7 +10468,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/C14lvSDOrzD/">Death Valley National Park 24-hour itinerary</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **27. [Gower Gulch](https://www.google.com/maps/search/?api=1&query=Gower+Gulch+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
+- **28. [Gower Gulch](https://www.google.com/maps/search/?api=1&query=Gower+Gulch+Death+Valley+National+Park+CA)** — Death Valley National Park, Death Valley National Park
   - **Best for:** View / Hike — Caption names Gower Gulch, Death Valley National Park. The video pans slowly across a serene desert landscape of rolling hills and distant mountains under an overcast sky, with a steady heartbeat-like rhythm — emphasizing the vastness and solitude of the desert.
   - Pin is the Gower Gulch wash at the CA-190 trailhead crossing below Zabriskie Point.
   <details><summary>🎬 Sources</summary>
@@ -10463,7 +10479,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **28. [Badwater Basin](https://www.google.com/maps/search/?api=1&query=Badwater+Basin+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **29. [Badwater Basin](https://www.google.com/maps/search/?api=1&query=Badwater+Basin+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Viewpoint / Salt flats at 282 feet below sea level — A must-see on Kelley & Carl's Southern California road trip: Badwater Basin, the lowest point in North America at 282 feet below sea level, where a boardwalk leads onto vast white salt flats under the Panamint Range (Telescope Peak rises 11,000 feet directly above).
   - Coordinates from the NPS place record.
   <details><summary>🎬 Sources</summary>
@@ -10480,7 +10496,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/Cb-NBlmuX9a/">Death Valley National Park</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **29. [Ubehebe Crater](https://www.google.com/maps/search/?api=1&query=Ubehebe+Crater+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
+- **30. [Ubehebe Crater](https://www.google.com/maps/search/?api=1&query=Ubehebe+Crater+Death+Valley+National+Park+CA)** — Death Valley National Park, Furnace Creek
   - **Best for:** Viewpoint / Half-mile-wide volcanic crater — A must-see on Kelley & Carl's Southern California road trip: Ubehebe Crater at Death Valley's north end, a half-mile-wide, 600-foot-deep volcanic crater ringed by rainbow-colored ash beds, with a rim trail to Little Hebe Crater.
   - Coordinates from the NPS place record.
   <details><summary>🎬 Sources</summary>
@@ -10497,7 +10513,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **30. [Damnation Creek Trail](https://www.google.com/maps/search/?api=1&query=Damnation+Creek+Trail+Del+Norte+Coast+Redwoods+State+Park+CA)** — Del Norte Coast Redwoods State Park, Crescent City
+- **31. [Damnation Creek Trail](https://www.google.com/maps/search/?api=1&query=Damnation+Creek+Trail+Del+Norte+Coast+Redwoods+State+Park+CA)** — Del Norte Coast Redwoods State Park, Crescent City
   - **Best for:** Hike / Giant trees · Coast redwoods descending to the ocean, steep climb back — Ranked #10 of the carousel's 10 hikes among giant trees: coast redwoods lead toward the ocean in Del Norte Coast Redwoods State Park, California — with a steep climb back up from the shore.
   - Pin is the published Damnation Creek trailhead point (US-101 milepost 16 pullout, per NPS and multiple trail guides).
   <details><summary>🎬 Sources</summary>
@@ -10512,7 +10528,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Geology · Towering hexagonal basalt columns
 
-- **31. [Devil's Postpile](https://www.google.com/maps/search/?api=1&query=Devils+Postpile+National+Monument)** — Devils Postpile National Monument, Mammoth Lakes
+- **32. [Devil's Postpile](https://www.google.com/maps/search/?api=1&query=Devils+Postpile+National+Monument)** — Devils Postpile National Monument, Mammoth Lakes
   - **Best for:** Geology · Towering hexagonal basalt columns — Stop #1 on the reel's two-for-one hike (~2.6 miles round trip, moderate): towering columns of basalt formed by ancient volcanic activity, the hexagonal formations looking almost perfectly stacked.
   - Pin is the monument trailhead by the ranger station (published trailhead coordinates); the postpile formation is a short walk in.
   <details><summary>🎬 Sources</summary>
@@ -10523,7 +10539,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **32. [Rainbow Falls](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Mammoth+Lakes+CA)** — Devils Postpile National Monument, Mammoth Lakes
+- **33. [Rainbow Falls](https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Mammoth+Lakes+CA)** — Devils Postpile National Monument, Mammoth Lakes
   - **Best for:** Waterfall / Hike · 101-foot falls with rainbows in the mist — Stop #2 on the reel's hike (~5 miles round trip from the main trailhead to see both, moderate): a stunning 101-foot waterfall on the Middle Fork of the San Joaquin River, where sunlight creates rainbows in the mist — the highest waterfall on the river.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10537,7 +10553,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **33. [Highway 395 (Eastern Sierra)](https://www.google.com/maps/search/?api=1&query=Highway+395+Eastern+Sierra+Lone+Pine+CA)** — Eastern Sierra, Lone Pine
+- **34. [Highway 395 (Eastern Sierra)](https://www.google.com/maps/search/?api=1&query=Highway+395+Eastern+Sierra+Lone+Pine+CA)** — Eastern Sierra, Lone Pine
   - **Best for:** Scenic drive — One of Asya's five favorite California drives: Highway 395 along the Eastern Sierra — a winding road under snow-capped peaks and pine forests, with the Sierra escarpment on one side and the high desert on the other.
   - Pin at Lone Pine (OpenStreetMap village point), the classic Eastern Sierra stretch of US-395 beneath Mount Whitney; the drive itself runs the length of the Sierra's east side.
   <details><summary>🎬 Sources</summary>
@@ -10552,7 +10568,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **34. [Emerald Bay](https://www.google.com/maps/search/?api=1&query=Emerald+Bay+Emerald+Bay+State+Park+CA)** — Emerald Bay State Park, Tahoe City
+- **35. [Emerald Bay](https://www.google.com/maps/search/?api=1&query=Emerald+Bay+Emerald+Bay+State+Park+CA)** — Emerald Bay State Park, Tahoe City
   - **Best for:** Overlook / Tahoe's most photographed inlet — A Lake Tahoe must-see on Kelley & Carl's Reno-to-redwoods road trip — Emerald Bay, the glacier-carved inlet with Fannette Island and Vikingsholm on California's west shore.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10563,13 +10579,28 @@ title: Reel Places — Locations from Instagram Reels, by Region
   </ul>
   </details>
 
+### Finger Lake
+
+#### California
+
+##### Lake
+
+- **36. [Finger Lake](https://www.google.com/maps/search/?api=1&query=Finger+Lake+Big+Pine+Creek+CA)** — Finger Lake, Big Pine
+  - **Best for:** Lake / Emerald alpine lake below Middle Palisade — #11 on her 'places in California that will alter your brain chemistry' list, part 2: Finger Lake — a crystal-clear emerald alpine lake at about 10,800 feet in the John Muir Wilderness, below Middle Palisade and its glacier. Reached from the Big Pine Creek South Fork trailhead at Glacier Lodge: about 10–11 miles round trip to the lake, with a Class 2 scramble over a moraine past Brainard Lake. Overnight trips need a wilderness permit.
+  - Coordinates: USGS GNIS via TopoQuest N37.08624° W118.46018° (Inyo County, South Fork Big Pine Creek). No dedicated AllTrails trail page for the lake — the only /trail/ URL is the 13.6-mi Middle Palisade mountaineering route that passes it; left null rather than link a serious scramble as a lake hike.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree (#11 in that reel)</li>
+  </ul>
+  </details>
+
 ### Giant Sequoia National Monument
 
 #### California
 
 ##### Waterfall
 
-- **35. [Seven Teacups](https://www.google.com/maps/search/?api=1&query=Seven+Teacups+Kern+River+California)** — Giant Sequoia National Monument, Kernville
+- **37. [Seven Teacups](https://www.google.com/maps/search/?api=1&query=Seven+Teacups+Kern+River+California)** — Giant Sequoia National Monument, Kernville
   - **Best for:** Waterfall — A surreal chain of smooth white-granite pools on Dry Meadow Creek, each cup dropping 6 to 20 feet into the next before the water slides into the Kern River. Reached by a roughly 4-mile round-trip hike with about 850 feet of gain, rock scrambling and a creek crossing. The creator's warning, kept verbatim in spirit: please don't swim — the current can pull swimmers under even when the water looks calm.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/seven-tea-cups-7tc-vis-dry-creek-meadow)
   - Pin is OpenStreetMap's Seven Teacups waterfall point near Johnsondale Bridge, under 2 hours from Bakersfield. The reel names the AllTrails route 'Seven Tea Cups Viewpoint via Dry Creek Meadow' and mentions Johnny McNally's Fairview Lodge-Restaurant, about 10 minutes away, as a nearby stop (an amenity mention, not pinned).
@@ -10579,13 +10610,28 @@ title: Reel Places — Locations from Instagram Reels, by Region
   </ul>
   </details>
 
+### Golden Gate Bridge
+
+#### California
+
+##### Viewpoint
+
+- **38. [Golden Gate Bridge](https://www.google.com/maps/search/?api=1&query=Golden+Gate+Bridge+San+Francisco+CA)** — Golden Gate Bridge, San Francisco
+  - **Best for:** Viewpoint / The bridge from the water — #7 on her 'places in California that will alter your brain chemistry' list, part 2: the Golden Gate Bridge, seen from the water — the 1.7-mile span between the Marin Headlands and the Presidio, best from a bay cruise or the waterfront at Fort Point and Crissy Field.
+  - Coordinates: bridge midpoint 37.8199,-122.4783. No AllTrails link (bridge/viewpoint, not a trail).
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree (#7 in that reel)</li>
+  </ul>
+  </details>
+
 ### Golden Gate National Recreation Area
 
 #### California
 
 ##### Coastal hike · Cliff-top walk to a hidden cove
 
-- **36. [Muir Beach to Pirate's Cove](https://www.google.com/maps/search/?api=1&query=Pirate's+Cove+Muir+Beach)** — Golden Gate National Recreation Area, Muir Beach
+- **39. [Muir Beach to Pirate's Cove](https://www.google.com/maps/search/?api=1&query=Pirate's+Cove+Muir+Beach)** — Golden Gate National Recreation Area, Muir Beach
   - **Best for:** Coastal hike · Cliff-top walk to a hidden cove — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The coastal walk from Muir Beach south to Pirate's Cove — a cliff-top stretch of the Coastal Trail ending at a small, hidden cove beach tucked between the headlands.
   - Pin is the Pirate's Cove beach point (OSM), the hike's destination.
   <details><summary>🎬 Sources</summary>
@@ -10600,7 +10646,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach
 
-- **37. [Marshall's Beach](https://www.google.com/maps/search/?api=1&query=Marshall's+Beach+San+Francisco)** — Golden Gate National Recreation Area / Presidio, San Francisco
+- **40. [Marshall's Beach](https://www.google.com/maps/search/?api=1&query=Marshall's+Beach+San+Francisco)** — Golden Gate National Recreation Area / Presidio, San Francisco
   - **Best for:** Beach / Viewpoint · Golden Gate views without the crowds — San Francisco's most underrated Golden Gate view — and you'll probably have it to yourself. The family's route: park at the Langdon Court lot (free, mostly empty around 10 AM), walk toward Battery West, then take the Batteries to Bluffs Trail down to the beach (~0.5 mile, stairs involved — their 4- and 5-year-olds handled it fine), turn right toward Marshall's Beach and down a few more stairs. They stayed almost an hour without seeing another person. Safety notes from the reel: don't go at high tide — the beach becomes mostly inaccessible and dangerous, so check tides first; no restrooms or facilities; and it's a clothing-optional beach, worth knowing if you're bringing kids.
   - Pin is the OSM beach point for Marshall's Beach, below the Batteries to Bluffs Trail.
   <details><summary>🎬 Sources</summary>
@@ -10615,7 +10661,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Landmark
 
-- **38. [Griffith Observatory](https://www.google.com/maps/search/?api=1&query=Griffith Observatory, Griffith Park, Los Angeles, California)** — Griffith Park, Los Angeles
+- **41. [Griffith Observatory](https://www.google.com/maps/search/?api=1&query=Griffith Observatory, Griffith Park, Los Angeles, California)** — Griffith Park, Los Angeles
   - **Best for:** Landmark / Sweeping views of Los Angeles — The wrap-up stop of their Channel Islands trip, before flying out: 'we stopped by Griffith Observatory which is known for its sweeping views of Los Angeles... just seeing the city from a distance was well worth the stop!' They came early on Memorial Day, before the building opened.
   - Coordinates: published coordinates for 2800 E Observatory Rd, Los Angeles.
   <details><summary>🎬 Sources</summary>
@@ -10630,11 +10676,26 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Quiet old-growth redwood grove
 
-- **39. [Grizzly Creek Redwoods](https://www.google.com/maps/search/?api=1&query=Grizzly+Creek+Redwoods+State+Park+CA)** — Grizzly Creek Redwoods State Park, Carlotta
+- **42. [Grizzly Creek Redwoods](https://www.google.com/maps/search/?api=1&query=Grizzly+Creek+Redwoods+State+Park+CA)** — Grizzly Creek Redwoods State Park, Carlotta
   - **Best for:** Hike · Quiet old-growth redwood grove — One of California's most underrated redwood groves, with peaceful trails and massive ancient trees but without the crowds of the more famous parks. The reel's fun fact: scenes from Star Wars were filmed here.
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/reel/De7CHmAMQoz/">7 hikes that will ruin every other hike for you</a> by @discover_california_ (#3 in that reel)</li>
+  </ul>
+  </details>
+
+### Hot Creek Geological Site
+
+#### California
+
+##### Geologic site
+
+- **43. [Hot Creek Geological Site](https://www.google.com/maps/search/?api=1&query=Hot+Creek+Geological+Site+Mammoth+Lakes+CA)** — Hot Creek Geological Site, Mammoth Lakes
+  - **Best for:** Geologic site / Steaming turquoise pools in the Long Valley Caldera — #5 on her 'places in California that will alter your brain chemistry' list, part 2: Hot Creek Geological Site — steaming turquoise pools and fumaroles in a small canyon of Hot Creek, in the Long Valley Caldera east of Mammoth Lakes. A short paved trail leads down to the creek from the parking lot; Brees Lookout, just past the lot, has the best overview.
+  - Coordinates: USFS place record 37.661764,-118.832366. No soaking — bathing has been banned since May 2006; water temperatures can spike by 200°F in seconds and entering the water is illegal and dangerous. Open 6 AM–10 PM. No verified AllTrails trail page; left null.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree (#5 in that reel)</li>
   </ul>
   </details>
 
@@ -10644,7 +10705,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **40. [Avenue of the Giants](https://www.google.com/maps/search/?api=1&query=Avenue+of+the+Giants+Humboldt+Redwoods+State+Park+CA)** — Humboldt Redwoods State Park, Weott
+- **44. [Avenue of the Giants](https://www.google.com/maps/search/?api=1&query=Avenue+of+the+Giants+Humboldt+Redwoods+State+Park+CA)** — Humboldt Redwoods State Park, Weott
   - **Best for:** Scenic drive / 31 miles among old-growth redwoods — A Redwoods must-see on Kelley & Carl's Reno-to-redwoods road trip — the Avenue of the Giants, the old highway unspooling for 31 miles beneath some of the tallest trees on earth.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10658,7 +10719,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **41. [Grove of Titans](https://www.google.com/maps/search/?api=1&query=Grove+of+Titans+Jedediah+Smith+Redwoods+State+Park+CA)** — Jedediah Smith Redwoods State Park, Crescent City
+- **45. [Grove of Titans](https://www.google.com/maps/search/?api=1&query=Grove+of+Titans+Jedediah+Smith+Redwoods+State+Park+CA)** — Jedediah Smith Redwoods State Park, Crescent City
   - **Best for:** Hike / Elevated boardwalk among some of the largest known coast redwoods — Rated 9/10 in Kelley & Carl's honest ratings for California national park hikes (part 2): the Grove of Titans in Jedediah Smith Redwoods State Park — a boardwalk trail among redwood giants, some of the largest trees on earth.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/grove-of-titans)
   - Pin is the OSM Grove of Titans point; the grove is reached by the Grove of Titans Trail off the Mill Creek Trail (Howland Hill Road area).
@@ -10672,7 +10733,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **42. [Jedediah Smith Redwoods State Park](https://www.google.com/maps/search/?api=1&query=Jedediah+Smith+Redwoods+State+Park+CA)** — Jedediah Smith Redwoods State Park, Crescent City
+- **46. [Jedediah Smith Redwoods State Park](https://www.google.com/maps/search/?api=1&query=Jedediah+Smith+Redwoods+State+Park+CA)** — Jedediah Smith Redwoods State Park, Crescent City
   - **Best for:** Scenic drive — One of the five: driving through Jedediah Smith Redwoods — a dense forest of towering old-growth redwoods, the reel's lush green counterpoint to the desert and coast drives.
   - Pin is OpenStreetMap's park point near Crescent City; the classic drive through the groves is Howland Hill Road.
   <details><summary>🎬 Sources</summary>
@@ -10687,7 +10748,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **43. [Hidden Valley](https://www.google.com/maps/search/?api=1&query=Hidden+Valley+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **47. [Hidden Valley](https://www.google.com/maps/search/?api=1&query=Hidden+Valley+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Hike / One-mile loop through a boulder-ringed desert valley — Rated 6/10 in Kelley & Carl's honest ratings for California national park hikes (part 2): Hidden Valley's nature trail loops through a rock-ringed valley that legend says hid cattle rustlers — Joshua Tree's classic introduction, popular with climbers.
   - Pin is the NPS place-record point for the Hidden Valley Nature Trail trailhead.
   <details><summary>🎬 Sources</summary>
@@ -10702,7 +10763,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **44. [Arch Rock Trail](https://www.google.com/maps/search/?api=1&query=Arch+Rock+Trail+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **48. [Arch Rock Trail](https://www.google.com/maps/search/?api=1&query=Arch+Rock+Trail+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Hiking / Granite arch in the White Tank boulders — One of Kelley & Carl's best Joshua Tree hikes: the Arch Rock Trail, a short walk from Twin Tanks/White Tank into a jumble of monzogranite boulders hiding a natural arch — prime scrambling and night-sky country.
   - Coordinates are the Hikespeak Twin Tanks trailhead point.
   <details><summary>🎬 Sources</summary>
@@ -10714,7 +10775,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/C2JIysIO4x9/">Joshua Tree National Park bucket list</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **45. [Hall of Horrors](https://www.google.com/maps/search/?api=1&query=Hall+of+Horrors+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **49. [Hall of Horrors](https://www.google.com/maps/search/?api=1&query=Hall+of+Horrors+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Hiking / Slot-like passage between granite walls — A must-see on Kelley & Carl's Southern California road trip: the Hall of Horrors, a short scramble through a narrow, slot-like hallway pinched between towering granite walls near Ryan Campground in Joshua Tree.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/hall-of-horrors)
   - Coordinates from the NPS Hall of Horrors Area place record.
@@ -10725,7 +10786,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DIrQuZFx4le/">Joshua Tree mini guide</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **46. [Ryan Mountain](https://www.google.com/maps/search/?api=1&query=Ryan+Mountain+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **50. [Ryan Mountain](https://www.google.com/maps/search/?api=1&query=Ryan+Mountain+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Hiking / The park's best summit panorama — One of Kelley & Carl's best Joshua Tree hikes: Ryan Mountain, a steady 3-mile round trip climb of about 1,000 feet to a 5,457-foot summit with the park's widest panorama.
   - Coordinates are the Hikespeak trailhead point.
   <details><summary>🎬 Sources</summary>
@@ -10740,7 +10801,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **47. [Inspiration Peak (Inspiration Point)](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **51. [Inspiration Peak (Inspiration Point)](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Sunrise — Ranked #5 for sunrise in the reel. Sweeping desert and mountain vistas at dawn, with orange skies over distant valleys.
   - Reel calls it Inspiration Point in Joshua Tree. The summit above Keys View is Mount Inspiration / Inspiration Peak (5,560 ft). Trailhead is the Keys View parking lot, 33.9272, -116.18745.
   <details><summary>🎬 Sources</summary>
@@ -10751,7 +10812,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **48. [Cholla Cactus Garden](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **52. [Cholla Cactus Garden](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Viewpoint / A dense garden of teddybear cholla on the Pinto Basin Road — Rated 7/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): the Cholla Cactus Garden, a quarter-mile loop through thousands of teddybear cholla where the Colorado and Mojave deserts meet — best glowing at sunrise or sunset.
   - Pin is the OSM Cholla Cactus Garden point.
   <details><summary>🎬 Sources</summary>
@@ -10768,7 +10829,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/C2JIysIO4x9/">Joshua Tree National Park bucket list</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **49. [Keys View](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **53. [Keys View](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Viewpoint / Panorama over the Coachella Valley — A must-see on Kelley & Carl's Southern California road trip: Keys View, Joshua Tree's highest drive-up viewpoint at 5,185 feet, looking across the Coachella Valley to the San Andreas Fault, Palm Springs and the Salton Sea.
   - Coordinates from the NPS place record.
   <details><summary>🎬 Sources</summary>
@@ -10783,7 +10844,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/CfILbqGr_vr/">Keys View — Joshua Tree&#x27;s sunset spot</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **50. [Skull Rock](https://www.google.com/maps/search/?api=1&query=Skull+Rock+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **54. [Skull Rock](https://www.google.com/maps/search/?api=1&query=Skull+Rock+Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Viewpoint / Skull-shaped granite boulder — A must-see on Kelley & Carl's Southern California road trip: Skull Rock, the roadside granite boulder weathered into a perfect skull along Park Boulevard in Joshua Tree.
   - Coordinates from the NPS place record for the Joshua Tree feature.
   <details><summary>🎬 Sources</summary>
@@ -10799,7 +10860,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Winter visit
 
-- **51. [Joshua Tree National Park](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
+- **55. [Joshua Tree National Park](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+CA)** — Joshua Tree National Park, Joshua Tree
   - **Best for:** Winter visit — Ranked #3 for winter, showing arid mountain landscapes, boulder formations with a climber, and a sunset vista.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10825,7 +10886,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Redwood canyon loop to coastal ridge views
 
-- **52. [Ewoldsen Trail](https://www.google.com/maps/search/?api=1&query=Ewoldsen+Trail+Julia+Pfeiffer+Burns+State+Park+CA)** — Julia Pfeiffer Burns State Park, Big Sur
+- **56. [Ewoldsen Trail](https://www.google.com/maps/search/?api=1&query=Ewoldsen+Trail+Julia+Pfeiffer+Burns+State+Park+CA)** — Julia Pfeiffer Burns State Park, Big Sur
   - **Best for:** Hike · Redwood canyon loop to coastal ridge views — One of the four hikes the reel names under its #4 Big Sur pick: the loop up McWay Creek through redwood forest to open coastal ridge views — often called the best day hike in Big Sur.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/ewoldsen-trail)
   - Pin is the Ewoldsen Trailhead at the park's main parking area. AllTrails listed the trail as closed in fall 2026 due to fire damage — check current conditions before going.
@@ -10837,7 +10898,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Short trail through a rock tunnel to a hidden cove
 
-- **53. [Partington Cove](https://www.google.com/maps/search/?api=1&query=Partington+Cove+Big+Sur+CA)** — Julia Pfeiffer Burns State Park, Big Sur
+- **57. [Partington Cove](https://www.google.com/maps/search/?api=1&query=Partington+Cove+Big+Sur+CA)** — Julia Pfeiffer Burns State Park, Big Sur
   - **Best for:** Hike · Short trail through a rock tunnel to a hidden cove — One of the four spots the reel names under its #4 Big Sur pick: a short, steep trail down through a hand-carved tunnel to a turquoise cove once used to load tanbark onto ships.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/partington-cove-trail)
   <details><summary>🎬 Sources</summary>
@@ -10848,7 +10909,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · 80-foot falls onto a Big Sur beach cove
 
-- **54. [McWay Falls](https://www.google.com/maps/search/?api=1&query=McWay+Falls+Big+Sur+CA)** — Julia Pfeiffer Burns State Park, Big Sur
+- **58. [McWay Falls](https://www.google.com/maps/search/?api=1&query=McWay+Falls+Big+Sur+CA)** — Julia Pfeiffer Burns State Park, Big Sur
   - **Best for:** Waterfall · 80-foot falls onto a Big Sur beach cove — One of the four hikes the reel names under its #4 pick, 'literally anything in Big Sur': the 80-foot waterfall that drops onto the sand of McWay Cove, seen from the short Overlook Trail.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/overlook-trail-to-mcway-falls-and-saddle-rock)
   - AllTrails listed the Overlook Trail as closed in fall 2026 (fire damage); the falls remain viewable from Highway 1 pullouts — check current conditions.
@@ -10867,7 +10928,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach · Black-sand beach — sunset and whale watching
 
-- **55. [Black Sands Beach](https://www.google.com/maps/search/?api=1&query=Black+Sands+Beach+Shelter+Cove+CA)** — King Range National Conservation Area (Shelter Cove), Shelter Cove
+- **59. [Black Sands Beach](https://www.google.com/maps/search/?api=1&query=Black+Sands+Beach+Shelter+Cove+CA)** — King Range National Conservation Area (Shelter Cove), Shelter Cove
   - **Best for:** Beach · Black-sand beach — sunset and whale watching — The reel's #1 pick: a dramatic black sand beach at Shelter Cove on the Lost Coast, surrounded by rugged cliffs and crashing waves. Time your visit for sunset, and if you're lucky you'll spot whales offshore; winter brings the dramatic moody weather shown in the reel.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10881,7 +10942,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Featured spot (guessing game)
 
-- **56. [Ella Falls](https://www.google.com/maps/search/?api=1&query=Ella+Falls+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
+- **60. [Ella Falls](https://www.google.com/maps/search/?api=1&query=Ella+Falls+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
   - **Best for:** Featured spot (guessing game) — Fourth photo, correctly identified as Kings Canyon National Park, Ella Falls, showing a waterfall.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10891,7 +10952,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **57. [General Grant Tree](https://www.google.com/maps/search/?api=1&query=General+Grant+Tree+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
+- **61. [General Grant Tree](https://www.google.com/maps/search/?api=1&query=General+Grant+Tree+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Grant Grove
   - **Best for:** Hike / Short loop to the world's second-largest tree, the Nation's Christmas Tree — Rated 7/10 in Kelley & Carl's honest ratings for California national park hikes (part 2, as the 'General Grant Trail'): the General Grant Tree in Grant Grove — the world's second-largest tree and the only living National Shrine, memorializing the nation's war dead. Also a named highlight on their California road trip.
   - Pin is the OSM General Grant Tree point in Grant Grove.
   <details><summary>🎬 Sources</summary>
@@ -10901,7 +10962,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DfWCdSdPdQo/">4 national parks, 1 epic road trip — California</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **58. [Zumwalt Meadow](https://www.google.com/maps/search/?api=1&query=Zumwalt+Meadow+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Cedar Grove
+- **62. [Zumwalt Meadow](https://www.google.com/maps/search/?api=1&query=Zumwalt+Meadow+Kings+Canyon+National+Park+CA)** — Kings Canyon National Park, Cedar Grove
   - **Best for:** Hike / Meadow loop beneath the Kings Canyon walls at Roads End — Rated 8/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): Zumwalt Meadow, the flat loop at Roads End in Kings Canyon beneath towering granite walls and the Kings River. Also a named highlight on their California road trip, and their Kings Canyon stand-in for its 'Most Surprising' California park award.
   - Pin is the OSM Zumwalt Meadow point at Roads End, Cedar Grove.
   <details><summary>🎬 Sources</summary>
@@ -10916,9 +10977,20 @@ title: Reel Places — Locations from Instagram Reels, by Region
   </ul>
   </details>
 
+##### National park
+
+- **63. [Kings Canyon National Park](https://www.google.com/maps/search/?api=1&query=Kings+Canyon+National+Park+Cedar+Grove+CA)** — Kings Canyon National Park, Cedar Grove
+  - **Best for:** National park / Granite cliffs and the Kings River canyon — #6 on her 'places in California that will alter your brain chemistry' list, part 2: Kings Canyon National Park — the reel shows the granite cliffs and clear river of the Kings River canyon at Cedar Grove, one of the deepest canyons in the United States. Specific spots in the park (Zumwalt Meadow, General Grant Tree, the Scenic Byway) are separate pins.
+  - Coordinates: Cedar Grove, at the Kings River canyon shown in the reel. Park-level pin; specific park spots are separate pins. No AllTrails link (park-level entry).
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree (#6 in that reel)</li>
+  </ul>
+  </details>
+
 ##### Scenic drive
 
-- **59. [Kings Canyon Scenic Byway](https://www.google.com/maps/search/?api=1&query=Kings+Canyon+Scenic+Byway+CA)** — Kings Canyon National Park, Grant Grove
+- **64. [Kings Canyon Scenic Byway](https://www.google.com/maps/search/?api=1&query=Kings+Canyon+Scenic+Byway+CA)** — Kings Canyon National Park, Grant Grove
   - **Best for:** Scenic drive — One of the five: the Kings Canyon Scenic Byway — a narrow road carved between steep rocky canyon walls as it descends into Kings Canyon, following the Kings River toward Roads End.
   - Pin is OpenStreetMap's Kings Canyon Scenic Byway road point deep in the canyon (Highway 180).
   <details><summary>🎬 Sources</summary>
@@ -10929,13 +11001,28 @@ title: Reel Places — Locations from Instagram Reels, by Region
   </ul>
   </details>
 
+### Lake Tahoe
+
+#### California
+
+##### Lake
+
+- **65. [Lake Tahoe](https://www.google.com/maps/search/?api=1&query=Lake+Tahoe+CA)** — Lake Tahoe, South Lake Tahoe
+  - **Best for:** Lake / Deep-blue alpine lake on the California–Nevada line — #4 on her 'places in California that will alter your brain chemistry' list, part 2: Lake Tahoe — the deep-blue alpine lake on the California–Nevada line, the largest alpine lake in North America, ringed by Sierra peaks. The reel shows a panoramic view of the lake itself, not one specific shore.
+  - Coordinates: lake center 39.0968,-120.0324 — a representative point for the lake; the reel shows a panoramic view, not one specific shore. Specific Tahoe spots (Sand Harbor, Secret Cove, Tahoe Rim Trail) are separate pins. No AllTrails link (lake, not a trail).
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree (#4 in that reel)</li>
+  </ul>
+  </details>
+
 ### Lake Tahoe Basin
 
 #### California
 
 ##### Hike · 165-mile trail ringing Lake Tahoe
 
-- **60. [Tahoe Rim Trail](https://www.google.com/maps/search/?api=1&query=Tahoe+Rim+Trail)** — Lake Tahoe Basin, Tahoe City
+- **66. [Tahoe Rim Trail](https://www.google.com/maps/search/?api=1&query=Tahoe+Rim+Trail)** — Lake Tahoe Basin, Tahoe City
   - **Best for:** Hike · 165-mile trail ringing Lake Tahoe — The reel's opener: the 165-mile Tahoe Rim Trail, filmed on a narrow cliffside section high above Lake Tahoe's big blue water.
   - Pin sits on the trail's west-shore segment above Lake Tahoe; the 165-mile trail rings the lake across California and Nevada.
   <details><summary>🎬 Sources</summary>
@@ -10950,7 +11037,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **61. [Lands End Trail](https://www.google.com/maps/search/?api=1&query=Lands+End+Trail+San+Francisco+CA)** — Lands End, San Francisco
+- **67. [Lands End Trail](https://www.google.com/maps/search/?api=1&query=Lands+End+Trail+San+Francisco+CA)** — Lands End, San Francisco
   - **Best for:** Hike / Classic coastal cliffside walk — Her #4: the Lands End hike — the Coastal Trail along the cliffside at San Francisco's northwest corner, ocean waves below and the Golden Gate Bridge in the distance; she calls it a classic walk.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/lands-end-trail)
   - Coordinates: Wikipedia Lands End (San Francisco) — the Coastal Trail through Lands End, Golden Gate National Recreation Area.
@@ -10966,7 +11053,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Featured spot (guessing game)
 
-- **62. [Manzanita Lake](https://www.google.com/maps/search/?api=1&query=Manzanita+Lake+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Manzanita Lake
+- **68. [Manzanita Lake](https://www.google.com/maps/search/?api=1&query=Manzanita+Lake+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Manzanita Lake
   - **Best for:** Featured spot (guessing game) — Final photo, revealed as Lassen Volcanic National Park, Manzanita Lake, showing a lake with snow-capped mountains.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -10980,7 +11067,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **63. [Bumpass Hell](https://www.google.com/maps/search/?api=1&query=Bumpass+Hell+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **69. [Bumpass Hell](https://www.google.com/maps/search/?api=1&query=Bumpass+Hell+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Hike / Boardwalk through the park's largest hydrothermal area — Named in Kelley & Carl's Lassen Volcanic feature post: Bumpass Hell is Lassen's biggest geothermal area — boiling springs, mud pots and fumaroles reached by a ~3-mile round-trip trail and boardwalk.
   - Pin is the OSM Bumpass Hell point.
   <details><summary>🎬 Sources</summary>
@@ -10989,7 +11076,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/De7XzkRJkcx/">An underrated road trip — Reno, Tahoe, volcanoes and redwoods</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **64. [Cinder Cone Trail](https://www.google.com/maps/search/?api=1&query=Cinder+Cone+Trail+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **70. [Cinder Cone Trail](https://www.google.com/maps/search/?api=1&query=Cinder+Cone+Trail+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Hike / Climb a 700-foot cinder cone past the Painted Dunes and Fantastic Lava Beds — Rated a perfect 10/10 in Kelley & Carl's honest ratings for California national park hikes (part 2) — the best-rated California hike on their list. The trail climbs the loose cinder cone above Butte Lake for views over the Painted Dunes, Fantastic Lava Beds and Lassen Peak. Also their Lassen photography pick.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/cinder-cone-trail--2)
   - Pin is the NPS place-record point for the Cinder Cone trailhead at Butte Lake; the cone itself rises about a mile northwest of the trailhead.
@@ -11005,7 +11092,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/De7XzkRJkcx/">An underrated road trip — Reno, Tahoe, volcanoes and redwoods</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **65. [Lassen Peak](https://www.google.com/maps/search/?api=1&query=Lassen+Peak+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **71. [Lassen Peak](https://www.google.com/maps/search/?api=1&query=Lassen+Peak+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Hike / Summit trail up the park's namesake volcano — Named in Kelley & Carl's Lassen Volcanic feature post (quoting their checklist): the Lassen Peak Trail climbs the largest plug-dome volcano in the world — 5 miles round trip with about 2,000 ft of gain to the 10,457-ft summit.
   - Pin is the OSM Lassen Peak summit point.
   <details><summary>🎬 Sources</summary>
@@ -11017,7 +11104,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### National park
 
-- **66. [Lassen Volcanic National Park](https://www.google.com/maps/search/?api=1&query=Lassen+Volcanic+National+Park+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Mineral
+- **72. [Lassen Volcanic National Park](https://www.google.com/maps/search/?api=1&query=Lassen+Volcanic+National+Park+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Mineral
   - **Best for:** National park / All four volcano types in one park — Kelley & Carl's dedicated feature calls Lassen Volcanic 'could be the most underrated US National Park': hike past steaming fumaroles, bubbling mud pots, crystal-clear alpine lakes, lava fields and volcanoes — one of the few places on earth with all four major volcano types. They rate it 9/10 among parks visited in 2026 and 'Most Overlooked' in their California awards.
   - Pin is the Kohm Yah-mah-nee Visitor Center point at the park's southwest entrance.
   <details><summary>🎬 Sources</summary>
@@ -11030,7 +11117,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **67. [Lake Helen](https://www.google.com/maps/search/?api=1&query=Lake+Helen+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **73. [Lake Helen](https://www.google.com/maps/search/?api=1&query=Lake+Helen+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Viewpoint / Alpine lake mirroring Lassen Peak on the park highway — Named in Kelley & Carl's Lassen Volcanic feature post: Lake Helen, the deep-blue alpine lake at the base of Lassen Peak along the park highway — famous for mirror reflections of the peak on calm mornings.
   - Pin is the OSM Lake Helen point.
   <details><summary>🎬 Sources</summary>
@@ -11038,7 +11125,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/Da0j5peFlhS/">Could be the most underrated US National Park — Lassen Volcanic</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **68. [Sulphur Works](https://www.google.com/maps/search/?api=1&query=Sulphur+Works+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
+- **74. [Sulphur Works](https://www.google.com/maps/search/?api=1&query=Sulphur+Works+Lassen+Volcanic+National+Park+CA)** — Lassen Volcanic National Park, Lassen Volcanic National Park
   - **Best for:** Viewpoint / Roadside fumaroles and boiling mud pots by the park highway — Named in Kelley & Carl's Lassen Volcanic feature post: Sulphur Works is the park's drive-up hydrothermal area right on the Lassen Volcanic National Park Highway — steaming vents and mud pots from a sidewalk viewpoint.
   - Pin is the OSM Sulphur Works attraction point.
   <details><summary>🎬 Sources</summary>
@@ -11054,7 +11141,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · A two-tier cascade in a fern-lined canyon
 
-- **69. [Linda Falls](https://www.google.com/maps/search/?api=1&query=Linda+Falls+Napa)** — Linda Falls Preserve (Land Trust of Napa County), Angwin
+- **75. [Linda Falls](https://www.google.com/maps/search/?api=1&query=Linda+Falls+Napa)** — Linda Falls Preserve (Land Trust of Napa County), Angwin
   - **Best for:** Waterfall · A two-tier cascade in a fern-lined canyon — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Linda Falls near Angwin in Napa County — a two-tier waterfall on Conn Creek in a shady, fern-lined canyon, protected as a Land Trust of Napa County preserve; a short trail in from the trailhead on Howell Mountain Road.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11068,7 +11155,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **70. [Hawk Hill](https://www.google.com/maps/search/?api=1&query=Hawk+Hill+Marin+Headlands+Sausalito+CA)** — Marin Headlands, Sausalito
+- **76. [Hawk Hill](https://www.google.com/maps/search/?api=1&query=Hawk+Hill+Marin+Headlands+Sausalito+CA)** — Marin Headlands, Sausalito
   - **Best for:** Viewpoint — It looks like Hawaii's Stairway to Heaven, but it's just north of San Francisco: an easy climb of about 650 steps from the parking area to panoramic views — the Pacific on one side, the Golden Gate Bridge on the other. No long hike, free parking off Conzelman Road.
   - Pin is OpenStreetMap's Hawk Hill peak point on Conzelman Road in the Marin Headlands (Golden Gate National Recreation Area); the reel's listed address is Hawk Hill, Conzelman Rd, Sausalito, CA 94965.
   <details><summary>🎬 Sources</summary>
@@ -11083,7 +11170,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Coastal hike
 
-- **71. [Rodeo Beach to Hill 88](https://www.google.com/maps/search/?api=1&query=Hill+88+Marin+Headlands)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
+- **77. [Rodeo Beach to Hill 88](https://www.google.com/maps/search/?api=1&query=Hill+88+Marin+Headlands)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
   - **Best for:** Coastal hike / Summit · WWII-era radar site above Rodeo Beach — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The climb from Rodeo Beach up to Hill 88 in the Marin Headlands — a Cold War-era radar station ruin on the summit, with huge views over Rodeo Beach, the headlands, and the Pacific; usually looped via the Coastal and Wolf Ridge trails.
   - Pin is the OSM peak point for Hill 88, the hike's summit above Rodeo Beach.
   <details><summary>🎬 Sources</summary>
@@ -11094,7 +11181,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **72. [Morning Sun Trail](https://www.google.com/maps/search/?api=1&query=Morning+Sun+Trail+Sausalito)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
+- **78. [Morning Sun Trail](https://www.google.com/maps/search/?api=1&query=Morning+Sun+Trail+Sausalito)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
   - **Best for:** Hike / Coastal views · Short climb above the Golden Gate's north end — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The Morning Sun Trail in the Marin Headlands — a short, steep climb from the Fort Baker side up to Slacker Ridge, with views back over the Golden Gate Bridge and the bay.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11104,7 +11191,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **73. [Battery Spencer](https://www.google.com/maps/search/?api=1&query=Battery Spencer, Marin Headlands / Golden Gate National Recreation Area, Sausalito, California)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
+- **79. [Battery Spencer](https://www.google.com/maps/search/?api=1&query=Battery Spencer, Marin Headlands / Golden Gate National Recreation Area, Sausalito, California)** — Marin Headlands / Golden Gate National Recreation Area, Sausalito
   - **Best for:** Viewpoint / Best Golden Gate Bridge view, especially at sunset — 'Add this to your bucket list — if you're looking for one of the best views of the Golden Gate Bridge, this is it.' The historic battery sits high above the bridge on the Marin Headlands, with an unreal view of the Golden Gate, San Francisco and the bay — a quick stop with a huge payoff, and one of their favorite viewpoints in the area. Their timing: arrive about an hour before sunset and stay as the sun goes down; the colors just keep getting better. Caveat: the famous San Francisco fog can roll in quickly, so the view can look completely different depending on when you visit.
   - Coordinates: NPS place record for Battery Spencer (Conzelman Rd, Marin Headlands); USGS GNIS agrees (37.82778, -122.48083).
   <details><summary>🎬 Sources</summary>
@@ -11119,13 +11206,14 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · 129-ft spring-fed falls flowing year-round
 
-- **74. [Burney Falls](https://www.google.com/maps/search/?api=1&query=Burney+Falls+California)** — McArthur-Burney Falls Memorial State Park, Burney
+- **80. [Burney Falls](https://www.google.com/maps/search/?api=1&query=Burney+Falls+California)** — McArthur-Burney Falls Memorial State Park, Burney
   - **Best for:** Waterfall · 129-ft spring-fed falls flowing year-round — Known as the '8th Wonder of the World' (Theodore Roosevelt's phrase): Burney Falls, just outside the tiny town of Burney, California — and it's only a short walk from the parking lot. The 129-foot falls push through about 100 million gallons of water a day, and because they're mainly fed by underground springs they flow all year round. A little over an hour from Redding, which the reel suggests as home base. Note from the reel: during peak summer season, weekend visits need a reservation booked in advance (none needed after late September).
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/burney-falls-loop-trail)
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/reel/DdttHNRPV8i/">Known as the &#x27;8th Wonder of the World&#x27; — Burney Falls</a> by @wanderlusttravelcouple</li>
   <li><a href="https://www.instagram.com/p/DZ5QvnJFrWG/">California is so much more than Los Angeles</a> by @kelleyandcarlsadventures</li>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree</li>
   </ul>
   </details>
 
@@ -11135,12 +11223,27 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **75. [Monterey Bay](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Monterey+CA)** — Monterey Bay, Monterey
+- **81. [Monterey Bay](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Monterey+CA)** — Monterey Bay, Monterey
   - **Best for:** Sunrise — Caption names a sunrise at Monterey Bay, CA; the tagged location is Monterey Pier. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Pin is Old Fisherman's Wharf in Monterey, matching the post's tagged location (Monterey Pier); Nominatim's Monterey Bay centroid sits offshore in the bay and was rejected as a pin.
   <details><summary>🎬 Sources</summary>
   <ul>
   <li><a href="https://www.instagram.com/reel/DGQSaK9O-gV/">Sunrise — Monterey Bay</a> by @amorywild</li>
+  </ul>
+  </details>
+
+### Morro Rock
+
+#### California
+
+##### Viewpoint
+
+- **82. [Morro Rock](https://www.google.com/maps/search/?api=1&query=Morro+Rock+Morro+Bay+CA)** — Morro Rock, Morro Bay
+  - **Best for:** Viewpoint / 581-ft volcanic plug at the harbor entrance — #1 on her 'places in California that will alter your brain chemistry' list, part 2: Morro Rock — the 581-foot volcanic plug standing at the entrance to Morro Bay harbor, one of the Nine Sisters chain of volcanic plugs along the Central Coast. Best from the Embarcadero or the beach at its base.
+  - Coordinates: Wikipedia 35°22'10"N 120°52'03"W. Do not climb the rock — it is protected as the Morro Rock State Preserve, sacred to the Salinan and Chumash, and a peregrine falcon nesting site. No AllTrails link (viewpoint, no verified trail page).
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree (#1 in that reel)</li>
   </ul>
   </details>
 
@@ -11150,7 +11253,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall · Springs pouring from a moss-covered cliff
 
-- **76. [Mossbrae Falls](https://www.google.com/maps/search/?api=1&query=Mossbrae+Falls+Dunsmuir+CA)** — Mossbrae Falls, Dunsmuir
+- **83. [Mossbrae Falls](https://www.google.com/maps/search/?api=1&query=Mossbrae+Falls+Dunsmuir+CA)** — Mossbrae Falls, Dunsmuir
   - **Best for:** Waterfall · Springs pouring from a moss-covered cliff — A breathtaking waterfall whose cascades pour straight out of a moss-covered cliff into the Sacramento River below.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/mossbrae-falls)
   - Access warning from the reel itself: reaching the falls requires walking along private, active railroad tracks, so visit only if you understand and accept the risks. AllTrails lists the route as closed / private property.
@@ -11160,13 +11263,29 @@ title: Reel Places — Locations from Instagram Reels, by Region
   </ul>
   </details>
 
+### Mount Baldy
+
+#### California
+
+##### Hike
+
+- **84. [Mount Baldy](https://www.google.com/maps/search/?api=1&query=Mount+Baldy+Mount+San+Antonio+CA)** — Mount Baldy, Mount Baldy
+  - **Best for:** Hike / Snow-capped 10,064-ft summit of the San Gabriels — #8 on her 'places in California that will alter your brain chemistry' list, part 2: Mount Baldy (Mount San Antonio) — the 10,064-foot summit, highest point of the San Gabriel Mountains, shown here snow-covered in winter. The classic route is the Devil's Backbone Trail from Baldy Notch (14 mi, 4,222 ft gain); snow and ice linger into spring, so crampons and an ice axe are often needed in winter.
+  - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/mt-baldy-via-devils-backbone-trail)
+  - Coordinates: summit 34.2892,-117.6583 (Mount San Antonio, 10,064 ft). AllTrails Mount Baldy via Devil's Backbone Trail: 14 mi out-and-back, hard; the canonicalized URL drops the ?sh= tracking parameter.
+  <details><summary>🎬 Sources</summary>
+  <ul>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree (#8 in that reel)</li>
+  </ul>
+  </details>
+
 ### Mount Tamalpais State Park
 
 #### California
 
 ##### Hike
 
-- **77. [Steep Ravine Trail](https://www.google.com/maps/search/?api=1&query=Steep+Ravine+Trail+Mount+Tamalpais)** — Mount Tamalpais State Park, Stinson Beach
+- **85. [Steep Ravine Trail](https://www.google.com/maps/search/?api=1&query=Steep+Ravine+Trail+Mount+Tamalpais)** — Mount Tamalpais State Park, Stinson Beach
   - **Best for:** Hike / Redwood ravine · Ladders and cascades in a fern-filled gorge — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). The Steep Ravine Trail on Mount Tamalpais — a fern- and redwood-filled ravine along Webb Creek with small cascades and the trail's famous wooden ladder, usually looped with the Dipsea and Matt Davis trails between Pantoll and Stinson Beach.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11180,7 +11299,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **78. [Cataract Falls](https://www.google.com/maps/search/?api=1&query=Cataract+Falls+Marin)** — Mount Tamalpais Watershed, Fairfax
+- **86. [Cataract Falls](https://www.google.com/maps/search/?api=1&query=Cataract+Falls+Marin)** — Mount Tamalpais Watershed, Fairfax
   - **Best for:** Waterfall / Hike · A staircase of cascades along Cataract Creek — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Cataract Falls on the slopes of Mount Tamalpais — not one fall but a staircase of cascades along Cataract Creek through redwoods, at its best after rain; the Cataract Trail climbs ~3 miles out-and-back from Bolinas-Fairfax Road past Alpine Lake.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/cataract-falls-trail)
   <details><summary>🎬 Sources</summary>
@@ -11195,7 +11314,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **79. [17-Mile Drive](https://www.google.com/maps/search/?api=1&query=17-Mile+Drive+Pebble+Beach+CA)** — Pebble Beach, Pebble Beach
+- **87. [17-Mile Drive](https://www.google.com/maps/search/?api=1&query=17-Mile+Drive+Pebble+Beach+CA)** — Pebble Beach, Pebble Beach
   - **Best for:** Scenic drive — One of the five: the 17-Mile Drive through Pebble Beach — a tree-lined coastal road the reel shows bathed in golden sunset light, past cypress trees and ocean viewpoints.
   - Pin is an OpenStreetMap point on 17-Mile Drive itself in Pebble Beach (Del Monte Forest), on the Monterey Peninsula.
   <details><summary>🎬 Sources</summary>
@@ -11210,7 +11329,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **80. [Pier 7](https://www.google.com/maps/search/?api=1&query=Pier+7+San+Francisco+CA)** — Pier 7, San Francisco
+- **88. [Pier 7](https://www.google.com/maps/search/?api=1&query=Pier+7+San+Francisco+CA)** — Pier 7, San Francisco
   - **Best for:** Sunset / Skyline views, benches and dusk light — Her #1 of the four: Pier 7 at dusk and into the night, for the city skyline views from the end of the pier off the Embarcadero — benches to sit on, best at sunset, a spot for friends or a solo visit to clear your mind.
   - Coordinates: USGS GNIS via TopoQuest (Pier 7 locale, San Francisco North).
   <details><summary>🎬 Sources</summary>
@@ -11225,7 +11344,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **81. [High Peaks Trail](https://www.google.com/maps/search/?api=1&query=High+Peaks+Trail+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
+- **89. [High Peaks Trail](https://www.google.com/maps/search/?api=1&query=High+Peaks+Trail+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
   - **Best for:** Hike — Caption names the High Peaks Trail, Pinnacles National Park. The video follows a hiker in first person on a dirt path through hilly country, then pans to rolling hills covered in dry grass and scattered trees under a partly cloudy sky — a peaceful, contemplative walk.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/high-peaks-trail)
   - Pin is an OSM path point on the High Peaks Trail in the park's high country.
@@ -11238,7 +11357,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DeaPF1lJZ0Z/">High Peaks Trail — a crazy bucket list hike at Pinnacles</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **82. [Moses Spring and Rim Trail Loop](https://www.google.com/maps/search/?api=1&query=Moses+Spring+and+Rim+Trail+Loop+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
+- **90. [Moses Spring and Rim Trail Loop](https://www.google.com/maps/search/?api=1&query=Moses+Spring+and+Rim+Trail+Loop+Pinnacles+National+Park+CA)** — Pinnacles National Park, Pinnacles National Park
   - **Best for:** Hike / Talus caves and a reservoir on Pinnacles' east side — Rated just 4/10 in Kelley & Carl's honest ratings for California national park hikes (part 1) — their lowest California score: the Moses Spring and Rim Trail Loop passes talus caves to the Bear Gulch Reservoir on Pinnacles' east side.
   - Pin is the OSM Moses Spring point at Bear Gulch, Pinnacles National Park.
   <details><summary>🎬 Sources</summary>
@@ -11249,7 +11368,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Underrated park
 
-- **83. [Pinnacles National Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+National+Park+Pinnacles+National+Park+CA)** — Pinnacles National Park, Paicines
+- **91. [Pinnacles National Park](https://www.google.com/maps/search/?api=1&query=Pinnacles+National+Park+Pinnacles+National+Park+CA)** — Pinnacles National Park, Paicines
   - **Best for:** Underrated park — His #3 underrated park: rocky pinnacle formations, a cave passage with light streaming through, a calm reservoir, and a California condor perched on a tree.
   - Park-level pin is the park's Nominatim point.
   <details><summary>🎬 Sources</summary>
@@ -11268,7 +11387,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **84. [Pinole](https://www.google.com/maps/search/?api=1&query=Pinole+Pinole+CA)** — , Pinole
+- **92. [Pinole](https://www.google.com/maps/search/?api=1&query=Pinole+Pinole+CA)** — , Pinole
   - **Best for:** Hike — Caption names only Pinole, CA, tagged #hiking and #nature — no specific trail or spot in Pinole is named, so this entry is at the town level. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - Town-level entry: the post names only Pinole and no specific trail or spot, and the entry rests on the caption/tag only.
   <details><summary>🎬 Sources</summary>
@@ -11283,7 +11402,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Turquoise coves, sea lions and coastal trails
 
-- **85. [Point Lobos](https://www.google.com/maps/search/?api=1&query=Point+Lobos+State+Natural+Reserve+CA)** — Point Lobos State Natural Reserve, Carmel-by-the-Sea
+- **93. [Point Lobos](https://www.google.com/maps/search/?api=1&query=Point+Lobos+State+Natural+Reserve+CA)** — Point Lobos State Natural Reserve, Carmel-by-the-Sea
   - **Best for:** Hike · Turquoise coves, sea lions and coastal trails — One of the most beautiful coastal parks in California — turquoise coves, sea lions, and some of the clearest ocean views you'll find anywhere. The reel warns it has become extremely popular: visit outside peak season and peak days for a more enjoyable experience.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11299,7 +11418,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **86. [Point Reyes National Seashore](https://www.google.com/maps/search/?api=1&query=Point+Reyes+National+Seashore+Point+Reyes+National+Seashore+CA)** — Point Reyes National Seashore, Point Reyes Station
+- **94. [Point Reyes National Seashore](https://www.google.com/maps/search/?api=1&query=Point+Reyes+National+Seashore+Point+Reyes+National+Seashore+CA)** — Point Reyes National Seashore, Point Reyes Station
   - **Best for:** Viewpoint / Windy headlands, lighthouse country and tule elk north of San Francisco — From Kelley & Carl's 'California is so much more than Los Angeles' carousel: the dramatic ocean overlook at Point Reyes National Seashore — foggy headlands, beaches and wildlife an hour north of San Francisco.
   - Pin is the OSM Point Reyes National Seashore point near the peninsula's center; the lighthouse and Chimney Rock sit at its western tip.
   <details><summary>🎬 Sources</summary>
@@ -11310,7 +11429,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **87. [Alamere Falls](https://www.google.com/maps/search/?api=1&query=Alamere+Falls+Point+Reyes)** — Point Reyes National Seashore, Bolinas
+- **95. [Alamere Falls](https://www.google.com/maps/search/?api=1&query=Alamere+Falls+Point+Reyes)** — Point Reyes National Seashore, Bolinas
   - **Best for:** Waterfall / Hike · A tidefall pouring onto the beach — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Alamere Falls — one of California's rare tidefalls, pouring over the cliff straight onto Wildcat Beach in Point Reyes. Reached on the Coast Trail from the Palomarin trailhead (the long way, ~13-14 miles round trip via Wildcat Camp, is the safe official route — stay on park trails to the beach rather than the eroded shortcut).
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11324,7 +11443,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike · Flat redwood loop through ferns and moss
 
-- **88. [Karl Knapp Trail](https://www.google.com/maps/search/?api=1&query=Karl+Knapp+Trail+Prairie+Creek+Redwoods+CA)** — Prairie Creek Redwoods State Park, Orick
+- **96. [Karl Knapp Trail](https://www.google.com/maps/search/?api=1&query=Karl+Knapp+Trail+Prairie+Creek+Redwoods+CA)** — Prairie Creek Redwoods State Park, Orick
   - **Best for:** Hike · Flat redwood loop through ferns and moss — The creator's favorite redwood hike of all time: a gorgeous, mostly flat loop (also signed as the Prairie Creek Trail) through a lush redwood forest filled with ferns, moss, and towering trees.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/prairie-creek-trail-and-foothill-trail-loop)
   <details><summary>🎬 Sources</summary>
@@ -11339,7 +11458,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach
 
-- **89. [Gold Bluffs Beach](https://www.google.com/maps/search/?api=1&query=Gold+Bluffs+Beach+Redwood+National+Park+CA)** — Redwood National Park, Redwood National Park
+- **97. [Gold Bluffs Beach](https://www.google.com/maps/search/?api=1&query=Gold+Bluffs+Beach+Redwood+National+Park+CA)** — Redwood National Park, Redwood National Park
   - **Best for:** Beach / View — Caption names Gold Bluffs Beach, Redwood National Park. The video shows the dark sand beach under an overcast sky, a stream flowing across the sand into the ocean, white-capped waves, and a misty forested hillside — a solitary, meditative shoreline scene set to Satie's 'Gymnopédie No. 1.'
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11349,7 +11468,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **90. [Fern Canyon](https://www.google.com/maps/search/?api=1&query=Fern+Canyon+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- **98. [Fern Canyon](https://www.google.com/maps/search/?api=1&query=Fern+Canyon+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Hike — Ranked #5 unique hike, a lush narrow canyon with fern-covered walls and a shallow rocky stream, noted as a Jurassic Park filming location.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/fern-canyon-loop-trail)
   <details><summary>🎬 Sources</summary>
@@ -11359,9 +11478,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DaGBkNBFglC/">Honest ratings for California national park hikes — part 1</a> by @kelleyandcarlsadventures</li>
   <li><a href="https://www.instagram.com/p/DZ5QvnJFrWG/">California is so much more than Los Angeles</a> by @kelleyandcarlsadventures</li>
   <li><a href="https://www.instagram.com/p/De7XzkRJkcx/">An underrated road trip — Reno, Tahoe, volcanoes and redwoods</a> by @kelleyandcarlsadventures</li>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree</li>
   </ul>
   </details>
-- **91. [Lady Bird Johnson Grove](https://www.google.com/maps/search/?api=1&query=Lady+Bird+Johnson+Grove+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- **99. [Lady Bird Johnson Grove](https://www.google.com/maps/search/?api=1&query=Lady+Bird+Johnson+Grove+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Hike / Giant trees · Bonus — the carousel's cover grove — The carousel's bonus cover shot: Lady Bird Johnson Grove in Redwood National Park, California — a ridgetop old-growth redwood loop off Bald Hills Road, at the site where the park was dedicated in 1968. (Kelley & Carl's National Park Checklist lists the same Lady Bird Johnson Grove Trail: 1.4 miles, 100 ft gain, rated easy.)
   - Pin is the published Lady Bird Johnson Grove parking/trailhead point on Bald Hills Road.
   <details><summary>🎬 Sources</summary>
@@ -11373,7 +11493,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **92. [Tall Trees Grove](https://www.google.com/maps/search/?api=1&query=Tall+Trees+Grove+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- **100. [Tall Trees Grove](https://www.google.com/maps/search/?api=1&query=Tall+Trees+Grove+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Hiking / Permitted grove of record-breaking redwoods — A Redwoods must-see on Kelley & Carl's Reno-to-redwoods road trip — Tall Trees Grove, the permit-only descent to the Redwood Creek grove that held the world's tallest known tree.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11383,7 +11503,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Overlook
 
-- **93. [Klamath Overlook](https://www.google.com/maps/search/?api=1&query=Klamath+Overlook+Redwood+National+Park+CA)** — Redwood National Park, Klamath
+- **101. [Klamath Overlook](https://www.google.com/maps/search/?api=1&query=Klamath+Overlook+Redwood+National+Park+CA)** — Redwood National Park, Klamath
   - **Best for:** Overlook / Where the Klamath River meets the Pacific — A Redwoods must-see on Kelley & Carl's Reno-to-redwoods road trip — the Klamath Overlook, watching the river pour into the Pacific (and, in season, migrating gray whales).
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11393,7 +11513,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Wildlife
 
-- **94. [Redwood National Park](https://www.google.com/maps/search/?api=1&query=Redwood+National+Park+Redwood+National+Park+CA)** — Redwood National Park, Orick
+- **102. [Redwood National Park](https://www.google.com/maps/search/?api=1&query=Redwood+National+Park+Redwood+National+Park+CA)** — Redwood National Park, Orick
   - **Best for:** Wildlife — Captioned 'Elk in Redwood National Park,' tagged #wildlife — a park-level wildlife sighting; no specific spot in the park is named. No media narrative was stored for this post (media-understanding and the zeitgeist fallback both came back empty), so this is based on the caption and tagged location only.
   - Park-level pin is the Thomas H. Kuchel Visitor Center near Orick, the park's main visitor centre.
   <details><summary>🎬 Sources</summary>
@@ -11410,7 +11530,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Beach
 
-- **95. [Shark Fin Cove](https://www.google.com/maps/search/?api=1&query=Shark+Fin+Cove+Davenport+CA)** — Santa Cruz coast, Davenport
+- **103. [Shark Fin Cove](https://www.google.com/maps/search/?api=1&query=Shark+Fin+Cove+Davenport+CA)** — Santa Cruz coast, Davenport
   - **Best for:** Beach / Coastal view — Caption names Shark Fin Cove, Santa Cruz, CA. The video pans across the cove's layered cliffs and rock formations as waves crash into the shore and tide pools — a raw, tranquil stretch of coast.
   - Shark Fin Cove is at Davenport, on the Santa Cruz County coast north of the city of Santa Cruz.
   <details><summary>🎬 Sources</summary>
@@ -11426,7 +11546,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **96. [Big Trees Trail](https://www.google.com/maps/search/?api=1&query=Big+Trees+Trail+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **104. [Big Trees Trail](https://www.google.com/maps/search/?api=1&query=Big+Trees+Trail+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Hike / Giant trees · Paved loop around Round Meadow beneath giant sequoias — Ranked #2 of the carousel's 10 hikes among giant trees: a paved 0.7-mile loop circles Round Meadow beneath giant sequoias in Sequoia National Park, California. (Kelley & Carl's National Park Checklist independently lists the same Big Trees Trail: 1.2 miles, 110 ft gain, rated easy.)
   - Pin is the map's existing Sequoia National Park point in the Giant Forest / Round Meadow area — the Big Trees Trail trailhead sits at the Giant Forest Museum there.
   <details><summary>🎬 Sources</summary>
@@ -11441,7 +11561,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/C79bnXXskvJ/">Our crazy 3-day California road trip — snowstorm reroute</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **97. [Congress Trail](https://www.google.com/maps/search/?api=1&query=Congress+Trail+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **105. [Congress Trail](https://www.google.com/maps/search/?api=1&query=Congress+Trail+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Hike / Paved loop past the President Tree and the Senate and House groups — Rated 9/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): the Congress Trail loops from the General Sherman Tree through groves of giant sequoias — also on their most-rewarding and perfect-hikes lists. (Their National Park Checklist lists it at 2.9 miles, 255 ft gain.)
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/congress-trail)
   - Pin is the NPS place-record point for the Congress Trail in the Giant Forest.
@@ -11468,7 +11588,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/C79bnXXskvJ/">Our crazy 3-day California road trip — snowstorm reroute</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **98. [Trail of the Sequoias](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Sequoias+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **106. [Trail of the Sequoias](https://www.google.com/maps/search/?api=1&query=Trail+of+the+Sequoias+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Hike — Ranked #3 unique hike, where a hiker walks through massive hollowed-out giant sequoia trunks that emphasise their scale.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/trail-of-the-sequoias-via-congress-trail)
   <details><summary>🎬 Sources</summary>
@@ -11479,7 +11599,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Scenic drive
 
-- **99. [Generals Highway](https://www.google.com/maps/search/?api=1&query=Generals+Highway+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **107. [Generals Highway](https://www.google.com/maps/search/?api=1&query=Generals+Highway+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Scenic drive / Through the largest trees in the world by volume — One of the most beautiful national park roads in Kelley & Carl's list: the Generals Highway through Sequoia — 'a beautiful drive through the largest trees in the world by volume', climbing from the foothills up to the Giant Forest.
   - Pin sits on the Generals Highway at the Giant Forest Museum (mile 16); coordinates from the NPS passport-stamp locator.
   <details><summary>🎬 Sources</summary>
@@ -11492,7 +11612,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Top national park
 
-- **100. [Sequoia National Park](https://www.google.com/maps/search/?api=1&query=Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **108. [Sequoia National Park](https://www.google.com/maps/search/?api=1&query=Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** Top national park — Ranked #14, highlighting giant sequoia trees, mountain panoramas and a rushing river.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11518,7 +11638,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **101. [Moro Rock](https://www.google.com/maps/search/?api=1&query=Moro+Rock+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
+- **109. [Moro Rock](https://www.google.com/maps/search/?api=1&query=Moro+Rock+Sequoia+National+Park+CA)** — Sequoia National Park, Giant Forest
   - **Best for:** View — Ranked #2 for views, showing the stone staircase up Moro Rock and expansive views over layered mountain ranges.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11532,7 +11652,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **102. [Tokopah Falls](https://www.google.com/maps/search/?api=1&query=Tokopah+Falls+Sequoia+National+Park+CA)** — Sequoia National Park, Lodgepole
+- **110. [Tokopah Falls](https://www.google.com/maps/search/?api=1&query=Tokopah+Falls+Sequoia+National+Park+CA)** — Sequoia National Park, Lodgepole
   - **Best for:** Waterfall — Ranked #2 waterfall, a large fall cascading down granite slabs with a hiker visible for scale.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/tokopah-falls)
   <details><summary>🎬 Sources</summary>
@@ -11550,7 +11670,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Peak
 
-- **103. [Dragon Mountain Peak](https://www.google.com/maps/search/?api=1&query=Dragon+Mountain+Park+Milpitas)** — Thiên Long Sơn (Dragon Mountain Park), Milpitas
+- **111. [Dragon Mountain Peak](https://www.google.com/maps/search/?api=1&query=Dragon+Mountain+Park+Milpitas)** — Thiên Long Sơn (Dragon Mountain Park), Milpitas
   - **Best for:** Peak / Stairs climb · Buddhist statues and valley views from a temple hill — One of 9 hikes on Tenzin Bhutti's 'Bay Area hikes you don't want to miss' list (waterfalls, coastal trails, beautiful views). Dragon Mountain in Milpitas — the Thiên Long Sơn temple park: a 450+ step staircase climb past Buddhist statues to a grassy summit with views across Silicon Valley to Loma Prieta and Mount Umunhum. The out-and-back runs about 4 miles from the lower lot at 3215 Calaveras Rd; open sunrise to sunset, no dogs.
   - Pin is the OSM point for Dragon Mountain Park (the temple grounds); the summit boulders are above it on the trail.
   <details><summary>🎬 Sources</summary>
@@ -11565,7 +11685,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hike
 
-- **104. [Eagle Peak](https://www.google.com/maps/search/?api=1&query=Eagle+Peak+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **112. [Eagle Peak](https://www.google.com/maps/search/?api=1&query=Eagle+Peak+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike / View — His #3 hike: Eagle Peak in Yosemite National Park, praised for expansive views of Yosemite Valley, Half Dome, and surrounding granite cliffs.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/eagle-peak--6)
   - Pin is OSM's Eagle Peak point, verified inside a Yosemite-bounded search.
@@ -11574,7 +11694,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/Ddpitf0BMb-/">Top 5 National Park Hikes</a> by @amorywild (#3 in that reel)</li>
   </ul>
   </details>
-- **105. [Four Mile Trail to Glacier Point](https://www.google.com/maps/search/?api=1&query=Four+Mile+Trail+to+Glacier+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- **113. [Four Mile Trail to Glacier Point](https://www.google.com/maps/search/?api=1&query=Four+Mile+Trail+to+Glacier+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Hike — Caption names the Four Mile Trail to Glacier Point in Yosemite as the post's hike. No media narrative was stored for this post, so this is based on the caption only.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/four-mile-trail)
   - Pin is Glacier Point, the destination of the Four Mile Trail.
@@ -11589,7 +11709,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DfWCdSdPdQo/">4 national parks, 1 epic road trip — California</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **106. [Half Dome](https://www.google.com/maps/search/?api=1&query=Half+Dome+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **114. [Half Dome](https://www.google.com/maps/search/?api=1&query=Half+Dome+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike / Yosemite's ultimate day hike — the cable route up the granite icon (permit required) — On Kelley & Carl's hardest-hikes lists: over 17 miles with over 5,300 ft of elevation gain, finishing with the famous cables — dangerous when wet, and a permit is required. The toughest climb on their list, and they say it can be worth it.
   - Pin is the OSM Half Dome summit point.
   <details><summary>🎬 Sources</summary>
@@ -11602,7 +11722,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DKpVoGdsPc9/">10 national parks that need reservations in 2025</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **107. [Mariposa Grove](https://www.google.com/maps/search/?api=1&query=Mariposa+Grove+Yosemite+National+Park+CA)** — Yosemite National Park, Wawona
+- **115. [Mariposa Grove](https://www.google.com/maps/search/?api=1&query=Mariposa+Grove+Yosemite+National+Park+CA)** — Yosemite National Park, Wawona
   - **Best for:** Hike / Giant trees · Yosemite's largest sequoia grove, home of the Grizzly Giant — Ranked #5 of the carousel's 10 hikes among giant trees: meet giant sequoias in Yosemite National Park's Mariposa Grove, including the famous Grizzly Giant — the grove's oldest tree, roughly 2,000 years old.
   - Pin is the published Wikipedia point for Mariposa Grove, near Wawona at Yosemite's south entrance.
   <details><summary>🎬 Sources</summary>
@@ -11610,7 +11730,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DfgBZshmdho/">10 hikes among giant trees across the USA</a> by @nationalparksguide (#5 in that reel)</li>
   </ul>
   </details>
-- **108. [Sentinel Dome](https://www.google.com/maps/search/?api=1&query=Sentinel+Dome+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **116. [Sentinel Dome](https://www.google.com/maps/search/?api=1&query=Sentinel+Dome+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike / Granite dome summit with a 360-degree Yosemite panorama — Rated 9/10 in Kelley & Carl's honest ratings for California national park hikes (part 2): Sentinel Dome's bare granite summit gives a full-circle view — Half Dome, Yosemite Falls and El Capitan — from a short Glacier Point Road trail. Also a named highlight on their California road trip.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/sentinel-dome-trail)
   - Pin is the OSM Sentinel Dome summit point.
@@ -11621,7 +11741,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/DfWCdSdPdQo/">4 national parks, 1 epic road trip — California</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **109. [Yosemite National Park](https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **117. [Yosemite National Park](https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hike — His #3 for hiking: iconic massive waterfalls plunging down granite cliffs, misty river rapids among boulders, and panoramic overlooks of Yosemite Valley including Half Dome.
   - Park-level pin is Yosemite Village, the park's main visitor area.
   <details><summary>🎬 Sources</summary>
@@ -11651,7 +11771,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Hiking
 
-- **110. [Cook's Meadow Loop](https://www.google.com/maps/search/?api=1&query=Cooks+Meadow+Loop+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **118. [Cook's Meadow Loop](https://www.google.com/maps/search/?api=1&query=Cooks+Meadow+Loop+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hiking / Easy valley-floor loop with Half Dome and Yosemite Falls views — One of the easiest national park hikes with epic views in Kelley & Carl's list: Cook's Meadow Loop — 1.1 easy miles with 29 feet of gain and incredible views of Yosemite Valley and Yosemite Falls (they also name it a favorite Yosemite Falls viewpoint, in their waterfalls list).
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/cook-s-meadow-trail)
   - Coordinates from Mapcarta (OpenStreetMap) for Cook's Meadow.
@@ -11664,7 +11784,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/C79bnXXskvJ/">Our crazy 3-day California road trip — snowstorm reroute</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **111. [Illilouette Falls](https://www.google.com/maps/search/?api=1&query=Illilouette+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **119. [Illilouette Falls](https://www.google.com/maps/search/?api=1&query=Illilouette+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Hiking / Waterfall without the crowds, via Panorama Trail — Kelley & Carl call this the most underrated hike in Yosemite: Illilouette Falls via the Panorama Trail from Glacier Point — about 5.3 miles round trip with 1,430 feet of gain, 3-4 hours, moderate — with epic waterfall views and almost none of the crowds of Vernal, Nevada or Upper Yosemite Falls.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/illilouette-falls-via-panorama-trail)
   <details><summary>🎬 Sources</summary>
@@ -11677,7 +11797,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Landmark
 
-- **112. [Yosemite Valley Chapel](https://www.google.com/maps/search/?api=1&query=Yosemite Valley Chapel, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
+- **120. [Yosemite Valley Chapel](https://www.google.com/maps/search/?api=1&query=Yosemite Valley Chapel, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Landmark / The valley's historic 1879 chapel — Stop #5 on their '8 Can't-Miss Spots in Yosemite Valley' list — the little 1879 chapel on Southside Drive, the oldest public-use structure in Yosemite Valley.
   - Coordinates: Mapcarta (OpenStreetMap).
   <details><summary>🎬 Sources</summary>
@@ -11688,7 +11808,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Picnic area
 
-- **113. [Swinging Bridge Picnic Area](https://www.google.com/maps/search/?api=1&query=Swinging Bridge Picnic Area, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
+- **121. [Swinging Bridge Picnic Area](https://www.google.com/maps/search/?api=1&query=Swinging Bridge Picnic Area, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Picnic area / Merced River beach with the classic Yosemite Falls view — Stop #4 on their '8 Can't-Miss Spots in Yosemite Valley' list — the picnic area and footbridge over the Merced River with a postcard view of Yosemite Falls; like the rest of the list, accessible year-round.
   - Coordinates: AroundUS (OpenStreetMap) for Swinging Bridge.
   <details><summary>🎬 Sources</summary>
@@ -11699,7 +11819,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunrise
 
-- **114. [Valley View](https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- **122. [Valley View](https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Sunrise / View — Captioned 'Sunrise at Valley View' in Yosemite. The video shows the calm river at Valley View mirroring Yosemite Valley's towering granite cliffs, with autumn-colored trees at the cliff base — a quiet sunrise reflection scene.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11709,7 +11829,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Sunset
 
-- **115. [Big Oak Flat Road](https://www.google.com/maps/search/?api=1&query=Big+Oak+Flat+Road+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- **123. [Big Oak Flat Road](https://www.google.com/maps/search/?api=1&query=Big+Oak+Flat+Road+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Sunset — Caption names a sunset on Big Oak Flat Road in Yosemite National Park. No media narrative was stored for this post, so this is based on the caption and tagged location only.
   - Pin is a point on the road's in-park stretch between the Big Oak Flat entrance and Crane Flat.
   <details><summary>🎬 Sources</summary>
@@ -11720,7 +11840,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### View
 
-- **116. [Tunnel View](https://www.google.com/maps/search/?api=1&query=Tunnel+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **124. [Tunnel View](https://www.google.com/maps/search/?api=1&query=Tunnel+View+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** View — Caption names Tunnel View, Yosemite National Park. The video shows a misty valley from a high vantage point, fog drifting through the forest, then pans right and zooms in on a tall waterfall cascading down a sheer dark cliff — a quiet, overcast, contemplative scene.
   <details><summary>🎬 Sources</summary>
   <ul>
@@ -11740,7 +11860,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Viewpoint
 
-- **117. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **125. [Artist Point](https://www.google.com/maps/search/?api=1&query=Artist+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Viewpoint / Yosemite's Artist Point — the valley view that inspired painters — Rated a perfect 10/10 in Kelley & Carl's honest ratings for California national park hikes (part 1): Artist Point, Yosemite's historic viewpoint above the valley's west end (not the Yellowstone overlook of the same name). Also on their perfect-hikes list and named (with Tunnel View) on their California road trip. Reached by the Pohono Trail / old carriage road from the Tunnel View area.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/artist-point-trail)
   - Pin is the USGS GNIS Artist Point summit point above Yosemite Valley's south wall.
@@ -11752,7 +11872,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/Dfpl5OfP8iS/">Artist Point Trail — a better Tunnel View without the crowds</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **118. [Hanging Valley Viewpoint](https://www.google.com/maps/search/?api=1&query=Hanging Valley Viewpoint, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
+- **126. [Hanging Valley Viewpoint](https://www.google.com/maps/search/?api=1&query=Hanging Valley Viewpoint, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Viewpoint / Roadside view toward Bridalveil Fall — Stop #3 on their '8 Can't-Miss Spots in Yosemite Valley' list — the drive-side viewpoint named for the hanging valleys above the valley floor, looking across the Merced River toward Bridalveil Fall and Leaning Tower.
   - Coordinates: Yosemite Hummingbird's published Yosemite Valley favorite photo spots guide.
   <details><summary>🎬 Sources</summary>
@@ -11760,7 +11880,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/C7mkg3Txaoh/">8 can&#x27;t-miss spots in Yosemite Valley</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **119. [Sentinel Bridge](https://www.google.com/maps/search/?api=1&query=Sentinel Bridge, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
+- **127. [Sentinel Bridge](https://www.google.com/maps/search/?api=1&query=Sentinel Bridge, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Viewpoint / Half Dome reflected in the Merced River — Stop #7 on their '8 Can't-Miss Spots in Yosemite Valley' list — the bridge famous for Half Dome's reflection in the Merced River.
   - Coordinates: USGS GNIS record for Sentinel Bridge (via TopoQuest).
   <details><summary>🎬 Sources</summary>
@@ -11768,7 +11888,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/C7mkg3Txaoh/">8 can&#x27;t-miss spots in Yosemite Valley</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **120. [Taft Point](https://www.google.com/maps/search/?api=1&query=Taft+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **128. [Taft Point](https://www.google.com/maps/search/?api=1&query=Taft+Point+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Viewpoint / Sheer cliff-edge viewpoint over Yosemite Valley, by the Fissures — A named highlight of Stop 1 (Yosemite) on Kelley & Carl's 4-parks California road trip, and on their perfect-hikes and mountain-hikes lists: Taft Point stands at the brink of a 3,500-ft drop over Yosemite Valley, next to the Fissures — reached by an easy trail from Glacier Point Road, often paired with Sentinel Dome.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/taft-point-and-the-fissures)
   - Pin is the NPS-published Taft Point point (NPS places listing).
@@ -11784,7 +11904,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ##### Waterfall
 
-- **121. [Bridalveil Fall](https://www.google.com/maps/search/?api=1&query=Bridalveil Fall, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
+- **129. [Bridalveil Fall](https://www.google.com/maps/search/?api=1&query=Bridalveil Fall, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Waterfall / 620-foot fall at the west end of Yosemite Valley — Named among the can't-miss spots of Yosemite Valley in their spring guide: the 620-foot waterfall — often the first fall seen entering the Valley — at its best in spring snowmelt, reached by a short paved trail.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/bridalveil-fall-trail)
   - Coordinates: Wikipedia (37°43′00″N 119°38′47″W).
@@ -11797,7 +11917,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/C79bnXXskvJ/">Our crazy 3-day California road trip — snowstorm reroute</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **122. [Lower Yosemite Fall](https://www.google.com/maps/search/?api=1&query=Lower Yosemite Fall, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
+- **130. [Lower Yosemite Fall](https://www.google.com/maps/search/?api=1&query=Lower Yosemite Fall, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Waterfall / Easy 1.2-mile loop to the base of the fall — Their park #16 feature: the easy 1.2-mile Lower Yosemite Falls hike — probably the most visited trail in the park, so go soon after sunrise to see it crowd-free; they went early in May and rated it '100% worth the early wake up.' The fall is the 320-foot final drop of Yosemite Falls. The post also closes their '8 Can't-Miss Spots in Yosemite Valley' list.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/lower-yosemite-falls-trail)
   - Coordinates: USGS GNIS record for Lower Yosemite Fall (via TopoQuest).
@@ -11809,7 +11929,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/C71UMwXx1mh/">Bear encounter on the Lower Yosemite Falls trail</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **123. [Nevada Fall](https://www.google.com/maps/search/?api=1&query=Nevada Fall, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
+- **131. [Nevada Fall](https://www.google.com/maps/search/?api=1&query=Nevada Fall, Yosemite National Park, Yosemite National Park, California)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Waterfall / 594-foot Merced River fall on the Mist Trail — The upper prize of their Mist Trail post: continue past Vernal Fall and Emerald Pool to the top of 594-foot Nevada Fall — about 6.4 miles round trip with 2,200 feet of gain for both falls, best in spring and early summer at full flow.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/nevada-falls-via-the-mist-trail)
   - Coordinates: USGS GNIS falls point. The official USGS spelling is the singular 'Nevada Fall.'
@@ -11819,7 +11939,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/DM2y7VQMuGm/">Bucket list national park adventures, part 2</a> by @kelleyandcarlsadventures</li>
   </ul>
   </details>
-- **124. [Vernal Falls](https://www.google.com/maps/search/?api=1&query=Vernal+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **132. [Vernal Falls](https://www.google.com/maps/search/?api=1&query=Vernal+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Waterfall — Tagged location Yosemite National Park; on-screen text asks 'Is Vernal Falls Yosemite's most perfect waterfall?' The video shows Vernal Falls plunging over dark granite into a turbulent pool, heavy spray sustaining a vivid rainbow at its base, surrounded by steep cliffs and evergreen forest.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/vernal-falls)
   - Officially Vernal Fall (singular); the reel and common usage say Vernal Falls.
@@ -11854,9 +11974,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/p/C7j6Pu4xod8/">National Park #16 together — Lower Yosemite Falls</a> by @kelleyandcarlsadventures</li>
   <li><a href="https://www.instagram.com/reel/C79bnXXskvJ/">Our crazy 3-day California road trip — snowstorm reroute</a> by @kelleyandcarlsadventures</li>
   <li><a href="https://www.instagram.com/reel/C7t_PjdMJm_/">Vernal Falls via the Mist Trail at golden hour</a> by @kelleyandcarlsadventures</li>
+  <li><a href="https://www.instagram.com/reel/DfF4nnhSMH8/">Places in California that will alter your brain chemistry — Part 2</a> by @iamroamingfree</li>
   </ul>
   </details>
-- **125. [Wapama Falls](https://www.google.com/maps/search/?api=1&query=Wapama+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
+- **133. [Wapama Falls](https://www.google.com/maps/search/?api=1&query=Wapama+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite National Park
   - **Best for:** Waterfall — His #4 waterfall: Wapama Falls in Yosemite National Park, a powerful, misty fall crashing over boulders into the river leading toward Hetch Hetchy Reservoir.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/wapama-falls-trail)
   <details><summary>🎬 Sources</summary>
@@ -11864,7 +11985,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <li><a href="https://www.instagram.com/reel/Dd4GTzPBDJR/">Top 5 National Park Waterfalls</a> by @amorywild (#4 in that reel)</li>
   </ul>
   </details>
-- **126. [Yosemite Falls](https://www.google.com/maps/search/?api=1&query=Yosemite+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
+- **134. [Yosemite Falls](https://www.google.com/maps/search/?api=1&query=Yosemite+Falls+Yosemite+National+Park+CA)** — Yosemite National Park, Yosemite Village
   - **Best for:** Waterfall / View — Caption names Yosemite Falls. The video pans from Yosemite's granite cliffs out across the valley — forests, the winding river and Half Dome in the background — a sweeping valley panorama.
   - 🥾 AllTrails: [Trail page](https://www.alltrails.com/trail/us/california/upper-yosemite-falls-trail)
   - Nominatim's waypoint for the falls is labelled 'Middle Cascades', the middle section of Yosemite Falls; the first-pass query hit (Yosemite Valley Lodge) was a wrong namesake and was rejected.
@@ -15831,6 +15952,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A crowd-free alternative to Tunnel View: the Artist Point Trail in Yosemite, 2.3 miles round trip with 761 feet of gain from the Tunnel View parking area — the same iconic valley view (El Capitan, Bridalveil Fall, Half Dome) with zero people on the trail.
 - **[Saddle Lake Trail — a quiet lake loop in the Hoosier National Forest](https://www.instagram.com/reel/DfpwUFhtKNd/)** — @wanderingwithcourtney · 1 places · Theme: Quiet lake loop in southern Indiana
   - What the reel recommends: A quieter hiking spot in southern Indiana: the 2.4-mile Saddle Lake Trail loop in the Hoosier National Forest near Tell City — hiking-only, easy rolling terrain, lake views through hardwoods and evergreens, with boat-ramp parking, a vault toilet, and primitive camping nearby.
+- **[Places in California that will alter your brain chemistry — Part 2](https://www.instagram.com/reel/DfF4nnhSMH8/)** — @iamroamingfree · 11 places · Theme: California places that will alter your brain chemistry, part 2
+  - What the reel recommends: Part 2 of places in California that will alter your brain chemistry: Morro Rock, Burney Falls, Fern Canyon, Lake Tahoe, Hot Creek Geological Site, Kings Canyon National Park, the Golden Gate Bridge, Mount Baldy, Vernal Falls, the Crowley Lake Columns, and Finger Lake.
 
 ## How this page is updated {#how-this-page-is-updated}
 
