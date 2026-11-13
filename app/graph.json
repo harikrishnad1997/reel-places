@@ -21401,6 +21401,37 @@
    }
   },
   {
+   "id": "reel:Dd4r_nQSny1",
+   "type": "Reel",
+   "properties": {
+    "name": "Pennsylvania underground — Laurel Caverns",
+    "url": "https://www.instagram.com/reel/Dd4r_nQSny1/",
+    "title": "Pennsylvania underground — Laurel Caverns",
+    "creator": "@themobilehomie",
+    "theme": "Pennsylvania road trip stops",
+    "places_count": 1,
+    "recommendation_summary": "Laurel Caverns in Farmington, Pennsylvania — the state's first and only underground state park: massive sandstone passageways and winding tunnels under Chestnut Ridge in the Laurel Highlands, colorfully lit on a guided tour 46 stories deep.",
+    "posted": "2026-09-29",
+    "added": "2026-11-13"
+   }
+  },
+  {
+   "id": "creator:themobilehomie",
+   "type": "Creator",
+   "properties": {
+    "name": "@themobilehomie",
+    "handle": "@themobilehomie",
+    "display_name": "Jordyn Verzera & JT Mocarski"
+   }
+  },
+  {
+   "id": "theme:pennsylvania-road-trip-stops",
+   "type": "Theme",
+   "properties": {
+    "name": "Pennsylvania road trip stops"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48146,6 +48177,39 @@
    "properties": {
     "name": "Parfrey's Glen State Natural Area"
    }
+  },
+  {
+   "id": "place:laurel-caverns-pa",
+   "type": "Place",
+   "properties": {
+    "name": "Laurel Caverns State Park",
+    "place_id": "laurel-caverns-pa",
+    "site": "Laurel Caverns State Park",
+    "city": "Farmington",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "region": "Northeast",
+    "country": "United States",
+    "lat": 39.79961,
+    "lng": -79.71161,
+    "google_maps_query": "Laurel+Caverns+State+Park+Farmington+PA",
+    "best_for": "Cave tour / Underground state park",
+    "note": "Coordinates from PA DCNR/Wikipedia (39.79961,-79.71161); 1065 Skyline Dr, Farmington, PA 15437. Largest cave in PA by volume and area, deepest in the state; guided tour ~3 hours. The cave closes in winter for bat hibernation (e.g. Oct 27, 2024–Apr 22, 2025) — check laurelcaverns.com for current season hours."
+   }
+  },
+  {
+   "id": "site:laurel-caverns-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Laurel Caverns State Park"
+   }
+  },
+  {
+   "id": "theme:cave-tour-underground-state-park",
+   "type": "Theme",
+   "properties": {
+    "name": "Cave tour / Underground state park"
+   }
   }
  ],
  "edges": [
@@ -61190,6 +61254,18 @@
   {
    "from": "reel:DfsEJh9CRmG",
    "to": "theme:winter-visit",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd4r_nQSny1",
+   "to": "creator:themobilehomie",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd4r_nQSny1",
+   "to": "theme:pennsylvania-road-trip-stops",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -135602,6 +135678,37 @@
   {
    "from": "place:parfreys-glen-wi",
    "to": "theme:winter-visit",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:laurel-caverns-pa",
+   "to": "state:united-states-pa",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:laurel-caverns-pa",
+   "to": "site:laurel-caverns-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:laurel-caverns-pa",
+   "to": "reel:Dd4r_nQSny1",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Cave tour / Underground state park",
+    "recommendation": "Pennsylvania's first and only underground state park — 426 acres on Chestnut Ridge in the Laurel Highlands, about 50 mi southeast of Pittsburgh. Massive sandstone passageways and winding tunnels, colorfully lit, on a guided tour that goes 46 stories deep into the mountain; the cave stays 52°F year-round. A cool stop beyond the usual overlooks and hiking trails, especially on a Pennsylvania road trip.",
+    "creator": "@themobilehomie",
+    "reel_title": "Pennsylvania underground — Laurel Caverns",
+    "reel_theme": "Pennsylvania road trip stops"
+   }
+  },
+  {
+   "from": "place:laurel-caverns-pa",
+   "to": "theme:cave-tour-underground-state-park",
    "type": "BEST_FOR",
    "properties": {}
   }
