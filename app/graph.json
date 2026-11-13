@@ -21338,6 +21338,30 @@
    }
   },
   {
+   "id": "reel:Dekl91DBeUz",
+   "type": "Reel",
+   "properties": {
+    "name": "McCloud Waterfalls Trail",
+    "url": "https://www.instagram.com/reel/Dekl91DBeUz/",
+    "title": "McCloud Waterfalls Trail",
+    "creator": "@alexkhachigian",
+    "theme": "McCloud Waterfalls Trail",
+    "places_count": 3,
+    "recommendation_summary": "The McCloud Waterfalls Trail in Northern California: three waterfalls on the McCloud River in one 3.9-mi hike — Lower McCloud Falls (15 ft), Middle McCloud Falls (50 ft, the reel's gold-medal pick), and Upper McCloud Falls (25 ft).",
+    "posted": "2026-10-16",
+    "added": "2026-11-13"
+   }
+  },
+  {
+   "id": "creator:alexkhachigian",
+   "type": "Creator",
+   "properties": {
+    "name": "@alexkhachigian",
+    "handle": "@alexkhachigian",
+    "display_name": "Alex Khachigian"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -47967,6 +47991,70 @@
    "properties": {
     "name": "Lake / Emerald alpine lake below Middle Palisade"
    }
+  },
+  {
+   "id": "place:lower-mccloud-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Lower McCloud Falls",
+    "place_id": "lower-mccloud-falls-ca",
+    "site": "Shasta-Trinity National Forest",
+    "city": "McCloud",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 41.241065,
+    "lng": -122.024806,
+    "google_maps_query": "Lower+McCloud+Falls+McCloud+CA",
+    "best_for": "Waterfall",
+    "note": "Coordinates: Lower Falls Overlook area per annestravels.net GPS list for McCloud Falls (trailhead 41.240545, -122.025055)."
+   }
+  },
+  {
+   "id": "site:shasta-trinity-national-forest",
+   "type": "Site",
+   "properties": {
+    "name": "Shasta-Trinity National Forest"
+   }
+  },
+  {
+   "id": "place:middle-mccloud-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Middle McCloud Falls",
+    "place_id": "middle-mccloud-falls-ca",
+    "site": "Shasta-Trinity National Forest",
+    "city": "McCloud",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 41.243472,
+    "lng": -122.00945,
+    "google_maps_query": "Middle+McCloud+Falls+McCloud+CA",
+    "best_for": "Waterfall",
+    "note": "Coordinates: Middle Falls swimming hole at the base of the falls per annestravels.net GPS list; the overlook above is 41.243801, -122.008801."
+   }
+  },
+  {
+   "id": "place:upper-mccloud-falls-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Upper McCloud Falls",
+    "place_id": "upper-mccloud-falls-ca",
+    "site": "Shasta-Trinity National Forest",
+    "city": "McCloud",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 41.240331,
+    "lng": -122.009067,
+    "google_maps_query": "Upper+McCloud+Falls+McCloud+CA",
+    "best_for": "Waterfall",
+    "note": "Coordinates: Upper Falls area per annestravels.net GPS list; cross-checked against the OSM record (41.24042, -122.00908)."
+   }
   }
  ],
  "edges": [
@@ -60969,6 +61057,18 @@
   {
    "from": "reel:DfF4nnhSMH8",
    "to": "theme:california-places-that-will-alter-your-brain-chemistry-part-2",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dekl91DBeUz",
+   "to": "creator:alexkhachigian",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dekl91DBeUz",
+   "to": "theme:waterfall",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -135220,6 +135320,99 @@
   {
    "from": "place:finger-lake-ca",
    "to": "theme:lake-emerald-alpine-lake-below-middle-palisade",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:lower-mccloud-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:lower-mccloud-falls-ca",
+   "to": "site:shasta-trinity-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:lower-mccloud-falls-ca",
+   "to": "reel:Dekl91DBeUz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Waterfall",
+    "recommendation": "#1 on the reel's list: Lower McCloud Falls, a 15-ft cascade by the trailhead picnic area — the start of the 3.9-mi McCloud Waterfalls Trail, rated 4.8/5.",
+    "creator": "@alexkhachigian",
+    "reel_title": "McCloud Waterfalls Trail",
+    "reel_theme": "McCloud Waterfalls Trail"
+   }
+  },
+  {
+   "from": "place:lower-mccloud-falls-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:middle-mccloud-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:middle-mccloud-falls-ca",
+   "to": "site:shasta-trinity-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:middle-mccloud-falls-ca",
+   "to": "reel:Dekl91DBeUz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Waterfall",
+    "recommendation": "#2 on the reel's list — and its gold-medal pick: Middle McCloud Falls, a 50-ft cascade about 100 ft wide dropping into a turquoise swimming hole, the midpoint of the 3.9-mi McCloud Waterfalls Trail.",
+    "creator": "@alexkhachigian",
+    "reel_title": "McCloud Waterfalls Trail",
+    "reel_theme": "McCloud Waterfalls Trail"
+   }
+  },
+  {
+   "from": "place:middle-mccloud-falls-ca",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:upper-mccloud-falls-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:upper-mccloud-falls-ca",
+   "to": "site:shasta-trinity-national-forest",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:upper-mccloud-falls-ca",
+   "to": "reel:Dekl91DBeUz",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Waterfall",
+    "recommendation": "#3 on the reel's list: Upper McCloud Falls, a 25-ft cascade through a basalt gorge about 2.1 mi upriver from the Lower Falls trailhead on the McCloud Waterfalls Trail.",
+    "creator": "@alexkhachigian",
+    "reel_title": "McCloud Waterfalls Trail",
+    "reel_theme": "McCloud Waterfalls Trail"
+   }
+  },
+  {
+   "from": "place:upper-mccloud-falls-ca",
+   "to": "theme:waterfall",
    "type": "BEST_FOR",
    "properties": {}
   }
