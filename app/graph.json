@@ -21377,6 +21377,30 @@
    }
   },
   {
+   "id": "reel:DfsEJh9CRmG",
+   "type": "Reel",
+   "properties": {
+    "name": "Parfrey's Glen, Wisconsin — a frozen gorge in winter",
+    "url": "https://www.instagram.com/reel/DfsEJh9CRmG/",
+    "title": "Parfrey's Glen, Wisconsin — a frozen gorge in winter",
+    "creator": "@dineodowd",
+    "theme": "Winter hikes in Wisconsin",
+    "places_count": 1,
+    "recommendation_summary": "Parfrey's Glen near Merrimac, Wisconsin — the state's first State Natural Area (1952), a deep sandstone gorge under a mile in that turns into a frozen world in winter: icicles on the walls, creek and waterfall turned to ice.",
+    "posted": "2026-11-13",
+    "added": "2026-11-13"
+   }
+  },
+  {
+   "id": "creator:dineodowd",
+   "type": "Creator",
+   "properties": {
+    "name": "@dineodowd",
+    "handle": "@dineodowd",
+    "display_name": "Dineo Dowd-Wisconsin Adventure Family"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48096,6 +48120,32 @@
    "properties": {
     "name": "Sign Hill Park"
    }
+  },
+  {
+   "id": "place:parfreys-glen-wi",
+   "type": "Place",
+   "properties": {
+    "name": "Parfrey's Glen",
+    "place_id": "parfreys-glen-wi",
+    "site": "Parfrey's Glen State Natural Area",
+    "city": "Merrimac",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 43.41806,
+    "lng": -89.64139,
+    "google_maps_query": "Parfreys+Glen+State+Natural+Area+Merrimac+WI",
+    "best_for": "Hike / Winter frozen gorge",
+    "note": "Coordinates from Wikipedia for the glen itself (43.41806,-89.64139); trailhead parking off County Rd DL is at 43.40994,-89.63671. WI DNR lists the round trip as 1.6 mi (AllTrails 1.7 mi). Boardwalk destroyed by 2008/2010 floods and not replaced — the last stretch follows the streambed."
+   }
+  },
+  {
+   "id": "site:parfrey-s-glen-state-natural-area",
+   "type": "Site",
+   "properties": {
+    "name": "Parfrey's Glen State Natural Area"
+   }
   }
  ],
  "edges": [
@@ -61122,6 +61172,24 @@
   {
    "from": "reel:DfcdB7kBY7E",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfsEJh9CRmG",
+   "to": "creator:dineodowd",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfsEJh9CRmG",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfsEJh9CRmG",
+   "to": "theme:winter-visit",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -135497,6 +135565,43 @@
   {
    "from": "place:sign-hill-park-ca",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:parfreys-glen-wi",
+   "to": "state:united-states-wi",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:parfreys-glen-wi",
+   "to": "site:parfrey-s-glen-state-natural-area",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:parfreys-glen-wi",
+   "to": "reel:DfsEJh9CRmG",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Winter frozen gorge",
+    "recommendation": "Wisconsin's first State Natural Area (1952) — a deep sandstone gorge in the Baraboo Hills, under a mile in, that turns into a frozen world in winter: icicles on the walls, the creek and waterfall turned to ice. The 1.7-mi out-and-back trail is moderate. Good to know: a Wisconsin State Park sticker is required, no dogs allowed, the small parking lot fills fast on weekends so come early, and bring cleats or microspikes in winter — the trail gets icy.",
+    "creator": "@dineodowd",
+    "reel_title": "Parfrey's Glen, Wisconsin — a frozen gorge in winter",
+    "reel_theme": "Winter hikes in Wisconsin"
+   }
+  },
+  {
+   "from": "place:parfreys-glen-wi",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:parfreys-glen-wi",
+   "to": "theme:winter-visit",
    "type": "BEST_FOR",
    "properties": {}
   }
