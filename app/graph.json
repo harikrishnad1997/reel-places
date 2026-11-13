@@ -21362,6 +21362,21 @@
    }
   },
   {
+   "id": "reel:DfcdB7kBY7E",
+   "type": "Reel",
+   "properties": {
+    "name": "The Bay Area has its own Hollywood Sign?! — Sign Hill Park",
+    "url": "https://www.instagram.com/reel/DfcdB7kBY7E/",
+    "title": "The Bay Area has its own Hollywood Sign?! — Sign Hill Park",
+    "creator": "@funsizewanderer",
+    "theme": "Bay Area hikes",
+    "places_count": 1,
+    "recommendation_summary": "Sign Hill Park in South San Francisco — the Bay Area's own Hollywood Sign: giant white hillside letters spelling 'SOUTH SAN FRANCISCO THE INDUSTRIAL CITY', hikeable on the 1.4-mi Ridge, Seubert, and Letters Loop with views of SFO and the Bay.",
+    "posted": "2026-11-07",
+    "added": "2026-11-13"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48055,6 +48070,32 @@
     "best_for": "Waterfall",
     "note": "Coordinates: Upper Falls area per annestravels.net GPS list; cross-checked against the OSM record (41.24042, -122.00908)."
    }
+  },
+  {
+   "id": "place:sign-hill-park-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Sign Hill Park (South San Francisco Hillside Sign)",
+    "place_id": "sign-hill-park-ca",
+    "site": "Sign Hill Park",
+    "city": "South San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.6614238,
+    "lng": -122.4189591,
+    "google_maps_query": "Sign+Hill+Park+South+San+Francisco+CA",
+    "best_for": "Hike / Bay Area's Hollywood Sign",
+    "note": "Coordinates from Wikipedia/NRHP for the hillside sign itself (37.6614238,-122.4189591). Trail starts at Diamond Avenue; some sections steep and rocky/overgrown — sturdy shoes and long pants recommended (AllTrails)."
+   }
+  },
+  {
+   "id": "site:sign-hill-park",
+   "type": "Site",
+   "properties": {
+    "name": "Sign Hill Park"
+   }
   }
  ],
  "edges": [
@@ -61069,6 +61110,18 @@
   {
    "from": "reel:Dekl91DBeUz",
    "to": "theme:waterfall",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfcdB7kBY7E",
+   "to": "creator:funsizewanderer",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfcdB7kBY7E",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -135413,6 +135466,37 @@
   {
    "from": "place:upper-mccloud-falls-ca",
    "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:sign-hill-park-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:sign-hill-park-ca",
+   "to": "site:sign-hill-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:sign-hill-park-ca",
+   "to": "reel:DfcdB7kBY7E",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Bay Area's Hollywood Sign",
+    "recommendation": "The Bay Area's own Hollywood Sign — giant white hillside letters spelling 'SOUTH SAN FRANCISCO THE INDUSTRIAL CITY' (first put up 1923, permanent since 1929, letters 48-65 ft tall, on the National Register of Historic Places). The Ridge, Seubert, and Letters Loop is a moderate 1.4-mi loop, 488 ft gain, under an hour, hiking right up to the letters with views of SFO and the Bay Area.",
+    "creator": "@funsizewanderer",
+    "reel_title": "The Bay Area has its own Hollywood Sign?! — Sign Hill Park",
+    "reel_theme": "Bay Area hikes"
+   }
+  },
+  {
+   "from": "place:sign-hill-park-ca",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
