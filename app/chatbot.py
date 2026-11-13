@@ -423,7 +423,18 @@ def haversine(a, b):
 MAX_STOPS_PER_DAY = 4
 
 
+def _site_group(site):
+    """Group site variants under one park: 'Mount Rainier National Park
+    (Sunrise)' -> 'Mount Rainier National Park'. Used only for itinerary
+    grouping, so area variants of one park never count as separate parks."""
+    if not site:
+        return "Other"
+    return re.sub(r"\s*\([^)]*\)\s*$", "", site).strip() or site
+
+
 def answer_itinerary(g, q, raw_q):
+    explicit_days = bool(re.search(
+        r"(\d+)\s*[- ]?\s*days?\b|weekend", (raw_q or "").lower()))
     m = re.search(r"(\d+)\s*[- ]?\s*days?\b", q)
     days = int(m.group(1)) if m else (2 if "weekend" in q else 3 if "road trip" in q else 2)
     days = max(1, min(days, 14))
@@ -444,11 +455,28 @@ def answer_itinerary(g, q, raw_q):
     if not pool:
         return no_match(f"any places for an itinerary in {scope_name}")
 
-    # Group by site; order sites by greedy nearest-neighbour starting from
-    # the site with the most places, so days follow geography.
+    # "Cover all NPs in Washington" means the national parks, not every
+    # place in the state: restrict the pool to national-park sites and
+    # say so. Falls back to the full pool when the scope holds no park.
+    parks_only = False
+    excluded_non_park = 0
+    if re.search(r"national parks?\b|\bnps?\b", (raw_q or "").lower()):
+        np_pool = [p for p in pool
+                   if "national park" in _site_group(
+                       p["properties"].get("site") or "").lower()]
+        if np_pool:
+            excluded_non_park = len(pool) - len(np_pool)
+            pool = np_pool
+            parks_only = True
+            if not scope_name.lower().endswith("national parks"):
+                scope_name = scope_name + " national parks"
+
+    # Group by park; order parks by greedy nearest-neighbour starting from
+    # the park with the most places, so days follow geography.
     by_site = {}
     for p in pool:
-        key = p["properties"].get("site") or p["properties"].get("city") or "Other"
+        key = _site_group(p["properties"].get("site")
+                          or p["properties"].get("city") or "Other")
         by_site.setdefault(key, []).append(p)
     centroids = {s: (sum(p["properties"]["lat"] for p in ps) / len(ps),
                      sum(p["properties"]["lng"] for p in ps) / len(ps))
@@ -466,32 +494,104 @@ def answer_itinerary(g, q, raw_q):
     for s in order:
         stream.extend(sorted(by_site[s], key=lambda p: p["properties"]["name"]))
 
-    # Pack the geographically ordered stream into days: keep a site together
-    # where it fits, cap stops per day (the final day absorbs any remainder).
-    plan, day = [], []
-    for s in order:
-        ps = sorted(by_site[s], key=lambda p: p["properties"]["name"])
-        if day and len(day) + len(ps) > MAX_STOPS_PER_DAY:
-            plan.append(day)
-            day = []
-        for p in ps:
-            if len(day) >= MAX_STOPS_PER_DAY:
+    # No trip length given: the shortest plan that touches every park is
+    # one day per park (clamped), not the old 2-day default — 2 days can
+    # never cover 3 far-apart parks, and the old packing silently dropped
+    # every park but the biggest (found 2026-11-12: "cover all NPs in
+    # Washington" returned Olympic only).
+    days_defaulted = False
+    if not explicit_days:
+        days = max(2, min(len(by_site), 7))
+        days_defaulted = True
+
+    overflow = []
+    rescued = []
+    if 1 < len(order) <= days:
+        # One park per day, in geographic order; a park's extra stops
+        # overflow. Extra days (beyond one per park) split the fullest
+        # days instead of mixing parks into a day.
+        plan = []
+        for s in order:
+            ps = sorted(by_site[s], key=lambda p: p["properties"]["name"])
+            plan.append(ps[:MAX_STOPS_PER_DAY])
+            overflow.extend(ps[MAX_STOPS_PER_DAY:])
+        while len(plan) < days:
+            fullest = max(range(len(plan)), key=lambda i: len(plan[i]))
+            if len(plan[fullest]) < 2:
+                break
+            day = plan[fullest]
+            half = len(day) // 2
+            plan[fullest:fullest + 1] = [day[:half], day[half:]]
+    else:
+        # Pack the geographically ordered stream into days: keep a site
+        # together where it fits, cap stops per day (the final day absorbs
+        # any remainder).
+        plan, day = [], []
+        for s in order:
+            ps = sorted(by_site[s], key=lambda p: p["properties"]["name"])
+            if day and len(day) + len(ps) > MAX_STOPS_PER_DAY:
                 plan.append(day)
                 day = []
-            day.append(p)
-    if day:
-        plan.append(day)
-    # More days than asked for at the per-day cap: keep the requested days
-    # sane and list the rest as not fitted, instead of overloading a day.
-    overflow = []
-    if len(plan) > days:
-        overflow = [p for d in plan[days:] for p in d]
-        plan = plan[:days]
-    # If the site-packing produced fewer days than asked and there are enough
-    # places, re-chunk the ordered stream evenly so every day is used.
-    if len(plan) < days and len(stream) >= days:
-        per = math.ceil(len(stream) / days)
-        plan = [stream[i:i + per] for i in range(0, len(stream), per)]
+            for p in ps:
+                if len(day) >= MAX_STOPS_PER_DAY:
+                    plan.append(day)
+                    day = []
+                day.append(p)
+        if day:
+            plan.append(day)
+        # More days than asked for at the per-day cap: keep the requested
+        # days sane and list the rest as not fitted, instead of overloading
+        # a day.
+        if len(plan) > days:
+            overflow = [p for d in plan[days:] for p in d]
+            plan = plan[:days]
+        # If the site-packing produced fewer days than asked and there are
+        # enough places, re-chunk the ordered stream evenly so every day
+        # is used — but never above the per-day cap.
+        if len(plan) < days and len(stream) >= days:
+            per = math.ceil(len(stream) / days)
+            if per <= MAX_STOPS_PER_DAY:
+                plan = [stream[i:i + per] for i in range(0, len(stream), per)]
+                overflow = []
+        # Coverage rescue: truncating a site-major stream keeps only the
+        # first park(s). Every national park in scope gets at least one
+        # stop in the plan, by swapping a rescued stop in for a stop from
+        # the most-represented park of the most monotonous day.
+        plan_sites = {_site_group(p["properties"].get("site") or "")
+                      for d in plan for p in d}
+        missing_parks = [s for s in order
+                         if "national park" in s.lower() and s not in plan_sites]
+        # Only rescue when every missing park can actually fit: with more
+        # missing parks than stops, rescue is meaningless (e.g. a
+        # scope-less all-places plan) — leave the plan as packed.
+        if len(missing_parks) > days * MAX_STOPS_PER_DAY:
+            missing_parks = []
+        for s in missing_parks:
+            first = sorted(by_site[s],
+                           key=lambda p: p["properties"]["name"])[0]
+            short = [d for d in plan if len(d) < MAX_STOPS_PER_DAY]
+            if short:
+                short[-1].append(first)
+                rescued.append(s)
+                continue
+            def _mono(d):
+                counts = {}
+                for p in d:
+                    k = _site_group(p["properties"].get("site") or "")
+                    counts[k] = counts.get(k, 0) + 1
+                return max(counts.values()) if counts else 0
+            day = max(plan, key=lambda d: (_mono(d), len(d)))
+            counts = {}
+            for p in day:
+                k = _site_group(p["properties"].get("site") or "")
+                counts[k] = counts.get(k, 0) + 1
+            majority = max(counts, key=lambda k: (counts[k], k))
+            idx = max(i for i, p in enumerate(day)
+                      if _site_group(p["properties"].get("site") or "") == majority)
+            displaced = day[idx]
+            day[idx] = first
+            overflow.insert(0, displaced)
+            rescued.append(s)
 
     def slot_of(p):
         themes = [t["properties"]["name"] for t in g.targets(p["id"], "BEST_FOR")]
@@ -505,10 +605,31 @@ def answer_itinerary(g, q, raw_q):
     slot_names = {0: "Morning (sunrise pick)", 1: "Daytime", 2: "Evening (sunset pick)"}
     lines = [f"{len(plan)}-day itinerary - {scope_name} "
              f"({len(pool)} place(s) from the reels, grouped by park and ordered by proximity):"]
+    if parks_only and excluded_non_park:
+        lines.append(f"National parks only: {excluded_non_park} more place(s) "
+                     f"in this scope are outside the national parks and are not "
+                     f"in this plan - ask for the full "
+                     f"{scope_name.removesuffix(' national parks')} itinerary "
+                     f"to include them.")
+    if days_defaulted:
+        lines.append(f"No trip length was given, so this is the shortest plan "
+                     f"that touches every park here - {len(plan)} day(s). Add "
+                     f"days to fit more of the {len(overflow)} other place(s) "
+                     f"in scope.")
+    if rescued:
+        if len(rescued) == 1:
+            lines.append(f"With {days} day(s) the parks share days, so "
+                         f"{rescued[0]} only gets a single stop - give the "
+                         f"trip more days for a full day per park.")
+        else:
+            lines.append(f"With {days} day(s) the parks share days, so "
+                         f"{', '.join(rescued)} only get a single stop each - "
+                         f"give the trip more days for a full day per park.")
     for i, day_places in enumerate(plan, 1):
         day_sites = []
         for p in day_places:
-            s = p["properties"].get("site") or p["properties"].get("city") or ""
+            s = _site_group(p["properties"].get("site")
+                            or p["properties"].get("city") or "")
             if s and s not in day_sites:
                 day_sites.append(s)
         lines.append(f"\nDay {i} - {', '.join(day_sites)}")
@@ -538,7 +659,7 @@ def answer_itinerary(g, q, raw_q):
             lines.append(f"  - {pr['name']} ({pr.get('site') or ''})")
             lines.append(f'    Source: "{title}" by {creator} - {rp.get("url") or ""}')
     if len(plan) < days:
-        lines.append(f"\n(Only {len(pool)} place(s) are in the graph for this scope, "
+        lines.append(f"\n(Only {len(stream)} place(s) are in the graph for this scope, "
                      f"so the plan uses {len(plan)} day(s) rather than {days}.)")
     return "\n".join(lines)
 
@@ -582,9 +703,13 @@ def canonical_question(parsed):
     return None
 
 
-def route_rules(g, question):
+def route_rules(g, question, raw_question=None):
+    """Canonical question drives the rules; raw_question (the user's own
+    words, when the canonical form came from the LLM parse) is what the
+    itinerary builder reads for intent signals the parse drops — "NPs",
+    or whether a trip length was actually given instead of defaulted."""
     q = " " + re.sub(r"\s+", " ", question.lower()).strip() + " "
-    raw_q = question
+    raw_q = raw_question if raw_question is not None else question
     result = None
     m = re.search(r"places between (.+?) \|\| (.+)", q)
     if m:
@@ -733,6 +858,10 @@ def build_references(grounded):
         if m:
             current = m.group(1)
             continue
+        m = re.match(r"^\s+- (.+?) \(([^)]+)\)\s*$", ln)  # itinerary overflow line
+        if m:
+            current = m.group(1)
+            continue
         m = re.match(r'^Source: "(.+)" by (.+?) - (https?://\S+)$', s)
         if m:
             entry = (current, f'"{m.group(1)}" by {m.group(2)} - {m.group(3)}')
@@ -823,7 +952,7 @@ def _answer_full(g, question, backend_note):
                          "either. Try naming a theme (sunrise, waterfall, hike), "
                          "a place or park, a creator like @amorywild, or ask for an "
                          "itinerary with a number of days."), "places": []}
-    result = route_rules(g, canon)
+    result = route_rules(g, canon, question)
     places = []
     if result.startswith("I can only answer") or result.startswith("I don't have "):
         web = web_fallback()
