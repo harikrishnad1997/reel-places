@@ -21487,6 +21487,30 @@
    }
   },
   {
+   "id": "reel:Dfuq2OmoIdr",
+   "type": "Reel",
+   "properties": {
+    "name": "Fort Point's secret window — Golden Gate Bridge viewpoint, San Francisco",
+    "url": "https://www.instagram.com/reel/Dfuq2OmoIdr/",
+    "title": "Fort Point's secret window — Golden Gate Bridge viewpoint, San Francisco",
+    "creator": "@wanderwithdeepti",
+    "theme": "Scenic viewpoint",
+    "places_count": 1,
+    "recommendation_summary": "Fort Point National Historic Site in San Francisco — a hidden viewpoint inside the Civil War-era fort beneath the Golden Gate: the 3rd-floor arched window frames the bridge perfectly, and the 4th-floor rooftop gives an open view.",
+    "posted": "2026-11-14",
+    "added": "2026-11-14"
+   }
+  },
+  {
+   "id": "creator:wanderwithdeepti",
+   "type": "Creator",
+   "properties": {
+    "name": "@wanderwithdeepti",
+    "handle": "@wanderwithdeepti",
+    "display_name": "DEEPTI | Couple Travel | Family Travel | Culture & Lifestyle"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48291,6 +48315,32 @@
     "best_for": "Cave / Mainland sea cave — kayak or hike from Meyers Beach",
     "note": "Coordinates: UW-Madison Mainland Sea Caves station (46.909283, -91.036250), at the cave sequence. The Crevasse is the first cave on the Lakeshore Trail, 1.8 mi from Meyers Beach (3.6-mi round trip); continuing to the Bowl makes 4.8 mi round trip. Meyers Beach is a fee parking lot; the trail is cliff-top only — no access down to the caves from land. The famous winter ice caves here were last publicly accessible in 2015; that winter pin is apostle-islands-ice-caves-wi."
    }
+  },
+  {
+   "id": "place:fort-point-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Fort Point National Historic Site",
+    "place_id": "fort-point-ca",
+    "site": "Fort Point National Historic Site",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.810587,
+    "lng": -122.477049,
+    "google_maps_query": "Fort Point National Historic Site, San Francisco, CA",
+    "best_for": "Viewpoint / Golden Gate Bridge window",
+    "note": "Coordinates: NPS exact location (37.810587, -122.477049), 201 Marine Dr, San Francisco, CA 94129. Civil War-era brick fort beneath the Golden Gate, part of Golden Gate National Recreation Area; free admission. The reel says generally open Fri-Sun 10 AM-5 PM, rooftop closes 4:30 PM — check NPS hours before visiting. No AllTrails link: the only AllTrails page starting here is the 4.2-mi Fort Point-Baker Beach Coast Trail, a coastal hike, not the fort viewpoint the reel recommends."
+   }
+  },
+  {
+   "id": "site:fort-point-national-historic-site",
+   "type": "Site",
+   "properties": {
+    "name": "Fort Point National Historic Site"
+   }
   }
  ],
  "edges": [
@@ -61371,6 +61421,18 @@
   {
    "from": "reel:DfsB8bLgqTj",
    "to": "theme:apostle-islands-mainland-sea-caves",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfuq2OmoIdr",
+   "to": "creator:wanderwithdeepti",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfuq2OmoIdr",
+   "to": "theme:view",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -135864,6 +135926,37 @@
   {
    "from": "place:the-crevasse-wi",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:fort-point-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:fort-point-ca",
+   "to": "site:fort-point-national-historic-site",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:fort-point-ca",
+   "to": "reel:Dfuq2OmoIdr",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint / Golden Gate Bridge window",
+    "recommendation": "A hidden-gem viewpoint inside the Civil War-era brick fort beneath the Golden Gate: climb to the 3rd floor and look through the arched windows for a perfectly framed view of the bridge, then head to the 4th-floor rooftop for an open view. Free to enter — a photographer's spot and a different side of San Francisco.",
+    "creator": "@wanderwithdeepti",
+    "reel_title": "Fort Point's secret window — Golden Gate Bridge viewpoint, San Francisco",
+    "reel_theme": "Scenic viewpoint"
+   }
+  },
+  {
+   "from": "place:fort-point-ca",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
