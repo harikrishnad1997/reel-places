@@ -46592,8 +46592,32 @@
    "source_reel_theme": "Pennsylvania road trip stops",
    "additional_sources": [],
    "note": "Coordinates from PA DCNR/Wikipedia (39.79961,-79.71161); 1065 Skyline Dr, Farmington, PA 15437. Largest cave in PA by volume and area, deepest in the state; guided tour ~3 hours. The cave closes in winter for bat hibernation (e.g. Oct 27, 2024–Apr 22, 2025) — check laurelcaverns.com for current season hours."
+  },
+  {
+   "id": "the-crevasse-wi",
+   "name": "The Crevasse",
+   "site": "Apostle Islands National Lakeshore",
+   "city": "Cornucopia",
+   "state": "Wisconsin",
+   "state_code": "WI",
+   "country": "USA",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 46.909283,
+   "lng": -91.03625,
+   "google_maps_query": "The Crevasse Apostle Islands National Lakeshore, Cornucopia, Wisconsin",
+   "best_for": "Cave / Mainland sea cave — kayak or hike from Meyers Beach",
+   "recommendation": "The Crevasse, a well-known geological formation in the mainland sea caves at Apostle Islands National Lakeshore — a narrow dark fracture in red sandstone, 100 yards deep, best seen from the water by boat or kayak in the October color season. Cornucopia is the western gateway, 3 miles from Meyers Beach, the trailhead for hiking to the caves and the kayak launch.",
+   "source_reel": "https://www.instagram.com/reel/DfsB8bLgqTj/",
+   "source_title": "The Crevasse in October — Apostle Islands mainland sea caves",
+   "source_creator": "@visitcorny",
+   "source_rank": 1,
+   "source_reel_theme": "Apostle Islands mainland sea caves",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/wisconsin/meyers-beach-sea-cave-trail",
+   "note": "Coordinates: UW-Madison Mainland Sea Caves station (46.909283, -91.036250), at the cave sequence. The Crevasse is the first cave on the Lakeshore Trail, 1.8 mi from Meyers Beach (3.6-mi round trip); continuing to the Bowl makes 4.8 mi round trip. Meyers Beach is a fee parking lot; the trail is cliff-top only — no access down to the caves from land. The famous winter ice caves here were last publicly accessible in 2015; that winter pin is apostle-islands-ice-caves-wi."
   }
  ],
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "version": 1
 }

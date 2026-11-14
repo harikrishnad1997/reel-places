@@ -18523,6 +18523,21 @@
    "places_count": 1,
    "duplicate_place": true,
    "recommendation_summary": "Biidi the Arch (also called Shell Cave) in Page, Arizona — a massive natural sandstone arch hidden behind the Shell station, a ~5-minute free walk from the dirt lot."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfsB8bLgqTj/",
+   "title": "The Crevasse in October — Apostle Islands mainland sea caves",
+   "creator": "@visitcorny",
+   "creator_name": "Visit Cornucopia WI",
+   "theme": "Apostle Islands mainland sea caves",
+   "posted": "2026-11-13",
+   "added": "2026-11-14",
+   "place_ids": [
+    "the-crevasse-wi"
+   ],
+   "places_count": 1,
+   "duplicate_place": false,
+   "recommendation_summary": "The Crevasse in the mainland sea caves at Apostle Islands National Lakeshore — a narrow dark fracture in red sandstone, 100 yards deep, best seen from the water in October."
   }
  ]
 }
