@@ -21432,6 +21432,30 @@
    }
   },
   {
+   "id": "reel:DfsTrXGPphM",
+   "type": "Reel",
+   "properties": {
+    "name": "Hidden behind a gas station — Biidi the Arch (Shell Cave), Page",
+    "url": "https://www.instagram.com/reel/DfsTrXGPphM/",
+    "title": "Hidden behind a gas station — Biidi the Arch (Shell Cave), Page",
+    "creator": "@shelby_catlett",
+    "theme": "Page, Arizona hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Biidi the Arch (also called Shell Cave) in Page, Arizona — a massive natural sandstone arch hidden behind the Shell station, a ~5-minute free walk from the dirt lot.",
+    "posted": "2026-11-13",
+    "added": "2026-11-13"
+   }
+  },
+  {
+   "id": "creator:shelby-catlett",
+   "type": "Creator",
+   "properties": {
+    "name": "@shelby_catlett",
+    "handle": "@shelby_catlett",
+    "display_name": "Adventure Travel | Photographer | Content Creator"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -42429,6 +42453,13 @@
    }
   },
   {
+   "id": "theme:hidden-gem-short-walk-to-the-arch-behind-the-shell-station",
+   "type": "Theme",
+   "properties": {
+    "name": "Hidden gem / Short walk to the arch behind the Shell station"
+   }
+  },
+  {
    "id": "place:rainbow-point-ut",
    "type": "Place",
    "properties": {
@@ -61266,6 +61297,18 @@
   {
    "from": "reel:Dd4r_nQSny1",
    "to": "theme:pennsylvania-road-trip-stops",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfsTrXGPphM",
+   "to": "creator:shelby-catlett",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfsTrXGPphM",
+   "to": "theme:page-arizona-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -127342,6 +127385,25 @@
   {
    "from": "place:shell-cave-az",
    "to": "theme:hidden-gem-the-alcove-behind-the-shell-station-in-page",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:shell-cave-az",
+   "to": "reel:DfsTrXGPphM",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hidden gem / Short walk to the arch behind the Shell station",
+    "recommendation": "Hidden behind the Shell station in Page: Biidi the Arch (also called Shell Cave), a massive natural sandstone arch a ~5-minute walk from the dirt lot — free to access, basically hiding in plain sight. Grab snacks at the station, park in the dirt lot, and walk a few minutes to the arch.",
+    "creator": "@shelby_catlett",
+    "reel_title": "Hidden behind a gas station — Biidi the Arch (Shell Cave), Page",
+    "reel_theme": "Page, Arizona hidden gems"
+   }
+  },
+  {
+   "from": "place:shell-cave-az",
+   "to": "theme:hidden-gem-short-walk-to-the-arch-behind-the-shell-station",
    "type": "BEST_FOR",
    "properties": {}
   },
