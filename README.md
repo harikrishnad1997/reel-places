@@ -2,7 +2,7 @@
 
 **Every place worth visiting that hides inside Instagram travel reels — extracted, verified, geocoded, and organized on one page with a map and a chatbot.**
 
-Send a reel, and Reel Places pulls out every location it names, checks each one against a real map, records *what the reel recommended it for* (the sunrise, the hike, the viewpoint…), and files it under **Region → Park or City → State → Activity → Trail or Site**. Duplicates never get a second pin — a second reel recommending the same place is added as another source on the same entry, so the best-covered places rise to the top.
+Send a reel, and Reel Places pulls out every location it names, checks each one against a real map, records *what the reel recommended it for* (the sunrise, the hike, the viewpoint…), and files it under **Region → State → Park or City → Activity → Trail or Site**. Duplicates never get a second pin — a second reel recommending the same place is added as another source on the same entry, so the best-covered places rise to the top.
 
 ## Live
 
@@ -14,7 +14,7 @@ Send a reel, and Reel Places pulls out every location it names, checks each one 
 
 ## Features
 
-- **Region-first browsing** — places grouped Region → National/State Park or City → State → Activity → Trail/Site, so "sunrise spots in Zion" is a scroll, not a search
+- **Region-first browsing** — places grouped Region → State → National/State Park or City → Activity → Trail/Site, so "sunrise spots in Zion" is a scroll, not a search
 - **One pin per place, every source attached** — each entry and map popup carries every recommending reel: creator, reel title, rank in the reel, its "best for" tag, and the recommendation in the creator's own framing
 - **Verified coordinates** — every pin is geocoded against OpenStreetMap and validated inside its state (and park, where relevant); same-name traps (a gift shop called "The Beehive", a bus stop called "Horseshoe Falls") are rejected, and anything that can't be pinned honestly is left out rather than guessed
 - **A graph, not a spreadsheet** — the data also builds a Kuzu knowledge graph (Place · Site · State · Region · Country · Reel · Creator · Theme), which powers Reel Chat's answers and itinerary builder
