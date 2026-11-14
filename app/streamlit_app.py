@@ -148,7 +148,7 @@ def render_answer_map(answer_places):
         clng = sum(r["lng"] for r in rows) / len(rows)
         span = max(max(r["lat"] for r in rows) - min(r["lat"] for r in rows),
                    max(r["lng"] for r in rows) - min(r["lng"] for r in rows))
-        zoom = (12 if span <= 0.02 else 10 if span <= 0.1 else 8 if span <= 0.5
+        zoom = (12 if span <= 0.02 else 10 if span <= 0.1 else 8 if span <= 1
                 else 6 if span <= 2 else 5 if span <= 6 else 4 if span <= 15 else 3)
         # One layer per region, each with a CONSTANT fill colour (a plain
         # [r, g, b] list, no accessor expression). Per-row colour accessors

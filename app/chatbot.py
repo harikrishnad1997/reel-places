@@ -408,6 +408,69 @@ def answer_between(g, site_a, site_b):
     return "\n".join(lines)
 
 
+NEAR_MILES = 50
+
+
+def answer_near(g, raw_q):
+    """Places NEAR a named city or park (found 2026-11-14: "places near
+    Chicago" came back as all of Illinois — the LLM parse mapped it to
+    geo=Illinois, so the St. Louis border towns 300 miles away showed up
+    on the map. "Near" means within 50 miles of the named place's
+    centroid, nearest first — the same 50-mile radius answer_between uses
+    for its corridor). The anchor resolves as a city first, then as a
+    site; trailing words are dropped one at a time ("near Chicago please"
+    still resolves to Chicago). Returns None when the anchor can't be
+    resolved or nothing is within range, so the caller falls through to
+    the normal browse."""
+    tail = re.search(r"\bnear(?:by)?\s+(.+)", (raw_q or "").lower())
+    if not tail:
+        return None
+    text = re.sub(r"\s+", " ", tail.group(1)).strip().strip("?.!,")
+    text = re.sub(r"^the\s+", "", text)
+    if not text:
+        return None
+    words = text.split()
+    anchor_places = []
+    display = None
+    for n in range(len(words), 0, -1):
+        cand = " ".join(words[:n])
+        anchor_places = [p for p in g.by_type.get("Place", [])
+                         if (p["properties"].get("city") or "").lower() == cand
+                         and p["properties"].get("lat") is not None]
+        if anchor_places:
+            states = sorted({p["properties"].get("state")
+                             for p in anchor_places if p["properties"].get("state")})
+            display = f"{cand.title()}, {states[0]}" if states else cand.title()
+            break
+        sites = find_sites(g, " " + cand + " ")
+        if sites:
+            name = sites[0]["properties"]["name"]
+            anchor_places = [p for p in g.by_type.get("Place", [])
+                             if p["properties"].get("site") == name
+                             and p["properties"].get("lat") is not None]
+            if anchor_places:
+                display = name
+                break
+    if not anchor_places:
+        return None
+    clat = sum(p["properties"]["lat"] for p in anchor_places) / len(anchor_places)
+    clng = sum(p["properties"]["lng"] for p in anchor_places) / len(anchor_places)
+    hits = []
+    for p in g.by_type.get("Place", []):
+        pr = p["properties"]
+        if pr.get("lat") is None or pr.get("lng") is None:
+            continue
+        miles = haversine((clat, clng), (pr["lat"], pr["lng"])) * 0.621371
+        if miles <= NEAR_MILES:
+            hits.append((miles, p))
+    if not hits:
+        return None
+    hits.sort(key=lambda x: x[0])
+    lines = [f"{len(hits)} place(s) within {NEAR_MILES} miles of {display} (nearest first):"]
+    lines += [fmt_place(g, p) for _, p in hits]
+    return "\n".join(lines)
+
+
 def answer_browse(g, q, raw_q):
     sites = find_sites(g, q)
     kind, geo = find_geo(g, q, raw_q)
@@ -741,6 +804,14 @@ def route_rules(g, question, raw_question=None):
         result = answer_reels(g)
     elif "@" in raw_q:
         result = answer_creator(g, q, raw_q)
+    if result is None and re.search(r"\bnear(?:by)?\b", (raw_q or "").lower()):
+        # "Near" is a radius question, not a state browse — the parse
+        # maps "near Chicago" to geo=Illinois, which is how the St. Louis
+        # border towns 300 miles away ended up on the map (found
+        # 2026-11-14). Resolve it deterministically from the user's words.
+        # Runs only when no earlier branch claimed the question, so an
+        # itinerary or creator question keeps its own routing.
+        result = answer_near(g, raw_q)
     if result is None:
         result = answer_theme(g, q, raw_q)
     if result is None:
