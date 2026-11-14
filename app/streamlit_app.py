@@ -153,7 +153,14 @@ def render_answer_map(answer_places):
         layer = pdk.Layer(
             "ScatterplotLayer", data=rows, get_position="[lng, lat]",
             get_radius=1400, radius_min_pixels=4, radius_max_pixels=4,
-            get_fill_color="color", pickable=True, stroked=True,
+            # get_fill_color as a plain "color" string serialises to
+            # "@@=color", which deck.gl evaluates with the datum as
+            # `object` — a bare `color` is undefined there, so every dot
+            # rendered black (found live 2026-11-14). The explicit
+            # `object.color` expression returns each row's RGB triplet.
+            # (pydeck adds the @@= prefix itself — passing "@@=..." in
+            # would double it to "@@=@@=...".)
+            get_fill_color="object.color", pickable=True, stroked=True,
             get_line_color=[255, 255, 255], line_width_min_pixels=1)
         deck = pdk.Deck(
             layers=[layer],

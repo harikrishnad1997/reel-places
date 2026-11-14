@@ -137,6 +137,25 @@ def find_sites(g, q):
         if name in q:
             scored.append((1000 + len(name), s))
             continue
+        # A short park name ("Zion", "Arches", "Acadia") is a full match
+        # on its own: its stripped short form, matched as a whole word,
+        # outranks token scoring. The two-token floor below can't cover
+        # these — "Zion" is the site's ONLY distinctive token, so the
+        # floor vetoed it and creator questions went unscoped (found
+        # 2026-11-14: parse succeeded but dropped the site, 169 pins).
+        # Only suffix-stripped forms count here, so a bare word like
+        # "central" can never match Central Park and "rocks" can never
+        # match Monument Rocks — those sites have no stripped form.
+        matched_short = False
+        for suf in _SITE_SUFFIXES:
+            if s["properties"]["name"].endswith(suf):
+                form = s["properties"]["name"][: -len(suf)]
+                if _site_form_pos(form, q) is not None:
+                    scored.append((1000 + len(form), s))
+                    matched_short = True
+                break
+        if matched_short:
+            continue
         toks = site_distinctive_tokens(name)
         score = sum(1 for tok in toks if tok in words)
         if score >= 2:
