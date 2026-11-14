@@ -143,27 +143,30 @@ def render_answer_map(answer_places):
         for p in answer_places:
             loc = ", ".join(x for x in [p.get("site"), p.get("city"), p.get("state")] if x)
             rows.append({"lat": p["lat"], "lng": p["lng"], "name": p["name"], "loc": loc,
-                         "color": _hex_rgb(REGION_COLORS.get(p.get("region") or "", "#333333"))})
+                         "region": p.get("region") or ""})
         clat = sum(r["lat"] for r in rows) / len(rows)
         clng = sum(r["lng"] for r in rows) / len(rows)
         span = max(max(r["lat"] for r in rows) - min(r["lat"] for r in rows),
                    max(r["lng"] for r in rows) - min(r["lng"] for r in rows))
         zoom = (12 if span <= 0.02 else 10 if span <= 0.1 else 8 if span <= 0.5
                 else 6 if span <= 2 else 5 if span <= 6 else 4 if span <= 15 else 3)
-        layer = pdk.Layer(
-            "ScatterplotLayer", data=rows, get_position="[lng, lat]",
-            get_radius=1400, radius_min_pixels=4, radius_max_pixels=4,
-            # get_fill_color as a plain "color" string serialises to
-            # "@@=color", which deck.gl evaluates with the datum as
-            # `object` — a bare `color` is undefined there, so every dot
-            # rendered black (found live 2026-11-14). The explicit
-            # `object.color` expression returns each row's RGB triplet.
-            # (pydeck adds the @@= prefix itself — passing "@@=..." in
-            # would double it to "@@=@@=...".)
-            get_fill_color="object.color", pickable=True, stroked=True,
-            get_line_color=[255, 255, 255], line_width_min_pixels=1)
+        # One layer per region, each with a CONSTANT fill colour (a plain
+        # [r, g, b] list, no accessor expression). Per-row colour accessors
+        # proved unreliable in deck.gl's JSON layer: "color" rendered every
+        # dot black, and "object.color" rendered no dots at all (both found
+        # live 2026-11-14). Region grouping keeps the exact same look —
+        # tiny 8px dots coloured by region — without any expression.
+        layers = []
+        for region in sorted({r["region"] for r in rows}):
+            region_rows = [r for r in rows if r["region"] == region]
+            layers.append(pdk.Layer(
+                "ScatterplotLayer", data=region_rows, get_position="[lng, lat]",
+                get_radius=1400, radius_min_pixels=4, radius_max_pixels=4,
+                get_fill_color=_hex_rgb(REGION_COLORS.get(region, "#333333")),
+                pickable=True, stroked=True,
+                get_line_color=[255, 255, 255], line_width_min_pixels=1))
         deck = pdk.Deck(
-            layers=[layer],
+            layers=layers,
             initial_view_state=pdk.ViewState(latitude=clat, longitude=clng, zoom=zoom),
             # pydeck's default basemap is CARTO Dark Matter — that's why
             # the map looked dark. Use the light Positron style instead
