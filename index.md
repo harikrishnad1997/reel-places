@@ -7831,6 +7831,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
   <ul>
   <li><a href="https://www.instagram.com/p/DJ-L3JIxslW/">4 hidden gems near Page, Arizona</a> by @kelleyandcarlsadventures</li>
   <li><a href="https://www.instagram.com/reel/DCUIUeqR5Uy/">The alcove behind the Shell station — Page&#x27;s Shell Cave</a> by @kelleyandcarlsadventures</li>
+  <li><a href="https://www.instagram.com/reel/DfsTrXGPphM/">Hidden behind a gas station — Biidi the Arch (Shell Cave), Page</a> by @shelby_catlett</li>
   </ul>
   </details>
 
@@ -16043,6 +16044,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Parfrey's Glen near Merrimac, Wisconsin — the state's first State Natural Area (1952), a deep sandstone gorge under a mile in that turns into a frozen world in winter: icicles on the walls, creek and waterfall turned to ice.
 - **[Pennsylvania underground — Laurel Caverns](https://www.instagram.com/reel/Dd4r_nQSny1/)** — @themobilehomie · 1 places · Theme: Pennsylvania road trip stops
   - What the reel recommends: Laurel Caverns in Farmington, Pennsylvania — the state's first and only underground state park: massive sandstone passageways and winding tunnels under Chestnut Ridge in the Laurel Highlands, colorfully lit on a guided tour 46 stories deep.
+- **[Hidden behind a gas station — Biidi the Arch (Shell Cave), Page](https://www.instagram.com/reel/DfsTrXGPphM/)** — @shelby_catlett · 1 places · Theme: Page, Arizona hidden gems
+  - What the reel recommends: Biidi the Arch (also called Shell Cave) in Page, Arizona — a massive natural sandstone arch hidden behind the Shell station, a ~5-minute free walk from the dirt lot.
 
 ## How this page is updated {#how-this-page-is-updated}
 
