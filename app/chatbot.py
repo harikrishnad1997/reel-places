@@ -744,6 +744,21 @@ _SITE_SUFFIXES = (" National Park and Preserve", " National Park", " State Park"
                   " National Conservation Area", " National Historical Park")
 
 
+def _site_form_pos(form, q):
+    """Position of a site-name form in the question, or None. Full names
+    and 5+ letter short forms match as substrings; 4-letter short forms
+    ("Zion" is the only site in the graph with one) match only as a whole
+    word, so a question can't rescue on a substring — and the old
+    5-letter floor never silently drops a real park name again (found
+    2026-11-14: "Zion" never rescued, so a creator question fell back
+    to every place that creator ever recommended)."""
+    low = form.lower()
+    if len(form) >= 5:
+        return q.find(low) if low in q else None
+    m = re.search(rf"(?<![a-z]){re.escape(low)}(?![a-z])", q)
+    return m.start() if m else None
+
+
 def mention_rescue(g, question):
     """Last-resort grounding when the LLM's parse yields no canonical
     question: if the question verbatim names a graph vocabulary entry (a
@@ -761,8 +776,9 @@ def mention_rescue(g, question):
         for site in v["sites"]:
             forms = [site] + [site[: -len(s)] for s in _SITE_SUFFIXES if site.endswith(s)]
             for form in forms:
-                if len(form) >= 5 and form.lower() in q:
-                    mentioned.append((q.index(form.lower()), site))
+                pos = _site_form_pos(form, q)
+                if pos is not None:
+                    mentioned.append((pos, site))
                     break
         mentioned.sort()
         seen = []
@@ -775,7 +791,7 @@ def mention_rescue(g, question):
     for site in v["sites"]:
         forms = [site] + [site[: -len(s)] for s in _SITE_SUFFIXES if site.endswith(s)]
         for form in forms:
-            if len(form) >= 5 and form.lower() in q:
+            if _site_form_pos(form, q) is not None:
                 if best is None or len(form) > best[0]:
                     best = (len(form), f"places in {site}")
     if best:
@@ -808,6 +824,7 @@ def answer_places(g, grounded):
         seen.add(node["id"])
         found.append({"name": pr["name"], "site": pr.get("site") or "",
                       "city": pr.get("city") or "", "state": pr.get("state") or "",
+                      "region": pr.get("region") or "",
                       "lat": pr["lat"], "lng": pr["lng"]})
 
     def pick(name, state=None, site=None):
@@ -917,12 +934,14 @@ def _answer_full(g, question, backend_note):
 
     parsed = llm.parse_question(question, vocab(g))
     canon = canonical_question(parsed)
-    if (canon and parsed and parsed.get("intent") in ("itinerary", "theme")
+    if (canon and parsed and parsed.get("intent") in ("itinerary", "theme", "creator")
             and not (parsed.get("site") or parsed.get("geo"))):
         # The LLM sometimes drops the scope (state/site) from the parse —
         # recover it deterministically from the user's own words, so a
         # "2-day itinerary for Utah" never silently becomes an all-places
-        # plan (found 2026-11-11: 1 in 4 parses dropped geo=Utah).
+        # plan (found 2026-11-11: 1 in 4 parses dropped geo=Utah) and a
+        # creator question never silently becomes that creator's whole
+        # catalogue (found 2026-11-14: "Zion" dropped, 169 pins mapped).
         qlow = " " + re.sub(r"\s+", " ", question.lower()).strip() + " "
         sites = find_sites(g, qlow)
         scope = sites[0]["properties"]["name"] if sites else None
@@ -932,7 +951,7 @@ def _answer_full(g, question, backend_note):
         if scope:
             if parsed["intent"] == "itinerary" and " for " not in canon:
                 canon = canon + f" for {scope}"
-            elif parsed["intent"] == "theme" and scope.lower() not in canon.lower():
+            elif parsed["intent"] in ("theme", "creator") and scope.lower() not in canon.lower():
                 canon = canon + f" in {scope}"
     rescued = False
     if not canon:

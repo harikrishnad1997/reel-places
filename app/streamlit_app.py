@@ -112,16 +112,28 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 
-# Map pin icon (blue teardrop, drawn locally; embedded as a data URI
-# so the map needs no external image host). 96x96 PNG.
-PIN_ICON_B64 = "iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAADoUlEQVR4nO2d3ZGkMAyEm6uL49LZdC6UTefS2UTmnqiiKGxs/bbA3/MslrslwRivB1gsFovFYrF4I1t2AKN8Pp/P7N9s20Y/P9oAJYLfwWgIVUAeordgMYMiiEjhz2QbkTp4pvBnsoxIGVQq/J+//4Y/+/P9JRki3IjQwWaFnxH8jllDoowIM2BUfEvRW4yaEWFCiAF34keI3uLODG8TXC8+kvWZ4u+MVISXEW4GMGd9i4xq+GV9QaCm+MB9XC7fzq0v2AuSVfgretVgWQmmFfAU8YF+vJaV4NKCzlQTfycibrNSamWFxyR67SFyPItWZGJAhPiSpYWI8bUmqA3wFl+6pnPEOxaNCSH3ACkW4ltexwOVAZ7Zby2aZyVpnorMK4BRfMvrWt/kxQZ4vUzxbhde15fqYVoB2uyI6tXacSyrQGTAldtVv2xJuZqvpAponoKin1RYnoymDWB6kc7IrD4mFfC29rNjMW+KFpTVDhja0JQBq/2MMaOTugLe2n52tPOnaEFvZhmQzLABq//PMaqXqgLe3v93NDpQtKAsIxkSiMKAN7MMSIbGgOh2wNB+ACID3gqVAVFZyZL9AJkBgL84TOIDhAYAfiKxiQ+QGgDYi8UoPkBsAGAnGqv4wMTWxMjNt1dk7w3todmy+Ht0kG3btswFuaOY0bujJYzuFx02gAkWkS2gvge8AbUBDC+2M9HOf8qA7JNFqjCj02pByZgY8NY2ZDHvaQNWG+ozq89qQcmIDLhy+W1t6Gq+ku5gWgEjJlQw6i5GyzmIDZC4vQfObII0Rum90fwecBX4z/cXtegtruK2nofKgJbr5yCv1m4YDbmKaWQRsOw/ajOZkBWL2gBNFbDjnf2AUQVUb0UZrWfHrAWNmiD9jBfSR06rFYGQe8BxEhVa0R5jRGKYGtDLijsTMqqg13qizoxzWVgbPTXxrvd60ho7+uhKlxZ0F2RvkhGV0BrjMeeGAjoTGCl3cu4RyXYWr1bEdop6yFOQZuHOEjbxgcCliGpv0h73+wFHZlpS9OmLj/4FjTNRP+qQeTz9HalbE/dJr19RIsHj8G/vtRwtFEGcsdoKzy4+QLotxVMgJvEBUgMA/dYXq20j3tAa0IL9/cIs1AaYLvsSZj9AbgAw34qqtJ4degOAcROqiQ8UMaDFUfBKff9IGQMkmcye/QDpF7Eeo8sWFcQHClXAUylnwEhmV8l+oKABQF/gSuIDRQ1YkHC8IVc9WPY/bZitnDuL2wIAAAAASUVORK5CYII="
+# Region colours — same palette as the main map (build_site.py COLORS),
+# so the chatbot's dots match the site's dots.
+REGION_COLORS = {
+    "Northeast": "#7b1fa2", "Southeast": "#1e8e3e", "Midwest": "#f9a825",
+    "Southwest": "#e07b00", "Mountain West": "#795548", "West": "#1d6fb8",
+    "Pacific Northwest": "#00838f", "Alaska": "#3949ab", "Hawaii": "#d81b60",
+    "U.S. Territories": "#00897b",
+}
+
+
+def _hex_rgb(hexstr):
+    h = hexstr.lstrip("#")
+    return [int(h[i:i + 2], 16) for i in (0, 2, 4)]
 
 
 def render_answer_map(answer_places):
     """Map of the places an answer recommends (user, 2026-11-11).
     answer_places: chatbot.answer_full's place dicts (name/site/city/
-    state/lat/lng). A map failure must never break the answer, so any
-    error degrades to a one-line caption."""
+    state/region/lat/lng). Tiny 8px dots, coloured by region — the same
+    dots as the main map (user, 2026-11-14: the 44px teardrop pins
+    piled up and hid the map). A map failure must never break the answer,
+    so any error degrades to a one-line caption."""
     if not answer_places:
         return
     try:
@@ -130,7 +142,8 @@ def render_answer_map(answer_places):
         rows = []
         for p in answer_places:
             loc = ", ".join(x for x in [p.get("site"), p.get("city"), p.get("state")] if x)
-            rows.append({"lat": p["lat"], "lng": p["lng"], "name": p["name"], "loc": loc})
+            rows.append({"lat": p["lat"], "lng": p["lng"], "name": p["name"], "loc": loc,
+                         "color": _hex_rgb(REGION_COLORS.get(p.get("region") or "", "#333333"))})
         clat = sum(r["lat"] for r in rows) / len(rows)
         clng = sum(r["lng"] for r in rows) / len(rows)
         span = max(max(r["lat"] for r in rows) - min(r["lat"] for r in rows),
@@ -138,16 +151,10 @@ def render_answer_map(answer_places):
         zoom = (12 if span <= 0.02 else 10 if span <= 0.1 else 8 if span <= 0.5
                 else 6 if span <= 2 else 5 if span <= 6 else 4 if span <= 15 else 3)
         layer = pdk.Layer(
-            "IconLayer", data=rows, get_position="[lng, lat]",
-            # NOTE (2026-11-11): pydeck prefixes every plain string kwarg
-            # with @@=, which deck.gl then evaluates as JS — a data-URI
-            # atlas blew up with "Unexpected ':' at character 4" on the
-            # live app. Wrapping a string in quotes makes pydeck strip
-            # them and emit it as a plain string instead.
-            get_icon='"pin"', get_size=44, size_scale=1, pickable=True,
-            icon_atlas='"data:image/png;base64,' + PIN_ICON_B64 + '"',
-            icon_mapping={"pin": {"x": 0, "y": 0, "width": 96, "height": 96,
-                                  "anchorY": 96, "mask": False}})
+            "ScatterplotLayer", data=rows, get_position="[lng, lat]",
+            get_radius=1400, radius_min_pixels=4, radius_max_pixels=4,
+            get_fill_color="color", pickable=True, stroked=True,
+            get_line_color=[255, 255, 255], line_width_min_pixels=1)
         deck = pdk.Deck(
             layers=[layer],
             initial_view_state=pdk.ViewState(latitude=clat, longitude=clng, zoom=zoom),
