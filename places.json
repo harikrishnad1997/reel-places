@@ -17104,6 +17104,15 @@
      "source_reel": "https://www.instagram.com/reel/DLAn4oEsmaM/",
      "source_reel_theme": "Mesa Verde National Park visit",
      "source_title": "Mesa Verde — a truly unique national park experience"
+    },
+    {
+     "source_reel": "https://www.instagram.com/reel/Dfv3TqaJbxQ/",
+     "source_title": "Mesa Verde National Park — 5 must-dos",
+     "source_creator": "@roamwildfamily",
+     "source_rank": 5,
+     "source_reel_theme": "Mesa Verde National Park guide",
+     "best_for": "Sunset / Stargazing",
+     "recommendation": "#5: stay for sunset and stargazing — and sunrise if you can."
     }
    ]
   },
@@ -17217,6 +17226,15 @@
      "source_reel": "https://www.instagram.com/reel/DLAn4oEsmaM/",
      "source_reel_theme": "Mesa Verde National Park visit",
      "source_title": "Mesa Verde — a truly unique national park experience"
+    },
+    {
+     "source_reel": "https://www.instagram.com/reel/Dfv3TqaJbxQ/",
+     "source_title": "Mesa Verde National Park — 5 must-dos",
+     "source_creator": "@roamwildfamily",
+     "source_rank": 1,
+     "source_reel_theme": "Mesa Verde National Park guide",
+     "best_for": "Cliff dwellings / Park's most famous attraction — tour pass required",
+     "recommendation": "#1 on her Mesa Verde must-do list: Cliff Palace, the park's most famous attraction and the largest cliff dwelling in North America — a ranger-guided tour pass is required to get close."
     }
    ]
   },
@@ -17312,6 +17330,15 @@
      "source_reel": "https://www.instagram.com/reel/DLAn4oEsmaM/",
      "source_reel_theme": "Mesa Verde National Park visit",
      "source_title": "Mesa Verde — a truly unique national park experience"
+    },
+    {
+     "source_reel": "https://www.instagram.com/reel/Dfv3TqaJbxQ/",
+     "source_title": "Mesa Verde National Park — 5 must-dos",
+     "source_creator": "@roamwildfamily",
+     "source_rank": 2,
+     "source_reel_theme": "Mesa Verde National Park guide",
+     "best_for": "Cliff dwellings / Adventurous ladder climb — tour pass required",
+     "recommendation": "#2: Balcony House, the more adventurous cliff dwelling — you climb ladders to get in, and it also needs a tour pass."
     }
    ]
   },
@@ -33753,6 +33780,15 @@
      "source_reel": "https://www.instagram.com/p/DLfhXK6MSpQ/",
      "source_reel_theme": "Colorado favorites",
      "source_title": "6 places to visit in Colorado"
+    },
+    {
+     "source_reel": "https://www.instagram.com/reel/Dfv3TqaJbxQ/",
+     "source_title": "Mesa Verde National Park — 5 must-dos",
+     "source_creator": "@roamwildfamily",
+     "source_rank": 4,
+     "source_reel_theme": "Mesa Verde National Park guide",
+     "best_for": "Overlook / Highest point of the park",
+     "recommendation": "#4: Park Point Overlook, the highest point in the park."
     }
    ],
    "note": "Pin is the Park Point Road turnout point from OpenStreetMap, at the overlook."
@@ -46663,6 +46699,30 @@
    "additional_sources": [],
    "alltrails_url": "https://www.alltrails.com/trail/us/maryland/weverton-cliffs--3",
    "note": "Coordinates: Weverton Cliffs place record (39.332279, -77.676492) — the overlook; the Weverton Park & Ride trailhead is at 39.33288, -77.68351, about 0.4 mi west. AllTrails lists the hike as a 1.8-mi out-and-back, 1-1.5 hr, 564 ft gain, moderate; the reel calls it 1 mile each way, under 2 hours. The trail sign in the video says 2.5 miles — that is the Appalachian Trail distance marker, not this hike's length. Free parking at the lot, fills quickly on weekends."
+  },
+  {
+   "id": "mesa-top-loop-road-co",
+   "name": "Mesa Top Loop Road",
+   "site": "Mesa Verde National Park",
+   "city": "Mesa Verde",
+   "state": "Colorado",
+   "state_code": "CO",
+   "country": "USA",
+   "region": "Mountain West",
+   "region_id": "mountain-west",
+   "lat": 37.18555,
+   "lng": -108.48787,
+   "google_maps_query": "Mesa Top Loop Road, Mesa Verde National Park, Colorado",
+   "best_for": "Scenic drive / 6-mile mesa-top ruins loop",
+   "recommendation": "The 6-mile self-guided driving loop on Chapin Mesa — a tour through 700 years of Mesa Verde history, with short paved walks to twelve mesa-top sites and overlooks of the cliff dwellings, including Square Tower House Overlook and Sun Temple. Open 8 AM to sunset.",
+   "source_reel": "https://www.instagram.com/reel/Dfv3TqaJbxQ/",
+   "source_title": "Mesa Verde National Park — 5 must-dos",
+   "source_creator": "@roamwildfamily",
+   "source_rank": 3,
+   "source_reel_theme": "Mesa Verde National Park guide",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/colorado/mesa-top-loop-road",
+   "note": "Coordinates: Chapin Mesa Archeological Museum (37.18555, -108.48787, USGS GNIS via TopoQuest) — the loop starts at the museum. NPS: 6-mile drive, twelve ancestral sites, open 8 AM to sunset; AllTrails lists the loop as 4.7 mi, easy."
   }
  ],
  "updated": "2026-11-15",
