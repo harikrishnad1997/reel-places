@@ -21636,6 +21636,37 @@
    }
   },
   {
+   "id": "reel:Dfv0fjmICn7",
+   "type": "Reel",
+   "properties": {
+    "name": "5 San Francisco spots most tourists never find",
+    "url": "https://www.instagram.com/p/Dfv0fjmICn7/",
+    "title": "5 San Francisco spots most tourists never find",
+    "creator": "@sanfrancisco.residents",
+    "theme": "Hidden San Francisco spots",
+    "places_count": 5,
+    "recommendation_summary": "Five San Francisco spots most tourists never find: the Wave Organ sound sculpture in the Marina, Oak Woodlands' old-growth oaks in Golden Gate Park, the Portals of the Past at Lloyd Lake, Cayuga Park's hand-carved sculpture garden, and Ina Coolbrith Park's Russian Hill views.",
+    "posted": "2026-11-14",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "creator:sanfrancisco-residents",
+   "type": "Creator",
+   "properties": {
+    "name": "@sanfrancisco.residents",
+    "handle": "@sanfrancisco.residents",
+    "display_name": "San Francisco Residents — the city from the inside"
+   }
+  },
+  {
+   "id": "theme:hidden-san-francisco-spots",
+   "type": "Theme",
+   "properties": {
+    "name": "Hidden San Francisco spots"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48697,6 +48728,157 @@
     "best_for": "Hike / Slot canyon scramble — 15-ft slickrock climb",
     "note": "Coordinates: Peekaboo Canyon entrance waypoint N37 28' 53\" W111 13' 00\" (37.481389, -111.216667) from climb-utah's Dry Fork route guide. BLM says a 12-ft climb to gain entry; the reel and AllTrails say 15 ft. Loop from Lower Dry Fork Trailhead is ~6.5 mi; go up Peekaboo first, then down Spooky. No shade, no water; summer over 100 F, 4L/person. Never enter slot canyons in rain — flash flood danger."
    }
+  },
+  {
+   "id": "place:wave-organ-sf-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Wave Organ",
+    "place_id": "wave-organ-sf-ca",
+    "site": "Marina District",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.80861,
+    "lng": -122.44028,
+    "google_maps_query": "Wave Organ, San Francisco, California",
+    "best_for": "Sound sculpture / Wave-powered pipes at high tide",
+    "note": "Coordinates: Wikipedia (37.80861, -122.44028), 83 Marina Green Dr, at the end of the spit from the Golden Gate Yacht Club. Go at high tide or it is barely musical."
+   }
+  },
+  {
+   "id": "site:marina-district",
+   "type": "Site",
+   "properties": {
+    "name": "Marina District"
+   }
+  },
+  {
+   "id": "theme:sound-sculpture-wave-powered-pipes-at-high-tide",
+   "type": "Theme",
+   "properties": {
+    "name": "Sound sculpture / Wave-powered pipes at high tide"
+   }
+  },
+  {
+   "id": "place:oak-woodlands-sf-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Oak Woodlands",
+    "place_id": "oak-woodlands-sf-ca",
+    "site": "Golden Gate Park",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.774132,
+    "lng": -122.45573,
+    "google_maps_query": "Oak Woodlands Natural Area, Golden Gate Park, San Francisco",
+    "best_for": "Nature walk / Old-growth coast live oaks",
+    "note": "Coordinates: SF Recreation & Parks place record (37.774132, -122.45573), Conservatory Dr E, Stanyan St and Fulton. The California live oak is the only tree native to Golden Gate Park."
+   }
+  },
+  {
+   "id": "site:golden-gate-park",
+   "type": "Site",
+   "properties": {
+    "name": "Golden Gate Park"
+   }
+  },
+  {
+   "id": "theme:nature-walk-old-growth-coast-live-oaks",
+   "type": "Theme",
+   "properties": {
+    "name": "Nature walk / Old-growth coast live oaks"
+   }
+  },
+  {
+   "id": "place:portals-of-the-past-sf-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Portals of the Past",
+    "place_id": "portals-of-the-past-sf-ca",
+    "site": "Golden Gate Park",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.77028,
+    "lng": -122.48222,
+    "google_maps_query": "Portals of the Past, Golden Gate Park, San Francisco",
+    "best_for": "Historic site / 1906 earthquake relic",
+    "note": "Coordinates: Wikipedia (37.77028, -122.48222), Lloyd Lake, Golden Gate Park. One column collapsed in a 1957 earthquake; restored in 2008. Featured in Hitchcock's Vertigo."
+   }
+  },
+  {
+   "id": "theme:historic-site-1906-earthquake-relic",
+   "type": "Theme",
+   "properties": {
+    "name": "Historic site / 1906 earthquake relic"
+   }
+  },
+  {
+   "id": "place:cayuga-park-sf-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Cayuga Park",
+    "place_id": "cayuga-park-sf-ca",
+    "site": "Cayuga Park",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.714166,
+    "lng": -122.449989,
+    "google_maps_query": "Cayuga Park, San Francisco, California",
+    "best_for": "Park / Hand-carved wooden sculpture garden",
+    "note": "Coordinates: SF Recreation & Parks place record (37.714166, -122.449989), 301 Naglee Ave, Outer Mission / Cayuga Terrace. Braceros worked the park from 1986, retiring in 2008; carvings refurbished in the 2013 rebuild. Park hours 6 AM-10 PM."
+   }
+  },
+  {
+   "id": "site:cayuga-park",
+   "type": "Site",
+   "properties": {
+    "name": "Cayuga Park"
+   }
+  },
+  {
+   "id": "theme:park-hand-carved-wooden-sculpture-garden",
+   "type": "Theme",
+   "properties": {
+    "name": "Park / Hand-carved wooden sculpture garden"
+   }
+  },
+  {
+   "id": "place:ina-coolbrith-park-sf-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Ina Coolbrith Park",
+    "place_id": "ina-coolbrith-park-sf-ca",
+    "site": "Ina Coolbrith Park",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.798386,
+    "lng": -122.4136,
+    "google_maps_query": "Ina Coolbrith Park, San Francisco, California",
+    "best_for": "Viewpoint / Hilltop city and Bay views",
+    "note": "Coordinates: RunCity checkpoint, NW corner of the park (37.798386, -122.4136), Vallejo & Taylor, Russian Hill. Named for Ina Donelson Coolbrith, California's first poet laureate. Park hours 5 AM-midnight."
+   }
+  },
+  {
+   "id": "site:ina-coolbrith-park",
+   "type": "Site",
+   "properties": {
+    "name": "Ina Coolbrith Park"
+   }
   }
  ],
  "edges": [
@@ -61849,6 +62031,18 @@
   {
    "from": "reel:DfK9sf-yoop",
    "to": "theme:slot-canyons",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfv0fjmICn7",
+   "to": "creator:sanfrancisco-residents",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfv0fjmICn7",
+   "to": "theme:hidden-san-francisco-spots",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -136785,6 +136979,161 @@
   {
    "from": "place:peekaboo-gulch-ut",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:wave-organ-sf-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:wave-organ-sf-ca",
+   "to": "site:marina-district",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:wave-organ-sf-ca",
+   "to": "reel:Dfv0fjmICn7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Sound sculpture / Wave-powered pipes at high tide",
+    "recommendation": "A waterfront sound sculpture on the Marina jetty: at high tide, moving Bay water flows through its 25 pipes and creates subtle, ever-changing sounds. Free, with panoramic views of the Golden Gate Bridge and Alcatraz. Built in 1986 by the Exploratorium.",
+    "creator": "@sanfrancisco.residents",
+    "reel_title": "5 San Francisco spots most tourists never find",
+    "reel_theme": "Hidden San Francisco spots"
+   }
+  },
+  {
+   "from": "place:wave-organ-sf-ca",
+   "to": "theme:sound-sculpture-wave-powered-pipes-at-high-tide",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:oak-woodlands-sf-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:oak-woodlands-sf-ca",
+   "to": "site:golden-gate-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:oak-woodlands-sf-ca",
+   "to": "reel:Dfv0fjmICn7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Nature walk / Old-growth coast live oaks",
+    "recommendation": "A remnant of San Francisco's native oak landscape in the northeast corner of Golden Gate Park, home to some of the city's oldest coast live oaks — part old-growth forest, recognized by the Old-Growth Forest Network.",
+    "creator": "@sanfrancisco.residents",
+    "reel_title": "5 San Francisco spots most tourists never find",
+    "reel_theme": "Hidden San Francisco spots"
+   }
+  },
+  {
+   "from": "place:oak-woodlands-sf-ca",
+   "to": "theme:nature-walk-old-growth-coast-live-oaks",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:portals-of-the-past-sf-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:portals-of-the-past-sf-ca",
+   "to": "site:golden-gate-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:portals-of-the-past-sf-ca",
+   "to": "reel:Dfv0fjmICn7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Historic site / 1906 earthquake relic",
+    "recommendation": "A white-marble portico beside Lloyd Lake — the surviving entrance of A. N. Towne's Nob Hill mansion, the only part left standing after the 1906 earthquake and fire, moved to the park in 1909 as a memorial to the disaster.",
+    "creator": "@sanfrancisco.residents",
+    "reel_title": "5 San Francisco spots most tourists never find",
+    "reel_theme": "Hidden San Francisco spots"
+   }
+  },
+  {
+   "from": "place:portals-of-the-past-sf-ca",
+   "to": "theme:historic-site-1906-earthquake-relic",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cayuga-park-sf-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cayuga-park-sf-ca",
+   "to": "site:cayuga-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cayuga-park-sf-ca",
+   "to": "reel:Dfv0fjmICn7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Park / Hand-carved wooden sculpture garden",
+    "recommendation": "A peaceful Outer Mission neighborhood park known for its whimsical hand-carved wooden sculptures, gardens and winding paths — more than 375 figures, totem poles and statues carved by longtime gardener Demetrio Braceros from fallen cypress trees.",
+    "creator": "@sanfrancisco.residents",
+    "reel_title": "5 San Francisco spots most tourists never find",
+    "reel_theme": "Hidden San Francisco spots"
+   }
+  },
+  {
+   "from": "place:cayuga-park-sf-ca",
+   "to": "theme:park-hand-carved-wooden-sculpture-garden",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:ina-coolbrith-park-sf-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:ina-coolbrith-park-sf-ca",
+   "to": "site:ina-coolbrith-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:ina-coolbrith-park-sf-ca",
+   "to": "reel:Dfv0fjmICn7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Viewpoint / Hilltop city and Bay views",
+    "recommendation": "A small Russian Hill hillside park with sweeping views over the city and the Bay — downtown skyline, Transamerica Pyramid, Salesforce Tower. Reach it by the Powell-Mason cable car to Mason and Vallejo, then up the stairs.",
+    "creator": "@sanfrancisco.residents",
+    "reel_title": "5 San Francisco spots most tourists never find",
+    "reel_theme": "Hidden San Francisco spots"
+   }
+  },
+  {
+   "from": "place:ina-coolbrith-park-sf-ca",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
