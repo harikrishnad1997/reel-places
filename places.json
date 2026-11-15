@@ -18444,7 +18444,17 @@
    "source_creator": "@discover_california_",
    "source_rank": 2,
    "source_reel_theme": "California hikes countdown",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "source_reel": "https://www.instagram.com/reel/DfurO_CqrOY/",
+     "source_title": "7 magical hikes to the tallest trees in the world",
+     "source_creator": "@discover_california_",
+     "source_rank": 5,
+     "source_reel_theme": "Tallest trees in the world",
+     "best_for": "Hike / Stunning redwood loop",
+     "recommendation": "#5: Karl Knapp Trail — his favorite redwood hike in California, a stunning loop through ancient redwoods that seem to stretch endlessly into the sky."
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/california/prairie-creek-trail-and-foothill-trail-loop"
   },
   {
@@ -28184,6 +28194,15 @@
      "source_reel": "https://www.instagram.com/p/De7XzkRJkcx/",
      "source_reel_theme": "Northern California & Oregon road trip",
      "source_title": "An underrated road trip — Reno, Tahoe, volcanoes and redwoods"
+    },
+    {
+     "source_reel": "https://www.instagram.com/reel/DfurO_CqrOY/",
+     "source_title": "7 magical hikes to the tallest trees in the world",
+     "source_creator": "@discover_california_",
+     "source_rank": 7,
+     "source_reel_theme": "Tallest trees in the world",
+     "best_for": "Hike / Massive ancient redwoods — boardwalk grove",
+     "recommendation": "#7: Grove of Titans — some of the most massive redwoods you'll ever see, on an elevated boardwalk through an ancient grove deep in Northern California."
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/california/grove-of-titans",
@@ -34788,7 +34807,17 @@
    "source_creator": "@kelleyandcarlsadventures",
    "source_rank": null,
    "source_reel_theme": "Northern California & Oregon road trip",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "source_reel": "https://www.instagram.com/reel/DfurO_CqrOY/",
+     "source_title": "7 magical hikes to the tallest trees in the world",
+     "source_creator": "@discover_california_",
+     "source_rank": 6,
+     "source_reel_theme": "Tallest trees in the world",
+     "best_for": "Scenic drive / Towering groves & short hikes",
+     "recommendation": "#6: Avenue of the Giants — a scenic drive packed with beautiful groves and short hikes among towering trees; don't skip the Mattole Road detour to Rockefeller Forest or the Big Trees Day Use Area."
+    }
+   ]
   },
   {
    "id": "tall-trees-grove-ca",
@@ -46723,6 +46752,102 @@
    "additional_sources": [],
    "alltrails_url": "https://www.alltrails.com/trail/us/colorado/mesa-top-loop-road",
    "note": "Coordinates: Chapin Mesa Archeological Museum (37.18555, -108.48787, USGS GNIS via TopoQuest) — the loop starts at the museum. NPS: 6-mile drive, twelve ancestral sites, open 8 AM to sunset; AllTrails lists the loop as 4.7 mi, easy."
+  },
+  {
+   "id": "henry-cowell-redwoods-state-park-ca",
+   "name": "Henry Cowell Redwoods State Park",
+   "site": "Henry Cowell Redwoods State Park",
+   "city": "Felton",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 37.040208,
+   "lng": -122.064617,
+   "google_maps_query": "Henry Cowell Redwoods State Park, Felton, California",
+   "best_for": "Hike / Old-growth redwood loop",
+   "recommendation": "His #1: an easy loop through an incredible forest of old-growth giants near Santa Cruz — some of these trees are over 1,000 years old.",
+   "source_reel": "https://www.instagram.com/reel/DfurO_CqrOY/",
+   "source_title": "7 magical hikes to the tallest trees in the world",
+   "source_creator": "@discover_california_",
+   "source_rank": 1,
+   "source_reel_theme": "Tallest trees in the world",
+   "additional_sources": [],
+   "alltrails_url": null,
+   "note": "Coordinates: California State Parks place record (37.040208, -122.064617), 101 N Big Trees Park Rd, Felton. The Redwood Grove is a 40-acre old-growth grove; the oldest trees are 1,400-1,800 years old and up to 300 ft tall. No AllTrails link: the standalone Redwood Grove Loop Trail page never surfaced verbatim (only a combined 7.1-km highlights loop, a different route)."
+  },
+  {
+   "id": "limekiln-state-park-ca",
+   "name": "Limekiln State Park",
+   "site": "Limekiln State Park",
+   "city": "Big Sur",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 36.011244,
+   "lng": -121.516491,
+   "google_maps_query": "Limekiln State Park, Big Sur, California",
+   "best_for": "Hike / Redwoods, creek & historic lime kilns",
+   "recommendation": "Redwoods, a beautiful creek, and historic lime kilns tucked away along the Big Sur coast — a unique little adventure with a 100-foot waterfall and a small beach. Check current trail access before visiting.",
+   "source_reel": "https://www.instagram.com/reel/DfurO_CqrOY/",
+   "source_title": "7 magical hikes to the tallest trees in the world",
+   "source_creator": "@discover_california_",
+   "source_rank": 2,
+   "source_reel_theme": "Tallest trees in the world",
+   "additional_sources": [],
+   "alltrails_url": null,
+   "note": "Coordinates: California State Parks place record (36.011244, -121.516491), 63025 CA-1, 2 miles south of Lucia. Four 1887-1890 lime kilns, Limekiln Falls (100 ft), beach; $10 day-use. Hwy 1 slides north of the park can mean south-only access. No AllTrails page for the park's Limekiln Trail surfaced verbatim."
+  },
+  {
+   "id": "reinhardt-redwood-regional-park-ca",
+   "name": "Reinhardt Redwood Regional Park",
+   "site": "Reinhardt Redwood Regional Park",
+   "city": "Oakland",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 37.80155,
+   "lng": -122.144586,
+   "google_maps_query": "Reinhardt Redwood Regional Park, Oakland, California",
+   "best_for": "Hike / French–Tres Sendas–Stream Loop",
+   "recommendation": "An East Bay gem — miles of peaceful trails surrounded by towering redwoods, just a few miles from downtown Oakland. His personal favorite is the French, Tres Sendas, and Stream Loop.",
+   "source_reel": "https://www.instagram.com/reel/DfurO_CqrOY/",
+   "source_title": "7 magical hikes to the tallest trees in the world",
+   "source_creator": "@discover_california_",
+   "source_rank": 3,
+   "source_reel_theme": "Tallest trees in the world",
+   "additional_sources": [],
+   "alltrails_url": null,
+   "note": "Coordinates: Redwood Gate main entrance (37.80155, -122.144586), 7867 Redwood Rd. Park renamed from Redwood Regional Park in 2019. EBRPD: sections of the Stream Trail closed for repairs Aug-Oct 2026 — check current access. AllTrails lists the French, Tres Sendas, and Stream Loop at 2.5 mi, moderate, 4.8 stars, but its verbatim /trail/ URL never surfaced, so no link."
+  },
+  {
+   "id": "muir-woods-ca",
+   "name": "Muir Woods National Monument",
+   "site": "Muir Woods National Monument",
+   "city": "Mill Valley",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 37.897026,
+   "lng": -122.581117,
+   "google_maps_query": "Muir Woods National Monument, Mill Valley, California",
+   "best_for": "Hike / Old-growth redwood grove",
+   "recommendation": "Just outside San Francisco, this iconic forest has beautiful trails winding beneath towering redwoods — it feels straight out of a fairy tale. Reserve parking or a shuttle seat in advance; the main trail is a flat, paved boardwalk loop along Redwood Creek.",
+   "source_reel": "https://www.instagram.com/reel/DfurO_CqrOY/",
+   "source_title": "7 magical hikes to the tallest trees in the world",
+   "source_creator": "@discover_california_",
+   "source_rank": 4,
+   "source_reel_theme": "Tallest trees in the world",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/california/muir-main-trail",
+   "note": "Coordinates: NPS place record (37.897026, -122.581117) — the entrance at 1 Muir Woods Rd. Parking/shuttle reservations required since 2018; $15 entrance; open 8 AM to sunset. AllTrails Muir Main Trail: 1.5 mi, easy, 4.8 stars."
   }
  ],
  "updated": "2026-11-15",
