@@ -16,7 +16,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Southeast Region — 170 places](#southeast)
 - [Midwest Region — 136 places](#midwest)
 - [Southwest Region — 162 places](#southwest)
-- [Mountain West Region — 94 places](#mountain-west)
+- [Mountain West Region — 95 places](#mountain-west)
 - [West Region — 139 places](#west)
 - [Pacific Northwest Region — 69 places](#pacific-northwest)
 - [Alaska Region — 37 places](#alaska)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 82 · Southeast 170 · Midwest 136 · Southwest 162 · Mountain West 94 · West 139 · Pacific Northwest 69 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 900**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 82 · Southeast 170 · Midwest 136 · Southwest 162 · Mountain West 95 · West 139 · Pacific Northwest 69 · Alaska 37 · Hawaii 8 · U.S. Territories 3 · **Total 901**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -9520,9 +9520,9 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Mountain West Region {#mountain-west}
 
-**94 places · Colorado, Idaho, Montana, Utah, Wyoming**
+**95 places · Colorado, Idaho, Montana, Utah, Wyoming**
 
-<details><summary><b>Colorado</b> — 27 places</summary>
+<details><summary><b>Colorado</b> — 28 places</summary>
 <h4>Black Canyon of the Gunnison National Park</h4>
 <h5>Hiking</h5>
 <ul>
@@ -9804,6 +9804,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/p/DLfhXK6MSpQ/">6 places to visit in Colorado</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DLc0UnEsTmo/">3 national parks, 1 epic Colorado road trip</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DLAn4oEsmaM/">Mesa Verde — a truly unique national park experience</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Dfv3TqaJbxQ/">Mesa Verde National Park — 5 must-dos</a> by @roamwildfamily</li>
 </ul>
 </details>
 </li>
@@ -9825,6 +9826,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/p/DLfhXK6MSpQ/">6 places to visit in Colorado</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DLc0UnEsTmo/">3 national parks, 1 epic Colorado road trip</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DLAn4oEsmaM/">Mesa Verde — a truly unique national park experience</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Dfv3TqaJbxQ/">Mesa Verde National Park — 5 must-dos</a> by @roamwildfamily</li>
 </ul>
 </details>
 </li>
@@ -9844,6 +9846,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/p/DLfhXK6MSpQ/">6 places to visit in Colorado</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DLc0UnEsTmo/">3 national parks, 1 epic Colorado road trip</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DLAn4oEsmaM/">Mesa Verde — a truly unique national park experience</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Dfv3TqaJbxQ/">Mesa Verde National Park — 5 must-dos</a> by @roamwildfamily</li>
 </ul>
 </details>
 </li>
@@ -9862,6 +9865,22 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DY0B55kBc3r/">Mesa Verde National Park guide — cliff dwellings and tours</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DS5TVXxkiqT/">Mesa Verde — cliff dwellings older than Machu Picchu</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/DLfhXK6MSpQ/">6 places to visit in Colorado</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Dfv3TqaJbxQ/">Mesa Verde National Park — 5 must-dos</a> by @roamwildfamily</li>
+</ul>
+</details>
+</li>
+</ul>
+<h5>Scenic drive</h5>
+<ul>
+<li><b>20. <a href="https://www.google.com/maps/search/?api=1&query=Mesa Top Loop Road, Mesa Verde National Park, Colorado">Mesa Top Loop Road</a></b> — Mesa Verde National Park, Mesa Verde
+<ul>
+<li><b>Best for:</b> Scenic drive / 6-mile mesa-top ruins loop — The 6-mile self-guided driving loop on Chapin Mesa — a tour through 700 years of Mesa Verde history, with short paved walks to twelve mesa-top sites and overlooks of the cliff dwellings, including Square Tower House Overlook and Sun Temple. Open 8 AM to sunset.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/colorado/mesa-top-loop-road">Trail page</a></li>
+<li>Coordinates: Chapin Mesa Archeological Museum (37.18555, -108.48787, USGS GNIS via TopoQuest) — the loop starts at the museum. NPS: 6-mile drive, twelve ancestral sites, open 8 AM to sunset; AllTrails lists the loop as 4.7 mi, easy.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/Dfv3TqaJbxQ/">Mesa Verde National Park — 5 must-dos</a> by @roamwildfamily (#3 in that reel)</li>
 </ul>
 </details>
 </li>
@@ -9869,7 +9888,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Million Dollar Highway (Ouray to Silverton)</h4>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>20. <a href="https://www.google.com/maps/search/?api=1&query=Million+Dollar+Highway+Colorado">Million Dollar Highway (US-550)</a></b> — Million Dollar Highway (Ouray to Silverton), Ouray
+<li><b>21. <a href="https://www.google.com/maps/search/?api=1&query=Million+Dollar+Highway+Colorado">Million Dollar Highway (US-550)</a></b> — Million Dollar Highway (Ouray to Silverton), Ouray
 <ul>
 <li><b>Best for:</b> Scenic drive — American Travel Archives&#x27; &#x27;you will NOT believe this road&#x27; drive: the Million Dollar Highway (US-550) from Ouray to Silverton — 25 miles through the San Juan Mountains famous for steep cliffs, tight switchbacks and few guardrails. Stop at Red Mountain Pass for the classic overlook; autumn is the best time, when golden aspens contrast with the red and gray rock. Their tips: drive it in good morning light, take your time at the pull-offs, and think twice in an RV. Ouray and Silverton bookend it with hot springs and silver-mining history.</li>
 <li>Pin is at Red Mountain Pass, the highway&#x27;s classic overlook (OpenStreetMap).</li>
@@ -9891,7 +9910,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>21. <a href="https://www.google.com/maps/search/?api=1&query=Molas+Pass+Million+Dollar+Highway+(Ouray+to+Silverton)+CO">Molas Pass</a></b> — Million Dollar Highway (Ouray to Silverton), Silverton
+<li><b>22. <a href="https://www.google.com/maps/search/?api=1&query=Molas+Pass+Million+Dollar+Highway+(Ouray+to+Silverton)+CO">Molas Pass</a></b> — Million Dollar Highway (Ouray to Silverton), Silverton
 <ul>
 <li><b>Best for:</b> Scenic drive / 10,910-foot pass on the Million Dollar Highway — A stop on Kelley &amp; Carl&#x27;s beyond-Denver Colorado tour: Molas Pass, the 10,910-foot summit of the Million Dollar Highway (US-550) between Silverton and Durango, with Molas Lake and the Grenadier Range spread out below.</li>
 </ul>
@@ -9905,7 +9924,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Sneffels Wilderness</h4>
 <h5>Hike · Three turquoise alpine lakes below Mt. Sneffels</h5>
 <ul>
-<li><b>22. <a href="https://www.google.com/maps/search/?api=1&query=Blue+Lakes+Trail+Ridgway+Colorado">Blue Lakes Trail</a></b> — Mount Sneffels Wilderness, Ridgway
+<li><b>23. <a href="https://www.google.com/maps/search/?api=1&query=Blue+Lakes+Trail+Ridgway+Colorado">Blue Lakes Trail</a></b> — Mount Sneffels Wilderness, Ridgway
 <ul>
 <li><b>Best for:</b> Hike · Three turquoise alpine lakes below Mt. Sneffels — Listed at 10 miles in the reel: three stacked turquoise lakes — Lower, Middle and Upper Blue — in a glacial basin beneath 14,150-foot Mount Sneffels in the San Juan Mountains.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/colorado/lower-middle-and-upper-blue-lakes">Trail page</a></li>
@@ -9922,7 +9941,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Pike National Forest (Rampart Range)</h4>
 <h5>Hike · Staffed fire lookout tower with 100-mile views</h5>
 <ul>
-<li><b>23. <a href="https://www.google.com/maps/search/?api=1&query=Devil&#x27;s+Head+Lookout+Colorado">Devil&#x27;s Head Lookout</a></b> — Pike National Forest (Rampart Range), Sedalia
+<li><b>24. <a href="https://www.google.com/maps/search/?api=1&query=Devil&#x27;s+Head+Lookout+Colorado">Devil&#x27;s Head Lookout</a></b> — Pike National Forest (Rampart Range), Sedalia
 <ul>
 <li><b>Best for:</b> Hike · Staffed fire lookout tower with 100-mile views — Listed at 3 miles in the reel: the climb to the Devil&#x27;s Head Lookout, the only Forest Service fire tower in Colorado still staffed — 143 stairs to the cab at 9,749 feet and views for 100 miles in every direction.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/colorado/devil-s-head-lookout-trail--2">Trail page</a></li>
@@ -9937,7 +9956,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Royal Gorge, Cañon City depot</h4>
 <h5>Scenic train</h5>
 <ul>
-<li><b>24. <a href="https://www.google.com/maps/search/?api=1&query=Royal+Gorge+Route+Railroad+Canon+City">Royal Gorge Route Railroad</a></b> — Royal Gorge, Cañon City depot, Cañon City
+<li><b>25. <a href="https://www.google.com/maps/search/?api=1&query=Royal+Gorge+Route+Railroad+Canon+City">Royal Gorge Route Railroad</a></b> — Royal Gorge, Cañon City depot, Cañon City
 <ul>
 <li><b>Best for:</b> Scenic train / Canyon views · 1,000-ft gorge from an open-air car — Insane canyon views without hiking or driving sketchy roads: the Royal Gorge Route Railroad out of Cañon City, Colorado (~1 hr from Colorado Springs). The train runs the Arkansas River through a 1,000+ ft deep canyon with sheer granite cliffs on both sides, passing under the famous Royal Gorge Bridge — bald eagles, rafters, and dramatic rock formations along the route, with the best photo ops from the open-air car. Know before you go, per the reel: the ride is about 2 hours roundtrip and slow by design (scenery, not speed); parking is easy near the depot; there&#x27;s a full kitchen and bar on most departures; and you can pair it with Royal Gorge Bridge Park if you have extra time.</li>
 <li>Pin is the OSM station point for the Royal Gorge Route Railroad depot in Cañon City, where the ride boards.</li>
@@ -9952,7 +9971,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>San Juan Mountains</h4>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>25. <a href="https://www.google.com/maps/search/?api=1&query=Yankee+Boy+Basin+San+Juan+Mountains+CO">Yankee Boy Basin</a></b> — San Juan Mountains, Ouray
+<li><b>26. <a href="https://www.google.com/maps/search/?api=1&query=Yankee+Boy+Basin+San+Juan+Mountains+CO">Yankee Boy Basin</a></b> — San Juan Mountains, Ouray
 <ul>
 <li><b>Best for:</b> Scenic drive / Wildflower basin beneath Mount Sneffels — A stop on Kelley &amp; Carl&#x27;s beyond-Denver Colorado tour: Yankee Boy Basin above Ouray, a 4x4 shelf-road climb into a wildflower-filled cirque under 14,157-foot Mount Sneffels, past the Twin Falls and old mine ruins.</li>
 </ul>
@@ -9969,7 +9988,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Uncompahgre National Forest</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>26. <a href="https://www.google.com/maps/search/?api=1&query=Cascade Falls, Uncompahgre National Forest, Ouray, Colorado">Cascade Falls</a></b> — Uncompahgre National Forest, Ouray
+<li><b>27. <a href="https://www.google.com/maps/search/?api=1&query=Cascade Falls, Uncompahgre National Forest, Ouray, Colorado">Cascade Falls</a></b> — Uncompahgre National Forest, Ouray
 <ul>
 <li><b>Best for:</b> Waterfall / No-hike waterfall towering over Ouray — The star of their Ouray post: a multi-tiered waterfall pouring down the cliff at the east end of town, visible within five minutes of the parking lot with no hike required — &#x27;Colorado is just built different.&#x27;</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/colorado/lower-cascade-falls-trail">Trail page</a></li>
@@ -9985,7 +10004,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Zapata Falls (near Great Sand Dunes)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>27. <a href="https://www.google.com/maps/search/?api=1&query=Zapata+Falls+Colorado">Zapata Falls</a></b> — Zapata Falls (near Great Sand Dunes), Mosca
+<li><b>28. <a href="https://www.google.com/maps/search/?api=1&query=Zapata+Falls+Colorado">Zapata Falls</a></b> — Zapata Falls (near Great Sand Dunes), Mosca
 <ul>
 <li><b>Best for:</b> Waterfall — Amory&#x27;s #3 unique national park waterfall: Zapata Falls near Great Sand Dunes — a dramatic falls hidden inside a dark rock cavern at the foot of the Sangre de Cristo Mountains, shown as a frozen icefall in winter.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/colorado/zapata-falls-trail">Trail page</a></li>
@@ -10004,7 +10023,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Sawtooth Wilderness (Sawtooth National Forest)</h4>
 <h5>Hike · Bucket-list hike, #8 of 12</h5>
 <ul>
-<li><b>28. <a href="https://www.google.com/maps/search/?api=1&query=Sawtooth+Lake+Idaho">Sawtooth Lake</a></b> — Sawtooth Wilderness (Sawtooth National Forest), Stanley
+<li><b>29. <a href="https://www.google.com/maps/search/?api=1&query=Sawtooth+Lake+Idaho">Sawtooth Lake</a></b> — Sawtooth Wilderness (Sawtooth National Forest), Stanley
 <ul>
 <li><b>Best for:</b> Hike · Bucket-list hike, #8 of 12 — Ranked #8 in the reel&#x27;s countdown of 12 bucket-list hikes NOT in national parks: Sawtooth Lake, the alpine lake beneath the jagged Sawtooth peaks in Idaho&#x27;s Sawtooth Wilderness.</li>
 </ul>
@@ -10021,7 +10040,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Glacier National Park</h4>
 <h5>Alpine lake</h5>
 <ul>
-<li><b>29. <a href="https://www.google.com/maps/search/?api=1&query=Iceberg+Lake+Glacier+National+Park">Iceberg Lake</a></b> — Glacier National Park, Many Glacier
+<li><b>30. <a href="https://www.google.com/maps/search/?api=1&query=Iceberg+Lake+Glacier+National+Park">Iceberg Lake</a></b> — Glacier National Park, Many Glacier
 <ul>
 <li><b>Best for:</b> Alpine lake / Hike · Turquoise lake with floating icebergs — One of the ten in Ted&#x27;s &#x27;top 10 hikes after visiting 62 of 63 national parks&#x27; list. Iceberg Lake in Glacier National Park — turquoise water with icebergs floating in it year-round, in the shadow of Mount Wilbur on the Many Glacier side; ~9.6-mile out-and-back from the Swiftcurrent trailhead.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/iceberg-lake-trail--3">Trail page</a></li>
@@ -10038,7 +10057,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>30. <a href="https://www.google.com/maps/search/?api=1&query=Avalanche+Lake+Glacier+National+Park+MT">Avalanche Lake</a></b> — Glacier National Park, West Glacier
+<li><b>31. <a href="https://www.google.com/maps/search/?api=1&query=Avalanche+Lake+Glacier+National+Park+MT">Avalanche Lake</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hike — Caption and tagged location name Avalanche Lake in Glacier National Park. The video pans along a turquoise alpine lake under forested, snow-patched peaks and asks whether this is the best hike in West Glacier.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/avalanche-lake--6">Trail page</a></li>
@@ -10054,7 +10073,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>31. <a href="https://www.google.com/maps/search/?api=1&query=Glacier+National+Park+Glacier+National+Park+MT">Glacier National Park</a></b> — Glacier National Park, West Glacier
+<li><b>32. <a href="https://www.google.com/maps/search/?api=1&query=Glacier+National+Park+Glacier+National+Park+MT">Glacier National Park</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hike — His #1 for hiking, presented as the most beautiful: high-elevation views of long lakes between snow-streaked mountains and hiker footage on alpine trails.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point on the Going-to-the-Sun Road corridor.</li>
@@ -10079,7 +10098,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>32. <a href="https://www.google.com/maps/search/?api=1&query=Grinnell+Glacier+Trail+Glacier+National+Park+MT">Grinnell Glacier Trail</a></b> — Glacier National Park, West Glacier
+<li><b>33. <a href="https://www.google.com/maps/search/?api=1&query=Grinnell+Glacier+Trail+Glacier+National+Park+MT">Grinnell Glacier Trail</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hike / Many Glacier trail past turquoise lakes to a shrinking glacier — Rated 10/10 in Kelley &amp; Carl&#x27;s honest ratings for Montana &amp; Wyoming hikes — one of the finest trails in Glacier National Park, climbing past Grinnell Lake&#x27;s impossible turquoise water to the glacier itself. Also on their most-rewarding, perfect-hikes and photography lists.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/grinnell-glacier-trail">Trail page</a></li>
@@ -10114,7 +10133,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>33. <a href="https://www.google.com/maps/search/?api=1&query=Highline+Trail+Glacier+National+Park+MT">Highline Trail</a></b> — Glacier National Park, West Glacier
+<li><b>34. <a href="https://www.google.com/maps/search/?api=1&query=Highline+Trail+Glacier+National+Park+MT">Highline Trail</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hike / Glacier&#x27;s signature cliff-edge traverse along the Garden Wall — Rated 9/10 in Kelley &amp; Carl&#x27;s honest ratings for Montana &amp; Wyoming hikes: the Highline Trail traverses the Garden Wall from Logan Pass — wildflowers, cliff-edge ledges with a cable handhold, and constant views. Their photography post pairs it with the Garden Wall and Going-to-the-Sun Road stops.</li>
 <li>Pin is the Logan Pass trailhead/parking point (published trail-guide GPS) where the Highline Trail starts.</li>
@@ -10140,7 +10159,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>34. <a href="https://www.google.com/maps/search/?api=1&query=Mt+Henry+Trail+Glacier+National+Park+MT">Mt Henry Trail</a></b> — Glacier National Park, Glacier National Park
+<li><b>35. <a href="https://www.google.com/maps/search/?api=1&query=Mt+Henry+Trail+Glacier+National+Park+MT">Mt Henry Trail</a></b> — Glacier National Park, Glacier National Park
 <ul>
 <li><b>Best for:</b> Hike / Summit view — Caption names the Mt Henry Trail in Glacier National Park. From the summit, the camera pans across rugged snow-dusted peaks, forested valleys, and a distant turquoise lake as a hiker with trekking poles walks the exposed ridge; on-screen text reads, &#x27;On top of the world...&#x27;</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/glacier-national-park-east-side">Trail page</a></li>
@@ -10152,7 +10171,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>35. <a href="https://www.google.com/maps/search/?api=1&query=Sperry+Chalet+Glacier+National+Park+MT">Sperry Chalet</a></b> — Glacier National Park, West Glacier
+<li><b>36. <a href="https://www.google.com/maps/search/?api=1&query=Sperry+Chalet+Glacier+National+Park+MT">Sperry Chalet</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hike — Renata&#x27;s Glacier hike: a 5 AM start from Lake McDonald, a foggy forest climb she calls boring — until the stone Sperry Chalet appears on its cliff, a mountain goat poses nearby, and the scenery turns &#x27;INSANE&#x27;: ice formations, snowfields by a glacier, and her jaw on the floor. Dinner afterwards at the Lake McDonald lodge.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/sperry-chalet-trail">Trail page</a></li>
@@ -10164,7 +10183,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>36. <a href="https://www.google.com/maps/search/?api=1&query=Stanton+Mountain+Glacier+National+Park+MT">Stanton Mountain</a></b> — Glacier National Park, Lake McDonald
+<li><b>37. <a href="https://www.google.com/maps/search/?api=1&query=Stanton+Mountain+Glacier+National+Park+MT">Stanton Mountain</a></b> — Glacier National Park, Lake McDonald
 <ul>
 <li><b>Best for:</b> Hike — Ranked #5, an 8-mile round trip with about 4,500 feet of gain, mostly off-trail on the second half. He stopped short of the summit in snow but had views of Lake McDonald.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/stanton-mountain">Trail page</a></li>
@@ -10175,7 +10194,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>37. <a href="https://www.google.com/maps/search/?api=1&query=The+Garden+Wall+Glacier+National+Park+MT">The Garden Wall</a></b> — Glacier National Park, West Glacier
+<li><b>38. <a href="https://www.google.com/maps/search/?api=1&query=The+Garden+Wall+Glacier+National+Park+MT">The Garden Wall</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hike / The Continental Divide arête above the Highline Trail, up to Grinnell Glacier Overlook — On Kelley &amp; Carl&#x27;s most-rewarding-hikes list: the Garden Wall section of the Highline Trail. Their hardest-hikes list gives the full route — 15.2 miles with over 3,400 ft of gain, the best viewpoint requiring a ~1,000 ft climb in 1 mile from the Highline up to the Grinnell Glacier Overlook. Rated 10/10 in their Montana &amp; Wyoming ratings.</li>
 <li>Pin is the published Wikipedia coordinate for the Garden Wall arête along the Continental Divide north of Logan Pass.</li>
@@ -10203,7 +10222,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>38. <a href="https://www.google.com/maps/search/?api=1&query=Trail+of+the+Cedars+Glacier+National+Park+MT">Trail of the Cedars</a></b> — Glacier National Park, West Glacier
+<li><b>39. <a href="https://www.google.com/maps/search/?api=1&query=Trail+of+the+Cedars+Glacier+National+Park+MT">Trail of the Cedars</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hike / Giant trees · Old-growth cedar and hemlock loop at Avalanche Creek — Ranked #1 of the carousel&#x27;s 10 hikes among giant trees: walk beneath western redcedars and hemlocks near Avalanche Creek in Glacier National Park, Montana. The accessible boardwalk loop also passes Avalanche Gorge, where the creek squeezes through polished rock.</li>
 <li>Pin is the published Avalanche Creek / Trail of the Cedars trailhead point on Going-to-the-Sun Road (multiple trail guides agree within ~100 ft).</li>
@@ -10219,7 +10238,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hiking</h5>
 <ul>
-<li><b>39. <a href="https://www.google.com/maps/search/?api=1&query=Cracker+Lake+Glacier+National+Park+MT">Cracker Lake</a></b> — Glacier National Park, West Glacier
+<li><b>40. <a href="https://www.google.com/maps/search/?api=1&query=Cracker+Lake+Glacier+National+Park+MT">Cracker Lake</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hiking / Milky-turquoise lake in the Many Glacier valley — One of Kelley &amp; Carl&#x27;s favorite Glacier hikes: Cracker Lake, a long day hike from Many Glacier to an impossibly milky-turquoise lake backed by Mount Siyeh and the Cracker Lake headwall, past an old mine site.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/cracker-lake-trail">Trail page</a></li>
@@ -10233,7 +10252,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>40. <a href="https://www.google.com/maps/search/?api=1&query=Hidden+Lake+Overlook+Glacier+National+Park+MT">Hidden Lake Overlook</a></b> — Glacier National Park, West Glacier
+<li><b>41. <a href="https://www.google.com/maps/search/?api=1&query=Hidden+Lake+Overlook+Glacier+National+Park+MT">Hidden Lake Overlook</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hiking / Logan Pass boardwalk to a mountain-goat overlook — One of Kelley &amp; Carl&#x27;s favorite Glacier hikes (rated 7/10 in their Montana &amp; Wyoming ratings): the Hidden Lake Overlook, a boardwalk-and-trail climb from Logan Pass through alpine meadows — mountain goat country — to the overlook above Hidden Lake and Bearhat Mountain.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/hidden-lake-overlook">Trail page</a></li>
@@ -10257,7 +10276,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>41. <a href="https://www.google.com/maps/search/?api=1&query=Ptarmigan+Tunnel+Glacier+National+Park+MT">Ptarmigan Tunnel</a></b> — Glacier National Park, West Glacier
+<li><b>42. <a href="https://www.google.com/maps/search/?api=1&query=Ptarmigan+Tunnel+Glacier+National+Park+MT">Ptarmigan Tunnel</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Hiking / A 250-foot tunnel through the Ptarmigan Wall — One of Kelley &amp; Carl&#x27;s favorite Glacier hikes: Ptarmigan Tunnel, blasted through the Ptarmigan Wall in 1930 — the trail from Many Glacier passes Ptarmigan Falls and Ptarmigan Lake, then slips through the tunnel to a cliff-edge view down the Belly River valley.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/ptarmigan-tunnel--4">Trail page</a></li>
@@ -10273,7 +10292,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Lake</h5>
 <ul>
-<li><b>42. <a href="https://www.google.com/maps/search/?api=1&query=Lake+McDonald+Glacier+National+Park+MT">Lake McDonald</a></b> — Glacier National Park, West Glacier
+<li><b>43. <a href="https://www.google.com/maps/search/?api=1&query=Lake+McDonald+Glacier+National+Park+MT">Lake McDonald</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Lake / Glacier&#x27;s largest lake — colorful pebbles and mountain reflections — Kelley &amp; Carl say no trip to Glacier is complete without a stop at Lake McDonald — they love the colorful pebbles and clear water, and they end Day 2 of their Glacier itinerary on its shore.</li>
 <li>Coordinates from Wikipedia for Lake McDonald.</li>
@@ -10290,7 +10309,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>43. <a href="https://www.google.com/maps/search/?api=1&query=Going-to-the-Sun+Road+Glacier+National+Park+MT">Going-to-the-Sun Road</a></b> — Glacier National Park, West Glacier
+<li><b>44. <a href="https://www.google.com/maps/search/?api=1&query=Going-to-the-Sun+Road+Glacier+National+Park+MT">Going-to-the-Sun Road</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Scenic drive — Joyce&#x27;s verdict: &#x27;Breathtaking views — definitely the most beautiful place I&#x27;ve ever been in the US.&#x27; The reel is a love letter to Glacier&#x27;s Going-to-the-Sun Road, the alpine highway over Logan Pass.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10321,7 +10340,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>44. <a href="https://www.google.com/maps/search/?api=1&query=Jackson Glacier Overlook, Glacier National Park, West Glacier, Montana">Jackson Glacier Overlook</a></b> — Glacier National Park, West Glacier
+<li><b>45. <a href="https://www.google.com/maps/search/?api=1&query=Jackson Glacier Overlook, Glacier National Park, West Glacier, Montana">Jackson Glacier Overlook</a></b> — Glacier National Park, West Glacier
 <ul>
 <li><b>Best for:</b> Viewpoint / Glacier view from Going-to-the-Sun Road — One of the can&#x27;t-miss stops on their Going-to-the-Sun Road drive: the east-side overlook with the road&#x27;s best view of a glacier — Jackson Glacier across the St. Mary Valley.</li>
 <li>Coordinates: Mapcarta (OpenStreetMap viewpoint node).</li>
@@ -10332,7 +10351,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>45. <a href="https://www.google.com/maps/search/?api=1&query=Wild+Goose+Island+Lookout+Glacier+National+Park+MT">Wild Goose Island Lookout</a></b> — Glacier National Park, St. Mary
+<li><b>46. <a href="https://www.google.com/maps/search/?api=1&query=Wild+Goose+Island+Lookout+Glacier+National+Park+MT">Wild Goose Island Lookout</a></b> — Glacier National Park, St. Mary
 <ul>
 <li><b>Best for:</b> Viewpoint / The tiny island in St. Mary Lake — Glacier&#x27;s most photographed view — A Day 2 stop on Kelley &amp; Carl&#x27;s Glacier itinerary: the Wild Goose Island Lookout on Going-to-the-Sun Road — the classic view of the tiny island sitting in St. Mary Lake beneath the Lewis Range.</li>
 <li>Coordinates from the NPS place record for Wild Goose Island Overlook.</li>
@@ -10348,7 +10367,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>46. <a href="https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Glacier+National+Park+MT">Hidden Falls (Glacier)</a></b> — Glacier National Park, Logan Pass
+<li><b>47. <a href="https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Glacier+National+Park+MT">Hidden Falls (Glacier)</a></b> — Glacier National Park, Logan Pass
 <ul>
 <li><b>Best for:</b> Waterfall — Amory&#x27;s #4 unique national park waterfall: Hidden Falls in Glacier — a powerful waterfall plunging through a narrow, mossy rock gorge, with snow-capped peaks and evergreens behind it.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/grinnell-lake-trail">Trail page</a></li>
@@ -10360,7 +10379,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>47. <a href="https://www.google.com/maps/search/?api=1&query=Virginia+Falls+Glacier+National+Park+MT">Virginia Falls</a></b> — Glacier National Park, St. Mary
+<li><b>48. <a href="https://www.google.com/maps/search/?api=1&query=Virginia+Falls+Glacier+National+Park+MT">Virginia Falls</a></b> — Glacier National Park, St. Mary
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #1 waterfall, a tall, misty waterfall in a forested valley.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/st-mary-and-virginia-falls-trail">Trail page</a></li>
@@ -10378,7 +10397,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Glacier National Park (Many Glacier)</h4>
 <h5>Hike · Easy lakeside loop in Many Glacier</h5>
 <ul>
-<li><b>48. <a href="https://www.google.com/maps/search/?api=1&query=Swiftcurrent+Lake+Trail+Glacier+National+Park+MT">Swiftcurrent Lake Trail</a></b> — Glacier National Park (Many Glacier), Babb
+<li><b>49. <a href="https://www.google.com/maps/search/?api=1&query=Swiftcurrent+Lake+Trail+Glacier+National+Park+MT">Swiftcurrent Lake Trail</a></b> — Glacier National Park (Many Glacier), Babb
 <ul>
 <li><b>Best for:</b> Hike · Easy lakeside loop in Many Glacier — The reel&#x27;s shortest pick at 2 miles: the easy nature-trail loop around Swiftcurrent Lake in Glacier&#x27;s Many Glacier valley, under Mount Wilbur and past the historic Many Glacier Hotel.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/montana/swiftcurrent-lake-nature-trail">Trail page</a></li>
@@ -10397,7 +10416,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Dinosaur National Monument</h4>
 <h5>Fossils · A building built around a wall of dinosaur bones</h5>
 <ul>
-<li><b>49. <a href="https://www.google.com/maps/search/?api=1&query=Quarry+Exhibit+Hall+Dinosaur+National+Monument">Quarry Exhibit Hall</a></b> — Dinosaur National Monument, Jensen
+<li><b>50. <a href="https://www.google.com/maps/search/?api=1&query=Quarry+Exhibit+Hall+Dinosaur+National+Monument">Quarry Exhibit Hall</a></b> — Dinosaur National Monument, Jensen
 <ul>
 <li><b>Best for:</b> Fossils · A building built around a wall of dinosaur bones — About 30 minutes east of Vernal, a shuttle takes you to the Quarry Exhibit Hall — a building constructed around the sloped rock face where a &#x27;log jam&#x27; of dinosaur bones was found in 1909. Hundreds of thousands of bones were excavated for museums around the world, but the rest were left in place, so you can see — and touch — real fossils where they were buried. You can shuttle back or hike back down for more fossils in the rock formations. The monument spans Utah and Colorado; the quarry is on the Utah side, and the creators wished they&#x27;d had time for more trails and a Green River float.</li>
 </ul>
@@ -10411,7 +10430,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>East Zion (Orderville)</h4>
 <h5>Slot canyon</h5>
 <ul>
-<li><b>50. <a href="https://www.google.com/maps/search/?api=1&query=Crimson+Canyon+East+Zion+Adventures+Orderville">Crimson Canyon</a></b> — East Zion (Orderville), Orderville
+<li><b>51. <a href="https://www.google.com/maps/search/?api=1&query=Crimson+Canyon+East+Zion+Adventures+Orderville">Crimson Canyon</a></b> — East Zion (Orderville), Orderville
 <ul>
 <li><b>Best for:</b> Slot canyon / Guided tour · Antelope-style canyon without the crowds — The reel&#x27;s pitch: people pay hundreds to visit Antelope Canyon, but almost no one knows about this slot canyon near Zion — towering red sandstone walls (100+ ft high, 6–10 ft wide), winding passageways and incredible photo opportunities WITHOUT the crowds. The catch, stated honestly in the reel: Crimson Canyon itself has no entrance fee, but you can&#x27;t access it independently because the route crosses private property — you book a guided tour with a company that has permission. They booked East Zion Adventures and loved it: a ~2-hour trip, UTV ride into the backcountry from Orderville, then a guided hike with short climbs (obstacles up to ~10 ft).</li>
 <li>Pin is the tour meeting point in Orderville (15 E State St — check-in at the Sinclair station coffee shop, per East Zion Adventures&#x27; listings); the canyon itself is on private land reached by UTV and has no public coordinates.</li>
@@ -10426,7 +10445,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Homestead Resort</h4>
 <h5>Hot spring · Swim inside a 55-foot limestone crater</h5>
 <ul>
-<li><b>51. <a href="https://www.google.com/maps/search/?api=1&query=Homestead+Crater+Midway+UT">Homestead Crater</a></b> — Homestead Resort, Midway
+<li><b>52. <a href="https://www.google.com/maps/search/?api=1&query=Homestead+Crater+Midway+UT">Homestead Crater</a></b> — Homestead Resort, Midway
 <ul>
 <li><b>Best for:</b> Hot spring · Swim inside a 55-foot limestone crater — A hidden underground hot spring inside a 55-foot-tall limestone crater: a naturally heated geothermal pool at 90–96°F year-round, about 65 feet deep, that you can soak, swim, snorkel or even scuba dive in. It&#x27;s at the Homestead Resort in Midway, just outside Park City, but day visitors are welcome — $30 per person (the reel notes it was $15 when filmed) for a 60-minute session with about 40 minutes in the water; life jackets are required and provided, and reservations are recommended since weekends fill up.</li>
 </ul>
@@ -10440,7 +10459,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Potash Road (SR-279, Moab)</h4>
 <h5>Arch · Tall, narrow arch visible right from the road</h5>
 <ul>
-<li><b>52. <a href="https://www.google.com/maps/search/?api=1&query=Jug+Handle+Arch+Moab">Jug Handle Arch</a></b> — Potash Road (SR-279, Moab), Moab
+<li><b>53. <a href="https://www.google.com/maps/search/?api=1&query=Jug+Handle+Arch+Moab">Jug Handle Arch</a></b> — Potash Road (SR-279, Moab), Moab
 <ul>
 <li><b>Best for:</b> Arch · Tall, narrow arch visible right from the road — Stop #5 on the reel&#x27;s Highway 279 drive: Jug Handle Arch — a tall, narrow arch visible right from the road at the entrance to Long Canyon; park at the signed turn-off and look up.</li>
 <li>Pin at the Jug Handle Arch view area (milepoint-anchored to the Corona Arch trailhead OSM point; UDOT milepost 1.678 measured back from the Potash plant end of SR-279).</li>
@@ -10454,7 +10473,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Dinosaur tracks · Fossil tracksite a short walk from parking</h5>
 <ul>
-<li><b>53. <a href="https://www.google.com/maps/search/?api=1&query=Poison+Spider+Dinosaur+Tracks+Moab">Poison Spider Dinosaur Tracks</a></b> — Potash Road (SR-279, Moab), Moab
+<li><b>54. <a href="https://www.google.com/maps/search/?api=1&query=Poison+Spider+Dinosaur+Tracks+Moab">Poison Spider Dinosaur Tracks</a></b> — Potash Road (SR-279, Moab), Moab
 <ul>
 <li><b>Best for:</b> Dinosaur tracks · Fossil tracksite a short walk from parking — Stop #2 on the reel&#x27;s Highway 279 drive: the Poison Spider tracksite — real three-toed Jurassic dinosaur tracks on rock slabs, a short walk from the trailhead parking; viewing tubes in the BLM area line up on a series of fossilized tracks and a petroglyph panel.</li>
 <li>Pin at the Poison Spider trailhead parking, byway mile ~5.9 (milepoint-anchored to the Corona Arch trailhead OSM point).</li>
@@ -10468,7 +10487,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>54. <a href="https://www.google.com/maps/search/?api=1&query=Corona+Arch+Trailhead+Moab">Corona Arch</a></b> — Potash Road (SR-279, Moab), Moab
+<li><b>55. <a href="https://www.google.com/maps/search/?api=1&query=Corona+Arch+Trailhead+Moab">Corona Arch</a></b> — Potash Road (SR-279, Moab), Moab
 <ul>
 <li><b>Best for:</b> Hike / Arch · Massive freestanding arch, ladder + cable section — Stop #4 on the reel&#x27;s Highway 279 drive: Corona Arch — a massive freestanding arch (140 by 105 ft, also called Little Rainbow Bridge) on a 3-mile round-trip hike with a short ladder and cable section; the trail also passes Bowtie Arch.</li>
 <li>Pin is the Corona Arch Trailhead (the OSM-listed trailhead point); the arch is at the end of the ~1.5-mile trail.</li>
@@ -10484,7 +10503,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Rock art · Ancient petroglyphs at a marked roadside pullout</h5>
 <ul>
-<li><b>55. <a href="https://www.google.com/maps/search/?api=1&query=Potash+Road+Petroglyphs+Moab">Potash Road Petroglyph Panel</a></b> — Potash Road (SR-279, Moab), Moab
+<li><b>56. <a href="https://www.google.com/maps/search/?api=1&query=Potash+Road+Petroglyphs+Moab">Potash Road Petroglyph Panel</a></b> — Potash Road (SR-279, Moab), Moab
 <ul>
 <li><b>Best for:</b> Rock art · Ancient petroglyphs at a marked roadside pullout — Stop #1 on the reel&#x27;s Highway 279 drive: an ancient petroglyph panel right along the road, with a marked pullout so you can see the rock art without hiking — dozens of carvings (bighorn sheep, hunters, spirals) on the varnished cliff, with BLM interpretive signs.</li>
 <li>Pin at byway mile ~5.0, the &#x27;Indian Writing&#x27; pullout (milepoint-anchored to the Corona Arch trailhead OSM point).</li>
@@ -10498,7 +10517,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Rock climbing</h5>
 <ul>
-<li><b>56. <a href="https://www.google.com/maps/search/?api=1&query=Wall+Street+Potash+Road+Moab">Wall Street (Potash Road)</a></b> — Potash Road (SR-279, Moab), Moab
+<li><b>57. <a href="https://www.google.com/maps/search/?api=1&query=Wall+Street+Potash+Road+Moab">Wall Street (Potash Road)</a></b> — Potash Road (SR-279, Moab), Moab
 <ul>
 <li><b>Best for:</b> Rock climbing / Scenic drive · Sheer sandstone walls at the pavement — Stop #3 on the reel&#x27;s Highway 279 drive: &#x27;Wall Street&#x27; — sheer sandstone walls rising right next to the pavement where you can watch climbers in action. It&#x27;s Moab&#x27;s most famous roadside climbing zone, a thousand-foot wall running alongside the Colorado River gorge.</li>
 <li>Pin at byway mile ~4.3, where Wall Street begins (milepoint-anchored to the Corona Arch trailhead OSM point).</li>
@@ -10512,7 +10531,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Viewpoint · Bright blue evaporation ponds at the end of the route</h5>
 <ul>
-<li><b>57. <a href="https://www.google.com/maps/search/?api=1&query=Potash+Evaporation+Ponds+Moab">Potash Evaporation Ponds</a></b> — Potash Road (SR-279, Moab), Moab
+<li><b>58. <a href="https://www.google.com/maps/search/?api=1&query=Potash+Evaporation+Ponds+Moab">Potash Evaporation Ponds</a></b> — Potash Road (SR-279, Moab), Moab
 <ul>
 <li><b>Best for:</b> Viewpoint · Bright blue evaporation ponds at the end of the route — Stop #6 on the reel&#x27;s Highway 279 drive: the Potash Ponds — bright blue evaporation ponds near the end of the route, best seen from above (they&#x27;re the Intrepid Potash mine&#x27;s solar evaporation ponds; the paved road ends further on and the route continues on dirt toward Thelma &amp; Louise Point and the Shafer Trail into Canyonlands).</li>
 </ul>
@@ -10529,7 +10548,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Devils Tower National Monument</h4>
 <h5>Road trip stop</h5>
 <ul>
-<li><b>58. <a href="https://www.google.com/maps/search/?api=1&query=Devils+Tower+National+Monument+WY">Devils Tower National Monument</a></b> — Devils Tower National Monument, Hulett
+<li><b>59. <a href="https://www.google.com/maps/search/?api=1&query=Devils+Tower+National+Monument+WY">Devils Tower National Monument</a></b> — Devils Tower National Monument, Hulett
 <ul>
 <li><b>Best for:</b> Road trip stop — Stop 3 on @funsizewanderer&#x27;s 9-day South Dakota &amp; North Dakota road-trip loop out of Rapid City: Day 6 — treated as its own stop on the transfer back to the Black Hills.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10545,7 +10564,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Grand Teton National Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>59. <a href="https://www.google.com/maps/search/?api=1&query=Cascade+Canyon+Trail+Grand+Teton">Cascade Canyon</a></b> — Grand Teton National Park, Moose
+<li><b>60. <a href="https://www.google.com/maps/search/?api=1&query=Cascade+Canyon+Trail+Grand+Teton">Cascade Canyon</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Hike / Canyon · River valley under the towering Tetons — One of the ten in Ted&#x27;s &#x27;top 10 hikes after visiting 62 of 63 national parks&#x27; list. Cascade Canyon in Grand Teton — a river valley running straight into the towering Teton wall, reached by the Jenny Lake boat shuttle or the Jenny Lake loop.</li>
 </ul>
@@ -10564,7 +10583,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>60. <a href="https://www.google.com/maps/search/?api=1&query=Delta+Lake+Grand+Teton+National+Park+WY">Delta Lake</a></b> — Grand Teton National Park, Moose
+<li><b>61. <a href="https://www.google.com/maps/search/?api=1&query=Delta+Lake+Grand+Teton+National+Park+WY">Delta Lake</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Hike / Off-trail scramble to a milky-turquoise glacial lake under the Grand Teton — Rated 9/10 in Kelley &amp; Carl&#x27;s Montana &amp; Wyoming ratings. Their hardest-hikes list: 8 miles with 2,300 ft of gain, and about a mile of unmaintained trail — loose rocks and dirt, unsteady and extremely steep — to reach the milky turquoise lake beneath the Grand Teton.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wyoming/delta-lake-via-lupine-meadows-access">Trail page</a></li>
@@ -10600,7 +10619,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hiking</h5>
 <ul>
-<li><b>61. <a href="https://www.google.com/maps/search/?api=1&query=Inspiration+Point+Grand+Teton+National+Park+WY">Inspiration Point</a></b> — Grand Teton National Park, Moose
+<li><b>62. <a href="https://www.google.com/maps/search/?api=1&query=Inspiration+Point+Grand+Teton+National+Park+WY">Inspiration Point</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Hiking / Jenny Lake&#x27;s west-shore overlook — Rated 6/10 in Kelley &amp; Carl&#x27;s Montana &amp; Wyoming hike ratings: Inspiration Point, the rocky perch 7,200 feet up above Jenny Lake&#x27;s west shore, reached by the Jenny Lake boat shuttle and the Hidden Falls trail (not the Bryce Canyon or Anacapa overlooks of the same name).</li>
 <li>Coordinates from the NPS place record.</li>
@@ -10612,7 +10631,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>62. <a href="https://www.google.com/maps/search/?api=1&query=Phelps+Lake+Grand+Teton+National+Park+WY">Phelps Lake</a></b> — Grand Teton National Park, Moose
+<li><b>63. <a href="https://www.google.com/maps/search/?api=1&query=Phelps+Lake+Grand+Teton+National+Park+WY">Phelps Lake</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Hiking / Alpine lake below Death Canyon, with a jumping rock — One of Kelley &amp; Carl&#x27;s favorite Grand Teton hikes in their Teton-vs-Yellowstone reel: Phelps Lake, a deep-blue glacial lake at the mouth of Death Canyon — famous for its shoreline jumping rock — reached from the Laurance S. Rockefeller Preserve or Death Canyon trailheads.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wyoming/phelps-lake-via-valley-trail">Trail page</a></li>
@@ -10625,7 +10644,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>63. <a href="https://www.google.com/maps/search/?api=1&query=Taggart+Lake+Grand+Teton+National+Park+WY">Taggart Lake</a></b> — Grand Teton National Park, Moose
+<li><b>64. <a href="https://www.google.com/maps/search/?api=1&query=Taggart+Lake+Grand+Teton+National+Park+WY">Taggart Lake</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Hiking / Mirror lake under the Teton Range — On Kelley &amp; Carl&#x27;s mountain-lovers list for Grand Teton: Taggart Lake, an easy 3-mile round trip to a glassy lake reflecting the Cathedral Group — one of the park&#x27;s best short hikes.</li>
 <li>Coordinates are the NPS Taggart Lake Trailhead place record.</li>
@@ -10643,7 +10662,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Sunrise</h5>
 <ul>
-<li><b>64. <a href="https://www.google.com/maps/search/?api=1&query=Blacktail Ponds Overlook, Grand Teton National Park, Moose, Wyoming">Blacktail Ponds Overlook</a></b> — Grand Teton National Park, Moose
+<li><b>65. <a href="https://www.google.com/maps/search/?api=1&query=Blacktail Ponds Overlook, Grand Teton National Park, Moose, Wyoming">Blacktail Ponds Overlook</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Sunrise / Teton reflections over the Snake River ponds — A sunrise pick in their two-day Grand Teton itinerary: the pullout above Blacktail Ponds, where the Snake River oxbows mirror the Tetons and moose feed at dawn.</li>
 <li>Coordinates: USGS GNIS feature point.</li>
@@ -10659,7 +10678,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>View</h5>
 <ul>
-<li><b>65. <a href="https://www.google.com/maps/search/?api=1&query=Jenny+Lake+Grand+Teton+National+Park+WY">Jenny Lake</a></b> — Grand Teton National Park, Jenny Lake
+<li><b>66. <a href="https://www.google.com/maps/search/?api=1&query=Jenny+Lake+Grand+Teton+National+Park+WY">Jenny Lake</a></b> — Grand Teton National Park, Jenny Lake
 <ul>
 <li><b>Best for:</b> View — Ranked #1 for views, highlighted by the clear lake reflecting the snow-capped Teton peaks.</li>
 </ul>
@@ -10672,7 +10691,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>66. <a href="https://www.google.com/maps/search/?api=1&query=Mormon+Row+Grand+Teton+National+Park+WY">Mormon Row</a></b> — Grand Teton National Park, Moose
+<li><b>67. <a href="https://www.google.com/maps/search/?api=1&query=Mormon+Row+Grand+Teton+National+Park+WY">Mormon Row</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Viewpoint / Historic homestead barns beneath the Tetons — Kelley &amp; Carl&#x27;s Grand Teton photography pick pairs sunrise at Schwabacher Landing with Mormon Row — the historic Mormon homestead barns (including the famous T.A. Moulton Barn) lined up beneath the Teton Range.</li>
 <li>Pin is the OSM Mormon Row road point through the historic district on Antelope Flats.</li>
@@ -10687,7 +10706,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>67. <a href="https://www.google.com/maps/search/?api=1&query=Oxbow+Bend+Grand+Teton+National+Park+WY">Oxbow Bend</a></b> — Grand Teton National Park, Moose
+<li><b>68. <a href="https://www.google.com/maps/search/?api=1&query=Oxbow+Bend+Grand+Teton+National+Park+WY">Oxbow Bend</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Viewpoint / Mount Moran reflected in the Snake River — A must-see on Kelley &amp; Carl&#x27;s Great American West road trip: Oxbow Bend, where the Snake River slows into a mirror for Mount Moran — a sunrise favorite and a reliable spot for moose, pelicans and trumpeter swans.</li>
 <li>Coordinates from the Oxbow Bend place record.</li>
@@ -10701,7 +10720,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>68. <a href="https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing+Grand+Teton+National+Park+WY">Schwabacher Landing</a></b> — Grand Teton National Park, Moose
+<li><b>69. <a href="https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing+Grand+Teton+National+Park+WY">Schwabacher Landing</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Viewpoint / Snake River reflection of the Teton Range — On Kelley &amp; Carl&#x27;s &#x27;high reward with little effort&#x27; overlooks list: &#x27;so incredibly magical at sunrise! Just be aware, this is very popular at sunrise so you will not be alone.&#x27; Their photography post also names Schwabacher Landing as a Grand Teton sunrise spot.</li>
 <li>Pin is the OSM Schwabacher Landing parking point on US-191.</li>
@@ -10724,7 +10743,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>69. <a href="https://www.google.com/maps/search/?api=1&query=Snake River Overlook, Grand Teton National Park, Moose, Wyoming">Snake River Overlook</a></b> — Grand Teton National Park, Moose
+<li><b>70. <a href="https://www.google.com/maps/search/?api=1&query=Snake River Overlook, Grand Teton National Park, Moose, Wyoming">Snake River Overlook</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Viewpoint / Ansel Adams&#x27; Tetons and Snake River vantage — On their Grand Teton viewpoint list: the turnout where Ansel Adams shot &#x27;The Tetons and the Snake River&#x27; in 1942 — the same river bend, now framed by grown-in trees.</li>
 <li>Coordinates: parksandtrips published GPS for the overlook.</li>
@@ -10739,7 +10758,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>70. <a href="https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Grand+Teton+National+Park+WY">Hidden Falls</a></b> — Grand Teton National Park, Jenny Lake
+<li><b>71. <a href="https://www.google.com/maps/search/?api=1&query=Hidden+Falls+Grand+Teton+National+Park+WY">Hidden Falls</a></b> — Grand Teton National Park, Jenny Lake
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #4 waterfall, a powerful cascade surrounded by evergreen trees and rocky terrain.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wyoming/hidden-falls-trail--2">Trail page</a></li>
@@ -10760,7 +10779,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Wildlife</h5>
 <ul>
-<li><b>71. <a href="https://www.google.com/maps/search/?api=1&query=Grand+Teton+National+Park+Grand+Teton+National+Park+WY">Grand Teton National Park</a></b> — Grand Teton National Park, Moose
+<li><b>72. <a href="https://www.google.com/maps/search/?api=1&query=Grand+Teton+National+Park+Grand+Teton+National+Park+WY">Grand Teton National Park</a></b> — Grand Teton National Park, Moose
 <ul>
 <li><b>Best for:</b> Wildlife — His #5 in &#x27;My Top 5 National Parks For Wildlife Viewing&#x27;: a moose grazing by a roadside fence, a porcupine in brush, and a herd of bison in an open field.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point near the park&#x27;s centre.</li>
@@ -10789,7 +10808,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Yellowstone National Park</h4>
 <h5>Geyser</h5>
 <ul>
-<li><b>72. <a href="https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY">Grotto Geyser</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>73. <a href="https://www.google.com/maps/search/?api=1&query=Grotto+Geyser+Yellowstone+National+Park+WY">Grotto Geyser</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Geyser — Day 1: Grotto Geyser, on the same Upper Geyser Basin walk as Old Faithful and Morning Glory Pool.</li>
 </ul>
@@ -10799,7 +10818,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>73. <a href="https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY">Old Faithful</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>74. <a href="https://www.google.com/maps/search/?api=1&query=Old+Faithful+Yellowstone+National+Park+WY">Old Faithful</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Geyser — Day 1 of his 6-day Yellowstone recap: the south entrance, then Old Faithful erupting in the Upper Geyser Basin.</li>
 <li>Pin is the Old Faithful Inn point: Nominatim resolves &#x27;Old Faithful&#x27; to the visitor complex, ~250 m from the geyser cone.</li>
@@ -10818,7 +10837,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Geyser basin</h5>
 <ul>
-<li><b>74. <a href="https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY">Norris Geyser Basin</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>75. <a href="https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin+Yellowstone+National+Park+WY">Norris Geyser Basin</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Geyser basin — Day 3: Norris Geyser Basin, visited with Artists Paint Pots and Gibbon Falls.</li>
 <li>Pin is the basin&#x27;s attraction point by the Norris Museum area.</li>
@@ -10830,7 +10849,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>75. <a href="https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY">West Thumb Geyser Basin</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>76. <a href="https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin+Yellowstone+National+Park+WY">West Thumb Geyser Basin</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Geyser basin — Day 5: West Thumb Geyser Basin on the shore of Yellowstone Lake.</li>
 </ul>
@@ -10847,7 +10866,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>76. <a href="https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY">Bunsen Peak</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>77. <a href="https://www.google.com/maps/search/?api=1&query=Bunsen+Peak+Yellowstone+National+Park+WY">Bunsen Peak</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Hike / Summit — Day 4: a hike up Bunsen Peak for mountain views, on the Mammoth Hot Springs day.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wyoming/bunsen-peak">Trail page</a></li>
@@ -10861,7 +10880,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hiking</h5>
 <ul>
-<li><b>77. <a href="https://www.google.com/maps/search/?api=1&query=Upper+Geyser+Basin+Yellowstone+National+Park+WY">Upper Geyser Basin</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>78. <a href="https://www.google.com/maps/search/?api=1&query=Upper+Geyser+Basin+Yellowstone+National+Park+WY">Upper Geyser Basin</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Hiking / Old Faithful and the world&#x27;s densest geyser field — Kelley &amp; Carl&#x27;s favorite Yellowstone hike: the Upper Geyser Basin — a 3.2-mile, nearly flat boardwalk-and-trail loop past Old Faithful, Grand Geyser, Riverside Geyser and Morning Glory Pool through the largest concentration of geysers on Earth.</li>
 </ul>
@@ -10879,7 +10898,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hot spring</h5>
 <ul>
-<li><b>78. <a href="https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY">Artists Paint Pots</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>79. <a href="https://www.google.com/maps/search/?api=1&query=Artists+Paint+Pots+Yellowstone+National+Park+WY">Artists Paint Pots</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Hot spring — Day 3: Artists Paint Pots, on the Norris / Gibbon Falls day of the trip.</li>
 <li>Park signage and OSM spell the name &#x27;Artists Paintpots&#x27; (one word); the candidate&#x27;s spelling is kept.</li>
@@ -10890,7 +10909,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>79. <a href="https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY">Grand Prismatic Spring</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>80. <a href="https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring+Yellowstone+National+Park+WY">Grand Prismatic Spring</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Hot spring / View — Day 2: Grand Prismatic Spring seen from both ground level and the overlook.</li>
 </ul>
@@ -10909,7 +10928,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>80. <a href="https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY">Mammoth Hot Springs</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>81. <a href="https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs+Yellowstone+National+Park+WY">Mammoth Hot Springs</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Hot spring / Terraces — Day 4: the Mammoth Hot Springs terraces; the day also brought three grizzly bears grazing.</li>
 </ul>
@@ -10920,7 +10939,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>81. <a href="https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY">Morning Glory Pool</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>82. <a href="https://www.google.com/maps/search/?api=1&query=Morning+Glory+Pool+Yellowstone+National+Park+WY">Morning Glory Pool</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Hot spring — Day 1: Morning Glory Pool, visited on the Upper Geyser Basin loop with Old Faithful and Grotto Geyser.</li>
 </ul>
@@ -10938,7 +10957,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Lake</h5>
 <ul>
-<li><b>82. <a href="https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY">Trout Lake</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>83. <a href="https://www.google.com/maps/search/?api=1&query=Trout+Lake+Yellowstone+National+Park+WY">Trout Lake</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Lake / Hike — Day 6: Trout Lake, hiked on the Lamar Valley day.</li>
 <li>The Trout Lake by Pebble Creek in the park&#x27;s northeast, verified inside the park boundary — several other Wyoming Trout Lakes exist and were rejected by a park-bounded search.</li>
@@ -10949,7 +10968,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>83. <a href="https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY">Yellowstone Lake</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>84. <a href="https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake+Yellowstone+National+Park+WY">Yellowstone Lake</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Lake / View — Day 5: Yellowstone Lake, visited with West Thumb Geyser Basin and the Mud Volcano area.</li>
 </ul>
@@ -10963,7 +10982,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Thermal area</h5>
 <ul>
-<li><b>84. <a href="https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY">Mud Volcano</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>85. <a href="https://www.google.com/maps/search/?api=1&query=Mud+Volcano+Yellowstone+National+Park+WY">Mud Volcano</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Thermal area — Day 5: the steaming Mud Volcano thermal area.</li>
 </ul>
@@ -10976,7 +10995,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>View</h5>
 <ul>
-<li><b>85. <a href="https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY">Artist Point</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>86. <a href="https://www.google.com/maps/search/?api=1&query=Artist+Point+Yellowstone+National+Park+WY">Artist Point</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> View / Waterfall — His #2 viewpoint: the Lower Falls of the Yellowstone River cascading through the colorful canyon.</li>
 </ul>
@@ -10997,7 +11016,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>86. <a href="https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY">Fairy Falls</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>87. <a href="https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Yellowstone+National+Park+WY">Fairy Falls</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Waterfall — Day 2: Fairy Falls, hiked on the same outing as the Grand Prismatic Spring overlook.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wyoming/fairy-falls--4">Trail page</a></li>
@@ -11009,7 +11028,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>87. <a href="https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY">Firehole Falls</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>88. <a href="https://www.google.com/maps/search/?api=1&query=Firehole+Falls+Yellowstone+National+Park+WY">Firehole Falls</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Waterfall — Day 1: Firehole Falls, after the geyser basin, on a day that also featured bison including a calf.</li>
 </ul>
@@ -11019,7 +11038,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>88. <a href="https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY">Gibbon Falls</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>89. <a href="https://www.google.com/maps/search/?api=1&query=Gibbon+Falls+Yellowstone+National+Park+WY">Gibbon Falls</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Waterfall — Day 3: Gibbon Falls, roadside falls visited with Norris Geyser Basin and Artists Paint Pots.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wyoming/gibbon-falls">Trail page</a></li>
@@ -11030,7 +11049,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>89. <a href="https://www.google.com/maps/search/?api=1&query=Lower+Yellowstone+Falls+Yellowstone+National+Park+WY">Lower Yellowstone Falls</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>90. <a href="https://www.google.com/maps/search/?api=1&query=Lower+Yellowstone+Falls+Yellowstone+National+Park+WY">Lower Yellowstone Falls</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Waterfall — His #3 waterfall: Lower Yellowstone Falls, shown plunging into the Grand Canyon of the Yellowstone between colorful canyon walls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wyoming/brink-of-the-lower-falls">Trail page</a></li>
@@ -11046,7 +11065,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>90. <a href="https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY">Undine Falls</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>91. <a href="https://www.google.com/maps/search/?api=1&query=Undine+Falls+Yellowstone+National+Park+WY">Undine Falls</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Waterfall — Day 6: Undine Falls, on the final day that also brought a black bear near the roadside.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wyoming/upper-and-lower-undine-falls">Trail page</a></li>
@@ -11060,7 +11079,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Wildlife</h5>
 <ul>
-<li><b>91. <a href="https://www.google.com/maps/search/?api=1&query=Hayden+Valley+Yellowstone+National+Park+WY">Hayden Valley</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>92. <a href="https://www.google.com/maps/search/?api=1&query=Hayden+Valley+Yellowstone+National+Park+WY">Hayden Valley</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Wildlife / Premier Yellowstone valley for bears, bison and river wildlife — Hayden Valley is one of the must-sees in Kelley &amp; Carl&#x27;s best-water parks feature on Yellowstone — and the valley where they photographed the grizzly in their Dakotas–Wyoming–Montana wildlife post.</li>
 <li>Coordinates from the USGS GNIS record via TopoQuest.</li>
@@ -11075,7 +11094,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>92. <a href="https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY">Lamar Valley</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>93. <a href="https://www.google.com/maps/search/?api=1&query=Lamar+Valley+Yellowstone+National+Park+WY">Lamar Valley</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Wildlife — Day 6: Lamar Valley, where distant wolves were spotted — the wildlife finale of the trip.</li>
 <li>Pin is OSM&#x27;s Lamar Valley locality point in the valley&#x27;s eastern half.</li>
@@ -11089,7 +11108,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>93. <a href="https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY">LeHardy Rapids</a></b> — Yellowstone National Park, Yellowstone National Park
+<li><b>94. <a href="https://www.google.com/maps/search/?api=1&query=LeHardy+Rapids+Yellowstone+National+Park+WY">LeHardy Rapids</a></b> — Yellowstone National Park, Yellowstone National Park
 <ul>
 <li><b>Best for:</b> Wildlife / Rapids — Day 5: LeHardy Rapids, where he watched harlequin ducks in the rapids.</li>
 </ul>
@@ -11099,7 +11118,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>94. <a href="https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY">Yellowstone National Park</a></b> — Yellowstone National Park, Gardiner
+<li><b>95. <a href="https://www.google.com/maps/search/?api=1&query=Yellowstone+National+Park+Yellowstone+National+Park+WY">Yellowstone National Park</a></b> — Yellowstone National Park, Gardiner
 <ul>
 <li><b>Best for:</b> Wildlife — His #1 for wildlife, described as the most diverse: bison including a calf, an elk grazing, multiple grizzly bears foraging, distant wolves in a meadow, a pronghorn antelope, bighorn sheep by a road, a marmot on rocks, harlequin ducks in rapids, and a black bear crossing pavement.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point near the Canyon area.</li>
@@ -17636,6 +17655,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Fort Point National Historic Site in San Francisco — a hidden viewpoint inside the Civil War-era fort beneath the Golden Gate: the 3rd-floor arched window frames the bridge perfectly, and the 4th-floor rooftop gives an open view.
 - **[Weverton Cliffs — the 1-mile Harpers Ferry trail with stunning views](https://www.instagram.com/reel/DfwhtydMiHm/)** — @sunnywith_suchi · 1 places · Theme: Hiking
   - What the reel recommends: Weverton Cliffs near Harpers Ferry — a short, steep Appalachian Trail hike, about a mile each way, to a rocky overlook above the Potomac River, at its best in fall colors.
+- **[Mesa Verde National Park — 5 must-dos](https://www.instagram.com/reel/Dfv3TqaJbxQ/)** — @roamwildfamily · 5 places · Theme: Mesa Verde National Park guide
+  - What the reel recommends: Mesa Verde National Park's 5 must-dos: Cliff Palace and Balcony House (both need tour passes), the 6-mile Mesa Top Loop Road, Park Point Overlook at the park's highest point, and sunset and stargazing.
 
 ## How this page is updated {#how-this-page-is-updated}
 
