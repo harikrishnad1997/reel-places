@@ -16803,7 +16803,18 @@
    "source_creator": "@jackie.travel.photos",
    "source_rank": 1,
    "source_reel_theme": "Utah slot canyon",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "source_reel": "https://www.instagram.com/reel/DfK9sf-yoop/",
+     "source_title": "Spooky Gulch, Utah — Peekaboo + Spooky loop: heights or claustrophobia?",
+     "source_creator": "@squirrelmusttravel",
+     "source_rank": 2,
+     "source_reel_theme": "Slot canyons",
+     "best_for": "Hike / Extremely narrow slot canyon — sideways squeeze",
+     "recommendation": "The second half of the loop, and the video's star: Spooky gets extremely narrow — most adults have to turn sideways and drag their backpacks behind them. Entered by a 10-foot downclimb overhanging boulders. They explored it from the lower entrance as an out-and-back after turning back at Peekaboo."
+    }
+   ],
+   "alltrails_url": "https://www.alltrails.com/trail/us/utah/peek-a-boo-and-spooky-slot-canyons"
   },
   {
    "id": "franconia-ridge-trail-nh",
@@ -46872,6 +46883,30 @@
    "additional_sources": [],
    "alltrails_url": "https://www.alltrails.com/trail/us/north-carolina/outcroppings-trail-to-devil-s-head-and-chimney-rock",
    "note": "Coordinates: park coordinates per Wikipedia (35.43306, -82.25056) — the Chimney Rock summit; Outcroppings Trail trailhead at 35.43343, -82.24951. The park counts the Outcroppings Trail at 499 steps. Reopened June 27, 2025 after Hurricane Helene; timed entry and paid parking — check the park site before visiting. AllTrails: Outcroppings Trail to Devil's Head and Chimney Rock, 0.8 km, 0.5-1 hr."
+  },
+  {
+   "id": "peekaboo-gulch-ut",
+   "name": "Peekaboo Gulch",
+   "site": "Dry Fork Slot Canyons (Grand Staircase-Escalante)",
+   "city": "Escalante",
+   "state": "Utah",
+   "state_code": "UT",
+   "country": "USA",
+   "region": "Southwest",
+   "region_id": "southwest",
+   "lat": 37.481389,
+   "lng": -111.216667,
+   "google_maps_query": "Peekaboo Gulch, Escalante, Utah",
+   "best_for": "Hike / Slot canyon scramble — 15-ft slickrock climb",
+   "recommendation": "The first half of the Peekaboo + Spooky loop: a beautiful, playful slot canyon entered by a 15-foot scramble up slickrock with limited footholds — not beginner-friendly, and they turned back without a rope. Best done up Peekaboo first, then down Spooky. Download an offline map; never enter in rain — flash floods are a serious danger.",
+   "source_reel": "https://www.instagram.com/reel/DfK9sf-yoop/",
+   "source_title": "Spooky Gulch, Utah — Peekaboo + Spooky loop: heights or claustrophobia?",
+   "source_creator": "@squirrelmusttravel",
+   "source_rank": 1,
+   "source_reel_theme": "Slot canyons",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/utah/peek-a-boo-and-spooky-slot-canyons",
+   "note": "Coordinates: Peekaboo Canyon entrance waypoint N37 28' 53\" W111 13' 00\" (37.481389, -111.216667) from climb-utah's Dry Fork route guide. BLM says a 12-ft climb to gain entry; the reel and AllTrails say 15 ft. Loop from Lower Dry Fork Trailhead is ~6.5 mi; go up Peekaboo first, then down Spooky. No shade, no water; summer over 100 F, 4L/person. Never enter slot canyons in rain — flash flood danger."
   }
  ],
  "updated": "2026-11-15",
