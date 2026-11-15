@@ -21511,6 +21511,30 @@
    }
   },
   {
+   "id": "reel:DfwhtydMiHm",
+   "type": "Reel",
+   "properties": {
+    "name": "Weverton Cliffs — the 1-mile Harpers Ferry trail with stunning views",
+    "url": "https://www.instagram.com/reel/DfwhtydMiHm/",
+    "title": "Weverton Cliffs — the 1-mile Harpers Ferry trail with stunning views",
+    "creator": "@sunnywith_suchi",
+    "theme": "Hiking",
+    "places_count": 1,
+    "recommendation_summary": "Weverton Cliffs near Harpers Ferry — a short, steep Appalachian Trail hike, about a mile each way, to a rocky overlook above the Potomac River, at its best in fall colors.",
+    "posted": "2026-11-15",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "creator:sunnywith-suchi",
+   "type": "Creator",
+   "properties": {
+    "name": "@sunnywith_suchi",
+    "handle": "@sunnywith_suchi",
+    "display_name": "Sucharita Pillarisetty"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48341,6 +48365,41 @@
    "properties": {
     "name": "Fort Point National Historic Site"
    }
+  },
+  {
+   "id": "place:weverton-cliffs-md",
+   "type": "Place",
+   "properties": {
+    "name": "Weverton Cliffs",
+    "place_id": "weverton-cliffs-md",
+    "site": "South Mountain State Park",
+    "city": "Knoxville",
+    "state": "Maryland",
+    "state_code": "MD",
+    "region": "Southeast",
+    "country": "USA",
+    "lat": 39.332279,
+    "lng": -77.676492,
+    "google_maps_query": "Weverton Cliffs, Knoxville, Maryland",
+    "best_for": "Hike / Potomac River overlook",
+    "note": "Coordinates: Weverton Cliffs place record (39.332279, -77.676492) — the overlook; the Weverton Park & Ride trailhead is at 39.33288, -77.68351, about 0.4 mi west. AllTrails lists the hike as a 1.8-mi out-and-back, 1-1.5 hr, 564 ft gain, moderate; the reel calls it 1 mile each way, under 2 hours. The trail sign in the video says 2.5 miles — that is the Appalachian Trail distance marker, not this hike's length. Free parking at the lot, fills quickly on weekends."
+   }
+  },
+  {
+   "id": "state:usa-md",
+   "type": "State",
+   "properties": {
+    "name": "Maryland",
+    "state_code": "MD",
+    "country": "USA"
+   }
+  },
+  {
+   "id": "site:south-mountain-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "South Mountain State Park"
+   }
   }
  ],
  "edges": [
@@ -61433,6 +61492,18 @@
   {
    "from": "reel:Dfuq2OmoIdr",
    "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfwhtydMiHm",
+   "to": "creator:sunnywith-suchi",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfwhtydMiHm",
+   "to": "theme:hike",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -135957,6 +136028,49 @@
   {
    "from": "place:fort-point-ca",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:weverton-cliffs-md",
+   "to": "state:usa-md",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-md",
+   "to": "country:usa",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:usa-md",
+   "to": "region:southeast",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:weverton-cliffs-md",
+   "to": "site:south-mountain-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:weverton-cliffs-md",
+   "to": "reel:DfwhtydMiHm",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Potomac River overlook",
+    "recommendation": "A short, steep Appalachian Trail hike near Harpers Ferry: about a mile each way up stone steps and switchbacks to a rocky cliff edge with a wide view of the Potomac River and the valley below. Easy enough for her parents, done in under two hours, and at its best in fall colors.",
+    "creator": "@sunnywith_suchi",
+    "reel_title": "Weverton Cliffs — the 1-mile Harpers Ferry trail with stunning views",
+    "reel_theme": "Hiking"
+   }
+  },
+  {
+   "from": "place:weverton-cliffs-md",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
