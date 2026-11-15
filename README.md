@@ -92,7 +92,7 @@ cd graph && .venv/bin/streamlit run streamlit_app.py
 
 ## Project status
 
-- **905 places · 1075 source reels · 10 regions** and counting
+- **906 places · 1076 source reels · 10 regions** and counting
 - Built initially from national-park reels: 237 posts processed in batches (older posts aren't reachable through Instagram's profile listing — sending a specific reel always works)
 
 ## Contributing
