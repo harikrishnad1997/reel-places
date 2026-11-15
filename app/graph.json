@@ -21559,6 +21559,28 @@
    }
   },
   {
+   "id": "reel:DfurO_CqrOY",
+   "type": "Reel",
+   "properties": {
+    "name": "7 magical hikes to the tallest trees in the world",
+    "url": "https://www.instagram.com/reel/DfurO_CqrOY/",
+    "title": "7 magical hikes to the tallest trees in the world",
+    "creator": "@discover_california_",
+    "theme": "Tallest trees in the world",
+    "places_count": 7,
+    "recommendation_summary": "Seven redwood hikes to the tallest trees in the world: Henry Cowell (#1), Limekiln (#2), Reinhardt Redwood (#3), Muir Woods (#4), Karl Knapp Trail (#5), Avenue of the Giants (#6), Grove of Titans (#7).",
+    "posted": "2026-11-14",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "theme:tallest-trees-in-the-world",
+   "type": "Theme",
+   "properties": {
+    "name": "Tallest trees in the world"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48471,6 +48493,110 @@
    "properties": {
     "name": "Scenic drive / 6-mile mesa-top ruins loop"
    }
+  },
+  {
+   "id": "place:henry-cowell-redwoods-state-park-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Henry Cowell Redwoods State Park",
+    "place_id": "henry-cowell-redwoods-state-park-ca",
+    "site": "Henry Cowell Redwoods State Park",
+    "city": "Felton",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.040208,
+    "lng": -122.064617,
+    "google_maps_query": "Henry Cowell Redwoods State Park, Felton, California",
+    "best_for": "Hike / Old-growth redwood loop",
+    "note": "Coordinates: California State Parks place record (37.040208, -122.064617), 101 N Big Trees Park Rd, Felton. The Redwood Grove is a 40-acre old-growth grove; the oldest trees are 1,400-1,800 years old and up to 300 ft tall. No AllTrails link: the standalone Redwood Grove Loop Trail page never surfaced verbatim (only a combined 7.1-km highlights loop, a different route)."
+   }
+  },
+  {
+   "id": "site:henry-cowell-redwoods-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Henry Cowell Redwoods State Park"
+   }
+  },
+  {
+   "id": "place:limekiln-state-park-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Limekiln State Park",
+    "place_id": "limekiln-state-park-ca",
+    "site": "Limekiln State Park",
+    "city": "Big Sur",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 36.011244,
+    "lng": -121.516491,
+    "google_maps_query": "Limekiln State Park, Big Sur, California",
+    "best_for": "Hike / Redwoods, creek & historic lime kilns",
+    "note": "Coordinates: California State Parks place record (36.011244, -121.516491), 63025 CA-1, 2 miles south of Lucia. Four 1887-1890 lime kilns, Limekiln Falls (100 ft), beach; $10 day-use. Hwy 1 slides north of the park can mean south-only access. No AllTrails page for the park's Limekiln Trail surfaced verbatim."
+   }
+  },
+  {
+   "id": "site:limekiln-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Limekiln State Park"
+   }
+  },
+  {
+   "id": "place:reinhardt-redwood-regional-park-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Reinhardt Redwood Regional Park",
+    "place_id": "reinhardt-redwood-regional-park-ca",
+    "site": "Reinhardt Redwood Regional Park",
+    "city": "Oakland",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.80155,
+    "lng": -122.144586,
+    "google_maps_query": "Reinhardt Redwood Regional Park, Oakland, California",
+    "best_for": "Hike / French–Tres Sendas–Stream Loop",
+    "note": "Coordinates: Redwood Gate main entrance (37.80155, -122.144586), 7867 Redwood Rd. Park renamed from Redwood Regional Park in 2019. EBRPD: sections of the Stream Trail closed for repairs Aug-Oct 2026 — check current access. AllTrails lists the French, Tres Sendas, and Stream Loop at 2.5 mi, moderate, 4.8 stars, but its verbatim /trail/ URL never surfaced, so no link."
+   }
+  },
+  {
+   "id": "site:reinhardt-redwood-regional-park",
+   "type": "Site",
+   "properties": {
+    "name": "Reinhardt Redwood Regional Park"
+   }
+  },
+  {
+   "id": "place:muir-woods-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Muir Woods National Monument",
+    "place_id": "muir-woods-ca",
+    "site": "Muir Woods National Monument",
+    "city": "Mill Valley",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "USA",
+    "lat": 37.897026,
+    "lng": -122.581117,
+    "google_maps_query": "Muir Woods National Monument, Mill Valley, California",
+    "best_for": "Hike / Old-growth redwood grove",
+    "note": "Coordinates: NPS place record (37.897026, -122.581117) — the entrance at 1 Muir Woods Rd. Parking/shuttle reservations required since 2018; $15 entrance; open 8 AM to sunset. AllTrails Muir Main Trail: 1.5 mi, easy, 4.8 stars."
+   }
+  },
+  {
+   "id": "site:muir-woods-national-monument",
+   "type": "Site",
+   "properties": {
+    "name": "Muir Woods National Monument"
+   }
   }
  ],
  "edges": [
@@ -61587,6 +61713,18 @@
   {
    "from": "reel:Dfv3TqaJbxQ",
    "to": "theme:mesa-verde-national-park-guide",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfurO_CqrOY",
+   "to": "creator:discover-california",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfurO_CqrOY",
+   "to": "theme:tallest-trees-in-the-world",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -92745,6 +92883,19 @@
    "properties": {}
   },
   {
+   "from": "place:karl-knapp-trail-ca",
+   "to": "reel:DfurO_CqrOY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Hike / Stunning redwood loop",
+    "recommendation": "#5: Karl Knapp Trail — his favorite redwood hike in California, a stunning loop through ancient redwoods that seem to stretch endlessly into the sky.",
+    "creator": "@discover_california_",
+    "reel_title": "7 magical hikes to the tallest trees in the world",
+    "reel_theme": "Tallest trees in the world"
+   }
+  },
+  {
    "from": "place:black-sands-beach-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -107733,6 +107884,19 @@
    "properties": {}
   },
   {
+   "from": "place:grove-of-titans-ca",
+   "to": "reel:DfurO_CqrOY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 7,
+    "best_for": "Hike / Massive ancient redwoods — boardwalk grove",
+    "recommendation": "#7: Grove of Titans — some of the most massive redwoods you'll ever see, on an elevated boardwalk through an ancient grove deep in Northern California.",
+    "creator": "@discover_california_",
+    "reel_title": "7 magical hikes to the tallest trees in the world",
+    "reel_theme": "Tallest trees in the world"
+   }
+  },
+  {
    "from": "place:taft-point-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -118054,6 +118218,31 @@
   {
    "from": "place:avenue-of-giants-ca",
    "to": "theme:scenic-drive-31-miles-among-old-growth-redwoods",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:avenue-of-giants-ca",
+   "to": "reel:DfurO_CqrOY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Scenic drive / Towering groves & short hikes",
+    "recommendation": "#6: Avenue of the Giants — a scenic drive packed with beautiful groves and short hikes among towering trees; don't skip the Mattole Road detour to Rockefeller Forest or the Big Trees Day Use Area.",
+    "creator": "@discover_california_",
+    "reel_title": "7 magical hikes to the tallest trees in the world",
+    "reel_theme": "Tallest trees in the world"
+   }
+  },
+  {
+   "from": "place:avenue-of-giants-ca",
+   "to": "theme:short-hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:avenue-of-giants-ca",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -136261,6 +136450,130 @@
   {
    "from": "place:mesa-top-loop-road-co",
    "to": "theme:scenic-drive-6-mile-mesa-top-ruins-loop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:henry-cowell-redwoods-state-park-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:henry-cowell-redwoods-state-park-ca",
+   "to": "site:henry-cowell-redwoods-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:henry-cowell-redwoods-state-park-ca",
+   "to": "reel:DfurO_CqrOY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Old-growth redwood loop",
+    "recommendation": "His #1: an easy loop through an incredible forest of old-growth giants near Santa Cruz — some of these trees are over 1,000 years old.",
+    "creator": "@discover_california_",
+    "reel_title": "7 magical hikes to the tallest trees in the world",
+    "reel_theme": "Tallest trees in the world"
+   }
+  },
+  {
+   "from": "place:henry-cowell-redwoods-state-park-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:limekiln-state-park-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:limekiln-state-park-ca",
+   "to": "site:limekiln-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:limekiln-state-park-ca",
+   "to": "reel:DfurO_CqrOY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike / Redwoods, creek & historic lime kilns",
+    "recommendation": "Redwoods, a beautiful creek, and historic lime kilns tucked away along the Big Sur coast — a unique little adventure with a 100-foot waterfall and a small beach. Check current trail access before visiting.",
+    "creator": "@discover_california_",
+    "reel_title": "7 magical hikes to the tallest trees in the world",
+    "reel_theme": "Tallest trees in the world"
+   }
+  },
+  {
+   "from": "place:limekiln-state-park-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:reinhardt-redwood-regional-park-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:reinhardt-redwood-regional-park-ca",
+   "to": "site:reinhardt-redwood-regional-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:reinhardt-redwood-regional-park-ca",
+   "to": "reel:DfurO_CqrOY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Hike / French–Tres Sendas–Stream Loop",
+    "recommendation": "An East Bay gem — miles of peaceful trails surrounded by towering redwoods, just a few miles from downtown Oakland. His personal favorite is the French, Tres Sendas, and Stream Loop.",
+    "creator": "@discover_california_",
+    "reel_title": "7 magical hikes to the tallest trees in the world",
+    "reel_theme": "Tallest trees in the world"
+   }
+  },
+  {
+   "from": "place:reinhardt-redwood-regional-park-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:muir-woods-ca",
+   "to": "state:usa-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:muir-woods-ca",
+   "to": "site:muir-woods-national-monument",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:muir-woods-ca",
+   "to": "reel:DfurO_CqrOY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Hike / Old-growth redwood grove",
+    "recommendation": "Just outside San Francisco, this iconic forest has beautiful trails winding beneath towering redwoods — it feels straight out of a fairy tale. Reserve parking or a shuttle seat in advance; the main trail is a flat, paved boardwalk loop along Redwood Creek.",
+    "creator": "@discover_california_",
+    "reel_title": "7 magical hikes to the tallest trees in the world",
+    "reel_theme": "Tallest trees in the world"
+   }
+  },
+  {
+   "from": "place:muir-woods-ca",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
