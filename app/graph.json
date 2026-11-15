@@ -21605,6 +21605,37 @@
    }
   },
   {
+   "id": "reel:DfK9sf-yoop",
+   "type": "Reel",
+   "properties": {
+    "name": "Spooky Gulch, Utah — Peekaboo + Spooky loop: heights or claustrophobia?",
+    "url": "https://www.instagram.com/reel/DfK9sf-yoop/",
+    "title": "Spooky Gulch, Utah — Peekaboo + Spooky loop: heights or claustrophobia?",
+    "creator": "@squirrelmusttravel",
+    "theme": "Slot canyons",
+    "places_count": 2,
+    "recommendation_summary": "Spooky Gulch and Peekaboo Gulch in Grand Staircase-Escalante — the ~6.5-mile Peekaboo + Spooky loop from Lower Dry Fork Trailhead: a 15-ft slickrock climb into Peekaboo, then Spooky's extremely narrow sideways squeeze.",
+    "posted": "2026-10-31",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "creator:squirrelmusttravel",
+   "type": "Creator",
+   "properties": {
+    "name": "@squirrelmusttravel",
+    "handle": "@squirrelmusttravel",
+    "display_name": "Evan & Angela / Adventure Travel"
+   }
+  },
+  {
+   "id": "theme:slot-canyons",
+   "type": "Theme",
+   "properties": {
+    "name": "Slot canyons"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48647,6 +48678,25 @@
    "properties": {
     "name": "Chimney Rock State Park"
    }
+  },
+  {
+   "id": "place:peekaboo-gulch-ut",
+   "type": "Place",
+   "properties": {
+    "name": "Peekaboo Gulch",
+    "place_id": "peekaboo-gulch-ut",
+    "site": "Dry Fork Slot Canyons (Grand Staircase-Escalante)",
+    "city": "Escalante",
+    "state": "Utah",
+    "state_code": "UT",
+    "region": "Southwest",
+    "country": "USA",
+    "lat": 37.481389,
+    "lng": -111.216667,
+    "google_maps_query": "Peekaboo Gulch, Escalante, Utah",
+    "best_for": "Hike / Slot canyon scramble — 15-ft slickrock climb",
+    "note": "Coordinates: Peekaboo Canyon entrance waypoint N37 28' 53\" W111 13' 00\" (37.481389, -111.216667) from climb-utah's Dry Fork route guide. BLM says a 12-ft climb to gain entry; the reel and AllTrails say 15 ft. Loop from Lower Dry Fork Trailhead is ~6.5 mi; go up Peekaboo first, then down Spooky. No shade, no water; summer over 100 F, 4L/person. Never enter slot canyons in rain — flash flood danger."
+   }
   }
  ],
  "edges": [
@@ -61787,6 +61837,18 @@
   {
    "from": "reel:Dd5E82mBlL1",
    "to": "theme:view",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfK9sf-yoop",
+   "to": "creator:squirrelmusttravel",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfK9sf-yoop",
+   "to": "theme:slot-canyons",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -90278,6 +90340,25 @@
   {
    "from": "place:spooky-gulch-ut",
    "to": "theme:slot-canyon",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:spooky-gulch-ut",
+   "to": "reel:DfK9sf-yoop",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike / Extremely narrow slot canyon — sideways squeeze",
+    "recommendation": "The second half of the loop, and the video's star: Spooky gets extremely narrow — most adults have to turn sideways and drag their backpacks behind them. Entered by a 10-foot downclimb overhanging boulders. They explored it from the lower entrance as an out-and-back after turning back at Peekaboo.",
+    "creator": "@squirrelmusttravel",
+    "reel_title": "Spooky Gulch, Utah — Peekaboo + Spooky loop: heights or claustrophobia?",
+    "reel_theme": "Slot canyons"
+   }
+  },
+  {
+   "from": "place:spooky-gulch-ut",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -136673,6 +136754,37 @@
   {
    "from": "place:chimney-rock-state-park-nc",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:peekaboo-gulch-ut",
+   "to": "state:usa-ut",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:peekaboo-gulch-ut",
+   "to": "site:dry-fork-slot-canyons-grand-staircase-escalante",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:peekaboo-gulch-ut",
+   "to": "reel:DfK9sf-yoop",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Slot canyon scramble — 15-ft slickrock climb",
+    "recommendation": "The first half of the Peekaboo + Spooky loop: a beautiful, playful slot canyon entered by a 15-foot scramble up slickrock with limited footholds — not beginner-friendly, and they turned back without a rope. Best done up Peekaboo first, then down Spooky. Download an offline map; never enter in rain — flash floods are a serious danger.",
+    "creator": "@squirrelmusttravel",
+    "reel_title": "Spooky Gulch, Utah — Peekaboo + Spooky loop: heights or claustrophobia?",
+    "reel_theme": "Slot canyons"
+   }
+  },
+  {
+   "from": "place:peekaboo-gulch-ut",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
