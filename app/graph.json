@@ -21581,6 +21581,30 @@
    }
   },
   {
+   "id": "reel:Dd5E82mBlL1",
+   "type": "Reel",
+   "properties": {
+    "name": "Stairs or elevator? Chimney Rock State Park",
+    "url": "https://www.instagram.com/reel/Dd5E82mBlL1/",
+    "title": "Stairs or elevator? Chimney Rock State Park",
+    "creator": "@followourcompass",
+    "theme": "Best views in North Carolina",
+    "places_count": 1,
+    "recommendation_summary": "Chimney Rock State Park — climb nearly 500 stairs on the Outcroppings Trail or ride the 26-story elevator built into the mountain to the 315-foot Chimney Rock summit and its 75-mile views.",
+    "posted": "2026-09-29",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "creator:followourcompass",
+   "type": "Creator",
+   "properties": {
+    "name": "@followourcompass",
+    "handle": "@followourcompass",
+    "display_name": "Travel Content Creators | Guides & Stays"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48597,6 +48621,32 @@
    "properties": {
     "name": "Muir Woods National Monument"
    }
+  },
+  {
+   "id": "place:chimney-rock-state-park-nc",
+   "type": "Place",
+   "properties": {
+    "name": "Chimney Rock State Park",
+    "place_id": "chimney-rock-state-park-nc",
+    "site": "Chimney Rock State Park",
+    "city": "Chimney Rock",
+    "state": "North Carolina",
+    "state_code": "NC",
+    "region": "Southeast",
+    "country": "USA",
+    "lat": 35.43306,
+    "lng": -82.25056,
+    "google_maps_query": "Chimney Rock State Park, Chimney Rock, North Carolina",
+    "best_for": "Hike / Stairs or elevator to the summit view",
+    "note": "Coordinates: park coordinates per Wikipedia (35.43306, -82.25056) — the Chimney Rock summit; Outcroppings Trail trailhead at 35.43343, -82.24951. The park counts the Outcroppings Trail at 499 steps. Reopened June 27, 2025 after Hurricane Helene; timed entry and paid parking — check the park site before visiting. AllTrails: Outcroppings Trail to Devil's Head and Chimney Rock, 0.8 km, 0.5-1 hr."
+   }
+  },
+  {
+   "id": "site:chimney-rock-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Chimney Rock State Park"
+   }
   }
  ],
  "edges": [
@@ -61725,6 +61775,18 @@
   {
    "from": "reel:DfurO_CqrOY",
    "to": "theme:tallest-trees-in-the-world",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd5E82mBlL1",
+   "to": "creator:followourcompass",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dd5E82mBlL1",
+   "to": "theme:view",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -136574,6 +136636,43 @@
   {
    "from": "place:muir-woods-ca",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chimney-rock-state-park-nc",
+   "to": "state:usa-nc",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:chimney-rock-state-park-nc",
+   "to": "site:chimney-rock-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:chimney-rock-state-park-nc",
+   "to": "reel:Dd5E82mBlL1",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Stairs or elevator to the summit view",
+    "recommendation": "Stairs or elevator — how would you get to the top? The Outcroppings Trail climbs nearly 500 steps past the Subway passage, Devil's Head and the Opera Box to the 315-foot Chimney Rock, with 75-mile views over Hickory Nut Gorge, Lake Lure and the Carolina Piedmont. Or ride the 26-story elevator built into the mountain to the Sky Lounge.",
+    "creator": "@followourcompass",
+    "reel_title": "Stairs or elevator? Chimney Rock State Park",
+    "reel_theme": "Best views in North Carolina"
+   }
+  },
+  {
+   "from": "place:chimney-rock-state-park-nc",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:chimney-rock-state-park-nc",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
