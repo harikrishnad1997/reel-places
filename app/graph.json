@@ -21535,6 +21535,30 @@
    }
   },
   {
+   "id": "reel:Dfv3TqaJbxQ",
+   "type": "Reel",
+   "properties": {
+    "name": "Mesa Verde National Park — 5 must-dos",
+    "url": "https://www.instagram.com/reel/Dfv3TqaJbxQ/",
+    "title": "Mesa Verde National Park — 5 must-dos",
+    "creator": "@roamwildfamily",
+    "theme": "Mesa Verde National Park guide",
+    "places_count": 5,
+    "recommendation_summary": "Mesa Verde National Park's 5 must-dos: Cliff Palace and Balcony House (both need tour passes), the 6-mile Mesa Top Loop Road, Park Point Overlook at the park's highest point, and sunset and stargazing.",
+    "posted": "2026-11-14",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "creator:roamwildfamily",
+   "type": "Creator",
+   "properties": {
+    "name": "@roamwildfamily",
+    "handle": "@roamwildfamily",
+    "display_name": "Heidi Lagares-Greenblatt | Family Adventures Travel + UGC"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -30620,6 +30644,13 @@
    }
   },
   {
+   "id": "theme:cliff-dwellings-park-s-most-famous-attraction-tour-pass-required",
+   "type": "Theme",
+   "properties": {
+    "name": "Cliff dwellings / Park's most famous attraction — tour pass required"
+   }
+  },
+  {
    "id": "place:balcony-house-co",
    "type": "Place",
    "properties": {
@@ -30664,6 +30695,13 @@
    "type": "Theme",
    "properties": {
     "name": "Tour / Loved tour (ladders and tight spaces)"
+   }
+  },
+  {
+   "id": "theme:cliff-dwellings-adventurous-ladder-climb-tour-pass-required",
+   "type": "Theme",
+   "properties": {
+    "name": "Cliff dwellings / Adventurous ladder climb — tour pass required"
    }
   },
   {
@@ -38689,6 +38727,13 @@
    "type": "Theme",
    "properties": {
     "name": "Overlook / Highest point in Mesa Verde"
+   }
+  },
+  {
+   "id": "theme:overlook-highest-point-of-the-park",
+   "type": "Theme",
+   "properties": {
+    "name": "Overlook / Highest point of the park"
    }
   },
   {
@@ -48399,6 +48444,32 @@
    "type": "Site",
    "properties": {
     "name": "South Mountain State Park"
+   }
+  },
+  {
+   "id": "place:mesa-top-loop-road-co",
+   "type": "Place",
+   "properties": {
+    "name": "Mesa Top Loop Road",
+    "place_id": "mesa-top-loop-road-co",
+    "site": "Mesa Verde National Park",
+    "city": "Mesa Verde",
+    "state": "Colorado",
+    "state_code": "CO",
+    "region": "Mountain West",
+    "country": "USA",
+    "lat": 37.18555,
+    "lng": -108.48787,
+    "google_maps_query": "Mesa Top Loop Road, Mesa Verde National Park, Colorado",
+    "best_for": "Scenic drive / 6-mile mesa-top ruins loop",
+    "note": "Coordinates: Chapin Mesa Archeological Museum (37.18555, -108.48787, USGS GNIS via TopoQuest) — the loop starts at the museum. NPS: 6-mile drive, twelve ancestral sites, open 8 AM to sunset; AllTrails lists the loop as 4.7 mi, easy."
+   }
+  },
+  {
+   "id": "theme:scenic-drive-6-mile-mesa-top-ruins-loop",
+   "type": "Theme",
+   "properties": {
+    "name": "Scenic drive / 6-mile mesa-top ruins loop"
    }
   }
  ],
@@ -61504,6 +61575,18 @@
   {
    "from": "reel:DfwhtydMiHm",
    "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfv3TqaJbxQ",
+   "to": "creator:roamwildfamily",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:Dfv3TqaJbxQ",
+   "to": "theme:mesa-verde-national-park-guide",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -90485,6 +90568,25 @@
    "properties": {}
   },
   {
+   "from": "place:mesa-verde-national-park-co",
+   "to": "reel:Dfv3TqaJbxQ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "Sunset / Stargazing",
+    "recommendation": "#5: stay for sunset and stargazing — and sunrise if you can.",
+    "creator": "@roamwildfamily",
+    "reel_title": "Mesa Verde National Park — 5 must-dos",
+    "reel_theme": "Mesa Verde National Park guide"
+   }
+  },
+  {
+   "from": "place:mesa-verde-national-park-co",
+   "to": "theme:sunset",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:cliff-palace-co",
    "to": "state:united-states-colorado",
    "type": "LOCATED_IN",
@@ -90706,6 +90808,25 @@
    "properties": {}
   },
   {
+   "from": "place:cliff-palace-co",
+   "to": "reel:Dfv3TqaJbxQ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Cliff dwellings / Park's most famous attraction — tour pass required",
+    "recommendation": "#1 on her Mesa Verde must-do list: Cliff Palace, the park's most famous attraction and the largest cliff dwelling in North America — a ranger-guided tour pass is required to get close.",
+    "creator": "@roamwildfamily",
+    "reel_title": "Mesa Verde National Park — 5 must-dos",
+    "reel_theme": "Mesa Verde National Park guide"
+   }
+  },
+  {
+   "from": "place:cliff-palace-co",
+   "to": "theme:cliff-dwellings-park-s-most-famous-attraction-tour-pass-required",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:balcony-house-co",
    "to": "state:united-states-colorado",
    "type": "LOCATED_IN",
@@ -90885,6 +91006,25 @@
   {
    "from": "place:balcony-house-co",
    "to": "theme:tour-loved-tour-ladders-and-tight-spaces",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:balcony-house-co",
+   "to": "reel:Dfv3TqaJbxQ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Cliff dwellings / Adventurous ladder climb — tour pass required",
+    "recommendation": "#2: Balcony House, the more adventurous cliff dwelling — you climb ladders to get in, and it also needs a tour pass.",
+    "creator": "@roamwildfamily",
+    "reel_title": "Mesa Verde National Park — 5 must-dos",
+    "reel_theme": "Mesa Verde National Park guide"
+   }
+  },
+  {
+   "from": "place:balcony-house-co",
+   "to": "theme:cliff-dwellings-adventurous-ladder-climb-tour-pass-required",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -116319,6 +116459,25 @@
    "properties": {}
   },
   {
+   "from": "place:park-point-overlook-co",
+   "to": "reel:Dfv3TqaJbxQ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Overlook / Highest point of the park",
+    "recommendation": "#4: Park Point Overlook, the highest point in the park.",
+    "creator": "@roamwildfamily",
+    "reel_title": "Mesa Verde National Park — 5 must-dos",
+    "reel_theme": "Mesa Verde National Park guide"
+   }
+  },
+  {
+   "from": "place:park-point-overlook-co",
+   "to": "theme:overlook-highest-point-of-the-park",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:painted-wall-overlook-co",
    "to": "state:united-states-co",
    "type": "LOCATED_IN",
@@ -136071,6 +136230,37 @@
   {
    "from": "place:weverton-cliffs-md",
    "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:mesa-top-loop-road-co",
+   "to": "state:usa-co",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:mesa-top-loop-road-co",
+   "to": "site:mesa-verde-national-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:mesa-top-loop-road-co",
+   "to": "reel:Dfv3TqaJbxQ",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Scenic drive / 6-mile mesa-top ruins loop",
+    "recommendation": "The 6-mile self-guided driving loop on Chapin Mesa — a tour through 700 years of Mesa Verde history, with short paved walks to twelve mesa-top sites and overlooks of the cliff dwellings, including Square Tower House Overlook and Sun Temple. Open 8 AM to sunset.",
+    "creator": "@roamwildfamily",
+    "reel_title": "Mesa Verde National Park — 5 must-dos",
+    "reel_theme": "Mesa Verde National Park guide"
+   }
+  },
+  {
+   "from": "place:mesa-top-loop-road-co",
+   "to": "theme:scenic-drive-6-mile-mesa-top-ruins-loop",
    "type": "BEST_FOR",
    "properties": {}
   }
