@@ -17626,3 +17626,12 @@ Send Muse an Instagram reel link in chat. Muse reads the caption and the video i
 
 <button id="askBotBtn" title="Ask the Reel Places chatbot" onclick="var p=document.getElementById('askBotPanel');var f=document.getElementById('askBotFrame');if(p.style.display==='block'){p.style.display='none';}else{p.style.display='block';if(!f.getAttribute('src')){f.setAttribute('src',f.getAttribute('data-src'));}}" style="position:fixed; left:16px; bottom:16px; z-index:2000; background:#1d6fb8; color:#fff; padding:10px 16px; border:none; border-radius:24px; font-size:14px; font-weight:600; cursor:pointer; box-shadow:0 2px 6px rgba(0,0,0,.3);">&#128172; Ask Bot</button>
 <div id="askBotPanel" style="display:none; position:fixed; left:16px; bottom:64px; z-index:2000; width:min(390px,92vw); height:min(580px,78vh); background:#fff; border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,.35); overflow:hidden;"><iframe id="askBotFrame" data-src="https://reel-places-5qsqnj7f8465py9mdhpttg.streamlit.app/?embed=true" title="Reel Chat - Ask Bot" style="width:100%; height:100%; border:0;"></iframe></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var h = a.getAttribute('href');
+    if (h && h.charAt(0) !== '#') { a.setAttribute('target', '_blank'); a.setAttribute('rel', 'noopener'); }
+  });
+});
+</script>
