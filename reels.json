@@ -18693,6 +18693,22 @@
    "places_count": 6,
    "duplicate_place": true,
    "recommendation_summary": "Hanksville, Utah — the most epic town you've never heard of, gateway to five desert landscapes: Moonscape Overlook, Bentonite Hills, Factory Butte, Long Dong Silver Spire and Goblin Valley State Park, all visitable in a few days."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DezTgKJqVw4/",
+   "title": "Point Lobos State Preserve — the most magical hike in California",
+   "creator": "@discover_california_",
+   "creator_name": "Discover California | Nature & Travel",
+   "theme": "Most magical hike in California",
+   "posted": "2026-10-22",
+   "added": "2026-11-15",
+   "place_ids": [
+    "cypress-grove-trail-ca",
+    "point-lobos-ca"
+   ],
+   "places_count": 2,
+   "duplicate_place": false,
+   "recommendation_summary": "Point Lobos State Natural Reserve in Carmel — the Cypress Grove Trail, a 1-mile easy loop through Monterey cypress forest to turquoise coves, with otters possible and fog making it moodier."
   }
  ]
 }
