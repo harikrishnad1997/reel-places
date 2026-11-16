@@ -21735,6 +21735,28 @@
    }
   },
   {
+   "id": "reel:DfxvgLiPRe7",
+   "type": "Reel",
+   "properties": {
+    "name": "Did you know about this cave?! Robber's Cave, Lincoln",
+    "url": "https://www.instagram.com/reel/DfxvgLiPRe7/",
+    "title": "Did you know about this cave?! Robber's Cave, Lincoln",
+    "creator": "@thekateandcody",
+    "theme": "Nebraska hidden gems",
+    "places_count": 1,
+    "recommendation_summary": "Robber's Cave in Lincoln — a historic sandstone cave with 5,600 sq ft of hand-carved tunnels, walls covered in carvings dating to the 1860s, past lives as brewery storage, a Prohibition speakeasy and a daycare; guided tours daily, ~60 min, $23 adults.",
+    "posted": "2026-11-15",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "theme:nebraska-hidden-gems",
+   "type": "Theme",
+   "properties": {
+    "name": "Nebraska hidden gems"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -49006,6 +49028,48 @@
     "best_for": "Hike / Easy cypress-forest loop with cove views",
     "note": "Coordinates: trailhead per Trailforks (36.51904, -121.94962), Sea Lion Point parking area; USGS GNIS trail point 36.52218, -121.95273. Reel says 1 mi / 65 ft gain; AllTrails says 0.8 mi / 26 ft. Parking $10/vehicle, fills fast; free street parking outside the reserve. No dogs allowed."
    }
+  },
+  {
+   "id": "place:robbers-cave-lincoln-ne",
+   "type": "Place",
+   "properties": {
+    "name": "Robber's Cave",
+    "place_id": "robbers-cave-lincoln-ne",
+    "site": "Robber's Cave",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "state_code": "NE",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 40.780059,
+    "lng": -96.707745,
+    "google_maps_query": "Robber's Cave, Lincoln, Nebraska",
+    "best_for": "Guided tour / Historic sandstone cave",
+    "note": "Coordinates: Robber's Cave Tours place record (925 Robbers Cave Rd, Lincoln, NE 68502). 5,600 sq ft of passages hand-carved in Dakota Sandstone, ~55°F year-round. Tours daily ~45-60 min, $23 adults; book in advance, no walk-ups. Listed on the National Register of Historic Places in 2020."
+   }
+  },
+  {
+   "id": "state:united-states-ne",
+   "type": "State",
+   "properties": {
+    "name": "Nebraska",
+    "state_code": "NE",
+    "country": "United States"
+   }
+  },
+  {
+   "id": "site:robber-s-cave",
+   "type": "Site",
+   "properties": {
+    "name": "Robber's Cave"
+   }
+  },
+  {
+   "id": "theme:guided-tour-historic-sandstone-cave",
+   "type": "Theme",
+   "properties": {
+    "name": "Guided tour / Historic sandstone cave"
+   }
   }
  ],
  "edges": [
@@ -62212,6 +62276,18 @@
   {
    "from": "reel:DezTgKJqVw4",
    "to": "theme:filmed-location",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfxvgLiPRe7",
+   "to": "creator:thekateandcody",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfxvgLiPRe7",
+   "to": "theme:nebraska-hidden-gems",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -137486,6 +137562,49 @@
   {
    "from": "place:cypress-grove-trail-ca",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:robbers-cave-lincoln-ne",
+   "to": "state:united-states-ne",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ne",
+   "to": "country:united-states",
+   "type": "IN_COUNTRY",
+   "properties": {}
+  },
+  {
+   "from": "state:united-states-ne",
+   "to": "region:midwest",
+   "type": "IN_REGION",
+   "properties": {}
+  },
+  {
+   "from": "place:robbers-cave-lincoln-ne",
+   "to": "site:robber-s-cave",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:robbers-cave-lincoln-ne",
+   "to": "reel:DfxvgLiPRe7",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Guided tour / Historic sandstone cave",
+    "recommendation": "A historic sandstone cave in Lincoln with 5,600 sq ft of hand-carved tunnels and walls covered in carvings dating to the 1860s — past lives as a concert venue, a daycare, brewery storage and a Prohibition speakeasy. Guided tours run daily, about 60 minutes, $23 for adults; tour guide Joel keeps it engaging with surprising stories.",
+    "creator": "@thekateandcody",
+    "reel_title": "Did you know about this cave?! Robber's Cave, Lincoln",
+    "reel_theme": "Nebraska hidden gems"
+   }
+  },
+  {
+   "from": "place:robbers-cave-lincoln-ne",
+   "to": "theme:guided-tour-historic-sandstone-cave",
    "type": "BEST_FOR",
    "properties": {}
   }
