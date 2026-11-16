@@ -21788,6 +21788,28 @@
    }
   },
   {
+   "id": "reel:DeZSHadtVmy",
+   "type": "Reel",
+   "properties": {
+    "name": "3 Indiana state parks just as amazing as Turkey Run",
+    "url": "https://www.instagram.com/reel/DeZSHadtVmy/",
+    "title": "3 Indiana state parks just as amazing as Turkey Run",
+    "creator": "@wanderingwithcourtney",
+    "theme": "3 Indiana state parks just as amazing as Turkey Run",
+    "places_count": 3,
+    "recommendation_summary": "Three Indiana state parks to put beside Turkey Run: Shades (rugged ravines and sandstone cliffs), Spring Mill (cave country, Pioneer Village and the gristmill) and Clifty Falls (canyons and seasonal waterfalls).",
+    "posted": "2026-10-12",
+    "added": "2026-11-16"
+   }
+  },
+  {
+   "id": "theme:3-indiana-state-parks-just-as-amazing-as-turkey-run",
+   "type": "Theme",
+   "properties": {
+    "name": "3 Indiana state parks just as amazing as Turkey Run"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -49127,6 +49149,91 @@
    "properties": {
     "name": "Bayfront Park"
    }
+  },
+  {
+   "id": "place:shades-state-park-in",
+   "type": "Place",
+   "properties": {
+    "name": "Shades State Park",
+    "place_id": "shades-state-park-in",
+    "site": "Shades State Park",
+    "city": "Waveland",
+    "state": "Indiana",
+    "state_code": "IN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 39.929559,
+    "lng": -87.072535,
+    "google_maps_query": "Shades State Park, Waveland, Indiana",
+    "best_for": "Hike / Rugged ravines, sandstone cliffs and creek beds",
+    "note": "Coordinates: Indiana DNR place record (39.929559, -87.072535), 7751 S 890 W, Waveland; Wikipedia park centroid 39.9417095, -87.0916766. Trails 1, 2, 4, 5 named in the reel. Wear shoes with good traction; check Indiana DNR for trail closures. Nearby Pine Hills Nature Preserve (470 acres inside Shades, Indiana's first dedicated nature preserve; Devil's Backbone, a 100-ft-high narrow ridge) offers even more dramatic terrain, reached via Trail 10."
+   }
+  },
+  {
+   "id": "site:shades-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Shades State Park"
+   }
+  },
+  {
+   "id": "place:spring-mill-state-park-in",
+   "type": "Place",
+   "properties": {
+    "name": "Spring Mill State Park",
+    "place_id": "spring-mill-state-park-in",
+    "site": "Spring Mill State Park",
+    "city": "Mitchell",
+    "state": "Indiana",
+    "state_code": "IN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 38.73333,
+    "lng": -86.42,
+    "google_maps_query": "Spring Mill State Park, Mitchell, Indiana",
+    "best_for": "State park / Cave country, wooded trails and historic Pioneer Village",
+    "note": "Coordinates: Wikipedia (38.73333, -86.42). 1,358 acres on the Mitchell Karst Plain; caves include Bronson, Twin, Shawnee and Hamer. Pioneer Village open mid-April to last full weekend of October; Twin Caves boat tours Memorial Day to Labor Day only."
+   }
+  },
+  {
+   "id": "site:spring-mill-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Spring Mill State Park"
+   }
+  },
+  {
+   "id": "theme:state-park-cave-country-wooded-trails-and-historic-pioneer-village",
+   "type": "Theme",
+   "properties": {
+    "name": "State park / Cave country, wooded trails and historic Pioneer Village"
+   }
+  },
+  {
+   "id": "place:clifty-falls-state-park-in",
+   "type": "Place",
+   "properties": {
+    "name": "Clifty Falls State Park",
+    "place_id": "clifty-falls-state-park-in",
+    "site": "Clifty Falls State Park",
+    "city": "Madison",
+    "state": "Indiana",
+    "state_code": "IN",
+    "region": "Midwest",
+    "country": "United States",
+    "lat": 38.74816,
+    "lng": -85.41523,
+    "google_maps_query": "Clifty Falls State Park, Madison, Indiana",
+    "best_for": "Hike / Waterfall hunting and rugged canyon trails",
+    "note": "Coordinates: Wikipedia (38.74816, -85.41523). 1,416 acres; ~15 mi of trails; four named falls. Brough's Tunnel closed indefinitely due to a spring rockslide (as of Oct 2026). Waterfall flow depends on recent rainfall and season."
+   }
+  },
+  {
+   "id": "site:clifty-falls-state-park",
+   "type": "Site",
+   "properties": {
+    "name": "Clifty Falls State Park"
+   }
   }
  ],
  "edges": [
@@ -62357,6 +62464,18 @@
   {
    "from": "reel:DfxJQyeg0bN",
    "to": "theme:hidden-plane-spotting-spot",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeZSHadtVmy",
+   "to": "creator:wanderingwithcourtney",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DeZSHadtVmy",
+   "to": "theme:3-indiana-state-parks-just-as-amazing-as-turkey-run",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -137705,6 +137824,105 @@
   {
    "from": "place:bayfront-park-millbrae-ca",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:shades-state-park-in",
+   "to": "state:united-states-in",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:shades-state-park-in",
+   "to": "site:shades-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:shades-state-park-in",
+   "to": "reel:DeZSHadtVmy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Rugged ravines, sandstone cliffs and creek beds",
+    "recommendation": "Turkey Run's quieter twin: shaded ravines, sandstone cliffs, creek beds and scenic overlooks. Trails 1, 2, 4 and 5 offer rugged hiking with stairs, streambeds and ladders in places — and nearby Pine Hills Nature Preserve has even more dramatic terrain.",
+    "creator": "@wanderingwithcourtney",
+    "reel_title": "3 Indiana state parks just as amazing as Turkey Run",
+    "reel_theme": "3 Indiana state parks just as amazing as Turkey Run"
+   }
+  },
+  {
+   "from": "place:shades-state-park-in",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:spring-mill-state-park-in",
+   "to": "state:united-states-in",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:spring-mill-state-park-in",
+   "to": "site:spring-mill-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:spring-mill-state-park-in",
+   "to": "reel:DeZSHadtVmy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "State park / Cave country, wooded trails and historic Pioneer Village",
+    "recommendation": "Outdoor adventure plus Indiana history: wooded trails through a cave-spring landscape, the restored Pioneer Village and the historic limestone gristmill — and the seasonal Twin Caves boat tour for another way into the caves.",
+    "creator": "@wanderingwithcourtney",
+    "reel_title": "3 Indiana state parks just as amazing as Turkey Run",
+    "reel_theme": "3 Indiana state parks just as amazing as Turkey Run"
+   }
+  },
+  {
+   "from": "place:spring-mill-state-park-in",
+   "to": "theme:state-park-cave-country-wooded-trails-and-historic-pioneer-village",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:clifty-falls-state-park-in",
+   "to": "state:united-states-in",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:clifty-falls-state-park-in",
+   "to": "site:clifty-falls-state-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:clifty-falls-state-park-in",
+   "to": "reel:DeZSHadtVmy",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Hike / Waterfall hunting and rugged canyon trails",
+    "recommendation": "For canyon scenery and waterfalls: rugged canyons, rocky trails and waterfalls whose flow changes with the weather and season — from short walks to challenging routes with steep grades and staircases. Four named falls, including 83-ft Tunnel Falls.",
+    "creator": "@wanderingwithcourtney",
+    "reel_title": "3 Indiana state parks just as amazing as Turkey Run",
+    "reel_theme": "3 Indiana state parks just as amazing as Turkey Run"
+   }
+  },
+  {
+   "from": "place:clifty-falls-state-park-in",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:clifty-falls-state-park-in",
+   "to": "theme:hike",
    "type": "BEST_FOR",
    "properties": {}
   }
