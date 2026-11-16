@@ -21720,6 +21720,21 @@
    }
   },
   {
+   "id": "reel:DezTgKJqVw4",
+   "type": "Reel",
+   "properties": {
+    "name": "Point Lobos State Preserve — the most magical hike in California",
+    "url": "https://www.instagram.com/reel/DezTgKJqVw4/",
+    "title": "Point Lobos State Preserve — the most magical hike in California",
+    "creator": "@discover_california_",
+    "theme": "Most magical hike in California",
+    "places_count": 2,
+    "recommendation_summary": "Point Lobos State Natural Reserve in Carmel — the Cypress Grove Trail, a 1-mile easy loop through Monterey cypress forest to turquoise coves, with otters possible and fog making it moodier.",
+    "posted": "2026-10-22",
+    "added": "2026-11-15"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48972,6 +48987,25 @@
    "properties": {
     "name": "Dogwood Canyon Nature Park"
    }
+  },
+  {
+   "id": "place:cypress-grove-trail-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Cypress Grove Trail",
+    "place_id": "cypress-grove-trail-ca",
+    "site": "Point Lobos State Natural Reserve",
+    "city": "Carmel-by-the-Sea",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 36.51904,
+    "lng": -121.94962,
+    "google_maps_query": "Cypress Grove Trail, Point Lobos State Natural Reserve, Carmel, California",
+    "best_for": "Hike / Easy cypress-forest loop with cove views",
+    "note": "Coordinates: trailhead per Trailforks (36.51904, -121.94962), Sea Lion Point parking area; USGS GNIS trail point 36.52218, -121.95273. Reel says 1 mi / 65 ft gain; AllTrails says 0.8 mi / 26 ft. Parking $10/vehicle, fills fast; free street parking outside the reserve. No dogs allowed."
+   }
   }
  ],
  "edges": [
@@ -62160,6 +62194,24 @@
   {
    "from": "reel:DfxCOxnvfPY",
    "to": "theme:the-most-epic-town-you-ve-never-heard-of",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DezTgKJqVw4",
+   "to": "creator:discover-california",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DezTgKJqVw4",
+   "to": "theme:hike",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DezTgKJqVw4",
+   "to": "theme:filmed-location",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -93087,6 +93139,19 @@
    "to": "theme:coast-big-sur-highlight",
    "type": "BEST_FOR",
    "properties": {}
+  },
+  {
+   "from": "place:point-lobos-ca",
+   "to": "reel:DezTgKJqVw4",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Hike / Easy coastal loop, forests, beaches and otters",
+    "recommendation": "The reel's park: Point Lobos State Natural Reserve in Carmel — forests, gorgeous beaches and coves, and a good chance of seeing otters, whether sunny or foggy. The full loop is about 6 miles; parking is $10 and fills fast.",
+    "creator": "@discover_california_",
+    "reel_title": "Point Lobos State Preserve — the most magical hike in California",
+    "reel_theme": "Most magical hike in California"
+   }
   },
   {
    "from": "place:armstrong-redwoods-ca",
@@ -137384,6 +137449,43 @@
   {
    "from": "place:dogwood-canyon-nature-park-mo",
    "to": "theme:wildlife",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cypress-grove-trail-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:cypress-grove-trail-ca",
+   "to": "site:point-lobos-state-natural-reserve",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:cypress-grove-trail-ca",
+   "to": "reel:DezTgKJqVw4",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Hike / Easy cypress-forest loop with cove views",
+    "recommendation": "The most magical hike in California, per the reel: a short loop through a misty forest of gnarled Monterey cypress to cliffside overlooks over turquoise coves — with a good chance of spotting otters. Foggy days make it moodier; layer up, it gets cold. The full Point Lobos loop is about 6 miles.",
+    "creator": "@discover_california_",
+    "reel_title": "Point Lobos State Preserve — the most magical hike in California",
+    "reel_theme": "Most magical hike in California"
+   }
+  },
+  {
+   "from": "place:cypress-grove-trail-ca",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:cypress-grove-trail-ca",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
