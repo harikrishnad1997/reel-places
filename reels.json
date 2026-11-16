@@ -18739,6 +18739,23 @@
    "places_count": 1,
    "duplicate_place": false,
    "recommendation_summary": "Bayfront Park in Millbrae — a hidden plane-spotting spot near SFO where you can watch airplanes take off and land surprisingly close, 40-60 planes an hour, from a scenic waterfront park on the Bay shore."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DeZSHadtVmy/",
+   "title": "3 Indiana state parks just as amazing as Turkey Run",
+   "creator": "@wanderingwithcourtney",
+   "creator_name": "Courtney Beach | Adventure Family Travel | Indiana + Beyond",
+   "theme": "3 Indiana state parks just as amazing as Turkey Run",
+   "posted": "2026-10-12",
+   "added": "2026-11-16",
+   "place_ids": [
+    "shades-state-park-in",
+    "spring-mill-state-park-in",
+    "clifty-falls-state-park-in"
+   ],
+   "places_count": 3,
+   "duplicate_place": false,
+   "recommendation_summary": "Three Indiana state parks to put beside Turkey Run: Shades (rugged ravines and sandstone cliffs), Spring Mill (cave country, Pioneer Village and the gristmill) and Clifty Falls (canyons and seasonal waterfalls)."
   }
  ]
 }
