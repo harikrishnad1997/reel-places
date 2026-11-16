@@ -18673,6 +18673,26 @@
    "places_count": 1,
    "duplicate_place": false,
    "recommendation_summary": "Dogwood Canyon Nature Park, Lampe MO — a 10,000-acre Ozark preserve: multi-tiered waterfall, historic mill over the water, trout fishing, and a wildlife tram past bison, elk and longhorns. The drive is worth every mile."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfxCOxnvfPY/",
+   "title": "The most epic town you've NEVER heard of — Hanksville, Utah",
+   "creator": "@wanderlusttravelcouple",
+   "creator_name": "Nick Kokenos & Erica Battle | Adventure Travel",
+   "theme": "The most epic town you've NEVER heard of",
+   "posted": "2026-11-15",
+   "added": "2026-11-15",
+   "place_ids": [
+    "moonscape-overlook-ut",
+    "bentonite-hills-ut",
+    "factory-butte-ut",
+    "long-dong-silver-ut",
+    "goblin-valley-state-park-ut",
+    "hanksville-ut"
+   ],
+   "places_count": 6,
+   "duplicate_place": true,
+   "recommendation_summary": "Hanksville, Utah — the most epic town you've never heard of, gateway to five desert landscapes: Moonscape Overlook, Bentonite Hills, Factory Butte, Long Dong Silver Spire and Goblin Valley State Park, all visitable in a few days."
   }
  ]
 }
