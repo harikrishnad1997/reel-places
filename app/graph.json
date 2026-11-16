@@ -21667,6 +21667,37 @@
    }
   },
   {
+   "id": "reel:DdZPVJ6FXNC",
+   "type": "Reel",
+   "properties": {
+    "name": "Ask anyone who's made the trip — the drive is worth every mile",
+    "url": "https://www.instagram.com/reel/DdZPVJ6FXNC/",
+    "title": "Ask anyone who's made the trip — the drive is worth every mile",
+    "creator": "@dogwood_canyon",
+    "theme": "Worth the drive",
+    "places_count": 1,
+    "recommendation_summary": "Dogwood Canyon Nature Park, Lampe MO — a 10,000-acre Ozark preserve: multi-tiered waterfall, historic mill over the water, trout fishing, and a wildlife tram past bison, elk and longhorns. The drive is worth every mile.",
+    "posted": "2026-09-17",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "creator:dogwood-canyon",
+   "type": "Creator",
+   "properties": {
+    "name": "@dogwood_canyon",
+    "handle": "@dogwood_canyon",
+    "display_name": "Dogwood Canyon Nature Park"
+   }
+  },
+  {
+   "id": "theme:worth-the-drive",
+   "type": "Theme",
+   "properties": {
+    "name": "Worth the drive"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -48879,6 +48910,32 @@
    "properties": {
     "name": "Ina Coolbrith Park"
    }
+  },
+  {
+   "id": "place:dogwood-canyon-nature-park-mo",
+   "type": "Place",
+   "properties": {
+    "name": "Dogwood Canyon Nature Park",
+    "place_id": "dogwood-canyon-nature-park-mo",
+    "site": "Dogwood Canyon Nature Park",
+    "city": "Lampe",
+    "state": "Missouri",
+    "state_code": "MO",
+    "region": "Midwest",
+    "country": "USA",
+    "lat": 36.529903,
+    "lng": -93.46109,
+    "google_maps_query": "Dogwood Canyon Nature Park, Lampe, Missouri",
+    "best_for": "Nature park / Waterfalls, mill and wildlife tram",
+    "note": "Coordinates: park place record (36.529903, -93.46109), 2038 W State Hwy 86, Lampe, MO. 10,000 acres across the MO-AR border, south of Branson; entrance ~16 mi west of US-65. Hours 7:30 AM-5 PM daily; the park charges an entrance fee. AllTrails: Dogwood Canyon, 6.2 mi out-and-back, easy, 4.7 stars — the park's only trail. Some of the park's waterfalls and the mill are built features; the comments debate this."
+   }
+  },
+  {
+   "id": "site:dogwood-canyon-nature-park",
+   "type": "Site",
+   "properties": {
+    "name": "Dogwood Canyon Nature Park"
+   }
   }
  ],
  "edges": [
@@ -62043,6 +62100,18 @@
   {
    "from": "reel:Dfv0fjmICn7",
    "to": "theme:hidden-san-francisco-spots",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdZPVJ6FXNC",
+   "to": "creator:dogwood-canyon",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DdZPVJ6FXNC",
+   "to": "theme:worth-the-drive",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -137134,6 +137203,43 @@
   {
    "from": "place:ina-coolbrith-park-sf-ca",
    "to": "theme:view",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:dogwood-canyon-nature-park-mo",
+   "to": "state:usa-mo",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:dogwood-canyon-nature-park-mo",
+   "to": "site:dogwood-canyon-nature-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:dogwood-canyon-nature-park-mo",
+   "to": "reel:DdZPVJ6FXNC",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Nature park / Waterfalls, mill and wildlife tram",
+    "recommendation": "Ask anyone who's made the trip — the drive is worth every mile. A 10,000-acre Ozark preserve straddling the Missouri-Arkansas border: a multi-tiered waterfall into a green pool, the historic stone-and-timber mill over the water, trout fishing, and a two-hour wildlife tram past bison, elk and longhorns.",
+    "creator": "@dogwood_canyon",
+    "reel_title": "Ask anyone who's made the trip — the drive is worth every mile",
+    "reel_theme": "Worth the drive"
+   }
+  },
+  {
+   "from": "place:dogwood-canyon-nature-park-mo",
+   "to": "theme:waterfall",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:dogwood-canyon-nature-park-mo",
+   "to": "theme:wildlife",
    "type": "BEST_FOR",
    "properties": {}
   }
