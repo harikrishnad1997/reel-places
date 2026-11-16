@@ -21757,6 +21757,37 @@
    }
   },
   {
+   "id": "reel:DfxJQyeg0bN",
+   "type": "Reel",
+   "properties": {
+    "name": "Hidden plane-spotting spot near San Francisco Airport!",
+    "url": "https://www.instagram.com/reel/DfxJQyeg0bN/",
+    "title": "Hidden plane-spotting spot near San Francisco Airport!",
+    "creator": "@kevalmorabia",
+    "theme": "Hidden plane-spotting spot",
+    "places_count": 1,
+    "recommendation_summary": "Bayfront Park in Millbrae — a hidden plane-spotting spot near SFO where you can watch airplanes take off and land surprisingly close, 40-60 planes an hour, from a scenic waterfront park on the Bay shore.",
+    "posted": "2026-11-15",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "creator:kevalmorabia",
+   "type": "Creator",
+   "properties": {
+    "name": "@kevalmorabia",
+    "handle": "@kevalmorabia",
+    "display_name": "Keval Morabia | Travel Creator"
+   }
+  },
+  {
+   "id": "theme:hidden-plane-spotting-spot",
+   "type": "Theme",
+   "properties": {
+    "name": "Hidden plane-spotting spot"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -49070,6 +49101,32 @@
    "properties": {
     "name": "Guided tour / Historic sandstone cave"
    }
+  },
+  {
+   "id": "place:bayfront-park-millbrae-ca",
+   "type": "Place",
+   "properties": {
+    "name": "Bayfront Park",
+    "place_id": "bayfront-park-millbrae-ca",
+    "site": "Bayfront Park",
+    "city": "Millbrae",
+    "state": "California",
+    "state_code": "CA",
+    "region": "West",
+    "country": "United States",
+    "lat": 37.604958,
+    "lng": -122.376525,
+    "google_maps_query": "Bayfront Park, Millbrae, California",
+    "best_for": "Plane spotting / SFO runway views from the Bay shore",
+    "note": "Coordinates: park place record (37.604958, -122.376525), 1-99 Old Bayshore Hwy, Millbrae — at the end of Millbrae Ave off US-101. SpottersWiki pin agrees (37.605265, -122.376661). Views of all four SFO runways; 10R/28L about a mile away (long lens needed), 1L/19R closer. Small free parking lot (10-20 spaces); ~1 mi walk from Millbrae BART/Caltrain."
+   }
+  },
+  {
+   "id": "site:bayfront-park",
+   "type": "Site",
+   "properties": {
+    "name": "Bayfront Park"
+   }
   }
  ],
  "edges": [
@@ -62288,6 +62345,18 @@
   {
    "from": "reel:DfxvgLiPRe7",
    "to": "theme:nebraska-hidden-gems",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfxJQyeg0bN",
+   "to": "creator:kevalmorabia",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfxJQyeg0bN",
+   "to": "theme:hidden-plane-spotting-spot",
    "type": "HAS_THEME",
    "properties": {}
   },
@@ -137605,6 +137674,37 @@
   {
    "from": "place:robbers-cave-lincoln-ne",
    "to": "theme:guided-tour-historic-sandstone-cave",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:bayfront-park-millbrae-ca",
+   "to": "state:united-states-ca",
+   "type": "LOCATED_IN",
+   "properties": {}
+  },
+  {
+   "from": "place:bayfront-park-millbrae-ca",
+   "to": "site:bayfront-park",
+   "type": "PART_OF",
+   "properties": {}
+  },
+  {
+   "from": "place:bayfront-park-millbrae-ca",
+   "to": "reel:DfxJQyeg0bN",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Plane spotting / SFO runway views from the Bay shore",
+    "recommendation": "A hidden plane-spotting spot near SFO: a scenic 2.8-acre waterfront park where you can watch airplanes take off and land surprisingly close — 40-60 planes an hour. Benches along the paved shoreline trail, views of all four runways, and the South San Francisco sign across the water. Perfect for a chill evening with friends.",
+    "creator": "@kevalmorabia",
+    "reel_title": "Hidden plane-spotting spot near San Francisco Airport!",
+    "reel_theme": "Hidden plane-spotting spot"
+   }
+  },
+  {
+   "from": "place:bayfront-park-millbrae-ca",
+   "to": "theme:view",
    "type": "BEST_FOR",
    "properties": {}
   }
