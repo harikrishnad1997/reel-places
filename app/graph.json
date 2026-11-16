@@ -21698,6 +21698,28 @@
    }
   },
   {
+   "id": "reel:DfxCOxnvfPY",
+   "type": "Reel",
+   "properties": {
+    "name": "The most epic town you've NEVER heard of — Hanksville, Utah",
+    "url": "https://www.instagram.com/reel/DfxCOxnvfPY/",
+    "title": "The most epic town you've NEVER heard of — Hanksville, Utah",
+    "creator": "@wanderlusttravelcouple",
+    "theme": "The most epic town you've NEVER heard of",
+    "places_count": 6,
+    "recommendation_summary": "Hanksville, Utah — the most epic town you've never heard of, gateway to five desert landscapes: Moonscape Overlook, Bentonite Hills, Factory Butte, Long Dong Silver Spire and Goblin Valley State Park, all visitable in a few days.",
+    "posted": "2026-11-15",
+    "added": "2026-11-15"
+   }
+  },
+  {
+   "id": "theme:the-most-epic-town-you-ve-never-heard-of",
+   "type": "Theme",
+   "properties": {
+    "name": "The most epic town you've NEVER heard of"
+   }
+  },
+  {
    "id": "place:inspiration-peak-joshua-tree-ca",
    "type": "Place",
    "properties": {
@@ -28266,6 +28288,13 @@
    }
   },
   {
+   "id": "theme:town-gateway-to-utah-s-desert-landscapes",
+   "type": "Theme",
+   "properties": {
+    "name": "Town / Gateway to Utah's desert landscapes"
+   }
+  },
+  {
    "id": "place:goblin-valley-state-park-ut",
    "type": "Place",
    "properties": {
@@ -28289,6 +28318,13 @@
    "type": "Site",
    "properties": {
     "name": "Goblin Valley State Park"
+   }
+  },
+  {
+   "id": "theme:state-park-goblin-formations",
+   "type": "Theme",
+   "properties": {
+    "name": "State park / Goblin formations"
    }
   },
   {
@@ -62116,6 +62152,18 @@
    "properties": {}
   },
   {
+   "from": "reel:DfxCOxnvfPY",
+   "to": "creator:wanderlusttravelcouple",
+   "type": "CREATED_BY",
+   "properties": {}
+  },
+  {
+   "from": "reel:DfxCOxnvfPY",
+   "to": "theme:the-most-epic-town-you-ve-never-heard-of",
+   "type": "HAS_THEME",
+   "properties": {}
+  },
+  {
    "from": "place:inspiration-peak-joshua-tree-ca",
    "to": "state:united-states-ca",
    "type": "LOCATED_IN",
@@ -85074,6 +85122,19 @@
    }
   },
   {
+   "from": "place:factory-butte-ut",
+   "to": "reel:DfxCOxnvfPY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 3,
+    "best_for": "Viewpoint / Desert butte on the Moonscape road",
+    "recommendation": "Pass it on the way to Moonscape Overlook — keep an eye out to your left on Factory Butte Road.",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "The most epic town you've NEVER heard of — Hanksville, Utah",
+    "reel_theme": "The most epic town you've NEVER heard of"
+   }
+  },
+  {
    "from": "place:kayenta-falls-ut",
    "to": "state:united-states-utah",
    "type": "LOCATED_IN",
@@ -85916,6 +85977,25 @@
    "properties": {}
   },
   {
+   "from": "place:hanksville-ut",
+   "to": "reel:DfxCOxnvfPY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 6,
+    "best_for": "Town / Gateway to Utah's desert landscapes",
+    "recommendation": "The reel's subject: a super small, remote town of about 300 people in southeastern Utah, ~1.5 hours from Moab, ~3.5 from Salt Lake City, just over 5 from Las Vegas — gateway to all five landscapes, all visitable in a few days with proper planning.",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "The most epic town you've NEVER heard of — Hanksville, Utah",
+    "reel_theme": "The most epic town you've NEVER heard of"
+   }
+  },
+  {
+   "from": "place:hanksville-ut",
+   "to": "theme:town-gateway-to-utah-s-desert-landscapes",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:goblin-valley-state-park-ut",
    "to": "state:united-states-utah",
    "type": "LOCATED_IN",
@@ -85943,6 +86023,25 @@
   {
    "from": "place:goblin-valley-state-park-ut",
    "to": "theme:road-trip-stop",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
+   "from": "place:goblin-valley-state-park-ut",
+   "to": "reel:DfxCOxnvfPY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 5,
+    "best_for": "State park / Goblin formations",
+    "recommendation": "The easiest of the five to find — a state park, and the most visited of the Hanksville landscapes.",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "The most epic town you've NEVER heard of — Hanksville, Utah",
+    "reel_theme": "The most epic town you've NEVER heard of"
+   }
+  },
+  {
+   "from": "place:goblin-valley-state-park-ut",
+   "to": "theme:state-park-goblin-formations",
    "type": "BEST_FOR",
    "properties": {}
   },
@@ -88850,6 +88949,25 @@
    "properties": {}
   },
   {
+   "from": "place:long-dong-silver-ut",
+   "to": "reel:DfxCOxnvfPY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 4,
+    "best_for": "Hike / Remote desert spire",
+    "recommendation": "The hardest of the five to find — not on any map yet, not even listed on AllTrails. The reel points to their earlier post on this exact location for directions.",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "The most epic town you've NEVER heard of — Hanksville, Utah",
+    "reel_theme": "The most epic town you've NEVER heard of"
+   }
+  },
+  {
+   "from": "place:long-dong-silver-ut",
+   "to": "theme:hike",
+   "type": "BEST_FOR",
+   "properties": {}
+  },
+  {
    "from": "place:bentonite-hills-ut",
    "to": "state:united-states-utah",
    "type": "LOCATED_IN",
@@ -88949,6 +89067,19 @@
     "creator": "@kelleyandcarlsadventures",
     "reel_title": "Is Hanksville the most otherworldly place in the US?",
     "reel_theme": "Hanksville drone spots"
+   }
+  },
+  {
+   "from": "place:bentonite-hills-ut",
+   "to": "reel:DfxCOxnvfPY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 2,
+    "best_for": "Viewpoint / Mars-like striped hills",
+    "recommendation": "A place that so closely resembles Mars that the official Mars Desert Research Station sits right next door.",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "The most epic town you've NEVER heard of — Hanksville, Utah",
+    "reel_theme": "The most epic town you've NEVER heard of"
    }
   },
   {
@@ -111264,6 +111395,19 @@
     "creator": "@kelleyandcarlsadventures",
     "reel_title": "Is Hanksville the most otherworldly place in the US?",
     "reel_theme": "Hanksville drone spots"
+   }
+  },
+  {
+   "from": "place:moonscape-overlook-ut",
+   "to": "reel:DfxCOxnvfPY",
+   "type": "RECOMMENDED_BY",
+   "properties": {
+    "rank": 1,
+    "best_for": "Viewpoint / Otherworldly Mars-like overlook",
+    "recommendation": "The out-of-this-world landscape 11 miles from town off Highway 24 — Factory Butte Road about 5 miles, then Skyline View Road about 2 miles to Moon Overlook Road. The reel's #1 Hanksville landscape.",
+    "creator": "@wanderlusttravelcouple",
+    "reel_title": "The most epic town you've NEVER heard of — Hanksville, Utah",
+    "reel_theme": "The most epic town you've NEVER heard of"
    }
   },
   {
