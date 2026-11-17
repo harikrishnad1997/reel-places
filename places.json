@@ -308,6 +308,15 @@
      "source_reel": "https://www.instagram.com/reel/DTIwECiEvlD/",
      "source_reel_theme": "Utah Mighty 5 road trip",
      "source_title": "The ultimate Utah Mighty 5 road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Zion hike: the Zion Canyon Overlook Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "best_for": "Sunrise",
@@ -424,6 +433,15 @@
      "source_reel": "https://www.instagram.com/reel/DCjmmtAROpS/",
      "source_reel_theme": "Bryce Canyon one-day guide",
      "source_title": "Your ultimate guide to Bryce Canyon — the one-day itinerary"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Bryce Canyon overlooks: Sunrise Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -548,6 +566,15 @@
      "source_reel": "https://www.instagram.com/reel/Cz4HU6UuYuu/",
      "source_reel_theme": "Smokies bucket list",
      "source_title": "Great Smoky Mountains bucket list"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "The Alum Cave Trail in Great Smoky Mountains National Park (tagged location: Alum Cave).",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfvvczpv6pV/",
+     "source_reel_theme": "Alum Cave Trail",
+     "source_title": "Alum Cave Trail, Great Smoky Mountains"
     }
    ]
   },
@@ -1011,6 +1038,15 @@
      "source_reel": "https://www.instagram.com/reel/C4tB6MbRCq6/",
      "source_reel_theme": "Guadalupe Mountains guide",
      "source_title": "Guadalupe Mountains — an underrated national park"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Guadalupe Mountains hike: Guadalupe Peak Trail (or Devils Hall Trail).",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -1196,6 +1232,15 @@
      "source_reel": "https://www.instagram.com/p/CtIBus_ub5x/",
      "source_reel_theme": "Potato Harbor Trail guide",
      "source_title": "Potato Harbor Trail — Santa Cruz Island"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Channel Islands hike: the hike to Potato Harbor on Santa Cruz Island (plus kayaking the sea caves).",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -1236,6 +1281,15 @@
      "source_reel": "https://www.instagram.com/p/C7hTipoRvqQ/",
      "source_reel_theme": "Sequoia National Park mini guide",
      "source_title": "Sequoia National Park mini guide"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their recommended Sequoia stops — the granite dome with panoramic views over the Great Western Divide.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfr1LUCvBoc/",
+     "source_reel_theme": "Sequoia National Park in the snow",
+     "source_title": "Feeling small next to the largest trees in the world"
     }
    ],
    "best_for": "View",
@@ -1259,7 +1313,26 @@
    "state_code": "CA"
   },
   {
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Lake",
+     "recommendation": "Trip #2, the Wyoming/Montana Magnificent 3: Jenny Lake in Grand Teton.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Ranked #4: Jenny Lake in Grand Teton.",
+     "source_creator": "@amorywild",
+     "source_rank": 4,
+     "source_reel": "https://www.instagram.com/reel/DfnfXAth7Oa/",
+     "source_reel_theme": "5 national park views worth turning for",
+     "source_title": "5 National Park Views Worth Turning For"
+    }
+   ],
    "best_for": "View",
    "city": "Jenny Lake",
    "country": "United States",
@@ -1465,6 +1538,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Zion hike: the Narrows.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "best_for": "Hike",
@@ -1507,6 +1589,15 @@
      "source_reel": "https://www.instagram.com/reel/Ddpitf0BMb-/",
      "source_reel_theme": "Top 5 National Park Hikes",
      "source_title": "Top 5 National Park Hikes"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #3, the Washington Throuple: Sourdough Mountain in North Cascades.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Hike",
@@ -1640,6 +1731,24 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Stop 4 of their Southwest road trip: Capitol Reef — Hickman Bridge, Grand Wash with Cassidy Arch, Panorama Point, Cathedral Valley.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #4, the Utah Mighty 5: Zion, Bryce Canyon, Capitol Reef, Arches, Canyonlands.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ]
   },
@@ -1927,6 +2036,15 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "best_for": "Solitude",
@@ -2180,6 +2298,15 @@
      "source_reel": "https://www.instagram.com/reel/C4GhUQNuT1d/",
      "source_reel_theme": "Four parks one week recap",
      "source_title": "1 week, 4 national parks — NM & TX recap"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "best_for": "Top national park",
@@ -2392,6 +2519,24 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Stop 3 of their Southwest road trip: Bryce Canyon — Navajo Loop + Queens Garden, Fairyland Loop, Mossy Cave; Inspiration, Sunset and Sunrise Points.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #4, the Utah Mighty 5: Zion, Bryce Canyon, Capitol Reef, Arches, Canyonlands.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Top national park",
@@ -2496,6 +2641,15 @@
      "source_reel": "https://www.instagram.com/reel/DfV4abJNf5o/",
      "source_reel_theme": "How to visit all 8 Alaska parks",
      "source_title": "How To Visit All 8 Alaskan National Parks"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #1, the Alaska Highway: Denali, Kenai Fjords, Wrangell-St. Elias — King's Throne hike, flight tours, fjord tours, Root Glacier. (King's Throne itself is in Kluane National Park, Yukon, Canada, so no pin for it under the USA-only rule.)",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Top national park",
@@ -2682,6 +2836,15 @@
      "source_reel": "https://www.instagram.com/reel/DfkefnBP6CD/",
      "source_reel_theme": "Parks that make you feel small",
      "source_title": "5 National Parks That Make You Feel Tiny"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "'Sequoia National Park in California' — their snowy visit to the park that protects the largest trees in the world, with General Sherman the largest tree on earth by volume. Snow chains, snowshoes or spikes may be needed in winter.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfr1LUCvBoc/",
+     "source_reel_theme": "Sequoia National Park in the snow",
+     "source_title": "Feeling small next to the largest trees in the world"
     }
    ]
   },
@@ -2758,6 +2921,24 @@
      "source_reel": "https://www.instagram.com/reel/DfV4abJNf5o/",
      "source_reel_theme": "How to visit all 8 Alaska parks",
      "source_title": "How To Visit All 8 Alaskan National Parks"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks: 'Hike Root Glacier Trail, take flightseeing tour' — their favorite activities here.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #1, the Alaska Highway: Denali, Kenai Fjords, Wrangell-St. Elias — Root Glacier and flight tours.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Top national park",
@@ -2899,6 +3080,24 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "'Dare I say this is the best National Park in the US?' — their Kenai Fjords visit near Seward: 2-3 days, best mid-June through early September, visitor center by the harbor in Seward.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfz4iJxPGPl/",
+     "source_reel_theme": "Kenai Fjords National Park",
+     "source_title": "Dare I say this is the best National Park in the US?"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #1, the Alaska Highway: Denali, Kenai Fjords, Wrangell-St. Elias — fjord tours.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Top national park",
@@ -3012,6 +3211,24 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Their Mount Rainier stop: Fremont Lookout, Burroughs Mountain Trail, Skyline Loop.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #3, the Washington Throuple: Olympic, Mount Rainier, North Cascades.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Top national park",
@@ -3281,6 +3498,15 @@
      "source_reel": "https://www.instagram.com/p/DN6g2sIkulq/",
      "source_reel_theme": "Epic national park hikes series, part 3",
      "source_title": "10 epic national park hikes — Part 3"
+    },
+    {
+     "best_for": "Waterfall",
+     "recommendation": "One of their Olympic must-sees: Sol Duc Falls.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ]
   },
@@ -3332,6 +3558,15 @@
      "source_reel": "https://www.instagram.com/p/C7hTipoRvqQ/",
      "source_reel_theme": "Sequoia National Park mini guide",
      "source_title": "Sequoia National Park mini guide"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their recommended Sequoia hikes — the trail to Tokopah Falls in the Giant Forest.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfr1LUCvBoc/",
+     "source_reel_theme": "Sequoia National Park in the snow",
+     "source_title": "Feeling small next to the largest trees in the world"
     }
    ]
   },
@@ -3523,7 +3758,18 @@
    "source_title": "5 National Park Hikes That Blew My Mind",
    "state": "Washington",
    "state_code": "WA",
-   "alltrails_url": "https://www.alltrails.com/trail/us/washington/klahhane-ridge-via-switchback-trail--2"
+   "alltrails_url": "https://www.alltrails.com/trail/us/washington/klahhane-ridge-via-switchback-trail--2",
+   "additional_sources": [
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #3, the Washington Throuple: Klahhane Ridge in Olympic.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
+    }
+   ]
   },
   {
    "best_for": "Hike",
@@ -4389,6 +4635,15 @@
      "source_reel": "https://www.instagram.com/reel/DLiEAw9MdrY/",
      "source_reel_theme": "Great Sand Dunes sandboarding",
      "source_title": "Sandboarding the tallest dunes in North America"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Ranked #2: the High Dune in Great Sand Dunes.",
+     "source_creator": "@amorywild",
+     "source_rank": 2,
+     "source_reel": "https://www.instagram.com/reel/DfnfXAth7Oa/",
+     "source_reel_theme": "5 national park views worth turning for",
+     "source_title": "5 National Park Views Worth Turning For"
     }
    ]
   },
@@ -4593,6 +4848,24 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Capitol Reef hike: the Grand Wash trail to Cassidy Arch.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #4, the Utah Mighty 5: Cassidy Arch in Capitol Reef.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ]
   },
@@ -4772,6 +5045,24 @@
      "source_reel": "https://www.instagram.com/p/DfBYAfCPH_Y/",
      "source_reel_theme": "Alaska national parks road trip",
      "source_title": "4 national parks, 1 epic Alaska trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Wrangell-St. Elias hike: the Root Glacier Trail (plus a flightseeing tour with Wrangell Mountain Air).",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #1, the Alaska Highway: the Root Glacier hike in Wrangell-St. Elias.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Hike",
@@ -5165,6 +5456,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Grand Canyon hikes: South Kaibab Trail and Bright Angel Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "best_for": "Hike",
@@ -5339,6 +5639,15 @@
      "source_reel": "https://www.instagram.com/p/De7XzkRJkcx/",
      "source_reel_theme": "Northern California & Oregon road trip",
      "source_title": "An underrated road trip — Reno, Tahoe, volcanoes and redwoods"
+    },
+    {
+     "best_for": "Sunset",
+     "recommendation": "Their favorite Lassen Volcanic sunset: walking the Manzanita Lake Loop at sunset.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "best_for": "Featured spot (guessing game)",
@@ -5872,6 +6181,15 @@
      "source_reel": "https://www.instagram.com/p/DfkjVoDiXMd/",
      "source_reel_theme": "Eastern USA national parks ratings",
      "source_title": "Rating the National Parks in the Eastern USA"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #5, the Florida Trio: Everglades, Biscayne and Dry Tortugas — Shark Valley, paddle boarding, snorkeling.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Winter visit",
@@ -5995,6 +6313,24 @@
      "source_reel": "https://www.instagram.com/reel/DfiRdTvNpTj/",
      "source_reel_theme": "Top national parks for marine life",
      "source_title": "My Top 5 National Parks For Marine Life"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #5, the Florida Trio: Everglades, Biscayne and Dry Tortugas.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ]
   },
@@ -6220,6 +6556,15 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #5, the Florida Trio: Everglades, Biscayne and Dry Tortugas.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Winter visit",
@@ -6358,6 +6703,15 @@
      "source_reel": "https://www.instagram.com/reel/DfF4nnhSMH8/",
      "source_reel_theme": "California places that will alter your brain chemistry, part 2",
      "source_title": "Places in California that will alter your brain chemistry — Part 2"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "'Welcome to Fern Canyon, one of the most unique places in California' — 50-foot fern-covered walls in Prairie Creek Redwoods State Park, an easy hike through a narrow canyon with creek crossings; a permit is required and access is via rough, narrow Davison Road.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfvSd_3v87p/",
+     "source_reel_theme": "Fern Canyon, Prairie Creek Redwoods",
+     "source_title": "Talk about an enchanted forest"
     }
    ]
   },
@@ -6400,6 +6754,24 @@
      "source_reel": "https://www.instagram.com/p/DWO7udFjvUc/",
      "source_reel_theme": "Otherworldly national parks list",
      "source_title": "6 national parks that feel like another planet"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Bryce Canyon hike: Fairyland Loop Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #4, the Utah Mighty 5: the Fairyland Loop in Bryce Canyon.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ]
   },
@@ -6435,6 +6807,15 @@
      "source_reel": "https://www.instagram.com/reel/DdGt8sqhy8-/",
      "source_reel_theme": "Hiking",
      "source_title": "Hiking — Joint Trail"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #4, the Utah Mighty 5: the Joint Trail in Canyonlands.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Hike",
@@ -6478,7 +6859,18 @@
    "source_title": "My Top 5 Unique National Park Hikes",
    "state": "Utah",
    "state_code": "UT",
-   "alltrails_url": "https://www.alltrails.com/trail/us/utah/devils-garden-loop-trail-with-7-arches"
+   "alltrails_url": "https://www.alltrails.com/trail/us/utah/devils-garden-loop-trail-with-7-arches",
+   "additional_sources": [
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #4, the Utah Mighty 5: Devil's Garden in Arches.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
+    }
+   ]
   },
   {
    "best_for": "Hike",
@@ -6546,6 +6938,15 @@
      "source_reel": "https://www.instagram.com/reel/DM8L8BlM8JT/",
      "source_reel_theme": "Going-to-the-Sun Road scenic drive",
      "source_title": "Going-to-the-Sun Road — it lives up to the hype"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Glacier hikes: Avalanche Lake.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
     }
    ]
   },
@@ -6972,6 +7373,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Zion hike: Angels Landing (permit required).",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "best_for": "Hike",
@@ -7174,6 +7584,15 @@
      "source_reel": "https://www.instagram.com/reel/DeCM6vlBwb9/",
      "source_reel_theme": "Waterfall",
      "source_title": "Waterfall — Greeter Falls"
+    },
+    {
+     "best_for": "Waterfall",
+     "recommendation": "Ranked #5 on their Nashville road trip waterfall countdown: a 1.2-mile loop in South Cumberland State Park.",
+     "source_creator": "@amorywild",
+     "source_rank": 5,
+     "source_reel": "https://www.instagram.com/reel/Dfr5CLjsXkD/",
+     "source_reel_theme": "7 epic waterfalls near Nashville",
+     "source_title": "7 Epic Waterfalls on this Nashville road trip"
     }
    ],
    "best_for": "Waterfall / Hike",
@@ -7901,6 +8320,15 @@
      "source_reel": "https://www.instagram.com/p/DeaPF1lJZ0Z/",
      "source_reel_theme": "Pinnacles High Peaks Trail guide",
      "source_title": "High Peaks Trail — a crazy bucket list hike at Pinnacles"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their Pinnacles hike: the High Peaks Trail — steep switchbacks and narrow sections carved through towering rock spires, with handrails on exposed terrain; hard on AllTrails but they didn't find it that bad. Three routes: Condor Gulch to High Peaks Loop, High Peaks & Balconies Cave Loop, Juniper Canyon to High Peaks. Watch the skies for condors.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfn4cPMv1WI/",
+     "source_reel_theme": "High Peaks Trail, Pinnacles",
+     "source_title": "Talk about a crazy bucket list national park hike"
     }
    ]
   },
@@ -8859,6 +9287,24 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
+    },
+    {
+     "best_for": "Wildlife",
+     "recommendation": "Ranked #5 of their 5 unforgettable national park moments: wild horses at sunset on the Scenic Loop Drive in the South Unit of Theodore Roosevelt National Park.",
+     "source_creator": "@amorywild",
+     "source_rank": 5,
+     "source_reel": "https://www.instagram.com/reel/Df0CEAchl4T/",
+     "source_reel_theme": "5 National Park moments I'll never forget",
+     "source_title": "5 National Park Moments I'll NEVER Forget"
     }
    ],
    "best_for": "Underrated park",
@@ -9018,6 +9464,15 @@
      "source_reel": "https://www.instagram.com/reel/DMIrdc5MoRp/",
      "source_reel_theme": "Bucket list USA roads (part 2)",
      "source_title": "Bucket list USA roads, part 2"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #2, the Wyoming/Montana Magnificent 3: Yellowstone, Grand Teton, Glacier — Jenny Lake, Lamar Valley, Grinnell Glacier.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Wildlife",
@@ -9486,6 +9941,33 @@
      "source_reel": "https://www.instagram.com/reel/DRzx2E8Dm8C/",
      "source_reel_theme": "East Coast vs West montage",
      "source_title": "It's just not the same on the East Coast"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Their North Cascades stop: Cascade Pass, Sahale Arm, Diablo Lake Vista Point, Maple Pass.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
+    },
+    {
+     "best_for": "Waterfall",
+     "recommendation": "Ranked #3: an ice waterfall along Cascade River Road in North Cascades National Park.",
+     "source_creator": "@amorywild",
+     "source_rank": 3,
+     "source_reel": "https://www.instagram.com/reel/Df0CEAchl4T/",
+     "source_reel_theme": "5 National Park moments I'll never forget",
+     "source_title": "5 National Park Moments I'll NEVER Forget"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #3, the Washington Throuple: Olympic, Mount Rainier, North Cascades.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Hike",
@@ -9636,6 +10118,24 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "'Glacier National Park in Montana is one of our all time favorite national parks' (out of 55 visited) — best July-September, when roads and trails are most likely open; parking is a nightmare, use the NPS shuttle, and carry bear spray.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #2, the Wyoming/Montana Magnificent 3: Yellowstone, Grand Teton, Glacier.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Hike",
@@ -9786,6 +10286,15 @@
      "source_reel": "https://www.instagram.com/reel/DMGGsRJsdCu/",
      "source_reel_theme": "Bucket list USA roads (part 1)",
      "source_title": "Bucket list USA roads, part 1"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #2, the Wyoming/Montana Magnificent 3: Yellowstone, Grand Teton, Glacier.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Wildlife",
@@ -9965,6 +10474,15 @@
      "source_reel": "https://www.instagram.com/p/DOMJyuGiR4J/",
      "source_reel_theme": "Epic national park hikes series, part 5",
      "source_title": "10 epic national park hikes — Part 5"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their Olympic must-sees: Mount Storm King.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ]
   },
@@ -10390,6 +10908,15 @@
      "source_reel": "https://www.instagram.com/p/DdrWpmallem/",
      "source_reel_theme": "Alaska itinerary",
      "source_title": "12-day Alaska itinerary"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Kenai Fjords hikes: the Exit Glacier View & Overlook Loop (plus a full-day glacier & wildlife boat tour — orcas, humpbacks, puffins, seals, sea lions, sea otters, bears, mountain goats).",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfz4iJxPGPl/",
+     "source_reel_theme": "Kenai Fjords National Park",
+     "source_title": "Dare I say this is the best National Park in the US?"
     }
    ]
   },
@@ -10634,6 +11161,15 @@
      "source_reel": "https://www.instagram.com/p/DOjBfb_jt-9/",
      "source_reel_theme": "Best national park overlooks list",
      "source_title": "10 of the best national park overlooks — no hiking required"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their North Cascades must-sees: Diablo Lake Vista Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ]
   },
@@ -10827,6 +11363,15 @@
      "source_reel": "https://www.instagram.com/reel/DfiRdTvNpTj/",
      "source_reel_theme": "Top national parks for marine life",
      "source_title": "My Top 5 National Parks For Marine Life"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks: 'Kayak the sea caves of Santa Cruz Island, Hike to Potato Harbor' — their favorite activities here.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "best_for": "Island park",
@@ -10988,6 +11533,15 @@
      "source_reel": "https://www.instagram.com/p/DfkjVoDiXMd/",
      "source_reel_theme": "Eastern USA national parks ratings",
      "source_title": "Rating the National Parks in the Eastern USA"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -11084,6 +11638,15 @@
      "source_reel": "https://www.instagram.com/reel/C6OZswSOdJ1/",
      "source_reel_theme": "National park rankings (14 parks)",
      "source_title": "Ranking the 14 national parks we've visited"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #4, the Utah Mighty 5: Zion, Bryce Canyon, Capitol Reef, Arches, Canyonlands.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ]
   },
@@ -11124,6 +11687,15 @@
      "source_reel": "https://www.instagram.com/reel/C8cXxCLMxYP/",
      "source_reel_theme": "Favorite destinations list",
      "source_title": "Places we have been — Iceland, Azores, Rockies, Bahamas, California"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "'Talk about a crazy bucket list national park hike' — High Peaks Trail in Pinnacles: steep switchbacks, narrow sections through towering rock spires, handrails on exposed terrain. Summer heat is intense; bring more water than you think. The High Peaks area is one of the best places in the country to spot California condors.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfn4cPMv1WI/",
+     "source_reel_theme": "High Peaks Trail, Pinnacles",
+     "source_title": "Talk about a crazy bucket list national park hike"
     }
    ],
    "best_for": "Underrated park",
@@ -11775,6 +12347,24 @@
      "source_reel": "https://www.instagram.com/reel/DMsvMB1s3c8/",
      "source_reel_theme": "Yellowstone wildlife viewing",
      "source_title": "The best areas to spot wildlife in Yellowstone"
+    },
+    {
+     "best_for": "Wildlife",
+     "recommendation": "Ranked #2: a bear and wolf face-off in Lamar Valley, Yellowstone.",
+     "source_creator": "@amorywild",
+     "source_rank": 2,
+     "source_reel": "https://www.instagram.com/reel/Df0CEAchl4T/",
+     "source_reel_theme": "5 National Park moments I'll never forget",
+     "source_title": "5 National Park Moments I'll NEVER Forget"
+    },
+    {
+     "best_for": "Wildlife",
+     "recommendation": "Trip #2, the Wyoming/Montana Magnificent 3: Lamar Valley in Yellowstone.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ]
   },
@@ -12130,6 +12720,15 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Stop 1 of their ultimate Southwest road trip (fly in/out of Las Vegas): Grand Canyon — South Kaibab and Bright Angel trails, and eight named overlooks from Hopi Point to Desert View Watchtower.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "best_for": "Sunrise / Sunset",
@@ -12174,7 +12773,18 @@
    "source_title": "Top 5 National Park Hikes",
    "state": "Utah",
    "state_code": "UT",
-   "alltrails_url": "https://www.alltrails.com/trail/us/utah/the-subway-trail"
+   "alltrails_url": "https://www.alltrails.com/trail/us/utah/the-subway-trail",
+   "additional_sources": [
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #4, the Utah Mighty 5: the Subway in Zion.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
+    }
+   ]
   },
   {
    "best_for": "Hike / View",
@@ -12314,6 +12924,24 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Their Olympic stop: Hoh Rainforest, Sol Duc Falls, Hurricane Hill, Mount Storm King, Rialto Beach, Ruby Beach.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #3, the Washington Throuple: Olympic, Mount Rainier, North Cascades — Klahhane Ridge, Skyline Trail, Sourdough Mountain.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "best_for": "Overlooked view / View",
@@ -12548,6 +13176,24 @@
      "source_reel": "https://www.instagram.com/reel/DESXoL_R-s7/",
      "source_reel_theme": "2024 national park rankings",
      "source_title": "Our 2024 park rankings — agree or disagree?"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Stop 6 of their Southwest road trip: Zion — Angels Landing, the Narrows, Zion Canyon Overlook Trail, and the Zion-Mount Carmel Highway drive.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #4, the Utah Mighty 5: Zion, Bryce Canyon, Capitol Reef, Arches, Canyonlands — the Subway, Fairyland Loop, Cassidy Arch, Devil's Garden, Joint Trail.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ]
   },
@@ -12967,6 +13613,15 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "Trip #4, the Utah Mighty 5: Zion, Bryce Canyon, Capitol Reef, Arches, Canyonlands.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ]
   },
@@ -13139,6 +13794,15 @@
      "source_reel": "https://www.instagram.com/reel/DEDoJgWRJ9-/",
      "source_reel_theme": "Under-the-radar national parks",
      "source_title": "5 national parks that probably aren't on your radar"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks: 'Hike Alpine Lakes, Bristlecone, and Glacier Loop' — their favorite Great Basin activity.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -13292,6 +13956,15 @@
      "source_reel": "https://www.instagram.com/reel/DLc0UnEsTmo/",
      "source_reel_theme": "Southern Colorado road trip",
      "source_title": "3 national parks, 1 epic Colorado road trip"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -13410,6 +14083,15 @@
      "source_reel_theme": "The most epic town you've NEVER heard of",
      "best_for": "Viewpoint / Desert butte on the Moonscape road",
      "recommendation": "Pass it on the way to Moonscape Overlook — keep an eye out to your left on Factory Butte Road."
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Stop 5, Hanksville (high clearance 4WD required): Factory Butte.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -13858,6 +14540,15 @@
      "source_reel": "https://www.instagram.com/reel/DLIO9QSsYEF/",
      "source_reel_theme": "Black Canyon of the Gunnison at sunset",
      "source_title": "You've heard of the Grand Canyon — but have you heard of the Black Canyon?"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks: 'watching sunset at Dragon Point' is their favorite activity here.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -13908,6 +14599,15 @@
      "source_reel_theme": "The most epic town you've NEVER heard of",
      "best_for": "Town / Gateway to Utah's desert landscapes",
      "recommendation": "The reel's subject: a super small, remote town of about 300 people in southeastern Utah, ~1.5 hours from Moab, ~3.5 from Salt Lake City, just over 5 from Las Vegas — gateway to all five landscapes, all visitable in a few days with proper planning."
+    },
+    {
+     "best_for": "Road trip stop",
+     "recommendation": "Stop 5 of their Southwest road trip: Hanksville, Utah (high clearance 4WD required) — Factory Butte, Moonscape Overlook, Bentonite Hills.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -14303,6 +15003,15 @@
      "source_reel": "https://www.instagram.com/reel/DS2uieEEnO2/",
      "source_reel_theme": "National park road trips by month",
      "source_title": "National park road trips for every month of the year"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -14458,6 +15167,15 @@
      "source_reel": "https://www.instagram.com/reel/DSks_TxDX3F/",
      "source_reel_theme": "Bucket list USA spots montage",
      "source_title": "Bucket list USA spots"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their Enchantments stop: the day hike to Colchuck Lake.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/washington/colchuck-lake-via-stuart-lake-trail"
@@ -14771,7 +15489,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 10,
    "source_reel_theme": "Best Eastern U.S. waterfalls",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Waterfall",
+     "recommendation": "Ranked #2: a 1.2-mile hike to Burgess Falls.",
+     "source_creator": "@amorywild",
+     "source_rank": 2,
+     "source_reel": "https://www.instagram.com/reel/Dfr5CLjsXkD/",
+     "source_reel_theme": "7 epic waterfalls near Nashville",
+     "source_title": "7 Epic Waterfalls on this Nashville road trip"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/tennessee/burgess-falls-trail"
   },
   {
@@ -15058,7 +15786,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 20,
    "source_reel_theme": "Best Eastern U.S. waterfalls",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Waterfall",
+     "recommendation": "Ranked #1: a 2.5-mile hike to Cummins Falls (permit required).",
+     "source_creator": "@amorywild",
+     "source_rank": 1,
+     "source_reel": "https://www.instagram.com/reel/Dfr5CLjsXkD/",
+     "source_reel_theme": "7 epic waterfalls near Nashville",
+     "source_title": "7 Epic Waterfalls on this Nashville road trip"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/tennessee/cummins-falls-base-route-via-falls-overlook-trail-and-blackburn-fork"
   },
   {
@@ -15911,6 +16649,15 @@
      "source_reel_theme": "The most epic town you've NEVER heard of",
      "best_for": "Viewpoint / Mars-like striped hills",
      "recommendation": "A place that so closely resembles Mars that the official Mars Desert Research Station sits right next door."
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Stop 5, Hanksville: Bentonite Hills.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -16185,6 +16932,24 @@
      "source_reel": "https://www.instagram.com/reel/DMGGsRJsdCu/",
      "source_reel_theme": "Bucket list USA roads (part 1)",
      "source_title": "Bucket list USA roads, part 1"
+    },
+    {
+     "best_for": "Scenic drive",
+     "recommendation": "The one thing you can't miss in Glacier: 'Driving Going-to-the-Sun Road!' — open late June/early July to late September/early October depending on the year.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
+    },
+    {
+     "best_for": "Wildlife",
+     "recommendation": "Ranked #1: riding a bike along Going-to-the-Sun Road in Glacier as a black bear crossed — their most unforgettable national park moment.",
+     "source_creator": "@amorywild",
+     "source_rank": 1,
+     "source_reel": "https://www.instagram.com/reel/Df0CEAchl4T/",
+     "source_reel_theme": "5 National Park moments I'll never forget",
+     "source_title": "5 National Park Moments I'll NEVER Forget"
     }
    ]
   },
@@ -16587,6 +17352,15 @@
      "source_reel": "https://www.instagram.com/reel/DCHPRS5xCLy/",
      "source_reel_theme": "Lake Powell guide, Page, Arizona",
      "source_title": "Everything you need to know about Lake Powell"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Stop 2, Page, Arizona: Wahweap Viewpoint.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -16682,6 +17456,15 @@
      "source_reel": "https://www.instagram.com/reel/DCZeRUWxQ7e/",
      "source_reel_theme": "Horseshoe Bend timing verdict",
      "source_title": "Is Horseshoe Bend worth it? — skip sunrise"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Stop 2, Page, Arizona: Horseshoe Bend.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -17171,6 +17954,15 @@
      "source_reel_theme": "Mesa Verde National Park guide",
      "best_for": "Sunset / Stargazing",
      "recommendation": "#5: stay for sunset and stargazing — and sunrise if you can."
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -17636,6 +18428,15 @@
      "source_reel": "https://www.instagram.com/reel/Dfi2QFKP_1S/",
      "source_reel_theme": "Katmai bear viewing",
      "source_title": "Katmai — the national park for bear lovers"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Ranked #5 of their 5 national park views worth turning for: Brooks Falls in Katmai.",
+     "source_creator": "@amorywild",
+     "source_rank": 5,
+     "source_reel": "https://www.instagram.com/reel/DfnfXAth7Oa/",
+     "source_reel_theme": "5 national park views worth turning for",
+     "source_title": "5 National Park Views Worth Turning For"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/alaska/brooks-lodge-brooks-river-bridge-riffles-platform-and-brooks-falls"
@@ -18851,6 +19652,24 @@
      "source_reel": "https://www.instagram.com/p/DN6g2sIkulq/",
      "source_reel_theme": "Epic national park hikes series, part 3",
      "source_title": "10 epic national park hikes — Part 3"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their Mount Rainier must-sees: the Skyline Loop.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #3, the Washington Throuple: the Skyline Trail at Mount Rainier (Paradise).",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "note": "Pin is the trailhead at Paradise, by the Jackson Visitor Center (trailhead coordinates from published trail guides).",
@@ -19056,6 +19875,15 @@
      "source_reel": "https://www.instagram.com/p/DfcbSbyGxpx/",
      "source_reel_theme": "Sahale Arm, North Cascades",
      "source_title": "Sahale Arm — worth every single step"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their North Cascades must-sees: Sahale Arm.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "note": "Pin is the Sahale Arm ridge (published place point); the trail starts at the Cascade Pass trailhead at the end of Cascade River Road.",
@@ -21234,6 +22062,15 @@
      "source_reel": "https://www.instagram.com/reel/DSVU8eVCd8A/",
      "source_reel_theme": "Glacier National Park favorites",
      "source_title": "Your sign to visit Glacier National Park in 2026"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Glacier hikes: Iceberg Lake.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/montana/iceberg-lake-trail--3"
@@ -21857,6 +22694,15 @@
      "source_reel": "https://www.instagram.com/reel/C79bnXXskvJ/",
      "source_reel_theme": "California road trip reroute itinerary",
      "source_title": "Our crazy 3-day California road trip — snowstorm reroute"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their recommended Sequoia hikes if you have time for more than Congress Trail — the easy loop through the Giant Forest sequoias.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfr1LUCvBoc/",
+     "source_reel_theme": "Sequoia National Park in the snow",
+     "source_title": "Feeling small next to the largest trees in the world"
     }
    ],
    "note": "Pin is the map's existing Sequoia National Park point in the Giant Forest / Round Meadow area — the Big Trees Trail trailhead sits at the Giant Forest Museum there."
@@ -22649,6 +23495,15 @@
      "source_reel": "https://www.instagram.com/reel/DS2uieEEnO2/",
      "source_reel_theme": "National park road trips by month",
      "source_title": "National park road trips for every month of the year"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "note": "Pin is the NPS-published Painted Desert Visitor Center point (north entrance, off I-40)."
@@ -22799,6 +23654,15 @@
      "source_reel": "https://www.instagram.com/p/DfhnyRAlb-N/",
      "source_reel_theme": "Favorite national parks by category (57 parks visited)",
      "source_title": "57 parks down — our favorite parks, by category"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "note": "Pin is the NPS-published Carlsbad Caverns Visitor Center point."
@@ -22868,6 +23732,24 @@
      "source_reel": "https://www.instagram.com/reel/DSvAoETiXp_/",
      "source_reel_theme": "2025 national park superlatives",
      "source_title": "Our 2025 park superlatives — most magical, most magnificent, best sunset"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides — a park 'nobody has on their bucket list... BUT SHOULD'.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "First stop on their Pacific Northwest road trip: Crater Lake — sunrise at Watchman Peak, Garfield Peak, Merriam Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "note": "Pin is the NPS park headquarters / Steel Visitor Center point (42°53'48.91\"N, 122°08'03.08\"W)."
@@ -22910,6 +23792,15 @@
      "source_reel": "https://www.instagram.com/reel/C8cXxCLMxYP/",
      "source_reel_theme": "Favorite destinations list",
      "source_title": "Places we have been — Iceland, Azores, Rockies, Bahamas, California"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks: 'Hike Cinder Cone Trail, walk Manzanita Lake Loop at sunset' — their favorite activities here.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "note": "Pin is the Kohm Yah-mah-nee Visitor Center point at the park's southwest entrance."
@@ -23024,6 +23915,15 @@
      "source_reel": "https://www.instagram.com/reel/C4GhUQNuT1d/",
      "source_reel_theme": "Four parks one week recap",
      "source_title": "1 week, 4 national parks — NM & TX recap"
+    },
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks: 'Hike Guadalupe Peak Trail or Devils Hall Trail' — their favorite activities here.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "note": "Pin is the NPS-published Pine Springs Visitor Center point."
@@ -23120,6 +24020,15 @@
      "source_reel": "https://www.instagram.com/p/DfkjVoDiXMd/",
      "source_reel_theme": "Eastern USA national parks ratings",
      "source_title": "Rating the National Parks in the Eastern USA"
+    },
+    {
+     "best_for": "Wildlife",
+     "recommendation": "River otters in Congaree National Park (tagged location: Congaree National Park).",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfxJlZhhkLw/",
+     "source_reel_theme": "Congaree National Park",
+     "source_title": "Congaree National Park river otters"
     }
    ],
    "note": "Pin is the NPS-published Harry Hampton Visitor Center point — the same point as the Boardwalk Loop trailhead pin."
@@ -23558,6 +24467,15 @@
      "source_reel": "https://www.instagram.com/reel/DCjmmtAROpS/",
      "source_reel_theme": "Bryce Canyon one-day guide",
      "source_title": "Your ultimate guide to Bryce Canyon — the one-day itinerary"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Bryce Canyon hike: Navajo Loop and Queens Garden Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/utah/navajo-loop-and-queens-garden-trail",
@@ -23793,6 +24711,15 @@
      "source_reel": "https://www.instagram.com/reel/DCjmmtAROpS/",
      "source_reel_theme": "Bryce Canyon one-day guide",
      "source_title": "Your ultimate guide to Bryce Canyon — the one-day itinerary"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Bryce Canyon hike: Mossy Cave Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Pin is the OSM Mossy Cave trailhead point off UT-12."
@@ -23988,6 +24915,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Capitol Reef hike: Hickman Bridge.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/utah/hickman-bridge-trail",
@@ -24175,6 +25111,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Capitol Reef hike: Grand Wash with Cassidy Arch Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/utah/grand-wash-trail-via-northeast-trailhead",
@@ -24456,6 +25401,15 @@
      "source_reel": "https://www.instagram.com/p/DfdLSbNJzCR/",
      "source_reel_theme": "Southwest road trip itinerary",
      "source_title": "The ultimate Southwest road trip"
+    },
+    {
+     "best_for": "Scenic drive",
+     "recommendation": "One of their Capitol Reef must-sees: Cathedral Valley.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Pin is the OSM Cathedral Valley locality point in Capitol Reef's remote north district."
@@ -24642,6 +25596,15 @@
      "source_reel": "https://www.instagram.com/reel/DCjmmtAROpS/",
      "source_reel_theme": "Bryce Canyon one-day guide",
      "source_title": "Your ultimate guide to Bryce Canyon — the one-day itinerary"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Bryce Canyon overlooks: Inspiration Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Pin is the OSM Inspiration Point parking/overlook point on the Bryce rim."
@@ -24765,6 +25728,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Grand Canyon overlooks: Hopi Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Pin is the OSM Hopi Point point on Hermit Road, Grand Canyon South Rim."
@@ -24852,6 +25824,15 @@
      "source_reel": "https://www.instagram.com/p/DOjBfb_jt-9/",
      "source_reel_theme": "Best national park overlooks list",
      "source_title": "10 of the best national park overlooks — no hiking required"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their Crater Lake must-sees: Merriam Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "note": "Pin is the OSM Merriam Point point on Crater Lake's west rim."
@@ -25317,6 +26298,24 @@
      "source_reel": "https://www.instagram.com/reel/DNESzUAR2uM/",
      "source_reel_theme": "Grinnell Glacier Trail, Glacier National Park",
      "source_title": "Grinnell Glacier Trail — turquoise water, epic mountains"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Glacier hikes: the Grinnell Glacier Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Trip #2, the Wyoming/Montana Magnificent 3: the Grinnell Glacier Trail in Glacier.",
+     "source_creator": "@amorywild",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfpQThCP9-8/",
+     "source_reel_theme": "Top 5 national park road trips",
+     "source_title": "Top 5 National Park Road Trips"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/montana/grinnell-glacier-trail",
@@ -25495,6 +26494,24 @@
      "source_reel": "https://www.instagram.com/reel/DM-xSBcsXtK/",
      "source_reel_theme": "Glacier National Park hiking day",
      "source_title": "Hidden Lake, the Highline and the Garden Wall — an 18-mile Glacier day"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Glacier hikes: the Garden Wall.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "The Garden Wall Trail with the Highline Trail: 'The climb up garden wall trail was steep with full sun exposure but we couldn't believe our eyes when we saw the view at the top and were greeted by a family of mountain goats.'",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfslO20pEcf/",
+     "source_reel_theme": "Highline Trail + Garden Wall Trail, Glacier",
+     "source_title": "Glacier National Park… You were worth every step"
     }
    ],
    "note": "Pin is the published Wikipedia coordinate for the Garden Wall arête along the Continental Divide north of Logan Pass."
@@ -25654,6 +26671,24 @@
      "source_reel": "https://www.instagram.com/reel/DM-xSBcsXtK/",
      "source_reel_theme": "Glacier National Park hiking day",
      "source_title": "Hidden Lake, the Highline and the Garden Wall — an 18-mile Glacier day"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Glacier hikes: the Highline Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "'Glacier National Park… You were worth every step' — the Highline Trail in combination with the Garden Wall Trail, a steep, sun-exposed climb to a view greeted by a family of mountain goats.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfslO20pEcf/",
+     "source_reel_theme": "Highline Trail + Garden Wall Trail, Glacier",
+     "source_title": "Glacier National Park… You were worth every step"
     }
    ],
    "note": "Pin is the Logan Pass trailhead/parking point (published trail-guide GPS) where the Highline Trail starts."
@@ -25867,6 +26902,15 @@
      "source_reel": "https://www.instagram.com/reel/DMiW3FxMiAi/",
      "source_reel_theme": "Grand Teton National Park guide",
      "source_title": "Steal our Grand Teton guide"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "'How is this place even real?!' — Delta Lake via Lupine Meadows in Grand Teton: about 8 miles round trip, 2,300 feet of gain, rated hard for a reason. The last mile is unmaintained, very steep and slick with bouldering — not for kids or inexperienced hikers; download the offline trail map.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfui4uEv2Ds/",
+     "source_reel_theme": "Delta Lake via Lupine Meadows, Grand Teton",
+     "source_title": "How is this place even real?!"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/wyoming/delta-lake-via-lupine-meadows-access",
@@ -26045,6 +27089,15 @@
      "source_reel": "https://www.instagram.com/p/DOEJPQwjj2c/",
      "source_reel_theme": "Epic national park hikes series, part 4",
      "source_title": "10 epic national park hikes — Part 4"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their Mount Rainier must-sees: Fremont Lookout.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/washington/mount-fremont-lookout-trail-via-sourdough-ridge-trail",
@@ -26250,6 +27303,15 @@
      "source_reel": "https://www.instagram.com/p/DOTnHm6jrNE/",
      "source_reel_theme": "Epic national park hikes series, part 6",
      "source_title": "10 epic national park hikes — Part 6"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their Mount Rainier must-sees: the Burroughs Mountain Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/washington/burroughs-mountain-loop-trail",
@@ -26392,6 +27454,15 @@
      "source_reel": "https://www.instagram.com/p/DOTnHm6jrNE/",
      "source_reel_theme": "Epic national park hikes series, part 6",
      "source_title": "10 epic national park hikes — Part 6"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their North Cascades must-sees: Cascade Pass.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "note": "Pin is the OSM Cascade Pass point at the top of the trail (the pass itself)."
@@ -26506,6 +27577,15 @@
      "source_reel": "https://www.instagram.com/p/DO6TKvDjhus/",
      "source_reel_theme": "North Cascades two-day hiking itinerary",
      "source_title": "2 days hiking North Cascades National Park"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their North Cascades must-sees: Maple Pass.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/washington/maple-pass-trail",
@@ -26673,6 +27753,15 @@
      "source_reel": "https://www.instagram.com/p/DOq9BX-iccN/",
      "source_reel_theme": "Olympic two-day itinerary",
      "source_title": "Olympic National Park in 2 days"
+    },
+    {
+     "best_for": "Beach",
+     "recommendation": "One of their Olympic must-sees: Ruby Beach.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "note": "Pin is the OSM Ruby Beach point on the Olympic coast."
@@ -28008,6 +29097,15 @@
      "source_reel": "https://www.instagram.com/reel/C79bnXXskvJ/",
      "source_reel_theme": "California road trip reroute itinerary",
      "source_title": "Our crazy 3-day California road trip — snowstorm reroute"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "'If you only have time for one hike in the park, make it Congress Trail!' — their top Sequoia hike, among the giant sequoias of the Giant Forest.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfr1LUCvBoc/",
+     "source_reel_theme": "Sequoia National Park in the snow",
+     "source_title": "Feeling small next to the largest trees in the world"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/california/congress-trail",
@@ -28096,6 +29194,15 @@
      "source_reel": "https://www.instagram.com/p/De7XzkRJkcx/",
      "source_reel_theme": "Northern California & Oregon road trip",
      "source_title": "An underrated road trip — Reno, Tahoe, volcanoes and redwoods"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Lassen Volcanic hike: the Cinder Cone Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/california/cinder-cone-trail--2",
@@ -29139,6 +30246,15 @@
      "source_reel": "https://www.instagram.com/p/DfBYAfCPH_Y/",
      "source_reel_theme": "Alaska national parks road trip",
      "source_title": "4 national parks, 1 epic Alaska trip"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Kenai Fjords hikes: the Harding Icefield Trail.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfz4iJxPGPl/",
+     "source_reel_theme": "Kenai Fjords National Park",
+     "source_title": "Dare I say this is the best National Park in the US?"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/alaska/harding-ice-field-trail",
@@ -29760,6 +30876,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Grand Canyon overlooks: Yaki Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -29801,6 +30926,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Grand Canyon overlooks: Powell Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -29851,6 +30985,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Grand Canyon overlooks: Moran Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -29874,7 +31017,17 @@
    "source_creator": "@kelleyandcarlsadventures",
    "source_rank": null,
    "source_reel_theme": "Southwest road trip itinerary",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Grand Canyon overlooks: Pima Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
+    }
+   ]
   },
   {
    "id": "maricopa-point-az",
@@ -29914,6 +31067,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Grand Canyon overlooks: Maricopa Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -29946,6 +31108,15 @@
      "source_reel": "https://www.instagram.com/p/DVwI9jbDjE5/",
      "source_reel_theme": "Arizona road trip itinerary",
      "source_title": "The ultimate Arizona road trip"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Grand Canyon overlooks: Mather Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Pin is the Mather Point viewpoint itself (the raw OSM hit was the nearby shuttle bus stop)."
@@ -30006,6 +31177,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Grand Canyon overlooks: Desert View Watchtower.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -30110,6 +31290,15 @@
      "source_reel": "https://www.instagram.com/reel/DCHPRS5xCLy/",
      "source_reel_theme": "Lake Powell guide, Page, Arizona",
      "source_title": "Everything you need to know about Lake Powell"
+    },
+    {
+     "best_for": "Canyon",
+     "recommendation": "Stop 2, Page, Arizona: Antelope Canyon.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Pin is the Antelope Slot Canyon tour area east of Page, from OpenStreetMap."
@@ -30143,6 +31332,15 @@
      "source_reel": "https://www.instagram.com/p/DKzkxG8xB4b/",
      "source_reel_theme": "Southwest road trip itinerary",
      "source_title": "The ultimate Southwest road trip — 7 parks, 1 week"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their Capitol Reef must-sees: Panorama Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ]
   },
@@ -30238,6 +31436,15 @@
      "source_reel_theme": "The most epic town you've NEVER heard of",
      "best_for": "Viewpoint / Otherworldly Mars-like overlook",
      "recommendation": "The out-of-this-world landscape 11 miles from town off Highway 24 — Factory Butte Road about 5 miles, then Skyline View Road about 2 miles to Moon Overlook Road. The reel's #1 Hanksville landscape."
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Stop 5, Hanksville: Moonscape Overlook.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "GPS coordinates as published in Moonscape Overlook visitor guides (38.4522, -110.8381); OpenStreetMap has no feature for it."
@@ -30262,7 +31469,17 @@
    "source_creator": "@kelleyandcarlsadventures",
    "source_rank": null,
    "source_reel_theme": "Southwest road trip itinerary",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Scenic drive",
+     "recommendation": "Their Zion drive: the Zion-Mount Carmel Highway.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
+    }
+   ],
    "note": "Pin is at the Zion-Mount Carmel Tunnel."
   },
   {
@@ -34183,6 +35400,15 @@
      "source_reel": "https://www.instagram.com/reel/DLSnr4eMW4j/",
      "source_reel_theme": "Black Canyon of the Gunnison guide",
      "source_title": "Black Canyon — the steepest canyon in the USA"
+    },
+    {
+     "best_for": "Sunset",
+     "recommendation": "Their favorite Black Canyon of the Gunnison activity: watching sunset at Dragon Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ]
   },
@@ -34668,6 +35894,15 @@
      "source_reel": "https://www.instagram.com/p/DOTnHm6jrNE/",
      "source_reel_theme": "Epic national park hikes series, part 6",
      "source_title": "10 epic national park hikes — Part 6"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their Crater Lake must-sees: Garfield Peak.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/oregon/garfield-peak-trail"
@@ -34791,6 +36026,15 @@
      "source_reel": "https://www.instagram.com/p/DN6g2sIkulq/",
      "source_reel_theme": "Epic national park hikes series, part 3",
      "source_title": "10 epic national park hikes — Part 3"
+    },
+    {
+     "best_for": "Sunrise",
+     "recommendation": "Their Crater Lake sunrise pick: Watchman Peak.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "note": "Pin is the OpenStreetMap 'The Watchman' peak point (42.9429528, -122.1724048)."
@@ -34968,6 +36212,15 @@
      "source_reel": "https://www.instagram.com/reel/DSks_TxDX3F/",
      "source_reel_theme": "Bucket list USA spots montage",
      "source_title": "Bucket list USA spots"
+    },
+    {
+     "best_for": "Waterfall",
+     "recommendation": "Their Columbia River Gorge stop: Multnomah Falls.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ]
   },
@@ -34991,7 +36244,17 @@
    "source_creator": "@kelleyandcarlsadventures",
    "source_rank": null,
    "source_reel_theme": "Pacific Northwest road trip",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Waterfall",
+     "recommendation": "Their Columbia River Gorge stop: Latourell Falls.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
+    }
+   ]
   },
   {
    "id": "hurricane-hill-wa",
@@ -35031,6 +36294,15 @@
      "source_reel": "https://www.instagram.com/p/DOq9BX-iccN/",
      "source_reel_theme": "Olympic two-day itinerary",
      "source_title": "Olympic National Park in 2 days"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their Olympic must-sees: Hurricane Hill.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ],
    "note": "Pin is the Hurricane Hill Trailhead at Hurricane Ridge (a bare-name geocode returned a same-named hill in Utah and was rejected)."
@@ -35082,6 +36354,15 @@
      "source_reel": "https://www.instagram.com/p/DOq9BX-iccN/",
      "source_reel_theme": "Olympic two-day itinerary",
      "source_title": "Olympic National Park in 2 days"
+    },
+    {
+     "best_for": "Beach",
+     "recommendation": "One of their Olympic must-sees: Rialto Beach.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
     }
    ]
   },
@@ -35784,6 +37065,15 @@
      "source_reel": "https://www.instagram.com/p/DAKBQtyMFuT/",
      "source_reel_theme": "Bristlecone & Alpine Lakes Loop, Great Basin",
      "source_title": "Bristlecone & Alpine Lakes Loop — Nevada's only glacier"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Great Basin hike: the Alpine Lakes, Bristlecone and Glacier Loop trails.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "note": "Coordinates are the published Summit Trailhead point at the end of Wheeler Peak Scenic Drive."
@@ -36585,6 +37875,15 @@
      "source_reel": "https://www.instagram.com/reel/DCHPRS5xCLy/",
      "source_reel_theme": "Lake Powell guide, Page, Arizona",
      "source_title": "Everything you need to know about Lake Powell"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "Stop 2, Page, Arizona: Navajo Mountain Viewpoint.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Coordinates from the Navajo Mountain Viewpoint place record (Page, AZ)."
@@ -36940,6 +38239,15 @@
      "source_reel": "https://www.instagram.com/reel/DM8L8BlM8JT/",
      "source_reel_theme": "Going-to-the-Sun Road scenic drive",
      "source_title": "Going-to-the-Sun Road — it lives up to the hype"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Glacier hikes: Hidden Lake Overlook.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/montana/hidden-lake-overlook",
@@ -36983,6 +38291,15 @@
      "source_reel": "https://www.instagram.com/reel/DSVU8eVCd8A/",
      "source_reel_theme": "Glacier National Park favorites",
      "source_title": "Your sign to visit Glacier National Park in 2026"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "One of their favorite Glacier hikes: Cracker Lake.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
+     "source_reel_theme": "Glacier National Park overview",
+     "source_title": "Turquoise water + epic mountain scenery"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/montana/cracker-lake-trail",
@@ -39768,6 +41085,15 @@
      "source_reel": "https://www.instagram.com/reel/C4tB6MbRCq6/",
      "source_reel_theme": "Guadalupe Mountains guide",
      "source_title": "Guadalupe Mountains — an underrated national park"
+    },
+    {
+     "best_for": "Hike",
+     "recommendation": "Their favorite Guadalupe Mountains hike: Devils Hall Trail (or Guadalupe Peak Trail).",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/texas/devils-hall",
@@ -40018,7 +41344,17 @@
    "source_creator": "@kelleyandcarlsadventures",
    "source_rank": null,
    "source_reel_theme": "Non-national-park nature places",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Hike",
+     "recommendation": "Their Enchantments stop on the road trip: the day hike to Colchuck Lake.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+     "source_reel_theme": "Pacific Northwest road trip",
+     "source_title": "One of the most beautiful US Road Trips"
+    }
+   ],
    "note": "Pin at the Stuart Lake Trailhead, the main Enchantments entrance; coordinates from the USFS trailhead record."
   },
   {
@@ -41039,6 +42375,15 @@
      "source_reel": "https://www.instagram.com/p/DJzR4ovxsu5/",
      "source_reel_theme": "Best summer national parks",
      "source_title": "5 national parks to visit this summer"
+    },
+    {
+     "best_for": "Viewpoint",
+     "recommendation": "One of their favorite Bryce Canyon overlooks: Sunset Point.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Coordinates: published Bryce Canyon guide GPS for the viewpoint."
@@ -42111,6 +43456,15 @@
      "source_reel": "https://www.instagram.com/reel/DEsVGx0RSQC/",
      "source_reel_theme": "Southwest USA road trip itinerary",
      "source_title": "Our type of American Dream — the Southwest road trip"
+    },
+    {
+     "best_for": "Lake",
+     "recommendation": "Stop 2, Page, Arizona: Lake Powell.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DfnIZ_bphgX/",
+     "source_reel_theme": "Southwest road trip: Grand Canyon, Page, Bryce, Capitol Reef, Hanksville, Zion",
+     "source_title": "The ULTIMATE Southwest road trip"
     }
    ],
    "note": "Coordinates: Antelope Point Marina's published GPS (Forever Resorts) — the marina where Kelley & Carl rented their jet ski."
@@ -46494,7 +47848,17 @@
    "source_creator": "@iamroamingfree",
    "source_rank": 6,
    "source_reel_theme": "California places that will alter your brain chemistry, part 2",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "National Park",
+     "recommendation": "One of their 18 underrated national parks, shown on the carousel slides.",
+     "source_creator": "@kelleyandcarlsadventures",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DfseAkVCdgn/",
+     "source_reel_theme": "Underrated US national parks",
+     "source_title": "The Ultimate List of Underrated US National Parks"
+    }
+   ],
    "note": "Coordinates: Cedar Grove, at the Kings River canyon shown in the reel. Park-level pin; specific park spots are separate pins. No AllTrails link (park-level entry)."
   },
   {
@@ -47250,6 +48614,305 @@
    "source_reel_theme": "3 Indiana state parks just as amazing as Turkey Run",
    "additional_sources": [],
    "note": "Coordinates: Wikipedia (38.74816, -85.41523). 1,416 acres; ~15 mi of trails; four named falls. Brough's Tunnel closed indefinitely due to a spring rockslide (as of Oct 2026). Waterfall flow depends on recent rainfall and season."
+  },
+  {
+   "id": "general-sherman-tree-ca",
+   "name": "General Sherman Tree",
+   "site": "Sequoia National Park",
+   "city": "Three Rivers",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 36.58167,
+   "lng": -118.751528,
+   "google_maps_query": "General Sherman Tree, Sequoia National Park, Three Rivers, California",
+   "best_for": "Largest tree",
+   "recommendation": "'General Sherman Tree in the park specifically is THE largest tree on earth by volume!' — the giant sequoia at the north end of Giant Forest, 275 feet tall and the largest living tree by volume.",
+   "source_reel": "https://www.instagram.com/reel/Dfr1LUCvBoc/",
+   "source_title": "Feeling small next to the largest trees in the world",
+   "source_creator": "@kelleyandcarlsadventures",
+   "source_rank": null,
+   "source_reel_theme": "Sequoia National Park in the snow",
+   "additional_sources": [],
+   "note": "Coordinates: Wikipedia, General Sherman Tree (36.58167, -118.751528)."
+  },
+  {
+   "id": "golden-gate-overlook-ca",
+   "name": "Golden Gate Overlook",
+   "site": "Presidio of San Francisco",
+   "city": "San Francisco",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 37.803948,
+   "lng": -122.476688,
+   "google_maps_query": "Golden Gate Overlook, Presidio of San Francisco, San Francisco, California",
+   "best_for": "Viewpoint",
+   "recommendation": "'With so many overlooks and views of the bridge to choose from, this was our absolute favorite view BY FAR!' — the curved concrete plaza off Lincoln Boulevard in the Presidio, straight-on towers framed by Monterey cypresses, and barely anybody there compared to the famous overlooks.",
+   "source_reel": "https://www.instagram.com/reel/DfycsxWPU0S/",
+   "source_title": "DON'T MISS THIS!!",
+   "source_creator": "@kelleyandcarlsadventures",
+   "source_rank": null,
+   "source_reel_theme": "Golden Gate Overlook, San Francisco",
+   "additional_sources": [],
+   "note": "Coordinates: Presidio Trust place record for Golden Gate Overlook, Langdon Ct, San Francisco (37.803948, -122.476688)."
+  },
+  {
+   "id": "hoh-rainforest-wa",
+   "name": "Hoh Rainforest",
+   "site": "Olympic National Park",
+   "city": "Forks",
+   "state": "Washington",
+   "state_code": "WA",
+   "country": "USA",
+   "region": "Pacific Northwest",
+   "region_id": "pacific-northwest",
+   "lat": 47.860821,
+   "lng": -123.934863,
+   "google_maps_query": "Hoh Rainforest, Olympic National Park, Forks, Washington",
+   "best_for": "Rainforest",
+   "recommendation": "The Hoh Rainforest stop on their Pacific Northwest road trip — one of the largest temperate rainforests in the US, moss-draped Sitka spruce and bigleaf maples around the Hoh visitor center.",
+   "source_reel": "https://www.instagram.com/reel/Dfsmb4bpW3R/",
+   "source_title": "One of the most beautiful US Road Trips",
+   "source_creator": "@kelleyandcarlsadventures",
+   "source_rank": null,
+   "source_reel_theme": "Pacific Northwest road trip",
+   "additional_sources": [],
+   "note": "Coordinates: NPS Hoh Rain Forest Visitor Center, 18113 Upper Hoh Rd, Forks (47.860821, -123.934863)."
+  },
+  {
+   "id": "condor-gulch-trail-ca",
+   "name": "Condor Gulch Trail",
+   "site": "Pinnacles National Park",
+   "city": "Pinnacles National Park",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 36.481507,
+   "lng": -121.18121,
+   "google_maps_query": "Condor Gulch Trail, Pinnacles National Park, Pinnacles National Park, California",
+   "best_for": "Hike",
+   "recommendation": "Route 1 to High Peaks: 'Condor Gulch Trail to High Peaks Trail Loop' — a 1.7-mile descent from the High Peaks junction down the gulch to the Bear Gulch trailhead, with a ledge overlook on the way.",
+   "source_reel": "https://www.instagram.com/reel/Dfn4cPMv1WI/",
+   "source_title": "Talk about a crazy bucket list national park hike",
+   "source_creator": "@kelleyandcarlsadventures",
+   "source_rank": null,
+   "source_reel_theme": "High Peaks Trail, Pinnacles",
+   "additional_sources": [],
+   "note": "Coordinates: Condor Gulch Trail place record (36.481507, -121.18121); trailhead at Bear Gulch Day Use Area, east side."
+  },
+  {
+   "id": "balconies-cave-trail-ca",
+   "name": "Balconies Cave Trail",
+   "site": "Pinnacles National Park",
+   "city": "Pinnacles National Park",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 36.498154,
+   "lng": -121.203042,
+   "google_maps_query": "Balconies Cave Trail, Pinnacles National Park, Pinnacles National Park, California",
+   "best_for": "Hike",
+   "recommendation": "Route 2 to High Peaks: 'High Peaks & Balconies Cave Loop' — the talus cave trail from the Chaparral trailhead on the west side, through boulder-filled passages (flashlight needed) to the Balconies Cliffs.",
+   "source_reel": "https://www.instagram.com/reel/Dfn4cPMv1WI/",
+   "source_title": "Talk about a crazy bucket list national park hike",
+   "source_creator": "@kelleyandcarlsadventures",
+   "source_rank": null,
+   "source_reel_theme": "High Peaks Trail, Pinnacles",
+   "additional_sources": [],
+   "note": "Coordinates: Balconies Cave place record (36.498154, -121.203042); trailhead at Chaparral Picnic Area, west side."
+  },
+  {
+   "id": "juniper-canyon-trail-ca",
+   "name": "Juniper Canyon Trail",
+   "site": "Pinnacles National Park",
+   "city": "Pinnacles National Park",
+   "state": "California",
+   "state_code": "CA",
+   "country": "USA",
+   "region": "West",
+   "region_id": "west",
+   "lat": 36.49165,
+   "lng": -121.20937,
+   "google_maps_query": "Juniper Canyon Trail, Pinnacles National Park, Pinnacles National Park, California",
+   "best_for": "Hike",
+   "recommendation": "Route 3 to High Peaks: 'Juniper Canyon Trail to High Peaks' — the steep west-side climb from Chaparral Parking Area, switchbacking up Juniper Canyon to the heart of the High Peaks (NPS: ~4.3 miles round trip, strenuous).",
+   "source_reel": "https://www.instagram.com/reel/Dfn4cPMv1WI/",
+   "source_title": "Talk about a crazy bucket list national park hike",
+   "source_creator": "@kelleyandcarlsadventures",
+   "source_rank": null,
+   "source_reel_theme": "High Peaks Trail, Pinnacles",
+   "additional_sources": [],
+   "note": "Coordinates: Chaparral trailhead, west side (36.49165, -121.20937), per Hikespeak; NPS Juniper Canyon Trail Loop page confirms the trail starts at Chaparral Parking Area."
+  },
+  {
+   "id": "chain-of-craters-road-hi",
+   "name": "Chain of Craters Road",
+   "site": "Hawai'i Volcanoes National Park",
+   "city": "Volcano",
+   "state": "Hawaii",
+   "state_code": "HI",
+   "country": "USA",
+   "region": "Hawaii",
+   "region_id": "hawaii",
+   "lat": 19.405,
+   "lng": -155.25278,
+   "google_maps_query": "Chain of Craters Road, Hawai'i Volcanoes National Park, Volcano, Hawaii",
+   "best_for": "Wildlife",
+   "recommendation": "Ranked #4 of their 5 unforgettable national park moments: nene (Hawaiian geese) with chicks along Chain of Craters Road, the 19-mile drive from Kilauea's summit down to the Pacific through lava fields and pit craters.",
+   "source_reel": "https://www.instagram.com/reel/Df0CEAchl4T/",
+   "source_title": "5 National Park Moments I'll NEVER Forget",
+   "source_creator": "@amorywild",
+   "source_rank": 4,
+   "source_reel_theme": "5 National Park moments I'll never forget",
+   "additional_sources": [],
+   "note": "Coordinates: Wikipedia, Chain of Craters Road (19.405, -155.25278)."
+  },
+  {
+   "id": "machine-falls-tn",
+   "name": "Machine Falls",
+   "site": "Short Springs State Natural Area",
+   "city": "Tullahoma",
+   "state": "Tennessee",
+   "state_code": "TN",
+   "country": "USA",
+   "region": "Southeast",
+   "region_id": "southeast",
+   "lat": 35.41286,
+   "lng": -86.17916,
+   "google_maps_query": "Machine Falls, Short Springs State Natural Area, Tullahoma, Tennessee",
+   "best_for": "Waterfall",
+   "recommendation": "Ranked #7 on their Nashville road trip waterfall countdown: a 60-foot falls in Short Springs State Natural Area, about 1.5 hours from Nashville, reached by a 1.5-mile round-trip hike.",
+   "source_reel": "https://www.instagram.com/reel/Dfr5CLjsXkD/",
+   "source_title": "7 Epic Waterfalls on this Nashville road trip",
+   "source_creator": "@amorywild",
+   "source_rank": 7,
+   "source_reel_theme": "7 epic waterfalls near Nashville",
+   "additional_sources": [],
+   "note": "Coordinates: USGS, Normandy Lake quadrangle (35.41286, -86.17916)."
+  },
+  {
+   "id": "foster-falls-tn",
+   "name": "Foster Falls",
+   "site": "South Cumberland State Park",
+   "city": "Sequatchie",
+   "state": "Tennessee",
+   "state_code": "TN",
+   "country": "USA",
+   "region": "Southeast",
+   "region_id": "southeast",
+   "lat": 35.18174,
+   "lng": -85.6758,
+   "google_maps_query": "Foster Falls, South Cumberland State Park, Sequatchie, Tennessee",
+   "best_for": "Waterfall",
+   "recommendation": "Ranked #6: a 60-foot waterfall at the southern end of the Fiery Gizzard Trail in South Cumberland State Park, with a short 0.6-mile hike down to its plunge pool.",
+   "source_reel": "https://www.instagram.com/reel/Dfr5CLjsXkD/",
+   "source_title": "7 Epic Waterfalls on this Nashville road trip",
+   "source_creator": "@amorywild",
+   "source_rank": 6,
+   "source_reel_theme": "7 epic waterfalls near Nashville",
+   "additional_sources": [],
+   "note": "Coordinates: USGS, White City quadrangle (35.18174, -85.67580)."
+  },
+  {
+   "id": "fall-creek-falls-tn",
+   "name": "Fall Creek Falls",
+   "site": "Fall Creek Falls State Park",
+   "city": "Spencer",
+   "state": "Tennessee",
+   "state_code": "TN",
+   "country": "USA",
+   "region": "Southeast",
+   "region_id": "southeast",
+   "lat": 35.66611,
+   "lng": -85.35583,
+   "google_maps_query": "Fall Creek Falls, Fall Creek Falls State Park, Spencer, Tennessee",
+   "best_for": "Waterfall",
+   "recommendation": "Ranked #4: the 256-foot plunge waterfall — the highest free-fall waterfall east of the Mississippi — reached by a 0.8-mile trail down to its plunge pool in Fall Creek Falls State Park.",
+   "source_reel": "https://www.instagram.com/reel/Dfr5CLjsXkD/",
+   "source_title": "7 Epic Waterfalls on this Nashville road trip",
+   "source_creator": "@amorywild",
+   "source_rank": 4,
+   "source_reel_theme": "7 epic waterfalls near Nashville",
+   "additional_sources": [],
+   "note": "Coordinates: Wikipedia/USGS, Fall Creek Falls (35.66611, -85.35583)."
+  },
+  {
+   "id": "virgin-falls-tn",
+   "name": "Virgin Falls",
+   "site": "Virgin Falls State Natural Area",
+   "city": "Sparta",
+   "state": "Tennessee",
+   "state_code": "TN",
+   "country": "USA",
+   "region": "Southeast",
+   "region_id": "southeast",
+   "lat": 35.83923,
+   "lng": -85.3308,
+   "google_maps_query": "Virgin Falls, Virgin Falls State Natural Area, Sparta, Tennessee",
+   "best_for": "Waterfall",
+   "recommendation": "Ranked #3: a 110-foot waterfall that emerges from a cave and disappears into another, at the end of an 8-mile hike in Virgin Falls State Natural Area.",
+   "source_reel": "https://www.instagram.com/reel/Dfr5CLjsXkD/",
+   "source_title": "7 Epic Waterfalls on this Nashville road trip",
+   "source_creator": "@amorywild",
+   "source_rank": 3,
+   "source_reel_theme": "7 epic waterfalls near Nashville",
+   "additional_sources": [],
+   "note": "Coordinates: USGS, Lonewood quadrangle (35.83923, -85.33080)."
+  },
+  {
+   "id": "aialik-glacier-ak",
+   "name": "Aialik Glacier",
+   "site": "Kenai Fjords National Park",
+   "city": "Seward",
+   "state": "Alaska",
+   "state_code": "AK",
+   "country": "USA",
+   "region": "Alaska",
+   "region_id": "alaska",
+   "lat": 59.96806,
+   "lng": -149.79972,
+   "google_maps_query": "Aialik Glacier, Kenai Fjords National Park, Seward, Alaska",
+   "best_for": "Glacier",
+   "recommendation": "Ranked #3 of their 5 national park views worth turning for: the tidewater glacier draining the Harding Icefield into Aialik Bay, seen from the water on a Kenai Fjords boat tour.",
+   "source_reel": "https://www.instagram.com/reel/DfnfXAth7Oa/",
+   "source_title": "5 National Park Views Worth Turning For",
+   "source_creator": "@amorywild",
+   "source_rank": 3,
+   "source_reel_theme": "5 national park views worth turning for",
+   "additional_sources": [],
+   "note": "Coordinates: Wikipedia, Aialik Glacier (59.96806, -149.79972)."
+  },
+  {
+   "id": "johns-hopkins-glacier-ak",
+   "name": "Johns Hopkins Glacier",
+   "site": "Glacier Bay National Park and Preserve",
+   "city": "Gustavus",
+   "state": "Alaska",
+   "state_code": "AK",
+   "country": "USA",
+   "region": "Alaska",
+   "region_id": "alaska",
+   "lat": 58.80667,
+   "lng": -137.25028,
+   "google_maps_query": "Johns Hopkins Glacier, Glacier Bay National Park and Preserve, Gustavus, Alaska",
+   "best_for": "Glacier",
+   "recommendation": "Ranked #1 of their 5 national park views worth turning for: the 12-mile tidewater glacier at the head of Johns Hopkins Inlet, one of the few advancing tidewater glaciers, reached only by boat.",
+   "source_reel": "https://www.instagram.com/reel/DfnfXAth7Oa/",
+   "source_title": "5 National Park Views Worth Turning For",
+   "source_creator": "@amorywild",
+   "source_rank": 1,
+   "source_reel_theme": "5 national park views worth turning for",
+   "additional_sources": [],
+   "note": "Coordinates: Wikipedia, Johns Hopkins Glacier (58.80667, -137.25028)."
   }
  ],
  "updated": "2026-11-16",
