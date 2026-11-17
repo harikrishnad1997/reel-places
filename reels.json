@@ -19216,6 +19216,22 @@
    "places_count": 5,
    "recommendation_summary": "'5 National Park Views Worth Turning For', ranked 5 to 1: Brooks Falls (Katmai), Jenny Lake (Grand Teton), Aialik Glacier (Kenai Fjords), High Dune (Great Sand Dunes), Johns Hopkins Glacier (Glacier Bay).",
    "duplicate_place": false
+  },
+  {
+   "url": "https://www.instagram.com/reel/Dfz0eSRhajR/",
+   "title": "Lake Serene is a stunning alpine lake just off Hwy 2",
+   "creator": "@n.sisson",
+   "creator_name": "Nicole Sisson | Adventure Travel",
+   "theme": "Lake Serene alpine lake hike",
+   "posted": "2026-11-16",
+   "added": "2026-11-17",
+   "place_ids": [
+    "lake-serene-wa",
+    "bridal-veil-falls-wa"
+   ],
+   "places_count": 2,
+   "duplicate_place": false,
+   "recommendation_summary": "Lake Serene near Gold Bar — a stunning alpine lake off Hwy 2 with log bridges, cascading waterfalls and Mount Index views; 7.2 miles round trip, ~2,700 ft gain, with a highly recommended detour to Bridal Veil Falls."
   }
  ]
 }
