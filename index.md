@@ -4794,6 +4794,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/reel/DeZSHadtVmy/">3 Indiana state parks just as amazing as Turkey Run</a> by @wanderingwithcourtney (#3 in that reel)</li>
+<li><a href="https://www.instagram.com/reel/Df2SrY5j76L/">There&#x27;s a canyon in southern Indiana with four named waterfalls</a> by @bucketlist713</li>
 </ul>
 </details>
 </li>
@@ -18482,6 +18483,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Ten epic USA hikes: Pictured Rocks, Devil's Garden Trail, Redwood Creek Trail, Alcove House Trail, Dream Lake, Multnomah Falls, Delicate Arch Trail, the Hollywood Sign hike, Swiftcurrent Lake Trail and Vikingsholm Trail.
 - **[One of the most underrated National Parks](https://www.instagram.com/reel/DfzoWGQvK-A/)** — @wanderlusttravelcouple · 1 places · Theme: Saguaro National Park — underrated national park near Tucson
   - What the reel recommends: Saguaro National Park near Tucson — one of the most underrated national parks; giant saguaros up to 200 years old and 40+ ft tall, two districts minutes from downtown, short easy trails for anyone.
+- **[There's a canyon in southern Indiana with four named waterfalls](https://www.instagram.com/reel/Df2SrY5j76L/)** — @bucketlist713 · 1 places · Theme: Clifty Falls State Park waterfall hike
+  - What the reel recommends: Clifty Falls State Park near Madison — a deep limestone gorge with four named waterfalls: Tunnel Falls (83 ft, the tallest), Hoffman Falls (78 ft), and Big and Little Clifty (60 ft each); creeks run fullest from late fall through spring.
 
 ## How this page is updated {#how-this-page-is-updated}
 
