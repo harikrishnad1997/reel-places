@@ -19307,6 +19307,21 @@
    "places_count": 1,
    "duplicate_place": true,
    "recommendation_summary": "Clifty Falls State Park near Madison — a deep limestone gorge with four named waterfalls: Tunnel Falls (83 ft, the tallest), Hoffman Falls (78 ft), and Big and Little Clifty (60 ft each); creeks run fullest from late fall through spring."
+  },
+  {
+   "url": "https://www.instagram.com/reel/Df2Ih0HNpBj/",
+   "title": "Walk through a moonscape — Trail of the Molten Land, Newberry National Volcanic Monument",
+   "creator": "@mattandkarensmith",
+   "creator_name": "Matt and Karen Smith",
+   "theme": "Trail of the Molten Land — Newberry National Volcanic Monument",
+   "posted": "2026-11-17",
+   "added": "2026-11-17",
+   "place_ids": [
+    "trail-of-the-molten-land-or"
+   ],
+   "places_count": 1,
+   "duplicate_place": false,
+   "recommendation_summary": "Trail of the Molten Land in Newberry National Volcanic Monument near Bend — an easy paved trail through a 7,000-year-old basalt lava flow to the base of Lava Butte, where Apollo astronauts trained in the 1960s; open year round."
   }
  ]
 }
