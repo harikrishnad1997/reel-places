@@ -3359,6 +3359,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <ul>
 <li><a href="https://www.instagram.com/p/C-pl_h5xMgV/">Virginia&#x27;s giant natural arch — Natural Bridge</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/C8o8NmqMj0j/">Natural Bridge State Park — Jefferson&#x27;s arch</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Df3Dtp-KsdP/">One of the largest natural arches is in Virginia, not Utah</a> by @movingtoadventure</li>
 </ul>
 </details>
 </li>
@@ -18506,6 +18507,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Trail of the Molten Land in Newberry National Volcanic Monument near Bend — an easy paved trail through a 7,000-year-old basalt lava flow to the base of Lava Butte, where Apollo astronauts trained in the 1960s; open year round.
 - **[Ice Lake Basin — hikes to do before your knees give out, Ep. 7](https://www.instagram.com/reel/Df0riZ4NhRm/)** — @lafftravel · 1 places · Theme: Hikes to do before your knees give out — Ep. 7: Ice Lake Basin
   - What the reel recommends: Ice Lake Basin near Silverton — turquoise Ice Lake and teal Island Lake above 12,000 ft in the San Juan Mountains; 7–8 miles round trip, ~2,800 ft of gain; summer or early fall, start early for thunderstorms.
+- **[One of the largest natural arches is in Virginia, not Utah](https://www.instagram.com/reel/Df3Dtp-KsdP/)** — @movingtoadventure · 1 places · Theme: Natural Bridge State Park — Lace Falls walk
+  - What the reel recommends: Natural Bridge State Park, Virginia — a 215-ft limestone arch over Cedar Creek, one of the largest in the US, with the Lace Falls walk (Saltpepper Cave, Lost River, Lace Falls); $9/person, 1–2 hours.
 
 ## How this page is updated {#how-this-page-is-updated}
 
