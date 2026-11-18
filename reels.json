@@ -19491,6 +19491,23 @@
    "places_count": 1,
    "duplicate_place": true,
    "recommendation_summary": "Exact repost of their Nov 15 Golden Gate Overlook reel (DfycsxWPU0S, since deleted): the curved concrete plaza off Lincoln Boulevard in the Presidio, their absolute favorite view of the Golden Gate Bridge, with barely anybody there compared to the famous overlooks."
+  },
+  {
+   "url": "https://www.instagram.com/reel/Df4uYGGTkMz/",
+   "title": "Three hikes in Hocking Hills not in the state park",
+   "creator": "@myohioadventure",
+   "creator_name": "My Ohio Adventure | Christa",
+   "theme": "3 Hocking Hills-area hikes outside the state park",
+   "posted": "2026-11-18",
+   "added": "2026-11-18",
+   "place_ids": [
+    "rockstall-nature-preserve-oh",
+    "honeycomb-rocks-oh",
+    "conkles-hollow-oh"
+   ],
+   "places_count": 3,
+   "duplicate_place": false,
+   "recommendation_summary": "Three Hocking Hills-area hikes outside the state park: Rockstall Nature Preserve (Camp Akita's 1.2-mi mossy gorge loop), Honeycomb Rocks (Arc of Appalachia's permit-only 2.2-mi old-growth loop), and Conkle's Hollow (the easy paved Gorge Trail under 200-ft cliffs)."
   }
  ]
 }
