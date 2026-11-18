@@ -3598,6 +3598,15 @@
      "source_reel": "https://www.instagram.com/reel/DSVU8eVCd8A/",
      "source_reel_theme": "Glacier National Park favorites",
      "source_title": "Your sign to visit Glacier National Park in 2026"
+    },
+    {
+     "best_for": "Waterfall / 50-foot falls past St. Mary Falls",
+     "recommendation": "The second of the reel's 'two waterfalls': continue past St. Mary Falls to Virginia Falls, about 50 feet tall, for the full 3.6-mile round trip from the St. Mary Falls stop. Rocks are slick.",
+     "source_creator": "@heyarnel",
+     "source_rank": 2,
+     "source_reel": "https://www.instagram.com/reel/Df3Wi22gwPY/",
+     "source_reel_theme": "3 hikes off Going-to-the-Sun Road, Glacier National Park",
+     "source_title": "3 Hikes Off The Sun Road"
     }
    ],
    "best_for": "Waterfall",
@@ -6965,6 +6974,15 @@
      "source_reel": "https://www.instagram.com/reel/DfujOFHPor1/",
      "source_reel_theme": "Glacier National Park overview",
      "source_title": "Turquoise water + epic mountain scenery"
+    },
+    {
+     "best_for": "Hike / Lake with waterfalls behind it, from the Trail of the Cedars",
+     "recommendation": "The lake of the reel's '3 Hikes Off The Sun Road': from the Trail of the Cedars, a flat boardwalk for about half a mile to Avalanche Gorge, then uphill 2 miles to the lake with waterfalls pouring behind it. 4.5 miles round trip, about 730 feet of climb; go at daybreak or late afternoon — parking is hard, and the 2026 shuttle did not stop here.",
+     "source_creator": "@heyarnel",
+     "source_rank": 1,
+     "source_reel": "https://www.instagram.com/reel/Df3Wi22gwPY/",
+     "source_reel_theme": "3 hikes off Going-to-the-Sun Road, Glacier National Park",
+     "source_title": "3 Hikes Off The Sun Road"
     }
    ]
   },
@@ -49768,6 +49786,53 @@
    "source_reel_theme": "Illinois Route 66 road trip, Chicago to Springfield",
    "additional_sources": [],
    "note": "Coordinates: place record (40.020759, -89.483025). 101 Governor Oglesby St, downtown Elkhart. General store and tasting room for Illinois-made products in a historic building, with the large 'Elkhart Station Route 66 The Mother Road' mural on the rear brick wall; a Route 66 passport stamp location. Status caveat: one place record lists the store as permanently closed, though the operator's site still lists it — the mural is exterior and photographable either way."
+  },
+  {
+   "id": "st-mary-falls-mt",
+   "name": "St. Mary Falls",
+   "site": "Glacier National Park",
+   "city": "St. Mary",
+   "state": "Montana",
+   "state_code": "MT",
+   "country": "United States",
+   "region": "Mountain West",
+   "region_id": "mountain-west",
+   "lat": 48.667952,
+   "lng": -113.615434,
+   "google_maps_query": "St. Mary Falls, Glacier National Park, Montana",
+   "best_for": "Waterfall / Bright green pools below a 35-foot falls",
+   "recommendation": "A 35-foot waterfall pouring into bright green pools, under half a mile from the St. Mary Falls trailhead on Going-to-the-Sun Road — the first of the reel's 'two waterfalls' on the east side. Continue on to Virginia Falls for the full 3.6-mile round trip; rocks are slick.",
+   "source_reel": "https://www.instagram.com/reel/Df3Wi22gwPY/",
+   "source_title": "3 Hikes Off The Sun Road",
+   "source_creator": "@heyarnel",
+   "source_rank": 2,
+   "source_reel_theme": "3 hikes off Going-to-the-Sun Road, Glacier National Park",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/montana/st-mary-and-virginia-falls-trail",
+   "note": "Coordinates: waterfallhikes.com (48.667952, -113.615434), corroborated by the NPS place record (48.668024, -113.61599). Trailhead at 48.674307, -113.60872 on Going-to-the-Sun Road, 6.8 mi east of Logan Pass. Dogs not allowed; Going-to-the-Sun Road vehicle reservation required in peak season."
+  },
+  {
+   "id": "siyeh-pass-mt",
+   "name": "Siyeh Pass",
+   "site": "Glacier National Park",
+   "city": "St. Mary",
+   "state": "Montana",
+   "state_code": "MT",
+   "country": "United States",
+   "region": "Mountain West",
+   "region_id": "mountain-west",
+   "lat": 48.7165,
+   "lng": -113.6256667,
+   "google_maps_query": "Siyeh Pass, Glacier National Park, Montana",
+   "best_for": "Hike / High alpine pass through wildflower meadows",
+   "recommendation": "The big one: from Siyeh Bend, 2.2 miles east of Logan Pass, the trail climbs through Preston Park's wildflower meadows to Siyeh Pass at about 8,000 feet. 8.9 miles out-and-back with about 2,100 feet of climb; continuing 5.6 more miles down to Sunrift Gorge needs a ride, and snow can close the pass.",
+   "source_reel": "https://www.instagram.com/reel/Df3Wi22gwPY/",
+   "source_title": "3 Hikes Off The Sun Road",
+   "source_creator": "@heyarnel",
+   "source_rank": 3,
+   "source_reel_theme": "3 hikes off Going-to-the-Sun Road, Glacier National Park",
+   "additional_sources": [],
+   "note": "Coordinates: annestravels.net GPS list for Siyeh Pass (48.7165, -113.6256667), 8,048 ft; USGS GNIS gap point nearby (48.72064, -113.62886). Trailhead at Siyeh Bend, 2.2 mi east of Logan Pass (48.70145, -113.66959). 8.9 mi out-and-back, ~2,100 ft gain; point-to-point option continues 5.6 mi down to Sunrift Gorge (needs a ride). Snow can close the pass; check trail status first."
   }
  ],
  "updated": "2026-11-18",
