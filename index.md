@@ -18,7 +18,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Southwest Region — 164 places](#southwest)
 - [Mountain West Region — 96 places](#mountain-west)
 - [West Region — 158 places](#west)
-- [Pacific Northwest Region — 74 places](#pacific-northwest)
+- [Pacific Northwest Region — 75 places](#pacific-northwest)
 - [Alaska Region — 39 places](#alaska)
 - [Hawaii Region — 9 places](#hawaii)
 - [U.S. Territories Region — 3 places](#u.s.-territories)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 83 · Southeast 175 · Midwest 147 · Southwest 164 · Mountain West 96 · West 158 · Pacific Northwest 74 · Alaska 39 · Hawaii 9 · U.S. Territories 3 · **Total 948**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 83 · Southeast 175 · Midwest 147 · Southwest 164 · Mountain West 96 · West 158 · Pacific Northwest 75 · Alaska 39 · Hawaii 9 · U.S. Territories 3 · **Total 949**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -14174,7 +14174,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Pacific Northwest Region {#pacific-northwest}
 
-**74 places · Oregon, Washington**
+**75 places · Oregon, Washington**
 
 <details><summary><b>Oregon</b> — 16 places</summary>
 <h4>Alvord Desert</h4>
@@ -14443,7 +14443,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 
-<details><summary><b>Washington</b> — 58 places</summary>
+<details><summary><b>Washington</b> — 59 places</summary>
 <h4>Alpine Lakes Wilderness</h4>
 <h5>Hike</h5>
 <ul>
@@ -15142,10 +15142,26 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Olympic National Forest</h4>
+<h5>Hike</h5>
+<ul>
+<li><b>54. <a href="https://www.google.com/maps/search/?api=1&query=Ranger Hole Trail, Olympic National Forest, Brinnon, Washington">Ranger Hole Trail</a></b> — Olympic National Forest, Brinnon
+<ul>
+<li><b>Best for:</b> Hike / Easy forest trail to a turquoise river gorge — A short, easy forest trail in Olympic National Forest to a dramatic stretch of the Duckabush River, where turquoise water rushes through a narrow rocky gorge into a deep pool. Starts at the historic 1907 Interrorem Cabin; the 0.3-mile Interrorem Nature Trail loop behind the cabin is wheelchair-accessible.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/ranger-hole-trail--3">Trail page</a></li>
+<li>Coordinates: USFS official place record for Ranger Hole Trailhead (47.681271, -122.994096); the Ranger Hole pool itself is at N47 40.499 W122 59.830 (Explore Hood Canal). 1.85 miles round trip per the reel (AllTrails lists 1.6 mi); 292 ft gain; dogs on leash; Northwest Forest Pass or America the Beautiful Pass required; vault toilet at the trailhead. From US-101, turn onto Duckabush Road (FS 2510) and drive ~3.6 miles to the trailhead next to the historic Interrorem Cabin (built 1907, Olympic National Forest&#x27;s first administrative site). The 0.3-mi Interrorem Nature Trail loop behind the cabin is wheelchair-accessible. Strong currents — do not enter the river.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/Df3CA6Bv0tv/">Ranger Hole Trail — the bluest river in the Olympic Peninsula</a> by @giselle.on.trails (#1 in that reel)</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Olympic National Park</h4>
 <h5>Beach</h5>
 <ul>
-<li><b>54. <a href="https://www.google.com/maps/search/?api=1&query=Beach+4+Olympic+National+Park+WA">Beach 4</a></b> — Olympic National Park, Kalaloch
+<li><b>55. <a href="https://www.google.com/maps/search/?api=1&query=Beach+4+Olympic+National+Park+WA">Beach 4</a></b> — Olympic National Park, Kalaloch
 <ul>
 <li><b>Best for:</b> Beach / Kalaloch tide pools — Rated 9/10 in Kelley &amp; Carl&#x27;s Washington hike ratings: Beach 4 on Olympic&#x27;s Kalaloch coast, where a short steep trail drops to some of the park&#x27;s best tide pools among folded rock outcrops at low tide.</li>
 <li>Coordinates from the NPS Kalaloch Beach 4 place record.</li>
@@ -15159,7 +15175,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>55. <a href="https://www.google.com/maps/search/?api=1&query=Rialto+Beach+Olympic+National+Park+WA">Rialto Beach</a></b> — Olympic National Park, La Push
+<li><b>56. <a href="https://www.google.com/maps/search/?api=1&query=Rialto+Beach+Olympic+National+Park+WA">Rialto Beach</a></b> — Olympic National Park, La Push
 <ul>
 <li><b>Best for:</b> Beach / Sea stacks and driftwood wilderness coast — An Olympic must-see on Kelley &amp; Carl&#x27;s Pacific Northwest road trip — Rialto Beach, the wild Pacific shore of sea stacks, drift logs and the walk north to Hole-in-the-Wall.</li>
 </ul>
@@ -15173,7 +15189,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>56. <a href="https://www.google.com/maps/search/?api=1&query=Ruby+Beach+Olympic+National+Park+WA">Ruby Beach</a></b> — Olympic National Park, Kalaloch
+<li><b>57. <a href="https://www.google.com/maps/search/?api=1&query=Ruby+Beach+Olympic+National+Park+WA">Ruby Beach</a></b> — Olympic National Park, Kalaloch
 <ul>
 <li><b>Best for:</b> Beach / Sea stacks and driftwood on the Olympic coast — Rated 6/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes: Ruby Beach, the Olympic coast icon — sea stacks, driftwood-strewn sand and Abbey Island just offshore, off US-101 near Kalaloch.</li>
 <li>Pin is the OSM Ruby Beach point on the Olympic coast.</li>
@@ -15194,7 +15210,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>57. <a href="https://www.google.com/maps/search/?api=1&query=Hall+of+Mosses+Hoh+Rain+Forest+Olympic+National+Park+WA">Hall of Mosses</a></b> — Olympic National Park, Forks
+<li><b>58. <a href="https://www.google.com/maps/search/?api=1&query=Hall+of+Mosses+Hoh+Rain+Forest+Olympic+National+Park+WA">Hall of Mosses</a></b> — Olympic National Park, Forks
 <ul>
 <li><b>Best for:</b> Hike / Giant trees · Moss-draped rainforest loop in the Hoh Rain Forest — Ranked #3 of the carousel&#x27;s 10 hikes among giant trees: a 0.8-mile loop through the Hoh Rain Forest&#x27;s moss-covered giants in Olympic National Park, Washington. (Kelley &amp; Carl&#x27;s National Park Checklist lists the same Hall of Mosses Trail: 1.1 miles, 80 ft gain, rated easy.)</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/hoh-rain-forest-hall-of-moss">Trail page</a></li>
@@ -15225,7 +15241,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>58. <a href="https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA">Klahhane Ridge</a></b> — Olympic National Park, Port Angeles
+<li><b>59. <a href="https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA">Klahhane Ridge</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Hike — Ranked #3, with lush green alpine ridges, distant snow-capped peaks, a grazing deer and a distant black bear.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/klahhane-ridge-via-switchback-trail--2">Trail page</a></li>
@@ -15237,7 +15253,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>59. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA">Mount Storm King</a></b> — Olympic National Park, Olympic National Park
+<li><b>60. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA">Mount Storm King</a></b> — Olympic National Park, Olympic National Park
 <ul>
 <li><b>Best for:</b> Hike / Adrenaline — His #5 adrenaline hike: rocky trail footage, a hiker using a blue rope on a steep dirt section, and sweeping views of Lake Crescent below.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/mount-storm-king">Trail page</a></li>
@@ -15264,7 +15280,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>60. <a href="https://www.google.com/maps/search/?api=1&query=One+Square+Inch+of+Silence+Hoh+Rainforest+WA">One Square Inch of Silence</a></b> — Olympic National Park, Forks
+<li><b>61. <a href="https://www.google.com/maps/search/?api=1&query=One+Square+Inch+of+Silence+Hoh+Rainforest+WA">One Square Inch of Silence</a></b> — Olympic National Park, Forks
 <ul>
 <li><b>Best for:</b> Hike / Quietest spot in the US in the Hoh Rainforest — One of the quietest spots in the US, identified by acoustic ecologist Gordon Hempton: a small red stone on a moss-covered log in the Hoh Rainforest, about 3.2 miles up the Hoh River Trail from the visitor center — three miles from any road, with no cars, planes or human noise. The point of the project: protect one square inch of silence and the quiet radiates outward.</li>
 <li>Coordinates: 47.86598,-123.87035 (47°51.959&#x27;N, 123°52.221&#x27;W) per NPCA, Sierra Club and Orion, and a 2020 field visit (47.86576,-123.87009). Several sites copy a different figure, 48.12885,-123.68234 — that point is ~30 km away and not on the Hoh River Trail, so it was not used. No distinct AllTrails trail for the spot itself (it lies on the Hoh River Trail).</li>
@@ -15278,7 +15294,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hiking</h5>
 <ul>
-<li><b>61. <a href="https://www.google.com/maps/search/?api=1&query=Hurricane+Hill+Olympic+National+Park+WA">Hurricane Hill</a></b> — Olympic National Park, Port Angeles
+<li><b>62. <a href="https://www.google.com/maps/search/?api=1&query=Hurricane+Hill+Olympic+National+Park+WA">Hurricane Hill</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Hiking / Wildflower ridge at Hurricane Ridge — An Olympic must-see on Kelley &amp; Carl&#x27;s Pacific Northwest road trip — the Hurricane Hill Trail at Hurricane Ridge, an easy paved climb to wildflower meadows and strait-to-mountains views.</li>
 <li>Pin is the Hurricane Hill Trailhead at Hurricane Ridge (a bare-name geocode returned a same-named hill in Utah and was rejected).</li>
@@ -15295,7 +15311,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Lake</h5>
 <ul>
-<li><b>62. <a href="https://www.google.com/maps/search/?api=1&query=Lake+Crescent+Olympic+National+Park+WA">Lake Crescent</a></b> — Olympic National Park, Port Angeles
+<li><b>63. <a href="https://www.google.com/maps/search/?api=1&query=Lake+Crescent+Olympic+National+Park+WA">Lake Crescent</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Lake / Glacially carved sapphire lake — One of Kelley &amp; Carl&#x27;s 10 most beautiful lakes in the USA: Lake Crescent in Olympic National Park, a 624-foot-deep glacial lake of famously clear blue water along Highway 101 — view it from the shore pullouts or from the very difficult Mount Storm King climb above it. (Their caption spells it &#x27;Crescent Lake&#x27;; the lake&#x27;s name is Lake Crescent.)</li>
 <li>Coordinates are the published lake-center point.</li>
@@ -15311,7 +15327,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Overlooked view</h5>
 <ul>
-<li><b>63. <a href="https://www.google.com/maps/search/?api=1&query=Olympic+National+Park+Olympic+National+Park+WA">Olympic National Park</a></b> — Olympic National Park, Port Angeles
+<li><b>64. <a href="https://www.google.com/maps/search/?api=1&query=Olympic+National+Park+Olympic+National+Park+WA">Olympic National Park</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Overlooked view / View — Caption calls Olympic&#x27;s best part overlooked. From a rocky mountain overlook, the video pans across moss- and lichen-covered rock, deep evergreen valleys, and distant snow-capped ranges; on-screen text reads, &#x27;So many people miss this part of Olympic...&#x27; No specific trail or overlook is named.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point in the park interior.</li>
@@ -15334,7 +15350,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Rainforest</h5>
 <ul>
-<li><b>64. <a href="https://www.google.com/maps/search/?api=1&query=Hoh Rainforest, Olympic National Park, Forks, Washington">Hoh Rainforest</a></b> — Olympic National Park, Forks
+<li><b>65. <a href="https://www.google.com/maps/search/?api=1&query=Hoh Rainforest, Olympic National Park, Forks, Washington">Hoh Rainforest</a></b> — Olympic National Park, Forks
 <ul>
 <li><b>Best for:</b> Rainforest — The Hoh Rainforest stop on their Pacific Northwest road trip — one of the largest temperate rainforests in the US, moss-draped Sitka spruce and bigleaf maples around the Hoh visitor center.</li>
 <li>Coordinates: NPS Hoh Rain Forest Visitor Center, 18113 Upper Hoh Rd, Forks (47.860821, -123.934863).</li>
@@ -15348,7 +15364,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>65. <a href="https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA">Tree of Life (Kalaloch Beach)</a></b> — Olympic National Park, Kalaloch
+<li><b>66. <a href="https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA">Tree of Life (Kalaloch Beach)</a></b> — Olympic National Park, Kalaloch
 <ul>
 <li><b>Best for:</b> Viewpoint — Big Bat Billy&#x27;s stop: the Tree of Life at Kalaloch Beach in Olympic National Park — the famous Sitka spruce that keeps growing over an eroded gully, its roots exposed in a root cave beneath it, right on the beach.</li>
 <li>Coordinates from published references for the Tree of Life itself, at the north end of Kalaloch Beach by the campground — the tree is not a mapped OpenStreetMap feature (the beach&#x27;s OSM point sits ~1.5 miles south).</li>
@@ -15367,7 +15383,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>66. <a href="https://www.google.com/maps/search/?api=1&query=Madison+Falls+Olympic+National+Park+WA">Madison Falls</a></b> — Olympic National Park, Port Angeles
+<li><b>67. <a href="https://www.google.com/maps/search/?api=1&query=Madison+Falls+Olympic+National+Park+WA">Madison Falls</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Waterfall / Tiny paved stroll to a horsetail falls in the Elwha Valley — Rated just 4/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes — their lowest Washington score: Madison Falls is a very short paved walk in the Elwha Valley to a slender waterfall. Pretty, but over in minutes.</li>
 <li>Pin is the OSM Madison Falls point in the Elwha River valley.</li>
@@ -15382,7 +15398,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>67. <a href="https://www.google.com/maps/search/?api=1&query=Marymere+Falls+Trail+Olympic+National+Park+WA">Marymere Falls Trail</a></b> — Olympic National Park, Port Angeles
+<li><b>68. <a href="https://www.google.com/maps/search/?api=1&query=Marymere+Falls+Trail+Olympic+National+Park+WA">Marymere Falls Trail</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Waterfall / 90-foot falls in old-growth forest by Lake Crescent — Rated 7/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes: the easy forest walk from the Storm King Ranger Station at Lake Crescent to Marymere Falls, pouring 90 ft down a mossy cliff.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/marymere-falls-trail">Trail page</a></li>
@@ -15401,7 +15417,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>68. <a href="https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA">Sol Duc Falls</a></b> — Olympic National Park, Sol Duc
+<li><b>69. <a href="https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA">Sol Duc Falls</a></b> — Olympic National Park, Sol Duc
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #3 waterfall, plunging into a mossy gorge and viewed from a bridge.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/sol-duc-falls-nature-trail">Trail page</a></li>
@@ -15430,7 +15446,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Olympic National Park (Rialto Beach)</h4>
 <h5>Hiking</h5>
 <ul>
-<li><b>69. <a href="https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Olympic+National+Park+(Rialto+Beach)+WA">Hole-in-the-Wall</a></b> — Olympic National Park (Rialto Beach), La Push
+<li><b>70. <a href="https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Olympic+National+Park+(Rialto+Beach)+WA">Hole-in-the-Wall</a></b> — Olympic National Park (Rialto Beach), La Push
 <ul>
 <li><b>Best for:</b> Hiking / Sea arch carved through a headland, reached at low tide — One of Kelley &amp; Carl&#x27;s Olympic coast picks in their most-diverse-park reel: Hole-in-the-Wall, a sea arch punched through a rocky headland about 1.5 miles north of Rialto Beach — another great one at low tide, when the tide pools around it come alive.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/hole-in-the-wall-trail">Trail page</a></li>
@@ -15447,7 +15463,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Palouse to Cascades State Park Trail</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>70. <a href="https://www.google.com/maps/search/?api=1&query=Snoqualmie+Tunnel+Hyak+WA">Snoqualmie Tunnel</a></b> — Palouse to Cascades State Park Trail, Hyak
+<li><b>71. <a href="https://www.google.com/maps/search/?api=1&query=Snoqualmie+Tunnel+Hyak+WA">Snoqualmie Tunnel</a></b> — Palouse to Cascades State Park Trail, Hyak
 <ul>
 <li><b>Best for:</b> Hike / 2.3-mile rail tunnel walk under Snoqualmie Pass — An old railroad tunnel over two miles long through the mountains, now open for walking or biking on the Palouse to Cascades State Park Trail from Hyak. It is pitch dark and about 50°F inside, so bring a strong headlamp and a jacket, and a Discover Pass to park. It closes November 1st for ice — save this one for spring.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/john-wayne-pioneer-trail-snoqualmie-tunnel">Trail page</a></li>
@@ -15463,7 +15479,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Ross Lake National Recreation Area</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>71. <a href="https://www.google.com/maps/search/?api=1&query=Ross+Lake+Overlook+Ross+Lake+National+Recreation+Area+WA">Ross Lake Overlook</a></b> — Ross Lake National Recreation Area, Rockport
+<li><b>72. <a href="https://www.google.com/maps/search/?api=1&query=Ross+Lake+Overlook+Ross+Lake+National+Recreation+Area+WA">Ross Lake Overlook</a></b> — Ross Lake National Recreation Area, Rockport
 <ul>
 <li><b>Best for:</b> Viewpoint / Ross Lake and Colonial Peak from a Highway 20 pullout — A don&#x27;t-miss Highway 20 stop in Kelley &amp; Carl&#x27;s North Cascades mini guide: the Ross Lake Overlook near milepost 135, looking down the glacier-blue length of Ross Lake toward Colonial and Pyramid peaks.</li>
 <li>Coordinates from the NPS place record for Ross Lake Overlook.</li>
@@ -15478,7 +15494,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>72. <a href="https://www.google.com/maps/search/?api=1&query=Gorge+Creek+Falls+Ross+Lake+National+Recreation+Area+WA">Gorge Creek Falls</a></b> — Ross Lake National Recreation Area, Rockport
+<li><b>73. <a href="https://www.google.com/maps/search/?api=1&query=Gorge+Creek+Falls+Ross+Lake+National+Recreation+Area+WA">Gorge Creek Falls</a></b> — Ross Lake National Recreation Area, Rockport
 <ul>
 <li><b>Best for:</b> Waterfall / 242-ft cascade visible from the Highway 20 Gorge Lake bridge — A don&#x27;t-miss stop in Kelley &amp; Carl&#x27;s North Cascades mini guide: Gorge Creek Falls, a 242-foot cascade pouring into Gorge Lake, viewed from the overlooks at the ends of the Highway 20 bridge.</li>
 <li>Coordinates from waterfallhikes.com&#x27;s Gorge Creek Falls record.</li>
@@ -15490,7 +15506,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>73. <a href="https://www.google.com/maps/search/?api=1&query=Ladder+Creek+Falls+Ross+Lake+National+Recreation+Area+WA">Ladder Creek Falls</a></b> — Ross Lake National Recreation Area, Newhalem
+<li><b>74. <a href="https://www.google.com/maps/search/?api=1&query=Ladder+Creek+Falls+Ross+Lake+National+Recreation+Area+WA">Ladder Creek Falls</a></b> — Ross Lake National Recreation Area, Newhalem
 <ul>
 <li><b>Best for:</b> Waterfall / Garden waterfall behind the Gorge Powerhouse, lit in color at night — A don&#x27;t-miss stop in Kelley &amp; Carl&#x27;s North Cascades mini guide: Ladder Creek Falls in Newhalem, a tiered waterfall behind the Gorge Powerhouse reached by a short garden loop — and illuminated in changing colors after dark, a Seattle City Light tradition since the 1920s.</li>
 <li>Coordinates from the USGS GNIS record via TopoQuest, agreeing with waterfallhikes.com.</li>
@@ -15506,7 +15522,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>The Enchantments (Alpine Lakes Wilderness)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>74. <a href="https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA">Colchuck Lake</a></b> — The Enchantments (Alpine Lakes Wilderness), Leavenworth
+<li><b>75. <a href="https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA">Colchuck Lake</a></b> — The Enchantments (Alpine Lakes Wilderness), Leavenworth
 <ul>
 <li><b>Best for:</b> Hike — Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It&#x27;s a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/colchuck-lake-via-stuart-lake-trail">Trail page</a></li>
@@ -18610,6 +18626,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Five iconic Upper Peninsula hikes for National Hiking Day: Chapel Loop at Pictured Rocks, the Escarpment Trail above Lake of the Clouds, Drummond Island Heritage Trail, Estivant Pines' old-growth white pines near Copper Harbor, and Sugarloaf Mountain above Marquette.
 - **[Deadman's Cove — Washington's most beautiful and dangerous beach](https://www.instagram.com/reel/Df3Yt7ytJZL/)** — @kevin.went.there · 1 places · Theme: Deadman's Cove, Cape Disappointment State Park, Washington
   - What the reel recommends: Deadman's Cove at Cape Disappointment State Park — Washington's most beautiful and most dangerous public beach, a secluded cove with a lone tree-topped sea stack at the mouth of the Columbia River, named for shipwreck victims whose bodies washed ashore.
+- **[Ranger Hole Trail — the bluest river in the Olympic Peninsula](https://www.instagram.com/reel/Df3CA6Bv0tv/)** — @giselle.on.trails · 1 places · Theme: Ranger Hole Trail, Duckabush River, Olympic National Forest
+  - What the reel recommends: Ranger Hole Trail in Olympic National Forest — a short, easy forest trail from the historic 1907 Interrorem Cabin to a turquoise stretch of the Duckabush River rushing through a narrow rocky gorge into a deep pool, one of the bluest rivers in the Pacific Northwest.
 
 ## How this page is updated {#how-this-page-is-updated}
 
