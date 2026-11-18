@@ -19436,6 +19436,28 @@
    "places_count": 6,
    "duplicate_place": false,
    "recommendation_summary": "Episode 3 of her Oregon Coast itinerary, north to south: God's Thumb via the Knoll Trail in Lincoln City, whale watching at Depoe Bay, Otter Crest Viewpoint, Yaquina Head Lighthouse and Cobble Beach, then Newport — clam chowder at the Chowder Bowl, a walk on Nye Beach, and the sea lions at the bayfront docks."
+  },
+  {
+   "url": "https://www.instagram.com/reel/Df40D5oukNG/",
+   "title": "Illinois on Route 66 in 30 seconds",
+   "creator": "@vishakha.stl",
+   "creator_name": "Vishakha",
+   "theme": "Illinois Route 66 road trip, Chicago to Springfield",
+   "posted": "2026-11-18",
+   "added": "2026-11-18",
+   "place_ids": [
+    "route-66-begin-sign-il",
+    "illinois-rock-and-roll-museum-il",
+    "gemini-giant-il",
+    "amblers-texaco-gas-station-il",
+    "standard-oil-gas-station-odell-il",
+    "route-66-hall-of-fame-museum-il",
+    "memory-lane-lexington-il",
+    "elkhart-station-il"
+   ],
+   "places_count": 8,
+   "duplicate_place": false,
+   "recommendation_summary": "Illinois on Route 66 in 30 seconds — 300 miles from Chicago to Springfield: the Begin sign, Joliet's Rock & Roll Museum, the Gemini Giant in Wilmington, the historic gas stations of Dwight and Odell, Pontiac's Hall of Fame Museum, Memory Lane in Lexington, and Elkhart Station. Restaurants named in the reel (Cozy Dog, Dell Rhea's Chicken Basket, Polk-A-Dot, Nelly's, Lambert's 1957, Route 66 Soda Bar) are not pinned, per the restaurant precedent."
   }
  ]
 }
