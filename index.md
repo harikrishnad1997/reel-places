@@ -10035,6 +10035,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/Dfc7s0XMtxX/">Places in the USA you need to visit before you die</a> by @tedsalwaystraveling</li>
 <li><a href="https://www.instagram.com/p/DL_UcSJR05M/">10 nature places that aren&#x27;t national parks</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DMQUxwostga/">Cascade Falls, Ouray — Colorado is built different</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Df0riZ4NhRm/">Ice Lake Basin — hikes to do before your knees give out, Ep. 7</a> by @lafftravel</li>
 </ul>
 </details>
 </li>
@@ -18503,6 +18504,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Clifty Falls State Park near Madison — a deep limestone gorge with four named waterfalls: Tunnel Falls (83 ft, the tallest), Hoffman Falls (78 ft), and Big and Little Clifty (60 ft each); creeks run fullest from late fall through spring.
 - **[Walk through a moonscape — Trail of the Molten Land, Newberry National Volcanic Monument](https://www.instagram.com/reel/Df2Ih0HNpBj/)** — @mattandkarensmith · 1 places · Theme: Trail of the Molten Land — Newberry National Volcanic Monument
   - What the reel recommends: Trail of the Molten Land in Newberry National Volcanic Monument near Bend — an easy paved trail through a 7,000-year-old basalt lava flow to the base of Lava Butte, where Apollo astronauts trained in the 1960s; open year round.
+- **[Ice Lake Basin — hikes to do before your knees give out, Ep. 7](https://www.instagram.com/reel/Df0riZ4NhRm/)** — @lafftravel · 1 places · Theme: Hikes to do before your knees give out — Ep. 7: Ice Lake Basin
+  - What the reel recommends: Ice Lake Basin near Silverton — turquoise Ice Lake and teal Island Lake above 12,000 ft in the San Juan Mountains; 7–8 miles round trip, ~2,800 ft of gain; summer or early fall, start early for thunderstorms.
 
 ## How this page is updated {#how-this-page-is-updated}
 
