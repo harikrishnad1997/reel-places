@@ -18840,6 +18840,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Illinois on Route 66 in 30 seconds — 300 miles from Chicago to Springfield: the Begin sign, Joliet's Rock & Roll Museum, the Gemini Giant in Wilmington, the historic gas stations of Dwight and Odell, Pontiac's Hall of Fame Museum, Memory Lane in Lexington, and Elkhart Station. Restaurants named in the reel (Cozy Dog, Dell Rhea's Chicken Basket, Polk-A-Dot, Nelly's, Lambert's 1957, Route 66 Soda Bar) are not pinned, per the restaurant precedent.
 - **[3 Hikes Off The Sun Road](https://www.instagram.com/reel/Df3Wi22gwPY/)** — @heyarnel · 4 places · Theme: 3 hikes off Going-to-the-Sun Road, Glacier National Park
   - What the reel recommends: Three hikes off Going-to-the-Sun Road in Glacier National Park: Avalanche Lake from the Trail of the Cedars, the St. Mary Falls and Virginia Falls pair on the east side, and Siyeh Pass — the big one, 8.9 miles to an 8,000-foot pass through Preston Park meadows.
+- **[DON'T MISS THIS!!](https://www.instagram.com/reel/Df5G6Zkvupl/)** — @kelleyandcarlsadventures · 1 places · Theme: Golden Gate Overlook, San Francisco
+  - What the reel recommends: Exact repost of their Nov 15 Golden Gate Overlook reel (DfycsxWPU0S, since deleted): the curved concrete plaza off Lincoln Boulevard in the Presidio, their absolute favorite view of the Golden Gate Bridge, with barely anybody there compared to the famous overlooks.
 
 ## How this page is updated {#how-this-page-is-updated}
 
