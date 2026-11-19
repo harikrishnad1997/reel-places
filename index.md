@@ -1428,6 +1428,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/reel/Df48H_Xvk0n/">8 places for your northern Alabama road trip</a> by @thisworldofadventure (#1 in that reel)</li>
+<li><a href="https://www.instagram.com/reel/DdmqS5dBE8p/">Dismals Canyon, Alabama — a place no one tells you about</a> by @thisworldofadventure</li>
 </ul>
 </details>
 </li>
@@ -19104,6 +19105,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Fall morning in Franconia Notch State Park, which she calls the prettiest state park in the USA: sunrise hike at Artist Bluff (1.5-mi loop, huge payoff over Echo Lake in fall), then fall colors from the water at Echo Lake at the foot of Cannon Mountain. Cloudland Falls (map label only) and Cannon Mountain (scenery) named only. Echo Lake Trail AllTrails page is the North Conway lake, not this one — no link.
 - **[Watchman Peak Trail, Crater Lake National Park — fire lookout over the deepest lake in the US](https://www.instagram.com/reel/Df56DYmNex3/)** — @organized_adventurer · 1 places · Theme: Watchman Peak Trail, Crater Lake National Park
   - What the reel recommends: Watchman Peak Trail in Crater Lake National Park — a 1.6-mi round trip with ~400 ft of gain to a 1930s fire lookout with panoramic views of Crater Lake (1,943 ft deep, the deepest lake in the US) and Wizard Island. Wizard Island (scenery only) named only.
+- **[Dismals Canyon, Alabama — a place no one tells you about](https://www.instagram.com/reel/DdmqS5dBE8p/)** — @thisworldofadventure · 1 places · Theme: Dismals Canyon, Alabama
+  - What the reel recommends: Dismals Canyon, Alabama — a hidden gem that feels like another world: towering moss-covered cliffs, waterfalls, massive boulders, and a creek winding through the canyon; easy hike through the canyon, and after dark in the right season the famous glow worms (Dismalites) light up the canyon walls.
 
 ## How this page is updated {#how-this-page-is-updated}
 
