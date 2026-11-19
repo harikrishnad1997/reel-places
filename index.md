@@ -2385,6 +2385,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/p/Der2jZzGNin/">The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)</a> by @discovery_matt (#5 in that reel)</li>
+<li><a href="https://www.instagram.com/reel/Df57zPRhw3N/">Upper Whitewater Falls, North Carolina — one of the tallest waterfalls east of the Rockies</a> by @followourcompass</li>
 </ul>
 </details>
 </li>
@@ -19066,6 +19067,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Tinkers Creek Gorge Scenic Overlook in Bedford Reservation — one of the most beautiful spots in Northeast Ohio even in stick season, just minutes outside Cuyahoga Valley National Park; the overlook begins directly at the parking lot, one of Ohio's most accessible views. 'After living in Ohio for 26 years, I wish I knew about this place sooner.'
 - **[Pictured Rocks National Lakeshore, Michigan — national park sites beyond the 64, part 1](https://www.instagram.com/reel/Df4vesVsZcf/)** — @lostwithlydia · 6 places · Theme: Pictured Rocks National Lakeshore mini-guide
   - What the reel recommends: Part 1 of her series on national park sites beyond the 64: Pictured Rocks National Lakeshore — sunset boat tour and kayaking beneath the 200-ft sandstone cliffs, the 10.5-mi Chapel Loop to Mosquito Falls and Chapel Falls, Miners Castle Overlook, and Munising Falls. Pictured Rocks Cruises (tour operator) named only. Munising Falls trail closed since April 2025, repairs expected through end of 2027.
+- **[Upper Whitewater Falls, North Carolina — one of the tallest waterfalls east of the Rockies](https://www.instagram.com/reel/Df57zPRhw3N/)** — @followourcompass · 1 places · Theme: Upper Whitewater Falls, North Carolina
+  - What the reel recommends: Upper Whitewater Falls near Cashiers, NC — a 411-ft waterfall in Nantahala National Forest, one of the tallest east of the Rockies: paved ¼-mi trail to the upper overlook (wheelchair accessible) or 154 stairs down to a second deck; $3 parking, 30–45 min. Lower Whitewater Falls in South Carolina (another ~400 ft) named only.
 
 ## How this page is updated {#how-this-page-is-updated}
 
