@@ -13235,6 +13235,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <ul>
 <li><a href="https://www.instagram.com/p/Da0j5peFlhS/">Could be the most underrated US National Park — Lassen Volcanic</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/De7XzkRJkcx/">An underrated road trip — Reno, Tahoe, volcanoes and redwoods</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Df7Zt8yAWHU/">Bumpass Hell, Lassen Volcanic National Park — looks more like Yellowstone than California</a> by @ptadventuring</li>
 </ul>
 </details>
 </li>
@@ -19069,6 +19070,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Part 1 of her series on national park sites beyond the 64: Pictured Rocks National Lakeshore — sunset boat tour and kayaking beneath the 200-ft sandstone cliffs, the 10.5-mi Chapel Loop to Mosquito Falls and Chapel Falls, Miners Castle Overlook, and Munising Falls. Pictured Rocks Cruises (tour operator) named only. Munising Falls trail closed since April 2025, repairs expected through end of 2027.
 - **[Upper Whitewater Falls, North Carolina — one of the tallest waterfalls east of the Rockies](https://www.instagram.com/reel/Df57zPRhw3N/)** — @followourcompass · 1 places · Theme: Upper Whitewater Falls, North Carolina
   - What the reel recommends: Upper Whitewater Falls near Cashiers, NC — a 411-ft waterfall in Nantahala National Forest, one of the tallest east of the Rockies: paved ¼-mi trail to the upper overlook (wheelchair accessible) or 154 stairs down to a second deck; $3 parking, 30–45 min. Lower Whitewater Falls in South Carolina (another ~400 ft) named only.
+- **[Bumpass Hell, Lassen Volcanic National Park — looks more like Yellowstone than California](https://www.instagram.com/reel/Df7Zt8yAWHU/)** — @ptadventuring · 1 places · Theme: Bumpass Hell, Lassen Volcanic National Park
+  - What the reel recommends: Bumpass Hell in Lassen Volcanic National Park — boiling mud pots, hissing steam vents and milky turquoise pools in the park's largest hydrothermal area; Big Boiler reaches nearly 320°F. ~3-mi round trip, ~300 ft gain, trail open early July through October; parking fills fast, sulfur smell. Lassen is one of California's most underrated parks.
 
 ## How this page is updated {#how-this-page-is-updated}
 
