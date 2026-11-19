@@ -14709,6 +14709,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/p/DQKNSv9CWTP/">10 of the best national park sunrise spots</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/DN6g2sIkulq/">10 epic national park hikes — Part 3</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/Dfsmb4bpW3R/">One of the most beautiful US Road Trips</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Df56DYmNex3/">Watchman Peak Trail, Crater Lake National Park — fire lookout over the deepest lake in the US</a> by @organized_adventurer</li>
 </ul>
 </details>
 </li>
@@ -19101,6 +19102,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Bumpass Hell in Lassen Volcanic National Park — boiling mud pots, hissing steam vents and milky turquoise pools in the park's largest hydrothermal area; Big Boiler reaches nearly 320°F. ~3-mi round trip, ~300 ft gain, trail open early July through October; parking fills fast, sulfur smell. Lassen is one of California's most underrated parks.
 - **[Artist Bluff + Echo Lake, Franconia Notch State Park — fall sunrise over the lake](https://www.instagram.com/reel/DfzrNNLPn7f/)** — @thisworldofadventure · 3 places · Theme: Artist Bluff + Echo Lake, Franconia Notch State Park
   - What the reel recommends: Fall morning in Franconia Notch State Park, which she calls the prettiest state park in the USA: sunrise hike at Artist Bluff (1.5-mi loop, huge payoff over Echo Lake in fall), then fall colors from the water at Echo Lake at the foot of Cannon Mountain. Cloudland Falls (map label only) and Cannon Mountain (scenery) named only. Echo Lake Trail AllTrails page is the North Conway lake, not this one — no link.
+- **[Watchman Peak Trail, Crater Lake National Park — fire lookout over the deepest lake in the US](https://www.instagram.com/reel/Df56DYmNex3/)** — @organized_adventurer · 1 places · Theme: Watchman Peak Trail, Crater Lake National Park
+  - What the reel recommends: Watchman Peak Trail in Crater Lake National Park — a 1.6-mi round trip with ~400 ft of gain to a 1930s fire lookout with panoramic views of Crater Lake (1,943 ft deep, the deepest lake in the US) and Wizard Island. Wizard Island (scenery only) named only.
 
 ## How this page is updated {#how-this-page-is-updated}
 
