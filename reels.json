@@ -19626,6 +19626,21 @@
    "places_count": 3,
    "duplicate_place": false,
    "recommendation_summary": "Fall morning in Franconia Notch State Park, which she calls the prettiest state park in the USA: sunrise hike at Artist Bluff (1.5-mi loop, huge payoff over Echo Lake in fall), then fall colors from the water at Echo Lake at the foot of Cannon Mountain. Cloudland Falls (map label only) and Cannon Mountain (scenery) named only. Echo Lake Trail AllTrails page is the North Conway lake, not this one — no link."
+  },
+  {
+   "url": "https://www.instagram.com/reel/Df56DYmNex3/",
+   "title": "Watchman Peak Trail, Crater Lake National Park — fire lookout over the deepest lake in the US",
+   "creator": "@organized_adventurer",
+   "creator_name": "Sarah + Tim | Adventure Travel Couple",
+   "theme": "Watchman Peak Trail, Crater Lake National Park",
+   "posted": "2026-11-18",
+   "added": "2026-11-19",
+   "place_ids": [
+    "watchman-peak-or"
+   ],
+   "places_count": 1,
+   "duplicate_place": true,
+   "recommendation_summary": "Watchman Peak Trail in Crater Lake National Park — a 1.6-mi round trip with ~400 ft of gain to a 1930s fire lookout with panoramic views of Crater Lake (1,943 ft deep, the deepest lake in the US) and Wizard Island. Wizard Island (scenery only) named only."
   }
  ]
 }
