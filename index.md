@@ -14,7 +14,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 85 places](#northeast)
 - [Southeast Region — 183 places](#southeast)
-- [Midwest Region — 162 places](#midwest)
+- [Midwest Region — 163 places](#midwest)
 - [Southwest Region — 165 places](#southwest)
 - [Mountain West Region — 98 places](#mountain-west)
 - [West Region — 158 places](#west)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 85 · Southeast 183 · Midwest 162 · Southwest 165 · Mountain West 98 · West 158 · Pacific Northwest 80 · Alaska 39 · Hawaii 9 · U.S. Territories 3 · **Total 982**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 85 · Southeast 183 · Midwest 163 · Southwest 165 · Mountain West 98 · West 158 · Pacific Northwest 80 · Alaska 39 · Hawaii 9 · U.S. Territories 3 · **Total 983**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -4475,7 +4475,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**162 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin**
+**163 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin**
 
 <details><summary><b>Illinois</b> — 40 places</summary>
 <h4>Adler Planetarium</h4>
@@ -6764,7 +6764,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 
-<details><summary><b>Wisconsin</b> — 15 places</summary>
+<details><summary><b>Wisconsin</b> — 16 places</summary>
 <h4>Amnicon Falls State Park</h4>
 <h5>Waterfall</h5>
 <ul>
@@ -6948,10 +6948,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Roaring Creek (Lost Falls Campground)</h4>
+<h5>Waterfall</h5>
+<ul>
+<li><b>160. <a href="https://www.google.com/maps/search/?api=1&query=Lost+Falls+Roaring+Creek+Black+River+Falls+WI">Lost Falls</a></b> — Roaring Creek (Lost Falls Campground), Black River Falls
+<ul>
+<li><b>Best for:</b> Waterfall / Wade — sandstone gorge creek with little waterfalls — A secret oasis near Black River Falls — a clear creek winding through a sandstone gorge, wading through the shallow water over smooth rocks past little waterfalls. The falls don&#x27;t show up on a simple Google Maps search (listed as permanently closed); the way in is to stay at Lost Falls Campground, whose guests get access to the creek. The same stay brings tubing and kayaking down the Black River, tent/camper sites, and log cabins — the cabins book in January each year, so be fast.</li>
+<li>Lost Falls is on Roaring Creek, which enters the Black River just downstream of Lost Falls Campground. The trail to the falls is on private land — access is for registered campers (day access via a $10 guest pass from the campground office); do not trespass. Campground: N2974 E Sunnyvale Rd, Black River Falls, WI 54615; 58 acres on the lower Black River, ~50 campsites, 2 group areas, 7 log cabins; open May 1–Sept 30; rents canoes, kayaks, SUPs and tubes. The falls sit upstream of the lower Roaring Creek Falls through a slot canyon; the Roaring Creek mouth is ~44.1717,-90.9172.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DeHyT7fMWCL/">Lost Falls near Black River Falls, Wisconsin — a secret oasis you reach through the campground</a> by @the.traveling.dvm</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Sunset Beach Park</h4>
 <h5>Sunset</h5>
 <ul>
-<li><b>160. <a href="https://www.google.com/maps/search/?api=1&query=Sunset+Beach+Park+Fish+Creek+WI">Sunset Beach Park</a></b> — Sunset Beach Park, Fish Creek
+<li><b>161. <a href="https://www.google.com/maps/search/?api=1&query=Sunset+Beach+Park+Fish+Creek+WI">Sunset Beach Park</a></b> — Sunset Beach Park, Fish Creek
 <ul>
 <li><b>Best for:</b> Sunset — Her #2 pick: the sun sets straight into Green Bay here — a rocky shore and grassy bluff where people gather to watch, with vivid red and purple skies reflected on the water.</li>
 <li>Coordinates: USGS GNIS via TopoQuest 45.128878,-87.25122; Mapcarta 45.12905,-87.25163 agrees.</li>
@@ -6966,7 +6981,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Wyalusing State Park</h4>
 <h5>Caves</h5>
 <ul>
-<li><b>161. <a href="https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI">Wyalusing State Park</a></b> — Wyalusing State Park, Bagley
+<li><b>162. <a href="https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI">Wyalusing State Park</a></b> — Wyalusing State Park, Bagley
 <ul>
 <li><b>Best for:</b> Caves / Stargazing — &#x27;This state park surprised us&#x27;: 14+ miles of trails with caves to explore, an astronomy center that&#x27;s perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.</li>
 <li>Pin is OpenStreetMap&#x27;s Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.</li>
@@ -6980,7 +6995,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>162. <a href="https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI">Old Immigrant &amp; Bluff Loop</a></b> — Wyalusing State Park, Bagley
+<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI">Old Immigrant &amp; Bluff Loop</a></b> — Wyalusing State Park, Bagley
 <ul>
 <li><b>Best for:</b> Hike — The creators&#x27; favorite trail in the park: the Old Immigrant &amp; Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wisconsin/old-immigrant-trail-and-bluff-trail-loop">Trail page</a></li>
@@ -19142,6 +19157,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Midewin National Tallgrass Prairie near Wilmington, IL — came for the bison, found ~100 abandoned WWII ammunition bunkers hidden in the prairie; bike the gravel Group 63 Trail loop to the bunkers, check with a ranger first on which are open (Bunker 63-1 is open).
 - **[Cold Water Falls, Tuscumbia — the world's largest man-made natural stone waterfall](https://www.instagram.com/reel/Df7yqBvu-Z9/)** — @laurenkayci · 1 places · Theme: Cold Water Falls — Tuscumbia Spring Park
   - What the reel recommends: Cold Water Falls at Tuscumbia's Spring Park — the world's largest man-made natural stone waterfall: 80 ft wide, 48 ft tall, built from 2,000 tons of local sandstone, ~4.3 million gallons daily, just steps from the parking lot on a paved accessible path. Park established 1919 around a natural spring.
+- **[Lost Falls near Black River Falls, Wisconsin — a secret oasis you reach through the campground](https://www.instagram.com/reel/DeHyT7fMWCL/)** — @the.traveling.dvm · 1 places · Theme: Lost Falls, Black River Falls, Wisconsin
+  - What the reel recommends: Lost Falls near Black River Falls, WI — a hidden oasis: a clear creek winding through a sandstone gorge, wading through shallow water over smooth rocks past little waterfalls. Listed as permanently closed on Google Maps, so the way in is to stay at Lost Falls Campground (registered campers get access); same stay offers Black River tubing/kayaking, tent and camper sites, and log cabins that book in January.
 
 ## How this page is updated {#how-this-page-is-updated}
 
