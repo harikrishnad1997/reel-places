@@ -19574,6 +19574,15 @@
      "source_reel": "https://www.instagram.com/p/Df2tHSHGHM3/",
      "source_reel_theme": "5 iconic hikes in Michigan's Upper Peninsula",
      "source_title": "5 Iconic Hikes in the Upper Peninsula"
+    },
+    {
+     "best_for": "Hike / 10.5-mi loop to Mosquito Falls and Chapel Falls",
+     "recommendation": "Her land-based pick for Pictured Rocks: the 10.5-mi Chapel Loop, hiking to Mosquito Falls and Chapel Falls with coastal rock formations, beaches, and waterfall views along the way.",
+     "source_creator": "@lostwithlydia",
+     "source_rank": 2,
+     "source_reel": "https://www.instagram.com/reel/Df4vesVsZcf/",
+     "source_reel_theme": "Pictured Rocks National Lakeshore mini-guide",
+     "source_title": "Pictured Rocks National Lakeshore, Michigan — national park sites beyond the 64, part 1"
     }
    ],
    "note": "Pin is Chapel Rock, on the loop's lakeshore section.",
@@ -21409,7 +21418,17 @@
    "source_creator": "@braden_vanham",
    "source_rank": null,
    "source_reel_theme": "Michigan fall / waterfalls",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Waterfall / Cascading falls on the Chapel Loop",
+     "recommendation": "One of the two falls on the Chapel Loop hike she recommends — a cascading falls on the loop, reached as part of the 10.5-mi hike.",
+     "source_creator": "@lostwithlydia",
+     "source_rank": 2,
+     "source_reel": "https://www.instagram.com/reel/Df4vesVsZcf/",
+     "source_reel_theme": "Pictured Rocks National Lakeshore mini-guide",
+     "source_title": "Pictured Rocks National Lakeshore, Michigan — national park sites beyond the 64, part 1"
+    }
+   ]
   },
   {
    "id": "wagner-falls-mi",
@@ -49185,7 +49204,17 @@
    "source_creator": "@ashleyemckee",
    "source_rank": 1,
    "source_reel_theme": "10 epic USA hikes",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "National park / Sunset boat tour, kayaking and the 10.5-mi Chapel Loop under 200-ft sandstone cliffs",
+     "recommendation": "Part 1 of her series on national park sites beyond the 64 — after visiting all 64 national parks, she's working toward all 433 NPS sites (130 so far). Her Pictured Rocks mini-guide: a sunset boat tour, a kayaking tour for a different perspective on the 200-ft sandstone cliffs, the 10.5-mi Chapel Loop hike, and the Miners Castle and Munising Falls overlooks. Best visited mid-May to September.",
+     "source_creator": "@lostwithlydia",
+     "source_rank": 1,
+     "source_reel": "https://www.instagram.com/reel/Df4vesVsZcf/",
+     "source_reel_theme": "Pictured Rocks National Lakeshore mini-guide",
+     "source_title": "Pictured Rocks National Lakeshore, Michigan — national park sites beyond the 64, part 1"
+    }
+   ],
    "note": "Coordinates: park coordinates per Wikipedia (46.56222, -86.31250). First national lakeshore in the US (1966), 73,236 acres, 42 mi of Lake Superior shoreline. Reel shows the lakeshore generally, no specific trail named — park-level pin."
   },
   {
@@ -50100,6 +50129,78 @@
    "source_reel_theme": "Northern Alabama road trip",
    "additional_sources": [],
    "note": "NRHP reference #84000610."
+  },
+  {
+   "id": "mosquito-falls-mi",
+   "name": "Mosquito Falls",
+   "site": "Pictured Rocks National Lakeshore",
+   "city": "Munising",
+   "state": "Michigan",
+   "state_code": "MI",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 46.51612,
+   "lng": -86.47762,
+   "google_maps_query": "Mosquito Falls, Pictured Rocks National Lakeshore, Michigan",
+   "best_for": "Waterfall / Small three-tier falls on the Chapel Loop",
+   "recommendation": "The first of the two falls on the Chapel Loop hike she recommends — a small, secluded waterfall pouring down three rock shelves (about 8 ft at the tallest drop) on the Mosquito River, ~0.9 mi from the Chapel-Mosquito trailhead. No dogs allowed on the trail; river otters and beavers live along the stream.",
+   "source_reel": "https://www.instagram.com/reel/Df4vesVsZcf/",
+   "source_title": "Pictured Rocks National Lakeshore, Michigan — national park sites beyond the 64, part 1",
+   "source_creator": "@lostwithlydia",
+   "source_rank": 2,
+   "source_reel_theme": "Pictured Rocks National Lakeshore mini-guide",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/michigan/mosquito-falls-from-chapel-road",
+   "note": "Coordinates: USGS Grand Portal Point 7.5′ quad (46°30′58″N 86°28′39″W). The longer 'Mosquito Falls and Mosquito Beach Loop' (4.7 mi) covers the same falls via the beach — named here, not linked."
+  },
+  {
+   "id": "miners-castle-overlook-mi",
+   "name": "Miners Castle Overlook",
+   "site": "Pictured Rocks National Lakeshore",
+   "city": "Munising",
+   "state": "Michigan",
+   "state_code": "MI",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 46.4954,
+   "lng": -86.551514,
+   "google_maps_query": "Miners Castle Overlook, Pictured Rocks National Lakeshore, Michigan",
+   "best_for": "Viewpoint / Drive-up cliff overlook over Lake Superior",
+   "recommendation": "The only place in the park where you can drive to overlooks on the cliff — a sandstone turret jutting into turquoise Lake Superior water, with Grand Island across the water. A short paved, wheelchair-accessible trail from the parking lot leads to three overlooks (about a 1/2-mi loop); stairs lead down to the lower overlook right by the castle.",
+   "source_reel": "https://www.instagram.com/reel/Df4vesVsZcf/",
+   "source_title": "Pictured Rocks National Lakeshore, Michigan — national park sites beyond the 64, part 1",
+   "source_creator": "@lostwithlydia",
+   "source_rank": 3,
+   "source_reel_theme": "Pictured Rocks National Lakeshore mini-guide",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/michigan/miners-castle-overlook",
+   "note": "Coordinates: NPS place record for Miners Castle Rock (46.4954, -86.551514). Not Miners Falls — that inland waterfall is a separate pin (miners-falls-mi). The North Country Scenic Trail passes through, with a 1-mi section down to Miners Beach."
+  },
+  {
+   "id": "munising-falls-mi",
+   "name": "Munising Falls",
+   "site": "Pictured Rocks National Lakeshore",
+   "city": "Munising",
+   "state": "Michigan",
+   "state_code": "MI",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 46.42278,
+   "lng": -86.62139,
+   "google_maps_query": "Munising Falls, Pictured Rocks National Lakeshore, Michigan",
+   "best_for": "Waterfall / 50-ft falls in a shaded sandstone canyon",
+   "recommendation": "A 50-foot waterfall dropping over a sandstone cliff into a shaded canyon on Munising Creek, right at the edge of town — normally a very short paved, wheelchair-accessible walk from the Munising Falls Visitor Center (1505 Sand Point Rd).",
+   "source_reel": "https://www.instagram.com/reel/Df4vesVsZcf/",
+   "source_title": "Pictured Rocks National Lakeshore, Michigan — national park sites beyond the 64, part 1",
+   "source_creator": "@lostwithlydia",
+   "source_rank": 4,
+   "source_reel_theme": "Pictured Rocks National Lakeshore mini-guide",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/michigan/munising-falls-trail",
+   "note": "CLOSED: the trail has been closed since April 2025, when storm runoff washed out ~75 ft of trail; AllTrails still lists it as [CLOSED] as of late October 2026, and there is no safe place to view the falls until it reopens — check NPS before visiting. Coordinates: Wikipedia (46°25′22″N 86°37′17″W)."
   }
  ],
  "updated": "2026-11-19",
