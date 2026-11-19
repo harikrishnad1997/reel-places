@@ -14432,7 +14432,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 2,
    "source_reel_theme": "Best Northeast state parks ranking",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "State park / Fall sunrise at Artist Bluff, then fall colors from Echo Lake",
+     "recommendation": "Her fall-morning pairing in the park she calls the prettiest state park in the USA — sunrise at Artist Bluff, then fall colors from the water at Echo Lake, both in one morning.",
+     "source_creator": "@thisworldofadventure",
+     "source_rank": 3,
+     "source_reel": "https://www.instagram.com/reel/DfzrNNLPn7f/",
+     "source_reel_theme": "Artist Bluff + Echo Lake, Franconia Notch State Park",
+     "source_title": "Artist Bluff + Echo Lake, Franconia Notch State Park — fall sunrise over the lake"
+    }
+   ]
   },
   {
    "id": "letchworth-state-park-ny",
@@ -50220,6 +50230,53 @@
    "additional_sources": [],
    "alltrails_url": "https://www.alltrails.com/trail/us/michigan/munising-falls-trail",
    "note": "CLOSED: the trail has been closed since April 2025, when storm runoff washed out ~75 ft of trail; AllTrails still lists it as [CLOSED] as of late October 2026, and there is no safe place to view the falls until it reopens — check NPS before visiting. Coordinates: Wikipedia (46°25′22″N 86°37′17″W)."
+  },
+  {
+   "id": "artist-bluff-nh",
+   "name": "Artist Bluff",
+   "site": "Franconia Notch State Park",
+   "city": "Franconia",
+   "state": "New Hampshire",
+   "state_code": "NH",
+   "country": "United States",
+   "region": "Northeast",
+   "region_id": "northeast",
+   "lat": 44.18112,
+   "lng": -71.69801,
+   "google_maps_query": "Artist Bluff Trail, Franconia Notch State Park, New Hampshire",
+   "best_for": "Hike / Short sunrise hike to a rocky ledge over Echo Lake",
+   "recommendation": "Her sunrise pick in the park she calls the prettiest state park in the USA — a short hike with a huge payoff, watching the sun come up over Echo Lake and light up the trees below. The 1.5-mi loop (with a 0.5-mi shortcut) climbs to a rocky ledge with views of Echo Lake, Cannon Mountain, and the notch; fall is the payoff season.",
+   "source_reel": "https://www.instagram.com/reel/DfzrNNLPn7f/",
+   "source_title": "Artist Bluff + Echo Lake, Franconia Notch State Park — fall sunrise over the lake",
+   "source_creator": "@thisworldofadventure",
+   "source_rank": 1,
+   "source_reel_theme": "Artist Bluff + Echo Lake, Franconia Notch State Park",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/new-hampshire/artist-bluff-trail",
+   "note": "Coordinates: meta.ai 'Artists Bluff' place record (44.18112, -71.69801). Hiker parking is off Rt 18 in the big dirt lot across from the Cannon Mountain base area — parking in the Echo Lake Beach lot is not permitted. The loop also climbs Bald Mountain (2,327 ft) — named here, not a separate pin. Trailhead parking at 44.178537, -71.696247."
+  },
+  {
+   "id": "echo-lake-franconia-nh",
+   "name": "Echo Lake (Franconia Notch)",
+   "site": "Franconia Notch State Park",
+   "city": "Franconia",
+   "state": "New Hampshire",
+   "state_code": "NH",
+   "country": "United States",
+   "region": "Northeast",
+   "region_id": "northeast",
+   "lat": 44.17528,
+   "lng": -71.69222,
+   "google_maps_query": "Echo Lake, Franconia Notch State Park, New Hampshire",
+   "best_for": "Lake / Fall colors from the water at the foot of Cannon Mountain",
+   "recommendation": "After the Artist Bluff hike, down to Echo Lake to see the fall colors from the water — a 38.2-acre lake at the foot of Cannon Mountain, with a beach, swimming, fishing, and kayak and pedal-boat rentals in season.",
+   "source_reel": "https://www.instagram.com/reel/DfzrNNLPn7f/",
+   "source_title": "Artist Bluff + Echo Lake, Franconia Notch State Park — fall sunrise over the lake",
+   "source_creator": "@thisworldofadventure",
+   "source_rank": 2,
+   "source_reel_theme": "Artist Bluff + Echo Lake, Franconia Notch State Park",
+   "additional_sources": [],
+   "note": "Coordinates: Wikipedia, Echo Lake (Franconia Notch) (44°10′31″N 71°41′32″W). Echo Lake Beach sits at the lake's north end (44.17793, -71.69469). NOT the Echo Lake in Echo Lake State Park, North Conway — that lake's AllTrails 'Echo Lake Trail' page (Cathedral Ledge, 0.9-mi loop) is a different lake ~17 miles away and is NOT linked here."
   }
  ],
  "updated": "2026-11-19",
