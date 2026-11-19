@@ -15355,7 +15355,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 5,
    "source_reel_theme": "Best Eastern U.S. waterfalls",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Waterfall / 411-ft falls with a stair descent or a no-stairs upper overlook",
+     "recommendation": "One of the tallest waterfalls east of the Rocky Mountains — Upper Whitewater Falls drops 411 feet in Nantahala National Forest near Cashiers. A paved ¼-mi trail from the parking lot reaches the upper observation deck (wheelchair accessible, uphill), or climb 154 stairs down to a second deck for another perspective. $3 day-use parking; plan 30–45 minutes for both overlooks. Stay on designated trails — rocks around the falls are extremely slippery and dangerous.",
+     "source_creator": "@followourcompass",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Df57zPRhw3N/",
+     "source_reel_theme": "Upper Whitewater Falls, North Carolina",
+     "source_title": "Upper Whitewater Falls, North Carolina — one of the tallest waterfalls east of the Rockies"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/north-carolina/upper-whitewater-falls-trail--2"
   },
   {
