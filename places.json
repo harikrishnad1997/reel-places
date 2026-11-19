@@ -50026,7 +50026,17 @@
    "source_creator": "@thisworldofadventure",
    "source_rank": 1,
    "source_reel_theme": "Northern Alabama road trip",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Hike / Moss-covered canyon with waterfalls and glow worms",
+     "recommendation": "A canyon that feels like another world — towering moss-covered cliffs, waterfalls, massive boulders, and a creek winding through the canyon floor. Take the easy hike through the canyon past the rock formations, and if you visit after dark in the right season, don't miss the famous glow worms (Dismalites) that light up the canyon walls.",
+     "source_creator": "@thisworldofadventure",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DdmqS5dBE8p/",
+     "source_reel_theme": "Dismals Canyon, Alabama",
+     "source_title": "Dismals Canyon, Alabama — a place no one tells you about"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/alabama/dismals-canyon",
    "note": "Coordinates: Wikipedia (34°19′30.65″N 87°46′54.21″W); official site gives 34°19′38″N 87°46′57″W. Admission is charged for the conservatory; everyone must register and get a wrist bracelet. No cell service past the parking lot — download the trail map first."
   },
