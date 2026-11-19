@@ -6106,6 +6106,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/reel/DfXMNFOBqaU/">Cleveland, Ohio looks like this?! Cleveland Metroparks highlights</a> by @hikingwithhykes</li>
+<li><a href="https://www.instagram.com/reel/DfzliGuha5j/">Tinkers Creek Gorge Scenic Overlook, Ohio</a> by @hikingwithhykes</li>
 </ul>
 </details>
 </li>
@@ -19019,6 +19020,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Cosmic Ashtray in Grand Staircase-Escalante — a natural sandstone amphitheater over 100 ft across with bright orange sand and a central boulder, reached by an unmarked cross-country hike; south trail ~4 mi RT (high-clearance 4x4 to the trailhead) or north trail ~9 mi RT; no markers or cell service, download a map first.
 - **[8 places for your northern Alabama road trip](https://www.instagram.com/reel/Df48H_Xvk0n/)** — @thisworldofadventure · 8 places · Theme: Northern Alabama road trip
   - What the reel recommends: Eight stops for a northern Alabama road trip: Dismals Canyon's mossy gorge, the 148-ft Natural Bridge, 90-ft Noccalula Falls, lakeside Guntersville town, Lake Guntersville State Park ziplining, Cathedral Caverns' giant cave, and the 125 miniatures of Ave Maria Grotto. City Harbor (waterfront dining/shopping) named only.
+- **[Tinkers Creek Gorge Scenic Overlook, Ohio](https://www.instagram.com/reel/DfzliGuha5j/)** — @hikingwithhykes · 1 places · Theme: Tinkers Creek Gorge Scenic Overlook, Ohio
+  - What the reel recommends: Tinkers Creek Gorge Scenic Overlook in Bedford Reservation — one of the most beautiful spots in Northeast Ohio even in stick season, just minutes outside Cuyahoga Valley National Park; the overlook begins directly at the parking lot, one of Ohio's most accessible views. 'After living in Ohio for 26 years, I wish I knew about this place sooner.'
 
 ## How this page is updated {#how-this-page-is-updated}
 
