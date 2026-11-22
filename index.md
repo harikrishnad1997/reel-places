@@ -3366,6 +3366,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <ul>
 <li><a href="https://www.instagram.com/p/C_drEFsv19J/">The Great Channels — Virginia&#x27;s sandstone labyrinth</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/Dfn69NutEFa/">Virginia has its own little slot canyon</a> by @lafftravel</li>
+<li><a href="https://www.instagram.com/reel/Df-G8FjyytM/">The Great Channels — Virginia&#x27;s most unusual hike</a> by @gotlost.onpurpose</li>
 </ul>
 </details>
 </li>
@@ -19176,6 +19177,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Lost Falls near Black River Falls, WI — a hidden oasis: a clear creek winding through a sandstone gorge, wading through shallow water over smooth rocks past little waterfalls. Listed as permanently closed on Google Maps, so the way in is to stay at Lost Falls Campground (registered campers get access); same stay offers Black River tubing/kayaking, tent and camper sites, and log cabins that book in January.
 - **[Whiteface Mountain, Adirondacks — drive up, climb the stone steps to a 4,867-ft summit](https://www.instagram.com/reel/Df7Wn7SBUFW/)** — @codiendrew · 1 places · Theme: Whiteface Mountain, Adirondack Mountains, New York
   - What the reel recommends: Whiteface Mountain in the Adirondacks — drive the Veterans' Memorial Highway almost to the 4,867-ft summit, then climb steep stone steps over rocky terrain (or take the elevator built inside the mountain); 360-degree views of the Adirondacks, Vermont, and Canada on a clear day. Summit temps can drop to -40°F with winds up to 120 mph.
+- **[The Great Channels — Virginia's most unusual hike](https://www.instagram.com/reel/Df-G8FjyytM/)** — @gotlost.onpurpose · 1 places · Theme: The Great Channels, Clinch Mountain, Virginia
+  - What the reel recommends: The most unusual hike in Virginia — the Great Channels atop Clinch Mountain, a natural labyrinth of narrow passageways between sandstone walls up to 40 ft tall, ~400 million years old. 6.5 miles out and back via the Brumley Mountain Trail, 1,263 ft of gain; parking is limited at the trailhead, so arrive early and park only in designated spaces; stay on designated trails in this protected natural area.
 
 ## How this page is updated {#how-this-page-is-updated}
 
