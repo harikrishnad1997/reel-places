@@ -15821,6 +15821,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/p/DOq9BX-iccN/">Olympic National Park in 2 days</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/DOMJyuGiR4J/">10 epic national park hikes — Part 5</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/Dfsmb4bpW3R/">One of the most beautiful US Road Trips</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/DgDK1kbAQ2r/">Mount Storm King — the most rewarding short hike in Olympic National Park</a> by @ptadventuring</li>
 </ul>
 </details>
 </li>
@@ -19216,6 +19217,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Just 3 hrs from Chicago — America's little Switzerland. New Glarus, Wisconsin, 40 min from Madison, looks magical in the snow and holiday season, with Swiss alpine-style architecture along Main Street. Save for a winter weekend trip. (The bakery, taverns, and shops shown — Bäckerei Konditorei, Puempel's Tavern, Kleeman's Bar & Grill — are named here only; restaurants and shops are not separate pins.)
 - **[Virmond County Park — Lake Michigan bluff views in Mequon, Wisconsin](https://www.instagram.com/reel/DgBptzRudCO/)** — @pinay_wandering · 1 places · Theme: Virmond County Park, Mequon, Wisconsin
   - What the reel recommends: One of the things I love about living in Wisconsin is discovering beautiful places I didn't know existed. Virmond County Park in Mequon — if you love lake views, don't skip this spot: a wooden boardwalk and staircase descends from the bluff-top overlook to a quiet Lake Michigan beach, with wide, expansive views across the water.
+- **[Mount Storm King — the most rewarding short hike in Olympic National Park](https://www.instagram.com/reel/DgDK1kbAQ2r/)** — @ptadventuring · 1 places · Theme: Mount Storm King, Olympic National Park, Washington
+  - What the reel recommends: One of the most rewarding short hikes in Olympic National Park — Mount Storm King: about 4 miles round trip with roughly 2,000 feet of gain, basically all of it steep, with fixed ropes helping up the last scramble to the overlook above Lake Crescent. Trail starts at the Storm King Ranger Station on Lake Crescent; the rope section is not managed by NPS, so take extra caution. Day 1 of their bucket-list national park hikes series. (Marymere Falls Trail is named here only as the shared first stretch — not attached.)
 
 ## How this page is updated {#how-this-page-is-updated}
 
