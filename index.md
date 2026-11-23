@@ -10948,6 +10948,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DNESzUAR2uM/">Grinnell Glacier Trail — turquoise water, epic mountains</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DfujOFHPor1/">Turquoise water + epic mountain scenery</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DfpQThCP9-8/">Top 5 National Park Road Trips</a> by @amorywild</li>
+<li><a href="https://www.instagram.com/reel/DgCepWMBqmn/">Grinnell Glacier Trail — the prettiest hike in mainland US?</a> by @lexilaube</li>
 </ul>
 </details>
 </li>
@@ -19179,6 +19180,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Whiteface Mountain in the Adirondacks — drive the Veterans' Memorial Highway almost to the 4,867-ft summit, then climb steep stone steps over rocky terrain (or take the elevator built inside the mountain); 360-degree views of the Adirondacks, Vermont, and Canada on a clear day. Summit temps can drop to -40°F with winds up to 120 mph.
 - **[The Great Channels — Virginia's most unusual hike](https://www.instagram.com/reel/Df-G8FjyytM/)** — @gotlost.onpurpose · 1 places · Theme: The Great Channels, Clinch Mountain, Virginia
   - What the reel recommends: The most unusual hike in Virginia — the Great Channels atop Clinch Mountain, a natural labyrinth of narrow passageways between sandstone walls up to 40 ft tall, ~400 million years old. 6.5 miles out and back via the Brumley Mountain Trail, 1,263 ft of gain; parking is limited at the trailhead, so arrive early and park only in designated spaces; stay on designated trails in this protected natural area.
+- **[Grinnell Glacier Trail — the prettiest hike in mainland US?](https://www.instagram.com/reel/DgCepWMBqmn/)** — @lexilaube · 1 places · Theme: Grinnell Glacier Trail, Glacier National Park, Montana
+  - What the reel recommends: The prettiest hike in mainland US — Grinnell Glacier Trail in Glacier National Park: 11.1 miles out and back, 2,073 ft of gain, 5–6 hours past turquoise lakes to a glacier feeding a milky-turquoise lake. Grizzly bears, black bears, and a moose on the trail — bring bear spray. Leave No Trace.
 
 ## How this page is updated {#how-this-page-is-updated}
 
