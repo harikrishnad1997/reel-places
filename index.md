@@ -14,7 +14,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 86 places](#northeast)
 - [Southeast Region — 183 places](#southeast)
-- [Midwest Region — 163 places](#midwest)
+- [Midwest Region — 164 places](#midwest)
 - [Southwest Region — 165 places](#southwest)
 - [Mountain West Region — 98 places](#mountain-west)
 - [West Region — 158 places](#west)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 86 · Southeast 183 · Midwest 163 · Southwest 165 · Mountain West 98 · West 158 · Pacific Northwest 80 · Alaska 39 · Hawaii 9 · U.S. Territories 3 · **Total 984**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 86 · Southeast 183 · Midwest 164 · Southwest 165 · Mountain West 98 · West 158 · Pacific Northwest 80 · Alaska 39 · Hawaii 9 · U.S. Territories 3 · **Total 985**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -4491,7 +4491,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**163 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin**
+**164 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin**
 
 <details><summary><b>Illinois</b> — 40 places</summary>
 <h4>Adler Planetarium</h4>
@@ -6780,7 +6780,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 
-<details><summary><b>Wisconsin</b> — 16 places</summary>
+<details><summary><b>Wisconsin</b> — 17 places</summary>
 <h4>Amnicon Falls State Park</h4>
 <h5>Waterfall</h5>
 <ul>
@@ -6871,10 +6871,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>New Glarus</h4>
+<h5>Town</h5>
+<ul>
+<li><b>154. <a href="https://www.google.com/maps/search/?api=1&query=New+Glarus+WI">New Glarus</a></b> — New Glarus, New Glarus
+<ul>
+<li><b>Best for:</b> Town / America&#x27;s Little Switzerland — Swiss architecture in winter — Just 3 hrs from Chicago — America&#x27;s little Switzerland. New Glarus, Wisconsin, looks magical in the snow and holiday season, with Swiss alpine-style architecture, chalet facades, and cow statues along Main Street; 40 min from Madison. Save for a winter weekend trip.</li>
+<li>Village in Green County, founded 1845 by settlers from the Canton of Glarus, Switzerland; Swiss-German dialect and traditional holidays still observed. The reel&#x27;s bakery, taverns, and shops (Bäckerei Konditorei, Puempel&#x27;s Tavern, Kleeman&#x27;s Bar &amp; Grill) are named here only — restaurants and shops are not separate pins.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DgDbftVoAqJ/">New Glarus, Wisconsin — America&#x27;s little Switzerland, 3 hrs from Chicago</a> by @trailsoftwo</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Newport State Park</h4>
 <h5>Stargazing · Dark sky park on Door County&#x27;s quiet side</h5>
 <ul>
-<li><b>154. <a href="https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Wisconsin">Newport State Park</a></b> — Newport State Park, Ellison Bay
+<li><b>155. <a href="https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Wisconsin">Newport State Park</a></b> — Newport State Park, Ellison Bay
 <ul>
 <li><b>Best for:</b> Stargazing · Dark sky park on Door County&#x27;s quiet side — From Midwest Living&#x27;s &#x27;20 Midwest Escapes for Epic Stargazing&#x27; — a pick for taking advantage of the longer nights to stargaze, learn astronomy, or spot the northern lights. Door County&#x27;s wilderness park on the Lake Michigan side — a designated dark sky park shown over a calm lake at night.</li>
 </ul>
@@ -6888,7 +6903,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Parfrey&#x27;s Glen State Natural Area</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>155. <a href="https://www.google.com/maps/search/?api=1&query=Parfreys+Glen+State+Natural+Area+Merrimac+WI">Parfrey&#x27;s Glen</a></b> — Parfrey&#x27;s Glen State Natural Area, Merrimac
+<li><b>156. <a href="https://www.google.com/maps/search/?api=1&query=Parfreys+Glen+State+Natural+Area+Merrimac+WI">Parfrey&#x27;s Glen</a></b> — Parfrey&#x27;s Glen State Natural Area, Merrimac
 <ul>
 <li><b>Best for:</b> Hike / Winter frozen gorge — Wisconsin&#x27;s first State Natural Area (1952) — a deep sandstone gorge in the Baraboo Hills, under a mile in, that turns into a frozen world in winter: icicles on the walls, the creek and waterfall turned to ice. The 1.7-mi out-and-back trail is moderate. Good to know: a Wisconsin State Park sticker is required, no dogs allowed, the small parking lot fills fast on weekends so come early, and bring cleats or microspikes in winter — the trail gets icy.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wisconsin/parfreys-glen">Trail page</a></li>
@@ -6904,7 +6919,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Pebble Beach</h4>
 <h5>Sunset</h5>
 <ul>
-<li><b>156. <a href="https://www.google.com/maps/search/?api=1&query=Pebble+Beach+Sister+Bay+WI">Pebble Beach</a></b> — Pebble Beach, Sister Bay
+<li><b>157. <a href="https://www.google.com/maps/search/?api=1&query=Pebble+Beach+Sister+Bay+WI">Pebble Beach</a></b> — Pebble Beach, Sister Bay
 <ul>
 <li><b>Best for:</b> Sunset — Her #3 pick: a small, secluded pebble shoreline in Sister Bay with clear water and smooth stones — a quieter, calmer sunset spot away from the crowds, with people wading along the shore.</li>
 <li>Coordinates: Mapcarta 45.18488,-87.15112; BeachGrade 45.1850,-87.1510 agrees.</li>
@@ -6919,7 +6934,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Peninsula State Park</h4>
 <h5>Fall colors</h5>
 <ul>
-<li><b>157. <a href="https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI">Eagle Tower</a></b> — Peninsula State Park, Fish Creek
+<li><b>158. <a href="https://www.google.com/maps/search/?api=1&query=Eagle+Tower+Peninsula+State+Park+Fish+Creek+WI">Eagle Tower</a></b> — Peninsula State Park, Fish Creek
 <ul>
 <li><b>Best for:</b> Fall colors / View — The reel&#x27;s headline stop: add Peninsula State Park in Door County to a Wisconsin trip for Eagle Tower, reached by a long wooden elevated walkway through autumn trees to panoramic views over Green Bay and the surrounding islands — at their best in fall color. Parking, restrooms and park information are right at the tower area.</li>
 <li>The reel says the views overlook Lake Michigan; the tower actually faces Green Bay (the bay between the Door Peninsula and mainland Wisconsin), with Horseshoe Island in view. Caption puts the park about a 5-hour drive from Chicago. The rebuilt tower (opened 2021) is reached by 95-100 stairs or an 850-foot accessible canopy ramp; Wisconsin DNR lists it open May 1-Oct 31.</li>
@@ -6934,7 +6949,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>158. <a href="https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI">Eagle Trail</a></b> — Peninsula State Park, Fish Creek
+<li><b>159. <a href="https://www.google.com/maps/search/?api=1&query=Eagle+Trail+Peninsula+State+Park+Fish+Creek+WI">Eagle Trail</a></b> — Peninsula State Park, Fish Creek
 <ul>
 <li><b>Best for:</b> Hike — Shown in the reel right after the tower: the trailhead sign marked &#x27;Difficult Trail&#x27; for the park&#x27;s Eagle Trail, a loop the narrator points viewers to for more scenic overlooks beyond Eagle Tower.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wisconsin/eagle-trail--2">Trail page</a></li>
@@ -6951,7 +6966,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Perrot State Park</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>159. <a href="https://www.google.com/maps/search/?api=1&query=Bradys+Bluff+Perrot+State+Park+WI">Brady&#x27;s Bluff</a></b> — Perrot State Park, Trempealeau
+<li><b>160. <a href="https://www.google.com/maps/search/?api=1&query=Bradys+Bluff+Perrot+State+Park+WI">Brady&#x27;s Bluff</a></b> — Perrot State Park, Trempealeau
 <ul>
 <li><b>Best for:</b> Viewpoint / Mississippi River bluff overlook with a CCC stone shelter — The Midwest Guide&#x27;s &#x27;11/10 bench in Wisconsin&#x27;: the reel opens on the weathered wooden bench set into the stacked-stone wall of the CCC-built shelter at the top of Brady&#x27;s Bluff, then pans across the Mississippi River valley in full fall color. The creator never named the spot (&#x27;Where am I?!&#x27;) — commenters identified it as Perrot State Park&#x27;s Brady&#x27;s Bluff, the park&#x27;s highest point, rising nearly 460 feet above the river with views to Trempealeau Mountain and Trempealeau Bay.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wisconsin/bradys-bluff-and-riverview-trail-loop">Trail page</a></li>
@@ -6967,7 +6982,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Roaring Creek (Lost Falls Campground)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>160. <a href="https://www.google.com/maps/search/?api=1&query=Lost+Falls+Roaring+Creek+Black+River+Falls+WI">Lost Falls</a></b> — Roaring Creek (Lost Falls Campground), Black River Falls
+<li><b>161. <a href="https://www.google.com/maps/search/?api=1&query=Lost+Falls+Roaring+Creek+Black+River+Falls+WI">Lost Falls</a></b> — Roaring Creek (Lost Falls Campground), Black River Falls
 <ul>
 <li><b>Best for:</b> Waterfall / Wade — sandstone gorge creek with little waterfalls — A secret oasis near Black River Falls — a clear creek winding through a sandstone gorge, wading through the shallow water over smooth rocks past little waterfalls. The falls don&#x27;t show up on a simple Google Maps search (listed as permanently closed); the way in is to stay at Lost Falls Campground, whose guests get access to the creek. The same stay brings tubing and kayaking down the Black River, tent/camper sites, and log cabins — the cabins book in January each year, so be fast.</li>
 <li>Lost Falls is on Roaring Creek, which enters the Black River just downstream of Lost Falls Campground. The trail to the falls is on private land — access is for registered campers (day access via a $10 guest pass from the campground office); do not trespass. Campground: N2974 E Sunnyvale Rd, Black River Falls, WI 54615; 58 acres on the lower Black River, ~50 campsites, 2 group areas, 7 log cabins; open May 1–Sept 30; rents canoes, kayaks, SUPs and tubes. The falls sit upstream of the lower Roaring Creek Falls through a slot canyon; the Roaring Creek mouth is ~44.1717,-90.9172.</li>
@@ -6982,7 +6997,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Sunset Beach Park</h4>
 <h5>Sunset</h5>
 <ul>
-<li><b>161. <a href="https://www.google.com/maps/search/?api=1&query=Sunset+Beach+Park+Fish+Creek+WI">Sunset Beach Park</a></b> — Sunset Beach Park, Fish Creek
+<li><b>162. <a href="https://www.google.com/maps/search/?api=1&query=Sunset+Beach+Park+Fish+Creek+WI">Sunset Beach Park</a></b> — Sunset Beach Park, Fish Creek
 <ul>
 <li><b>Best for:</b> Sunset — Her #2 pick: the sun sets straight into Green Bay here — a rocky shore and grassy bluff where people gather to watch, with vivid red and purple skies reflected on the water.</li>
 <li>Coordinates: USGS GNIS via TopoQuest 45.128878,-87.25122; Mapcarta 45.12905,-87.25163 agrees.</li>
@@ -6997,7 +7012,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Wyalusing State Park</h4>
 <h5>Caves</h5>
 <ul>
-<li><b>162. <a href="https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI">Wyalusing State Park</a></b> — Wyalusing State Park, Bagley
+<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI">Wyalusing State Park</a></b> — Wyalusing State Park, Bagley
 <ul>
 <li><b>Best for:</b> Caves / Stargazing — &#x27;This state park surprised us&#x27;: 14+ miles of trails with caves to explore, an astronomy center that&#x27;s perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.</li>
 <li>Pin is OpenStreetMap&#x27;s Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.</li>
@@ -7011,7 +7026,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI">Old Immigrant &amp; Bluff Loop</a></b> — Wyalusing State Park, Bagley
+<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI">Old Immigrant &amp; Bluff Loop</a></b> — Wyalusing State Park, Bagley
 <ul>
 <li><b>Best for:</b> Hike — The creators&#x27; favorite trail in the park: the Old Immigrant &amp; Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wisconsin/old-immigrant-trail-and-bluff-trail-loop">Trail page</a></li>
@@ -19182,6 +19197,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: The most unusual hike in Virginia — the Great Channels atop Clinch Mountain, a natural labyrinth of narrow passageways between sandstone walls up to 40 ft tall, ~400 million years old. 6.5 miles out and back via the Brumley Mountain Trail, 1,263 ft of gain; parking is limited at the trailhead, so arrive early and park only in designated spaces; stay on designated trails in this protected natural area.
 - **[Grinnell Glacier Trail — the prettiest hike in mainland US?](https://www.instagram.com/reel/DgCepWMBqmn/)** — @lexilaube · 1 places · Theme: Grinnell Glacier Trail, Glacier National Park, Montana
   - What the reel recommends: The prettiest hike in mainland US — Grinnell Glacier Trail in Glacier National Park: 11.1 miles out and back, 2,073 ft of gain, 5–6 hours past turquoise lakes to a glacier feeding a milky-turquoise lake. Grizzly bears, black bears, and a moose on the trail — bring bear spray. Leave No Trace.
+- **[New Glarus, Wisconsin — America's little Switzerland, 3 hrs from Chicago](https://www.instagram.com/reel/DgDbftVoAqJ/)** — @trailsoftwo · 1 places · Theme: New Glarus, Wisconsin — America's Little Switzerland
+  - What the reel recommends: Just 3 hrs from Chicago — America's little Switzerland. New Glarus, Wisconsin, 40 min from Madison, looks magical in the snow and holiday season, with Swiss alpine-style architecture along Main Street. Save for a winter weekend trip. (The bakery, taverns, and shops shown — Bäckerei Konditorei, Puempel's Tavern, Kleeman's Bar & Grill — are named here only; restaurants and shops are not separate pins.)
 
 ## How this page is updated {#how-this-page-is-updated}
 
