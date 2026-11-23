@@ -50430,8 +50430,31 @@
    "source_rank": null,
    "source_reel_theme": "New Glarus, Wisconsin — America's Little Switzerland",
    "additional_sources": []
+  },
+  {
+   "id": "virmond-county-park-wi",
+   "name": "Virmond County Park",
+   "site": "Virmond County Park",
+   "city": "Mequon",
+   "state": "Wisconsin",
+   "state_code": "WI",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 43.210442,
+   "lng": -87.904028,
+   "google_maps_query": "Virmond+County+Park+Mequon+WI",
+   "best_for": "Viewpoint / Lake Michigan bluff overlook and beach staircase",
+   "recommendation": "If you love lake views, don't skip this spot in Wisconsin. Virmond County Park in Mequon sits on 130–140-ft clay bluffs above Lake Michigan — a wooden boardwalk and staircase (227 steps) drops from the bluff-top overlook down to a quiet Lake Michigan beach, with wide, expansive views across the water under a clear sky.",
+   "note": "63-acre Ozaukee County park at 10606 N Lake Shore Dr, Mequon (open 6 AM–9 PM). The public access stairway to Lake Michigan opened Aug 18, 2023 and closes seasonally for winter maintenance; the stairway/beach point is 43.211241, -87.897443. The park also has a short 0.4-mi Virmond Nature Walk, picnic shelters, playgrounds, and tennis/volleyball courts. One of three Important Bird Areas in Ozaukee County on the Lake Michigan flyway.",
+   "source_reel": "https://www.instagram.com/reel/DgBptzRudCO/",
+   "source_title": "Virmond County Park — Lake Michigan bluff views in Mequon, Wisconsin",
+   "source_creator": "@pinay_wandering",
+   "source_rank": null,
+   "source_reel_theme": "Virmond County Park, Mequon, Wisconsin",
+   "additional_sources": []
   }
  ],
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "version": 1
 }
