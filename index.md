@@ -10979,6 +10979,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DfujOFHPor1/">Turquoise water + epic mountain scenery</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DfpQThCP9-8/">Top 5 National Park Road Trips</a> by @amorywild</li>
 <li><a href="https://www.instagram.com/reel/DgCepWMBqmn/">Grinnell Glacier Trail — the prettiest hike in mainland US?</a> by @lexilaube</li>
+<li><a href="https://www.instagram.com/reel/Df8iXPrIamp/">Grinnell Glacier Trail — the BEST hike in the USA?</a> by @thetravelingdans</li>
 </ul>
 </details>
 </li>
@@ -19219,6 +19220,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: One of the things I love about living in Wisconsin is discovering beautiful places I didn't know existed. Virmond County Park in Mequon — if you love lake views, don't skip this spot: a wooden boardwalk and staircase descends from the bluff-top overlook to a quiet Lake Michigan beach, with wide, expansive views across the water.
 - **[Mount Storm King — the most rewarding short hike in Olympic National Park](https://www.instagram.com/reel/DgDK1kbAQ2r/)** — @ptadventuring · 1 places · Theme: Mount Storm King, Olympic National Park, Washington
   - What the reel recommends: One of the most rewarding short hikes in Olympic National Park — Mount Storm King: about 4 miles round trip with roughly 2,000 feet of gain, basically all of it steep, with fixed ropes helping up the last scramble to the overlook above Lake Crescent. Trail starts at the Storm King Ranger Station on Lake Crescent; the rope section is not managed by NPS, so take extra caution. Day 1 of their bucket-list national park hikes series. (Marymere Falls Trail is named here only as the shared first stretch — not attached.)
+- **[Grinnell Glacier Trail — the BEST hike in the USA?](https://www.instagram.com/reel/Df8iXPrIamp/)** — @thetravelingdans · 1 places · Theme: Grinnell Glacier Trail, Glacier National Park, Montana
+  - What the reel recommends: No doubt, the BEST hike in the USA — Grinnell Glacier Trail in Glacier National Park: 11 miles with 2,000 ft of elevation, not too steep but long, and so worth it for the views. Pack bear spray, bears frequent the area; the hike is quite exposed with steep drop-offs, so it may not suit a fear of heights. Leaves from Many Glacier Hotel, a great basecamp for exploring the Many Glacier area. (Iceberg Lake, Cracker Lake, and the Highline Trail are named here only as other nearby hikes — not attached.)
 
 ## How this page is updated {#how-this-page-is-updated}
 
