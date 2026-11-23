@@ -14,7 +14,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Map — all places, color-coded by region](#map)
 - [Northeast Region — 86 places](#northeast)
 - [Southeast Region — 183 places](#southeast)
-- [Midwest Region — 164 places](#midwest)
+- [Midwest Region — 165 places](#midwest)
 - [Southwest Region — 165 places](#southwest)
 - [Mountain West Region — 98 places](#mountain-west)
 - [West Region — 158 places](#west)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 86 · Southeast 183 · Midwest 164 · Southwest 165 · Mountain West 98 · West 158 · Pacific Northwest 80 · Alaska 39 · Hawaii 9 · U.S. Territories 3 · **Total 985**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 86 · Southeast 183 · Midwest 165 · Southwest 165 · Mountain West 98 · West 158 · Pacific Northwest 80 · Alaska 39 · Hawaii 9 · U.S. Territories 3 · **Total 986**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -4491,7 +4491,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Midwest Region {#midwest}
 
-**164 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin**
+**165 places · Illinois, Indiana, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin**
 
 <details><summary><b>Illinois</b> — 40 places</summary>
 <h4>Adler Planetarium</h4>
@@ -6780,7 +6780,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 
-<details><summary><b>Wisconsin</b> — 17 places</summary>
+<details><summary><b>Wisconsin</b> — 18 places</summary>
 <h4>Amnicon Falls State Park</h4>
 <h5>Waterfall</h5>
 <ul>
@@ -7009,10 +7009,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Virmond County Park</h4>
+<h5>Viewpoint</h5>
+<ul>
+<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Virmond+County+Park+Mequon+WI">Virmond County Park</a></b> — Virmond County Park, Mequon
+<ul>
+<li><b>Best for:</b> Viewpoint / Lake Michigan bluff overlook and beach staircase — If you love lake views, don&#x27;t skip this spot in Wisconsin. Virmond County Park in Mequon sits on 130–140-ft clay bluffs above Lake Michigan — a wooden boardwalk and staircase (227 steps) drops from the bluff-top overlook down to a quiet Lake Michigan beach, with wide, expansive views across the water under a clear sky.</li>
+<li>63-acre Ozaukee County park at 10606 N Lake Shore Dr, Mequon (open 6 AM–9 PM). The public access stairway to Lake Michigan opened Aug 18, 2023 and closes seasonally for winter maintenance; the stairway/beach point is 43.211241, -87.897443. The park also has a short 0.4-mi Virmond Nature Walk, picnic shelters, playgrounds, and tennis/volleyball courts. One of three Important Bird Areas in Ozaukee County on the Lake Michigan flyway.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DgBptzRudCO/">Virmond County Park — Lake Michigan bluff views in Mequon, Wisconsin</a> by @pinay_wandering</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Wyalusing State Park</h4>
 <h5>Caves</h5>
 <ul>
-<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI">Wyalusing State Park</a></b> — Wyalusing State Park, Bagley
+<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Wyalusing+State+Park+Bagley+WI">Wyalusing State Park</a></b> — Wyalusing State Park, Bagley
 <ul>
 <li><b>Best for:</b> Caves / Stargazing — &#x27;This state park surprised us&#x27;: 14+ miles of trails with caves to explore, an astronomy center that&#x27;s perfect for stargazing, and four campgrounds on the bluffs near Bagley. Day pass $13 in-state / $16 out-of-state, per the reel.</li>
 <li>Pin is OpenStreetMap&#x27;s Wyalusing State Park point. The reel does not name the cave it films (stairs up a cliffside into a sandy-floored cave with lookout openings), so no cave name is recorded.</li>
@@ -7026,7 +7041,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI">Old Immigrant &amp; Bluff Loop</a></b> — Wyalusing State Park, Bagley
+<li><b>165. <a href="https://www.google.com/maps/search/?api=1&query=Old+Immigrant+Trail+Wyalusing+State+Park+WI">Old Immigrant &amp; Bluff Loop</a></b> — Wyalusing State Park, Bagley
 <ul>
 <li><b>Best for:</b> Hike — The creators&#x27; favorite trail in the park: the Old Immigrant &amp; Bluff Loop — the hike the reel films, past a natural-arch rock formation and up wooden stairs built against the cliff to a cave with sandy floors, crawl spaces, and openings that look out over the forest.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/wisconsin/old-immigrant-trail-and-bluff-trail-loop">Trail page</a></li>
@@ -19199,6 +19214,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: The prettiest hike in mainland US — Grinnell Glacier Trail in Glacier National Park: 11.1 miles out and back, 2,073 ft of gain, 5–6 hours past turquoise lakes to a glacier feeding a milky-turquoise lake. Grizzly bears, black bears, and a moose on the trail — bring bear spray. Leave No Trace.
 - **[New Glarus, Wisconsin — America's little Switzerland, 3 hrs from Chicago](https://www.instagram.com/reel/DgDbftVoAqJ/)** — @trailsoftwo · 1 places · Theme: New Glarus, Wisconsin — America's Little Switzerland
   - What the reel recommends: Just 3 hrs from Chicago — America's little Switzerland. New Glarus, Wisconsin, 40 min from Madison, looks magical in the snow and holiday season, with Swiss alpine-style architecture along Main Street. Save for a winter weekend trip. (The bakery, taverns, and shops shown — Bäckerei Konditorei, Puempel's Tavern, Kleeman's Bar & Grill — are named here only; restaurants and shops are not separate pins.)
+- **[Virmond County Park — Lake Michigan bluff views in Mequon, Wisconsin](https://www.instagram.com/reel/DgBptzRudCO/)** — @pinay_wandering · 1 places · Theme: Virmond County Park, Mequon, Wisconsin
+  - What the reel recommends: One of the things I love about living in Wisconsin is discovering beautiful places I didn't know existed. Virmond County Park in Mequon — if you love lake views, don't skip this spot: a wooden boardwalk and staircase descends from the bluff-top overlook to a quiet Lake Michigan beach, with wide, expansive views across the water.
 
 ## How this page is updated {#how-this-page-is-updated}
 
