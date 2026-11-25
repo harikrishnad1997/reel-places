@@ -13081,6 +13081,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/reel/Dfuq2OmoIdr/">Fort Point&#x27;s secret window — Golden Gate Bridge viewpoint, San Francisco</a> by @wanderwithdeepti (#1 in that reel)</li>
+<li><a href="https://www.instagram.com/reel/DZ_PIRUNYhi/">Secret Window — Golden Gate Bridge at Fort Point</a> by @humminglion</li>
 </ul>
 </details>
 </li>
@@ -19889,6 +19890,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A 2.4-mile island hike with better views than trails 10x longer — East Anacapa Island Trail, Channel Islands National Park, CA: 2.4 miles, 324 ft elevation gain, easy loop. Take the Island Packers boat from Ventura or Oxnard (about an hour). Must-sees: Inspiration Point, Arch Rock, and the historic lighthouse. The island has no services, so pack all the water and food you'll need. It's one of the most important seabird nesting sites in the Channel Islands — stay on the trail. (Arch Rock and the historic lighthouse are stops along the trail — named here only, no separate pins; the Channel Islands park pin is not attached — this is a single-trail guide, not a park guide.)
 - **[19 waterfalls in 3 miles — Watkins Glen State Park](https://www.instagram.com/reel/DgINJt3BCBs/)** — @mccrawsonthemap · 3 places · Theme: 19 waterfalls in 3 miles — Watkins Glen State Park
   - What the reel recommends: 19 waterfalls in 3 miles — Watkins Glen State Park, a gem of the Finger Lakes region of NY: an immersive walk through a massive gorge carved by water over thousands of years, past 19 waterfalls on the Gorge Trail (3 miles round trip, 800+ stairs, moderate; seasonal shuttle runs one-way downhill). No entry fee, parking ~$10; go early or on weekdays; fall is magical; Gorge Trail typically open late May to late October, not dog-friendly (rest of the park is). Also visit nearby: Letchworth State Park, the Grand Canyon of the East (2 hrs), and Taughannock Falls State Park, taller than Niagara (40 min). (The 100+ nearby wineries are named only in the summary — no specific winery named.)
+- **[Secret Window — Golden Gate Bridge at Fort Point](https://www.instagram.com/reel/DZ_PIRUNYhi/)** — @humminglion · 1 places · Theme: Secret Window — Golden Gate Bridge at Fort Point
+  - What the reel recommends: Secret Window — Golden Gate Bridge: Fort Point National Historic Site, 201 Marine Dr, San Francisco. Head to the third floor and look through the window for an epic view of the Golden Gate Bridge; the rooftop has an amazing view too. Open every day except Tuesdays and Wednesdays, 10am-5pm; free to enter, free parking. (The Golden Gate Bridge is the view from the fort, not a separate pin.)
 
 ## How this page is updated {#how-this-page-is-updated}
 
