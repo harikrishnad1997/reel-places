@@ -52374,8 +52374,32 @@
    "additional_sources": [],
    "alltrails_url": "https://www.alltrails.com/en-gb/trail/us/arizona/bridal-wreath-falls-trail",
    "note": "Coordinates: USGS-recorded position of the falls (32.22677, -110.65014)."
+  },
+  {
+   "id": "glade-top-trail-mo",
+   "name": "Glade Top Trail",
+   "site": "Mark Twain National Forest",
+   "city": "Ava",
+   "state": "Missouri",
+   "state_code": "MO",
+   "country": "United States",
+   "region": "Midwest",
+   "region_id": "midwest",
+   "lat": 36.74475,
+   "lng": -92.758993,
+   "google_maps_query": "Glade+Top+Trail+Mark+Twain+National+Forest+MO",
+   "best_for": "Scenic Drive / Fall-color ridge-top byway",
+   "recommendation": "Missouri's own version of a mountain fall drive — the Glade Top Trail, a 23-mile ridge-top scenic byway inside Mark Twain National Forest. Instead of winding through thick timber, the road cuts across open dolomite glades, so the views open up for miles. Every October the hills below turn into a patchwork of red, orange and gold.",
+   "note": "Pinned at the Caney Day Use Area (Stop 5), an official USFS stop on the byway (36.74475, -92.758993). Missouri's only National Forest Scenic Byway: 23 miles along narrow ridge tops on Forest Roads 147 and 149, a two-lane all-weather gravel road built by the Civilian Conservation Corps in the late 1930s, ~500 ft above the surrounding countryside, with seven overlook pull-outs reaching to the Springfield Plateau ~20 mi northwest and the Boston Mountains in Arkansas ~40 mi south. Three entries: northeast near Ava off Hwy 5 (via Hwy A + County Road A-409), south near Longrun off Hwy 95, west off Hwy 125. Borders the Hercules Glades Wilderness Area. Ava celebrates the season with the Flaming Fall Revue each October (the reel's caption spells it 'flaming fall review'). AllTrails records 57.3 mi for the Ava-to-Longrun drive — the USFS byway itself is 23 miles; the AllTrails route includes the approach roads.",
+   "alltrails_url": "https://www.alltrails.com/trail/us/missouri/glade-top-trail-scenic-drive-ava-to-longrun",
+   "source_reel": "https://www.instagram.com/reel/DePhw3rjfRV/",
+   "source_title": "Missouri's mountain fall drive — Glade Top Trail",
+   "source_creator": "@missourihiddengems",
+   "source_rank": null,
+   "source_reel_theme": "Glade Top Trail — Missouri's fall drive",
+   "additional_sources": []
   }
  ],
- "updated": "2026-11-23",
+ "updated": "2026-11-25",
  "version": 1
 }
