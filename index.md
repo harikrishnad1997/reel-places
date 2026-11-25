@@ -789,6 +789,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <ul>
 <li><a href="https://www.instagram.com/reel/De9LC16xH4i/">State Park Ranking — 12 Best State Parks, Northeast U.S.</a> by @discovery_matt (#1 in that reel)</li>
 <li><a href="https://www.instagram.com/reel/DfkU8vBxOYT/">This is NOT China — 25 waterfalls near Niagara</a> by @chasethewaterfalls</li>
+<li><a href="https://www.instagram.com/reel/DgINJt3BCBs/">19 waterfalls in 3 miles — Watkins Glen State Park</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -1037,6 +1038,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <ul>
 <li><a href="https://www.instagram.com/p/Der2jZzGNin/">The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)</a> by @discovery_matt (#4 in that reel)</li>
 <li><a href="https://www.instagram.com/reel/DfkU8vBxOYT/">This is NOT China — 25 waterfalls near Niagara</a> by @chasethewaterfalls</li>
+<li><a href="https://www.instagram.com/reel/DgINJt3BCBs/">19 waterfalls in 3 miles — Watkins Glen State Park</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -1054,6 +1056,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/De9LC16xH4i/">State Park Ranking — 12 Best State Parks, Northeast U.S.</a> by @discovery_matt (#4 in that reel)</li>
 <li><a href="https://www.instagram.com/reel/DfSJ024hYiD/">We climbed 800 stone steps at Watkins Glen — America&#x27;s most beautiful state park</a> by @codiendrew</li>
 <li><a href="https://www.instagram.com/reel/DfkU8vBxOYT/">This is NOT China — 25 waterfalls near Niagara</a> by @chasethewaterfalls</li>
+<li><a href="https://www.instagram.com/reel/DgINJt3BCBs/">19 waterfalls in 3 miles — Watkins Glen State Park</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -19884,6 +19887,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Missouri has its own version of a mountain fall drive — the Glade Top Trail, a 23-mile ridge-top scenic byway inside Mark Twain National Forest in Ozark County. Instead of winding through thick timber, the road cuts across open dolomite glades, so the views open up for miles. Every October the hills below turn into a patchwork of red, orange and gold, and locals have nicknamed the stretch the flaming fall review. One of the few scenic byways in the state built specifically around a single season.
 - **[East Anacapa Island Trail — Channel Islands](https://www.instagram.com/reel/DgIbfyfouA9/)** — @thegoodflawtravels · 2 places · Theme: East Anacapa Island Trail — Channel Islands
   - What the reel recommends: A 2.4-mile island hike with better views than trails 10x longer — East Anacapa Island Trail, Channel Islands National Park, CA: 2.4 miles, 324 ft elevation gain, easy loop. Take the Island Packers boat from Ventura or Oxnard (about an hour). Must-sees: Inspiration Point, Arch Rock, and the historic lighthouse. The island has no services, so pack all the water and food you'll need. It's one of the most important seabird nesting sites in the Channel Islands — stay on the trail. (Arch Rock and the historic lighthouse are stops along the trail — named here only, no separate pins; the Channel Islands park pin is not attached — this is a single-trail guide, not a park guide.)
+- **[19 waterfalls in 3 miles — Watkins Glen State Park](https://www.instagram.com/reel/DgINJt3BCBs/)** — @mccrawsonthemap · 3 places · Theme: 19 waterfalls in 3 miles — Watkins Glen State Park
+  - What the reel recommends: 19 waterfalls in 3 miles — Watkins Glen State Park, a gem of the Finger Lakes region of NY: an immersive walk through a massive gorge carved by water over thousands of years, past 19 waterfalls on the Gorge Trail (3 miles round trip, 800+ stairs, moderate; seasonal shuttle runs one-way downhill). No entry fee, parking ~$10; go early or on weekdays; fall is magical; Gorge Trail typically open late May to late October, not dog-friendly (rest of the park is). Also visit nearby: Letchworth State Park, the Grand Canyon of the East (2 hrs), and Taughannock Falls State Park, taller than Niagara (40 min). (The 100+ nearby wineries are named only in the summary — no specific winery named.)
 
 ## How this page is updated {#how-this-page-is-updated}
 
