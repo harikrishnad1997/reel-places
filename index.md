@@ -12570,6 +12570,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DKulx82sRQA/">Channel Islands — only one hour from LA</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DDuYlIFxdkB/">One of the most underrated US national parks — Channel Islands mini guide</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/CtNLEzMOD_1/">Anacapa Island — Inspiration Point &amp; 10,000 nesting gulls</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/DgIbfyfouA9/">East Anacapa Island Trail — Channel Islands</a> by @thegoodflawtravels</li>
 </ul>
 </details>
 </li>
@@ -12591,6 +12592,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/p/DLNc_1isIXu/">Southern California 3-park road trip</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DKulx82sRQA/">Channel Islands — only one hour from LA</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/CtNLEzMOD_1/">Anacapa Island — Inspiration Point &amp; 10,000 nesting gulls</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/DgIbfyfouA9/">East Anacapa Island Trail — Channel Islands</a> by @thegoodflawtravels</li>
 </ul>
 </details>
 </li>
@@ -19880,6 +19882,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Foreign place — hiking in Picos de Europa, Spain — excluded under the USA-only rule. Kept as a reel entry only.
 - **[Missouri's mountain fall drive — Glade Top Trail](https://www.instagram.com/reel/DePhw3rjfRV/)** — @missourihiddengems · 1 places · Theme: Glade Top Trail — Missouri's fall drive
   - What the reel recommends: Missouri has its own version of a mountain fall drive — the Glade Top Trail, a 23-mile ridge-top scenic byway inside Mark Twain National Forest in Ozark County. Instead of winding through thick timber, the road cuts across open dolomite glades, so the views open up for miles. Every October the hills below turn into a patchwork of red, orange and gold, and locals have nicknamed the stretch the flaming fall review. One of the few scenic byways in the state built specifically around a single season.
+- **[East Anacapa Island Trail — Channel Islands](https://www.instagram.com/reel/DgIbfyfouA9/)** — @thegoodflawtravels · 2 places · Theme: East Anacapa Island Trail — Channel Islands
+  - What the reel recommends: A 2.4-mile island hike with better views than trails 10x longer — East Anacapa Island Trail, Channel Islands National Park, CA: 2.4 miles, 324 ft elevation gain, easy loop. Take the Island Packers boat from Ventura or Oxnard (about an hour). Must-sees: Inspiration Point, Arch Rock, and the historic lighthouse. The island has no services, so pack all the water and food you'll need. It's one of the most important seabird nesting sites in the Channel Islands — stay on the trail. (Arch Rock and the historic lighthouse are stops along the trail — named here only, no separate pins; the Channel Islands park pin is not attached — this is a single-trail guide, not a park guide.)
 
 ## How this page is updated {#how-this-page-is-updated}
 
