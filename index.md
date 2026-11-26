@@ -12,7 +12,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 ## Contents
 
 - [Map — all places, color-coded by region](#map)
-- [Northeast Region — 86 places](#northeast)
+- [Northeast Region — 88 places](#northeast)
 - [Southeast Region — 191 places](#southeast)
 - [Midwest Region — 167 places](#midwest)
 - [Southwest Region — 171 places](#southwest)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 86 · Southeast 191 · Midwest 167 · Southwest 171 · Mountain West 111 · West 169 · Pacific Northwest 91 · Alaska 44 · Hawaii 9 · U.S. Territories 4 · **Total 1043**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 88 · Southeast 191 · Midwest 167 · Southwest 171 · Mountain West 111 · West 169 · Pacific Northwest 91 · Alaska 44 · Hawaii 9 · U.S. Territories 4 · **Total 1045**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -42,7 +42,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Northeast Region {#northeast}
 
-**86 places · Connecticut, Delaware, Maine, Massachusetts, New Hampshire, New York, Pennsylvania, Vermont**
+**88 places · Connecticut, Delaware, Maine, Massachusetts, New Hampshire, New York, Pennsylvania, Vermont**
 
 <details><summary><b>Connecticut</b> — 1 place</summary>
 <h4>Kent Falls State Park</h4>
@@ -81,7 +81,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 
-<details><summary><b>Maine</b> — 21 places</summary>
+<details><summary><b>Maine</b> — 23 places</summary>
 <h4>Acadia National Park</h4>
 <h5>Beach</h5>
 <ul>
@@ -347,10 +347,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Fort Knox State Historic Site</h4>
+<h5>Historic Site</h5>
+<ul>
+<li><b>20. <a href="https://www.google.com/maps/search/?api=1&query=Fort+Knox+State+Historic+Site+Prospect+ME">Fort Knox State Historic Site</a></b> — Fort Knox State Historic Site, Prospect
+<ul>
+<li><b>Best for:</b> Historic Site / Best-preserved granite fort on the Eastern Seaboard — Fort Knox — a massive granite fortification (1844-1869) right next door to the observatory, on the same combined ticket; the reel tells viewers to buy tickets to both.</li>
+<li>Massive granite fortification built 1844-1869 to defend the Penobscot River valley; named for Maj. Gen. Henry Knox. Grounds open year-round; tours May 1-Oct 31. Shares parking + combined admission with the observatory.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DgLgJ2UObE_/">The tallest public bridge observatory in the world — Penobscot Narrows, Maine</a> by @travelingmainers</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Fort Williams Park</h4>
 <h5>Lighthouse</h5>
 <ul>
-<li><b>20. <a href="https://www.google.com/maps/search/?api=1&query=Portland Head Light, Fort Williams Park, Cape Elizabeth, Maine">Portland Head Light</a></b> — Fort Williams Park, Cape Elizabeth
+<li><b>21. <a href="https://www.google.com/maps/search/?api=1&query=Portland Head Light, Fort Williams Park, Cape Elizabeth, Maine">Portland Head Light</a></b> — Fort Williams Park, Cape Elizabeth
 <ul>
 <li><b>Best for:</b> Lighthouse / Maine&#x27;s oldest lighthouse (1791) at Portland Harbor — #3 on Kelley &amp; Carl&#x27;s favorite-lighthouses list: Portland Head Light in Cape Elizabeth&#x27;s Fort Williams Park — Maine&#x27;s oldest lighthouse, guarding the entrance to Portland Harbor.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -367,7 +382,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Moxie Falls</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>21. <a href="https://www.google.com/maps/search/?api=1&query=Moxie+Falls+ME">Moxie Falls</a></b> — Moxie Falls, The Forks
+<li><b>22. <a href="https://www.google.com/maps/search/?api=1&query=Moxie+Falls+ME">Moxie Falls</a></b> — Moxie Falls, The Forks
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #26 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/maine/moxie-falls--3">Trail page</a></li>
@@ -383,7 +398,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Pemaquid Point</h4>
 <h5>Lighthouse</h5>
 <ul>
-<li><b>22. <a href="https://www.google.com/maps/search/?api=1&query=Pemaquid Point Lighthouse, Pemaquid Point, Bristol, Maine">Pemaquid Point Lighthouse</a></b> — Pemaquid Point, Bristol
+<li><b>23. <a href="https://www.google.com/maps/search/?api=1&query=Pemaquid Point Lighthouse, Pemaquid Point, Bristol, Maine">Pemaquid Point Lighthouse</a></b> — Pemaquid Point, Bristol
 <ul>
 <li><b>Best for:</b> Lighthouse / #3 in their Maine lighthouses list — #3 on their &#x27;3 lighthouses to consider for your next trip to Maine&#x27;: Pemaquid Point Lighthouse in Bristol — after Bass Harbor Head Light Station (#1) and Portland Head Light (#2).</li>
 <li>Coordinates: Wikipedia (Pemaquid Point Lighthouse), Bristol, ME.</li>
@@ -395,10 +410,26 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Penobscot Narrows Bridge Observatory</h4>
+<h5>Viewpoint</h5>
+<ul>
+<li><b>24. <a href="https://www.google.com/maps/search/?api=1&query=Penobscot+Narrows+Bridge+Observatory+Prospect+ME">Penobscot Narrows Bridge Observatory</a></b> — Penobscot Narrows Bridge Observatory, Prospect
+<ul>
+<li><b>Best for:</b> Viewpoint / Tallest public bridge observatory in the world — The tallest public bridge observatory in the world — a 420-ft tower on the west pylon of the Penobscot Narrows Bridge, with 360-degree views over the Penobscot River (Mount Katahdin on clear days).</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/maine/fort-knox-and-penobscot-narrows-observatory">Trail page</a></li>
+<li>420-ft tower on the west pylon of the 2,120-ft cable-stayed bridge over the Penobscot River (US-1, Prospect-Verona Island). First bridge observation tower in the US and the tallest public bridge observatory in the world; opened May 19, 2007. Elevator + short stairs, 360-degree views, Mount Katahdin on clear days, glass floor panels. Open May 1-Oct 31 (9 AM-5 PM, 6 PM Jul-Aug). Tickets $9 Maine residents / $11 non-residents, in person, combined ticket with Fort Knox. Address: 740 Fort Knox Rd, Prospect, ME 04981.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DgLgJ2UObE_/">The tallest public bridge observatory in the world — Penobscot Narrows, Maine</a> by @travelingmainers</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Smalls Falls</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>23. <a href="https://www.google.com/maps/search/?api=1&query=Smalls+Falls+ME">Smalls Falls</a></b> — Smalls Falls, Rangeley
+<li><b>25. <a href="https://www.google.com/maps/search/?api=1&query=Smalls+Falls+ME">Smalls Falls</a></b> — Smalls Falls, Rangeley
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #37 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/maine/smalls-falls">Trail page</a></li>
@@ -417,7 +448,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Bash Bish Falls State Park</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>24. <a href="https://www.google.com/maps/search/?api=1&query=Bash+Bish+Falls+State+Park+MA">Bash Bish Falls State Park</a></b> — Bash Bish Falls State Park, Mount Washington
+<li><b>26. <a href="https://www.google.com/maps/search/?api=1&query=Bash+Bish+Falls+State+Park+MA">Bash Bish Falls State Park</a></b> — Bash Bish Falls State Park, Mount Washington
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #11 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -436,7 +467,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Arethusa Falls (Crawford Notch)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>25. <a href="https://www.google.com/maps/search/?api=1&query=Arethusa+Falls+NH">Arethusa Falls</a></b> — Arethusa Falls (Crawford Notch), Harts Location
+<li><b>27. <a href="https://www.google.com/maps/search/?api=1&query=Arethusa+Falls+NH">Arethusa Falls</a></b> — Arethusa Falls (Crawford Notch), Harts Location
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #17 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-hampshire/arethusa-falls-via-bemis-brook-and-arethusa-falls-trails">Trail page</a></li>
@@ -452,7 +483,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Concord</h4>
 <h5>Rail-biking</h5>
 <ul>
-<li><b>26. <a href="https://www.google.com/maps/search/?api=1&query=Scenic+Railriders+Concord+NH">Scenic Railriders</a></b> — Concord, Concord
+<li><b>28. <a href="https://www.google.com/maps/search/?api=1&query=Scenic+Railriders+Concord+NH">Scenic Railriders</a></b> — Concord, Concord
 <ul>
 <li><b>Best for:</b> Rail-biking / Pedal the abandoned Northern Railroad along the Merrimack River — Kelley &amp; Carl&#x27;s New Hampshire find: pedal custom rail-bikes with Scenic Railriders along a beautiful stretch of abandoned railroad track in Concord — a 6.2-mile tour of about 2 hours at a leisurely pace beside the Merrimack River. Advance reservations are required and fill up early; they rode in early October color and expect peak foliage around mid-October.</li>
 <li>188 Sewalls Falls Road, Concord; coordinates from the attraction&#x27;s place listing (43.268054, -71.565869).</li>
@@ -467,7 +498,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Crawford Notch State Park</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>27. <a href="https://www.google.com/maps/search/?api=1&query=Crawford+Notch+State+Park+NH">Crawford Notch State Park</a></b> — Crawford Notch State Park, Harts Location
+<li><b>29. <a href="https://www.google.com/maps/search/?api=1&query=Crawford+Notch+State+Park+NH">Crawford Notch State Park</a></b> — Crawford Notch State Park, Harts Location
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #10 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -482,7 +513,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Franconia Notch State Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>28. <a href="https://www.google.com/maps/search/?api=1&query=Artist Bluff Trail, Franconia Notch State Park, New Hampshire">Artist Bluff</a></b> — Franconia Notch State Park, Franconia
+<li><b>30. <a href="https://www.google.com/maps/search/?api=1&query=Artist Bluff Trail, Franconia Notch State Park, New Hampshire">Artist Bluff</a></b> — Franconia Notch State Park, Franconia
 <ul>
 <li><b>Best for:</b> Hike / Short sunrise hike to a rocky ledge over Echo Lake — Her sunrise pick in the park she calls the prettiest state park in the USA — a short hike with a huge payoff, watching the sun come up over Echo Lake and light up the trees below. The 1.5-mi loop (with a 0.5-mi shortcut) climbs to a rocky ledge with views of Echo Lake, Cannon Mountain, and the notch; fall is the payoff season.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-hampshire/artist-bluff-trail">Trail page</a></li>
@@ -494,7 +525,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>29. <a href="https://www.google.com/maps/search/?api=1&query=Franconia+Ridge+Trail+NH">Franconia Ridge Trail</a></b> — Franconia Notch State Park, Lincoln
+<li><b>31. <a href="https://www.google.com/maps/search/?api=1&query=Franconia+Ridge+Trail+NH">Franconia Ridge Trail</a></b> — Franconia Notch State Park, Lincoln
 <ul>
 <li><b>Best for:</b> Hike — Calvin hiked the Franconia Ridge Trail in July — the classic above-treeline ridge walk across Little Haystack, Mount Lincoln and Mount Lafayette in Franconia Notch. His caution: check the weather and conditions before hiking it in fall or winter, and be prepared — the ridge is fully exposed.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-hampshire/mount-lafayette-and-franconia-ridge-trail-loop">Trail page</a></li>
@@ -509,7 +540,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Lake</h5>
 <ul>
-<li><b>30. <a href="https://www.google.com/maps/search/?api=1&query=Echo Lake, Franconia Notch State Park, New Hampshire">Echo Lake (Franconia Notch)</a></b> — Franconia Notch State Park, Franconia
+<li><b>32. <a href="https://www.google.com/maps/search/?api=1&query=Echo Lake, Franconia Notch State Park, New Hampshire">Echo Lake (Franconia Notch)</a></b> — Franconia Notch State Park, Franconia
 <ul>
 <li><b>Best for:</b> Lake / Fall colors from the water at the foot of Cannon Mountain — After the Artist Bluff hike, down to Echo Lake to see the fall colors from the water — a 38.2-acre lake at the foot of Cannon Mountain, with a beach, swimming, fishing, and kayak and pedal-boat rentals in season.</li>
 <li>Coordinates: Wikipedia, Echo Lake (Franconia Notch) (44°10′31″N 71°41′32″W). Echo Lake Beach sits at the lake&#x27;s north end (44.17793, -71.69469). NOT the Echo Lake in Echo Lake State Park, North Conway — that lake&#x27;s AllTrails &#x27;Echo Lake Trail&#x27; page (Cathedral Ledge, 0.9-mi loop) is a different lake ~17 miles away and is NOT linked here.</li>
@@ -523,7 +554,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Top state park</h5>
 <ul>
-<li><b>31. <a href="https://www.google.com/maps/search/?api=1&query=Franconia+Notch+State+Park+NH">Franconia Notch State Park</a></b> — Franconia Notch State Park, Lincoln
+<li><b>33. <a href="https://www.google.com/maps/search/?api=1&query=Franconia+Notch+State+Park+NH">Franconia Notch State Park</a></b> — Franconia Notch State Park, Lincoln
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #2 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -539,7 +570,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Glen Ellis Falls (Pinkham Notch)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>32. <a href="https://www.google.com/maps/search/?api=1&query=Glen+Ellis+Falls+NH">Glen Ellis Falls</a></b> — Glen Ellis Falls (Pinkham Notch), Jackson
+<li><b>34. <a href="https://www.google.com/maps/search/?api=1&query=Glen+Ellis+Falls+NH">Glen Ellis Falls</a></b> — Glen Ellis Falls (Pinkham Notch), Jackson
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #25 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-hampshire/glen-ellis-falls-trail">Trail page</a></li>
@@ -555,7 +586,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Lost River Gorge &amp; Boulder Caves</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>33. <a href="https://www.google.com/maps/search/?api=1&query=Lost River Gorge &amp; Boulder Caves, North Woodstock, New Hampshire">Lost River Gorge &amp; Boulder Caves</a></b> — Lost River Gorge &amp; Boulder Caves, North Woodstock
+<li><b>35. <a href="https://www.google.com/maps/search/?api=1&query=Lost River Gorge &amp; Boulder Caves, North Woodstock, New Hampshire">Lost River Gorge &amp; Boulder Caves</a></b> — Lost River Gorge &amp; Boulder Caves, North Woodstock
 <ul>
 <li><b>Best for:</b> Hike / Boulder caves and boardwalk gorge — the Lemon Squeezer — A unique adventure in New Hampshire&#x27;s White Mountains: 11 boulder caves to explore along a boardwalk-and-trail loop through a steep gorge in Kinsman Notch — the Lemon Squeezer is notorious, a passage only about 16 inches wide (test the gauge first). Boardwalks and trails wind throughout the gorge, so the waterfalls, rock formations and forest scenery are fully doable without the caves if you&#x27;re claustrophobic.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-hampshire/lost-river-gorge-trail">Trail page</a></li>
@@ -571,7 +602,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Monadnock State Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>34. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Monadnock+New+Hampshire">Mount Monadnock</a></b> — Monadnock State Park, Jaffrey
+<li><b>36. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Monadnock+New+Hampshire">Mount Monadnock</a></b> — Monadnock State Park, Jaffrey
 <ul>
 <li><b>Best for:</b> Hike / Summit · Bare rocky summit with 360° views — Calvin&#x27;s reel takes on Mt. Monadnock in southern New Hampshire — the 3,165-ft peak that gave &#x27;monadnock&#x27; its name (an isolated mountain rising from the plain), reputed to be one of the most-climbed mountains in the world. The classic route is the White Dot Trail up from the state park headquarters (3.4–3.6 mi round trip, ~1,750 ft gain, with rock scrambles and stone steps) and down the White Cross — the bare, rocky summit opens to sweeping views across southern New Hampshire and, on clear days, all six New England states. A National Natural Landmark with a literary streak: Emerson and Thoreau both climbed and wrote about it. No dogs allowed on the mountain.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-hampshire/white-dot-to-mount-monadnock">Trail page</a></li>
@@ -590,7 +621,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Washington State Park</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>35. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Washington+State+Park+NH">Mount Washington State Park</a></b> — Mount Washington State Park, Gorham
+<li><b>37. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Washington+State+Park+NH">Mount Washington State Park</a></b> — Mount Washington State Park, Gorham
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #9 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -605,7 +636,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>White Mountain National Forest</h4>
 <h5>Scenic</h5>
 <ul>
-<li><b>36. <a href="https://www.google.com/maps/search/?api=1&query=White+Mountain+National+Forest">White Mountains</a></b> — White Mountain National Forest, North Conway
+<li><b>38. <a href="https://www.google.com/maps/search/?api=1&query=White+Mountain+National+Forest">White Mountains</a></b> — White Mountain National Forest, North Conway
 <ul>
 <li><b>Best for:</b> Scenic / Fall color · Mirror lake reflecting autumn forest — One of the stops in Ted&#x27;s serene bucket-list montage &#x27;Places in the USA you need to visit before you die.&#x27; The montage&#x27;s fall scene: a mirror-like lake reflecting fall colors in New Hampshire&#x27;s White Mountains — the Presidential Range country of Mount Washington, Kancamagus Highway foliage and alpine lakes.</li>
 <li>Scene-level entry: the film shows a fall lake scene identified as the White Mountains; the pin is the White Mountain National Forest point, not a specific lake.</li>
@@ -623,7 +654,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Adirondack Mountains (Wilmington Wild Forest)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>37. <a href="https://www.google.com/maps/search/?api=1&query=Whiteface+Mountain+Wilmington+NY">Whiteface Mountain</a></b> — Adirondack Mountains (Wilmington Wild Forest), Wilmington
+<li><b>39. <a href="https://www.google.com/maps/search/?api=1&query=Whiteface+Mountain+Wilmington+NY">Whiteface Mountain</a></b> — Adirondack Mountains (Wilmington Wild Forest), Wilmington
 <ul>
 <li><b>Best for:</b> Hike / Drive-up summit — stone steps and elevator to 360° views — One of the best hikes we&#x27;ve ever done — but not for the faint of heart. Drive almost all the way to the 4,867-ft summit of Whiteface Mountain, New York&#x27;s fifth-highest peak, along the scenic Whiteface Veterans&#x27; Memorial Highway, then climb steep stone steps over rocky terrain to the top — or take the elevator built inside the mountain instead. On a clear day the 360-degree views stretch across the Adirondacks to Vermont and even Canada.</li>
 <li>Adirondack High Peak #5 (4,867 ft). The 5-mi Veterans&#x27; Memorial Highway (opened 1935, dedicated to WWI veterans) reaches a parking area at 4,600 ft; the final 267 ft is by tunnel and elevator. Summit conditions can be extreme — video notes temps to -40°F and winds up to 120 mph. The mountain&#x27;s east slope is the Whiteface ski area, which hosted the alpine events of the 1980 Winter Olympics and has the greatest vertical drop in the eastern US (3,430 ft). The 9.8-mi Whiteface Mountain Summit Trail from the Wilmington Trailhead is a separate, harder hike — not the reel&#x27;s drive-up route.</li>
@@ -638,7 +669,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Brooklyn Bridge</h4>
 <h5>Landmark</h5>
 <ul>
-<li><b>38. <a href="https://www.google.com/maps/search/?api=1&query=Brooklyn Bridge, Brooklyn Bridge, New York, New York">Brooklyn Bridge</a></b> — Brooklyn Bridge, New York
+<li><b>40. <a href="https://www.google.com/maps/search/?api=1&query=Brooklyn Bridge, Brooklyn Bridge, New York, New York">Brooklyn Bridge</a></b> — Brooklyn Bridge, New York
 <ul>
 <li><b>Best for:</b> Landmark / The bridge walk in their NYC views guide — The Bridges chapter of their ultimate NYC picturesque-locations guide: &#x27;enjoy a lovely stroll along the Brooklyn Bridge&#x27; — with DUMBO and the Brooklyn Heights Promenade named as other notable bridge views nearby.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -655,7 +686,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Bryant Park</h4>
 <h5>Holiday market</h5>
 <ul>
-<li><b>39. <a href="https://www.google.com/maps/search/?api=1&query=Bryant Park, Bryant Park, New York, New York">Bryant Park</a></b> — Bryant Park, New York
+<li><b>41. <a href="https://www.google.com/maps/search/?api=1&query=Bryant Park, Bryant Park, New York, New York">Bryant Park</a></b> — Bryant Park, New York
 <ul>
 <li><b>Best for:</b> Holiday market / Winter Village market, ice rink and tree — On their NYC Christmas bucket list twice over: Bryant Park&#x27;s Winter Village is one of their named holiday markets to visit, and its ice rink is one of their named skating options.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -671,7 +702,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Central Park</h4>
 <h5>Park</h5>
 <ul>
-<li><b>40. <a href="https://www.google.com/maps/search/?api=1&query=Central Park, Central Park, New York, New York">Central Park</a></b> — Central Park, New York
+<li><b>42. <a href="https://www.google.com/maps/search/?api=1&query=Central Park, Central Park, New York, New York">Central Park</a></b> — Central Park, New York
 <ul>
 <li><b>Best for:</b> Park / First name in their NYC parks picks — The Parks chapter of their ultimate NYC picturesque-locations guide: &#x27;Of course Central Park is iconic!&#x27; — listed ahead of their smaller-park favorites, Little Island Park and Gantry Plaza State Park.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -687,7 +718,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Chittenango Falls State Park</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>41. <a href="https://www.google.com/maps/search/?api=1&query=Chittenango+Falls+NY">Chittenango Falls</a></b> — Chittenango Falls State Park, Cazenovia
+<li><b>43. <a href="https://www.google.com/maps/search/?api=1&query=Chittenango+Falls+NY">Chittenango Falls</a></b> — Chittenango Falls State Park, Cazenovia
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #34 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/chittenango-falls--2">Trail page</a></li>
@@ -703,7 +734,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Green Lakes State Park</h4>
 <h5>Meromictic lakes · Blue-green water without a major hike</h5>
 <ul>
-<li><b>42. <a href="https://www.google.com/maps/search/?api=1&query=Green+Lakes+State+Park+NY">Green Lakes State Park</a></b> — Green Lakes State Park, Fayetteville
+<li><b>44. <a href="https://www.google.com/maps/search/?api=1&query=Green+Lakes+State+Park+NY">Green Lakes State Park</a></b> — Green Lakes State Park, Fayetteville
 <ul>
 <li><b>Best for:</b> Meromictic lakes · Blue-green water without a major hike — Two rare meromictic lakes — Green Lake and Round Lake — whose deep waters never mix seasonally, and whose unusual chemistry creates a striking blue-green color that looks like it should need a passport. Walk the easy shoreline trail, swim at the beach in season, kayak, or picnic — a few hours of exploring without needing a major hike.</li>
 </ul>
@@ -717,7 +748,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Havana Glen Park</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>43. <a href="https://www.google.com/maps/search/?api=1&query=Eagle Cliff Falls, Havana Glen Park, Montour Falls, New York">Eagle Cliff Falls</a></b> — Havana Glen Park, Montour Falls
+<li><b>45. <a href="https://www.google.com/maps/search/?api=1&query=Eagle Cliff Falls, Havana Glen Park, Montour Falls, New York">Eagle Cliff Falls</a></b> — Havana Glen Park, Montour Falls
 <ul>
 <li><b>Best for:</b> Waterfall / Swimming-hole falls near Watkins Glen — Named in the caption (&#x27;Eagle Cliff Falls&#x27;) and shown as the reel&#x27;s &#x27;hidden falls near Watkins Glen&#x27; swimming clip: a 41-foot plunge into a nearly enclosed rock-amphitheater pool on McClure Creek in Havana Glen Park, Montour Falls, about 10 minutes from Watkins Glen. The park is seasonal (roughly mid-May to mid-October).</li>
 <li>Coordinates: Bobbieswaterfalls falls point; nyfalls.com and the Town of Montour place record agree within ~150 m.</li>
@@ -732,7 +763,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Hudson Yards</h4>
 <h5>Observation deck</h5>
 <ul>
-<li><b>44. <a href="https://www.google.com/maps/search/?api=1&query=Edge, Hudson Yards, New York, New York">Edge</a></b> — Hudson Yards, New York
+<li><b>46. <a href="https://www.google.com/maps/search/?api=1&query=Edge, Hudson Yards, New York, New York">Edge</a></b> — Hudson Yards, New York
 <ul>
 <li><b>Best for:</b> Observation deck / Highest outdoor sky deck in the Western Hemisphere — One of their three favorite NYC observation towers: Edge at Hudson Yards — and while you are at Hudson Yards, stop in for the most beautiful decorative hot-air-balloon holiday installation.</li>
 <li>Coordinates: Wikipedia (30 Hudson Yards, home of the Edge deck).</li>
@@ -749,7 +780,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Ithaca Falls Natural Area</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>45. <a href="https://www.google.com/maps/search/?api=1&query=Ithaca Falls, Ithaca Falls Natural Area, Ithaca, New York">Ithaca Falls</a></b> — Ithaca Falls Natural Area, Ithaca
+<li><b>47. <a href="https://www.google.com/maps/search/?api=1&query=Ithaca Falls, Ithaca Falls Natural Area, Ithaca, New York">Ithaca Falls</a></b> — Ithaca Falls Natural Area, Ithaca
 <ul>
 <li><b>Best for:</b> Waterfall / 150-foot falls in the middle of Ithaca — Named in the caption and shown wide in the reel: Ithaca Falls is a roughly 150-foot cascade on Fall Creek right in the city of Ithaca, just north of downtown and near Cornell — one of the five named stops on their one-weekend Finger Lakes waterfall run.</li>
 <li>Coordinates: Wikipedia / USGS GNIS (nyfalls.com agrees).</li>
@@ -764,7 +795,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Kaaterskill Falls</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>46. <a href="https://www.google.com/maps/search/?api=1&query=Kaaterskill+Falls+NY">Kaaterskill Falls</a></b> — Kaaterskill Falls, Haines Falls
+<li><b>48. <a href="https://www.google.com/maps/search/?api=1&query=Kaaterskill+Falls+NY">Kaaterskill Falls</a></b> — Kaaterskill Falls, Haines Falls
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #6 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/katterskill-falls-from-laurel-house-road">Trail page</a></li>
@@ -780,7 +811,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Letchworth State Park</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>47. <a href="https://www.google.com/maps/search/?api=1&query=Letchworth+State+Park+NY">Letchworth State Park</a></b> — Letchworth State Park, Castile
+<li><b>49. <a href="https://www.google.com/maps/search/?api=1&query=Letchworth+State+Park+NY">Letchworth State Park</a></b> — Letchworth State Park, Castile
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #1 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -796,7 +827,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>48. <a href="https://www.google.com/maps/search/?api=1&query=Middle+Falls+Letchworth+State+Park+NY">Middle Falls (Letchworth)</a></b> — Letchworth State Park, Castile
+<li><b>50. <a href="https://www.google.com/maps/search/?api=1&query=Middle+Falls+Letchworth+State+Park+NY">Middle Falls (Letchworth)</a></b> — Letchworth State Park, Castile
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #12 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/letchworth-state-park-gorge-trail">Trail page</a></li>
@@ -812,7 +843,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Liberty Island</h4>
 <h5>Landmark</h5>
 <ul>
-<li><b>49. <a href="https://www.google.com/maps/search/?api=1&query=Statue of Liberty, Liberty Island, New York, New York">Statue of Liberty</a></b> — Liberty Island, New York
+<li><b>51. <a href="https://www.google.com/maps/search/?api=1&query=Statue of Liberty, Liberty Island, New York, New York">Statue of Liberty</a></b> — Liberty Island, New York
 <ul>
 <li><b>Best for:</b> Landmark / Ferry views — sit on the right side of the boat — #1 of their three favorite New York City views: the ferry ride to the Statue of Liberty — &#x27;make sure to be on the right side of the boat for the absolute best views on the way there.&#x27; It also appears as photo #4 in their NYC city-views set.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -832,7 +863,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Little Island at Pier 55</h4>
 <h5>Park</h5>
 <ul>
-<li><b>50. <a href="https://www.google.com/maps/search/?api=1&query=Little Island, Little Island at Pier 55, New York, New York">Little Island</a></b> — Little Island at Pier 55, New York
+<li><b>52. <a href="https://www.google.com/maps/search/?api=1&query=Little Island, Little Island at Pier 55, New York, New York">Little Island</a></b> — Little Island at Pier 55, New York
 <ul>
 <li><b>Best for:</b> Park / Floating park with skyline views — #3 of their three favorite New York City views — &#x27;this might be our favorite park in NYC. It has such unique architecture and beautiful views of the New York City skyline from afar.&#x27; The tulip-pier park floats on the Hudson at Pier 55.</li>
 <li>Coordinates: Wikipedia (Little Island at Pier 55).</li>
@@ -849,7 +880,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Macy&#x27;s Herald Square</h4>
 <h5>Holiday windows</h5>
 <ul>
-<li><b>51. <a href="https://www.google.com/maps/search/?api=1&query=Macy&#x27;s Herald Square, Macy&#x27;s Herald Square, New York, New York">Macy&#x27;s Herald Square</a></b> — Macy&#x27;s Herald Square, New York
+<li><b>53. <a href="https://www.google.com/maps/search/?api=1&query=Macy&#x27;s Herald Square, Macy&#x27;s Herald Square, New York, New York">Macy&#x27;s Herald Square</a></b> — Macy&#x27;s Herald Square, New York
 <ul>
 <li><b>Best for:</b> Holiday windows / The flagship&#x27;s Christmas facade and windows — On their NYC Christmas bucket list: Macy&#x27;s Herald Square, named among the Fifth Avenue area storefronts to see at the holidays — the flagship&#x27;s facade dressed with giant red bows and wreaths.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -868,7 +899,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Manhattan Bridge</h4>
 <h5>Landmark</h5>
 <ul>
-<li><b>52. <a href="https://www.google.com/maps/search/?api=1&query=Manhattan Bridge, Manhattan Bridge, New York, New York">Manhattan Bridge</a></b> — Manhattan Bridge, New York
+<li><b>54. <a href="https://www.google.com/maps/search/?api=1&query=Manhattan Bridge, Manhattan Bridge, New York, New York">Manhattan Bridge</a></b> — Manhattan Bridge, New York
 <ul>
 <li><b>Best for:</b> Landmark / The DUMBO Washington Street view — Their standalone black-and-white photo: the Manhattan Bridge&#x27;s tower framed between the brick buildings of Washington Street in DUMBO, Brooklyn — the same view as photo 5 of their &#x27;New York City in Black &amp; White&#x27; series a year earlier.</li>
 <li>Coordinates: Wikipedia (Manhattan Bridge), East River, New York City.</li>
@@ -885,7 +916,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Midtown Manhattan</h4>
 <h5>Landmark</h5>
 <ul>
-<li><b>53. <a href="https://www.google.com/maps/search/?api=1&query=St. Patrick&#x27;s Cathedral, Midtown Manhattan, New York, New York">St. Patrick&#x27;s Cathedral</a></b> — Midtown Manhattan, New York
+<li><b>55. <a href="https://www.google.com/maps/search/?api=1&query=St. Patrick&#x27;s Cathedral, Midtown Manhattan, New York, New York">St. Patrick&#x27;s Cathedral</a></b> — Midtown Manhattan, New York
 <ul>
 <li><b>Best for:</b> Landmark / Neo-Gothic cathedral on Fifth Avenue — Photo #6 in their New York City views set: the neo-Gothic cathedral on Fifth Avenue, its stone facade and flower garlands set against a sleek glass skyscraper — part of why they could &#x27;visit New York City again &amp; again and always have more to explore&#x27;.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -902,7 +933,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Minnewaska State Park Preserve</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>54. <a href="https://www.google.com/maps/search/?api=1&query=Minnewaska+State+Park+Preserve+NY">Minnewaska State Park Preserve</a></b> — Minnewaska State Park Preserve, Kerhonkson
+<li><b>56. <a href="https://www.google.com/maps/search/?api=1&query=Minnewaska+State+Park+Preserve+NY">Minnewaska State Park Preserve</a></b> — Minnewaska State Park Preserve, Kerhonkson
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #6 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -917,7 +948,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Niagara Falls State Park</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>55. <a href="https://www.google.com/maps/search/?api=1&query=American+Falls+Niagara+Falls+State+Park+NY">American Falls</a></b> — Niagara Falls State Park, Niagara Falls
+<li><b>57. <a href="https://www.google.com/maps/search/?api=1&query=American+Falls+Niagara+Falls+State+Park+NY">American Falls</a></b> — Niagara Falls State Park, Niagara Falls
 <ul>
 <li><b>Best for:</b> Waterfall — Caption names Niagara Falls, and on-screen text calls it &#x27;America&#x27;s first state park for a reason...&#x27; The video shows the American Falls from the Cave of the Winds walkways and staircases, with massive water crashing down and heavy mist around visitors in yellow ponchos.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/niagara-falls-terrapin-point-and-bridal-veil-falls">Trail page</a></li>
@@ -929,7 +960,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>56. <a href="https://www.google.com/maps/search/?api=1&query=Horseshoe+Falls+Niagara+Falls+State+Park+NY">Horseshoe Falls</a></b> — Niagara Falls State Park, Niagara Falls
+<li><b>58. <a href="https://www.google.com/maps/search/?api=1&query=Horseshoe+Falls+Niagara+Falls+State+Park+NY">Horseshoe Falls</a></b> — Niagara Falls State Park, Niagara Falls
 <ul>
 <li><b>Best for:</b> Waterfall — Caption asks, &#x27;Or is it Niagara Falls?&#x27; The video pans across Horseshoe Falls&#x27; massive curtain of water, rising mist, churning green-blue river, rocky cliffs, and a distant viewing platform.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/niagara-falls-terrapin-point-and-bridal-veil-falls">Trail page</a></li>
@@ -941,7 +972,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>57. <a href="https://www.google.com/maps/search/?api=1&query=Niagara+Falls+Niagara+Falls+State+Park+NY">Niagara Falls</a></b> — Niagara Falls State Park, Niagara Falls
+<li><b>59. <a href="https://www.google.com/maps/search/?api=1&query=Niagara+Falls+Niagara+Falls+State+Park+NY">Niagara Falls</a></b> — Niagara Falls State Park, Niagara Falls
 <ul>
 <li><b>Best for:</b> Waterfall — Caption names Niagara Falls. A close view pans across torrents of white water, the mist-filled gorge, and the distant city skyline across the river; on-screen text reads, &#x27;The original...&#x27;</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/niagara-falls-terrapin-point-and-bridal-veil-falls">Trail page</a></li>
@@ -957,7 +988,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>One Vanderbilt</h4>
 <h5>Observation deck</h5>
 <ul>
-<li><b>58. <a href="https://www.google.com/maps/search/?api=1&query=Summit One Vanderbilt, One Vanderbilt, New York, New York">Summit One Vanderbilt</a></b> — One Vanderbilt, New York
+<li><b>60. <a href="https://www.google.com/maps/search/?api=1&query=Summit One Vanderbilt, One Vanderbilt, New York, New York">Summit One Vanderbilt</a></b> — One Vanderbilt, New York
 <ul>
 <li><b>Best for:</b> Observation deck / Mirrored, immersive deck above Grand Central — One of their three favorite NYC observation towers: Summit One Vanderbilt, the mirrored, art-filled observation experience atop One Vanderbilt beside Grand Central Terminal.</li>
 <li>Coordinates: Wikipedia (One Vanderbilt).</li>
@@ -974,7 +1005,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Robert H. Treman State Park</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>59. <a href="https://www.google.com/maps/search/?api=1&query=Lucifer Falls, Robert H. Treman State Park, Ithaca, New York">Lucifer Falls</a></b> — Robert H. Treman State Park, Ithaca
+<li><b>61. <a href="https://www.google.com/maps/search/?api=1&query=Lucifer Falls, Robert H. Treman State Park, Ithaca, New York">Lucifer Falls</a></b> — Robert H. Treman State Park, Ithaca
 <ul>
 <li><b>Best for:</b> Waterfall / The tiered giant of Enfield Glen — Shown in the reel&#x27;s montage (not named in the caption): the tiered Lucifer Falls drops 115 feet down Enfield Creek in Robert H. Treman State Park, Ithaca — the centerpiece of the park&#x27;s Gorge Trail, with stone staircases climbing the cliff beside it.</li>
 <li>Coordinates: Bobbieswaterfalls falls point for Lucifer Falls (Enfield Glen).</li>
@@ -989,7 +1020,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Rockefeller Center</h4>
 <h5>Christmas tree</h5>
 <ul>
-<li><b>60. <a href="https://www.google.com/maps/search/?api=1&query=Rockefeller Center, Rockefeller Center, New York, New York">Rockefeller Center</a></b> — Rockefeller Center, New York
+<li><b>62. <a href="https://www.google.com/maps/search/?api=1&query=Rockefeller Center, Rockefeller Center, New York, New York">Rockefeller Center</a></b> — Rockefeller Center, New York
 <ul>
 <li><b>Best for:</b> Christmas tree / The iconic tree, the Rink and Top of the Rock — The heart of their NYC Christmas bucket list: the iconic Rockefeller Christmas tree (visit early in the day, late at night or on a weekday for the most enjoyable experience), ice skating at the Rink below it, and Top of the Rock — one of their three favorite NYC observation towers — on top of the same complex.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -1011,7 +1042,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Show venue</h5>
 <ul>
-<li><b>61. <a href="https://www.google.com/maps/search/?api=1&query=Radio City Music Hall, Rockefeller Center, New York, New York">Radio City Music Hall</a></b> — Rockefeller Center, New York
+<li><b>63. <a href="https://www.google.com/maps/search/?api=1&query=Radio City Music Hall, Rockefeller Center, New York, New York">Radio City Music Hall</a></b> — Rockefeller Center, New York
 <ul>
 <li><b>Best for:</b> Show venue / Christmas Spectacular, giant ornaments and candy canes — On their NYC Christmas bucket list: explore Radio City Music Hall — home of the Rockettes and the Christmas Spectacular — and the adjacent streets, where the holiday displays include giant ornaments and candy canes.</li>
 <li>Coordinates: Wikipedia.</li>
@@ -1028,7 +1059,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Taughannock Falls State Park</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>62. <a href="https://www.google.com/maps/search/?api=1&query=Taughannock+Falls+NY">Taughannock Falls</a></b> — Taughannock Falls State Park, Ithaca
+<li><b>64. <a href="https://www.google.com/maps/search/?api=1&query=Taughannock+Falls+NY">Taughannock Falls</a></b> — Taughannock Falls State Park, Ithaca
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #4 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/taughannock-falls-via-gorge-trail">Trail page</a></li>
@@ -1046,7 +1077,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Watkins Glen State Park</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>63. <a href="https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+NY">Watkins Glen State Park</a></b> — Watkins Glen State Park, Watkins Glen
+<li><b>65. <a href="https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+NY">Watkins Glen State Park</a></b> — Watkins Glen State Park, Watkins Glen
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #4 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -1063,7 +1094,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>64. <a href="https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Watkins+Glen+NY">Rainbow Falls (Watkins Glen)</a></b> — Watkins Glen State Park, Watkins Glen
+<li><b>66. <a href="https://www.google.com/maps/search/?api=1&query=Rainbow+Falls+Watkins+Glen+NY">Rainbow Falls (Watkins Glen)</a></b> — Watkins Glen State Park, Watkins Glen
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #14 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/rainbow-falls-via-indian-trail-and-gorge-trail">Trail page</a></li>
@@ -1082,7 +1113,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Austin Dam Memorial Park</h4>
 <h5>Historic site · Ruins of the 1911 Austin Dam failure</h5>
 <ul>
-<li><b>65. <a href="https://www.google.com/maps/search/?api=1&query=Austin+Dam+Ruins+Potter+County+PA">Austin Dam Ruins</a></b> — Austin Dam Memorial Park, Austin
+<li><b>67. <a href="https://www.google.com/maps/search/?api=1&query=Austin+Dam+Ruins+Potter+County+PA">Austin Dam Ruins</a></b> — Austin Dam Memorial Park, Austin
 <ul>
 <li><b>Best for:</b> Historic site · Ruins of the 1911 Austin Dam failure — Honorable mention in the reel&#x27;s caption: the towering concrete ruins of the Austin Dam in Potter County, which failed in 1911 and destroyed the town below — now a memorial park.</li>
 <li>Pin is OpenStreetMap&#x27;s Austin Dam Overlook viewpoint.</li>
@@ -1097,7 +1128,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Bilger&#x27;s Rocks</h4>
 <h5>Hike · Ancient sandstone rock maze</h5>
 <ul>
-<li><b>66. <a href="https://www.google.com/maps/search/?api=1&query=Bilger&#x27;s+Rocks+Grampian+PA">Bilger&#x27;s Rocks</a></b> — Bilger&#x27;s Rocks, Grampian
+<li><b>68. <a href="https://www.google.com/maps/search/?api=1&query=Bilger&#x27;s+Rocks+Grampian+PA">Bilger&#x27;s Rocks</a></b> — Bilger&#x27;s Rocks, Grampian
 <ul>
 <li><b>Best for:</b> Hike · Ancient sandstone rock maze — A 300-million-year-old sandstone &#x27;rock city&#x27; in Clearfield County — moss-covered boulders split into narrow passageways and small caves; the reel&#x27;s presenter squeezes through the crevices and wanders the forest among the rocks.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/pennsylvania/bilgers-rocks">Trail page</a></li>
@@ -1112,7 +1143,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Bushkill Falls</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>67. <a href="https://www.google.com/maps/search/?api=1&query=Bushkill+Falls+PA">Bushkill Falls</a></b> — Bushkill Falls, Bushkill
+<li><b>69. <a href="https://www.google.com/maps/search/?api=1&query=Bushkill+Falls+PA">Bushkill Falls</a></b> — Bushkill Falls, Bushkill
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #36 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/pennsylvania/bushkill-falls-red-and-blue-trail">Trail page</a></li>
@@ -1128,7 +1159,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Cherry Springs State Park</h4>
 <h5>Stargazing</h5>
 <ul>
-<li><b>68. <a href="https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+PA">Cherry Springs State Park</a></b> — Cherry Springs State Park, Coudersport
+<li><b>70. <a href="https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+PA">Cherry Springs State Park</a></b> — Cherry Springs State Park, Coudersport
 <ul>
 <li><b>Best for:</b> Stargazing — Ranked #5 in Adventure Family Vlog&#x27;s &#x27;10 Places in America Where the Night Sky Doesn&#x27;t Look Real&#x27; — picked as one of America&#x27;s most incredible dark-sky destinations for stargazing and Milky Way photography.</li>
 <li>Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.</li>
@@ -1142,7 +1173,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>69. <a href="https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+Astronomy+Observation+Field+PA">Overnight Astronomy Observation Field</a></b> — Cherry Springs State Park, Coudersport
+<li><b>71. <a href="https://www.google.com/maps/search/?api=1&query=Cherry+Springs+State+Park+Astronomy+Observation+Field+PA">Overnight Astronomy Observation Field</a></b> — Cherry Springs State Park, Coudersport
 <ul>
 <li><b>Best for:</b> Stargazing — Visit Dark Skies PA&#x27;s pick for the best stargazing setup at Cherry Springs: the Overnight Astronomy Observation Field, with concrete telescope pads, electrical outlets and WiFi. The rules that keep it world-class: a permit/registration is required, arrive and set up before dark (vehicles then stay in the adjacent lot), red lights only — no white light — no campfires, and quiet hours from midnight to 9 AM.</li>
 <li>Pin shares the Cherry Springs State Park coordinates; the observation field is inside the park.</li>
@@ -1157,7 +1188,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Cook Forest State Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>70. <a href="https://www.google.com/maps/search/?api=1&query=Longfellow+Trail+Cook+Forest+State+Park+PA">Longfellow Trail</a></b> — Cook Forest State Park, Cooksburg
+<li><b>72. <a href="https://www.google.com/maps/search/?api=1&query=Longfellow+Trail+Cook+Forest+State+Park+PA">Longfellow Trail</a></b> — Cook Forest State Park, Cooksburg
 <ul>
 <li><b>Best for:</b> Hike / Giant trees · The Forest Cathedral&#x27;s old-growth white pines and hemlocks — Ranked #8 of the carousel&#x27;s 10 hikes among giant trees: wander the Forest Cathedral among old-growth white pines and hemlocks on the Longfellow Trail in Cook Forest State Park, Pennsylvania.</li>
 <li>Pin is the OSM Cook Forest State Park point — the Longfellow Trail runs through the Forest Cathedral Natural Area at the park&#x27;s heart.</li>
@@ -1172,7 +1203,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Dingmans Falls (Delaware Water Gap)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>71. <a href="https://www.google.com/maps/search/?api=1&query=Dingmans+Falls+PA">Dingmans Falls</a></b> — Dingmans Falls (Delaware Water Gap), Dingmans Ferry
+<li><b>73. <a href="https://www.google.com/maps/search/?api=1&query=Dingmans+Falls+PA">Dingmans Falls</a></b> — Dingmans Falls (Delaware Water Gap), Dingmans Ferry
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #27 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/pennsylvania/dingmans-creek-trail">Trail page</a></li>
@@ -1188,7 +1219,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Elk Country Visitor Center (Winslow Hill)</h4>
 <h5>Wildlife · Wild elk herd viewing</h5>
 <ul>
-<li><b>72. <a href="https://www.google.com/maps/search/?api=1&query=Elk+Country+Visitor+Center+Benezette+PA">Benezette Elk Viewing</a></b> — Elk Country Visitor Center (Winslow Hill), Benezette
+<li><b>74. <a href="https://www.google.com/maps/search/?api=1&query=Elk+Country+Visitor+Center+Benezette+PA">Benezette Elk Viewing</a></b> — Elk Country Visitor Center (Winslow Hill), Benezette
 <ul>
 <li><b>Best for:</b> Wildlife · Wild elk herd viewing — The reel stops in Elk County near Benezette for Pennsylvania&#x27;s wild elk herd — wide fields at sunrise and sunset and a big bull elk filmed from the roadside. The Elk Country Visitor Center on Winslow Hill is the hub of the viewing area.</li>
 <li>Pin is the Elk Country Visitor Center in Benezette, the center of the Winslow Hill elk-viewing area the reel films.</li>
@@ -1203,7 +1234,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Hyner View State Park</h4>
 <h5>Scenic overlook · West Branch Susquehanna vista and hang-glider launch</h5>
 <ul>
-<li><b>73. <a href="https://www.google.com/maps/search/?api=1&query=Hyner+View+State+Park+PA">Hyner View State Park</a></b> — Hyner View State Park, Hyner
+<li><b>75. <a href="https://www.google.com/maps/search/?api=1&query=Hyner+View+State+Park+PA">Hyner View State Park</a></b> — Hyner View State Park, Hyner
 <ul>
 <li><b>Best for:</b> Scenic overlook · West Branch Susquehanna vista and hang-glider launch — Honorable mention in the reel&#x27;s caption: a small Clinton County park built around one big view — the overlook (also a hang-glider launch) above a sweeping bend of the West Branch Susquehanna River.</li>
 </ul>
@@ -1217,7 +1248,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Kinzua Bridge State Park</h4>
 <h5>Scenic overlook · Skywalk on the collapsed Kinzua Viaduct</h5>
 <ul>
-<li><b>74. <a href="https://www.google.com/maps/search/?api=1&query=Kinzua+Bridge+State+Park+PA">Kinzua Bridge State Park</a></b> — Kinzua Bridge State Park, Mount Jewett
+<li><b>76. <a href="https://www.google.com/maps/search/?api=1&query=Kinzua+Bridge+State+Park+PA">Kinzua Bridge State Park</a></b> — Kinzua Bridge State Park, Mount Jewett
 <ul>
 <li><b>Best for:</b> Scenic overlook · Skywalk on the collapsed Kinzua Viaduct — Honorable mention in the reel&#x27;s caption: the Kinzua Viaduct in McKean County — once among the longest and highest railroad bridges in the world, toppled by a tornado in 2003 and reinvented as a skywalk out over the gorge, with the twisted towers still lying in the valley below.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/pennsylvania/kinzua-bridge-trail">Trail page</a></li>
@@ -1233,7 +1264,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Laurel Caverns State Park</h4>
 <h5>Cave tour</h5>
 <ul>
-<li><b>75. <a href="https://www.google.com/maps/search/?api=1&query=Laurel+Caverns+State+Park+Farmington+PA">Laurel Caverns State Park</a></b> — Laurel Caverns State Park, Farmington
+<li><b>77. <a href="https://www.google.com/maps/search/?api=1&query=Laurel+Caverns+State+Park+Farmington+PA">Laurel Caverns State Park</a></b> — Laurel Caverns State Park, Farmington
 <ul>
 <li><b>Best for:</b> Cave tour / Underground state park — Pennsylvania&#x27;s first and only underground state park — 426 acres on Chestnut Ridge in the Laurel Highlands, about 50 mi southeast of Pittsburgh. Massive sandstone passageways and winding tunnels, colorfully lit, on a guided tour that goes 46 stories deep into the mountain; the cave stays 52°F year-round. A cool stop beyond the usual overlooks and hiking trails, especially on a Pennsylvania road trip.</li>
 <li>Coordinates from PA DCNR/Wikipedia (39.79961,-79.71161); 1065 Skyline Dr, Farmington, PA 15437. Largest cave in PA by volume and area, deepest in the state; guided tour ~3 hours. The cave closes in winter for bat hibernation (e.g. Oct 27, 2024–Apr 22, 2025) — check laurelcaverns.com for current season hours.</li>
@@ -1248,7 +1279,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Leonard Harrison State Park</h4>
 <h5>Scenic overlook · PA Grand Canyon overlooks and Turkey Path waterfall</h5>
 <ul>
-<li><b>76. <a href="https://www.google.com/maps/search/?api=1&query=Pine+Creek+Gorge+Leonard+Harrison+State+Park+PA">Pine Creek Gorge (PA Grand Canyon)</a></b> — Leonard Harrison State Park, Wellsboro
+<li><b>78. <a href="https://www.google.com/maps/search/?api=1&query=Pine+Creek+Gorge+Leonard+Harrison+State+Park+PA">Pine Creek Gorge (PA Grand Canyon)</a></b> — Leonard Harrison State Park, Wellsboro
 <ul>
 <li><b>Best for:</b> Scenic overlook · PA Grand Canyon overlooks and Turkey Path waterfall — Tioga County&#x27;s &#x27;Grand Canyon of Pennsylvania&#x27; — a roughly 45-mile-long, 1,000-foot-deep forested gorge. The reel shows the rim overlooks at Leonard Harrison State Park, hikers on the cliff edges, and the Turkey Path trail dropping past its waterfall toward Pine Creek.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/pennsylvania/turkey-path">Trail page</a></li>
@@ -1263,7 +1294,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Ohiopyle State Park</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>77. <a href="https://www.google.com/maps/search/?api=1&query=Ohiopyle+State+Park+PA">Ohiopyle State Park</a></b> — Ohiopyle State Park, Ohiopyle
+<li><b>79. <a href="https://www.google.com/maps/search/?api=1&query=Ohiopyle+State+Park+PA">Ohiopyle State Park</a></b> — Ohiopyle State Park, Ohiopyle
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #8 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -1277,7 +1308,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall · 36-foot falls you can walk behind, on a 5-minute trail</h5>
 <ul>
-<li><b>78. <a href="https://www.google.com/maps/search/?api=1&query=Cucumber+Falls+Ohiopyle+State+Park+PA">Cucumber Falls</a></b> — Ohiopyle State Park, Ohiopyle
+<li><b>80. <a href="https://www.google.com/maps/search/?api=1&query=Cucumber+Falls+Ohiopyle+State+Park+PA">Cucumber Falls</a></b> — Ohiopyle State Park, Ohiopyle
 <ul>
 <li><b>Best for:</b> Waterfall · 36-foot falls you can walk behind, on a 5-minute trail — A beautiful waterfall you can stand inside of: a 36-foot bridal-veil falls on the Great Gorge Trail in Ohiopyle State Park, reached by a very short, super-maintained trail — under five minutes, with a scenic overlook at the start — that the creator stresses is easy enough for kids and elderly visitors. Scramble over the rocks at the base and you can walk behind the curtain of water.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/pennsylvania/cucumber-falls">Trail page</a></li>
@@ -1292,7 +1323,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Penn&#x27;s Cave &amp; Wildlife Park</h4>
 <h5>Cave tour · America&#x27;s only all-water cavern, toured by boat</h5>
 <ul>
-<li><b>79. <a href="https://www.google.com/maps/search/?api=1&query=Penn&#x27;s+Cave+Centre+Hall+PA">Penn&#x27;s Cave</a></b> — Penn&#x27;s Cave &amp; Wildlife Park, Centre Hall
+<li><b>81. <a href="https://www.google.com/maps/search/?api=1&query=Penn&#x27;s+Cave+Centre+Hall+PA">Penn&#x27;s Cave</a></b> — Penn&#x27;s Cave &amp; Wildlife Park, Centre Hall
 <ul>
 <li><b>Best for:</b> Cave tour · America&#x27;s only all-water cavern, toured by boat — The reel&#x27;s first stop: a boat ride through America&#x27;s only all-water cavern — you float the underground river past illuminated stalactites instead of walking. It&#x27;s also the only Pennsylvania cave on the National Register of Historic Places, with a wildlife park above ground.</li>
 <li>Coordinates from the venue&#x27;s published location, 222 Penns Cave Rd, Centre Hall (OpenStreetMap has no attraction point for the cave).</li>
@@ -1307,7 +1338,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Raymondskill Falls (Delaware Water Gap)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>80. <a href="https://www.google.com/maps/search/?api=1&query=Raymondskill+Falls+PA">Raymondskill Falls</a></b> — Raymondskill Falls (Delaware Water Gap), Milford
+<li><b>82. <a href="https://www.google.com/maps/search/?api=1&query=Raymondskill+Falls+PA">Raymondskill Falls</a></b> — Raymondskill Falls (Delaware Water Gap), Milford
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #21 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/pennsylvania/raymondskill-falls-loop-trail">Trail page</a></li>
@@ -1323,7 +1354,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Ricketts Glen State Park</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>81. <a href="https://www.google.com/maps/search/?api=1&query=Ricketts+Glen+State+Park+PA">Ricketts Glen State Park</a></b> — Ricketts Glen State Park, Benton
+<li><b>83. <a href="https://www.google.com/maps/search/?api=1&query=Ricketts+Glen+State+Park+PA">Ricketts Glen State Park</a></b> — Ricketts Glen State Park, Benton
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #5 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -1337,7 +1368,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>82. <a href="https://www.google.com/maps/search/?api=1&query=Ganoga+Falls+PA">Ganoga Falls</a></b> — Ricketts Glen State Park, Benton
+<li><b>84. <a href="https://www.google.com/maps/search/?api=1&query=Ganoga+Falls+PA">Ganoga Falls</a></b> — Ricketts Glen State Park, Benton
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #13 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/pennsylvania/ricketts-glen-falls-loop">Trail page</a></li>
@@ -1353,7 +1384,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Wellsboro</h4>
 <h5>Small town stop · Gas-lit Main Street and the Wellsboro Diner</h5>
 <ul>
-<li><b>83. <a href="https://www.google.com/maps/search/?api=1&query=Wellsboro+PA">Wellsboro</a></b> — Wellsboro, Wellsboro
+<li><b>85. <a href="https://www.google.com/maps/search/?api=1&query=Wellsboro+PA">Wellsboro</a></b> — Wellsboro, Wellsboro
 <ul>
 <li><b>Best for:</b> Small town stop · Gas-lit Main Street and the Wellsboro Diner — The reel&#x27;s small-town stop: Wellsboro&#x27;s historic, gas-lit Main Street, its storefronts and the classic Wellsboro Diner — the gateway town for the Pine Creek Gorge.</li>
 </ul>
@@ -1367,7 +1398,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Worlds End State Park</h4>
 <h5>State park · Loyalsock Creek gorge park</h5>
 <ul>
-<li><b>84. <a href="https://www.google.com/maps/search/?api=1&query=Worlds+End+State+Park+PA">Worlds End State Park</a></b> — Worlds End State Park, Forksville
+<li><b>86. <a href="https://www.google.com/maps/search/?api=1&query=Worlds+End+State+Park+PA">Worlds End State Park</a></b> — Worlds End State Park, Forksville
 <ul>
 <li><b>Best for:</b> State park · Loyalsock Creek gorge park — Honorable mention in the reel&#x27;s caption: a rugged Sullivan County park in the Loyalsock Creek gorge — a swimming area on the creek, the Loyalsock Canyon Vista, and trailheads into Loyalsock Trail country.</li>
 </ul>
@@ -1384,7 +1415,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Moss Glen Falls (Granville)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>85. <a href="https://www.google.com/maps/search/?api=1&query=Moss+Glen+Falls+Granville+VT">Moss Glen Falls (Granville)</a></b> — Moss Glen Falls (Granville), Granville
+<li><b>87. <a href="https://www.google.com/maps/search/?api=1&query=Moss+Glen+Falls+Granville+VT">Moss Glen Falls (Granville)</a></b> — Moss Glen Falls (Granville), Granville
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #35 in @discovery_matt&#x27;s &#x27;The 40 Best Waterfalls in the Eastern U.S.&#x27; (2026 edition) — one of his editorial picks for the East&#x27;s best waterfalls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/vermont/moss-glen-falls--2">Trail page</a></li>
@@ -1400,7 +1431,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Smugglers&#x27; Notch State Park</h4>
 <h5>Top state park</h5>
 <ul>
-<li><b>86. <a href="https://www.google.com/maps/search/?api=1&query=Smugglers&#x27;+Notch+State+Park+VT">Smugglers&#x27; Notch State Park</a></b> — Smugglers&#x27; Notch State Park, Cambridge
+<li><b>88. <a href="https://www.google.com/maps/search/?api=1&query=Smugglers&#x27;+Notch+State+Park+VT">Smugglers&#x27; Notch State Park</a></b> — Smugglers&#x27; Notch State Park, Cambridge
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #12 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
@@ -20325,6 +20356,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: One of the most unique places in Idaho — a true hidden gem in the South Hills of Cassia County: Teepee Rocks, white teepee-shaped tuff spires below Ibex Peak, found by on-screen coordinates only (the caption deliberately withholds the name). High clearance vehicle recommended, 4WD depending on conditions; the road back is rocky and uneven. Also to explore during this grand adventure: City of Rocks National Reserve, Albion Mountains, Oakley Reservoir, and the South Hills around the history-filled town of Oakley. (Albion Mountains, Oakley Reservoir, the South Hills, and Oakley town are named in the summary only — the mountains and hills are too vague to pin, the reservoir is a drive-by waypoint, and Oakley is a gateway town with no town-specific content.)
 - **[Rattlesnake Canyon — arches in Colorado's McInnis Canyons](https://www.instagram.com/reel/DgL7aB_BDhY/)** — @the.guidebook · 1 places · Theme: Rattlesnake Canyon — McInnis Canyons arches hike
   - What the reel recommends: Rattlesnake Canyon in Colorado's McInnis Canyons National Conservation Area — the second-largest arch concentration in the US (9 major arches, ~35 total). Two ways in: the 3.6-mi RT / 308-ft version from the 4x4 trailhead (high clearance + 4WD mandatory, last 2 mi very rough), or the 14.8-mi RT / 2,381-ft version from the 2WD Pollock Bench Trailhead (with scrambling).
+- **[The tallest public bridge observatory in the world — Penobscot Narrows, Maine](https://www.instagram.com/reel/DgLgJ2UObE_/)** — @travelingmainers · 2 places · Theme: Penobscot Narrows Bridge and Observatory — Maine
+  - What the reel recommends: The Penobscot Narrows Bridge Observatory in Maine — the tallest public bridge observatory in the world (420 ft, opened 2007, elevator + short stairs, 360-degree views, glass floor panels). Open May 1-Oct 31, 9 AM-5 PM (6 PM Jul-Aug). Buy tickets to the Observatory AND Fort Knox (right next door) for $9 Maine residents / $11 non-residents, in person.
 
 ## How this page is updated {#how-this-page-is-updated}
 
