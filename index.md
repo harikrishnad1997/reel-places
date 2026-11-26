@@ -5489,6 +5489,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/reel/DfkXozkBTZ2/">15 places in Kansas to see before you die</a> by @midwesttravelmama (#9 in that reel)</li>
+<li><a href="https://www.instagram.com/reel/DgJshzuSyij/">Little Jerusalem Badlands — Kansas road trip</a> by @throughourlinds</li>
 </ul>
 </details>
 </li>
@@ -20231,6 +20232,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Part 3 of places in California that will alter your brain chemistry: Kearsarge Lakes (12.6-mi hard hike to glacier-fed turquoise alpine lakes), Antelope Valley Poppy Fields (orange wildflowers blanketing the hills around Lancaster every spring), Ancient Bristlecone Pine Forest (trees nearly 5,000 years old), Yosemite Falls (tallest waterfall in North America, 2,425 ft), Kelso Dunes (650-ft 'singing' dunes in the Mojave), South Lake (crystal-clear alpine lake near 10,000 ft near Bishop), Trona Pinnacles (500+ alien tufa spires), Arch Rock & Heart Rock in Joshua Tree (wind-carved granite formations at golden hour — Heart Rock is a feature along the Arch Rock Trail, not a separate pin), Avenue of the Giants (scenic drive through ancient coast redwoods), and Painted Canyon (slot canyon in the Mecca Hills with swirling pink, red, and green rock and ladder climbs).
 - **[Where I would go in Washington State — a local's list](https://www.instagram.com/reel/DgK1tuyqcp-/)** — @betweenthepine · 10 places · Theme: Washington State — where a local would go
   - What the reel recommends: Where a Washington local would go: #1 Mount Rainier National Park — hike Mazama Ridge Trail to skip the crowds; #2 North Cascades — skip the park itself, stay in Glacier and hike the Heather Meadows and Artist Point area in the surrounding National Forest; #3 Olympic National Park — stay in Port Angeles, sunrise on Hurricane Ridge, sunset at Rialto Beach; #4 pack a picnic down Middle Fork Road in Snoqualmie Valley and hike Garfield Ledges; #5 eat in the city (Homer, How to Cook a Wolf, The Walrus and The Carpenter, Molly Moons, Santo, Mighty-O Donuts — named only); #6 choose Orcas Island in the San Juans and stroll Eastsound (ferry reservation needed). Bonus: July & August are the most popular months, but early October brings fewer crowds and cozy vibes.
+- **[Little Jerusalem Badlands — Kansas road trip](https://www.instagram.com/reel/DgJshzuSyij/)** — @throughourlinds · 1 places · Theme: Little Jerusalem Badlands — Kansas road trip
+  - What the reel recommends: Little Jerusalem Badlands near Oakley, Kansas — a 332-acre state park holding the largest Niobrara Chalk formations in the state. Two designated trails; stay on the marked trails.
 
 ## How this page is updated {#how-this-page-is-updated}
 
