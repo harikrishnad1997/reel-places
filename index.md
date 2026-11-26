@@ -2436,6 +2436,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/p/Der2jZzGNin/">The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)</a> by @discovery_matt (#9 in that reel)</li>
+<li><a href="https://www.instagram.com/reel/Df-cJUpJwB5/">A North Carolina bucket list waterfall you can actually walk behind — Dry Falls</a> by @the.travel.ksu</li>
 </ul>
 </details>
 </li>
@@ -20461,6 +20462,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Waterfalls to check off in the Bay Area — rainy season = waterfall season, and these should be flowing right now: Linda Falls, Steep Ravine, Buck Gulch Falls, Sonoma Creek Falls, Cataract Falls, Tucker Falls, Cascade Falls. Most only show off after the rain, so winter-spring is the time to go.
 - **[State parks that might be better than national parks — Part 1](https://www.instagram.com/reel/DgDpiPoKlhN/)** — @mccrawsonthemap · 7 places · Theme: State parks that rival national parks — Part 1
   - What the reel recommends: State parks that might be better than national parks — Part 1: Ecola (OR), Dead Horse Point (UT), Watkins Glen (NY), Point Lobos (CA), Valley of Fire (NV), Custer (SD), Letchworth (NY). They've been to 55 national parks, but these state parks give them a run for their money.
+- **[A North Carolina bucket list waterfall you can actually walk behind — Dry Falls](https://www.instagram.com/reel/Df-cJUpJwB5/)** — @the.travel.ksu · 1 places · Theme: Dry Falls — walk-behind waterfall, Highlands NC
+  - What the reel recommends: Dry Falls in Highlands, NC — a 75-ft waterfall on the Cullasaja River you can walk right behind, a scenic drive from Atlanta (~2.5 hr). No long hike required: a short paved trail with stairs down to the falls. Parking $3 per vehicle. Address: 4468 Highlands Rd, Highlands, NC 28741.
 
 ## How this page is updated {#how-this-page-is-updated}
 
