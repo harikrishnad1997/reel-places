@@ -20906,6 +20906,21 @@
    "places_count": 10,
    "duplicate_place": false,
    "recommendation_summary": "Where a Washington local would go: #1 Mount Rainier National Park — hike Mazama Ridge Trail to skip the crowds; #2 North Cascades — skip the park itself, stay in Glacier and hike the Heather Meadows and Artist Point area in the surrounding National Forest; #3 Olympic National Park — stay in Port Angeles, sunrise on Hurricane Ridge, sunset at Rialto Beach; #4 pack a picnic down Middle Fork Road in Snoqualmie Valley and hike Garfield Ledges; #5 eat in the city (Homer, How to Cook a Wolf, The Walrus and The Carpenter, Molly Moons, Santo, Mighty-O Donuts — named only); #6 choose Orcas Island in the San Juans and stroll Eastsound (ferry reservation needed). Bonus: July & August are the most popular months, but early October brings fewer crowds and cozy vibes."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DgJshzuSyij/",
+   "title": "Little Jerusalem Badlands — Kansas road trip",
+   "creator": "@throughourlinds",
+   "creator_name": "Lindsay and Ryan | Midwest Family Travel & RV Life",
+   "theme": "Little Jerusalem Badlands — Kansas road trip",
+   "posted": "2026-11-24",
+   "added": "2026-11-25",
+   "place_ids": [
+    "little-jerusalem-badlands-ks"
+   ],
+   "places_count": 1,
+   "duplicate_place": true,
+   "recommendation_summary": "Little Jerusalem Badlands near Oakley, Kansas — a 332-acre state park holding the largest Niobrara Chalk formations in the state. Two designated trails; stay on the marked trails."
   }
  ]
 }
