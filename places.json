@@ -23405,7 +23405,17 @@
    "source_creator": "@bhuti_hikes",
    "source_rank": 5,
    "source_reel_theme": "Bay Area hikes",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Waterfall",
+     "recommendation": "One of the Bay Area waterfalls to check off in the rainy season — winter-spring is the time to go.",
+     "source_creator": "@bhuti_hikes",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgFwjVfRcHU/",
+     "source_reel_theme": "Bay Area waterfalls — rainy season",
+     "source_title": "Waterfalls to check off in the Bay Area"
+    }
+   ]
   },
   {
    "id": "stonewall-panoramic-trail-ca",
@@ -23449,7 +23459,17 @@
    "source_creator": "@bhuti_hikes",
    "source_rank": 7,
    "source_reel_theme": "Bay Area hikes",
-   "additional_sources": []
+   "additional_sources": [
+    {
+     "best_for": "Waterfall",
+     "recommendation": "One of the Bay Area waterfalls to check off in the rainy season — winter-spring is the time to go.",
+     "source_creator": "@bhuti_hikes",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgFwjVfRcHU/",
+     "source_reel_theme": "Bay Area waterfalls — rainy season",
+     "source_title": "Waterfalls to check off in the Bay Area"
+    }
+   ]
   },
   {
    "id": "rodeo-beach-hill-88-ca",
@@ -23494,7 +23514,17 @@
    "source_creator": "@bhuti_hikes",
    "source_rank": 9,
    "source_reel_theme": "Bay Area hikes",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Waterfall",
+     "recommendation": "One of the Bay Area waterfalls to check off in the rainy season — winter-spring is the time to go.",
+     "source_creator": "@bhuti_hikes",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgFwjVfRcHU/",
+     "source_reel_theme": "Bay Area waterfalls — rainy season",
+     "source_title": "Waterfalls to check off in the Bay Area"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/california/cataract-falls-trail"
   },
   {
@@ -53212,6 +53242,99 @@
    "source_rank": null,
    "source_reel_theme": "Penobscot Narrows Bridge and Observatory — Maine",
    "additional_sources": []
+  },
+  {
+   "id": "buck-gulch-falls-ca",
+   "name": "Buck Gulch Falls",
+   "site": "Buck Gulch Falls",
+   "city": "Novato",
+   "state": "California",
+   "state_code": "CA",
+   "country": "United States",
+   "region": "West",
+   "region_id": "west",
+   "lat": 38.06288,
+   "lng": -122.59101,
+   "google_maps_query": "Buck+Gulch+Falls+Novato+CA",
+   "best_for": "Waterfall / Seasonal 30-ft falls, family-friendly",
+   "recommendation": "Buck Gulch Falls — a seasonal 30-ft falls in the Ignacio Valley Preserve, best in Jan-Mar after the rains; a family-friendly ~0.7-mi hike from the end of Fairway Dr.",
+   "note": "Also known as Fairway Waterfall. About a 0.7-mi Buck Gulch Falls Trail from the end of Fairway Dr (611 Fairway Dr). Seasonal, best Jan-Mar after rains. Creek crossings, dogs on leash. Part of the trail crosses a private easement. AllTrails' trail page for the falls (Fairway Falls Trail) has no verbatim /trail/ URL in search results, so no AllTrails link is attached.",
+   "source_reel": "https://www.instagram.com/reel/DgFwjVfRcHU/",
+   "source_title": "Waterfalls to check off in the Bay Area",
+   "source_creator": "@bhuti_hikes",
+   "source_rank": null,
+   "source_reel_theme": "Bay Area waterfalls — rainy season",
+   "additional_sources": []
+  },
+  {
+   "id": "sonoma-creek-falls-ca",
+   "name": "Sonoma Creek Falls",
+   "site": "Sonoma Creek Falls",
+   "city": "Kenwood",
+   "state": "California",
+   "state_code": "CA",
+   "country": "United States",
+   "region": "West",
+   "region_id": "west",
+   "lat": 38.4398,
+   "lng": -122.5233,
+   "google_maps_query": "Sonoma+Creek+Falls+Kenwood+CA",
+   "best_for": "Waterfall / 25-ft seasonal falls in a redwood canyon",
+   "recommendation": "Sonoma Creek Falls in Sugarloaf Ridge State Park — a 25-ft seasonal waterfall on the Sonoma Creek headwaters in a redwood canyon, flowing after winter rains.",
+   "note": "25-ft seasonal waterfall on the Sonoma Creek headwaters; flows after winter rains, often dry by late summer. Shortest access: 0.4-mi RT on the lower Canyon Trail from Adobe Canyon Rd pullouts; 2-mi Pony Gate-Canyon Loop alternative. $8 day-use fee; no dogs on trails.",
+   "source_reel": "https://www.instagram.com/reel/DgFwjVfRcHU/",
+   "source_title": "Waterfalls to check off in the Bay Area",
+   "source_creator": "@bhuti_hikes",
+   "source_rank": null,
+   "source_reel_theme": "Bay Area waterfalls — rainy season",
+   "additional_sources": []
+  },
+  {
+   "id": "tucker-falls-ca",
+   "name": "Tucker Falls",
+   "site": "Tucker Falls",
+   "city": "Kentfield",
+   "state": "California",
+   "state_code": "CA",
+   "country": "United States",
+   "region": "West",
+   "region_id": "west",
+   "lat": 37.94223,
+   "lng": -122.57527,
+   "google_maps_query": "Tucker+Falls+Kentfield+CA",
+   "best_for": "Waterfall / Hidden falls off the Tucker Trail",
+   "recommendation": "Tucker Falls on Mount Tamalpais — an obscure, unmarked seasonal spur off the upper Tucker Trail near Eldridge Grade, reached via Harry Allen + Tucker Trail (~3.4 mi) from Crown Rd.",
+   "note": "Obscure unmarked spur off the upper Tucker Trail near Eldridge Grade; seasonal. Reached via Harry Allen + Tucker Trail (~3.4 mi) from Crown Rd, Kentfield, or the Bill Williams-Tucker loop from Phoenix Lake. Narrow/steep in places; mountain lions reported. The coordinate is a field-survey point, not an official published point; height figures disagree (23 ft vs 17 ft).",
+   "source_reel": "https://www.instagram.com/reel/DgFwjVfRcHU/",
+   "source_title": "Waterfalls to check off in the Bay Area",
+   "source_creator": "@bhuti_hikes",
+   "source_rank": null,
+   "source_reel_theme": "Bay Area waterfalls — rainy season",
+   "additional_sources": []
+  },
+  {
+   "id": "cascade-falls-ca",
+   "name": "Cascade Falls",
+   "site": "Cascade Falls",
+   "city": "Mill Valley",
+   "state": "California",
+   "state_code": "CA",
+   "country": "United States",
+   "region": "West",
+   "region_id": "west",
+   "lat": 37.91191,
+   "lng": -122.563834,
+   "google_maps_query": "Cascade+Falls+Mill+Valley+CA",
+   "best_for": "Waterfall / 15-ft falls in a redwood canyon, easiest in Marin",
+   "recommendation": "Cascade Falls in Mill Valley — a 15-ft falls in Cascade Park/Cascade Canyon, 0.5-mi out-and-back from 420 Cascade Dr; the easiest waterfall hike in Marin, best after heavy rain.",
+   "note": "15-ft falls in Cascade Park/Cascade Canyon, 0.5-mi out-and-back from 420 Cascade Dr; best after heavy rain; limited parking. This is the Mill Valley Cascade Falls — not to be confused with the Cascade Falls in Fairfax (Cascade Canyon Preserve), which is a different falls and a different AllTrails page.",
+   "source_reel": "https://www.instagram.com/reel/DgFwjVfRcHU/",
+   "source_title": "Waterfalls to check off in the Bay Area",
+   "source_creator": "@bhuti_hikes",
+   "source_rank": null,
+   "source_reel_theme": "Bay Area waterfalls — rainy season",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/california/cascade-falls--7"
   }
  ],
  "updated": "2026-11-25",
