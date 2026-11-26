@@ -15,10 +15,10 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Northeast Region — 88 places](#northeast)
 - [Southeast Region — 191 places](#southeast)
 - [Midwest Region — 167 places](#midwest)
-- [Southwest Region — 171 places](#southwest)
+- [Southwest Region — 172 places](#southwest)
 - [Mountain West Region — 111 places](#mountain-west)
 - [West Region — 173 places](#west)
-- [Pacific Northwest Region — 91 places](#pacific-northwest)
+- [Pacific Northwest Region — 92 places](#pacific-northwest)
 - [Alaska Region — 44 places](#alaska)
 - [Hawaii Region — 9 places](#hawaii)
 - [U.S. Territories Region — 4 places](#u.s.-territories)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 88 · Southeast 191 · Midwest 167 · Southwest 171 · Mountain West 111 · West 173 · Pacific Northwest 91 · Alaska 44 · Hawaii 9 · U.S. Territories 4 · **Total 1049**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 88 · Southeast 191 · Midwest 167 · Southwest 172 · Mountain West 111 · West 173 · Pacific Northwest 92 · Alaska 44 · Hawaii 9 · U.S. Territories 4 · **Total 1051**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -821,6 +821,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/De9LC16xH4i/">State Park Ranking — 12 Best State Parks, Northeast U.S.</a> by @discovery_matt (#1 in that reel)</li>
 <li><a href="https://www.instagram.com/reel/DfkU8vBxOYT/">This is NOT China — 25 waterfalls near Niagara</a> by @chasethewaterfalls</li>
 <li><a href="https://www.instagram.com/reel/DgINJt3BCBs/">19 waterfalls in 3 miles — Watkins Glen State Park</a> by @mccrawsonthemap</li>
+<li><a href="https://www.instagram.com/reel/DgDpiPoKlhN/">State parks that might be better than national parks — Part 1</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -1088,6 +1089,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DfSJ024hYiD/">We climbed 800 stone steps at Watkins Glen — America&#x27;s most beautiful state park</a> by @codiendrew</li>
 <li><a href="https://www.instagram.com/reel/DfkU8vBxOYT/">This is NOT China — 25 waterfalls near Niagara</a> by @chasethewaterfalls</li>
 <li><a href="https://www.instagram.com/reel/DgINJt3BCBs/">19 waterfalls in 3 miles — Watkins Glen State Park</a> by @mccrawsonthemap</li>
+<li><a href="https://www.instagram.com/reel/DgDpiPoKlhN/">State parks that might be better than national parks — Part 1</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -6878,6 +6880,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DMqPE6fxZP2/">3 national parks, 1 epic road trip — the Dakotas</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DMatEM1susR/">South Dakota is more than just Mount Rushmore</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/Dffr-W3hzDC/">Hiking — Custer State Park</a> by @amorywild</li>
+<li><a href="https://www.instagram.com/reel/DgDpiPoKlhN/">State parks that might be better than national parks — Part 1</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -7264,7 +7267,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Southwest Region {#southwest}
 
-**171 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
+**172 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
 
 <details><summary><b>Arizona</b> — 55 places</summary>
 <h4>Canyon de Chelly National Monument</h4>
@@ -8720,6 +8723,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DSp2h5yDcWG/">Skip the Strip: national park road trips from Las Vegas</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DEsVGx0RSQC/">Our type of American Dream — the Southwest road trip</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/Df_IsTKvE-u/">We usually skip the Vegas strip tbh</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/DgDpiPoKlhN/">State parks that might be better than national parks — Part 1</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -9354,7 +9358,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 
-<details><summary><b>Utah</b> — 64 places</summary>
+<details><summary><b>Utah</b> — 65 places</summary>
 <h4>Arches National Park</h4>
 <h5>Hike</h5>
 <ul>
@@ -10076,10 +10080,24 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h5>State Park</h5>
+<ul>
+<li><b>140. <a href="https://www.google.com/maps/search/?api=1&query=Dead+Horse+Point+State+Park+Moab+UT">Dead Horse Point State Park</a></b> — Dead Horse Point State Park, Moab
+<ul>
+<li><b>Best for:</b> State Park / 2,000-ft Colorado River overlook — Dead Horse Point State Park — a 2,000-ft Colorado River overlook from a 5,900-ft mesa, with a gooseneck view and Canyonlands National Park beyond.</li>
+<li>5,362 acres on a 5,900-ft mesa; overlook of the Colorado River gooseneck and Canyonlands National Park. East Rim (2 mi) + West Rim (3.5 mi) trails, ~7 mi of rim trails. $20/vehicle entry (national park passes not accepted). Kayenta + Wingate campgrounds. About 32 mi from Moab via US-191 + UT-313.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DgDpiPoKlhN/">State parks that might be better than national parks — Part 1</a> by @mccrawsonthemap</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Dry Fork Slot Canyons (Grand Staircase-Escalante)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>140. <a href="https://www.google.com/maps/search/?api=1&query=Peekaboo Gulch, Escalante, Utah">Peekaboo Gulch</a></b> — Dry Fork Slot Canyons (Grand Staircase-Escalante), Escalante
+<li><b>141. <a href="https://www.google.com/maps/search/?api=1&query=Peekaboo Gulch, Escalante, Utah">Peekaboo Gulch</a></b> — Dry Fork Slot Canyons (Grand Staircase-Escalante), Escalante
 <ul>
 <li><b>Best for:</b> Hike / Slot canyon scramble — 15-ft slickrock climb — The first half of the Peekaboo + Spooky loop: a beautiful, playful slot canyon entered by a 15-foot scramble up slickrock with limited footholds — not beginner-friendly, and they turned back without a rope. Best done up Peekaboo first, then down Spooky. Download an offline map; never enter in rain — flash floods are a serious danger.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/peek-a-boo-and-spooky-slot-canyons">Trail page</a></li>
@@ -10094,7 +10112,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Slot canyon</h5>
 <ul>
-<li><b>141. <a href="https://www.google.com/maps/search/?api=1&query=Spooky+Gulch+Escalante+UT">Spooky Gulch</a></b> — Dry Fork Slot Canyons (Grand Staircase-Escalante), Escalante
+<li><b>142. <a href="https://www.google.com/maps/search/?api=1&query=Spooky+Gulch+Escalante+UT">Spooky Gulch</a></b> — Dry Fork Slot Canyons (Grand Staircase-Escalante), Escalante
 <ul>
 <li><b>Best for:</b> Slot canyon — Jackie&#x27;s verdict: &#x27;TOTALLY worth it.&#x27; Spooky Gulch is the ultra-narrow Dry Fork slot canyon — the trailhead even has a metal frame you must fit through to enter. Inside: twisty sandstone walls, fun downclimbs, a sketchy up-climb to a section she calls &#x27;INTO THE ARCHES&#x27;, and squeezes so tight she had to take her backpack off and turn sideways.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/peek-a-boo-and-spooky-slot-canyons">Trail page</a></li>
@@ -10111,7 +10129,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Factory Butte (Hanksville)</h4>
 <h5>Stargazing</h5>
 <ul>
-<li><b>142. <a href="https://www.google.com/maps/search/?api=1&query=Factory+Butte+UT">Factory Butte</a></b> — Factory Butte (Hanksville), Hanksville
+<li><b>143. <a href="https://www.google.com/maps/search/?api=1&query=Factory+Butte+UT">Factory Butte</a></b> — Factory Butte (Hanksville), Hanksville
 <ul>
 <li><b>Best for:</b> Stargazing — One of the 5 bonus destinations in Adventure Family Vlog&#x27;s dark-sky carousel &#x27;10 Places in America Where the Night Sky Doesn&#x27;t Look Real&#x27; — an extra dark-sky pick beyond its ranked top 10, for stargazing and Milky Way photography.</li>
 <li>Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.</li>
@@ -10134,7 +10152,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Factory Butte / Skyline Rim</h4>
 <h5>Overlook</h5>
 <ul>
-<li><b>143. <a href="https://www.google.com/maps/search/?api=1&query=Moonscape+Overlook+Factory+Butte+/+Skyline+Rim+UT">Moonscape Overlook</a></b> — Factory Butte / Skyline Rim, Hanksville
+<li><b>144. <a href="https://www.google.com/maps/search/?api=1&query=Moonscape+Overlook+Factory+Butte+/+Skyline+Rim+UT">Moonscape Overlook</a></b> — Factory Butte / Skyline Rim, Hanksville
 <ul>
 <li><b>Best for:</b> Overlook / Lunar badlands viewpoint (dirt road, high clearance) — A must-see on the Hanksville stop of Kelley &amp; Carl&#x27;s ultimate Southwest road trip — the Moonscape Overlook (also called Skyline View), a cliff-edge view over the gray Blue Valley badlands by Factory Butte. The stop needs dirt-road driving; they flag high-clearance 4WD for the Hanksville area.</li>
 <li>GPS coordinates as published in Moonscape Overlook visitor guides (38.4522, -110.8381); OpenStreetMap has no feature for it.</li>
@@ -10158,7 +10176,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Forrest Gump Point (US-163)</h4>
 <h5>Road trip stop</h5>
 <ul>
-<li><b>144. <a href="https://www.google.com/maps/search/?api=1&query=Forrest+Gump+Point+UT">Forrest Gump Point</a></b> — Forrest Gump Point (US-163), Mexican Hat
+<li><b>145. <a href="https://www.google.com/maps/search/?api=1&query=Forrest+Gump+Point+UT">Forrest Gump Point</a></b> — Forrest Gump Point (US-163), Mexican Hat
 <ul>
 <li><b>Best for:</b> Road trip stop — Stop #10 on @_wanderedsouls&#x27; Southwest winter road-trip route — the iconic long, straight highway shot toward the Monument Valley buttes, made famous by Forrest Gump.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10177,7 +10195,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Goblin Valley State Park</h4>
 <h5>Road trip stop</h5>
 <ul>
-<li><b>145. <a href="https://www.google.com/maps/search/?api=1&query=Goblin+Valley+State+Park+UT">Goblin Valley State Park</a></b> — Goblin Valley State Park, Green River
+<li><b>146. <a href="https://www.google.com/maps/search/?api=1&query=Goblin+Valley+State+Park+UT">Goblin Valley State Park</a></b> — Goblin Valley State Park, Green River
 <ul>
 <li><b>Best for:</b> Road trip stop — Stop #6 on @_wanderedsouls&#x27; Southwest winter road-trip route (Nevada → Utah → Arizona, 13 stops) — a valley of hoodoo &#x27;goblins&#x27; between Hanksville and Arches.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10193,7 +10211,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Grand Staircase-Escalante National Monument</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>146. <a href="https://www.google.com/maps/search/?api=1&query=Cosmic Ashtray, Grand Staircase-Escalante National Monument, Utah">Cosmic Ashtray</a></b> — Grand Staircase-Escalante National Monument, Escalante
+<li><b>147. <a href="https://www.google.com/maps/search/?api=1&query=Cosmic Ashtray, Grand Staircase-Escalante National Monument, Utah">Cosmic Ashtray</a></b> — Grand Staircase-Escalante National Monument, Escalante
 <ul>
 <li><b>Best for:</b> Hike / Giant natural sandstone amphitheater with orange sand — A hidden hiking destination in Grand Staircase-Escalante: a natural sandstone amphitheater over 100 feet across, filled with bright orange sand and a huge central boulder, showcasing some of the oldest rock on earth — far bigger in person than it looks in photos. Two unmarked cross-country routes reach it: the south trail (~4 mi round trip, high-clearance 4x4 to the trailhead) or the north trail (~9 mi round trip). No trail markers and no cell service, so download a map first and check road conditions at the Escalante Interagency Visitors Center.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/cosmic-ashtray-trail-2">Trail page</a></li>
@@ -10208,7 +10226,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>147. <a href="https://www.google.com/maps/search/?api=1&query=Grand+Staircase-Escalante+National+Monument+UT">Grand Staircase-Escalante National Monument</a></b> — Grand Staircase-Escalante National Monument, Escalante
+<li><b>148. <a href="https://www.google.com/maps/search/?api=1&query=Grand+Staircase-Escalante+National+Monument+UT">Grand Staircase-Escalante National Monument</a></b> — Grand Staircase-Escalante National Monument, Escalante
 <ul>
 <li><b>Best for:</b> Viewpoint — Ranked #1 in Adventure Family Vlog&#x27;s &#x27;9 Places in Utah That Look Unreal — and none are in a national park&#x27;: endless slot canyons, waterfalls and otherworldly landscapes across a vast monument.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10224,7 +10242,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Great Salt Lake (North Arm)</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>148. <a href="https://www.google.com/maps/search/?api=1&query=Spiral+Jetty+UT">Great Salt Lake — Pink Water</a></b> — Great Salt Lake (North Arm), Corinne
+<li><b>149. <a href="https://www.google.com/maps/search/?api=1&query=Spiral+Jetty+UT">Great Salt Lake — Pink Water</a></b> — Great Salt Lake (North Arm), Corinne
 <ul>
 <li><b>Best for:</b> Viewpoint — Ranked #6 in Adventure Family Vlog&#x27;s &#x27;9 Places in Utah That Look Unreal — and none are in a national park&#x27;: the surreal pink-hued salt water of the lake&#x27;s north arm — you have to see it to believe it. Pin at the Spiral Jetty, the classic pink-water viewpoint.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10239,7 +10257,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Hanksville</h4>
 <h5>Road trip stop</h5>
 <ul>
-<li><b>149. <a href="https://www.google.com/maps/search/?api=1&query=Hanksville+UT">Hanksville</a></b> — Hanksville, Hanksville
+<li><b>150. <a href="https://www.google.com/maps/search/?api=1&query=Hanksville+UT">Hanksville</a></b> — Hanksville, Hanksville
 <ul>
 <li><b>Best for:</b> Road trip stop — Stop #5 on @_wanderedsouls&#x27; Southwest winter road-trip route — the barren, otherworldly desert country around Hanksville is a stop in its own right between Capitol Reef and Goblin Valley.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10258,7 +10276,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Hell Hole Canyon</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>150. <a href="https://www.google.com/maps/search/?api=1&query=Kayenta+Falls+Ivins+UT">Kayenta Falls</a></b> — Hell Hole Canyon, Ivins
+<li><b>151. <a href="https://www.google.com/maps/search/?api=1&query=Kayenta+Falls+Ivins+UT">Kayenta Falls</a></b> — Hell Hole Canyon, Ivins
 <ul>
 <li><b>Best for:</b> Waterfall — One of Southern Utah&#x27;s rarest sights, per Mikey Loveridge: the 1,000-foot red-rock cliffs of Hell Hole Canyon near Ivins run bone dry most days, but after heavy rain three ephemeral waterfalls — Kayenta Falls — pour straight down the cliff faces in a vertical flash flood. He photographed the canyon completely dry on Nov 1, 2026, and in full flow the next day after the rain kept coming.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/hellhole-trail">Trail page</a></li>
@@ -10274,7 +10292,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Highway 128 — Colorado River Scenic Byway</h4>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>151. <a href="https://www.google.com/maps/search/?api=1&query=Highway+128+Moab+UT">Highway 128 (Upper Colorado River Scenic Byway)</a></b> — Highway 128 — Colorado River Scenic Byway, Moab
+<li><b>152. <a href="https://www.google.com/maps/search/?api=1&query=Highway+128+Moab+UT">Highway 128 (Upper Colorado River Scenic Byway)</a></b> — Highway 128 — Colorado River Scenic Byway, Moab
 <ul>
 <li><b>Best for:</b> Scenic drive — Nate&#x27;s bucket-list drive: Utah&#x27;s Highway 128, the Upper Colorado River Scenic Byway out of Moab — the road runs right along the Colorado River between towering orange cliffs. His timing tip from the caption: start about an hour and a half before official sunset.</li>
 <li>Pin sits at Fisher Towers, the best-known landmark along the SR-128 corridor (OpenStreetMap).</li>
@@ -10289,7 +10307,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Kanab Sand Caves</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>152. <a href="https://www.google.com/maps/search/?api=1&query=Kanab+Sand+Caves+UT">Kanab Sand Caves (Moqui Caverns)</a></b> — Kanab Sand Caves, Kanab
+<li><b>153. <a href="https://www.google.com/maps/search/?api=1&query=Kanab+Sand+Caves+UT">Kanab Sand Caves (Moqui Caverns)</a></b> — Kanab Sand Caves, Kanab
 <ul>
 <li><b>Best for:</b> Hike — Giselle&#x27;s Zion alternative #1: caves carved into Navajo sandstone in the 1970s to harvest sand for glassmaking — now a free, photogenic scramble right off Highway 89, about 1.2 miles round trip with parking by the highway. Her caution: the scramble up can get a little scary; don&#x27;t be afraid to turn back.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/sand-caves--2">Trail page</a></li>
@@ -10305,7 +10323,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Kanarra Falls (Kanarra Creek Canyon)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>153. <a href="https://www.google.com/maps/search/?api=1&query=Kanarra+Falls+UT">Kanarra Falls</a></b> — Kanarra Falls (Kanarra Creek Canyon), Kanarraville
+<li><b>154. <a href="https://www.google.com/maps/search/?api=1&query=Kanarra+Falls+UT">Kanarra Falls</a></b> — Kanarra Falls (Kanarra Creek Canyon), Kanarraville
 <ul>
 <li><b>Best for:</b> Waterfall — Giselle&#x27;s Zion alternative #4 — her favorite of the five: a permitted slot-canyon waterfall hike, about 3.8 miles out and back with creek crossings the whole way and a ladder climb in the canyon. Permits sell out 1–2 weeks ahead in summer, so book early — and rent the waders unless you want numb feet for an hour afterwards.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/kanarra-falls">Trail page</a></li>
@@ -10321,7 +10339,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Long Dong Silver (Hanksville)</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>154. <a href="https://www.google.com/maps/search/?api=1&query=Long+Dong+Silver+UT">Long Dong Silver</a></b> — Long Dong Silver (Hanksville), Hanksville
+<li><b>155. <a href="https://www.google.com/maps/search/?api=1&query=Long+Dong+Silver+UT">Long Dong Silver</a></b> — Long Dong Silver (Hanksville), Hanksville
 <ul>
 <li><b>Best for:</b> Viewpoint — Ranked #2 in Adventure Family Vlog&#x27;s &#x27;9 Places in Utah That Look Unreal — and none are in a national park&#x27;: a bizarre rock spire that looks like another planet, rising from the desert near Hanksville.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10337,7 +10355,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Marlboro Point</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>155. <a href="https://www.google.com/maps/search/?api=1&query=Marlboro+Point+Moab+UT">Marlboro Point</a></b> — Marlboro Point, Moab
+<li><b>156. <a href="https://www.google.com/maps/search/?api=1&query=Marlboro+Point+Moab+UT">Marlboro Point</a></b> — Marlboro Point, Moab
 <ul>
 <li><b>Best for:</b> Viewpoint — Ranked #9 in Adventure Family Vlog&#x27;s &#x27;9 Places in Utah That Look Unreal — and none are in a national park&#x27;: a hidden desert overlook with incredible canyon views, out in the Moab backcountry between Canyonlands and Dead Horse Point.</li>
 <li>Coordinates from the Marlboro Point place record (Grand County, UT); reached by dirt roads off UT-313, high-clearance 4x4 for the last stretch.</li>
@@ -10352,7 +10370,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Monument Valley Navajo Tribal Park</h4>
 <h5>Road trip stop</h5>
 <ul>
-<li><b>156. <a href="https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT">Monument Valley</a></b> — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
+<li><b>157. <a href="https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT">Monument Valley</a></b> — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
 <ul>
 <li><b>Best for:</b> Road trip stop — Stop #11 on @_wanderedsouls&#x27; Southwest winter road-trip route — the classic buttes, filmed from the road through the valley.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10372,7 +10390,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Natural Bridges National Monument</h4>
 <h5>Stargazing</h5>
 <ul>
-<li><b>157. <a href="https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT">Natural Bridges National Monument</a></b> — Natural Bridges National Monument, Blanding
+<li><b>158. <a href="https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT">Natural Bridges National Monument</a></b> — Natural Bridges National Monument, Blanding
 <ul>
 <li><b>Best for:</b> Stargazing — Ranked #7 in Adventure Family Vlog&#x27;s &#x27;10 Places in America Where the Night Sky Doesn&#x27;t Look Real&#x27; — picked as one of America&#x27;s most incredible dark-sky destinations for stargazing and Milky Way photography.</li>
 <li>Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.</li>
@@ -10387,7 +10405,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Potash Road (SR-279, Moab)</h4>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>158. <a href="https://www.google.com/maps/search/?api=1&query=Potash+Road+Moab+UT">Potash Road</a></b> — Potash Road (SR-279, Moab), Moab
+<li><b>159. <a href="https://www.google.com/maps/search/?api=1&query=Potash+Road+Moab+UT">Potash Road</a></b> — Potash Road (SR-279, Moab), Moab
 <ul>
 <li><b>Best for:</b> Scenic drive — Ranked #5 in Adventure Family Vlog&#x27;s &#x27;9 Places in Utah That Look Unreal — and none are in a national park&#x27;: a jaw-dropping scenic drive along the Colorado River near Moab.</li>
 <li>Pin marks the Potash Road dinosaur tracks &amp; petroglyphs stop on SR-279 (a documented roadside stop on the drive); coordinates from the place record for that stop. The road itself runs ~17 miles along the Colorado River from US-191.</li>
@@ -10403,7 +10421,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Red Hollow Slot Canyon</h4>
 <h5>Slot canyon</h5>
 <ul>
-<li><b>159. <a href="https://www.google.com/maps/search/?api=1&query=Red+Hollow+Slot+Canyon+Orderville+UT">Red Slot Canyon (Red Hollow)</a></b> — Red Hollow Slot Canyon, Orderville
+<li><b>160. <a href="https://www.google.com/maps/search/?api=1&query=Red+Hollow+Slot+Canyon+Orderville+UT">Red Slot Canyon (Red Hollow)</a></b> — Red Hollow Slot Canyon, Orderville
 <ul>
 <li><b>Best for:</b> Slot canyon — Giselle&#x27;s Zion alternative #2: a 1.2-mile round-trip slot canyon with glowing orange and pink walls. Park at the water facility at the end of Red Hollow Drive — and note the sandy road is popular with off-roaders, so it can be soft going.</li>
 <li>The reel calls it &#x27;Red Slot Canyon in Kanab&#x27; but its own access detail — park at the water facility at the end of Red Hollow Drive — identifies it as Red Hollow Slot Canyon near Orderville. Pin is the trailhead by the water tank; coordinates from two independent trail guides (37.2709, -112.6273), not OpenStreetMap.</li>
@@ -10418,7 +10436,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Toquerville Falls (La Verkin Creek)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>160. <a href="https://www.google.com/maps/search/?api=1&query=Toquerville+Falls+UT">Toquerville Falls</a></b> — Toquerville Falls (La Verkin Creek), Toquerville
+<li><b>161. <a href="https://www.google.com/maps/search/?api=1&query=Toquerville+Falls+UT">Toquerville Falls</a></b> — Toquerville Falls (La Verkin Creek), Toquerville
 <ul>
 <li><b>Best for:</b> Waterfall — Giselle&#x27;s Zion alternative #3: no hiking required if you have a 4x4 (don&#x27;t attempt it in a normal car) — a 5.3-mile dirt road, about 45 minutes, to falls that pour over two pour-offs on La Verkin Creek: a cascade section and a clean 20-foot drop into a pool. Free BLM land, and the swimming is incredible in summer.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/toquerville-falls">Trail page</a></li>
@@ -10434,7 +10452,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Water Canyon (Hildale)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>161. <a href="https://www.google.com/maps/search/?api=1&query=Water+Canyon+Hildale+UT">Water Canyon</a></b> — Water Canyon (Hildale), Hildale
+<li><b>162. <a href="https://www.google.com/maps/search/?api=1&query=Water+Canyon+Hildale+UT">Water Canyon</a></b> — Water Canyon (Hildale), Hildale
 <ul>
 <li><b>Best for:</b> Hike — Giselle&#x27;s Zion alternative #5: a 4.25-mile out-and-back hike (about 500 ft of gain) that ends up looking like a mini version of Zion&#x27;s Subway — and a pretty easy one. This is the one she says legit looks like the Subway.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/water-canyon-amp-squirrel-creek-loop">Trail page</a></li>
@@ -10450,7 +10468,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Zion National Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>162. <a href="https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT">Angels Landing</a></b> — Zion National Park, Springdale
+<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT">Angels Landing</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike — Caption names Angels Landing in Zion National Park (caption spells it &#x27;Angel&#x27;s Landing&#x27;). No media narrative was stored for this post, so this is based on the caption and tagged location only.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/angels-landing-trail">Trail page</a></li>
@@ -10501,7 +10519,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Parus+Trail+Zion+National+Park+UT">Pa&#x27;rus Trail</a></b> — Zion National Park, Springdale
+<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Parus+Trail+Zion+National+Park+UT">Pa&#x27;rus Trail</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike / Paved, dog-friendly riverside walk along the Virgin River — Rated 5/10 in Kelley &amp; Carl&#x27;s honest ratings for Utah national park hikes — Zion&#x27;s easy paved trail from the visitor center up the Virgin River to Canyon Junction. Low score, but it&#x27;s the park&#x27;s only dog-friendly trail and fully accessible.</li>
 <li>Pin is the NPS place-record point for the Pa&#x27;rus Trail at its south (visitor center / South Campground) end.</li>
@@ -10514,7 +10532,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Scout+Lookout+Zion+National+Park+UT">Scout Lookout</a></b> — Zion National Park, Springdale
+<li><b>165. <a href="https://www.google.com/maps/search/?api=1&query=Scout+Lookout+Zion+National+Park+UT">Scout Lookout</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike / West Rim Trail viewpoint — the Angels Landing approach without the chains — Rated 7/10 in Kelley &amp; Carl&#x27;s honest ratings for Utah national park hikes: Scout Lookout is the West Rim Trail&#x27;s big viewpoint at the top of Walter&#x27;s Wiggles — as far as you can go toward Angels Landing without the permit-only chains section.</li>
 <li>Pin is the OSM Scout Lookout viewpoint point on the West Rim Trail.</li>
@@ -10529,7 +10547,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>165. <a href="https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT">Subway Trail</a></b> — Zion National Park, Zion National Park
+<li><b>166. <a href="https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT">Subway Trail</a></b> — Zion National Park, Zion National Park
 <ul>
 <li><b>Best for:</b> Hike — His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/the-subway-trail">Trail page</a></li>
@@ -10542,7 +10560,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>166. <a href="https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT">The Narrows</a></b> — Zion National Park, Zion Canyon
+<li><b>167. <a href="https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT">The Narrows</a></b> — Zion National Park, Zion Canyon
 <ul>
 <li><b>Best for:</b> Hike — Ranked #4, a 10.5-mile round trip wading the Virgin River in cold water. He went in June during snowmelt and used a dry bib wetsuit.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/zion-narrows-trail-to-imlay-temple-and-big-spring">Trail page</a></li>
@@ -10575,7 +10593,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>167. <a href="https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Highway+Zion+National+Park+UT">Zion-Mount Carmel Highway</a></b> — Zion National Park, Springdale
+<li><b>168. <a href="https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Highway+Zion+National+Park+UT">Zion-Mount Carmel Highway</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Scenic drive / Historic highway and mile-long tunnel — Kelley &amp; Carl&#x27;s Zion stop on the ultimate Southwest road trip includes driving the Zion-Mount Carmel Highway — the switchbacks and 1.1-mile tunnel through the park&#x27;s east side.</li>
 <li>Pin is at the Zion-Mount Carmel Tunnel.</li>
@@ -10587,7 +10605,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>168. <a href="https://www.google.com/maps/search/?api=1&query=Zion–Mount Carmel Tunnel, Zion National Park, Springdale, Utah">Zion–Mount Carmel Tunnel</a></b> — Zion National Park, Springdale
+<li><b>169. <a href="https://www.google.com/maps/search/?api=1&query=Zion–Mount Carmel Tunnel, Zion National Park, Springdale, Utah">Zion–Mount Carmel Tunnel</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Scenic drive / 1.1-mile 1930 tunnel on the Zion–Mount Carmel Highway — Their &#x27;11/10 national park entrance&#x27;: entering Zion through the less-crowded East Entrance, the drive through the 1.1-mile 1930 tunnel bursts out into the red cliffs of Zion Canyon. Also featured in part 1 of their bucket-list USA roads series.</li>
 <li>Coordinates: National Parks Atlas (tunnel point).</li>
@@ -10605,7 +10623,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Sunrise</h5>
 <ul>
-<li><b>169. <a href="https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT">Canyon Overlook</a></b> — Zion National Park, Springdale
+<li><b>170. <a href="https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT">Canyon Overlook</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Sunrise — Ranked #3 for sunrise in the reel. Massive red rock cliffs glow bright orange as the sun hits Zion Canyon.</li>
 <li>End of the 1-mile Canyon Overlook Trail, just east of the Zion-Mount Carmel Tunnel.</li>
@@ -10628,7 +10646,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Top national park</h5>
 <ul>
-<li><b>170. <a href="https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT">Zion National Park</a></b> — Zion National Park, Springdale
+<li><b>171. <a href="https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT">Zion National Park</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Top national park — His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point.</li>
@@ -10657,7 +10675,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>View</h5>
 <ul>
-<li><b>171. <a href="https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT">Zion Canyon</a></b> — Zion National Park, Springdale
+<li><b>172. <a href="https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT">Zion Canyon</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> View — A static scenic shot of Zion Canyon: the Virgin River (name inferred from the location) flowing between massive orange-and-white striated cliffs in warm early-morning or late-afternoon light, posted as a calm, meditative nature scene.</li>
 </ul>
@@ -14515,6 +14533,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/p/DbdrYGSFH6P/">4 National Parks, 1 epic road trip — Yosemite, Kings Canyon, Sequoia &amp; Pinnacles</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/DfWCdSdPdQo/">4 national parks, 1 epic road trip — California</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DezTgKJqVw4/">Point Lobos State Preserve — the most magical hike in California</a> by @discover_california_</li>
+<li><a href="https://www.instagram.com/reel/DgDpiPoKlhN/">State parks that might be better than national parks — Part 1</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -15405,9 +15424,9 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Pacific Northwest Region {#pacific-northwest}
 
-**91 places · Oregon, Washington**
+**92 places · Oregon, Washington**
 
-<details><summary><b>Oregon</b> — 25 places</summary>
+<details><summary><b>Oregon</b> — 26 places</summary>
 <h4>Abiqua Falls</h4>
 <h5>Hike</h5>
 <ul>
@@ -15647,10 +15666,26 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Ecola State Park</h4>
+<h5>State Park</h5>
+<ul>
+<li><b>15. <a href="https://www.google.com/maps/search/?api=1&query=Ecola+State+Park+Cannon+Beach+OR">Ecola State Park</a></b> — Ecola State Park, Cannon Beach
+<ul>
+<li><b>Best for:</b> State Park / Rugged ocean cliffs and sea stacks — Ecola State Park — rugged ocean cliffs and sea stacks on ~9 mi of coastline north of Cannon Beach, wrapping Tillamook Head; Lewis &amp; Clark crossed here in 1806.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/oregon/ecola-state-park-to-indian-beach-trail">Trail page</a></li>
+<li>About 3 mi north of Cannon Beach, 9 mi of coastline wrapping Tillamook Head, 1,024 acres. Ecola Point and Indian Beach are the two main drive-up destinations; views to Haystack Rock, Tillamook Rock Lighthouse offshore; Lewis &amp; Clark crossed here in 1806. CURRENT CLOSURE (AllTrails park page, crawled Oct 30, 2026): the park is closed until further notice due to sinkholes/fissures on the main park road, with the Tillamook Head trail the only trail open; Indian Beach Trail partial closure — check Oregon State Parks before visiting.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DgDpiPoKlhN/">State parks that might be better than national parks — Part 1</a> by @mccrawsonthemap</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Newberry National Volcanic Monument</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>15. <a href="https://www.google.com/maps/search/?api=1&query=Trail of the Molten Land, Newberry National Volcanic Monument, Bend, Oregon">Trail of the Molten Land</a></b> — Newberry National Volcanic Monument, Bend
+<li><b>16. <a href="https://www.google.com/maps/search/?api=1&query=Trail of the Molten Land, Newberry National Volcanic Monument, Bend, Oregon">Trail of the Molten Land</a></b> — Newberry National Volcanic Monument, Bend
 <ul>
 <li><b>Best for:</b> Hike / Paved moonscape walk through a 7,000-year-old lava flow — An easy paved trail through a 7,000-year-old basalt lava flow, a little over a mile to its source at the base of Lava Butte — a walk through a moonscape, where Apollo astronauts trained in the 1960s. Open year round; the Lava Lands Visitor Center is generally open May–September.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/oregon/trail-of-the-molten-land-3922">Trail page</a></li>
@@ -15666,7 +15701,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Newport Bayfront</h4>
 <h5>Wildlife</h5>
 <ul>
-<li><b>16. <a href="https://www.google.com/maps/search/?api=1&query=Newport Sea Lion Docks, Newport, Oregon">Newport Sea Lion Docks</a></b> — Newport Bayfront, Newport
+<li><b>17. <a href="https://www.google.com/maps/search/?api=1&query=Newport Sea Lion Docks, Newport, Oregon">Newport Sea Lion Docks</a></b> — Newport Bayfront, Newport
 <ul>
 <li><b>Best for:</b> Wildlife / Hundreds of sea lions on the bayfront docks — Hundreds of California sea lions piled on the floating docks at Newport&#x27;s historic bayfront — barking, sunning, and diving — free to watch from the walkway on SW Bay Blvd.</li>
 <li>Coordinates: newportsealions.com place record (44.630214, -124.052382), 325 SW Bay Blvd on Newport&#x27;s historic bayfront. Free; donations support dock upkeep. The docks sit just west of the Yaquina Bay Bridge, under the whale mural.</li>
@@ -15681,7 +15716,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Nye Beach</h4>
 <h5>Beach</h5>
 <ul>
-<li><b>17. <a href="https://www.google.com/maps/search/?api=1&query=Nye Beach, Newport, Oregon">Nye Beach</a></b> — Nye Beach, Newport
+<li><b>18. <a href="https://www.google.com/maps/search/?api=1&query=Nye Beach, Newport, Oregon">Nye Beach</a></b> — Nye Beach, Newport
 <ul>
 <li><b>Best for:</b> Beach / Sandy beach walk in the historic Nye Beach district — A walk on Nye Beach — a wide sandy shoreline in Newport&#x27;s historic beach district, with the Nye Beach Turnaround for free parking and restrooms. The reel walks it with the dog after clam chowder in town.</li>
 <li>Coordinates: GNIS feature record for Nye Beach (44.642339, -124.06234). Historic beach district in Newport; beach connects to the Oregon Coast Trail. The sandstone sea stack Jump-off Joe once stood at the south end of the beach and has since crumbled away.</li>
@@ -15696,7 +15731,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Otter Crest State Scenic Viewpoint</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>18. <a href="https://www.google.com/maps/search/?api=1&query=Otter Crest State Scenic Viewpoint, Otter Rock, Oregon">Otter Crest State Scenic Viewpoint</a></b> — Otter Crest State Scenic Viewpoint, Otter Rock
+<li><b>19. <a href="https://www.google.com/maps/search/?api=1&query=Otter Crest State Scenic Viewpoint, Otter Rock, Oregon">Otter Crest State Scenic Viewpoint</a></b> — Otter Crest State Scenic Viewpoint, Otter Rock
 <ul>
 <li><b>Best for:</b> Viewpoint / Panoramic coastal views above Cape Foulweather — A cliff-top viewpoint about 500 feet above the Pacific with panoramic coastal views, looking over Cape Foulweather — the reel&#x27;s pick for views on the central coast. Easy to miss going north on US-101; the turnoff comes up quickly in dense foliage.</li>
 <li>Coordinates: Wikipedia (44.7603927, -124.0665049). Oregon Parks and Recreation Department state park on US-101 at Otter Rock, just south of Depoe Bay; the historic Cape Foulweather Lookout (1937) sits nearby on the Otter Crest Loop (OR 182).</li>
@@ -15711,7 +15746,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Silver Falls State Park</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>19. <a href="https://www.google.com/maps/search/?api=1&query=Trail+of+Ten+Falls+Silver+Falls+State+Park">Trail of Ten Falls</a></b> — Silver Falls State Park, Silverton
+<li><b>20. <a href="https://www.google.com/maps/search/?api=1&query=Trail+of+Ten+Falls+Silver+Falls+State+Park">Trail of Ten Falls</a></b> — Silver Falls State Park, Silverton
 <ul>
 <li><b>Best for:</b> Waterfall / Hike · Ten waterfalls on one 7.7-mile loop — The best bang-for-your-buck waterfall hike: the 7.7-mile Trail of Ten Falls at Silver Falls State Park, about an hour from Portland — and you get to walk UNDER (behind) four of the falls. The reel&#x27;s tips: hike the loop clockwise, parking at the South Falls lot to start; bring a credit card ($5 parking at some lots, machines on site); expect to get a little wet walking behind the falls, so bring a rain jacket in colder months; grab the park trail map or an app like AllTrails first, since one or two falls need a side trail; dogs can&#x27;t hike this trail (take them on the Rim Trail instead); and start early — it&#x27;s popular.</li>
 <li>Pin is the Silver Falls State Park point (OSM); the loop starts at the South Falls day-use area per the reel.</li>
@@ -15726,7 +15761,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Umpqua National Forest</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>20. <a href="https://www.google.com/maps/search/?api=1&query=Toketee+Falls+Idleyld+Park+OR">Toketee Falls</a></b> — Umpqua National Forest, Idleyld Park
+<li><b>21. <a href="https://www.google.com/maps/search/?api=1&query=Toketee+Falls+Idleyld+Park+OR">Toketee Falls</a></b> — Umpqua National Forest, Idleyld Park
 <ul>
 <li><b>Best for:</b> Hike / Two-tier falls framed by columnar basalt — #5 on the reel&#x27;s 5 Oregon waterfalls list. Toketee Falls in Umpqua National Forest — two-tier falls on the North Umpqua River, ~113 ft total (28-ft upper + 85-ft lower) framed by columnar basalt; Toketee Falls Trail #1495, ~200 wooden stairs to a fenced viewing platform.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/oregon/toketee-falls">Trail page</a></li>
@@ -15742,7 +15777,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>White River Falls State Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>21. <a href="https://www.google.com/maps/search/?api=1&query=White+River+Falls+State+Park+Maupin+OR">White River Falls</a></b> — White River Falls State Park, Maupin
+<li><b>22. <a href="https://www.google.com/maps/search/?api=1&query=White+River+Falls+State+Park+Maupin+OR">White River Falls</a></b> — White River Falls State Park, Maupin
 <ul>
 <li><b>Best for:</b> Hike / Two-tier falls with hydroelectric ruins — #4 on the reel&#x27;s 5 Oregon waterfalls list. White River Falls in White River Falls State Park — a 90-ft two-tier falls over a basalt shelf, with the ruins of a 1910–1960 hydroelectric plant at the base; a short steep trail down to the canyon.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/oregon/white-river-falls">Trail page</a></li>
@@ -15758,7 +15793,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Willamette National Forest</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>22. <a href="https://www.google.com/maps/search/?api=1&query=Koosah+Falls+McKenzie+River+Oregon">Koosah Falls</a></b> — Willamette National Forest, McKenzie Bridge
+<li><b>23. <a href="https://www.google.com/maps/search/?api=1&query=Koosah+Falls+McKenzie+River+Oregon">Koosah Falls</a></b> — Willamette National Forest, McKenzie Bridge
 <ul>
 <li><b>Best for:</b> Waterfall / 70-ft drop into a deep emerald pool — The second waterfall on the Sahalie Falls – Koosah Falls Loop (~2.6 mi, ~400 ft gain, easy to moderate, 1–1.5 hr), half a mile downstream of Sahalie. Koosah drops about 70 feet over a lava lip into a deep pool, on the wild McKenzie River in the Willamette National Forest.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/oregon/koosah-and-sahalie-falls-trail">Trail page</a></li>
@@ -15771,7 +15806,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>23. <a href="https://www.google.com/maps/search/?api=1&query=Sahalie+Falls+McKenzie+River+Oregon">Sahalie Falls</a></b> — Willamette National Forest, McKenzie Bridge
+<li><b>24. <a href="https://www.google.com/maps/search/?api=1&query=Sahalie+Falls+McKenzie+River+Oregon">Sahalie Falls</a></b> — Willamette National Forest, McKenzie Bridge
 <ul>
 <li><b>Best for:</b> Waterfall / 100-ft plunge over a lava dam on the McKenzie River — One of two waterfalls on the Sahalie Falls – Koosah Falls Loop (~2.6 mi, ~400 ft gain, easy to moderate, 1–1.5 hr) through lush forest alongside the turquoise McKenzie River. Sahalie plunges about 100 feet over a lava dam, then tumbles another 40 feet of cascades — and no, you don&#x27;t need to head to Silver Falls for a beautiful Oregon waterfall hike.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/oregon/koosah-and-sahalie-falls-trail">Trail page</a></li>
@@ -15787,7 +15822,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Willamette National Forest (Mount Jefferson Wilderness)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>24. <a href="https://www.google.com/maps/search/?api=1&query=Marion+Falls+and+Gatch+Falls+Idanha+OR">Marion and Gatch Falls</a></b> — Willamette National Forest (Mount Jefferson Wilderness), Idanha
+<li><b>25. <a href="https://www.google.com/maps/search/?api=1&query=Marion+Falls+and+Gatch+Falls+Idanha+OR">Marion and Gatch Falls</a></b> — Willamette National Forest (Mount Jefferson Wilderness), Idanha
 <ul>
 <li><b>Best for:</b> Hike / Paired waterfalls below Marion Lake — #3 on the reel&#x27;s 5 Oregon waterfalls list. Marion and Gatch Falls — a pair of falls on Marion Creek below Marion Lake in the Mount Jefferson Wilderness, visited on a ~4.3-mi out-and-back hike; Gatch first, then Marion.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/oregon/marion-falls-and-gatch-falls">Trail page</a></li>
@@ -15803,7 +15838,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Yaquina Head Outstanding Natural Area</h4>
 <h5>Lighthouse</h5>
 <ul>
-<li><b>25. <a href="https://www.google.com/maps/search/?api=1&query=Yaquina Head Outstanding Natural Area, Newport, Oregon">Yaquina Head Outstanding Natural Area</a></b> — Yaquina Head Outstanding Natural Area, Newport
+<li><b>26. <a href="https://www.google.com/maps/search/?api=1&query=Yaquina Head Outstanding Natural Area, Newport, Oregon">Yaquina Head Outstanding Natural Area</a></b> — Yaquina Head Outstanding Natural Area, Newport
 <ul>
 <li><b>Best for:</b> Lighthouse / Tide pools &amp; seals at Oregon&#x27;s tallest lighthouse — Walk around Oregon&#x27;s tallest lighthouse — the 93-foot Yaquina Head Light, guiding ships since 1873 — and watch nesting birds on the sea stacks. Down at Cobble Beach, tide pools hold sea stars and anemones, and harbor seals haul out on the black cobble shoreline.</li>
 <li>Coordinates: BLM place record for Yaquina Head Outstanding Natural Area (44.676201, -124.077224). 100-acre headland managed by the Bureau of Land Management, named an Outstanding Natural Area in 1980; $7 vehicle fee (3-day pass). Lighthouse tours climb 114 steps; interpretive center on site. Cobble Beach is reached by a spur trail with wooden steps off the Lighthouse Trail — best at low tide.</li>
@@ -15821,7 +15856,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Alpine Lakes Wilderness</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>26. <a href="https://www.google.com/maps/search/?api=1&query=Snow+Lake+Trail+Snoqualmie+Pass+WA">Snow Lake (Alpine Lakes)</a></b> — Alpine Lakes Wilderness, Snoqualmie Pass
+<li><b>27. <a href="https://www.google.com/maps/search/?api=1&query=Snow+Lake+Trail+Snoqualmie+Pass+WA">Snow Lake (Alpine Lakes)</a></b> — Alpine Lakes Wilderness, Snoqualmie Pass
 <ul>
 <li><b>Best for:</b> Hike — The Trekking Mama&#x27;s &#x27;how is this real?&#x27; lake: Snow Lake looks like it should require a plane ticket or a major expedition, but the trailhead is only about 60 minutes from Seattle. The water is an unbelievable bright alpine blue that looks photoshopped but isn&#x27;t. It&#x27;s popular and you&#x27;ll share the trail — her tip is to keep going past the first viewpoints down toward the end of the lake, where the crowds thin out. Her go-to when someone visits Washington and needs a massive dose of alpine gorgeousness without planning a whole trip.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/snow-lake-trail">Trail page</a></li>
@@ -15837,7 +15872,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hiking</h5>
 <ul>
-<li><b>27. <a href="https://www.google.com/maps/search/?api=1&query=The+Enchantments+Alpine+Lakes+Wilderness+WA">The Enchantments</a></b> — Alpine Lakes Wilderness, Leavenworth
+<li><b>28. <a href="https://www.google.com/maps/search/?api=1&query=The+Enchantments+Alpine+Lakes+Wilderness+WA">The Enchantments</a></b> — Alpine Lakes Wilderness, Leavenworth
 <ul>
 <li><b>Best for:</b> Hiking / Permit-only alpine basin of turquoise lakes and granite peaks — The Enchantments near Leavenworth top Kelley &amp; Carl&#x27;s list of places for nature lovers that aren&#x27;t national parks — a turquoise alpine-lake basin in the Alpine Lakes Wilderness (their lakes list approaches it via the 9-mile Colchuck Lake hike).</li>
 <li>Pin at the Stuart Lake Trailhead, the main Enchantments entrance; coordinates from the USFS trailhead record.</li>
@@ -15853,7 +15888,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Beacon Rock State Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>28. <a href="https://www.google.com/maps/search/?api=1&query=Beacon+Rock+Trail+Beacon+Rock+State+Park+WA">Beacon Rock Trail</a></b> — Beacon Rock State Park, Skamania
+<li><b>29. <a href="https://www.google.com/maps/search/?api=1&query=Beacon+Rock+Trail+Beacon+Rock+State+Park+WA">Beacon Rock Trail</a></b> — Beacon Rock State Park, Skamania
 <ul>
 <li><b>Best for:</b> Hike / Switchbacks and plank walkways up an 868-ft lava plug — Hike on secured planks and walkways that wrap around an old lava plug in the PNW — Beacon Rock is the remnant of a volcano that erupted 57,000 years ago. The 1.5-mile trail (595 ft gain) climbs 52 switchbacks with metal handrails to 360-degree views over the Columbia River Gorge. Easy, but expect switchbacks and uneven surfaces, and it may be tough if you&#x27;re afraid of heights. Dog friendly (dogs walk the planks too). Discover Pass or $5 day pass required.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/beacon-rock-trail">Trail page</a></li>
@@ -15869,7 +15904,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Cape Disappointment State Park</h4>
 <h5>Beach</h5>
 <ul>
-<li><b>29. <a href="https://www.google.com/maps/search/?api=1&query=Deadman&#x27;s Cove, Cape Disappointment State Park, Ilwaco, Washington">Deadman&#x27;s Cove</a></b> — Cape Disappointment State Park, Ilwaco
+<li><b>30. <a href="https://www.google.com/maps/search/?api=1&query=Deadman&#x27;s Cove, Cape Disappointment State Park, Ilwaco, Washington">Deadman&#x27;s Cove</a></b> — Cape Disappointment State Park, Ilwaco
 <ul>
 <li><b>Best for:</b> Beach / Secluded cove at the mouth of the Columbia River — Washington&#x27;s most beautiful — and most dangerous — public beach: a sandy cove between forested cliffs at Cape Disappointment, with a lone tree-topped sea stack, at the mouth of the Columbia River where it meets the Pacific. Named for shipwreck victims whose bodies washed ashore here.</li>
 <li>Coordinates: Washington State Parks place record for Deadman&#x27;s Cove (46.277512, -124.050543). Reached by a steep, root-covered side trail off the Cape Disappointment Lighthouse Viewpoint Trail (1.2 mi from the Lewis and Clark Interpretive Center); Washington State Discover Pass required. Access has been periodically prohibited by the U.S. Coast Guard due to dangerous conditions — the reel says it is currently open, but check current status before going; do not enter the water or climb the rock outcrop (illegal, damages the lone tree and accelerates erosion, and climbers often cannot descend). Named for shipwreck victims whose bodies washed ashore at the mouth of the Columbia River, some of the most dangerous waters in the country.</li>
@@ -15884,7 +15919,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Cape Flattery (Makah Reservation)</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>30. <a href="https://www.google.com/maps/search/?api=1&query=Cape+Flattery+WA">Cape Flattery</a></b> — Cape Flattery (Makah Reservation), Neah Bay
+<li><b>31. <a href="https://www.google.com/maps/search/?api=1&query=Cape+Flattery+WA">Cape Flattery</a></b> — Cape Flattery (Makah Reservation), Neah Bay
 <ul>
 <li><b>Best for:</b> Viewpoint — The Griffins&#x27; verdict: even on a foggy day, Cape Flattery was unforgettable — the farthest northwest point of the Olympic Peninsula (and the contiguous U.S.), and one of those places that&#x27;s worth going out of your way for.</li>
 <li>Coordinates verified against OpenStreetMap. Cape Flattery is on the Makah Reservation; a Makah recreation pass is required to visit.</li>
@@ -15900,7 +15935,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Garfield Ledges</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>31. <a href="https://www.google.com/maps/search/?api=1&query=Garfield+Ledges+North+Bend+WA">Garfield Ledges</a></b> — Garfield Ledges, North Bend
+<li><b>32. <a href="https://www.google.com/maps/search/?api=1&query=Garfield+Ledges+North+Bend+WA">Garfield Ledges</a></b> — Garfield Ledges, North Bend
 <ul>
 <li><b>Best for:</b> Hike / Cliff-top valley viewpoint — Hike Garfield Ledges off Middle Fork Road — a short climb to a cliff-top overlook above the Taylor/Middle Fork confluence.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/garfield-ledges--2">Trail page</a></li>
@@ -15916,7 +15951,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Green River Gorge</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>32. <a href="https://www.google.com/maps/search/?api=1&query=Green+River+Gorge+Resort+Enumclaw">Green River Gorge Resort</a></b> — Green River Gorge, Enumclaw
+<li><b>33. <a href="https://www.google.com/maps/search/?api=1&query=Green+River+Gorge+Resort+Enumclaw">Green River Gorge Resort</a></b> — Green River Gorge, Enumclaw
 <ul>
 <li><b>Best for:</b> Waterfall / Hidden gem · Walk behind a waterfall into a cave — Don&#x27;t miss this hidden gem: the Green River Gorge Resort property near Enumclaw, WA. The resort dates to the 1920s, when it operated as a privately owned getaway with a hotel and cabins; by the 1970s and &#x27;80s it had become a well-known local party spot. The resort itself no longer operates, but the property and trails are still accessible — check out the bridge, walk behind a waterfall into a hidden cave, and explore the area&#x27;s unique rock formations. The reel&#x27;s practical notes: $5 for parking, paid at a cash box; no restrooms; and the trail can be slippery, so watch your step. Leave no trace.</li>
 <li>Pin is the published Green River Gorge Resort point (29500 SE Green River Gorge Rd, Enumclaw) — the trail access for the gorge, bridge, and waterfall cave.</li>
@@ -15931,7 +15966,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Maryhill Stonehenge</h4>
 <h5>Landmark</h5>
 <ul>
-<li><b>33. <a href="https://www.google.com/maps/search/?api=1&query=Maryhill+Stonehenge+WA">Maryhill Stonehenge</a></b> — Maryhill Stonehenge, Maryhill
+<li><b>34. <a href="https://www.google.com/maps/search/?api=1&query=Maryhill+Stonehenge+WA">Maryhill Stonehenge</a></b> — Maryhill Stonehenge, Maryhill
 <ul>
 <li><b>Best for:</b> Landmark / Full-size concrete Stonehenge replica on the Columbia — A full-size concrete replica of Stonehenge overlooking the Columbia River, built by businessman Sam Hill starting in 1918 as a memorial to Klickitat County soldiers killed in World War I and completed in 1929. Astronomically aligned like the original, and still open to visitors — free, 24/7.</li>
 <li>Coordinates: 45.694342,-120.806115 (en-academic; roadtrippers 45.694378,-120.805870 agrees). No trail — roadside monument, no AllTrails link.</li>
@@ -15946,7 +15981,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Middle Fork Snoqualmie Valley</h4>
 <h5>Scenic Drive</h5>
 <ul>
-<li><b>34. <a href="https://www.google.com/maps/search/?api=1&query=Middle+Fork+Road+North+Bend+WA">Middle Fork Road</a></b> — Middle Fork Snoqualmie Valley, North Bend
+<li><b>35. <a href="https://www.google.com/maps/search/?api=1&query=Middle+Fork+Road+North+Bend+WA">Middle Fork Road</a></b> — Middle Fork Snoqualmie Valley, North Bend
 <ul>
 <li><b>Best for:</b> Scenic Drive / Picnic spots along the river — Pack a picnic to take down Middle Fork Road in Snoqualmie Valley — even on the weekends you&#x27;ll find a quiet spot along the river.</li>
 <li>FS Road 56 off I-90 exit 34; the Middle Fork Trailhead at mile 11.5 is the road&#x27;s picnic hub. NW Forest Pass required; no cell service beyond the Mailbox Peak trailhead.</li>
@@ -15961,7 +15996,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mima Mounds Natural Area Preserve</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>35. <a href="https://www.google.com/maps/search/?api=1&query=Mima+Mounds+Natural+Area+Preserve+WA">Mima Mounds</a></b> — Mima Mounds Natural Area Preserve, Littlerock
+<li><b>36. <a href="https://www.google.com/maps/search/?api=1&query=Mima+Mounds+Natural+Area+Preserve+WA">Mima Mounds</a></b> — Mima Mounds Natural Area Preserve, Littlerock
 <ul>
 <li><b>Best for:</b> Hike / Mysterious round dirt mounds on a prairie — A field of mysterious round dirt mounds up to eight feet tall near Olympia, whose origin is still debated by scientists — a designated National Natural Landmark. An easy 2.7-mile loop with a paved, ADA-accessible first loop and interpretive kiosks; a Discover Pass is required to park.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/mima-mounds">Trail page</a></li>
@@ -15977,7 +16012,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Baker</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>36. <a href="https://www.google.com/maps/search/?api=1&query=Artist+Point+Mount+Baker+WA">Artist Point</a></b> — Mount Baker, Glacier
+<li><b>37. <a href="https://www.google.com/maps/search/?api=1&query=Artist+Point+Mount+Baker+WA">Artist Point</a></b> — Mount Baker, Glacier
 <ul>
 <li><b>Best for:</b> Viewpoint / 360° Baker and Shuksan views — Artist Point at Mount Baker — a 360° viewpoint over Mount Baker and Mount Shuksan, reached by trail from Heather Meadows or by car to the end of SR 542.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/heather-meadows-and-artists-point-trail">Trail page</a></li>
@@ -15993,7 +16028,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Baker-Snoqualmie National Forest</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>37. <a href="https://www.google.com/maps/search/?api=1&query=Heather+Meadows+Mount+Baker+WA">Heather Meadows</a></b> — Mount Baker-Snoqualmie National Forest, Glacier
+<li><b>38. <a href="https://www.google.com/maps/search/?api=1&query=Heather+Meadows+Mount+Baker+WA">Heather Meadows</a></b> — Mount Baker-Snoqualmie National Forest, Glacier
 <ul>
 <li><b>Best for:</b> Hike / Subalpine meadows and Bagley Lakes — Hike the Heather Meadows and Artist Point area in the National Forest around North Cascades — subalpine meadows, Bagley Lakes, and wild huckleberry fields.</li>
 <li>Recreation area at ~4,200-5,000 ft below Artist Point; Bagley Lakes Loop ~2 mi; Fire and Ice Trail; Picture Lake nearby. NW Forest Pass required; the upper road to Artist Point closes ~late October.</li>
@@ -16004,7 +16039,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>38. <a href="https://www.google.com/maps/search/?api=1&query=Lake Serene, Gold Bar, Washington">Lake Serene</a></b> — Mount Baker-Snoqualmie National Forest, Gold Bar
+<li><b>39. <a href="https://www.google.com/maps/search/?api=1&query=Lake Serene, Gold Bar, Washington">Lake Serene</a></b> — Mount Baker-Snoqualmie National Forest, Gold Bar
 <ul>
 <li><b>Best for:</b> Hike / Strenuous alpine-lake hike with log bridges and Mount Index views — A stunning alpine lake just off Hwy 2: log bridges over dark water, multiple cascading waterfalls and jaw-dropping views of Mount Index. 7.2 miles round trip, ~2,700 ft of gain, via steep stairs, rocky passages and switchbacks. Northwest Forest Pass or America the Beautiful required.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/bridal-veil-falls-and-lake-serene">Trail page</a></li>
@@ -16019,7 +16054,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>39. <a href="https://www.google.com/maps/search/?api=1&query=Bridal Veil Falls, Gold Bar, Washington">Bridal Veil Falls</a></b> — Mount Baker-Snoqualmie National Forest, Gold Bar
+<li><b>40. <a href="https://www.google.com/maps/search/?api=1&query=Bridal Veil Falls, Gold Bar, Washington">Bridal Veil Falls</a></b> — Mount Baker-Snoqualmie National Forest, Gold Bar
 <ul>
 <li><b>Best for:</b> Waterfall / 1,328-ft cascade on a Lake Serene Trail detour — The reel&#x27;s recommended detour: add about a mile round trip to Bridal Veil Falls, a 1,328-ft waterfall flowing from Lake Serene down the rugged east wall of Mount Index — &#x27;highly recommended&#x27; by the creator.</li>
 <li>Coordinates: USGS Index 7.5&#x27; quad (47.78927, -121.56789). 1,328-ft perennial waterfall flowing from Lake Serene, 150-ft wide drop in 4 tiers. Spur trail #1068.1, ~0.5 mi one-way off the Lake Serene Trail, ~1.5 mi in. The combined Bridal Veil Falls + Lake Serene AllTrails route is linked on the Lake Serene pin.</li>
@@ -16034,7 +16069,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Baker-Snoqualmie National Forest (Mountain Loop Highway)</h4>
 <h5>Summit hike</h5>
 <ul>
-<li><b>40. <a href="https://www.google.com/maps/search/?api=1&query=Vesper+Peak+Trail+Washington">Vesper Peak</a></b> — Mount Baker-Snoqualmie National Forest (Mountain Loop Highway), Granite Falls
+<li><b>41. <a href="https://www.google.com/maps/search/?api=1&query=Vesper+Peak+Trail+Washington">Vesper Peak</a></b> — Mount Baker-Snoqualmie National Forest (Mountain Loop Highway), Granite Falls
 <ul>
 <li><b>Best for:</b> Summit hike / Sunset · Steep alpine climb to a 6,214-ft summit — Sunset on Vesper Peak — one of the most rewarding hikes off Washington&#x27;s Mountain Loop Highway. The reel&#x27;s card: about 6.5 miles round trip with 4,120 ft of gain; plan 6–8 hours (their hike took 5h40, and it runs longer than it looks — preparation is key, carry the 10 essentials). The trail starts in forest with steady switchbacks, then opens to alpine meadows, rocky slopes and big views; Vesper Lake near the top is a beautiful break spot (filter any water); the last stretch is steep and rocky. Sunset tip: start early enough to be at the summit before golden hour and bring a headlamp for the hike down. Pack layers, extra water, and traction in early season (snow can linger into summer); a Northwest Forest Pass is needed at the trailhead.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/vesper-peak-trail">Trail page</a></li>
@@ -16050,7 +16085,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Rainier National Park</h4>
 <h5>Alpine</h5>
 <ul>
-<li><b>41. <a href="https://www.google.com/maps/search/?api=1&query=Camp+Muir+Mount+Rainier">Camp Muir</a></b> — Mount Rainier National Park, Paradise
+<li><b>42. <a href="https://www.google.com/maps/search/?api=1&query=Camp+Muir+Mount+Rainier">Camp Muir</a></b> — Mount Rainier National Park, Paradise
 <ul>
 <li><b>Best for:</b> Alpine / Mountaineering · Glaciers and the Muir Snowfield — One of the ten in Ted&#x27;s &#x27;top 10 hikes after visiting 62 of 63 national parks&#x27; list. Muir Camp (Camp Muir) on Mount Rainier — the 10,080-ft climbers&#x27; camp up the Muir Snowfield from Paradise, all glaciers and alpine terrain; also the turnaround for a serious day hike (crevasse country beyond).</li>
 </ul>
@@ -16063,7 +16098,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Easy hike</h5>
 <ul>
-<li><b>42. <a href="https://www.google.com/maps/search/?api=1&query=Myrtle+Falls+Mount+Rainier+National+Park+WA">Myrtle Falls</a></b> — Mount Rainier National Park, Mount Rainier National Park
+<li><b>43. <a href="https://www.google.com/maps/search/?api=1&query=Myrtle+Falls+Mount+Rainier+National+Park+WA">Myrtle Falls</a></b> — Mount Rainier National Park, Mount Rainier National Park
 <ul>
 <li><b>Best for:</b> Easy hike / Waterfall — His #4 easy hike: the waterfall cascading over rocks with snow-capped Mount Rainier in the background.</li>
 </ul>
@@ -16081,7 +16116,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>43. <a href="https://www.google.com/maps/search/?api=1&query=Mazama+Ridge+Trail+Mount+Rainier+National+Park+WA">Mazama Ridge Trail</a></b> — Mount Rainier National Park, Ashford
+<li><b>44. <a href="https://www.google.com/maps/search/?api=1&query=Mazama+Ridge+Trail+Mount+Rainier+National+Park+WA">Mazama Ridge Trail</a></b> — Mount Rainier National Park, Ashford
 <ul>
 <li><b>Best for:</b> Hike / Crowd-free ridge walk at Paradise — Hike Mazama Ridge Trail at Mount Rainier — you&#x27;ll skip the crowds and have magical views all to yourselves.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/mazama-ridge-trail-via-4th-crossing-trail">Trail page</a></li>
@@ -16093,7 +16128,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>44. <a href="https://www.google.com/maps/search/?api=1&query=Snow+Lake+Mount+Rainier+National+Park+WA">Snow Lake</a></b> — Mount Rainier National Park, Mount Rainier National Park
+<li><b>45. <a href="https://www.google.com/maps/search/?api=1&query=Snow+Lake+Mount+Rainier+National+Park+WA">Snow Lake</a></b> — Mount Rainier National Park, Mount Rainier National Park
 <ul>
 <li><b>Best for:</b> Hike / Lake — Caption names Snow Lake; tagged location Mt. Rainier National Park. On-screen text: &#x27;One of Mt Rainier&#x27;s easiest hikes... with a great payoff.&#x27; The video crosses a rustic log bridge over a forest stream, then reveals the calm alpine lake at the base of steep, rocky, snow-patched mountains lined with evergreens and driftwood.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/bench-and-snow-lakes-trail">Trail page</a></li>
@@ -16108,7 +16143,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Lake</h5>
 <ul>
-<li><b>45. <a href="https://www.google.com/maps/search/?api=1&query=Tipsoo+Lake+Mount+Rainier+National+Park+WA">Tipsoo Lake</a></b> — Mount Rainier National Park, Enumclaw
+<li><b>46. <a href="https://www.google.com/maps/search/?api=1&query=Tipsoo+Lake+Mount+Rainier+National+Park+WA">Tipsoo Lake</a></b> — Mount Rainier National Park, Enumclaw
 <ul>
 <li><b>Best for:</b> Lake / Rainier&#x27;s classic reflection lake at Chinook Pass — One of Kelley &amp; Carl&#x27;s Mount Rainier must-sees: Tipsoo Lake, a small subalpine lake just below Chinook Pass that mirrors Mount Rainier on calm mornings — ringed by wildflower meadows and the short Tipsoo Lake Loop.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/tipsoo-lake-loop">Trail page</a></li>
@@ -16124,7 +16159,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Top national park</h5>
 <ul>
-<li><b>46. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Rainier+National+Park+WA">Mount Rainier National Park</a></b> — Mount Rainier National Park, Ashford
+<li><b>47. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Rainier+National+Park+WA">Mount Rainier National Park</a></b> — Mount Rainier National Park, Ashford
 <ul>
 <li><b>Best for:</b> Top national park — Ranked #11, showing alpine lakes, snow-capped peaks and powerful waterfalls.</li>
 </ul>
@@ -16151,7 +16186,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>47. <a href="https://www.google.com/maps/search/?api=1&query=Reflection+Lakes+Mount+Rainier+National+Park+WA">Reflection Lakes</a></b> — Mount Rainier National Park, Mount Rainier National Park
+<li><b>48. <a href="https://www.google.com/maps/search/?api=1&query=Reflection+Lakes+Mount+Rainier+National+Park+WA">Reflection Lakes</a></b> — Mount Rainier National Park, Mount Rainier National Park
 <ul>
 <li><b>Best for:</b> Viewpoint / Rainier mirrored in alpine lakes — A must-see on Kelley &amp; Carl&#x27;s Washington road trip: Reflection Lakes on Stevens Canyon Road, where Mount Rainier mirrors in still subalpine water — the park&#x27;s classic postcard view.</li>
 <li>Coordinates from the NPS place record.</li>
@@ -16168,7 +16203,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>48. <a href="https://www.google.com/maps/search/?api=1&query=Comet+Falls+Mount+Rainier+National+Park+WA">Comet Falls</a></b> — Mount Rainier National Park, Mount Rainier National Park
+<li><b>49. <a href="https://www.google.com/maps/search/?api=1&query=Comet+Falls+Mount+Rainier+National+Park+WA">Comet Falls</a></b> — Mount Rainier National Park, Mount Rainier National Park
 <ul>
 <li><b>Best for:</b> Waterfall / Hike — Caption and tagged location name Comet Falls, Mt. Rainier. The video shows the powerful waterfall plunging down a steep rocky cliff in dense evergreen forest under misty, overcast skies — on-screen text: &#x27;Perfect waterfall weather...&#x27; — zooming progressively closer to the falls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/comet-falls-via-van-trump-trail">Trail page</a></li>
@@ -16180,7 +16215,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>49. <a href="https://www.google.com/maps/search/?api=1&query=Narada+Falls+Mount+Rainier+National+Park+WA">Narada Falls</a></b> — Mount Rainier National Park, Mount Rainier National Park
+<li><b>50. <a href="https://www.google.com/maps/search/?api=1&query=Narada+Falls+Mount+Rainier+National+Park+WA">Narada Falls</a></b> — Mount Rainier National Park, Mount Rainier National Park
 <ul>
 <li><b>Best for:</b> Waterfall / Rainier&#x27;s roadside 168-foot cascade — A must-see on Kelley &amp; Carl&#x27;s Washington road trip: Narada Falls, where the Paradise River drops 168 feet beside the Paradise Road — the tallest waterfall in Mount Rainier National Park reachable by car.</li>
 <li>Coordinates from the NPS place record.</li>
@@ -16199,7 +16234,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Rainier National Park (Ohanapecosh)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>50. <a href="https://www.google.com/maps/search/?api=1&query=Silver+Falls+Mount+Rainier+National+Park+(Ohanapecosh)+WA">Silver Falls</a></b> — Mount Rainier National Park (Ohanapecosh), Packwood
+<li><b>51. <a href="https://www.google.com/maps/search/?api=1&query=Silver+Falls+Mount+Rainier+National+Park+(Ohanapecosh)+WA">Silver Falls</a></b> — Mount Rainier National Park (Ohanapecosh), Packwood
 <ul>
 <li><b>Best for:</b> Waterfall / The Ohanapecosh River thundering through a gorge — Rated 7/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes: Silver Falls, where the Ohanapecosh River plunges through a narrow gorge — reached by the Silver Falls Loop from the Ohanapecosh visitor center/campground area in Rainier&#x27;s southeast corner.</li>
 <li>Pin is the OSM/Wikidata Silver Falls point on the Ohanapecosh River.</li>
@@ -16218,7 +16253,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Rainier National Park (Paradise)</h4>
 <h5>Hike · Alpine loop to Panorama Point</h5>
 <ul>
-<li><b>51. <a href="https://www.google.com/maps/search/?api=1&query=Skyline+Loop+Trail+Mount+Rainier+WA">Skyline Loop Trail</a></b> — Mount Rainier National Park (Paradise), Ashford
+<li><b>52. <a href="https://www.google.com/maps/search/?api=1&query=Skyline+Loop+Trail+Mount+Rainier+WA">Skyline Loop Trail</a></b> — Mount Rainier National Park (Paradise), Ashford
 <ul>
 <li><b>Best for:</b> Hike · Alpine loop to Panorama Point — Listed at 6 miles in the reel: Rainier&#x27;s signature loop from Paradise — wildflower meadows, Myrtle Falls, and the climb to Panorama Point with the mountain filling the sky.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/skyline-trail">Trail page</a></li>
@@ -16250,7 +16285,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Rainier National Park (Sunrise)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>52. <a href="https://www.google.com/maps/search/?api=1&query=Burroughs+Mountain+Trail+Mount+Rainier+National+Park+(Sunrise)+WA">Burroughs Mountain Trail</a></b> — Mount Rainier National Park (Sunrise), Ashford
+<li><b>53. <a href="https://www.google.com/maps/search/?api=1&query=Burroughs+Mountain+Trail+Mount+Rainier+National+Park+(Sunrise)+WA">Burroughs Mountain Trail</a></b> — Mount Rainier National Park (Sunrise), Ashford
 <ul>
 <li><b>Best for:</b> Hike / Tundra ridge walk across First, Second and Third Burroughs above Sunrise — Rated a perfect 10/10 in Kelley &amp; Carl&#x27;s Washington hike ratings. Their hardest-hikes list: 9.6 miles with 2,614 ft of gain and significant sun exposure — rewarded with epic, sustained Mount Rainier views the whole way.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/burroughs-mountain-loop-trail">Trail page</a></li>
@@ -16283,7 +16318,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>53. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Fremont+Lookout+Mount+Rainier+National+Park+(Sunrise)+WA">Mount Fremont Lookout</a></b> — Mount Rainier National Park (Sunrise), Ashford
+<li><b>54. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Fremont+Lookout+Mount+Rainier+National+Park+(Sunrise)+WA">Mount Fremont Lookout</a></b> — Mount Rainier National Park (Sunrise), Ashford
 <ul>
 <li><b>Best for:</b> Hike / Fire lookout with the closest in-your-face view of Rainier&#x27;s north side — Rated a perfect 10/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes. Their photography play: sunrise at the Mount Fremont Lookout, then immediately hike on to First &amp; Second Burroughs.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/mount-fremont-lookout-trail-via-sourdough-ridge-trail">Trail page</a></li>
@@ -16317,7 +16352,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount Si Natural Resources Conservation Area</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>54. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Si+Trail+North+Bend+WA">Mount Si</a></b> — Mount Si Natural Resources Conservation Area, North Bend
+<li><b>55. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Si+Trail+North+Bend+WA">Mount Si</a></b> — Mount Si Natural Resources Conservation Area, North Bend
 <ul>
 <li><b>Best for:</b> Hike — WTA calls Mount Si the most popular hike in Washington — upwards of 100,000 hikers a year. The switchbacks start right at the trailhead; a mile and a half up you pass through Snag Flat, old-growth trees that survived fire and logging, then past a talus slope to the base of the Haystack, the true summit. 8.0 miles round trip with 3,150 ft of gain. Climbers training for Rainier haul heavy packs up here — the rule of thumb is that if you can make the top in under two hours, you&#x27;re ready. A Discover Pass is required to park, and the lot fills early.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/mount-si-trail">Trail page</a></li>
@@ -16333,7 +16368,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Mount St. Helens National Volcanic Monument</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>55. <a href="https://www.google.com/maps/search/?api=1&query=Ape+Cave+Mount+St+Helens+WA">Ape Cave</a></b> — Mount St. Helens National Volcanic Monument, Cougar
+<li><b>56. <a href="https://www.google.com/maps/search/?api=1&query=Ape+Cave+Mount+St+Helens+WA">Ape Cave</a></b> — Mount St. Helens National Volcanic Monument, Cougar
 <ul>
 <li><b>Best for:</b> Hike / 2.5-mile lava tube under Mount St. Helens — A lava tube formed about 2,000 years ago when Mount St. Helens erupted, extending over two miles — the third-longest lava tube in North America — and staying around 42 degrees inside. Walk the easier Lower Cave or scramble the Upper Cave; bring headlamps and sturdy shoes, and a Northwest Forest Pass to park. Closed for the season November 1 to May 17, with timed tickets in summer.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/ape-cave-trail">Trail page</a></li>
@@ -16349,7 +16384,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>North Cascades / Okanogan-Wenatchee National Forest</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>56. <a href="https://www.google.com/maps/search/?api=1&query=Washington+Pass+Overlook+North+Cascades+/+Okanogan-Wenatchee+National+Forest+WA">Washington Pass Overlook</a></b> — North Cascades / Okanogan-Wenatchee National Forest, Winthrop
+<li><b>57. <a href="https://www.google.com/maps/search/?api=1&query=Washington+Pass+Overlook+North+Cascades+/+Okanogan-Wenatchee+National+Forest+WA">Washington Pass Overlook</a></b> — North Cascades / Okanogan-Wenatchee National Forest, Winthrop
 <ul>
 <li><b>Best for:</b> Viewpoint / Highway 20&#x27;s highest overlook, staring at Liberty Bell Mountain — A don&#x27;t-miss stop in Kelley &amp; Carl&#x27;s North Cascades mini guide: the Washington Pass Overlook on Highway 20 — at 5,477 feet the road&#x27;s high point, with a short paved path to a railing view of Liberty Bell Mountain and the Early Winters spires.</li>
 <li>Coordinates from the USFS Washington Pass Observation Site record.</li>
@@ -16365,7 +16400,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>North Cascades National Park</h4>
 <h5>Alpine lake · Three paternoster lakes reflecting Mount Triumph</h5>
 <ul>
-<li><b>57. <a href="https://www.google.com/maps/search/?api=1&query=Thornton+Lakes+North+Cascades">Thornton Lake</a></b> — North Cascades National Park, Marblemount
+<li><b>58. <a href="https://www.google.com/maps/search/?api=1&query=Thornton+Lakes+North+Cascades">Thornton Lake</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Alpine lake · Three paternoster lakes reflecting Mount Triumph — One of the ten in Ted&#x27;s &#x27;top 10 hikes after visiting 62 of 63 national parks&#x27; list. Thornton Lake in North Cascades National Park — the lowest of three paternoster lakes below Mount Triumph, reflecting the peaks; the ~10-mile round trip climbs to a ridge above the lakes (backcountry permit to camp).</li>
 <li>Coordinates are the published Thornton Lakes point (Wikipedia/GeoNames); an earlier generic name lookup returned a different Snohomish County lake and was rejected.</li>
@@ -16379,7 +16414,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>58. <a href="https://www.google.com/maps/search/?api=1&query=Cascade+Pass+Trail+North+Cascades+National+Park+WA">Cascade Pass Trail</a></b> — North Cascades National Park, Marblemount
+<li><b>59. <a href="https://www.google.com/maps/search/?api=1&query=Cascade+Pass+Trail+North+Cascades+National+Park+WA">Cascade Pass Trail</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Hike / Switchback climb to a pass ringed by peaks and glaciers — Rated 8/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes: the Cascade Pass Trail switchbacks up from the Cascade River Road to a pass surrounded by Johannesburg Mountain, Mix-up Peak and Cache Col.</li>
 <li>Pin is the OSM Cascade Pass point at the top of the trail (the pass itself).</li>
@@ -16404,7 +16439,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>59. <a href="https://www.google.com/maps/search/?api=1&query=Maple+Pass+Trail+North+Cascades+National+Park+WA">Maple Pass Trail</a></b> — North Cascades National Park, Marblemount
+<li><b>60. <a href="https://www.google.com/maps/search/?api=1&query=Maple+Pass+Trail+North+Cascades+National+Park+WA">Maple Pass Trail</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Hike / Ridge loop above Lake Ann — larches, peaks and endless views — Rated a perfect 10/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes: the Maple Pass loop climbs a ridge above Lake Ann near Rainy Pass — famous for golden larches in fall.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/maple-pass-trail">Trail page</a></li>
@@ -16427,7 +16462,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>60. <a href="https://www.google.com/maps/search/?api=1&query=North+Cascades+National+Park+North+Cascades+National+Park+WA">North Cascades National Park</a></b> — North Cascades National Park, Marblemount
+<li><b>61. <a href="https://www.google.com/maps/search/?api=1&query=North+Cascades+National+Park+North+Cascades+National+Park+WA">North Cascades National Park</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Hike — His #2 for hiking: a hiker on a trail toward jagged snow-covered peaks, dramatic ridgelines, and sweeping views of a bright turquoise lake nestled between forested mountains.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point in the Ross Lake area.</li>
@@ -16451,7 +16486,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>61. <a href="https://www.google.com/maps/search/?api=1&query=Sourdough+Mountain+North+Cascades+National+Park+WA">Sourdough Mountain</a></b> — North Cascades National Park, Newhalem
+<li><b>62. <a href="https://www.google.com/maps/search/?api=1&query=Sourdough+Mountain+North+Cascades+National+Park+WA">Sourdough Mountain</a></b> — North Cascades National Park, Newhalem
 <ul>
 <li><b>Best for:</b> Hike — Ranked #3, described as logistically easy but hard because of high, cold water crossings that left him constantly off-balance, wearing wetsuit overalls and layers.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/sourdough-mountain-lookout--2">Trail page</a></li>
@@ -16465,7 +16500,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>62. <a href="https://www.google.com/maps/search/?api=1&query=Trappers+Peak+North+Cascades+National+Park+WA">Trappers Peak</a></b> — North Cascades National Park, Marblemount
+<li><b>63. <a href="https://www.google.com/maps/search/?api=1&query=Trappers+Peak+North+Cascades+National+Park+WA">Trappers Peak</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Hike — Gwyn and Ami&#x27;s pick for some of the best panoramic mountain views in the North Cascades: Trappers Peak via Thornton Lakes — 9.7 miles with 3,438 ft of gain to stunning 360° summit views. Non-technical (no special gear or skills), with a few steep rock-scramble sections. Their tips: pack plenty of water (few places to filter), no backpacking on the peak itself, and Thornton Lakes backpacking is by competitive NPS permit.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/trappers-peak--2">Trail page</a></li>
@@ -16480,7 +16515,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike · Ridge climb to the Sahale Glacier camp</h5>
 <ul>
-<li><b>63. <a href="https://www.google.com/maps/search/?api=1&query=Sahale+Arm+Trail+North+Cascades+WA">Sahale Arm Trail</a></b> — North Cascades National Park, Marblemount
+<li><b>64. <a href="https://www.google.com/maps/search/?api=1&query=Sahale+Arm+Trail+North+Cascades+WA">Sahale Arm Trail</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Hike · Ridge climb to the Sahale Glacier camp — Listed at 12 miles in the reel: switchbacks up to Cascade Pass, then the steep climb along the Sahale Arm ridge through meadows — marmots and mountain goats along the way — to the Sahale Glacier camp, ringed by North Cascades peaks.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/cascade-pass-and-sahale-arm-trail--2">Trail page</a></li>
@@ -16516,7 +16551,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hiking</h5>
 <ul>
-<li><b>64. <a href="https://www.google.com/maps/search/?api=1&query=Blue+Lake+Trail+North+Cascades+National+Park+WA">Blue Lake Trail</a></b> — North Cascades National Park, Marblemount
+<li><b>65. <a href="https://www.google.com/maps/search/?api=1&query=Blue+Lake+Trail+North+Cascades+National+Park+WA">Blue Lake Trail</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Hiking / Larch-lined alpine lake at Washington Pass — One of Kelley &amp; Carl&#x27;s favorite North Cascades hikes: the Blue Lake Trail off Highway 20 near Washington Pass — about 4.6 miles round trip to a deep-blue alpine lake under the Liberty Bell group, famous for golden larches in fall.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/blue-lake-trail--7">Trail page</a></li>
@@ -16530,7 +16565,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>65. <a href="https://www.google.com/maps/search/?api=1&query=Trail+of+the+Cedars+North+Cascades+National+Park+WA">Trail of the Cedars</a></b> — North Cascades National Park, Marblemount
+<li><b>66. <a href="https://www.google.com/maps/search/?api=1&query=Trail+of+the+Cedars+North+Cascades+National+Park+WA">Trail of the Cedars</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Hiking / Old-growth cedar grove loop at Newhalem — One of Kelley &amp; Carl&#x27;s favorite North Cascades spots: the Trail of the Cedars, an easy loop through towering old-growth cedars along the Skagit River at Newhalem (not the Glacier National Park trail of the same name).</li>
 </ul>
@@ -16545,7 +16580,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Lake</h5>
 <ul>
-<li><b>66. <a href="https://www.google.com/maps/search/?api=1&query=Doubtful+Lake+North+Cascades+National+Park+WA">Doubtful Lake</a></b> — North Cascades National Park, Marblemount
+<li><b>67. <a href="https://www.google.com/maps/search/?api=1&query=Doubtful+Lake+North+Cascades+National+Park+WA">Doubtful Lake</a></b> — North Cascades National Park, Marblemount
 <ul>
 <li><b>Best for:</b> Lake / Alpine lake below Sahale Arm — Rated 9/10 in Kelley &amp; Carl&#x27;s Washington hike ratings: Doubtful Lake, the glacier-fed lake cupped below Sahale Arm — they love the vantage point over it from the Sahale Arm Trail above Cascade Pass.</li>
 <li>Coordinates from Wikipedia (Doubtful Lake).</li>
@@ -16563,7 +16598,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>View</h5>
 <ul>
-<li><b>67. <a href="https://www.google.com/maps/search/?api=1&query=Diablo+Lake+Overlook+North+Cascades+National+Park+WA">Diablo Lake Overlook</a></b> — North Cascades National Park, North Cascades National Park
+<li><b>68. <a href="https://www.google.com/maps/search/?api=1&query=Diablo+Lake+Overlook+North+Cascades+National+Park+WA">Diablo Lake Overlook</a></b> — North Cascades National Park, North Cascades National Park
 <ul>
 <li><b>Best for:</b> View — His #1 viewpoint: the striking turquoise lake surrounded by dense evergreen forests and snow-capped peaks under dramatic clouds.</li>
 </ul>
@@ -16592,7 +16627,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Olympic National Forest</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>68. <a href="https://www.google.com/maps/search/?api=1&query=Ranger Hole Trail, Olympic National Forest, Brinnon, Washington">Ranger Hole Trail</a></b> — Olympic National Forest, Brinnon
+<li><b>69. <a href="https://www.google.com/maps/search/?api=1&query=Ranger Hole Trail, Olympic National Forest, Brinnon, Washington">Ranger Hole Trail</a></b> — Olympic National Forest, Brinnon
 <ul>
 <li><b>Best for:</b> Hike / Easy forest trail to a turquoise river gorge — A short, easy forest trail in Olympic National Forest to a dramatic stretch of the Duckabush River, where turquoise water rushes through a narrow rocky gorge into a deep pool. Starts at the historic 1907 Interrorem Cabin; the 0.3-mile Interrorem Nature Trail loop behind the cabin is wheelchair-accessible.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/ranger-hole-trail--3">Trail page</a></li>
@@ -16608,7 +16643,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Olympic National Park</h4>
 <h5>Beach</h5>
 <ul>
-<li><b>69. <a href="https://www.google.com/maps/search/?api=1&query=Beach+4+Olympic+National+Park+WA">Beach 4</a></b> — Olympic National Park, Kalaloch
+<li><b>70. <a href="https://www.google.com/maps/search/?api=1&query=Beach+4+Olympic+National+Park+WA">Beach 4</a></b> — Olympic National Park, Kalaloch
 <ul>
 <li><b>Best for:</b> Beach / Kalaloch tide pools — Rated 9/10 in Kelley &amp; Carl&#x27;s Washington hike ratings: Beach 4 on Olympic&#x27;s Kalaloch coast, where a short steep trail drops to some of the park&#x27;s best tide pools among folded rock outcrops at low tide.</li>
 <li>Coordinates from the NPS Kalaloch Beach 4 place record.</li>
@@ -16622,7 +16657,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>70. <a href="https://www.google.com/maps/search/?api=1&query=Rialto+Beach+Olympic+National+Park+WA">Rialto Beach</a></b> — Olympic National Park, La Push
+<li><b>71. <a href="https://www.google.com/maps/search/?api=1&query=Rialto+Beach+Olympic+National+Park+WA">Rialto Beach</a></b> — Olympic National Park, La Push
 <ul>
 <li><b>Best for:</b> Beach / Sea stacks and driftwood wilderness coast — An Olympic must-see on Kelley &amp; Carl&#x27;s Pacific Northwest road trip — Rialto Beach, the wild Pacific shore of sea stacks, drift logs and the walk north to Hole-in-the-Wall.</li>
 </ul>
@@ -16637,7 +16672,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>71. <a href="https://www.google.com/maps/search/?api=1&query=Ruby+Beach+Olympic+National+Park+WA">Ruby Beach</a></b> — Olympic National Park, Kalaloch
+<li><b>72. <a href="https://www.google.com/maps/search/?api=1&query=Ruby+Beach+Olympic+National+Park+WA">Ruby Beach</a></b> — Olympic National Park, Kalaloch
 <ul>
 <li><b>Best for:</b> Beach / Sea stacks and driftwood on the Olympic coast — Rated 6/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes: Ruby Beach, the Olympic coast icon — sea stacks, driftwood-strewn sand and Abbey Island just offshore, off US-101 near Kalaloch.</li>
 <li>Pin is the OSM Ruby Beach point on the Olympic coast.</li>
@@ -16658,7 +16693,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hike</h5>
 <ul>
-<li><b>72. <a href="https://www.google.com/maps/search/?api=1&query=Hall+of+Mosses+Hoh+Rain+Forest+Olympic+National+Park+WA">Hall of Mosses</a></b> — Olympic National Park, Forks
+<li><b>73. <a href="https://www.google.com/maps/search/?api=1&query=Hall+of+Mosses+Hoh+Rain+Forest+Olympic+National+Park+WA">Hall of Mosses</a></b> — Olympic National Park, Forks
 <ul>
 <li><b>Best for:</b> Hike / Giant trees · Moss-draped rainforest loop in the Hoh Rain Forest — Ranked #3 of the carousel&#x27;s 10 hikes among giant trees: a 0.8-mile loop through the Hoh Rain Forest&#x27;s moss-covered giants in Olympic National Park, Washington. (Kelley &amp; Carl&#x27;s National Park Checklist lists the same Hall of Mosses Trail: 1.1 miles, 80 ft gain, rated easy.)</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/hoh-rain-forest-hall-of-moss">Trail page</a></li>
@@ -16689,7 +16724,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>73. <a href="https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA">Klahhane Ridge</a></b> — Olympic National Park, Port Angeles
+<li><b>74. <a href="https://www.google.com/maps/search/?api=1&query=Klahhane+Ridge+Olympic+National+Park+WA">Klahhane Ridge</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Hike — Ranked #3, with lush green alpine ridges, distant snow-capped peaks, a grazing deer and a distant black bear.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/klahhane-ridge-via-switchback-trail--2">Trail page</a></li>
@@ -16701,7 +16736,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>74. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA">Mount Storm King</a></b> — Olympic National Park, Olympic National Park
+<li><b>75. <a href="https://www.google.com/maps/search/?api=1&query=Mount+Storm+King+Olympic+National+Park+WA">Mount Storm King</a></b> — Olympic National Park, Olympic National Park
 <ul>
 <li><b>Best for:</b> Hike / Adrenaline — His #5 adrenaline hike: rocky trail footage, a hiker using a blue rope on a steep dirt section, and sweeping views of Lake Crescent below.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/mount-storm-king">Trail page</a></li>
@@ -16729,7 +16764,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>75. <a href="https://www.google.com/maps/search/?api=1&query=One+Square+Inch+of+Silence+Hoh+Rainforest+WA">One Square Inch of Silence</a></b> — Olympic National Park, Forks
+<li><b>76. <a href="https://www.google.com/maps/search/?api=1&query=One+Square+Inch+of+Silence+Hoh+Rainforest+WA">One Square Inch of Silence</a></b> — Olympic National Park, Forks
 <ul>
 <li><b>Best for:</b> Hike / Quietest spot in the US in the Hoh Rainforest — One of the quietest spots in the US, identified by acoustic ecologist Gordon Hempton: a small red stone on a moss-covered log in the Hoh Rainforest, about 3.2 miles up the Hoh River Trail from the visitor center — three miles from any road, with no cars, planes or human noise. The point of the project: protect one square inch of silence and the quiet radiates outward.</li>
 <li>Coordinates: 47.86598,-123.87035 (47°51.959&#x27;N, 123°52.221&#x27;W) per NPCA, Sierra Club and Orion, and a 2020 field visit (47.86576,-123.87009). Several sites copy a different figure, 48.12885,-123.68234 — that point is ~30 km away and not on the Hoh River Trail, so it was not used. No distinct AllTrails trail for the spot itself (it lies on the Hoh River Trail).</li>
@@ -16743,7 +16778,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hiking</h5>
 <ul>
-<li><b>76. <a href="https://www.google.com/maps/search/?api=1&query=Hurricane+Hill+Olympic+National+Park+WA">Hurricane Hill</a></b> — Olympic National Park, Port Angeles
+<li><b>77. <a href="https://www.google.com/maps/search/?api=1&query=Hurricane+Hill+Olympic+National+Park+WA">Hurricane Hill</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Hiking / Wildflower ridge at Hurricane Ridge — An Olympic must-see on Kelley &amp; Carl&#x27;s Pacific Northwest road trip — the Hurricane Hill Trail at Hurricane Ridge, an easy paved climb to wildflower meadows and strait-to-mountains views.</li>
 <li>Pin is the Hurricane Hill Trailhead at Hurricane Ridge (a bare-name geocode returned a same-named hill in Utah and was rejected).</li>
@@ -16760,7 +16795,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Lake</h5>
 <ul>
-<li><b>77. <a href="https://www.google.com/maps/search/?api=1&query=Lake+Crescent+Olympic+National+Park+WA">Lake Crescent</a></b> — Olympic National Park, Port Angeles
+<li><b>78. <a href="https://www.google.com/maps/search/?api=1&query=Lake+Crescent+Olympic+National+Park+WA">Lake Crescent</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Lake / Glacially carved sapphire lake — One of Kelley &amp; Carl&#x27;s 10 most beautiful lakes in the USA: Lake Crescent in Olympic National Park, a 624-foot-deep glacial lake of famously clear blue water along Highway 101 — view it from the shore pullouts or from the very difficult Mount Storm King climb above it. (Their caption spells it &#x27;Crescent Lake&#x27;; the lake&#x27;s name is Lake Crescent.)</li>
 <li>Coordinates are the published lake-center point.</li>
@@ -16776,7 +16811,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Overlooked view</h5>
 <ul>
-<li><b>78. <a href="https://www.google.com/maps/search/?api=1&query=Olympic+National+Park+Olympic+National+Park+WA">Olympic National Park</a></b> — Olympic National Park, Port Angeles
+<li><b>79. <a href="https://www.google.com/maps/search/?api=1&query=Olympic+National+Park+Olympic+National+Park+WA">Olympic National Park</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Overlooked view / View — Caption calls Olympic&#x27;s best part overlooked. From a rocky mountain overlook, the video pans across moss- and lichen-covered rock, deep evergreen valleys, and distant snow-capped ranges; on-screen text reads, &#x27;So many people miss this part of Olympic...&#x27; No specific trail or overlook is named.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point in the park interior.</li>
@@ -16801,7 +16836,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Rainforest</h5>
 <ul>
-<li><b>79. <a href="https://www.google.com/maps/search/?api=1&query=Hoh Rainforest, Olympic National Park, Forks, Washington">Hoh Rainforest</a></b> — Olympic National Park, Forks
+<li><b>80. <a href="https://www.google.com/maps/search/?api=1&query=Hoh Rainforest, Olympic National Park, Forks, Washington">Hoh Rainforest</a></b> — Olympic National Park, Forks
 <ul>
 <li><b>Best for:</b> Rainforest — The Hoh Rainforest stop on their Pacific Northwest road trip — one of the largest temperate rainforests in the US, moss-draped Sitka spruce and bigleaf maples around the Hoh visitor center.</li>
 <li>Coordinates: NPS Hoh Rain Forest Visitor Center, 18113 Upper Hoh Rd, Forks (47.860821, -123.934863).</li>
@@ -16815,7 +16850,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>80. <a href="https://www.google.com/maps/search/?api=1&query=Hurricane+Ridge+Olympic+National+Park+WA">Hurricane Ridge</a></b> — Olympic National Park, Port Angeles
+<li><b>81. <a href="https://www.google.com/maps/search/?api=1&query=Hurricane+Ridge+Olympic+National+Park+WA">Hurricane Ridge</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Viewpoint / Sunrise above the clouds — Catch sunrise on Hurricane Ridge in Olympic National Park — above the clouds, with panoramic views of the Olympic Range, Puget Sound, and Vancouver Island.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/hurricane-hill-via-hurricane-ridge">Trail page</a></li>
@@ -16827,7 +16862,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>81. <a href="https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA">Tree of Life (Kalaloch Beach)</a></b> — Olympic National Park, Kalaloch
+<li><b>82. <a href="https://www.google.com/maps/search/?api=1&query=Tree+of+Life+Kalaloch+Beach+WA">Tree of Life (Kalaloch Beach)</a></b> — Olympic National Park, Kalaloch
 <ul>
 <li><b>Best for:</b> Viewpoint — Big Bat Billy&#x27;s stop: the Tree of Life at Kalaloch Beach in Olympic National Park — the famous Sitka spruce that keeps growing over an eroded gully, its roots exposed in a root cave beneath it, right on the beach.</li>
 <li>Coordinates from published references for the Tree of Life itself, at the north end of Kalaloch Beach by the campground — the tree is not a mapped OpenStreetMap feature (the beach&#x27;s OSM point sits ~1.5 miles south).</li>
@@ -16846,7 +16881,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>82. <a href="https://www.google.com/maps/search/?api=1&query=Madison+Falls+Olympic+National+Park+WA">Madison Falls</a></b> — Olympic National Park, Port Angeles
+<li><b>83. <a href="https://www.google.com/maps/search/?api=1&query=Madison+Falls+Olympic+National+Park+WA">Madison Falls</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Waterfall / Tiny paved stroll to a horsetail falls in the Elwha Valley — Rated just 4/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes — their lowest Washington score: Madison Falls is a very short paved walk in the Elwha Valley to a slender waterfall. Pretty, but over in minutes.</li>
 <li>Pin is the OSM Madison Falls point in the Elwha River valley.</li>
@@ -16861,7 +16896,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>83. <a href="https://www.google.com/maps/search/?api=1&query=Marymere+Falls+Trail+Olympic+National+Park+WA">Marymere Falls Trail</a></b> — Olympic National Park, Port Angeles
+<li><b>84. <a href="https://www.google.com/maps/search/?api=1&query=Marymere+Falls+Trail+Olympic+National+Park+WA">Marymere Falls Trail</a></b> — Olympic National Park, Port Angeles
 <ul>
 <li><b>Best for:</b> Waterfall / 90-foot falls in old-growth forest by Lake Crescent — Rated 7/10 in Kelley &amp; Carl&#x27;s honest ratings for Washington national park hikes: the easy forest walk from the Storm King Ranger Station at Lake Crescent to Marymere Falls, pouring 90 ft down a mossy cliff.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/marymere-falls-trail">Trail page</a></li>
@@ -16880,7 +16915,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>84. <a href="https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA">Sol Duc Falls</a></b> — Olympic National Park, Sol Duc
+<li><b>85. <a href="https://www.google.com/maps/search/?api=1&query=Sol+Duc+Falls+Olympic+National+Park+WA">Sol Duc Falls</a></b> — Olympic National Park, Sol Duc
 <ul>
 <li><b>Best for:</b> Waterfall — Ranked #3 waterfall, plunging into a mossy gorge and viewed from a bridge.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/sol-duc-falls-nature-trail">Trail page</a></li>
@@ -16909,7 +16944,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Olympic National Park (Rialto Beach)</h4>
 <h5>Hiking</h5>
 <ul>
-<li><b>85. <a href="https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Olympic+National+Park+(Rialto+Beach)+WA">Hole-in-the-Wall</a></b> — Olympic National Park (Rialto Beach), La Push
+<li><b>86. <a href="https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Olympic+National+Park+(Rialto+Beach)+WA">Hole-in-the-Wall</a></b> — Olympic National Park (Rialto Beach), La Push
 <ul>
 <li><b>Best for:</b> Hiking / Sea arch carved through a headland, reached at low tide — One of Kelley &amp; Carl&#x27;s Olympic coast picks in their most-diverse-park reel: Hole-in-the-Wall, a sea arch punched through a rocky headland about 1.5 miles north of Rialto Beach — another great one at low tide, when the tide pools around it come alive.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/hole-in-the-wall-trail">Trail page</a></li>
@@ -16926,7 +16961,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Orcas Island</h4>
 <h5>Island</h5>
 <ul>
-<li><b>86. <a href="https://www.google.com/maps/search/?api=1&query=Orcas+Island+Eastsound+WA">Orcas Island</a></b> — Orcas Island, Eastsound
+<li><b>87. <a href="https://www.google.com/maps/search/?api=1&query=Orcas+Island+Eastsound+WA">Orcas Island</a></b> — Orcas Island, Eastsound
 <ul>
 <li><b>Best for:</b> Island / Stroll Eastsound, ferry in — If you want to go to the San Juan Islands, choose Orcas Island — you&#x27;ll understand once you stroll through Eastsound. Don&#x27;t forget to make a ferry reservation!</li>
 <li>Physically the largest of the San Juan Islands; Eastsound is the main village. Ferry reservation needed (Washington State Ferries, Anacortes-Orcas).</li>
@@ -16941,7 +16976,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Palouse to Cascades State Park Trail</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>87. <a href="https://www.google.com/maps/search/?api=1&query=Snoqualmie+Tunnel+Hyak+WA">Snoqualmie Tunnel</a></b> — Palouse to Cascades State Park Trail, Hyak
+<li><b>88. <a href="https://www.google.com/maps/search/?api=1&query=Snoqualmie+Tunnel+Hyak+WA">Snoqualmie Tunnel</a></b> — Palouse to Cascades State Park Trail, Hyak
 <ul>
 <li><b>Best for:</b> Hike / 2.3-mile rail tunnel walk under Snoqualmie Pass — An old railroad tunnel over two miles long through the mountains, now open for walking or biking on the Palouse to Cascades State Park Trail from Hyak. It is pitch dark and about 50°F inside, so bring a strong headlamp and a jacket, and a Discover Pass to park. It closes November 1st for ice — save this one for spring.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/john-wayne-pioneer-trail-snoqualmie-tunnel">Trail page</a></li>
@@ -16957,7 +16992,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Ross Lake National Recreation Area</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>88. <a href="https://www.google.com/maps/search/?api=1&query=Ross+Lake+Overlook+Ross+Lake+National+Recreation+Area+WA">Ross Lake Overlook</a></b> — Ross Lake National Recreation Area, Rockport
+<li><b>89. <a href="https://www.google.com/maps/search/?api=1&query=Ross+Lake+Overlook+Ross+Lake+National+Recreation+Area+WA">Ross Lake Overlook</a></b> — Ross Lake National Recreation Area, Rockport
 <ul>
 <li><b>Best for:</b> Viewpoint / Ross Lake and Colonial Peak from a Highway 20 pullout — A don&#x27;t-miss Highway 20 stop in Kelley &amp; Carl&#x27;s North Cascades mini guide: the Ross Lake Overlook near milepost 135, looking down the glacier-blue length of Ross Lake toward Colonial and Pyramid peaks.</li>
 <li>Coordinates from the NPS place record for Ross Lake Overlook.</li>
@@ -16972,7 +17007,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>89. <a href="https://www.google.com/maps/search/?api=1&query=Gorge+Creek+Falls+Ross+Lake+National+Recreation+Area+WA">Gorge Creek Falls</a></b> — Ross Lake National Recreation Area, Rockport
+<li><b>90. <a href="https://www.google.com/maps/search/?api=1&query=Gorge+Creek+Falls+Ross+Lake+National+Recreation+Area+WA">Gorge Creek Falls</a></b> — Ross Lake National Recreation Area, Rockport
 <ul>
 <li><b>Best for:</b> Waterfall / 242-ft cascade visible from the Highway 20 Gorge Lake bridge — A don&#x27;t-miss stop in Kelley &amp; Carl&#x27;s North Cascades mini guide: Gorge Creek Falls, a 242-foot cascade pouring into Gorge Lake, viewed from the overlooks at the ends of the Highway 20 bridge.</li>
 <li>Coordinates from waterfallhikes.com&#x27;s Gorge Creek Falls record.</li>
@@ -16984,7 +17019,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>90. <a href="https://www.google.com/maps/search/?api=1&query=Ladder+Creek+Falls+Ross+Lake+National+Recreation+Area+WA">Ladder Creek Falls</a></b> — Ross Lake National Recreation Area, Newhalem
+<li><b>91. <a href="https://www.google.com/maps/search/?api=1&query=Ladder+Creek+Falls+Ross+Lake+National+Recreation+Area+WA">Ladder Creek Falls</a></b> — Ross Lake National Recreation Area, Newhalem
 <ul>
 <li><b>Best for:</b> Waterfall / Garden waterfall behind the Gorge Powerhouse, lit in color at night — A don&#x27;t-miss stop in Kelley &amp; Carl&#x27;s North Cascades mini guide: Ladder Creek Falls in Newhalem, a tiered waterfall behind the Gorge Powerhouse reached by a short garden loop — and illuminated in changing colors after dark, a Seattle City Light tradition since the 1920s.</li>
 <li>Coordinates from the USGS GNIS record via TopoQuest, agreeing with waterfallhikes.com.</li>
@@ -17000,7 +17035,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>The Enchantments (Alpine Lakes Wilderness)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>91. <a href="https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA">Colchuck Lake</a></b> — The Enchantments (Alpine Lakes Wilderness), Leavenworth
+<li><b>92. <a href="https://www.google.com/maps/search/?api=1&query=Colchuck+Lake+WA">Colchuck Lake</a></b> — The Enchantments (Alpine Lakes Wilderness), Leavenworth
 <ul>
 <li><b>Best for:</b> Hike — Their candidate for the most beautiful lake in the USA: Colchuck Lake in the Enchantments outside Leavenworth. It&#x27;s a 9-mile out-and-back with 2,340 ft of elevation gain (moderate-hard) — and extremely popular despite the effort. Their summer tip: get there extremely early; they arrived around 5 AM and the parking lot was nearly full, with 50+ cars along the road by the time they hiked out.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/washington/colchuck-lake-via-stuart-lake-trail">Trail page</a></li>
@@ -20424,6 +20459,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: The Penobscot Narrows Bridge Observatory in Maine — the tallest public bridge observatory in the world (420 ft, opened 2007, elevator + short stairs, 360-degree views, glass floor panels). Open May 1-Oct 31, 9 AM-5 PM (6 PM Jul-Aug). Buy tickets to the Observatory AND Fort Knox (right next door) for $9 Maine residents / $11 non-residents, in person.
 - **[Waterfalls to check off in the Bay Area](https://www.instagram.com/reel/DgFwjVfRcHU/)** — @bhuti_hikes · 7 places · Theme: Bay Area waterfalls — rainy season
   - What the reel recommends: Waterfalls to check off in the Bay Area — rainy season = waterfall season, and these should be flowing right now: Linda Falls, Steep Ravine, Buck Gulch Falls, Sonoma Creek Falls, Cataract Falls, Tucker Falls, Cascade Falls. Most only show off after the rain, so winter-spring is the time to go.
+- **[State parks that might be better than national parks — Part 1](https://www.instagram.com/reel/DgDpiPoKlhN/)** — @mccrawsonthemap · 7 places · Theme: State parks that rival national parks — Part 1
+  - What the reel recommends: State parks that might be better than national parks — Part 1: Ecola (OR), Dead Horse Point (UT), Watkins Glen (NY), Point Lobos (CA), Valley of Fire (NV), Custer (SD), Letchworth (NY). They've been to 55 national parks, but these state parks give them a run for their money.
 
 ## How this page is updated {#how-this-page-is-updated}
 
