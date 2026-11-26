@@ -13063,6 +13063,15 @@
      "source_reel": "https://www.instagram.com/reel/Df_IsTKvE-u/",
      "source_reel_theme": "National park road trips from Las Vegas",
      "source_title": "We usually skip the Vegas strip tbh"
+    },
+    {
+     "best_for": "State Park",
+     "recommendation": "One of the state parks that might be better than national parks — Part 1.",
+     "source_creator": "@mccrawsonthemap",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgDpiPoKlhN/",
+     "source_reel_theme": "State parks that rival national parks — Part 1",
+     "source_title": "State parks that might be better than national parks — Part 1"
     }
    ]
   },
@@ -15054,6 +15063,15 @@
      "source_reel": "https://www.instagram.com/reel/DgINJt3BCBs/",
      "source_reel_theme": "19 waterfalls in 3 miles — Watkins Glen State Park",
      "source_title": "19 waterfalls in 3 miles — Watkins Glen State Park"
+    },
+    {
+     "best_for": "State Park",
+     "recommendation": "One of the state parks that might be better than national parks — Part 1.",
+     "source_creator": "@mccrawsonthemap",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgDpiPoKlhN/",
+     "source_reel_theme": "State parks that rival national parks — Part 1",
+     "source_title": "State parks that might be better than national parks — Part 1"
     }
    ]
   },
@@ -15149,6 +15167,15 @@
      "source_reel": "https://www.instagram.com/reel/DgINJt3BCBs/",
      "source_reel_theme": "19 waterfalls in 3 miles — Watkins Glen State Park",
      "source_title": "19 waterfalls in 3 miles — Watkins Glen State Park"
+    },
+    {
+     "best_for": "State Park",
+     "recommendation": "One of the state parks that might be better than national parks — Part 1.",
+     "source_creator": "@mccrawsonthemap",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgDpiPoKlhN/",
+     "source_reel_theme": "State parks that rival national parks — Part 1",
+     "source_title": "State parks that might be better than national parks — Part 1"
     }
    ]
   },
@@ -17976,6 +18003,15 @@
      "source_reel": "https://www.instagram.com/reel/Dffr-W3hzDC/",
      "source_reel_theme": "Custer State Park hike",
      "source_title": "Hiking — Custer State Park"
+    },
+    {
+     "best_for": "State Park",
+     "recommendation": "One of the state parks that might be better than national parks — Part 1.",
+     "source_creator": "@mccrawsonthemap",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgDpiPoKlhN/",
+     "source_reel_theme": "State parks that rival national parks — Part 1",
+     "source_title": "State parks that might be better than national parks — Part 1"
     }
    ]
   },
@@ -19974,6 +20010,15 @@
      "source_reel_theme": "Most magical hike in California",
      "best_for": "Hike / Easy coastal loop, forests, beaches and otters",
      "recommendation": "The reel's park: Point Lobos State Natural Reserve in Carmel — forests, gorgeous beaches and coves, and a good chance of seeing otters, whether sunny or foggy. The full loop is about 6 miles; parking is $10 and fills fast."
+    },
+    {
+     "best_for": "State Park",
+     "recommendation": "One of the state parks that might be better than national parks — Part 1.",
+     "source_creator": "@mccrawsonthemap",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgDpiPoKlhN/",
+     "source_reel_theme": "State parks that rival national parks — Part 1",
+     "source_title": "State parks that might be better than national parks — Part 1"
     }
    ]
   },
@@ -53335,6 +53380,53 @@
    "source_reel_theme": "Bay Area waterfalls — rainy season",
    "additional_sources": [],
    "alltrails_url": "https://www.alltrails.com/trail/us/california/cascade-falls--7"
+  },
+  {
+   "id": "ecola-state-park-or",
+   "name": "Ecola State Park",
+   "site": "Ecola State Park",
+   "city": "Cannon Beach",
+   "state": "Oregon",
+   "state_code": "OR",
+   "country": "United States",
+   "region": "Pacific Northwest",
+   "region_id": "pacific-northwest",
+   "lat": 45.91833,
+   "lng": -123.98,
+   "google_maps_query": "Ecola+State+Park+Cannon+Beach+OR",
+   "best_for": "State Park / Rugged ocean cliffs and sea stacks",
+   "recommendation": "Ecola State Park — rugged ocean cliffs and sea stacks on ~9 mi of coastline north of Cannon Beach, wrapping Tillamook Head; Lewis & Clark crossed here in 1806.",
+   "note": "About 3 mi north of Cannon Beach, 9 mi of coastline wrapping Tillamook Head, 1,024 acres. Ecola Point and Indian Beach are the two main drive-up destinations; views to Haystack Rock, Tillamook Rock Lighthouse offshore; Lewis & Clark crossed here in 1806. CURRENT CLOSURE (AllTrails park page, crawled Oct 30, 2026): the park is closed until further notice due to sinkholes/fissures on the main park road, with the Tillamook Head trail the only trail open; Indian Beach Trail partial closure — check Oregon State Parks before visiting.",
+   "source_reel": "https://www.instagram.com/reel/DgDpiPoKlhN/",
+   "source_title": "State parks that might be better than national parks — Part 1",
+   "source_creator": "@mccrawsonthemap",
+   "source_rank": null,
+   "source_reel_theme": "State parks that rival national parks — Part 1",
+   "additional_sources": [],
+   "alltrails_url": "https://www.alltrails.com/trail/us/oregon/ecola-state-park-to-indian-beach-trail"
+  },
+  {
+   "id": "deadhorse-point-state-park-ut",
+   "name": "Dead Horse Point State Park",
+   "site": "Dead Horse Point State Park",
+   "city": "Moab",
+   "state": "Utah",
+   "state_code": "UT",
+   "country": "United States",
+   "region": "Southwest",
+   "region_id": "southwest",
+   "lat": 38.50833,
+   "lng": -109.74222,
+   "google_maps_query": "Dead+Horse+Point+State+Park+Moab+UT",
+   "best_for": "State Park / 2,000-ft Colorado River overlook",
+   "recommendation": "Dead Horse Point State Park — a 2,000-ft Colorado River overlook from a 5,900-ft mesa, with a gooseneck view and Canyonlands National Park beyond.",
+   "note": "5,362 acres on a 5,900-ft mesa; overlook of the Colorado River gooseneck and Canyonlands National Park. East Rim (2 mi) + West Rim (3.5 mi) trails, ~7 mi of rim trails. $20/vehicle entry (national park passes not accepted). Kayenta + Wingate campgrounds. About 32 mi from Moab via US-191 + UT-313.",
+   "source_reel": "https://www.instagram.com/reel/DgDpiPoKlhN/",
+   "source_title": "State parks that might be better than national parks — Part 1",
+   "source_creator": "@mccrawsonthemap",
+   "source_rank": null,
+   "source_reel_theme": "State parks that rival national parks — Part 1",
+   "additional_sources": []
   }
  ],
  "updated": "2026-11-25",
