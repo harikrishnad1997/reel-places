@@ -21070,6 +21070,31 @@
    "places_count": 1,
    "duplicate_place": true,
    "recommendation_summary": "Dry Falls in Highlands, NC — a 75-ft waterfall on the Cullasaja River you can walk right behind, a scenic drive from Atlanta (~2.5 hr). No long hike required: a short paved trail with stairs down to the falls. Parking $3 per vehicle. Address: 4468 Highlands Rd, Highlands, NC 28741."
+  },
+  {
+   "url": "https://www.instagram.com/p/Df0t5BbG7TG/",
+   "title": "Big Island, Hawaii — 3-day itinerary",
+   "creator": "@hewandersusa",
+   "creator_name": "Shubh",
+   "theme": "Big Island, Hawaii — 3-day itinerary",
+   "posted": "2026-11-16",
+   "added": "2026-11-26",
+   "place_ids": [
+    "kona-cloud-forest-sanctuary-hi",
+    "puuhonua-o-honaunau-national-historical-park-hi",
+    "kiholo-bay-hi",
+    "punaluu-black-sand-beach-hi",
+    "papakolea-green-sand-beach-hi",
+    "halemaumau-crater-hi",
+    "nahuku-lava-tube-hi",
+    "akaka-falls-hi",
+    "mauna-kea-observatory-hi",
+    "hawai-i-volcanoes-national-park-hi",
+    "kilauea-iki-trail-hi"
+   ],
+   "places_count": 11,
+   "duplicate_place": false,
+   "recommendation_summary": "A 3-day Big Island itinerary: Day 1 Kona-side cloud forest, Place of Refuge, Kīholo Bay and the black- and green-sand beaches; Day 2 Hawaiʻi Volcanoes NP (crater viewpoints, Kīlauea Iki Trail, Nāhuku Lava Tube) plus ʻAkaka Falls; Day 3 Mauna Kea Observatory drive and post-sunset stargazing."
   }
  ]
 }
