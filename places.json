@@ -16288,7 +16288,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 9,
    "source_reel_theme": "Best Eastern U.S. waterfalls",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Waterfall / Walk behind the falls",
+     "recommendation": "A North Carolina bucket-list waterfall you can actually walk behind: a 75-ft falls on the Cullasaja River, reached by a short paved trail with stairs; parking $3 per vehicle.",
+     "source_creator": "@the.travel.ksu",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/Df-cJUpJwB5/",
+     "source_reel_theme": "Dry Falls — walk-behind waterfall, Highlands NC",
+     "source_title": "A North Carolina bucket list waterfall you can actually walk behind — Dry Falls"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/north-carolina/dry-falls-trail"
   },
   {
@@ -53429,6 +53439,6 @@
    "additional_sources": []
   }
  ],
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "version": 1
 }
