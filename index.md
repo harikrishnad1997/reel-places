@@ -20,7 +20,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [West Region — 173 places](#west)
 - [Pacific Northwest Region — 92 places](#pacific-northwest)
 - [Alaska Region — 44 places](#alaska)
-- [Hawaii Region — 9 places](#hawaii)
+- [Hawaii Region — 18 places](#hawaii)
 - [U.S. Territories Region — 4 places](#u.s.-territories)
 - [Source reels](#source-reels)
 - [Reel Chat — ask the chatbot](chat.html)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 88 · Southeast 191 · Midwest 167 · Southwest 172 · Mountain West 111 · West 173 · Pacific Northwest 92 · Alaska 44 · Hawaii 9 · U.S. Territories 4 · **Total 1051**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 88 · Southeast 191 · Midwest 167 · Southwest 172 · Mountain West 111 · West 173 · Pacific Northwest 92 · Alaska 44 · Hawaii 18 · U.S. Territories 4 · **Total 1060**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -17816,9 +17816,9 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Hawaii Region {#hawaii}
 
-**9 places · Hawaii**
+**18 places · Hawaii**
 
-<details><summary><b>Hawaii</b> — 9 places</summary>
+<details><summary><b>Hawaii</b> — 18 places</summary>
 <h4>Haleakalā National Park</h4>
 <h5>Bucket list</h5>
 <ul>
@@ -17874,6 +17874,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DezrbJsPMPY/">My Top 5 Bucket List National Parks</a> by @amorywild (#4 in that reel)</li>
 <li><a href="https://www.instagram.com/reel/DeJr8XZO90W/">5 Most Expensive National Parks</a> by @amorywild</li>
 <li><a href="https://www.instagram.com/reel/DeHMvdrBhtb/">Top 5 Island National Parks</a> by @amorywild</li>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
 </ul>
 </details>
 </li>
@@ -17888,6 +17889,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/reel/DextBmsOnad/">My Top 5 Otherworldly National Park Hikes</a> by @amorywild (#4 in that reel)</li>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
 </ul>
 </details>
 </li>
@@ -17920,10 +17922,70 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Hawaiʻi Volcanoes National Park</h4>
+<h5>Cave</h5>
+<ul>
+<li><b>8. <a href="https://www.google.com/maps/search/?api=1&query=Nahuku+Lava+Tube+Thurston+Lava+Tube+Hawaii+Volcanoes+National+Park+HI">Nāhuku Lava Tube</a></b> — Hawaiʻi Volcanoes National Park, Volcano
+<ul>
+<li><b>Best for:</b> Cave / Hike — Day 2 stop: walk through a 500-year-old lava tube — a short rainforest trail into a lit tunnel where a river of molten lava once flowed.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/hawaii/hawaii/thurston-lava-tube-trail">Trail page</a></li>
+<li>Coordinates from the NPS parking page (Nāhuku lot: 19.413590, -155.238811). Also known as Thurston Lava Tube. 0.4-mi loop, easy; tube lit 8 AM–8 PM (flashlight outside those hours); new entry bridge installed Aug 2026. Only 14 parking spaces — if full, park at the Kīlauea Iki Overlook and walk ~0.5 mi.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
+</ul>
+</details>
+</li>
+</ul>
+<h5>View</h5>
+<ul>
+<li><b>9. <a href="https://www.google.com/maps/search/?api=1&query=Halemaumau+Crater+Kilauea+Overlook+Hawaii+Volcanoes+National+Park+HI">Halemaʻumaʻu Crater</a></b> — Hawaiʻi Volcanoes National Park, Volcano
+<ul>
+<li><b>Best for:</b> View — Day 2 stop: the summit crater of Kīlauea viewed from the caldera rim — the Kīlauea Overlook, where lava fountains inside the crater during eruptive episodes.</li>
+<li>Coordinates are the NPS-published Kīlauea Overlook parking point (19.423602, -155.284341), 2.5 miles from the entrance station on Crater Rim Drive West. Second rim overlook: Uēkahuna (19.420033, -155.288893), 2.8 miles from the entrance. Kīlauea&#x27;s summit eruption has been episodic since Dec 2024 — check the USGS update before visiting; lava may be visible only during episodes.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
+</ul>
+</details>
+</li>
+</ul>
+<h4>Kona Cloud Forest Sanctuary</h4>
+<h5>Forest</h5>
+<ul>
+<li><b>10. <a href="https://www.google.com/maps/search/?api=1&query=Kona+Cloud+Forest+Sanctuary+Kailua-Kona+HI">Kona Cloud Forest Sanctuary</a></b> — Kona Cloud Forest Sanctuary, Kailua-Kona
+<ul>
+<li><b>Best for:</b> Forest / Guided hike — Day 1 stop: the only tropical cloud forest in the United States — guided walk under rainbow eucalyptus on the slopes of Hualālai, 15 minutes above Kona.</li>
+<li>Address 73-1865 Hao St, Kailua-Kona, HI 96740; ~3,000 ft elevation. Guided tours only; reservations required (gohawaii.com). Coordinates from the sanctuary&#x27;s place listing (19.706007, -155.947756).</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
+</ul>
+</details>
+</li>
+</ul>
+<h4>Kīholo Bay</h4>
+<h5>Bay</h5>
+<ul>
+<li><b>11. <a href="https://www.google.com/maps/search/?api=1&query=Kiholo+Bay+Hawaii+HI">Kīholo Bay</a></b> — Kīholo Bay, Kīholo
+<ul>
+<li><b>Best for:</b> Bay / Turtles — Day 1 stop: a ~2-mile bay where lava met the sea — Kamehameha I&#x27;s royal fishpond and green sea turtles in the turquoise shallows.</li>
+<li>Coordinates from Wikipedia (19°51′34″N 155°55′59″W). Hawaiʻi State Parks land on the North Kona coast off Queen Kaʻahumanu Hwy; Wainanaliʻi Pond (mixohaline lagoon) adjoins the bay; reached by unpaved road — high-clearance helps.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Kōke&#x27;e State Park</h4>
 <h5>Hike · Bucket-list hike, #9 of 12</h5>
 <ul>
-<li><b>8. <a href="https://www.google.com/maps/search/?api=1&query=Awaawapuhi+Trail+Kauai">Awa&#x27;awapuhi Trail</a></b> — Kōke&#x27;e State Park, Waimea
+<li><b>12. <a href="https://www.google.com/maps/search/?api=1&query=Awaawapuhi+Trail+Kauai">Awa&#x27;awapuhi Trail</a></b> — Kōke&#x27;e State Park, Waimea
 <ul>
 <li><b>Best for:</b> Hike · Bucket-list hike, #9 of 12 — Ranked #9 in the reel&#x27;s countdown of 12 bucket-list hikes NOT in national parks: the Awa&#x27;awapuhi Trail in Kōke&#x27;e State Park, Kauai, a cliffside ridge trail ending above the Nā Pali Coast.</li>
 <li>Pin is a point on the trail path; the trailhead is at 22.14140, -159.64874.</li>
@@ -17935,10 +17997,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Mauna Kea Observatory</h4>
+<h5>Stargazing</h5>
+<ul>
+<li><b>13. <a href="https://www.google.com/maps/search/?api=1&query=Mauna+Kea+Observatory+Hawaii+HI">Mauna Kea Observatory</a></b> — Mauna Kea Observatory, Hilo
+<ul>
+<li><b>Best for:</b> Stargazing / View — Day 3 stop: drive to the 13,796-ft summit and stay after sunset for some of the clearest night skies in the world.</li>
+<li>Coordinates from Wikipedia (19°49′20″N 155°28′30″W; summit altitude 4,205 m / 13,796 ft). 4WD required above the Visitor Information Station (~9,200 ft) on the unpaved summit road; acclimatize at the visitor station first (altitude); summit access can close for weather — check conditions before driving up.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Na Pali Coast State Wilderness Park</h4>
 <h5>Coast</h5>
 <ul>
-<li><b>9. <a href="https://www.google.com/maps/search/?api=1&query=Napali+Coast+State+Wilderness+Park">Napali Coast</a></b> — Na Pali Coast State Wilderness Park, Kauai
+<li><b>14. <a href="https://www.google.com/maps/search/?api=1&query=Napali+Coast+State+Wilderness+Park">Napali Coast</a></b> — Na Pali Coast State Wilderness Park, Kauai
 <ul>
 <li><b>Best for:</b> Coast / Hike · Dramatic green sea cliffs of Kauai — One of the stops in Ted&#x27;s serene bucket-list montage &#x27;Places in the USA you need to visit before you die.&#x27; The montage shows the dramatic green cliffs of the Napali Coast viewed from a boat — Kauai&#x27;s 16-mile wall of fluted 4,000-ft cliffs, otherwise reached only by the Kalalau Trail or by air.</li>
 <li>Pin is the Na Pali Coast State Wilderness Park point published by Hawaii DLNR; the reel&#x27;s shot is the coast from the water.</li>
@@ -17946,6 +18023,67 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/reel/Dfc7s0XMtxX/">Places in the USA you need to visit before you die</a> by @tedsalwaystraveling</li>
+</ul>
+</details>
+</li>
+</ul>
+<h4>Papakōlea Green Sand Beach</h4>
+<h5>Beach</h5>
+<ul>
+<li><b>15. <a href="https://www.google.com/maps/search/?api=1&query=Papakolea+Green+Sand+Beach+Hawaii+HI">Papakōlea Green Sand Beach</a></b> — Papakōlea Green Sand Beach, Nāʻālehu
+<ul>
+<li><b>Best for:</b> Beach / Hike — Day 1 stop: one of only four green-sand beaches in the world — olivine sand inside an eroded tuff cone at the island&#x27;s southern tip.</li>
+<li>Coordinates from Wikipedia (18.936379°N 155.646315°W). ~2.5–3 miles each way on foot from the South Point Rd parking area (no shade, hot and windy; ~1 hr each way); local 4WD shuttles ~$20. Rough surf, no lifeguard — wading/viewing rather than swimming.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
+</ul>
+</details>
+</li>
+</ul>
+<h4>Punaluʻu Black Sand Beach</h4>
+<h5>Beach</h5>
+<ul>
+<li><b>16. <a href="https://www.google.com/maps/search/?api=1&query=Punaluu+Black+Sand+Beach+Hawaii+HI">Punaluʻu Black Sand Beach</a></b> — Punaluʻu Black Sand Beach, Nāʻālehu
+<ul>
+<li><b>Best for:</b> Beach / Turtles — Day 1 stop: the island&#x27;s famous jet-black basalt-sand beach on the Kaʻū coast — endangered green and hawksbill turtles often bask on the sand.</li>
+<li>Coordinates from Wikipedia (19°08′10″N 155°30′14″W; Mapcarta 19.13536, -155.50443 agrees). Hawaiʻi County park between Pāhala and Nāʻālehu, off Ninole Loop Rd; free, picnic tables/restrooms/showers; strong currents and rocky bottom make swimming hazardous.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
+</ul>
+</details>
+</li>
+</ul>
+<h4>Puʻuhonua o Hōnaunau National Historical Park</h4>
+<h5>History</h5>
+<ul>
+<li><b>17. <a href="https://www.google.com/maps/search/?api=1&query=Puuhonua+o+Honaunau+National+Historical+Park+HI">Puʻuhonua o Hōnaunau National Historical Park</a></b> — Puʻuhonua o Hōnaunau National Historical Park, Hōnaunau
+<ul>
+<li><b>Best for:</b> History / Culture — Day 1 stop: the sacred Place of Refuge — royal grounds, reconstructed thatched hale and the great wall on the Kona coast.</li>
+<li>NPS Directions page GPS coordinates 19.422750, -155.909873 (Wikipedia agrees: 19.42194, -155.91028). $20/vehicle admission per the NPS listing; 0.5-mile self-guided walking tour; address 84-5559 Keala O Keawe Rd (Captain Cook area).</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
+</ul>
+</details>
+</li>
+</ul>
+<h4>ʻAkaka Falls State Park</h4>
+<h5>Waterfall</h5>
+<ul>
+<li><b>18. <a href="https://www.google.com/maps/search/?api=1&query=Akaka+Falls+State+Park+Hawaii+HI">ʻAkaka Falls</a></b> — ʻAkaka Falls State Park, Honomū
+<ul>
+<li><b>Best for:</b> Waterfall / Hike — Day 2 stop: a 442-foot waterfall plunging into a rainforest gorge at the end of a short paved loop — the Hilo side&#x27;s showpiece falls.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/hawaii/hawaii/akaka-falls-trail">Trail page</a></li>
+<li>Coordinates are the falls itself per USGS (19°51′12″N 155°09′22″W; park entrance ~0.3 mi away at 19.85389, -155.15444 per Wikipedia). 0.4-mile paved loop also passes 100-ft Kahuna Falls; stairs, not wheelchair accessible. DLNR fees: non-residents $5/person entry + $10 parking (credit card only). AllTrails (Oct 2026) notes a partial closure — part of the route temporarily inaccessible.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/p/Df0t5BbG7TG/">Big Island, Hawaii — 3-day itinerary</a> by @hewandersusa</li>
 </ul>
 </details>
 </li>
@@ -20464,6 +20602,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: State parks that might be better than national parks — Part 1: Ecola (OR), Dead Horse Point (UT), Watkins Glen (NY), Point Lobos (CA), Valley of Fire (NV), Custer (SD), Letchworth (NY). They've been to 55 national parks, but these state parks give them a run for their money.
 - **[A North Carolina bucket list waterfall you can actually walk behind — Dry Falls](https://www.instagram.com/reel/Df-cJUpJwB5/)** — @the.travel.ksu · 1 places · Theme: Dry Falls — walk-behind waterfall, Highlands NC
   - What the reel recommends: Dry Falls in Highlands, NC — a 75-ft waterfall on the Cullasaja River you can walk right behind, a scenic drive from Atlanta (~2.5 hr). No long hike required: a short paved trail with stairs down to the falls. Parking $3 per vehicle. Address: 4468 Highlands Rd, Highlands, NC 28741.
+- **[Big Island, Hawaii — 3-day itinerary](https://www.instagram.com/p/Df0t5BbG7TG/)** — @hewandersusa · 11 places · Theme: Big Island, Hawaii — 3-day itinerary
+  - What the reel recommends: A 3-day Big Island itinerary: Day 1 Kona-side cloud forest, Place of Refuge, Kīholo Bay and the black- and green-sand beaches; Day 2 Hawaiʻi Volcanoes NP (crater viewpoints, Kīlauea Iki Trail, Nāhuku Lava Tube) plus ʻAkaka Falls; Day 3 Mauna Kea Observatory drive and post-sunset stargazing.
 
 ## How this page is updated {#how-this-page-is-updated}
 
