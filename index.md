@@ -9296,6 +9296,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><b>107. <a href="https://www.google.com/maps/search/?api=1&query=Guadalupe+Peak+Guadalupe+Mountains+National+Park+TX">Guadalupe Peak</a></b> — Guadalupe Mountains National Park, Guadalupe Mountains
 <ul>
 <li><b>Best for:</b> View — Ranked #5 for views, shown with its summit marker and sweeping desert mountain vistas.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/texas/guadalupe-peak-texas-highpoint-trail">Trail page</a></li>
 </ul>
 <details><summary>🎬 Sources</summary>
 <ul>
@@ -9315,6 +9316,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/C4tB6MbRCq6/">Guadalupe Mountains — an underrated national park</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/DfseAkVCdgn/">The Ultimate List of Underrated US National Parks</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/DgBsnmvPFI3/">We bet you’ve never heard of this park</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/DgLuvx4vCPh/">The tallest mountain in Texas — Guadalupe Peak</a> by @thisworldofadventure</li>
 </ul>
 </details>
 </li>
@@ -20270,6 +20272,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Mile High Swinging Bridge on Grandfather Mountain, North Carolina — possibly the most breathtaking sunset spot in the state: a 228-foot suspension bridge at 5,280 feet above sea level with panoramic views of the Blue Ridge Mountains. Cloud inversions can create a magical sea-of-clouds effect, but they aren't guaranteed — check the weather and mountain conditions before visiting.
 - **[Myakka River State Park — Old Florida and the Deep Hole](https://www.instagram.com/reel/DgKzaJKhrSf/)** — @codiendrew · 2 places · Theme: Myakka River State Park — Deep Hole alligators
   - What the reel recommends: Myakka River State Park near Sarasota, Florida — one of the wildest places to explore in Florida: Old Florida scenery with vast wetlands, scenic trails, and plenty of wildlife. Its most fascinating spot is the Deep Hole, a natural sinkhole where large numbers of alligators gather, reached by the 4.4-mi Deep Hole Trail (free permit required, 30 per day, first-come at the ranger station). (Deep Hole is covered by the park pin, not a separate pin — park-features precedent, as with the Arkansas park features.)
+- **[The tallest mountain in Texas — Guadalupe Peak](https://www.instagram.com/reel/DgLuvx4vCPh/)** — @thisworldofadventure · 1 places · Theme: Guadalupe Peak — tallest mountain in Texas
+  - What the reel recommends: Guadalupe Peak in Guadalupe Mountains National Park — the tallest mountain in Texas at 8,751 ft, with views across the desert for miles. A no-joke hike: ~3,000 ft of elevation gain, ~3 hrs up, ~1 hr at the summit, ~2 hrs down (in the dark).
 
 ## How this page is updated {#how-this-page-is-updated}
 
