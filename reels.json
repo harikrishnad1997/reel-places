@@ -20951,6 +20951,21 @@
    "places_count": 2,
    "duplicate_place": false,
    "recommendation_summary": "Myakka River State Park near Sarasota, Florida — one of the wildest places to explore in Florida: Old Florida scenery with vast wetlands, scenic trails, and plenty of wildlife. Its most fascinating spot is the Deep Hole, a natural sinkhole where large numbers of alligators gather, reached by the 4.4-mi Deep Hole Trail (free permit required, 30 per day, first-come at the ranger station). (Deep Hole is covered by the park pin, not a separate pin — park-features precedent, as with the Arkansas park features.)"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DgLuvx4vCPh/",
+   "title": "The tallest mountain in Texas — Guadalupe Peak",
+   "creator": "@thisworldofadventure",
+   "creator_name": "Courtney & Matt | Travel & Lifestyle Creators",
+   "theme": "Guadalupe Peak — tallest mountain in Texas",
+   "posted": "2026-11-25",
+   "added": "2026-11-25",
+   "place_ids": [
+    "guadalupe-peak-tx"
+   ],
+   "places_count": 1,
+   "duplicate_place": true,
+   "recommendation_summary": "Guadalupe Peak in Guadalupe Mountains National Park — the tallest mountain in Texas at 8,751 ft, with views across the desert for miles. A no-joke hike: ~3,000 ft of elevation gain, ~3 hrs up, ~1 hr at the summit, ~2 hrs down (in the dark)."
   }
  ]
 }
