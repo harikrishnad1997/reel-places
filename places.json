@@ -16450,6 +16450,15 @@
      "source_reel": "https://www.instagram.com/p/DgJSQ57G7_d/",
      "source_reel_theme": "Ranking the states with the best waterfalls in the USA",
      "source_title": "Ranking the states with the best waterfalls in the USA"
+    },
+    {
+     "best_for": "Waterfall / Paddleboard view",
+     "recommendation": "Burgess Falls from the water — the wide cascading falls seen from a paddleboard, the reel's swimming-hole and paddling pick on the Cumberland Plateau.",
+     "source_creator": "@alexysabroad",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgJKHFet3Fo/",
+     "source_reel_theme": "Tennessee beyond Nashville",
+     "source_title": "Tennessee beyond Nashville — waterfalls, swimming holes & hidden gems"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/tennessee/burgess-falls-trail"
@@ -16673,6 +16682,15 @@
      "source_reel": "https://www.instagram.com/p/DgJSQ57G7_d/",
      "source_reel_theme": "Ranking the states with the best waterfalls in the USA",
      "source_title": "Ranking the states with the best waterfalls in the USA"
+    },
+    {
+     "best_for": "Waterfall / Underground cave falls",
+     "recommendation": "The opening clip's lit underground waterfall inside a cavern — identified visually as Ruby Falls, the 145-foot waterfall inside Lookout Mountain (the reel never names it; see judgment call).",
+     "source_creator": "@alexysabroad",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgJKHFet3Fo/",
+     "source_reel_theme": "Tennessee beyond Nashville",
+     "source_title": "Tennessee beyond Nashville — waterfalls, swimming holes & hidden gems"
     }
    ],
    "alltrails_url": "https://www.alltrails.com/trail/us/tennessee/ruby-falls"
@@ -50745,6 +50763,15 @@
      "source_reel": "https://www.instagram.com/p/DgJSQ57G7_d/",
      "source_reel_theme": "Ranking the states with the best waterfalls in the USA",
      "source_title": "Ranking the states with the best waterfalls in the USA"
+    },
+    {
+     "best_for": "Waterfall / Tallest falls in the East",
+     "recommendation": "The reel's tallest waterfall — Fall Creek Falls, a 256-foot cascade in Fall Creek Falls State Park, shown with a hiker standing on the rocky terrain at its base.",
+     "source_creator": "@alexysabroad",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DgJKHFet3Fo/",
+     "source_reel_theme": "Tennessee beyond Nashville",
+     "source_title": "Tennessee beyond Nashville — waterfalls, swimming holes & hidden gems"
     }
    ],
    "note": "Coordinates: Wikipedia/USGS, Fall Creek Falls (35.66611, -85.35583)."
@@ -54536,6 +54563,52 @@
    "source_rank": null,
    "source_reel_theme": "Chicago hidden gems",
    "additional_sources": []
+  },
+  {
+   "state": "Tennessee",
+   "state_code": "TN",
+   "country": "United States",
+   "region": "Southeast",
+   "region_id": "southeast",
+   "source_reel": "https://www.instagram.com/reel/DgJKHFet3Fo/",
+   "source_title": "Tennessee beyond Nashville — waterfalls, swimming holes & hidden gems",
+   "source_creator": "@alexysabroad",
+   "source_rank": null,
+   "source_reel_theme": "Tennessee beyond Nashville",
+   "id": "lost-sea-tn",
+   "name": "The Lost Sea",
+   "site": "The Lost Sea Adventure (Craighead Caverns)",
+   "city": "Sweetwater",
+   "lat": 35.53566,
+   "lng": -84.43107,
+   "google_maps_query": "The+Lost+Sea+Sweetwater+Tennessee",
+   "best_for": "Underground lake / Cave boat tour",
+   "recommendation": "America's largest underground lake, 140 feet below ground inside Craighead Caverns — a guided cave walk ending in a glass-bottom boat ride across the lake, past rainbow trout swimming under artificial light.",
+   "note": "America's largest underground lake (and the world's second-largest non-subglacial underground lake) inside Craighead Caverns at 140 Lost Sea Rd, Sweetwater, TN 37874 — 7 miles off I-75, exit 60, via Hwy 68. Guided tour only: a 3/4-mile round trip descending 140 ft underground, ending in a glass-bottom boat ride on the 4-acre lake (visible trout). Coordinate is the official-site listing (35.53566, -84.43107; showcaves.com 35.535657, -84.431112 agrees). Open daily 9 AM–6 PM; constant ~56°F underground. The operator warns drought has lowered the lake level, so check tour availability before going.",
+   "additional_sources": []
+  },
+  {
+   "state": "Tennessee",
+   "state_code": "TN",
+   "country": "United States",
+   "region": "Southeast",
+   "region_id": "southeast",
+   "source_reel": "https://www.instagram.com/reel/DgJKHFet3Fo/",
+   "source_title": "Tennessee beyond Nashville — waterfalls, swimming holes & hidden gems",
+   "source_creator": "@alexysabroad",
+   "source_rank": null,
+   "source_reel_theme": "Tennessee beyond Nashville",
+   "id": "spruce-flats-falls-tn",
+   "name": "Spruce Flats Falls",
+   "site": "Great Smoky Mountains National Park",
+   "city": "Townsend",
+   "lat": 35.63431,
+   "lng": -83.6819,
+   "google_maps_query": "Spruce+Flats+Falls+Great+Smoky+Mountains+National+Park+Tennessee",
+   "best_for": "Waterfall / Hidden Smokies hike",
+   "recommendation": "A quieter Smokies waterfall — a four-tier cascade with a 30-foot main drop in a lush forest hollow near Tremont, reached by a short, steep, rocky 1.7-mile out-and-back.",
+   "note": "Four-tier cascade (30-ft main drop) on Spruce Flats Branch in the Tremont area of Great Smoky Mountains National Park, near Townsend, TN. Trailhead at the Great Smoky Mountains Institute at Tremont (9275 Tremont Rd; trailhead point 35.63679, -83.68244): park at the Visitor Center lot, walk up the gravel service road to the dorms, left on Lumber Ridge Trail, then right at the signed Falls spur (Buckeye Trail). Coordinate is the published Mapcarta/OSM falls point (35.63431, -83.6819; GSMIT listing 35.634304, -83.682123 agrees). AllTrails Buckeye Trail to Spruce Flats Falls, 1.7 mi, 442 ft gain, moderate, 4.8 stars (4,851 reviews). PARTIAL CLOSURE: AllTrails notice — Sep 1–Dec 1, 2026 the trail is closed Monday–Friday for rehabilitation; weekend access may be available but is not guaranteed. The trail is unofficial (not on the NPS park map) and steep/rocky with a rough descent to the falls; a parking tag is required for stays over 15 minutes; dogs not allowed.",
+   "alltrails_url": "https://www.alltrails.com/trail/us/tennessee/spruce-flats-falls-trail"
   }
  ],
  "updated": "2026-11-26",
