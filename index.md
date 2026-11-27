@@ -17,7 +17,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Midwest Region — 167 places](#midwest)
 - [Southwest Region — 177 places](#southwest)
 - [Mountain West Region — 112 places](#mountain-west)
-- [West Region — 175 places](#west)
+- [West Region — 176 places](#west)
 - [Pacific Northwest Region — 96 places](#pacific-northwest)
 - [Alaska Region — 44 places](#alaska)
 - [Hawaii Region — 18 places](#hawaii)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 93 · Southeast 200 · Midwest 167 · Southwest 177 · Mountain West 112 · West 175 · Pacific Northwest 96 · Alaska 44 · Hawaii 18 · U.S. Territories 4 · **Total 1086**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 93 · Southeast 200 · Midwest 167 · Southwest 177 · Mountain West 112 · West 176 · Pacific Northwest 96 · Alaska 44 · Hawaii 18 · U.S. Territories 4 · **Total 1087**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -12894,9 +12894,9 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## West Region {#west}
 
-**175 places · California**
+**176 places · California**
 
-<details><summary><b>California</b> — 175 places</summary>
+<details><summary><b>California</b> — 176 places</summary>
 <h4>Alabama Hills</h4>
 <h5>Scenic area</h5>
 <ul>
@@ -15376,10 +15376,26 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Visitor Center</h4>
+<h5>National monument</h5>
+<ul>
+<li><b>153. <a href="https://www.google.com/maps/search/?api=1&query=Lava+Beds+National+Monument+Visitor+Center+Tulelake+California">Lava Beds National Monument</a></b> — Visitor Center, Tulelake
+<ul>
+<li><b>Best for:</b> National monument / Caving · Self-guided lava tube caves — Explore underground lava tubes in a remote corner of Northern California — 800+ caves you can explore on your own with a free permit from the Visitor Center.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/mushpot-cave">Trail page</a></li>
+<li>Pin at the Visitor Center (1 Indian Well, Tulelake; NPS-published point 41.714284, -121.509853), where free cave permits are issued — required for every cave, plus white-nose syndrome screening and a decontamination station. Entry $25/vehicle, good 7 days, card only (reel). Visitor Center daily 9:30 AM–4:30 PM per the reel; hours vary seasonally, check NPS. Caves stay ~55°F year-round — bring layers, sturdy shoes, your own flashlight plus a backup (some available to borrow), and a helmet/knee pads for harder caves. The reel&#x27;s caves by difficulty — Easy: Mushpot Cave (the only lit cave, paved path, 770 ft, a 524-ft walk from the Visitor Center), Valentine Cave, Skull Cave (ice at the bottom), Big Painted Cave (pictographs at the entrance); Moderate: Golden Dome, Indian Well, Blue Grotto; Challenging: Catacombs, Hopkins Chocolate, Thunderbolt. Some caves close seasonally to protect bats — check with a ranger. No gas, restaurants or showers in the park; nearest towns Tulelake, Tionesta and Merrill, OR (20–30 min). Remote — the last gas station can be over an hour away (NPS).</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DgPLVDHB_dt/">Lava Beds National Monument — underground lava tubes</a> by @modicumofjoy</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Yosemite National Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>153. <a href="https://www.google.com/maps/search/?api=1&query=Eagle+Peak+Yosemite+National+Park+CA">Eagle Peak</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>154. <a href="https://www.google.com/maps/search/?api=1&query=Eagle+Peak+Yosemite+National+Park+CA">Eagle Peak</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Hike / View — His #3 hike: Eagle Peak in Yosemite National Park, praised for expansive views of Yosemite Valley, Half Dome, and surrounding granite cliffs.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/eagle-peak--6">Trail page</a></li>
@@ -15391,7 +15407,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>154. <a href="https://www.google.com/maps/search/?api=1&query=Four+Mile+Trail+to+Glacier+Point+Yosemite+National+Park+CA">Four Mile Trail to Glacier Point</a></b> — Yosemite National Park, Yosemite Village
+<li><b>155. <a href="https://www.google.com/maps/search/?api=1&query=Four+Mile+Trail+to+Glacier+Point+Yosemite+National+Park+CA">Four Mile Trail to Glacier Point</a></b> — Yosemite National Park, Yosemite Village
 <ul>
 <li><b>Best for:</b> Hike — Caption names the Four Mile Trail to Glacier Point in Yosemite as the post&#x27;s hike. No media narrative was stored for this post, so this is based on the caption only.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/four-mile-trail">Trail page</a></li>
@@ -15409,7 +15425,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>155. <a href="https://www.google.com/maps/search/?api=1&query=Half+Dome+Yosemite+National+Park+CA">Half Dome</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>156. <a href="https://www.google.com/maps/search/?api=1&query=Half+Dome+Yosemite+National+Park+CA">Half Dome</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Hike / Yosemite&#x27;s ultimate day hike — the cable route up the granite icon (permit required) — On Kelley &amp; Carl&#x27;s hardest-hikes lists: over 17 miles with over 5,300 ft of elevation gain, finishing with the famous cables — dangerous when wet, and a permit is required. The toughest climb on their list, and they say it can be worth it.</li>
 <li>Pin is the OSM Half Dome summit point.</li>
@@ -15426,7 +15442,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>156. <a href="https://www.google.com/maps/search/?api=1&query=Mariposa+Grove+Yosemite+National+Park+CA">Mariposa Grove</a></b> — Yosemite National Park, Wawona
+<li><b>157. <a href="https://www.google.com/maps/search/?api=1&query=Mariposa+Grove+Yosemite+National+Park+CA">Mariposa Grove</a></b> — Yosemite National Park, Wawona
 <ul>
 <li><b>Best for:</b> Hike / Giant trees · Yosemite&#x27;s largest sequoia grove, home of the Grizzly Giant — Ranked #5 of the carousel&#x27;s 10 hikes among giant trees: meet giant sequoias in Yosemite National Park&#x27;s Mariposa Grove, including the famous Grizzly Giant — the grove&#x27;s oldest tree, roughly 2,000 years old.</li>
 <li>Pin is the published Wikipedia point for Mariposa Grove, near Wawona at Yosemite&#x27;s south entrance.</li>
@@ -15437,7 +15453,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>157. <a href="https://www.google.com/maps/search/?api=1&query=Sentinel+Dome+Yosemite+National+Park+CA">Sentinel Dome</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>158. <a href="https://www.google.com/maps/search/?api=1&query=Sentinel+Dome+Yosemite+National+Park+CA">Sentinel Dome</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Hike / Granite dome summit with a 360-degree Yosemite panorama — Rated 9/10 in Kelley &amp; Carl&#x27;s honest ratings for California national park hikes (part 2): Sentinel Dome&#x27;s bare granite summit gives a full-circle view — Half Dome, Yosemite Falls and El Capitan — from a short Glacier Point Road trail. Also a named highlight on their California road trip.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/sentinel-dome-trail">Trail page</a></li>
@@ -15451,7 +15467,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>158. <a href="https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+Yosemite+National+Park+CA">Yosemite National Park</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>159. <a href="https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+Yosemite+National+Park+CA">Yosemite National Park</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Hike — His #3 for hiking: iconic massive waterfalls plunging down granite cliffs, misty river rapids among boulders, and panoramic overlooks of Yosemite Valley including Half Dome.</li>
 <li>Park-level pin is Yosemite Village, the park&#x27;s main visitor area.</li>
@@ -15485,7 +15501,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Hiking</h5>
 <ul>
-<li><b>159. <a href="https://www.google.com/maps/search/?api=1&query=Cooks+Meadow+Loop+Yosemite+National+Park+CA">Cook&#x27;s Meadow Loop</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>160. <a href="https://www.google.com/maps/search/?api=1&query=Cooks+Meadow+Loop+Yosemite+National+Park+CA">Cook&#x27;s Meadow Loop</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Hiking / Easy valley-floor loop with Half Dome and Yosemite Falls views — One of the easiest national park hikes with epic views in Kelley &amp; Carl&#x27;s list: Cook&#x27;s Meadow Loop — 1.1 easy miles with 29 feet of gain and incredible views of Yosemite Valley and Yosemite Falls (they also name it a favorite Yosemite Falls viewpoint, in their waterfalls list).</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/cook-s-meadow-trail">Trail page</a></li>
@@ -15501,7 +15517,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>160. <a href="https://www.google.com/maps/search/?api=1&query=Illilouette+Falls+Yosemite+National+Park+CA">Illilouette Falls</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>161. <a href="https://www.google.com/maps/search/?api=1&query=Illilouette+Falls+Yosemite+National+Park+CA">Illilouette Falls</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Hiking / Waterfall without the crowds, via Panorama Trail — Kelley &amp; Carl call this the most underrated hike in Yosemite: Illilouette Falls via the Panorama Trail from Glacier Point — about 5.3 miles round trip with 1,430 feet of gain, 3-4 hours, moderate — with epic waterfall views and almost none of the crowds of Vernal, Nevada or Upper Yosemite Falls.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/illilouette-falls-via-panorama-trail">Trail page</a></li>
@@ -15517,7 +15533,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Landmark</h5>
 <ul>
-<li><b>161. <a href="https://www.google.com/maps/search/?api=1&query=Yosemite Valley Chapel, Yosemite National Park, Yosemite National Park, California">Yosemite Valley Chapel</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>162. <a href="https://www.google.com/maps/search/?api=1&query=Yosemite Valley Chapel, Yosemite National Park, Yosemite National Park, California">Yosemite Valley Chapel</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Landmark / The valley&#x27;s historic 1879 chapel — Stop #5 on their &#x27;8 Can&#x27;t-Miss Spots in Yosemite Valley&#x27; list — the little 1879 chapel on Southside Drive, the oldest public-use structure in Yosemite Valley.</li>
 <li>Coordinates: Mapcarta (OpenStreetMap).</li>
@@ -15531,7 +15547,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Picnic area</h5>
 <ul>
-<li><b>162. <a href="https://www.google.com/maps/search/?api=1&query=Swinging Bridge Picnic Area, Yosemite National Park, Yosemite National Park, California">Swinging Bridge Picnic Area</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Swinging Bridge Picnic Area, Yosemite National Park, Yosemite National Park, California">Swinging Bridge Picnic Area</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Picnic area / Merced River beach with the classic Yosemite Falls view — Stop #4 on their &#x27;8 Can&#x27;t-Miss Spots in Yosemite Valley&#x27; list — the picnic area and footbridge over the Merced River with a postcard view of Yosemite Falls; like the rest of the list, accessible year-round.</li>
 <li>Coordinates: AroundUS (OpenStreetMap) for Swinging Bridge.</li>
@@ -15545,7 +15561,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Sunrise</h5>
 <ul>
-<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA">Valley View</a></b> — Yosemite National Park, Yosemite Village
+<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA">Valley View</a></b> — Yosemite National Park, Yosemite Village
 <ul>
 <li><b>Best for:</b> Sunrise / View — Captioned &#x27;Sunrise at Valley View&#x27; in Yosemite. The video shows the calm river at Valley View mirroring Yosemite Valley&#x27;s towering granite cliffs, with autumn-colored trees at the cliff base — a quiet sunrise reflection scene.</li>
 </ul>
@@ -15558,7 +15574,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Sunset</h5>
 <ul>
-<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Big+Oak+Flat+Road+Yosemite+National+Park+CA">Big Oak Flat Road</a></b> — Yosemite National Park, Yosemite Village
+<li><b>165. <a href="https://www.google.com/maps/search/?api=1&query=Big+Oak+Flat+Road+Yosemite+National+Park+CA">Big Oak Flat Road</a></b> — Yosemite National Park, Yosemite Village
 <ul>
 <li><b>Best for:</b> Sunset — Caption names a sunset on Big Oak Flat Road in Yosemite National Park. No media narrative was stored for this post, so this is based on the caption and tagged location only.</li>
 <li>Pin is a point on the road&#x27;s in-park stretch between the Big Oak Flat entrance and Crane Flat.</li>
@@ -15572,7 +15588,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>View</h5>
 <ul>
-<li><b>165. <a href="https://www.google.com/maps/search/?api=1&query=Tunnel+View+Yosemite+National+Park+CA">Tunnel View</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>166. <a href="https://www.google.com/maps/search/?api=1&query=Tunnel+View+Yosemite+National+Park+CA">Tunnel View</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> View — Caption names Tunnel View, Yosemite National Park. The video shows a misty valley from a high vantage point, fog drifting through the forest, then pans right and zooms in on a tall waterfall cascading down a sheer dark cliff — a quiet, overcast, contemplative scene.</li>
 </ul>
@@ -15595,7 +15611,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>166. <a href="https://www.google.com/maps/search/?api=1&query=Artist+Point+Yosemite+National+Park+CA">Artist Point</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>167. <a href="https://www.google.com/maps/search/?api=1&query=Artist+Point+Yosemite+National+Park+CA">Artist Point</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Viewpoint / Yosemite&#x27;s Artist Point — the valley view that inspired painters — Rated a perfect 10/10 in Kelley &amp; Carl&#x27;s honest ratings for California national park hikes (part 1): Artist Point, Yosemite&#x27;s historic viewpoint above the valley&#x27;s west end (not the Yellowstone overlook of the same name). Also on their perfect-hikes list and named (with Tunnel View) on their California road trip. Reached by the Pohono Trail / old carriage road from the Tunnel View area.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/artist-point-trail">Trail page</a></li>
@@ -15610,7 +15626,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>167. <a href="https://www.google.com/maps/search/?api=1&query=Hanging Valley Viewpoint, Yosemite National Park, Yosemite National Park, California">Hanging Valley Viewpoint</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>168. <a href="https://www.google.com/maps/search/?api=1&query=Hanging Valley Viewpoint, Yosemite National Park, Yosemite National Park, California">Hanging Valley Viewpoint</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Viewpoint / Roadside view toward Bridalveil Fall — Stop #3 on their &#x27;8 Can&#x27;t-Miss Spots in Yosemite Valley&#x27; list — the drive-side viewpoint named for the hanging valleys above the valley floor, looking across the Merced River toward Bridalveil Fall and Leaning Tower.</li>
 <li>Coordinates: Yosemite Hummingbird&#x27;s published Yosemite Valley favorite photo spots guide.</li>
@@ -15621,7 +15637,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>168. <a href="https://www.google.com/maps/search/?api=1&query=Sentinel Bridge, Yosemite National Park, Yosemite National Park, California">Sentinel Bridge</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>169. <a href="https://www.google.com/maps/search/?api=1&query=Sentinel Bridge, Yosemite National Park, Yosemite National Park, California">Sentinel Bridge</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Viewpoint / Half Dome reflected in the Merced River — Stop #7 on their &#x27;8 Can&#x27;t-Miss Spots in Yosemite Valley&#x27; list — the bridge famous for Half Dome&#x27;s reflection in the Merced River.</li>
 <li>Coordinates: USGS GNIS record for Sentinel Bridge (via TopoQuest).</li>
@@ -15632,7 +15648,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>169. <a href="https://www.google.com/maps/search/?api=1&query=Taft+Point+Yosemite+National+Park+CA">Taft Point</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>170. <a href="https://www.google.com/maps/search/?api=1&query=Taft+Point+Yosemite+National+Park+CA">Taft Point</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Viewpoint / Sheer cliff-edge viewpoint over Yosemite Valley, by the Fissures — A named highlight of Stop 1 (Yosemite) on Kelley &amp; Carl&#x27;s 4-parks California road trip, and on their perfect-hikes and mountain-hikes lists: Taft Point stands at the brink of a 3,500-ft drop over Yosemite Valley, next to the Fissures — reached by an easy trail from Glacier Point Road, often paired with Sentinel Dome.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/taft-point-and-the-fissures">Trail page</a></li>
@@ -15651,7 +15667,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Waterfall</h5>
 <ul>
-<li><b>170. <a href="https://www.google.com/maps/search/?api=1&query=Bridalveil Fall, Yosemite National Park, Yosemite National Park, California">Bridalveil Fall</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>171. <a href="https://www.google.com/maps/search/?api=1&query=Bridalveil Fall, Yosemite National Park, Yosemite National Park, California">Bridalveil Fall</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Waterfall / 620-foot fall at the west end of Yosemite Valley — Named among the can&#x27;t-miss spots of Yosemite Valley in their spring guide: the 620-foot waterfall — often the first fall seen entering the Valley — at its best in spring snowmelt, reached by a short paved trail.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/bridalveil-fall-trail">Trail page</a></li>
@@ -15667,7 +15683,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>171. <a href="https://www.google.com/maps/search/?api=1&query=Lower Yosemite Fall, Yosemite National Park, Yosemite National Park, California">Lower Yosemite Fall</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>172. <a href="https://www.google.com/maps/search/?api=1&query=Lower Yosemite Fall, Yosemite National Park, Yosemite National Park, California">Lower Yosemite Fall</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Waterfall / Easy 1.2-mile loop to the base of the fall — Their park #16 feature: the easy 1.2-mile Lower Yosemite Falls hike — probably the most visited trail in the park, so go soon after sunrise to see it crowd-free; they went early in May and rated it &#x27;100% worth the early wake up.&#x27; The fall is the 320-foot final drop of Yosemite Falls. The post also closes their &#x27;8 Can&#x27;t-Miss Spots in Yosemite Valley&#x27; list.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/lower-yosemite-falls-trail">Trail page</a></li>
@@ -15682,7 +15698,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>172. <a href="https://www.google.com/maps/search/?api=1&query=Nevada Fall, Yosemite National Park, Yosemite National Park, California">Nevada Fall</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>173. <a href="https://www.google.com/maps/search/?api=1&query=Nevada Fall, Yosemite National Park, Yosemite National Park, California">Nevada Fall</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Waterfall / 594-foot Merced River fall on the Mist Trail — The upper prize of their Mist Trail post: continue past Vernal Fall and Emerald Pool to the top of 594-foot Nevada Fall — about 6.4 miles round trip with 2,200 feet of gain for both falls, best in spring and early summer at full flow.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/nevada-falls-via-the-mist-trail">Trail page</a></li>
@@ -15695,7 +15711,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>173. <a href="https://www.google.com/maps/search/?api=1&query=Vernal+Falls+Yosemite+National+Park+CA">Vernal Falls</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>174. <a href="https://www.google.com/maps/search/?api=1&query=Vernal+Falls+Yosemite+National+Park+CA">Vernal Falls</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Waterfall — Tagged location Yosemite National Park; on-screen text asks &#x27;Is Vernal Falls Yosemite&#x27;s most perfect waterfall?&#x27; The video shows Vernal Falls plunging over dark granite into a turbulent pool, heavy spray sustaining a vivid rainbow at its base, surrounded by steep cliffs and evergreen forest.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/vernal-falls">Trail page</a></li>
@@ -15737,7 +15753,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>174. <a href="https://www.google.com/maps/search/?api=1&query=Wapama+Falls+Yosemite+National+Park+CA">Wapama Falls</a></b> — Yosemite National Park, Yosemite National Park
+<li><b>175. <a href="https://www.google.com/maps/search/?api=1&query=Wapama+Falls+Yosemite+National+Park+CA">Wapama Falls</a></b> — Yosemite National Park, Yosemite National Park
 <ul>
 <li><b>Best for:</b> Waterfall — His #4 waterfall: Wapama Falls in Yosemite National Park, a powerful, misty fall crashing over boulders into the river leading toward Hetch Hetchy Reservoir.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/wapama-falls-trail">Trail page</a></li>
@@ -15748,7 +15764,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>175. <a href="https://www.google.com/maps/search/?api=1&query=Yosemite+Falls+Yosemite+National+Park+CA">Yosemite Falls</a></b> — Yosemite National Park, Yosemite Village
+<li><b>176. <a href="https://www.google.com/maps/search/?api=1&query=Yosemite+Falls+Yosemite+National+Park+CA">Yosemite Falls</a></b> — Yosemite National Park, Yosemite Village
 <ul>
 <li><b>Best for:</b> Waterfall / View — Caption names Yosemite Falls. The video pans from Yosemite&#x27;s granite cliffs out across the valley — forests, the winding river and Half Dome in the background — a sweeping valley panorama.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/upper-yosemite-falls-trail">Trail page</a></li>
@@ -21033,6 +21049,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Florida beyond theme parks and city trips: Devil's Den (cave spring swim), Sanibel Island (shelling beaches), Indian River Lagoon (bioluminescent kayaking), Rainbow Springs State Park (crystal-clear springs), Anna Maria Island (whitest, softest sand), Blowing Rocks Preserve (waves through limestone), Everglades National Park (alligators and wetlands), Gulf Islands National Seashore (turquoise water, white sand), Caspersen Beach (fossil shark teeth). Ends with a leave-no-trace note.
 - **[5 Most Beautiful Drives in California](https://www.instagram.com/reel/DZivCu4SxAC/)** — @asyatravels · 5 places · Theme: California scenic drives
   - What the reel recommends: Same video as the creator's October reel DeyC-4UzfHd (already on the map): Asya's five all-time favorite California drives — 17-Mile Drive, Highway 395 in the Eastern Sierra, the redwoods drive through Jedediah Smith Redwoods State Park, the Kings Canyon Scenic Byway, and Big Sur on Highway 1. The June post is the earlier, viral original (198,744 likes); the October post is the re-upload. South Coast Highway 101 is named in the caption only as a drive that didn't fit into the five. Record only; no new sources attached.
+- **[Lava Beds National Monument — underground lava tubes](https://www.instagram.com/reel/DgPLVDHB_dt/)** — @modicumofjoy · 1 places · Theme: Lava tubes / caving in Northern California
+  - What the reel recommends: Explore underground lava tubes in a far corner of Northern California: Lava Beds National Monument, Tulelake, with 800+ caves and free self-guided permits from the Visitor Center. Entry $25/vehicle, good 7 days, card only; Visitor Center 9:30 AM–4:30 PM; bring your own flashlight plus a backup, layers, sturdy shoes, and a helmet/knee pads for harder caves. Caves by difficulty — Easy: Mushpot Cave (the only lit cave, paved path), Valentine Cave, Skull Cave (ice at the bottom), Big Painted Cave (pictographs at the entrance); Moderate: Golden Dome, Indian Well, Blue Grotto; Challenging: Catacombs, Hopkins Chocolate, Thunderbolt. Mt. Shasta is hashtag-only, not recommended.
 
 ## How this page is updated {#how-this-page-is-updated}
 
