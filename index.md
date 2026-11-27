@@ -862,6 +862,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><b>52. <a href="https://www.google.com/maps/search/?api=1&query=Letchworth+State+Park+NY">Letchworth State Park</a></b> — Letchworth State Park, Castile
 <ul>
 <li><b>Best for:</b> Top state park — Ranked #1 of the 12 best state parks in the Northeast U.S. by @discovery_matt (Matt) in his state park ranking countdown.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/new-york/letchworth-state-park-gorge-trail">Trail page</a></li>
 <li>Park-level entry from a ranking reel that names the park as a whole. Coordinates verified against OpenStreetMap.</li>
 </ul>
 <details><summary>🎬 Sources</summary>
@@ -871,6 +872,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/reel/DgINJt3BCBs/">19 waterfalls in 3 miles — Watkins Glen State Park</a> by @mccrawsonthemap</li>
 <li><a href="https://www.instagram.com/reel/DgDpiPoKlhN/">State parks that might be better than national parks — Part 1</a> by @mccrawsonthemap</li>
 <li><a href="https://www.instagram.com/p/DgJSQ57G7_d/">Ranking the states with the best waterfalls in the USA</a> by @hewandersusa</li>
+<li><a href="https://www.instagram.com/reel/DcKTRYzK-7U/">Letchworth State Park — Grand Canyon of the East</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -886,6 +888,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/p/Der2jZzGNin/">The 40 Best Waterfalls in the Eastern U.S. (Discovery Matt, 2026 Edition)</a> by @discovery_matt (#12 in that reel)</li>
+<li><a href="https://www.instagram.com/reel/DcKTRYzK-7U/">Letchworth State Park — Grand Canyon of the East</a> by @mccrawsonthemap</li>
 </ul>
 </details>
 </li>
@@ -21068,6 +21071,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Explore underground lava tubes in a far corner of Northern California: Lava Beds National Monument, Tulelake, with 800+ caves and free self-guided permits from the Visitor Center. Entry $25/vehicle, good 7 days, card only; Visitor Center 9:30 AM–4:30 PM; bring your own flashlight plus a backup, layers, sturdy shoes, and a helmet/knee pads for harder caves. Caves by difficulty — Easy: Mushpot Cave (the only lit cave, paved path), Valentine Cave, Skull Cave (ice at the bottom), Big Painted Cave (pictographs at the entrance); Moderate: Golden Dome, Indian Well, Blue Grotto; Challenging: Catacombs, Hopkins Chocolate, Thunderbolt. Mt. Shasta is hashtag-only, not recommended.
 - **[Elks National Memorial — Chicago hidden gem](https://www.instagram.com/reel/De73nAwxdO5/)** — @thenexttrip · 1 places · Theme: Chicago hidden gems
   - What the reel recommends: A free hidden gem in Chicago: the Elks National Memorial in Lincoln Park — a Beaux-Arts memorial hall with a gilded rotunda, frescoes and chandeliers, open Monday–Saturday noon–4 PM. Free to visit.
+- **[Letchworth State Park — Grand Canyon of the East](https://www.instagram.com/reel/DcKTRYzK-7U/)** — @mccrawsonthemap · 5 places · Theme: Letchworth State Park — Grand Canyon of the East
+  - What the reel recommends: The Grand Canyon of the East — a dedicated Letchworth State Park guide: Middle Falls (most iconic), Upper Falls under the historic railroad bridge, Lower Falls, and Inspiration Point for the best panorama; drive the scenic park road, hike the Gorge Trail (the classic Letchworth hike), plus a hot air balloon ride through the gorge and rafting the river. Many viewpoints are roadside; cell service is spotty, so download offline maps first.
 
 ## How this page is updated {#how-this-page-is-updated}
 
