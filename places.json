@@ -15268,8 +15268,18 @@
      "source_reel": "https://www.instagram.com/p/DgJSQ57G7_d/",
      "source_reel_theme": "Ranking the states with the best waterfalls in the USA",
      "source_title": "Ranking the states with the best waterfalls in the USA"
+    },
+    {
+     "best_for": "State park / Grand Canyon of the East",
+     "recommendation": "Their dedicated Letchworth guide — 'the Grand Canyon of the East' and voted the #1 state park in the US: drive the scenic park road, hike the Gorge Trail, and hit the four must-see spots (Middle Falls the most iconic, Upper Falls under the historic railroad bridge, Lower Falls, and Inspiration Point for the best panorama). Many viewpoints are roadside; cell service is spotty, so download offline maps first.",
+     "source_creator": "@mccrawsonthemap",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DcKTRYzK-7U/",
+     "source_reel_theme": "Letchworth State Park — Grand Canyon of the East",
+     "source_title": "Letchworth State Park — Grand Canyon of the East"
     }
-   ]
+   ],
+   "alltrails_url": "https://www.alltrails.com/trail/us/new-york/letchworth-state-park-gorge-trail"
   },
   {
    "id": "black-canyon-of-the-gunnison-national-park-co",
@@ -16487,7 +16497,17 @@
    "source_creator": "@discovery_matt",
    "source_rank": 12,
    "source_reel_theme": "Best Eastern U.S. waterfalls",
-   "additional_sources": [],
+   "additional_sources": [
+    {
+     "best_for": "Waterfall / Most iconic viewpoint",
+     "recommendation": "The most iconic viewpoint in Letchworth — Middle Falls, the first of the reel's four must-see spots in the park.",
+     "source_creator": "@mccrawsonthemap",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/reel/DcKTRYzK-7U/",
+     "source_reel_theme": "Letchworth State Park — Grand Canyon of the East",
+     "source_title": "Letchworth State Park — Grand Canyon of the East"
+    }
+   ],
    "alltrails_url": "https://www.alltrails.com/trail/us/new-york/letchworth-state-park-gorge-trail"
   },
   {

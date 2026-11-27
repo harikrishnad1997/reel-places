@@ -21247,6 +21247,22 @@
    "places_count": 1,
    "duplicate_place": false,
    "recommendation_summary": "A free hidden gem in Chicago: the Elks National Memorial in Lincoln Park — a Beaux-Arts memorial hall with a gilded rotunda, frescoes and chandeliers, open Monday–Saturday noon–4 PM. Free to visit."
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcKTRYzK-7U/",
+   "title": "Letchworth State Park — Grand Canyon of the East",
+   "creator": "@mccrawsonthemap",
+   "creator_name": "Melissa & Carson McCraw",
+   "theme": "Letchworth State Park — Grand Canyon of the East",
+   "posted": "2026-08-17",
+   "added": "2026-11-27",
+   "place_ids": [
+    "letchworth-state-park-ny",
+    "middle-falls-letchworth-ny"
+   ],
+   "places_count": 5,
+   "duplicate_place": true,
+   "recommendation_summary": "The Grand Canyon of the East — a dedicated Letchworth State Park guide: Middle Falls (most iconic), Upper Falls under the historic railroad bridge, Lower Falls, and Inspiration Point for the best panorama; drive the scenic park road, hike the Gorge Trail (the classic Letchworth hike), plus a hot air balloon ride through the gorge and rafting the river. Many viewpoints are roadside; cell service is spotty, so download offline maps first."
   }
  ]
 }
