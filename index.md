@@ -15,7 +15,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Northeast Region — 93 places](#northeast)
 - [Southeast Region — 203 places](#southeast)
 - [Midwest Region — 170 places](#midwest)
-- [Southwest Region — 179 places](#southwest)
+- [Southwest Region — 180 places](#southwest)
 - [Mountain West Region — 112 places](#mountain-west)
 - [West Region — 177 places](#west)
 - [Pacific Northwest Region — 98 places](#pacific-northwest)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 93 · Southeast 203 · Midwest 170 · Southwest 179 · Mountain West 112 · West 177 · Pacific Northwest 98 · Alaska 44 · Hawaii 18 · U.S. Territories 4 · **Total 1098**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 93 · Southeast 203 · Midwest 170 · Southwest 180 · Mountain West 112 · West 177 · Pacific Northwest 98 · Alaska 44 · Hawaii 18 · U.S. Territories 4 · **Total 1099**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -7587,7 +7587,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Southwest Region {#southwest}
 
-**179 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
+**180 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
 
 <details><summary><b>Arizona</b> — 55 places</summary>
 <h4>Canyon de Chelly National Monument</h4>
@@ -9786,7 +9786,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 
-<details><summary><b>Utah</b> — 65 places</summary>
+<details><summary><b>Utah</b> — 66 places</summary>
 <h4>Arches National Park</h4>
 <h5>Hike</h5>
 <ul>
@@ -10780,10 +10780,26 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Manti-La Sal National Forest</h4>
+<h5>Hike</h5>
+<ul>
+<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Maple+Canyon+Loop+Trail+Utah">Maple Canyon Loop Trail</a></b> — Manti-La Sal National Forest, Moroni
+<ul>
+<li><b>Best for:</b> Hike / Fall colors · Conglomerate cliffs, arch, ladder and cave — A hiker&#x27;s playground in Central Utah — a 2.9-mile loop through towering cobble-conglomerate cliffs with rock pinnacles, a massive cave, a natural arch, a wooden ladder and stairs, and views upon views, best in fall when the maples turn.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/maple-canyon-loop-trail--3">Trail page</a></li>
+<li>2.9-mile loop in Maple Canyon, Sanpete County, in the San Pitch Mountains of the Manti-La Sal National Forest, about an hour from Provo. The loop climbs from the Maple Canyon Campground/day-use area through the canyon&#x27;s cobble-conglomerate cliffs (a world-famous rock-climbing area) — Left Fork, Middle Fork (home of the Maple Canyon Arch) and Right Fork trails make up the three steep loop trails in the canyon; expect a wooden ladder, stairs, a cave-like opening and panoramic views east into Sanpete Valley and the Wasatch Plateau near the top. Access: from Fountain Green follow the brown signs south on West Side Road to Freedom Road, then 3 miles to the campground; from Moroni, 9 miles west following the Maple Canyon signs. $5 day-use parking fee; restrooms and campground at the trailhead; dogs on leash. Best April–October, with fall colors the reel&#x27;s draw. Coordinate is the published Forest Service Maple Canyon Campground point (39.556822, -111.687184; TheDyrt 39.5569, -111.6864 agrees within ~70 m). AllTrails Maple Canyon Loop Trail, 2.9 mi, 1,309 ft gain, hard, 4.7 stars (285 reviews).</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DfNsZswu-gO/">The COOLEST Central Utah hike you&#x27;ve never heard of</a> by @seekingsalmons</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Marlboro Point</h4>
 <h5>Viewpoint</h5>
 <ul>
-<li><b>163. <a href="https://www.google.com/maps/search/?api=1&query=Marlboro+Point+Moab+UT">Marlboro Point</a></b> — Marlboro Point, Moab
+<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Marlboro+Point+Moab+UT">Marlboro Point</a></b> — Marlboro Point, Moab
 <ul>
 <li><b>Best for:</b> Viewpoint — Ranked #9 in Adventure Family Vlog&#x27;s &#x27;9 Places in Utah That Look Unreal — and none are in a national park&#x27;: a hidden desert overlook with incredible canyon views, out in the Moab backcountry between Canyonlands and Dead Horse Point.</li>
 <li>Coordinates from the Marlboro Point place record (Grand County, UT); reached by dirt roads off UT-313, high-clearance 4x4 for the last stretch.</li>
@@ -10798,7 +10814,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Monument Valley Navajo Tribal Park</h4>
 <h5>Road trip stop</h5>
 <ul>
-<li><b>164. <a href="https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT">Monument Valley</a></b> — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
+<li><b>165. <a href="https://www.google.com/maps/search/?api=1&query=Monument+Valley+Navajo+Tribal+Park+UT">Monument Valley</a></b> — Monument Valley Navajo Tribal Park, Oljato-Monument Valley
 <ul>
 <li><b>Best for:</b> Road trip stop — Stop #11 on @_wanderedsouls&#x27; Southwest winter road-trip route — the classic buttes, filmed from the road through the valley.</li>
 <li>Coordinates verified against OpenStreetMap.</li>
@@ -10818,7 +10834,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Natural Bridges National Monument</h4>
 <h5>Stargazing</h5>
 <ul>
-<li><b>165. <a href="https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT">Natural Bridges National Monument</a></b> — Natural Bridges National Monument, Blanding
+<li><b>166. <a href="https://www.google.com/maps/search/?api=1&query=Natural+Bridges+National+Monument+UT">Natural Bridges National Monument</a></b> — Natural Bridges National Monument, Blanding
 <ul>
 <li><b>Best for:</b> Stargazing — Ranked #7 in Adventure Family Vlog&#x27;s &#x27;10 Places in America Where the Night Sky Doesn&#x27;t Look Real&#x27; — picked as one of America&#x27;s most incredible dark-sky destinations for stargazing and Milky Way photography.</li>
 <li>Park-level entry from the dark-sky carousel, which names the place as a whole rather than a specific viewpoint. Coordinates verified against OpenStreetMap.</li>
@@ -10834,7 +10850,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Potash Road (SR-279, Moab)</h4>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>166. <a href="https://www.google.com/maps/search/?api=1&query=Potash+Road+Moab+UT">Potash Road</a></b> — Potash Road (SR-279, Moab), Moab
+<li><b>167. <a href="https://www.google.com/maps/search/?api=1&query=Potash+Road+Moab+UT">Potash Road</a></b> — Potash Road (SR-279, Moab), Moab
 <ul>
 <li><b>Best for:</b> Scenic drive — Ranked #5 in Adventure Family Vlog&#x27;s &#x27;9 Places in Utah That Look Unreal — and none are in a national park&#x27;: a jaw-dropping scenic drive along the Colorado River near Moab.</li>
 <li>Pin marks the Potash Road dinosaur tracks &amp; petroglyphs stop on SR-279 (a documented roadside stop on the drive); coordinates from the place record for that stop. The road itself runs ~17 miles along the Colorado River from US-191.</li>
@@ -10850,7 +10866,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Red Hollow Slot Canyon</h4>
 <h5>Slot canyon</h5>
 <ul>
-<li><b>167. <a href="https://www.google.com/maps/search/?api=1&query=Red+Hollow+Slot+Canyon+Orderville+UT">Red Slot Canyon (Red Hollow)</a></b> — Red Hollow Slot Canyon, Orderville
+<li><b>168. <a href="https://www.google.com/maps/search/?api=1&query=Red+Hollow+Slot+Canyon+Orderville+UT">Red Slot Canyon (Red Hollow)</a></b> — Red Hollow Slot Canyon, Orderville
 <ul>
 <li><b>Best for:</b> Slot canyon — Giselle&#x27;s Zion alternative #2: a 1.2-mile round-trip slot canyon with glowing orange and pink walls. Park at the water facility at the end of Red Hollow Drive — and note the sandy road is popular with off-roaders, so it can be soft going.</li>
 <li>The reel calls it &#x27;Red Slot Canyon in Kanab&#x27; but its own access detail — park at the water facility at the end of Red Hollow Drive — identifies it as Red Hollow Slot Canyon near Orderville. Pin is the trailhead by the water tank; coordinates from two independent trail guides (37.2709, -112.6273), not OpenStreetMap.</li>
@@ -10865,7 +10881,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Toquerville Falls (La Verkin Creek)</h4>
 <h5>Waterfall</h5>
 <ul>
-<li><b>168. <a href="https://www.google.com/maps/search/?api=1&query=Toquerville+Falls+UT">Toquerville Falls</a></b> — Toquerville Falls (La Verkin Creek), Toquerville
+<li><b>169. <a href="https://www.google.com/maps/search/?api=1&query=Toquerville+Falls+UT">Toquerville Falls</a></b> — Toquerville Falls (La Verkin Creek), Toquerville
 <ul>
 <li><b>Best for:</b> Waterfall — Giselle&#x27;s Zion alternative #3: no hiking required if you have a 4x4 (don&#x27;t attempt it in a normal car) — a 5.3-mile dirt road, about 45 minutes, to falls that pour over two pour-offs on La Verkin Creek: a cascade section and a clean 20-foot drop into a pool. Free BLM land, and the swimming is incredible in summer.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/toquerville-falls">Trail page</a></li>
@@ -10881,7 +10897,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Water Canyon (Hildale)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>169. <a href="https://www.google.com/maps/search/?api=1&query=Water+Canyon+Hildale+UT">Water Canyon</a></b> — Water Canyon (Hildale), Hildale
+<li><b>170. <a href="https://www.google.com/maps/search/?api=1&query=Water+Canyon+Hildale+UT">Water Canyon</a></b> — Water Canyon (Hildale), Hildale
 <ul>
 <li><b>Best for:</b> Hike — Giselle&#x27;s Zion alternative #5: a 4.25-mile out-and-back hike (about 500 ft of gain) that ends up looking like a mini version of Zion&#x27;s Subway — and a pretty easy one. This is the one she says legit looks like the Subway.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/water-canyon-amp-squirrel-creek-loop">Trail page</a></li>
@@ -10897,7 +10913,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Zion National Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>170. <a href="https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT">Angels Landing</a></b> — Zion National Park, Springdale
+<li><b>171. <a href="https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT">Angels Landing</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike — Caption names Angels Landing in Zion National Park (caption spells it &#x27;Angel&#x27;s Landing&#x27;). No media narrative was stored for this post, so this is based on the caption and tagged location only.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/angels-landing-trail">Trail page</a></li>
@@ -10948,7 +10964,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>171. <a href="https://www.google.com/maps/search/?api=1&query=Parus+Trail+Zion+National+Park+UT">Pa&#x27;rus Trail</a></b> — Zion National Park, Springdale
+<li><b>172. <a href="https://www.google.com/maps/search/?api=1&query=Parus+Trail+Zion+National+Park+UT">Pa&#x27;rus Trail</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike / Paved, dog-friendly riverside walk along the Virgin River — Rated 5/10 in Kelley &amp; Carl&#x27;s honest ratings for Utah national park hikes — Zion&#x27;s easy paved trail from the visitor center up the Virgin River to Canyon Junction. Low score, but it&#x27;s the park&#x27;s only dog-friendly trail and fully accessible.</li>
 <li>Pin is the NPS place-record point for the Pa&#x27;rus Trail at its south (visitor center / South Campground) end.</li>
@@ -10961,7 +10977,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>172. <a href="https://www.google.com/maps/search/?api=1&query=Scout+Lookout+Zion+National+Park+UT">Scout Lookout</a></b> — Zion National Park, Springdale
+<li><b>173. <a href="https://www.google.com/maps/search/?api=1&query=Scout+Lookout+Zion+National+Park+UT">Scout Lookout</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike / West Rim Trail viewpoint — the Angels Landing approach without the chains — Rated 7/10 in Kelley &amp; Carl&#x27;s honest ratings for Utah national park hikes: Scout Lookout is the West Rim Trail&#x27;s big viewpoint at the top of Walter&#x27;s Wiggles — as far as you can go toward Angels Landing without the permit-only chains section.</li>
 <li>Pin is the OSM Scout Lookout viewpoint point on the West Rim Trail.</li>
@@ -10976,7 +10992,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>173. <a href="https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT">Subway Trail</a></b> — Zion National Park, Zion National Park
+<li><b>174. <a href="https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT">Subway Trail</a></b> — Zion National Park, Zion National Park
 <ul>
 <li><b>Best for:</b> Hike — His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/the-subway-trail">Trail page</a></li>
@@ -10989,7 +11005,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>174. <a href="https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT">The Narrows</a></b> — Zion National Park, Zion Canyon
+<li><b>175. <a href="https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT">The Narrows</a></b> — Zion National Park, Zion Canyon
 <ul>
 <li><b>Best for:</b> Hike — Ranked #4, a 10.5-mile round trip wading the Virgin River in cold water. He went in June during snowmelt and used a dry bib wetsuit.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/zion-narrows-trail-to-imlay-temple-and-big-spring">Trail page</a></li>
@@ -11022,7 +11038,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>175. <a href="https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Highway+Zion+National+Park+UT">Zion-Mount Carmel Highway</a></b> — Zion National Park, Springdale
+<li><b>176. <a href="https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Highway+Zion+National+Park+UT">Zion-Mount Carmel Highway</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Scenic drive / Historic highway and mile-long tunnel — Kelley &amp; Carl&#x27;s Zion stop on the ultimate Southwest road trip includes driving the Zion-Mount Carmel Highway — the switchbacks and 1.1-mile tunnel through the park&#x27;s east side.</li>
 <li>Pin is at the Zion-Mount Carmel Tunnel.</li>
@@ -11034,7 +11050,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>176. <a href="https://www.google.com/maps/search/?api=1&query=Zion–Mount Carmel Tunnel, Zion National Park, Springdale, Utah">Zion–Mount Carmel Tunnel</a></b> — Zion National Park, Springdale
+<li><b>177. <a href="https://www.google.com/maps/search/?api=1&query=Zion–Mount Carmel Tunnel, Zion National Park, Springdale, Utah">Zion–Mount Carmel Tunnel</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Scenic drive / 1.1-mile 1930 tunnel on the Zion–Mount Carmel Highway — Their &#x27;11/10 national park entrance&#x27;: entering Zion through the less-crowded East Entrance, the drive through the 1.1-mile 1930 tunnel bursts out into the red cliffs of Zion Canyon. Also featured in part 1 of their bucket-list USA roads series.</li>
 <li>Coordinates: National Parks Atlas (tunnel point).</li>
@@ -11052,7 +11068,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Sunrise</h5>
 <ul>
-<li><b>177. <a href="https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT">Canyon Overlook</a></b> — Zion National Park, Springdale
+<li><b>178. <a href="https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT">Canyon Overlook</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Sunrise — Ranked #3 for sunrise in the reel. Massive red rock cliffs glow bright orange as the sun hits Zion Canyon.</li>
 <li>End of the 1-mile Canyon Overlook Trail, just east of the Zion-Mount Carmel Tunnel.</li>
@@ -11075,7 +11091,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Top national park</h5>
 <ul>
-<li><b>178. <a href="https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT">Zion National Park</a></b> — Zion National Park, Springdale
+<li><b>179. <a href="https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT">Zion National Park</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Top national park — His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point.</li>
@@ -11104,7 +11120,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>View</h5>
 <ul>
-<li><b>179. <a href="https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT">Zion Canyon</a></b> — Zion National Park, Springdale
+<li><b>180. <a href="https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT">Zion Canyon</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> View — A static scenic shot of Zion Canyon: the Virgin River (name inferred from the location) flowing between massive orange-and-white striated cliffs in warm early-morning or late-afternoon light, posted as a calm, meditative nature scene.</li>
 </ul>
@@ -21251,6 +21267,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: The 5 spots you actually can't miss in Death Valley National Park: Artists Palette (pink, purple and teal hills on Artists Drive, a 9-mile one-way loop — go at blue hour); Natural Bridge (about 1 mile round trip through a canyon to a huge rock arch; the last stretch to the trailhead is gravel but most cars can handle it); Zabriskie Point (a short, steep paved walk to the most iconic view in the park — sunrise is unreal); Mesquite Flat Sand Dunes (no trail, pick a dune and wander at sunrise or sunset); Badwater Basin (282 ft below sea level, the lowest point in North America — walk out past the crowds for the real salt flats). Visit between November and March; summer is dangerously hot.
 - **[BIG things, small town — Casey, Illinois](https://www.instagram.com/reel/DeNBDKtqYPv/)** — @mccrawsonthemap · 1 places · Theme: Quirky road trip stops — Big Things Small Town
   - What the reel recommends: A small town filled with ridiculously oversized everyday objects — 12 Guinness-certified World's Largest attractions plus dozens more giants, all free and clustered around downtown, just off I-70 between Indianapolis and St. Louis. The reel names the World's Largest Wind Chime (55 ft, 109 E Main St — ring it yourself), Rocking Chair (56 ft 1 in, across the street), Mailbox (32 ft — climb inside and mail a letter), Golf Tee, Pitchfork, Wooden Shoes, Truck Key, Barber Pole, Swizzle Spoon, Teeter Totter (82 ft), Golf Club, Former World's Largest Knitting Needles & Crochet Hook, Giant Bird Cage (climb inside), Yardstick, Spinning Top, Rocking Horse, Softball Bat, Taco, Toy Glider, Wooden Token, and Antlers; the Gavel is in nearby Marshall.
+- **[The COOLEST Central Utah hike you've never heard of](https://www.instagram.com/reel/DfNsZswu-gO/)** — @seekingsalmons · 1 places · Theme: Central Utah fall hike — Maple Canyon Loop Trail
+  - What the reel recommends: A hiker's playground in Central Utah — a 2.9-mile loop through towering cobble-conglomerate cliffs with rock pinnacles, a massive cave, a natural arch, a wooden ladder and stairs, and views upon views, best in fall when the maples turn. The reel's pinnacles, cave, arch (Maple Canyon Arch, Middle Fork), ladder, and stairs are all features along the one loop trail.
 
 ## How this page is updated {#how-this-page-is-updated}
 
