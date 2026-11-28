@@ -15,7 +15,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 - [Northeast Region — 93 places](#northeast)
 - [Southeast Region — 203 places](#southeast)
 - [Midwest Region — 170 places](#midwest)
-- [Southwest Region — 180 places](#southwest)
+- [Southwest Region — 181 places](#southwest)
 - [Mountain West Region — 112 places](#mountain-west)
 - [West Region — 179 places](#west)
 - [Pacific Northwest Region — 98 places](#pacific-northwest)
@@ -28,7 +28,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## How to use this list
 
-- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 93 · Southeast 203 · Midwest 170 · Southwest 180 · Mountain West 112 · West 179 · Pacific Northwest 98 · Alaska 44 · Hawaii 18 · U.S. Territories 4 · **Total 1101**
+- 🧭 Organized **Region → State → Park or City → Activity → Trail or Site** — e.g. Southwest → Utah → Zion National Park → Sunrise → Canyon Overlook. Counts: Northeast 93 · Southeast 203 · Midwest 170 · Southwest 181 · Mountain West 112 · West 179 · Pacific Northwest 98 · Alaska 44 · Hawaii 18 · U.S. Territories 4 · **Total 1102**
 - 🔽 Each state is a dropdown — tap it to expand its places.
 - 📍 Every place name links to its Google Maps location. Each entry also shows what the reel recommended it for and links to that reel.
 - 🎬 **Source reel** links go back to the original Instagram reel, so you can re-watch why it was saved — tap the **🎬 Sources** dropdown under any place to see them.
@@ -7587,7 +7587,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 
 ## Southwest Region {#southwest}
 
-**180 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
+**181 places · Arizona, Colorado, Nevada, New Mexico, Texas, Utah**
 
 <details><summary><b>Arizona</b> — 55 places</summary>
 <h4>Canyon de Chelly National Monument</h4>
@@ -9786,7 +9786,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 
-<details><summary><b>Utah</b> — 66 places</summary>
+<details><summary><b>Utah</b> — 67 places</summary>
 <h4>Arches National Park</h4>
 <h5>Hike</h5>
 <ul>
@@ -10894,10 +10894,25 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </details>
 </li>
 </ul>
+<h4>Utah Highway 261</h4>
+<h5>Scenic drive · Cliffside switchbacks, desert views</h5>
+<ul>
+<li><b>170. <a href="https://www.google.com/maps/search/?api=1&query=Moki+Dugway+Utah+Highway+261">Moki Dugway</a></b> — Utah Highway 261, Mexican Hat
+<ul>
+<li><b>Best for:</b> Scenic drive · Cliffside switchbacks, desert views — One of Utah&#x27;s most terrifying yet breathtaking roads — 3 miles of steep, unpaved switchbacks carved into the cliff face of Cedar Mesa, climbing ~1,200 feet at grades up to 11%, with dramatic drop-offs, limited guardrails, and incredible views of Valley of the Gods and Monument Valley. Free to drive.</li>
+<li>A 3-mile unpaved stretch of Utah Highway 261 in San Juan County, southeastern Utah, climbing the cliff face of Cedar Mesa in tight switchbacks at up to 11% grade, with ~1,200 ft of elevation change. Built in the 1950s by miners to haul uranium ore; now part of the Trail of the Ancients scenic byway, connecting US-163 (near Mexican Hat, ~24 mi south) with UT-95 at the top of Cedar Mesa. Not recommended for large RVs or vehicles towing trailers; drive slowly, check road conditions before visiting, and avoid it in severe weather. From the road there are sweeping views of Valley of the Gods below and Monument Valley in the distance; Muley Point overlook is a left turn at the top of the Dugway, about 5 miles on. Also spelled Mokee / Moqui Dugway. Coordinate is the published aroundus.com point for the switchback road (37.2755, -109.94004); USGS GNIS via TopoQuest lists the Moki Dugway locale at 37.27444, -109.93998, within ~10 m.</li>
+</ul>
+<details><summary>🎬 Sources</summary>
+<ul>
+<li><a href="https://www.instagram.com/reel/DgSa1t8gziL/">My husband said he found a scenic shortcut in Utah — Moki Dugway</a> by @adventurefamilyvlog</li>
+</ul>
+</details>
+</li>
+</ul>
 <h4>Water Canyon (Hildale)</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>170. <a href="https://www.google.com/maps/search/?api=1&query=Water+Canyon+Hildale+UT">Water Canyon</a></b> — Water Canyon (Hildale), Hildale
+<li><b>171. <a href="https://www.google.com/maps/search/?api=1&query=Water+Canyon+Hildale+UT">Water Canyon</a></b> — Water Canyon (Hildale), Hildale
 <ul>
 <li><b>Best for:</b> Hike — Giselle&#x27;s Zion alternative #5: a 4.25-mile out-and-back hike (about 500 ft of gain) that ends up looking like a mini version of Zion&#x27;s Subway — and a pretty easy one. This is the one she says legit looks like the Subway.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/water-canyon-amp-squirrel-creek-loop">Trail page</a></li>
@@ -10913,7 +10928,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <h4>Zion National Park</h4>
 <h5>Hike</h5>
 <ul>
-<li><b>171. <a href="https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT">Angels Landing</a></b> — Zion National Park, Springdale
+<li><b>172. <a href="https://www.google.com/maps/search/?api=1&query=Angels+Landing+Zion+National+Park+UT">Angels Landing</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike — Caption names Angels Landing in Zion National Park (caption spells it &#x27;Angel&#x27;s Landing&#x27;). No media narrative was stored for this post, so this is based on the caption and tagged location only.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/angels-landing-trail">Trail page</a></li>
@@ -10964,7 +10979,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>172. <a href="https://www.google.com/maps/search/?api=1&query=Parus+Trail+Zion+National+Park+UT">Pa&#x27;rus Trail</a></b> — Zion National Park, Springdale
+<li><b>173. <a href="https://www.google.com/maps/search/?api=1&query=Parus+Trail+Zion+National+Park+UT">Pa&#x27;rus Trail</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike / Paved, dog-friendly riverside walk along the Virgin River — Rated 5/10 in Kelley &amp; Carl&#x27;s honest ratings for Utah national park hikes — Zion&#x27;s easy paved trail from the visitor center up the Virgin River to Canyon Junction. Low score, but it&#x27;s the park&#x27;s only dog-friendly trail and fully accessible.</li>
 <li>Pin is the NPS place-record point for the Pa&#x27;rus Trail at its south (visitor center / South Campground) end.</li>
@@ -10977,7 +10992,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>173. <a href="https://www.google.com/maps/search/?api=1&query=Scout+Lookout+Zion+National+Park+UT">Scout Lookout</a></b> — Zion National Park, Springdale
+<li><b>174. <a href="https://www.google.com/maps/search/?api=1&query=Scout+Lookout+Zion+National+Park+UT">Scout Lookout</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Hike / West Rim Trail viewpoint — the Angels Landing approach without the chains — Rated 7/10 in Kelley &amp; Carl&#x27;s honest ratings for Utah national park hikes: Scout Lookout is the West Rim Trail&#x27;s big viewpoint at the top of Walter&#x27;s Wiggles — as far as you can go toward Angels Landing without the permit-only chains section.</li>
 <li>Pin is the OSM Scout Lookout viewpoint point on the West Rim Trail.</li>
@@ -10992,7 +11007,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>174. <a href="https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT">Subway Trail</a></b> — Zion National Park, Zion National Park
+<li><b>175. <a href="https://www.google.com/maps/search/?api=1&query=Subway+Trail+Zion+National+Park+UT">Subway Trail</a></b> — Zion National Park, Zion National Park
 <ul>
 <li><b>Best for:</b> Hike — His #4 hike: the Subway Trail in Zion National Park, described as requiring a permit and featuring a unique cave-like canyon with waterfalls and stream crossings.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/the-subway-trail">Trail page</a></li>
@@ -11005,7 +11020,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>175. <a href="https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT">The Narrows</a></b> — Zion National Park, Zion Canyon
+<li><b>176. <a href="https://www.google.com/maps/search/?api=1&query=The+Narrows+Zion+National+Park+UT">The Narrows</a></b> — Zion National Park, Zion Canyon
 <ul>
 <li><b>Best for:</b> Hike — Ranked #4, a 10.5-mile round trip wading the Virgin River in cold water. He went in June during snowmelt and used a dry bib wetsuit.</li>
 <li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/utah/zion-narrows-trail-to-imlay-temple-and-big-spring">Trail page</a></li>
@@ -11038,7 +11053,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Scenic drive</h5>
 <ul>
-<li><b>176. <a href="https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Highway+Zion+National+Park+UT">Zion-Mount Carmel Highway</a></b> — Zion National Park, Springdale
+<li><b>177. <a href="https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Highway+Zion+National+Park+UT">Zion-Mount Carmel Highway</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Scenic drive / Historic highway and mile-long tunnel — Kelley &amp; Carl&#x27;s Zion stop on the ultimate Southwest road trip includes driving the Zion-Mount Carmel Highway — the switchbacks and 1.1-mile tunnel through the park&#x27;s east side.</li>
 <li>Pin is at the Zion-Mount Carmel Tunnel.</li>
@@ -11050,7 +11065,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 </details>
 </li>
-<li><b>177. <a href="https://www.google.com/maps/search/?api=1&query=Zion–Mount Carmel Tunnel, Zion National Park, Springdale, Utah">Zion–Mount Carmel Tunnel</a></b> — Zion National Park, Springdale
+<li><b>178. <a href="https://www.google.com/maps/search/?api=1&query=Zion–Mount Carmel Tunnel, Zion National Park, Springdale, Utah">Zion–Mount Carmel Tunnel</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Scenic drive / 1.1-mile 1930 tunnel on the Zion–Mount Carmel Highway — Their &#x27;11/10 national park entrance&#x27;: entering Zion through the less-crowded East Entrance, the drive through the 1.1-mile 1930 tunnel bursts out into the red cliffs of Zion Canyon. Also featured in part 1 of their bucket-list USA roads series.</li>
 <li>Coordinates: National Parks Atlas (tunnel point).</li>
@@ -11068,7 +11083,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Sunrise</h5>
 <ul>
-<li><b>178. <a href="https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT">Canyon Overlook</a></b> — Zion National Park, Springdale
+<li><b>179. <a href="https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park+UT">Canyon Overlook</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Sunrise — Ranked #3 for sunrise in the reel. Massive red rock cliffs glow bright orange as the sun hits Zion Canyon.</li>
 <li>End of the 1-mile Canyon Overlook Trail, just east of the Zion-Mount Carmel Tunnel.</li>
@@ -11091,7 +11106,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>Top national park</h5>
 <ul>
-<li><b>179. <a href="https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT">Zion National Park</a></b> — Zion National Park, Springdale
+<li><b>180. <a href="https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Zion+National+Park+UT">Zion National Park</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> Top national park — His #7 national park: Zion, shown with narrow slot canyons and hikers wading through water.</li>
 <li>Park-level pin is the park&#x27;s Nominatim point.</li>
@@ -11120,7 +11135,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 </ul>
 <h5>View</h5>
 <ul>
-<li><b>180. <a href="https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT">Zion Canyon</a></b> — Zion National Park, Springdale
+<li><b>181. <a href="https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Zion+National+Park+UT">Zion Canyon</a></b> — Zion National Park, Springdale
 <ul>
 <li><b>Best for:</b> View — A static scenic shot of Zion Canyon: the Virgin River (name inferred from the location) flowing between massive orange-and-white striated cliffs in warm early-morning or late-afternoon light, posted as a calm, meditative nature scene.</li>
 </ul>
@@ -21300,6 +21315,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: A hiker's playground in Central Utah — a 2.9-mile loop through towering cobble-conglomerate cliffs with rock pinnacles, a massive cave, a natural arch, a wooden ladder and stairs, and views upon views, best in fall when the maples turn. The reel's pinnacles, cave, arch (Maple Canyon Arch, Middle Fork), ladder, and stairs are all features along the one loop trail.
 - **[Ultimate Death Valley National Park Guide](https://www.instagram.com/reel/DgQs-yphQLl/)** — @theloverspassport · 8 places · Theme: Death Valley National Park guide — 8 must-see spots
   - What the reel recommends: An 8-stop Death Valley guide: Artist's Palette, Mesquite Flat Sand Dunes, Badwater Basin, Dante's View, Golden Canyon, Eureka Sand Dunes, Sidewinder Canyon, and Zabriskie Point — presented as an underrated winter-visit park. Eureka Sand Dunes and Sidewinder Canyon were new pins from this reel; the other six were already on the map.
+- **[My husband said he found a scenic shortcut in Utah — Moki Dugway](https://www.instagram.com/reel/DgSa1t8gziL/)** — @adventurefamilyvlog · 1 places · Theme: Scenic drive — Moki Dugway, Utah Highway 261
+  - What the reel recommends: One of Utah's most terrifying yet breathtaking roads — 3 miles of steep, unpaved switchbacks carved into the cliff face of Cedar Mesa, climbing ~1,200 feet at grades up to 11%, with dramatic drop-offs, limited guardrails, and incredible views of Valley of the Gods and Monument Valley. Valley of the Gods and Monument Valley are named only as views from the road, not as stops.
 
 ## How this page is updated {#how-this-page-is-updated}
 
