@@ -14976,11 +14976,13 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><b>117. <a href="https://www.google.com/maps/search/?api=1&query=Balconies Cave Trail, Pinnacles National Park, Pinnacles National Park, California">Balconies Cave Trail</a></b> — Pinnacles National Park, Pinnacles National Park
 <ul>
 <li><b>Best for:</b> Hike — Route 2 to High Peaks: &#x27;High Peaks &amp; Balconies Cave Loop&#x27; — the talus cave trail from the Chaparral trailhead on the west side, through boulder-filled passages (flashlight needed) to the Balconies Cliffs.</li>
+<li>🥾 AllTrails: <a href="https://www.alltrails.com/trail/us/california/high-peaks-balconies-cave-pinnacles-nm">Trail page</a></li>
 <li>Coordinates: Balconies Cave place record (36.498154, -121.203042); trailhead at Chaparral Picnic Area, west side.</li>
 </ul>
 <details><summary>🎬 Sources</summary>
 <ul>
 <li><a href="https://www.instagram.com/reel/Dfn4cPMv1WI/">Talk about a crazy bucket list national park hike</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/p/DgGWiR4ElNA/">The only trail you need when visiting Pinnacles National Park</a> by @rojanearnsxp</li>
 </ul>
 </details>
 </li>
@@ -15009,6 +15011,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <li><a href="https://www.instagram.com/p/DfWCdSdPdQo/">4 national parks, 1 epic road trip — California</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/DeaPF1lJZ0Z/">High Peaks Trail — a crazy bucket list hike at Pinnacles</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/reel/Dfn4cPMv1WI/">Talk about a crazy bucket list national park hike</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/p/DgGWiR4ElNA/">The only trail you need when visiting Pinnacles National Park</a> by @rojanearnsxp</li>
 </ul>
 </details>
 </li>
@@ -21344,6 +21347,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Face Rock State Scenic Viewpoint in Bandon, Oregon — a quieter Oregon Coast favorite over Cannon Beach, with a face-shaped sea stack, explorable sea caves, massive rock formations and tide pools, few other people around, and horseback riders on the beach at sunset. Cannon Beach is named only as the comparison, not recommended; no Cannon Beach pin is created.
 - **[one of my favs (all year round) — Ledges Trail](https://www.instagram.com/reel/Df3Q_xQuG5o/)** — @jennadiblasi · 1 places · Theme: Cuyahoga Valley — Ledges Trail
   - What the reel recommends: Jenna calls the Ledges Trail the #1 hike in Ohio — her year-round favorite in Cuyahoga Valley National Park: a loop past massive layered sandstone ledges and moss-covered boulders, with an overlook and a sunset finish. The pin already existed from the @kelleyandcarlsadventures guide, so this reel is a second source on it; no mileage is restated (the pin keeps its NPS 2.2-mile figure).
+- **[The only trail you need when visiting Pinnacles National Park](https://www.instagram.com/p/DgGWiR4ElNA/)** — @rojanearnsxp · 2 places · Theme: Pinnacles National Park — High Peaks and Balconies Cave Loop
+  - What the reel recommends: Sam's pick for the one trail at Pinnacles National Park: the High Peaks and Balconies Cave Loop, 8.6 miles with 1,831 ft of gain — rock formations, caves and bats, and if you're lucky, the critically endangered California condor. Both component trails were already pinned, so the post attaches as a source on both; no new pin for the loop itself, and no source on the park pin.
 
 ## How this page is updated {#how-this-page-is-updated}
 
