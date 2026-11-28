@@ -6808,6 +6808,7 @@ title: Reel Places — Locations from Instagram Reels, by Region
 <ul>
 <li><a href="https://www.instagram.com/reel/DSiPTMSiarb/">We did not expect to have this much fun in Cuyahoga Valley</a> by @kelleyandcarlsadventures</li>
 <li><a href="https://www.instagram.com/p/DKiL3oyRKIc/">10 things you can&#x27;t miss in Cuyahoga Valley</a> by @kelleyandcarlsadventures</li>
+<li><a href="https://www.instagram.com/reel/Df3Q_xQuG5o/">one of my favs (all year round) — Ledges Trail</a> by @jennadiblasi</li>
 </ul>
 </details>
 </li>
@@ -21341,6 +21342,8 @@ title: Reel Places — Locations from Instagram Reels, by Region
   - What the reel recommends: Moonscape Overlook near Hanksville, Utah — a lunar-like badlands landscape, free to visit, best at sunrise and sunset, high-clearance recommended, unpaved roads impassable when wet, unprotected cliff edges, no facilities, limited cell service. The video shows Moonscape Overlook only; Factory Butte, Bentonite Hills, and Capitol Reef National Park are named in the caption as nearby stops to pair with the overlook, not shown in the video.
 - **[We liked this Oregon Coast beach MORE than Cannon Beach — Face Rock State Scenic Viewpoint](https://www.instagram.com/reel/DfnkHAvhnVM/)** — @organized_adventurer · 1 places · Theme: Oregon Coast road trip — Face Rock beats Cannon Beach
   - What the reel recommends: Face Rock State Scenic Viewpoint in Bandon, Oregon — a quieter Oregon Coast favorite over Cannon Beach, with a face-shaped sea stack, explorable sea caves, massive rock formations and tide pools, few other people around, and horseback riders on the beach at sunset. Cannon Beach is named only as the comparison, not recommended; no Cannon Beach pin is created.
+- **[one of my favs (all year round) — Ledges Trail](https://www.instagram.com/reel/Df3Q_xQuG5o/)** — @jennadiblasi · 1 places · Theme: Cuyahoga Valley — Ledges Trail
+  - What the reel recommends: Jenna calls the Ledges Trail the #1 hike in Ohio — her year-round favorite in Cuyahoga Valley National Park: a loop past massive layered sandstone ledges and moss-covered boulders, with an overlook and a sunset finish. The pin already existed from the @kelleyandcarlsadventures guide, so this reel is a second source on it; no mileage is restated (the pin keeps its NPS 2.2-mile figure).
 
 ## How this page is updated {#how-this-page-is-updated}
 
