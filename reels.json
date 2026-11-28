@@ -21464,6 +21464,24 @@
       "places_count": 1,
       "duplicate_place": false,
       "recommendation_summary": "One of Utah's most terrifying yet breathtaking roads — 3 miles of steep, unpaved switchbacks carved into the cliff face of Cedar Mesa, climbing ~1,200 feet at grades up to 11%, with dramatic drop-offs, limited guardrails, and incredible views of Valley of the Gods and Monument Valley. Valley of the Gods and Monument Valley are named only as views from the road, not as stops."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DgSeCRsx5ER/",
+      "title": "You don't need NASA to visit the moon — Moonscape Overlook",
+      "creator": "@adventurefamilyvlog",
+      "creator_name": "Heather & Jesse Gariepy | Family Bucket List Travel",
+      "theme": "Utah road trip — Moonscape Overlook",
+      "posted": "2026-11-28",
+      "added": "2026-11-28",
+      "place_ids": [
+        "moonscape-overlook-ut",
+        "factory-butte-ut",
+        "bentonite-hills-ut",
+        "capitol-reef-national-park-ut"
+      ],
+      "places_count": 4,
+      "duplicate_place": true,
+      "recommendation_summary": "Moonscape Overlook near Hanksville, Utah — a lunar-like badlands landscape, free to visit, best at sunrise and sunset, high-clearance recommended, unpaved roads impassable when wet, unprotected cliff edges, no facilities, limited cell service. The video shows Moonscape Overlook only; Factory Butte, Bentonite Hills, and Capitol Reef National Park are named in the caption as nearby stops to pair with the overlook, not shown in the video."
     }
   ]
 }
