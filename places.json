@@ -8899,6 +8899,15 @@
      "source_reel": "https://www.instagram.com/reel/Dfn4cPMv1WI/",
      "source_reel_theme": "High Peaks Trail, Pinnacles",
      "source_title": "Talk about a crazy bucket list national park hike"
+    },
+    {
+     "best_for": "Hike / High Peaks and Balconies Cave Loop — rock formations, caves, condors",
+     "recommendation": "The only trail you need at Pinnacles: the High Peaks and Balconies Cave Loop, 8.6 miles with 1,831 ft of gain — cool rock formations, caves and bats, and if you're lucky, the California condor, America's largest bird. (The condor is a wildlife-sighting hope, not a destination.)",
+     "source_creator": "@rojanearnsxp",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DgGWiR4ElNA/",
+     "source_reel_theme": "Pinnacles National Park — High Peaks and Balconies Cave Loop",
+     "source_title": "The only trail you need when visiting Pinnacles National Park"
     }
    ]
   },
@@ -50871,8 +50880,19 @@
    "source_creator": "@kelleyandcarlsadventures",
    "source_rank": null,
    "source_reel_theme": "High Peaks Trail, Pinnacles",
-   "additional_sources": [],
-   "note": "Coordinates: Balconies Cave place record (36.498154, -121.203042); trailhead at Chaparral Picnic Area, west side."
+   "additional_sources": [
+    {
+     "best_for": "Hike / High Peaks and Balconies Cave Loop — rock formations, caves, condors",
+     "recommendation": "The only trail you need at Pinnacles: the High Peaks and Balconies Cave Loop, 8.6 miles with 1,831 ft of gain — cool rock formations, caves and bats, and if you're lucky, the California condor, America's largest bird. (The condor is a wildlife-sighting hope, not a destination.)",
+     "source_creator": "@rojanearnsxp",
+     "source_rank": null,
+     "source_reel": "https://www.instagram.com/p/DgGWiR4ElNA/",
+     "source_reel_theme": "Pinnacles National Park — High Peaks and Balconies Cave Loop",
+     "source_title": "The only trail you need when visiting Pinnacles National Park"
+    }
+   ],
+   "note": "Coordinates: Balconies Cave place record (36.498154, -121.203042); trailhead at Chaparral Picnic Area, west side.",
+   "alltrails_url": "https://www.alltrails.com/trail/us/california/high-peaks-balconies-cave-pinnacles-nm"
   },
   {
    "id": "juniper-canyon-trail-ca",
